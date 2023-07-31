@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 126131,
+  "num_followers": 126152,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGExMDI2Nzg0YTM0OTk0ODIyYjgzMjU3MDNlYjZiMjg2ZjNmNmRi",
+  "snapshot_id": "MCxlOTg1Y2Y4ZWYzNWMzNzVjMjY3ZDk3ZDg0YmUxZTJmNTA3YTgwOTU5",
   "tracks": [
     {
       "added_at": "2023-07-25 15:00:00",
@@ -319,18 +319,22 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Acoustic Versions",
-        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
+        "name": "Love (feat. Skaai)",
+        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
         }
       ],
-      "duration_ms": 132390,
-      "name": "Midnight Song",
-      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
+      "duration_ms": 258920,
+      "name": "Love (feat. Skaai)",
+      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -351,22 +355,18 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Love (feat. Skaai)",
-        "url": "https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd"
+        "name": "Acoustic Versions",
+        "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
-        },
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Love (feat. Skaai)",
-      "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
+      "duration_ms": 132390,
+      "name": "Midnight Song",
+      "url": "https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Roundabout",
-        "url": "https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe"
+        "name": "\u7126\u304c\u308cNight",
+        "url": "https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2"
       },
       "artists": [
         {
-          "name": "\u660e\u661f <Akeboshi>",
-          "url": "https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa"
+          "name": "yonawo",
+          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
         }
       ],
-      "duration_ms": 308946,
-      "name": "Yellow Moon",
-      "url": "https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF"
+      "duration_ms": 235438,
+      "name": "\u7126\u304c\u308cNight",
+      "url": "https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "\u7126\u304c\u308cNight",
-        "url": "https://open.spotify.com/album/5KrrC445nlotY96Ifz3gA2"
+        "name": "Roundabout",
+        "url": "https://open.spotify.com/album/07b8jFWroRWTpEWF8SrDLe"
       },
       "artists": [
         {
-          "name": "yonawo",
-          "url": "https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ"
+          "name": "\u660e\u661f <Akeboshi>",
+          "url": "https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa"
         }
       ],
-      "duration_ms": 235438,
-      "name": "\u7126\u304c\u308cNight",
-      "url": "https://open.spotify.com/track/4tcU2rCJGCERolNoWf1EGG"
+      "duration_ms": 308946,
+      "name": "Yellow Moon",
+      "url": "https://open.spotify.com/track/3nPTeT1tp6GmHjmBFnCSzF"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 (2023 Remaster)",
-        "url": "https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B"
-      },
-      "artists": [
-        {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
-        }
-      ],
-      "duration_ms": 273159,
-      "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 - 2023 Remaster",
-      "url": "https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "early summer 2022",
         "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 (2023 Remaster)",
+        "url": "https://open.spotify.com/album/6Dvay3MPtCgstPLnpSJk6B"
+      },
+      "artists": [
+        {
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+        }
+      ],
+      "duration_ms": 273159,
+      "name": "\u6625\u306b\u3057\u3066\u541b\u3092\u60f3\u3046 - 2023 Remaster",
+      "url": "https://open.spotify.com/track/5BHGLIAY6suHlO4G8mlcTe"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
         "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
         "url": "https://open.spotify.com/album/69O6a8s4FMk37vtSs4qjU0"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
         "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 310520,
       "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
       "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "ohashiTrio best Too",
+        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 337898,
+      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "ohashiTrio best Too",
-        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 337898,
-      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "Sleeping in Waking",
         "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 233887,
       "name": "Sleeping in Waking",
       "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Retronym",
-        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
-      },
-      "artists": [
-        {
-          "name": "NRQ",
-          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
-      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
         "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 67203,
       "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
       "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "Retronym",
+        "url": "https://open.spotify.com/album/0l7UtNpyBJeATV6nnvdZpj"
+      },
+      "artists": [
+        {
+          "name": "NRQ",
+          "url": "https://open.spotify.com/artist/55EEMVysOzhsLWSDzB5zhf"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "\u5728\u5b85\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/75RAICYI4nhGPiiVJwSO8e"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
+        "name": "Apartment",
+        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+        }
+      ],
+      "duration_ms": 243846,
+      "name": "Apartment",
+      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
         "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
         "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
       },
@@ -1263,18 +1279,38 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Apartment",
-        "url": "https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT"
+        "name": "Night Flow",
+        "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
       "artists": [
         {
-          "name": "Hikaru Arata",
-          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "\u30a4\u30ce\u30a6\u30a8\u30ef\u30e9\u30d3",
+          "url": "https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44"
         }
       ],
-      "duration_ms": 243846,
-      "name": "Apartment",
-      "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+      "duration_ms": 249940,
+      "name": "reiji no machi",
+      "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
     },
     {
       "added_at": "2023-07-25 15:00:00",
@@ -1307,42 +1343,6 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
-        "name": "Night Flow",
-        "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
-          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
-        },
-        {
-          "name": "\u30a4\u30ce\u30a6\u30a8\u30ef\u30e9\u30d3",
-          "url": "https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "reiji no machi",
-      "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

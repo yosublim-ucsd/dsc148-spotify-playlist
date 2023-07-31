@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,104 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,148 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 23 | [و كأنك سكر](https://open.spotify.com/track/15h5ScWGj3I5ug5IWTMvFc) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [و كأنك سكر](https://open.spotify.com/album/1GCEK4U0hPAG4QJi9Blq4z) | 3:48 |
 | 24 | [Nasskha Menni](https://open.spotify.com/track/6P2lURWGJdFnLDz0p1RUSS) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Nasskha Menni](https://open.spotify.com/album/3ZfctpYyVO0LKI61ShOV1T) | 3:29 |
 | 25 | [الى من](https://open.spotify.com/track/2sT7usmmVUeFZjnSRSBWxD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [الى من](https://open.spotify.com/album/2rlw0EdR9PfNaGCO2y02EP) | 3:19 |
-| 26 | [Ya Lali](https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ya Lali](https://open.spotify.com/album/5h91hNUsiZ9hjuU99fERoi) | 2:36 |
-| 27 | [Ensan 2ali](https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Ensan 2ali](https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M) | 3:28 |
+| 26 | [Ensan 2ali](https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Ensan 2ali](https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M) | 3:28 |
+| 27 | [Ya Lali](https://open.spotify.com/track/0yTenAHL5lYER6mzMR00Wp) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ya Lali](https://open.spotify.com/album/5h91hNUsiZ9hjuU99fERoi) | 2:36 |
 | 28 | [Milyar](https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Milyar](https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC) | 3:49 |
 | 29 | [Kalam El Hob](https://open.spotify.com/track/6lE3VAWIsaXGw4H67spRsp) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Kalam El Hob](https://open.spotify.com/album/6h3n3RjjTLFtcRzpppOUoO) | 3:46 |
 | 30 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 | 44 | [Feeling Cool](https://open.spotify.com/track/2qkhYIpplFRmIqVAG5QfYG) | [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w) | [Feeling Cool](https://open.spotify.com/album/28LsjxEF3blmrXgGwGzeVT) | 2:42 |
 | 45 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 |
 | 46 | [Ahenu Ilayka](https://open.spotify.com/track/1cMmjfiraN9MdBMliiJDrR) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Ahenu Ilayka](https://open.spotify.com/album/2WrO9FMMDPLcIRrwag5v4A) | 3:42 |
-| 47 | [BOCCA](https://open.spotify.com/track/79GxUcFnt64I2TS1sJsfuB) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [BOCCA](https://open.spotify.com/album/34dzNc340Motb5uIZVI1WJ) | 2:52 |
-| 48 | [Ergaa Ya Zaman](https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 2:21 |
-| 49 | [Bab ElTayaba](https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA) | [Nourhane Al Morshidy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Bab ElTayaba](https://open.spotify.com/album/48tYyb8VGC5WRrDCHZmbMD) | 3:50 |
+| 47 | [Bab ElTayaba](https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA) | [Nourhane Al Morshidy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Bab ElTayaba](https://open.spotify.com/album/48tYyb8VGC5WRrDCHZmbMD) | 3:50 |
+| 48 | [BOCCA](https://open.spotify.com/track/79GxUcFnt64I2TS1sJsfuB) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [BOCCA](https://open.spotify.com/album/34dzNc340Motb5uIZVI1WJ) | 2:52 |
+| 49 | [Ergaa Ya Zaman](https://open.spotify.com/track/3Qe19N89iEGLX7CqhyhuXU) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nostalgic Tunes](https://open.spotify.com/album/08oinkS3h7CesbkNVo9LSj) | 2:21 |
 | 50 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 |
 
-Snapshot ID: `MCw5OWYyZDBjNjBjMGJiOGJiYjBlZTcyOGFkZmQ3MjRhY2M3MWNmZTU4`
+Snapshot ID: `MCxmMWEwM2EyMjFlMjhmYjUyNTM4MmExZmViMWFlZGZlNzA5Yzg1MDM5`

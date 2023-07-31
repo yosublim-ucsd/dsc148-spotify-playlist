@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "Fiza (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/70pmpUOtbnOc5YtuH20ehU"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Prasanta A Samadhar",
+          "url": "https://open.spotify.com/artist/0WUykTmuOcYbFgu3L6lO0L"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402840,
+      "name": "Aaja Mahiya",
+      "url": "https://open.spotify.com/track/0D0lefqSgNAAoXfuQgsRUo"
+    },
+    {
+      "album": {
         "name": "Aaja Nachle",
         "url": "https://open.spotify.com/album/4ONIL6w6cUj2ArNYM6V4CL"
       },
@@ -2384,7 +2410,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 250920,
       "name": "Hai Mera Dil",
       "url": "https://open.spotify.com/track/7LAwdDzta1roB9n4GuVpzG"

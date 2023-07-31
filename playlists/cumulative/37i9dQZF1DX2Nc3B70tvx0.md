@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's beautiful return
 
-1,714 songs - 4 day 6 hr 53 min
+1,715 songs - 4 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 | 2019-05-26\* | 2019-10-04 |
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2020-09-04 | 2021-03-06 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2022-01-14 | 2022-01-15 |
+| [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-28 |  |
 | [Back on the Fence](https://open.spotify.com/track/4l9ySYsdTRMiUZdNfI0iLR) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM), [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Back on the Fence](https://open.spotify.com/album/2GHFkUpqWavyXAVfy6xwLF) | 3:51 | 2020-12-22 | 2021-03-16 |
 | [Back To Oz](https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Back to Oz / Fictional California](https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM) | 4:12 | 2021-08-20 | 2022-04-08 |
 | [Back To The Radio](https://open.spotify.com/track/3UwdNQUttlGa8fX1Jq7VeN) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Back To The Radio](https://open.spotify.com/album/1o0lARFP2l0SYsY6H8PeGY) | 3:07 | 2022-03-03 | 2022-04-21 |
@@ -169,7 +170,7 @@
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-05-22 | 2021-10-16 |
 | [Bending Hectic](https://open.spotify.com/track/2tA4gq8tO9TPPPpbgK5n4w) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bending Hectic](https://open.spotify.com/album/17lXqRgpU1SQ4glWoR7ABk) | 8:00 | 2023-06-30 |  |
 | [Berlin](https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Berlin](https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu) | 3:39 | 2020-08-07 | 2021-03-23 |
-| [Best Disaster](https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Best Disaster](https://open.spotify.com/album/5BMoArQlFykRWUh120Hcdh) | 2:53 | 2023-02-24 |  |
+| [Best Disaster](https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Best Disaster](https://open.spotify.com/album/5BMoArQlFykRWUh120Hcdh) | 2:53 | 2023-02-24 | 2023-07-31 |
 | [Best Friend](https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Best Friend](https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW) | 2:43 | 2023-04-14 | 2023-05-20 |
 | [Best I Ever Had](https://open.spotify.com/track/4yYixO4SqiqqWqWA9uSXDq) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Best I Ever Had](https://open.spotify.com/album/0sGQtJGb7Sz4AbsSvUYmcW) | 4:03 | 2020-10-29 | 2021-10-12 |
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-07-18 |  |

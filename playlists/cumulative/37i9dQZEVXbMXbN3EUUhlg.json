@@ -3356,7 +3356,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 168000,
       "name": "Cora\u00e7\u00e3o de Gelo",
       "url": "https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei"
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 145091,
       "name": "DONA DE MIM",
       "url": "https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 199384,
       "name": "Ela Voltou de Perna Bamba",
       "url": "https://open.spotify.com/track/745VUhm32odbxJI2q1rUMv"
@@ -11066,7 +11066,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 152085,
       "name": "Pirulito Vermelho",
       "url": "https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ"
@@ -12388,7 +12388,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 194850,
       "name": "Saudade da Minha Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/51FFbyL0PjkYtjXJQP0JoP"
@@ -12528,7 +12528,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 104145,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/6hu4HvpNzrW2RIEEAZC3vD"
@@ -12946,7 +12946,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 184400,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
@@ -13822,6 +13822,24 @@
       "duration_ms": 159146,
       "name": "Tipo Gin - Ao Vivo",
       "url": "https://open.spotify.com/track/4llr8mcoauwrHBtjGb7F9S"
+    },
+    {
+      "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Toca o Trompete",
+      "url": "https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB"
     },
     {
       "album": {

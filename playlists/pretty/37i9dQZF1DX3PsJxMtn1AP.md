@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,366 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,427 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 22 | [Dibujos De Mi Alma](https://open.spotify.com/track/1GXm4Dv2NiM8QLui2l4Wls) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:12 |
 | 23 | [Going Up](https://open.spotify.com/track/5133gwoZONwiUL9LxKAmJt) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [ANIMALS](https://open.spotify.com/album/6oRVOPA5BEzqm6j8RCQR19) | 6:13 |
 | 24 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Every Day's A Lesson In Humility](https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V) | 3:36 |
-| 25 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 |
+| 25 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 |
 | 26 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 |
 | 27 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 28 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 |
 | 50 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
 
-Snapshot ID: `MCwzYzc3NWZjYzM3YTE1ZWRlMTNmMTMzOTY5ZmY4YzU1ZGUzOWUyMGE4`
+Snapshot ID: `MCw5NWZiNGU2ODA1ZTU1NjhhYTljOWFkZWNjOGMwZjM1YTFiZTM2YmJk`

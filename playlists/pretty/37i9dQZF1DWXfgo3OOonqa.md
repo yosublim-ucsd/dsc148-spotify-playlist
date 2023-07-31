@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 100 LIVE @ Way Out West 2023: Dizzy, Jelassi, Mohelá m.fl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,962 likes - 85 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,972 likes - 85 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [Pablo](https://open.spotify.com/track/0fHJ8xrYIhawesbLtikgcm) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Pablo](https://open.spotify.com/album/0vJcsEKcYO6LVk852WPEhJ) | 2:30 |
 | 85 | [Toto rina](https://open.spotify.com/track/77bdp38VGyb4Enx0XbqgbY) | [5iftyy](https://open.spotify.com/artist/56hM6Y3Cw2g8xZOfZrHBuS) | [Toto rina](https://open.spotify.com/album/4I5H3GeBfZv63q40EVKezK) | 3:00 |
 
-Snapshot ID: `MCw4ZDA0ZTQzMmY4YzViYTMwYTA4YTUxYzVjZGI3ZjM4YzQ5MzBjNjlj`
+Snapshot ID: `MCw1YzM4ZTI4NDJlYjg3NmIxODU2ZDc4ZDU1NmRlOTJmYzNkMjBlNjQz`

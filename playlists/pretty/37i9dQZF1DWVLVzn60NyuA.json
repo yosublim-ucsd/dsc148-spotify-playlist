@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 274062,
+  "num_followers": 274330,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTFjMGQ0MDIzYTQ3ODdlY2EyNjUxZjJiNTlkZTY3Y2M4MWE2MGY3",
+  "snapshot_id": "MCxjMjI4YzRhY2Y0YzMwODQ1MjU3NjVmZTExOGJmNjYyZmEwM2RmZjZk",
   "tracks": [
     {
       "added_at": "2023-07-14 07:39:55",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Ghazali (feat. Bryan Mg)",
-        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Ghazali (feat. Bryan Mg)",
-      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Ghazali (feat. Bryan Mg)",
+        "url": "https://open.spotify.com/album/1LBYhdNp9PZrjPjVPJoboo"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Ghazali (feat. Bryan Mg)",
+      "url": "https://open.spotify.com/track/5IJRqarA4QIc2qAw74mYo9"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Real Man",
-        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        }
-      ],
-      "duration_ms": 175098,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "duration_ms": 175098,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Sans visa",
         "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 145066,
       "name": "Baila",
       "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1571,6 +1571,22 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1611,22 +1627,6 @@
       "duration_ms": 174059,
       "name": "So Distant (feat. Tayc)",
       "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 146400,
       "name": "Wi Deh Yah",
       "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Wickedest",
-        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Legalize",
         "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
       },
@@ -2027,34 +2011,18 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
+        "name": "Wickedest",
+        "url": "https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 153287,
-      "name": "SMS",
-      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
-        "name": "Rock With Me",
-        "url": "https://open.spotify.com/album/5KnWslFbJTIcpsBLh52LRm"
-      },
-      "artists": [
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        }
-      ],
-      "duration_ms": 177678,
-      "name": "Rock With Me",
-      "url": "https://open.spotify.com/track/5K2sqQFCw5I5SI4FcmEq8N"
+      "duration_ms": 192880,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -2075,6 +2043,38 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Rock With Me",
+        "url": "https://open.spotify.com/album/5KnWslFbJTIcpsBLh52LRm"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 177678,
+      "name": "Rock With Me",
+      "url": "https://open.spotify.com/track/5K2sqQFCw5I5SI4FcmEq8N"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/3IW8rGJYse4RVtu1GaAGQJ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 153287,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/6PlZ3T2h2dpoEWKrviNkKS"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 156927,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "Konsentra",
         "url": "https://open.spotify.com/album/0S5ImD3mDpq22iXVNkT5d2"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 188571,
       "name": "Konsentra",
       "url": "https://open.spotify.com/track/7LEsTCnDwSyy994RI7xQEQ"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
       "added_at": "2023-07-14 07:39:55",
@@ -2439,26 +2439,6 @@
     {
       "added_at": "2023-07-14 07:39:55",
       "album": {
-        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 155366,
-      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
-    },
-    {
-      "added_at": "2023-07-14 07:39:55",
-      "album": {
         "name": "\u00c7a Sert \u00e0 Rien",
         "url": "https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5"
       },
@@ -2479,6 +2459,26 @@
       "duration_ms": 170068,
       "name": "\u00c7a Sert \u00e0 Rien",
       "url": "https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL"
+    },
+    {
+      "added_at": "2023-07-14 07:39:55",
+      "album": {
+        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 155366,
+      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
     },
     {
       "added_at": "2023-07-14 07:39:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 
 > every day grooves for a laid back day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,152 likes - 108 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,263 likes - 108 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 30 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
 | 31 | [try\. \(feat\. JoJo\)](https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 2:13 |
 | 32 | [Tighten It Up](https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Tighten It Up](https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt) | 2:54 |
-| 33 | [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 |
+| 33 | [I Won't Tell](https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:39 |
 | 34 | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL) | 3:38 |
 | 35 | [Big Baby DRAM](https://open.spotify.com/track/09oWpz1zSRScuPYFFbGAmq) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [What Had Happened Was…](https://open.spotify.com/album/0wDMdN0ayHzxKladaKwctq) | 5:05 |
 | 36 | [TODAY](https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [TODAY](https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt) | 4:01 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62Nfha2yFhL.md) - [plain]
 | 107 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 |
 | 108 | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/track/1P9KFw6u4vX7hbFcFZd1yL) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Love Me Like \(feat\. DUCKWRTH\)](https://open.spotify.com/album/2RZUiUCPzbh4hb0IJ9Bh7I) | 2:44 |
 
-Snapshot ID: `MCw5ZTAyZDU2NGRlMDliOWYxZGFhMmYzMTM5YTQ0NzM1MjE0YWI4MmI2`
+Snapshot ID: `MCw5YmNkNTY1NDllZjVjN2NlNzU2MTk5N2Y1NTQ1YmEzODQzYTc3NGNk`

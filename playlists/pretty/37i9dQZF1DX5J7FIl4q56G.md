@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Dying Wish
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,442 likes - 67 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,652 likes - 67 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Starring Role](https://open.spotify.com/track/1BJ1zXV1zS8hkesUaZEyu3) | [Till The Dirt](https://open.spotify.com/artist/3bJBvA9DFvhQGhCMlYrQnL) | [Starring Role](https://open.spotify.com/album/1D5ussZ0v5FGJZ2Ojfs4X1) | 3:57 |
 | 67 | [Bleak](https://open.spotify.com/track/0OJexI4iMsyjUO6iAKdaqE) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Bleak](https://open.spotify.com/album/0FGGHfPcz6V0AyDSRgEsiY) | 3:09 |
 
-Snapshot ID: `MCw0M2E5ZjYwYTFmNzM3MmU4ZmUwN2VmN2Y0OTZlZjE4ODEyMzJhYTZk`
+Snapshot ID: `MCwyNjk2YjQ5NmE5NDhkZGY4OTJmNzVkNzMxYTU0YmM5OTZlYzA2YWEy`

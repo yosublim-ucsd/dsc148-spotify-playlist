@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 468782,
+  "num_followers": 469349,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjBiY2Q2YWJlYWJkYjEyNzQ0Y2U1MDEzZGRiNWE1YjNmYzM1MmQ3",
+  "snapshot_id": "MCwwZTZkNmFjM2M5NDE1YmRmYmRlNGZjZThkMTljNmU3MWQ2OTI4M2Nl",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Sinto Muito",
-        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 205945,
-      "name": "Bixinho",
-      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
+      "duration_ms": 167250,
+      "name": "Fica Tudo Bem",
+      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -415,22 +419,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+        "name": "Sinto Muito",
+        "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
-      "duration_ms": 167250,
-      "name": "Fica Tudo Bem",
-      "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
+      "duration_ms": 205945,
+      "name": "Bixinho",
+      "url": "https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Aos Vivos",
         "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 216800,
       "name": "\u00c1 Primeira Vista",
       "url": "https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2023-07-28 03:00:00",

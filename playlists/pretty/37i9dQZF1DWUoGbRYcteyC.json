@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 2006184,
+  "num_followers": 2006436,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGJkNWJiMGY1OWJkNzE5NDI2NDg0NGZhMjEwN2IyYWQ2NjAzNmU4",
+  "snapshot_id": "MCxkZjg0M2FiNTk5OTdiNjkwZGI2OTUyYTE1ODY1MzIzMzcwMTIwNGFi",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 196426,
       "name": "PROMESA",
       "url": "https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "B\u00e9same Bonito (Micro TDH Remix)",
-        "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito (Micro TDH Remix)",
-      "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "M\u00e1s M\u00fasica + Alma + Sexo",
         "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 216613,
       "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "B\u00e9same Bonito (Micro TDH Remix)",
+        "url": "https://open.spotify.com/album/105IhpHlgEvL20sIp0CPnw"
+      },
+      "artists": [
+        {
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito (Micro TDH Remix)",
+      "url": "https://open.spotify.com/track/4795j7G618M4FUwRl3wle8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "D\u00e9cimo Cuarto",
-        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 203753,
       "name": "Contigo En La Distancia",
       "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "D\u00e9cimo Cuarto",
+        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/2oWM4XRTXpgWniW874YcAq"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Un Amor de Verdad",
-      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Tiburones",
         "url": "https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 193975,
       "name": "Tiburones",
       "url": "https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Un Amor de Verdad",
+      "url": "https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Por fin",
+      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Abajito",
         "url": "https://open.spotify.com/album/3sANLBZnUFkmGCe2FV2QLY"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 147821,
       "name": "Abajito",
       "url": "https://open.spotify.com/track/5bXTL6PtdA9g1TFE0VZC7O"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Por fin",
-      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
     },
     {
       "added_at": "2023-07-28 04:01:00",

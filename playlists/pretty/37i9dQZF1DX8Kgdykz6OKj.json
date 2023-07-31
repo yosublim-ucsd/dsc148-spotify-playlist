@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1149122,
+  "num_followers": 1149568,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU1MWViOWE1Mzc1ZDA4Yzc3MzYyOGI4NzhiOWJkMWExYjYwNDBm",
+  "snapshot_id": "MCxjYmIwM2RjNWVmODNjNGQ4ZmVhNzI3ZjQ2YjZkNDVlZmMxY2Q0N2U2",
   "tracks": [
     {
       "added_at": "2023-07-27 22:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Resurrection",
-      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1247,6 +1247,38 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
+        "name": "Helping Hands",
+        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1311,38 +1343,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Helping Hands",
-        "url": "https://open.spotify.com/album/32OdlhjvXBKe94WaviR3Qs"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/6GNDjlJnaAvxM3Ffn0CAWl"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Escape Music",
         "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
@@ -1359,38 +1359,6 @@
       "duration_ms": 223772,
       "name": "Got Me Thinkin' (feat. Sparkz)",
       "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "The Silhouettes Project",
-        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Asher Kosher",
-          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
-        },
-        {
-          "name": "Eerf Evil",
-          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
-        },
-        {
-          "name": "Joe Beard",
-          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
-        },
-        {
-          "name": "Outrageous Claims",
-          "url": "https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Chase It",
-      "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1499,6 +1467,38 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
+        "name": "The Silhouettes Project",
+        "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Asher Kosher",
+          "url": "https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6"
+        },
+        {
+          "name": "Eerf Evil",
+          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
+        },
+        {
+          "name": "Joe Beard",
+          "url": "https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP"
+        },
+        {
+          "name": "Outrageous Claims",
+          "url": "https://open.spotify.com/artist/4uxNyg07RlVgRpZnUVHQih"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "Chase It",
+      "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 200829,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Guapanese",
+        "url": "https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1631,26 +1647,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Can't Let You Go (feat. Nick Grant)",
-        "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 193616,
-      "name": "Can't Let You Go (feat. Nick Grant)",
-      "url": "https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -1675,18 +1671,22 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Oh Word",
-        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+        "name": "Can't Let You Go (feat. Nick Grant)",
+        "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
       },
       "artists": [
         {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
         }
       ],
-      "duration_ms": 194019,
-      "name": "Oh Word",
-      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
+      "duration_ms": 193616,
+      "name": "Can't Let You Go (feat. Nick Grant)",
+      "url": "https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1703,6 +1703,22 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Oh Word",
+        "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "Oh Word",
+      "url": "https://open.spotify.com/track/5Cvm41VtHmL1pwn9RZig7A"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1807,26 +1823,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Close Distance",
         "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
       },
@@ -1847,22 +1843,6 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
         "name": "Funkin' Around",
         "url": "https://open.spotify.com/album/2W8vAihEzEQ6giSeYolXqx"
       },
@@ -1879,22 +1859,38 @@
     {
       "added_at": "2023-07-27 22:00:00",
       "album": {
-        "name": "DOOM",
-        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        },
-        {
-          "name": "DJ Access",
-          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
         }
       ],
-      "duration_ms": 136785,
-      "name": "DOOM",
-      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1915,6 +1911,26 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
+    },
+    {
+      "added_at": "2023-07-27 22:00:00",
+      "album": {
+        "name": "DOOM",
+        "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        }
+      ],
+      "duration_ms": 136785,
+      "name": "DOOM",
+      "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
     },
     {
       "added_at": "2023-07-27 22:00:00",
@@ -1955,30 +1971,6 @@
       "duration_ms": 195066,
       "name": "Running Shoes",
       "url": "https://open.spotify.com/track/0KDHlI9wbl31IGJfjx7Akh"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "See You Soon",
-        "url": "https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd"
-      },
-      "artists": [
-        {
-          "name": "Submerse",
-          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
-        },
-        {
-          "name": "Devin Morrison",
-          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
-        },
-        {
-          "name": "Pink Siifu",
-          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Flashback",
-      "url": "https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ"
     },
     {
       "added_at": "2023-07-27 22:00:00",

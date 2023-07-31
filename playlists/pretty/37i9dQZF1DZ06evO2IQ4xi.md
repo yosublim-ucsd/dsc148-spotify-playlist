@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,446 likes - 32 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,460 likes - 32 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 31 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 | 32 | [Drop Out](https://open.spotify.com/track/2CurM6dvt60EhRzNrU14EE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:01 |
 
-Snapshot ID: `MjgxNzcyNDIsMDAwMDAwMDBhMGRlMThlMGU1N2NiN2QyOGMxY2U0ZjkzOWFiYjUyMQ==`
+Snapshot ID: `MjgxNzg2NjksMDAwMDAwMDA0MzM4YzYxMWNhYWY3MDYxZmQ3OWJiMzJkYWJmNTRjNg==`

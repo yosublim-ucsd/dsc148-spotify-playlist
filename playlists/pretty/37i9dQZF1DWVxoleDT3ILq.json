@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Marineros",
-  "num_followers": 128107,
+  "num_followers": 128106,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjUwMWI1Yjg5ZGZmYTNmYzhkMGYyOWFmNzY5OGJiZjU4YWYyOGU4",
+  "snapshot_id": "MCxkYWI5N2JiMjU1MTYyOWRkNTJkZTQ4OTZjNzdlMWFmMGMzYTliNzRl",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Bien Mal",
-        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 180554,
-      "name": "Bien Mal",
-      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "D\u00edas Que No Lloro",
         "url": "https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 161739,
       "name": "D\u00edas Que No Lloro",
       "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Bien Mal",
+        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 180554,
+      "name": "Bien Mal",
+      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
+      },
+      "artists": [
+        {
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+        },
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "La Torpeza",
         "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
       },
@@ -647,22 +667,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Lo Nuestro",
-        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 113852,
-      "name": "Lo Nuestro",
-      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Qu\u00e9 piensas hacer sin mi amor?",
         "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
       },
@@ -695,22 +699,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
+        "name": "Lo Nuestro",
+        "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
       },
       "artists": [
         {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        },
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 192989,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+      "duration_ms": 113852,
+      "name": "Lo Nuestro",
+      "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Me Hace Bien Amarte",
         "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 168714,
       "name": "Me Hace Bien Amarte",
       "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "RAYEN",
-        "url": "https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN"
-      },
-      "artists": [
-        {
-          "name": "White MJ",
-          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
-        }
-      ],
-      "duration_ms": 187519,
-      "name": "RAYEN",
-      "url": "https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 173336,
       "name": "Al Norte",
       "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "RAYEN",
+        "url": "https://open.spotify.com/album/7uS98Xv6bQHFlBNYy5CvBN"
+      },
+      "artists": [
+        {
+          "name": "White MJ",
+          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
+        }
+      ],
+      "duration_ms": 187519,
+      "name": "RAYEN",
+      "url": "https://open.spotify.com/track/2gVk6HZ2pXhXYyBzDIAJbV"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -983,22 +983,6 @@
       "duration_ms": 184250,
       "name": "Hace 10 A\u00f1os",
       "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Sudam\u00e9rica Suda",
-        "url": "https://open.spotify.com/album/7gsLYO4xF9zC7mNyLqjKTb"
-      },
-      "artists": [
-        {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Sudam\u00e9rica Suda",
-      "url": "https://open.spotify.com/track/7wpJU8AhVLL87zJ23NiUpM"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Una Mitad de M\u00ed",
         "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 221625,
       "name": "Una Mitad de M\u00ed",
       "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1171,6 +1155,30 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        },
+        {
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        },
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
+        }
+      ],
+      "duration_ms": 221610,
+      "name": "ELLA (CAE LA NOCHE)",
+      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "\u00c9pica",
         "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
       },
@@ -1207,26 +1215,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
-      },
-      "artists": [
-        {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Inventar",
         "url": "https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr"
       },
@@ -1243,26 +1231,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
       "artists": [
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
         },
         {
-          "name": "Sergio Escribano",
-          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
-        },
-        {
-          "name": "Escaparate de Poes\u00eda",
-          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 221610,
-      "name": "ELLA (CAE LA NOCHE)",
-      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1351,22 +1335,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Insana y Salva",
         "url": "https://open.spotify.com/album/5TR2BOJGqJATv53IlerpdY"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 256042,
       "name": "Junio",
       "url": "https://open.spotify.com/track/45pOC2Od71kyeZpWu9Do5o"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Reflejos",
-        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
+        "name": "Las Piedras",
+        "url": "https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK"
       },
       "artists": [
         {
-          "name": "Eleg\u00eda al Atardecer",
-          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 236916,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
+      "duration_ms": 241500,
+      "name": "Las Piedras",
+      "url": "https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Las Piedras",
-        "url": "https://open.spotify.com/album/0f502VlRJBXXIcu3q780yK"
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Eleg\u00eda al Atardecer",
+          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
         }
       ],
-      "duration_ms": 241500,
-      "name": "Las Piedras",
-      "url": "https://open.spotify.com/track/5FMyNDgr11zcBsxfilA005"
+      "duration_ms": 236916,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1607,22 +1591,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "OBSYDIANA",
-        "url": "https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 239483,
-      "name": "En Libertad",
-      "url": "https://open.spotify.com/track/6hsPHgNztdVyZDRwKTzgJq"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
         "url": "https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y"
       },
@@ -1635,6 +1603,22 @@
       "duration_ms": 193689,
       "name": "No Tendr\u00e9 Poder (Pero Tengo Energ\u00eda)",
       "url": "https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "OBSYDIANA",
+        "url": "https://open.spotify.com/album/2Cugagycjm239pg7OyqWVb"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 239483,
+      "name": "En Libertad",
+      "url": "https://open.spotify.com/track/6hsPHgNztdVyZDRwKTzgJq"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1667,6 +1651,26 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Me Siento Que No",
+        "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Nojutsu",
+          "url": "https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld"
+        }
+      ],
+      "duration_ms": 236655,
+      "name": "Me Siento Que No",
+      "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Tercero",
         "url": "https://open.spotify.com/album/0sTpVleBRwymbvFbGlxNTh"
       },
@@ -1679,22 +1683,6 @@
       "duration_ms": 209361,
       "name": "Tercero",
       "url": "https://open.spotify.com/track/1qhyXY725dxXb18j43G9fm"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
-      },
-      "artists": [
-        {
-          "name": "Benji B",
-          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
-        }
-      ],
-      "duration_ms": 174654,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1715,6 +1703,22 @@
       "duration_ms": 190681,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+      },
+      "artists": [
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        }
+      ],
+      "duration_ms": 174654,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1743,6 +1747,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "As\u00ed Te Soy",
+        "url": "https://open.spotify.com/album/7IcwIlHB6rH1A7oaRYDrpH"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 221537,
+      "name": "As\u00ed Te Soy",
+      "url": "https://open.spotify.com/track/68QToxTF9MaRnUFs1Kv7fd"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Obsesi\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 210434,
       "name": "Obsesi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Me Siento Que No",
-        "url": "https://open.spotify.com/album/2jjrnQTIGnT3wPufY0dlrG"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Nojutsu",
-          "url": "https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92"
-        },
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/2U9GIgYg7Olybp6vI0otld"
-        }
-      ],
-      "duration_ms": 236655,
-      "name": "Me Siento Que No",
-      "url": "https://open.spotify.com/track/715WLRXs9Jrc65K2KH1lNS"
     }
   ],
   "unique_name": "Indie Chile",

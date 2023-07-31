@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Jéssica Augusto
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,986 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,060 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 37 | [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 |
 | 38 | [Frequência \- Ao Vivo](https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Frequência \(Ao Vivo\)](https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma) | 4:15 |
 | 39 | [Tô Com Você](https://open.spotify.com/track/6bPzIPnHfGksLjrXRSJGbo) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6ILLqsxadRd8B2BNA0oQk3) | 3:48 |
-| 40 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
-| 41 | [Vamos Celebrar](https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82) | 3:52 |
+| 40 | [Vamos Celebrar](https://open.spotify.com/track/0ozg7GYG3shAiJuSzOQYBf) | [Riverson Vianna](https://open.spotify.com/artist/4DYzAMk5cxRH2EkavJqDhN) | [Vamos Celebrar](https://open.spotify.com/album/4ueLg77lcJouxNJkzpJM82) | 3:52 |
+| 41 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
 | 42 | [Caixa D'água](https://open.spotify.com/track/5MwN3HUdUymny3aUJPxpkm) | [Templo Soul](https://open.spotify.com/artist/6oMQVHIihBzjKq4FbNRGW9) | [Templo Soul](https://open.spotify.com/album/5DJdyG3nrBGjkEfKSXACBd) | 3:57 |
 | 43 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 44 | [Eu Grito](https://open.spotify.com/track/3lS32PJ4mTSOUbj1VJsxbL) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Eu Grito](https://open.spotify.com/album/5NLoHON627RjW4wRiha4q1) | 4:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxiMDRhODkzNzQ1NmRkMmM2NzdhOGM1MGMzMGQzMDE3ODFkNjcyZTA5`
+Snapshot ID: `MCw3NjE5YzhkODY2NzdkYzQyNjY2ZmY0NDBlZGU0YzQxMzgyYWIwYTY3`

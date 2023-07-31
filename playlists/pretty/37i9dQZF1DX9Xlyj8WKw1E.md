@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7?si=Dav0mu9LQQuNwBBb683dCw">Veeze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,951 likes - 57 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,970 likes - 57 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 51 | [Love Is Long](https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Love Is Long](https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM) | 3:19 |
 | 52 | [Numbers](https://open.spotify.com/track/2QuxgH5460sE8rUoi8MVPo) | [SoloSam](https://open.spotify.com/artist/45hmyXoTVMtPASGkZwUqY7) | [Numbers](https://open.spotify.com/album/0FfV5QpUnOyW4Bus449JR4) | 2:44 |
 | 53 | [ghosted](https://open.spotify.com/track/3gC74awANsa3oPoA6eqNBI) | [Ausar](https://open.spotify.com/artist/3ahvdZBrfKOLdDLr1eNXTg) | [ghosted](https://open.spotify.com/album/0y1TnzdpdOewAy4z1sh937) | 4:18 |
-| 54 | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON \(Ft\. Thundercat, Maeta\)](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 |
+| 54 | [STRAWBERRY LOUIS VUITTON ft\. Thundercat and Maeta](https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [STRAWBERRY LOUIS VUITTON ft\. Thundercat and Maeta](https://open.spotify.com/album/32mKnCP2lxdUKl87kQTrAF) | 2:38 |
 | 55 | [OSAY](https://open.spotify.com/track/1eDVrqs5Pt7ln75wvpciny) | [BLOOD $MOKE BODY](https://open.spotify.com/artist/0H8po4L35Y4ieuQYg0b4LL) | [OSAY](https://open.spotify.com/album/5mIrTLqA1A9svpQIQ0FF5i) | 3:56 |
 | 56 | [OOGIE](https://open.spotify.com/track/2VYLS3j03FZLKIebP7ume9) | [Beamon](https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K), [Rellim](https://open.spotify.com/artist/5peUHq2Ya8RBqm5GSq16QU) | [OOGIE](https://open.spotify.com/album/5EetXOn0c4hCGfDwy7MD4A) | 2:34 |
 | 57 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 |
 
-Snapshot ID: `MCxiZmE4ZTYyYjNmMTNmYjlhNWUzN2M2Yjg0M2NjYzU5ZmJiZTliZjI1`
+Snapshot ID: `MCxiNWY2ZGM2OTgxNzZhOTNlZGRmNTA5MGUzYTllYjEzMGVjMDdmM2Rk`

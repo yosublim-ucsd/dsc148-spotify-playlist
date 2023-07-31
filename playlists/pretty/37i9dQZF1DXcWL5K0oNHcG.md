@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: MELONYX Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,851 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,883 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 42 | [Peach](https://open.spotify.com/track/1RpPfo58S3aT99FQMAs7MY) | [Alberto Vaquero](https://open.spotify.com/artist/2ggMAeerwt2Y47uiWzmgG4) | [Peach](https://open.spotify.com/album/42aPWcveBofOwqnTnSSYxv) | 3:26 |
 | 43 | [Gypsy Tail](https://open.spotify.com/track/4yD4DkGxylJmjValoEgMHu) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Gypsy Tail](https://open.spotify.com/album/6FIqjNo68tF6HFXHY439j2) | 4:29 |
 | 44 | [What About?](https://open.spotify.com/track/40jaosNsS1V06x5u18jBuN) | [Brass Riot](https://open.spotify.com/artist/3Um2PBlg2zLQYqQG4HVwxC) | [The Never Acting Story](https://open.spotify.com/album/4DJ6qNMI5lyYkLkq4nVHDQ) | 4:09 |
-| 45 | [Stardust](https://open.spotify.com/track/4JRLytUE8OoVFYOVb8pF2s) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Stardust](https://open.spotify.com/album/1aNEqxblgIVMhykm0TLnnS) | 5:14 |
+| 45 | [Stardust](https://open.spotify.com/track/2l8nWLkLuQTrRgsuGpQkT1) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [What A Wonderful World](https://open.spotify.com/album/4T1dek2O0wIVMG9ljzu5yM) | 5:14 |
 | 46 | [Raised by Conservatives](https://open.spotify.com/track/0n4yQY4XrRjVTlus30ev9c) | [Gerald Bailey](https://open.spotify.com/artist/0ZKZwZhlCV6E3RSS2X66zx), [Kyle Hodges](https://open.spotify.com/artist/1nzbH7agHYeRORFpQCVqyI) | [Raised by Conservatives](https://open.spotify.com/album/0b9Or60Bvb4SuNrChpI93H) | 2:03 |
 | 47 | [Intertwined](https://open.spotify.com/track/20F70y7O2HhCFbzicxPV7g) | [George Bloomfield](https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg) | [Intertwined](https://open.spotify.com/album/1MrxDXyXLKjllnKehm1BbD) | 4:09 |
 | 48 | [Weird Funk Wout Lyrics](https://open.spotify.com/track/7oN2Jvf4lbXH3cH65kGnZf) | [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw), [Federico Malaman](https://open.spotify.com/artist/0yDSaA49FQGIzoVsa2Tj7x) | [Weird Funk Wout Lyrics](https://open.spotify.com/album/7uxDlk7wwJHrKf78JNMZ6j) | 1:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Spunky](https://open.spotify.com/track/0V9UpZ9vnrssMEUqma64en) | [Conrad Schwenke Quartett](https://open.spotify.com/artist/5HSogDeVBlBOlWUkcAJoSx) | [Spunky](https://open.spotify.com/album/6G2n8F5OrMpY7W9W7CEaGh) | 5:51 |
 | 75 | [Nash](https://open.spotify.com/track/3v4frMlLHje5Vy9ZDOXBRy) | [Sawtooth](https://open.spotify.com/artist/0o65VjgHzvH72b5Bdhv1B8) | [Nash](https://open.spotify.com/album/2ud074dc1vr342FCevGj3B) | 2:22 |
 
-Snapshot ID: `MCwxODRhY2U5OTI4NzcyNDUyNGZkNTgyMTI5MGUwZjZjNjU3ODg0M2Ey`
+Snapshot ID: `MCxjZjk3Y2RmZjlmMmRmODI5MTlkNjhjMzUyYjg3Nzc3YTU5ODZlMjI1`

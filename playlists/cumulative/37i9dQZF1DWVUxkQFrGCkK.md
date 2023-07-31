@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-215 songs - 16 hr 45 min
+216 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Take My Time](https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:52 | 2023-05-11 |  |
 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 | 2023-06-29 |  |
 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 | 2023-04-13 |  |
-| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-22 |  |
+| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-22 | 2023-07-31 |
+| [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-06-29 |  |
 | [The Girl Next Door](https://open.spotify.com/track/7cYd9okXFfOgz9GG4n0wKl) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [The Girl Next Door](https://open.spotify.com/album/3wICNStLechQsYN4jYg4Bl) | 5:48 | 2023-05-18 |  |
 | [The Light](https://open.spotify.com/track/7pPoGOBTtlEm724TAegcw2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:59 | 2023-05-11 |  |
 | [The More I Get, the More I Want \- The Martinez Brothers Remix](https://open.spotify.com/track/5fVDs9SHoL8wNvPJ0i0qgN) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [The More I Get, the More I Want \(The Martinez Brothers Remix\)](https://open.spotify.com/album/23ThW6UWD9uOueZ4vlYrMJ) | 7:07 | 2023-06-29 |  |

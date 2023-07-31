@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 343007,
+  "num_followers": 343424,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmZiZTMyZDUxNmZjNzYzNDcwOTZhYzk3YWY5Mzk1ZGI5YjdjYTJm",
+  "snapshot_id": "MCxlZTk1NmUzYzNhMmRlMzI0NWFiYTk3YWE5NThmNDM2ZGRkNmE2N2Vi",
   "tracks": [
     {
       "added_at": "2023-07-28 08:47:25",
@@ -203,26 +203,18 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Mein kleines Herz (Bam Bam)",
-        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
       },
       "artists": [
         {
-          "name": "Darius & Finlay",
-          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
-        },
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Shaun Baker",
-          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
         }
       ],
-      "duration_ms": 150090,
-      "name": "Mein kleines Herz (Bam Bam)",
-      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -247,6 +239,30 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Mein kleines Herz (Bam Bam)",
+        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Shaun Baker",
+          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+        }
+      ],
+      "duration_ms": 150090,
+      "name": "Mein kleines Herz (Bam Bam)",
+      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Farbenspiel",
-        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Atemlos durch die Nacht",
-      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
-      },
-      "artists": [
-        {
-          "name": "Trailerpark",
-          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
-        }
-      ],
-      "duration_ms": 265494,
-      "name": "Bleib in der Schule",
-      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Ich schwanke noch",
         "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 209358,
       "name": "Ich schwanke noch",
       "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+      },
+      "artists": [
+        {
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+        }
+      ],
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -647,6 +647,26 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Arielle",
+        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Arielle",
+      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
@@ -659,30 +679,6 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Lea",
-        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
-      },
-      "artists": [
-        {
-          "name": "Bierkapit\u00e4n",
-          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
-        },
-        {
-          "name": "Andy Luxx",
-          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Lea",
-      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -711,22 +707,26 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Arielle",
-        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+        "name": "Lea",
+        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
         },
         {
-          "name": "Lorenz B\u00fcffel",
-          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+          "name": "Andy Luxx",
+          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 205217,
-      "name": "Arielle",
-      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
+      "duration_ms": 159374,
+      "name": "Lea",
+      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Saufen aufm Spielplatz",
-        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
-      },
-      "artists": [
-        {
-          "name": "BroyS",
-          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
-        },
-        {
-          "name": "Pbb Yea",
-          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Saufen aufm Spielplatz",
-      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Zeig mir den Platz an der Sonne",
         "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Saufen aufm Spielplatz",
+        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
+      },
+      "artists": [
+        {
+          "name": "BroyS",
+          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+        },
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Saufen aufm Spielplatz",
+      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -995,38 +1011,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Knicklicht",
-        "url": "https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "Knicklicht",
-      "url": "https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Kabinenparty (feat. MAKZ 38) [Kreisliga Mix]",
         "url": "https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1127,6 +1127,30 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Mannschaftsfahrt",
+        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        },
+        {
+          "name": "Malin Brown",
+          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+        }
+      ],
+      "duration_ms": 168895,
+      "name": "Mannschaftsfahrt",
+      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Schei\u00dfegal, ich feier (Radio Edit)",
         "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
       },
@@ -1183,26 +1207,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
-      },
-      "artists": [
-        {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -1219,26 +1223,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Mannschaftsfahrt",
-        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
       "artists": [
         {
-          "name": "Kreisligalegende",
-          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
         },
         {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        },
-        {
-          "name": "Malin Brown",
-          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 168895,
-      "name": "Mannschaftsfahrt",
-      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1303,18 +1303,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Heisser Sand",
-        "url": "https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV"
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
         }
       ],
-      "duration_ms": 123970,
-      "name": "Heisser Sand",
-      "url": "https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z"
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     }
   ],
   "unique_name": "Malle Party 2023",

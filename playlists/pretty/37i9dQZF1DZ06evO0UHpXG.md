@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,623 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,674 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 21 | [Rock 'n' Roll](https://open.spotify.com/track/2rl61dFTIVAiqa57zr2Ed3) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/3aoZZWomzwY4KuXM2Jqt7C) | 3:47 |
 | 22 | [\(We Are\) The Roadcrew](https://open.spotify.com/track/3AQmSnKePd4DOCxiQxADd8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 3:11 |
 | 23 | [We Are Motörhead](https://open.spotify.com/track/29o3PAov4DX7xGSJT2tCdh) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/2sqUz4v6XuHJL8k6R1WztI) | 2:21 |
-| 24 | [Victory Or Die](https://open.spotify.com/track/2CiA531WXraGbovitMCPM1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:08 |
+| 24 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
 | 25 | [Going To Brazil](https://open.spotify.com/track/63cQrvazYCVTQgWiOWKUPr) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 2:29 |
 | 26 | [Bomber](https://open.spotify.com/track/1I4el8B1ZZKF3OGzmXDH9T) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Expanded Edition\)](https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F) | 3:40 |
 | 27 | [Iron Fist](https://open.spotify.com/track/15uss75SOwMaCQyBma5UlD) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist \(Expanded Edition\)](https://open.spotify.com/album/52mCdg2gKWlWbx0prHdejd) | 2:53 |
-| 28 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
+| 28 | [Victory Or Die](https://open.spotify.com/track/2CiA531WXraGbovitMCPM1) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:08 |
 | 29 | [The Chase Is Better Than the Catch](https://open.spotify.com/track/1NoJzyzXzZWHGRVYxlM5u6) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 4:15 |
 | 30 | [Smiling Like a Killer](https://open.spotify.com/track/2Iwy3PQDlKJ1XwyEoAPiDE) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 2:44 |
 | 31 | [Brotherhood Of Man](https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The World Is Yours](https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6) | 5:15 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 33 | [Love Me Like a Reptile](https://open.spotify.com/track/5pHQZlekYdxTQExJWe1KSp) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 3:20 |
 | 34 | [Please Don't Touch \(feat\. Motörhead\)](https://open.spotify.com/track/2fZKtGjQ5vWLDWm6AhfvQ1) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best of Girlschool](https://open.spotify.com/album/2KN9p0XSOmycyt4ZzMKJGB) | 2:47 |
 | 35 | [Orgasmatron](https://open.spotify.com/track/3RqNRquosVuv2C6AT6HLGT) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/6jHRYw1JsUNParuSI9BtFX) | 5:23 |
-| 36 | [I Got Mine \- Live at Montreux, 2007](https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [I Got Mine \(Live at Montreux 2007\)](https://open.spotify.com/album/18aWYih7Du1hBqPqJFpvQK) | 4:44 |
+| 36 | [Jumpin' Jack Flash](https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 |
 | 37 | [The Hammer](https://open.spotify.com/track/05pK81o3qm38lC1pzXS11K) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 |
-| 38 | [Jumpin' Jack Flash](https://open.spotify.com/track/723GhiDQytwyF7NYX6MyuH) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:19 |
+| 38 | [I Got Mine \- Live at Montreux, 2007](https://open.spotify.com/track/2rncIbmaHGpKrmzxEGcBJV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [I Got Mine \(Live at Montreux 2007\)](https://open.spotify.com/album/18aWYih7Du1hBqPqJFpvQK) | 4:44 |
 | 39 | [Stay Clean](https://open.spotify.com/track/0vcccE7VjUlGjOcXYiWXgn) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 2:40 |
 | 40 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 |
 | 41 | [Fast and Loose](https://open.spotify.com/track/5rmrkIsEaff7cwtMNKNrMP) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Fire Storm Hotel](https://open.spotify.com/track/5lQArH5hK6UjiFPivtuXuU) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic: SERIOUSLY BAD MAGIC](https://open.spotify.com/album/51G3HGyXVig4jdC58PU8Ay) | 3:35 |
 | 50 | [When The Sky Comes Looking For You](https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 2:58 |
 
-Snapshot ID: `MjgxNzcyNDIsMDAwMDAwMDA3MzgyM2FjMDc3MDg1MzE1ODBjZTNjMzA1MWU0YmFhZg==`
+Snapshot ID: `MjgxNzg2NjksMDAwMDAwMDA0MTJlOWEzNDYyOTVkYjIxOWE1NTA5MTJlNmJkZWZiNA==`

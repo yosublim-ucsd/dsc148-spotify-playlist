@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Newport\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,848 likes - 98 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,861 likes - 98 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 12 | [Uncanny](https://open.spotify.com/track/2b86nPqffHoLX48qrFRCNZ) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Crooked](https://open.spotify.com/album/4S0EUvIJTU7vj3Xb1E3fB8) | 2:49 |
 | 13 | [Tough Act To Follow](https://open.spotify.com/track/5aBdQSvUpsXj2GOGhcEj77) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Tough Act To Follow](https://open.spotify.com/album/5LwHMFZ20CJx74hxcGySel) | 3:47 |
 | 14 | [Visualise](https://open.spotify.com/track/7oMfrVe6CL7ZCTKLZyZrcy) | [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [In The Meantime](https://open.spotify.com/album/2HU5OrEegFi359Xs7ynjoT) | 2:08 |
-| 15 | [Heart Full Of Tenderness](https://open.spotify.com/track/2IKFliCQSryEI0rHX3XycS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Heart Full Of Tenderness](https://open.spotify.com/album/0bgATyrFE1D21ryMOyFr6u) | 4:10 |
+| 15 | [Heart Full Of Tenderness](https://open.spotify.com/track/39zZaQHjXzYr8IiOOAlZhT) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 4:10 |
 | 16 | [Locked In](https://open.spotify.com/track/1drmgHKqYm4wsFCEruOBhm) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 2:19 |
 | 17 | [recess](https://open.spotify.com/track/5RdJl8Qq03xSmM3Nj7EJAh) | [TOMMYY](https://open.spotify.com/artist/7nHQLYdRclNayYCjwT40WW) | [recess](https://open.spotify.com/album/5VQ4KGmt8s8uqUeLsR2EKn) | 2:35 |
 | 18 | [Love's For Fools](https://open.spotify.com/track/4GMPhvJowPmhwOGXCVd1JD) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Love's For Fools](https://open.spotify.com/album/3XMftUyGqfMztGHnxftUl6) | 4:50 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 97 | [Bada Dada](https://open.spotify.com/track/06S2LkT74xmeg2TiylYa8y) | [Tjaka](https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO) | [Bada Dada](https://open.spotify.com/album/3vBFqmvYM9XYwRwEJcO9RY) | 3:27 |
 | 98 | [Cloud Dancing](https://open.spotify.com/track/1osa9IosuISMYwkfOGguY5) | [Paige Valentine](https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS) | [Cloud Dancing](https://open.spotify.com/album/7fkki65cI89IRPRiCaobTB) | 3:26 |
 
-Snapshot ID: `MCw3ZWJkNTliOTcxMjI3Yzk3ZmQwNzcxZWY0ZDE0N2ZiZjIyZTQ2YzQ5`
+Snapshot ID: `MCw0ZGYzOGMxMWIwM2U1YTE2NTJmZGQ2NTZjODA2NjU1Yjk2ODhkYzFi`

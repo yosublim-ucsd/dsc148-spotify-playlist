@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 91772,
+  "num_followers": 91804,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGE5ZjNmOWU5MDE2YmE4NmU1YTU5NmM2Y2U2ZTViM2VkM2NiN2E3",
+  "snapshot_id": "MCxkMmMzZDY3ODgyNjNiN2ZhMjM2NmMzMWUyODUyZTAzMmU1YzM0MzAz",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -395,26 +395,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Work From Home Brahms & Liszt",
-        "url": "https://open.spotify.com/album/7jLXjNiQpAppnvDyQzUdmr"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Arturo Benedetti Michelangeli",
-          "url": "https://open.spotify.com/artist/0eQTutigtSNq6DmsYU9hPS"
-        }
-      ],
-      "duration_ms": 567533,
-      "name": "4 Ballades, Op. 10: No. 4 In B",
-      "url": "https://open.spotify.com/track/2wcqhYITSlQzZ8dqw6n9VQ"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Brahms / Bruch: Violin Concertos",
         "url": "https://open.spotify.com/album/4al7WuQ6iw4RlvMFbGYlyN"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 510000,
       "name": "Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo vivace",
       "url": "https://open.spotify.com/track/3lcxhqs8AdAYpP9lyrvi4d"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Work From Home Brahms & Liszt",
+        "url": "https://open.spotify.com/album/7jLXjNiQpAppnvDyQzUdmr"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Arturo Benedetti Michelangeli",
+          "url": "https://open.spotify.com/artist/0eQTutigtSNq6DmsYU9hPS"
+        }
+      ],
+      "duration_ms": 567533,
+      "name": "4 Ballades, Op. 10: No. 4 In B",
+      "url": "https://open.spotify.com/track/2wcqhYITSlQzZ8dqw6n9VQ"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: Complete Piano Music",
-        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 800000,
-      "name": "Variations on a Theme of Paganini in A minor, Op. 35: 1: Theme - Variation 1-14",
-      "url": "https://open.spotify.com/track/3vIeHTsFAdznkYvIWsbZbu"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Brahms: Violin Sonatas Nos. 1-3, Opp. 78, 100 and 108",
         "url": "https://open.spotify.com/album/1GdppnWjYz74M3mgcG6Cno"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 492840,
       "name": "Violin Sonata No. 3 in D Minor, Op. 108: Allegro",
       "url": "https://open.spotify.com/track/6XFWv2NGUsS4YdeUTmMDP0"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Brahms: Complete Piano Music",
+        "url": "https://open.spotify.com/album/4afZ6OA1FYfxGALdG20qBQ"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 800000,
+      "name": "Variations on a Theme of Paganini in A minor, Op. 35: 1: Theme - Variation 1-14",
+      "url": "https://open.spotify.com/track/3vIeHTsFAdznkYvIWsbZbu"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: The Symphonies",
-        "url": "https://open.spotify.com/album/23OHNMF9FpIqDppmvoUpuy"
+        "name": "Brahms: Piano Concerto No. 2 in B-Flat Major, Op. 83 & 4 Piano Pieces, Op. 119",
+        "url": "https://open.spotify.com/album/7dih1oM2awKswvz599TyT1"
       },
       "artists": [
         {
@@ -1220,17 +1220,13 @@
           "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+          "name": "Rudolf Serkin",
+          "url": "https://open.spotify.com/artist/0rmB1nZVDjwoCN3kQVS7UZ"
         }
       ],
-      "duration_ms": 563773,
-      "name": "Academic Festival Overture, Op. 80",
-      "url": "https://open.spotify.com/track/3Z3dDd0kDRH7rx3UoYSapq"
+      "duration_ms": 280266,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 2, Intermezzo in E Minor. Andantino un poco agitato",
+      "url": "https://open.spotify.com/track/24ilAGyx2NK4R4umH8zDHI"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1259,8 +1255,8 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Brahms: Piano Concerto No. 2 in B-Flat Major, Op. 83 & 4 Piano Pieces, Op. 119",
-        "url": "https://open.spotify.com/album/7dih1oM2awKswvz599TyT1"
+        "name": "Brahms: The Symphonies",
+        "url": "https://open.spotify.com/album/23OHNMF9FpIqDppmvoUpuy"
       },
       "artists": [
         {
@@ -1268,13 +1264,17 @@
           "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
-          "name": "Rudolf Serkin",
-          "url": "https://open.spotify.com/artist/0rmB1nZVDjwoCN3kQVS7UZ"
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
         }
       ],
-      "duration_ms": 280266,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 2, Intermezzo in E Minor. Andantino un poco agitato",
-      "url": "https://open.spotify.com/track/24ilAGyx2NK4R4umH8zDHI"
+      "duration_ms": 563773,
+      "name": "Academic Festival Overture, Op. 80",
+      "url": "https://open.spotify.com/track/3Z3dDd0kDRH7rx3UoYSapq"
     },
     {
       "added_at": "2022-09-30 04:00:00",

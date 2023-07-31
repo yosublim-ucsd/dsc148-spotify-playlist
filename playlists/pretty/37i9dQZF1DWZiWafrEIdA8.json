@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 7615,
+  "num_followers": 7619,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzI2MDY4NWJjMzdjODQ5N2U2NzE1NTRkNjY0MTdjNTQ1ZDdjYzFm",
+  "snapshot_id": "MCxiOGYxMDc0YzJkYTdkMWZhYWE3MDQ2NzRmZWFmY2YxZTRhNGU0OTZm",
   "tracks": [
     {
       "added_at": "2023-07-17 05:25:27",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
+        "name": "Show Me the Money 777 Semi Final",
+        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         }
       ],
-      "duration_ms": 136973,
-      "name": "Apocalypse Prod. PEEJAY",
-      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
+      "duration_ms": 329487,
+      "name": "NoNo (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
     },
     {
       "added_at": "2023-07-17 05:25:27",
@@ -643,22 +647,18 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "Show Me the Money 777 Semi Final",
-        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/1ANyQeCWX9LoEQtnfis59r"
       },
       "artists": [
         {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 329487,
-      "name": "NoNo (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
+      "duration_ms": 136973,
+      "name": "Apocalypse Prod. PEEJAY",
+      "url": "https://open.spotify.com/track/6vrUC8qQyVvpKSloGLR8gB"
     },
     {
       "added_at": "2023-07-17 05:25:27",

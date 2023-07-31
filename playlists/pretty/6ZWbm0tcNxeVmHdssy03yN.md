@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,806 likes - 91 songs - 4 hr 44 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,810 likes - 91 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 15 | [Impendulo](https://open.spotify.com/track/3iBQ5Gg4tO3TGtiIk0tZBh) | [Deepson HD](https://open.spotify.com/artist/5l30GjJ3nO4fLVQiQPE5FL), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Impendulo](https://open.spotify.com/album/6Z4bFD2YZBdlqU0nNrC2Nu) | 7:08 |
 | 16 | [Top boy](https://open.spotify.com/track/3zsb47DmlCLajYyqirX7kz) | [POPSITO](https://open.spotify.com/artist/4BbSdP9ZULRsxRe2IX4uI8) | [Top boy](https://open.spotify.com/album/0yJC5Aq0Ht9Iwb6HW4Pdu2) | 2:48 |
 | 17 | [Slow Slug](https://open.spotify.com/track/7DFoUqknvxq01iP17sXIsb) | [Oya Paya](https://open.spotify.com/artist/4HHt0NMWW2JEUosUiiPVNz) | [Slow Slug](https://open.spotify.com/album/5WDPDIkd4wlK3l7ZkQWKcT) | 2:53 |
-| 18 | [I Made It](https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK) | [Morrisson](https://open.spotify.com/artist/15p6ONcUoj9K5HHtuJv7cd), [Broadday](https://open.spotify.com/artist/5JLxpSPbsLhED2i4OmVaRF) | [I Made It](https://open.spotify.com/album/3G2fdm0OEHPd0akDOxPZgi) | 2:43 |
+| 18 | [I Made It](https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Broadday](https://open.spotify.com/artist/5JLxpSPbsLhED2i4OmVaRF) | [I Made It](https://open.spotify.com/album/3G2fdm0OEHPd0akDOxPZgi) | 2:43 |
 | 19 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 |
 | 20 | [Rewire](https://open.spotify.com/track/6g1mMnK1OBRSnRReauTGll) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [Rewire](https://open.spotify.com/album/3Iak4qwwuTq6Y4VZzsY40Y) | 3:02 |
 | 21 | [Grafter \- Remix](https://open.spotify.com/track/1R48N7DRbSwPD6wjLNse0j) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Mortel](https://open.spotify.com/artist/15N4o2rfEABILEVPXZIlo1) | [Grafter \(Remix\)](https://open.spotify.com/album/4YRfCvuIFjEHNEVQLciZ47) | 3:55 |

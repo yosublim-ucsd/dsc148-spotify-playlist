@@ -24313,6 +24313,24 @@
     },
     {
       "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble"
       },
@@ -26960,7 +26978,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 111500,
       "name": "The stars are listening",
       "url": "https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP"

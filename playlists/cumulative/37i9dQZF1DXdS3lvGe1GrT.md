@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-756 songs - 1 day 21 hr 7 min
+757 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Captain's Flat](https://open.spotify.com/track/6VkUAqdvDL8EB6Xppana4Z) | [Hana Stretton](https://open.spotify.com/artist/26MsHzLvNrTnU4QOKd9nXO) | [Come Home](https://open.spotify.com/album/72ksYtkFBs0XrizhtInaLK) | 3:34 | 2023-01-11 | 2023-02-01 |
 | [Carbondale](https://open.spotify.com/track/20L5s543RIT4CzpmU9J0aZ) | [Great Big Cow](https://open.spotify.com/artist/3XbP6ICTKreFOK6X2vh8Iw) | [Carbondale](https://open.spotify.com/album/1gOlCCJqOHD9y61C3SvTtd) | 3:36 | 2023-06-28 |  |
 | [Carlos\-by\-the\-Sea](https://open.spotify.com/track/6bCPYIGkFoQCPZxGxDmWc3) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Carlos\-by\-the\-Sea](https://open.spotify.com/album/3NvfSRhd0JM5YpnoTAIuW9) | 1:49 | 2023-06-07 |  |
-| [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 | 2023-06-07 |  |
+| [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 | 2023-06-07 | 2023-07-31 |
+| [carnegie hall](https://open.spotify.com/track/7xAOjVo97wD5xdcHWvnxkB) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [ep 1](https://open.spotify.com/album/3Gzd8ARjcAKybw51XnnpSw) | 4:45 | 2023-07-19 |  |
 | [Carolina](https://open.spotify.com/track/276TrUGOOI0CpndZYaZxiG) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Cheap Silver](https://open.spotify.com/album/39xMYcqH0Pm8vutbMIaGfi) | 4:22 | 2023-03-01 | 2023-05-24 |
 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 | 2023-03-15 | 2023-04-27 |
 | [Carry On, Carry On](https://open.spotify.com/track/71oV1c3BbqyLnKKwxRJRCy) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [Carry On, Carry On](https://open.spotify.com/album/5uO7MsWs3sWJk1srtkI2cV) | 3:31 | 2023-04-05 | 2023-05-18 |

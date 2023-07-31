@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,380 likes - 100 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,388 likes - 100 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 23 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 10:42 |
 | 24 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
 | 25 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
-| 26 | [Watch the Tapes](https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 3:55 |
-| 27 | [Program](https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya) | 4:05 |
+| 26 | [Program](https://open.spotify.com/track/17NTyKH575Q3QWrRq64MfX) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/56svbYsvhdgiUo1Mlriaya) | 4:05 |
+| 27 | [Watch the Tapes](https://open.spotify.com/track/4tzg6aQGUBL6YMOASdLkjN) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 3:55 |
 | 28 | [Knickerbocker](https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Lightbulbs](https://open.spotify.com/album/53PUB7dV3fHgek78i7oldH) | 3:20 |
 | 29 | [We Carry On](https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo) | 6:27 |
 | 30 | [A Digital Mind's Architecture](https://open.spotify.com/track/7LO53coSpmPOQP1hvAbfPv) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge) | [A Digital Mind's Architecture](https://open.spotify.com/album/5NCjvJRVXvNBtYrjgvP4aw) | 4:30 |
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 50 | [Trees](https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I) | [Föllakzoid](https://open.spotify.com/artist/7djT11AqtEBzdME1OGFfxL) | [II](https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv) | 7:14 |
 | 51 | [Sea Within a Sea](https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Primary Colours](https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV) | 7:58 |
 | 52 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
-| 53 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
-| 54 | [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 |
+| 53 | [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 |
+| 54 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 55 | [Love Builds Up](https://open.spotify.com/track/1bGmWtMiXU0G5UwCMgyFsI) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 5:24 |
 | 56 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 |
 | 57 | [Doors Unlocked and Open](https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Codes and Keys](https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr) | 5:37 |
-| 58 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
-| 59 | [Hero](https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l) | 7:11 |
-| 60 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF) | 3:39 |
-| 61 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
-| 62 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 58 | [Hero](https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l) | 7:11 |
+| 59 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 60 | [Final Weapon](https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 3:04 |
+| 61 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
+| 62 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF) | 3:39 |
 | 63 | [All Your Love is Gone](https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Boxed In](https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ) | 5:10 |
 | 64 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
 | 65 | [Red Sails \- 2017 Remaster](https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Lodger \(2017 Remaster\)](https://open.spotify.com/album/0S5nxDIEprOH23QeDoMeFK) | 3:45 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 94 | [Tub Erupt](https://open.spotify.com/track/10cGLoFNjiTD4qSA5B2jl5) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Ookii Gekkou](https://open.spotify.com/album/11MIPinn4hd7yrNsL7tOtG) | 2:52 |
 | 95 | [Sandtrommel](https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:26 |
 | 96 | [Can't Get There](https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Can't Get There EP](https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm) | 7:17 |
-| 97 | [Negativland](https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH) | 9:47 |
-| 98 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
+| 97 | [Saturnine Night](https://open.spotify.com/track/2wYENPm0hSDmwDd8n1TLV3) | [Deradoorian](https://open.spotify.com/artist/3jLCHiuXBTGEEku37TsobP) | [Find The Sun](https://open.spotify.com/album/6aejLD0bE9xQvpFva2zDEI) | 7:06 |
+| 98 | [Negativland](https://open.spotify.com/track/4IBOCVRedkQ3obCIaTqcxm) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH) | 9:47 |
 | 99 | [Only One Thing Is Needed](https://open.spotify.com/track/1LzKdWtzTpcmed7BnCR1id) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 4:33 |
 | 100 | [State of Clear](https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [Ohms](https://open.spotify.com/album/1uubGVQSGD0SR09BT0unJO) | 2:16 |
 
-Snapshot ID: `MCwyOGVjNjdlZmI4ODA4NDZhNGNmYmUyZmIyYWRjMDljYmVkZmVkNjAx`
+Snapshot ID: `MCxkY2IzYWU3Njc0MGRjYTQ1NDljZWJmZjNhYjY5YWM0NGZjYzliYzQ0`

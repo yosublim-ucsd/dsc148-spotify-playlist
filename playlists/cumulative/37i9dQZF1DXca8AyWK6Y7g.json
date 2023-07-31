@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 213271,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/7LODrLEO3DzBUyxxCuA6Eo"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 241318,
       "name": "Boyfriends",
       "url": "https://open.spotify.com/track/4lZOooja21hMfbnjw09sXw"
@@ -10432,7 +10432,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 198139,
       "name": "gentle",
       "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
@@ -11432,7 +11432,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 142814,
       "name": "Good Now",
       "url": "https://open.spotify.com/track/18sjPSKxvGGIse9WGZC2y5"
@@ -11688,7 +11688,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 168236,
       "name": "h4msterb0y",
       "url": "https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra"
@@ -13050,7 +13050,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 195720,
       "name": "Homebody",
       "url": "https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN"
@@ -17098,7 +17098,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 201133,
       "name": "like everyone else",
       "url": "https://open.spotify.com/track/0ygbYIcGd0PULV4ykfff5J"
@@ -17178,7 +17178,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 180959,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/4xIRhtPC9MbM2YTHYIzw32"
@@ -18456,7 +18456,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 173000,
       "name": "Me, Myself & I",
       "url": "https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx"
@@ -18852,7 +18852,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 212647,
       "name": "Miss Independent - Spotify Singles",
       "url": "https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk"
@@ -23824,7 +23824,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 212946,
       "name": "Ruin My Life",
       "url": "https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w"
@@ -25102,7 +25102,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 217258,
       "name": "SHOULD I BE OK?",
       "url": "https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB"
@@ -26558,6 +26558,24 @@
       "duration_ms": 172559,
       "name": "Spinning (with Charli XCX & The 1975)",
       "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
+    },
+    {
+      "album": {
+        "name": "Spiral City",
+        "url": "https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa"
     },
     {
       "album": {
@@ -31668,7 +31686,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 234736,
       "name": "When We Were Younger (feat. Cavetown)",
       "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"

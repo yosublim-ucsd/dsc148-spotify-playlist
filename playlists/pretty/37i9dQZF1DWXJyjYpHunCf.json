@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Noah Kahan",
-  "num_followers": 839947,
+  "num_followers": 840310,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTI5ODM3NDJjNjUyOGQ5YzFlOGU1MzNhMDc5YTAwMzc3MDY4N2I3",
+  "snapshot_id": "MCwwZDU2YmFhNDA4OWE5ZDhmYzZjOTg5YzAzMmViYjUzNjk3MTNkMjhk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Yellow Paper Daisy",
-        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Yellow Paper Daisy",
-      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "How Do We Stay In Love?",
         "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 159981,
       "name": "How Do We Stay In Love?",
       "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "All Day Long",
         "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 160581,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "I've Got a Song",
-        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 178271,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "I've Got a Song",
+        "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 212818,
-      "name": "Wonderland",
-      "url": "https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Call You in the Morning",
         "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 132309,
       "name": "Call You in the Morning",
       "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 212818,
+      "name": "Wonderland",
+      "url": "https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf"
     },
     {
       "added_at": "2023-07-28 04:00:00",

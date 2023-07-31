@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 628160,
+  "num_followers": 628134,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
+  "snapshot_id": "MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 229549,
       "name": "Pa Ti (For You)",
       "url": "https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 166400,
       "name": "FORASTEIRO",
       "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
     },
     {
       "added_at": "2023-02-17 03:00:00",

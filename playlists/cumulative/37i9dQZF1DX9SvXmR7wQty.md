@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Salebarbes
 
-1,970 songs - 4 day 9 hr 13 min
+1,971 songs - 4 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Cerf\-volant](https://open.spotify.com/track/50ek80p3iu1DkArxrxitmn) | [VIVACE](https://open.spotify.com/artist/65pD5eCYUYBXQ8HtFFonYj) | [Cerf\-volant](https://open.spotify.com/album/208mJEpcsUJvhqMMDAeSck) | 4:07 | 2022-07-22 | 2022-08-20 |
 | [Cette année\-là](https://open.spotify.com/track/10JrUDqAjSR8JlcFj6GK8i) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:08 | 2022-12-23 | 2023-01-06 |
 | [Cette année\-là](https://open.spotify.com/track/41NJluEub1MMcwkUo411an) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 3:08 | 2022-12-02 | 2023-01-04 |
+| [Cette vie](https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Cette vie](https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC) | 2:19 | 2023-07-28 |  |
 | [Champ Gauche](https://open.spotify.com/track/3VFnAkdqw4rTGNGDaFg2Jn) | [Dom Gouin](https://open.spotify.com/artist/7m2g8XzFxx2lvsiiPL5rBW) | [Champ Gauche](https://open.spotify.com/album/54ELUeCU5j4YtID1tMfrFt) | 3:09 | 2022-04-01 | 2022-04-09 |
 | [Changer le mal de place](https://open.spotify.com/track/7By5L98jfq0Dr1iSCADqIS) | [Julie Aubé](https://open.spotify.com/artist/33iNg8aAPLNrC4e69kjMuM) | [Changer le mal de place](https://open.spotify.com/album/1vmLrDeEJY45p86yNc51D7) | 2:57 | 2022-08-12 | 2022-08-27 |
 | [Changer le monde](https://open.spotify.com/track/5zzsZ24wZrEHgM8CVaAyZo) | [Star Académie](https://open.spotify.com/artist/4JNaMxBxA6eqY6QYRj5jDK) | [Changer le monde](https://open.spotify.com/album/7wK93zpO3qBJLuOnKkARDa) | 2:54 | 2022-02-11 | 2022-02-26 |
@@ -1835,7 +1836,7 @@
 | [Un autre hiver](https://open.spotify.com/track/6eLjr4UAIHYZvhBgjPlZ3L) | [Vice du Nord](https://open.spotify.com/artist/4yJ5foa0Em55APjnvFE6qm) | [Un autre hiver](https://open.spotify.com/album/146JbylMbF5nxNfrbWMVwu) | 3:21 | 2022-11-25 | 2022-12-17 |
 | [Un Bum](https://open.spotify.com/track/5V3yBZFCTUqeNkOoSar5gk) | [Thomas Argouin](https://open.spotify.com/artist/2YuO1O9h5zMxswHlFvs7b6) | [Un Bum](https://open.spotify.com/album/4pyfgT2L93E6dgNA36iHcz) | 4:19 | 2023-02-03 | 2023-02-18 |
 | [Un coup de génie](https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Un coup de génie](https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte) | 3:12 | 2022-02-04 | 2022-02-19 |
-| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 |  |
+| [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-07-31 |
 | [Un homme sans visage](https://open.spotify.com/track/5j7agNHBVTcKA8QW4aWTF8) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Un homme sans visage](https://open.spotify.com/album/7BRO1JhEMBpqrsr0FJjL6h) | 3:26 | 2022-05-13 | 2022-05-28 |
 | [Un jour ou l'autre](https://open.spotify.com/track/6w8xHbn3VHOQBzJ85majul) | [Pete](https://open.spotify.com/artist/40gbkGuMLWOxH0oGvH3MXk), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Un jour ou l'autre](https://open.spotify.com/album/2F6noOdaLKnBxtl78geaLW) | 3:02 | 2022-05-13 | 2022-05-28 |
 | [Un kid](https://open.spotify.com/track/2E1FCN9N6vNFejyksglQnZ) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Un kid](https://open.spotify.com/album/31rtUB4ct0i4tXJV0w6gPp) | 2:53 | 2022-11-18 | 2022-12-03 |

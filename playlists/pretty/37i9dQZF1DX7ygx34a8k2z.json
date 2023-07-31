@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 154223,
+  "num_followers": 154508,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmE2OWRlMDI3OTZlZWI4YmI1YzFiZmQ5NTk5OWExYmNkYzU1YjRh",
+  "snapshot_id": "MCwzYTc2MDgwZGY4M2JiMGQwZjk0Mjk4ODY3YTFmMDM5N2NhZWNmMDZl",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Laid",
-        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Laid",
+        "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Diary (2009 Edition)",
-        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 298413,
-      "name": "In Circles - Remastered",
-      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 234053,
       "name": "Ladies and gentlemen we are floating in space",
       "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Diary (2009 Edition)",
+        "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 298413,
+      "name": "In Circles - Remastered",
+      "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
     },
     {
       "added_at": "2023-06-30 04:01:00",

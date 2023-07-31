@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,579 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,732 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 9 | [Décla](https://open.spotify.com/track/05LxLrui38KJAD1Ui1yGqN) | [Nina Lili J](https://open.spotify.com/artist/4pFzPeaxtoh7hF3XOXKicA) | [Décla](https://open.spotify.com/album/0EzXEOwPCp4gbdh9WKdzHe) | 3:38 |
 | 10 | [Turn Away](https://open.spotify.com/track/7JsEd9FxQJ5rKvPpbZgLMK) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [Turn Away / Place of Our Own](https://open.spotify.com/album/6OTbYfVBmE2mCrbiVerqql) | 3:46 |
 | 11 | [Creep \- Reprise](https://open.spotify.com/track/5vZtvZGmR9APE5Uthy4A3H) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Creep \(Reprise\)](https://open.spotify.com/album/0CRmRKpMa7LpbNCkHzgwBD) | 2:51 |
-| 12 | [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 |
+| 12 | [Never Get Old](https://open.spotify.com/track/3yz5In41ReX8WHkRaAxuob) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/73XYoAKcZhb1cmt2simbJD) | 2:44 |
 | 13 | [Sparks](https://open.spotify.com/track/4qqxG6nXJPFN2SptIp2kxC) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Eternal Lover](https://open.spotify.com/album/79V882G7xyoYxmMqhEzqFX) | 3:42 |
 | 14 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
 | 15 | [The Devil I Know](https://open.spotify.com/track/2ihQW4P9ZUhjNJLL7DYz1w) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [éol](https://open.spotify.com/artist/3Qsh8vZLpSAHADVBkGD70N) | [The Devil I Know](https://open.spotify.com/album/0hJR4tbsE32LpjbdD8km3d) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le Summerlove](https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Summerlove](https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY) | 3:38 |
 | 50 | [Isn't It Something](https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Isn't It Something](https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb) | 2:24 |
 
-Snapshot ID: `MCxhNGEwMzJiNjg5MTc2YTZmODhiYTAwNWNiOWY4ZmUwYjk5ZWRjY2I3`
+Snapshot ID: `MCw4NTgwZjlmNmNmYjYxNGY5OTI5OGNkMzZjYTUzN2RmZTEyNTM2ZWZm`

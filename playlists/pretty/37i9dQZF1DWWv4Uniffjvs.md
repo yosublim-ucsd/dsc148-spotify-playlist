@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,272 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,303 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 69 | [G6X6](https://open.spotify.com/track/2teXquZs3LwcobshxNf5lA) | [SPLT](https://open.spotify.com/artist/1s8eZ4SsbJIW7bxqICUCuB) | [G6X6](https://open.spotify.com/album/4zJ9LcUPGMvuJ2IBm5Iwmx) | 5:26 |
 | 70 | [In Brasa Juke](https://open.spotify.com/track/6cJB6z5vXhe57laWv0A1JG) | [ERAM](https://open.spotify.com/artist/3dCjWxNk33F2AT6Vj5SIQu), [Tabu](https://open.spotify.com/artist/1Kmrq6n4z043MkbnpYdvyH) | [High Winds](https://open.spotify.com/album/2w5hQdlGfBWNuiuqJ5J2zX) | 3:13 |
 
-Snapshot ID: `MCwwMTFiNzQ1MTNlMWUwYTgzNmM3OTE2ZDdkYjE3M2U1NTY4YjNiYjlk`
+Snapshot ID: `MCxiY2M1Y2YwNGViN2FhNjE0MGFlZWE3YzVmMDAxMDFhMzA0YTY3NWU3`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Cover: Clara Rockmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,562 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,564 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quarantine](https://open.spotify.com/track/3c1nWxMzw76sU66l3VN9rL) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [First Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw) | 2:15 |
 | 2 | [Lunar Rhapsody](https://open.spotify.com/track/1bsxstU5DmtFcBxDfkyNbq) | [Dr\. Samuel J\. Hoffman](https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2), [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [Music Out Of The Moon: Music Unusual Featuring The Theremin](https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO) | 3:05 |
 | 3 | [The Swan](https://open.spotify.com/track/7osEgWW0fkuz4mGYzkRGsN) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 2:58 |
-| 4 | [Lost in the Stars](https://open.spotify.com/track/0bKcnwHpprzScz68vAHD5l) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/1as60mgNNvJR92gqJ3J3AG) | 2:23 |
-| 5 | [Once Upon a Time in the West](https://open.spotify.com/track/2q9X3Lz59IaBNGzR1XrRuU) | [Katica Illényi](https://open.spotify.com/artist/20J0bUSeZeOoFPjr8FBJO7) | [Around the World in 80 Days](https://open.spotify.com/album/09Xpn0xBfnKHrJvDlh6V6H) | 3:33 |
+| 4 | [Once Upon a Time in the West](https://open.spotify.com/track/2q9X3Lz59IaBNGzR1XrRuU) | [Katica Illényi](https://open.spotify.com/artist/20J0bUSeZeOoFPjr8FBJO7) | [Around the World in 80 Days](https://open.spotify.com/album/09Xpn0xBfnKHrJvDlh6V6H) | 3:33 |
+| 5 | [Lost in the Stars](https://open.spotify.com/track/0bKcnwHpprzScz68vAHD5l) | [Paul Tanner](https://open.spotify.com/artist/6rTsgjKTEYrzpu7WWMXI23) | [Music for Heavenly Bodies](https://open.spotify.com/album/1as60mgNNvJR92gqJ3J3AG) | 2:23 |
 | 6 | [It is ok to be sad and dark](https://open.spotify.com/track/47ETRprpN3ztAywwUAc6Zj) | [Kepa Lehtinen](https://open.spotify.com/artist/22No3IMhBvteEfpCo3y9gz) | [It is ok to be sad and dark](https://open.spotify.com/album/1WwjYpIOkMNQdnjZEtZ7TW) | 2:36 |
 | 7 | [Moon Moods](https://open.spotify.com/track/7dEzL6ExaXLQKVibtqjxQY) | [Dr\. Samuel J\. Hoffman](https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2), [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [Music Out Of The Moon: Music Unusual Featuring The Theremin](https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO) | 2:57 |
 | 8 | [Porgy and Bess, Act I Scene 1: Summertime \(Arr\. for Theremin & Piano\)](https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Dvořák, Ravel, Gershwin & Others: Chamber Works](https://open.spotify.com/album/55bk8Fqpfpm0rrT5vjREwn) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 49 | [Moritz Eggert: The Son Of the Daughter Of Dracula Versus The Incredible Frankenstein Monster \(From Outer Space\)](https://open.spotify.com/track/1CL8DcTGkqmXwO8au6LNZQ) | [Moritz Eggert](https://open.spotify.com/artist/5kEOPoyE7tFJVX5mEkJ791), [Barbara Buchholz](https://open.spotify.com/artist/5PKeaAkMpVKmfw9ArG4US3), [Lydia Kavina](https://open.spotify.com/artist/08GqAbGBPbwT33PIeW0QZv), [Kammerensemble Neue Musik Berlin](https://open.spotify.com/artist/1N6kZMavwtrER7WWYwleuI) | [touch! don touch! music for theremin](https://open.spotify.com/album/5PK2qYVj42440Mlb2aYNZH) | 8:45 |
 | 50 | [Thaïs: Méditation \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/5XhWzhaWzjzgPIYnGmGIcP) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 4:40 |
 
-Snapshot ID: `MCwzNTA5MmQxMTQyZGFiZTNiNjIzODZkOTFjMWMxYWE3ZDdkMWE2Mzgw`
+Snapshot ID: `MCw2MDg5MmRjODZiNTVjM2YzMjY1M2MwNmQ2NzZiYjU2ZjNjOTA4NGM3`

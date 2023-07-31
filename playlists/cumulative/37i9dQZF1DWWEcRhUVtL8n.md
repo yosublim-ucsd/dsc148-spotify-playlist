@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: The Beaches
 
-1,632 songs - 3 day 14 hr 5 min
+1,633 songs - 3 day 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Congratulations \- Remix](https://open.spotify.com/track/5FbCde0tUpWvOphrT0sGAO) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Congratulations \(Remix\)](https://open.spotify.com/album/4nNxeKXg2YGYAxd1zcfMAM) | 3:22 | 2021-01-15 | 2021-05-28 |
 | [Connect 5](https://open.spotify.com/track/6GHXF7ip4leelmjjAFYLgE) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Connect 5](https://open.spotify.com/album/2rqHR4Sjr44TPMxAmzJ0pq) | 2:53 | 2021-10-16 | 2021-10-20 |
 | [CONVERSATIONS](https://open.spotify.com/track/3AivUXivaVYYLKahJPg5y6) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [CONVERSATIONS](https://open.spotify.com/album/3g9FVRdGZrBSVfNg9ujoJR) | 2:44 | 2020-12-12 | 2021-01-15 |
+| [Coping on Unemployment](https://open.spotify.com/track/1ckD1kD5dXuV0LlbWyYcRU) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Coping on Unemployment](https://open.spotify.com/album/5lh7UQoL2Sd9HJv6kFEsTw) | 3:48 | 2023-07-28 |  |
 | [Cosmic Coming of Age](https://open.spotify.com/track/52aMA7P44g5Owg8YWpABL0) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [Cosmic Coming of Age](https://open.spotify.com/album/6N6NRhVUTgoq70ohsH9jxK) | 3:24 | 2021-05-03 | 2021-10-29 |
 | [Costa del Margate](https://open.spotify.com/track/1vRG9BA9rBh4GUap5xihpH) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Costa del Margate](https://open.spotify.com/album/0r2qoRvhrNrOvZVS41DKnt) | 5:33 | 2020-10-13\* | 2020-12-12 |
 | [cotton candy](https://open.spotify.com/track/3foWaxM2tcZD91WcOLFqch) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [cotton candy](https://open.spotify.com/album/0M57xgjAnlQp1b9b8AkXbg) | 2:47 | 2020-10-13\* | 2021-10-22 |
@@ -1308,7 +1309,7 @@
 | [Solar System](https://open.spotify.com/track/6NrBfYq03RzmwIaBPIEmOt) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA), [Boa Constrictors](https://open.spotify.com/artist/5pF04WnpEzab0at7YVjixz) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 3:32 | 2022-07-22 | 2022-08-06 |
 | [Some Type of Way \(feat\. Savage Ga$p, Salina Killa & Valentine\)](https://open.spotify.com/track/2F1qP6hBiaBeHjwDtBdVPP) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Salina Killa](https://open.spotify.com/artist/5dmNompaODMC0v2jhwEzS0), [Valentine](https://open.spotify.com/artist/4K3iYJtLjJcsfUlODo4bzS) | [BUFFET](https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV) | 2:26 | 2021-11-19 | 2022-04-15 |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2021-02-25 | 2021-05-19 |
-| [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 |  |
+| [Somebody Like Me](https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO) | 3:56 | 2023-04-28 | 2023-07-31 |
 | [somebody to lose](https://open.spotify.com/track/4JAEU9F3KQyvGkgdIK6Vjs) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [somebody to lose](https://open.spotify.com/album/6tXEF52m2XHHI51Pv3qr7M) | 3:07 | 2022-06-24 | 2022-06-28 |
 | [Someday I'll Be Happy](https://open.spotify.com/track/36abeitRdTDdUxYahI6tMU) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Someday I'll Be Happy](https://open.spotify.com/album/06afLAH01L7XTw2VzK2uDS) | 2:45 | 2021-05-03 | 2021-09-11 |
 | [Someone Else’s Dream](https://open.spotify.com/track/0N7uBJVtUegyKXKegKgjHX) | [Absofacto](https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr) | [Someone Else’s Dream](https://open.spotify.com/album/3DnnsbnubMRwgTADhTGR6f) | 3:20 | 2020-10-13\* | 2021-06-03 |

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-171 songs - 11 hr 12 min
+172 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [tens morada em mim](https://open.spotify.com/track/3Cw2TWb0LgtY9vegjf0o9m) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:21 | 2023-03-31 | 2023-04-13 |
 | [tens morada em mim](https://open.spotify.com/track/746XVpySvzCD8me5t9XdG4) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:21 | 2023-03-31 | 2023-04-20 |
 | [Terra Preta](https://open.spotify.com/track/7At8NtJbJzCF8AP00cxgYy) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Samba em Kigali](https://open.spotify.com/album/6AtxVhkA8ZYP2wSlNxGPmf) | 3:46 | 2023-05-24 |  |
-| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-14 |  |
+| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-14 | 2023-07-31 |
+| [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-06-14 |  |
 | [The Lava Is Calm](https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [The Lava Is Calm](https://open.spotify.com/album/5aHkYVIe5sD87SjN4lmFvg) | 3:06 | 2023-05-12 | 2023-06-15 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-24 | 2023-07-01 |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-07-24 |  |

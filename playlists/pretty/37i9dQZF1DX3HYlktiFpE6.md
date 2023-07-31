@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,283 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,284 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 99 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 100 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 
-Snapshot ID: `MCw2OTYwMDNlNmI4OTcwN2U0YzE1NDI0YWIxOTA5MThjZmZjMzA4MWVk`
+Snapshot ID: `MCw4MjA0N2I2YzQ1OTg4Y2MzYmRjN2Q0Y2RmOTVhYjQ4OTNkYmIwZjIz`

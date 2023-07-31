@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: STÜM
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,450 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,462 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 60 | [Going So Low](https://open.spotify.com/track/39E7cqcAPdFeFwULk8RIMW) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/2H5XQJwbsobcJLp1eeuhCg) | 3:25 |
 | 61 | [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 |
 | 62 | [Ride For Me](https://open.spotify.com/track/7FqFB8cdeF0OLxK13fBnui) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj), [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Ride For Me](https://open.spotify.com/album/3EJyCfiZvfwzbWYyVhVCoa) | 2:54 |
-| 63 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 |
+| 63 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 |
 | 64 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 |
 | 65 | [Ribs \- Joe Hertz Remix](https://open.spotify.com/track/67kfx3BK3h3Ta70P3qLMUc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Ribs \(Joe Hertz Remix\)](https://open.spotify.com/album/6PWAVIpjHxVi1bz9Qvhh7p) | 3:48 |
 | 66 | [Y\_U](https://open.spotify.com/track/0qng2IwS743cHZTHeRx035) | [Village](https://open.spotify.com/artist/6D96m0U03CqX1KdjAwZjm6) | [Y\_U](https://open.spotify.com/album/33JTJWAJwJQwMi5z4q3Lic) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 |
 | 70 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 
-Snapshot ID: `MCwwODVkZjBlNGYwYmU0YmIwNGY5YzZlM2QyYjE1NGYzOGQxMzIzNjM1`
+Snapshot ID: `MCxiMzdiZTE1ZWQ4MDE2YjQ5NTFhNTZjMzY4YzA3ZjJkYTQ4NmQ3YzUy`

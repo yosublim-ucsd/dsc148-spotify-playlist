@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,615 likes - 48 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,657 likes - 48 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 29 | [Abres Camino](https://open.spotify.com/track/4uIVZAISkG5Kg2QYBCcYHw) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 7:34 |
 | 30 | [Gracias](https://open.spotify.com/track/33dFdcaqLv97oVBHCo6Wcz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:42 |
 | 31 | [Dios De Avivamiento](https://open.spotify.com/track/2oK5Vp8bA0vaRJhQmhdC7B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Dios De Avivamiento](https://open.spotify.com/album/0nwOb0NwaqHCH2BO5sKxFp) | 4:02 |
-| 32 | [Tu Gracia](https://open.spotify.com/track/4pnVqsh2SpbKBKVR0wOVJd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 8:11 |
+| 32 | [No Hay Nada Imposible](https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 9:48 |
 | 33 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
 | 34 | [Nada Más](https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:45 |
 | 35 | [Una Nueva Historia](https://open.spotify.com/track/6sxc2kDoRsWDRUeyGKmoTg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 6:06 |
-| 36 | [No Hay Nada Imposible](https://open.spotify.com/track/40lu3hXRB2fJhDKuPGrnGL) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 9:48 |
+| 36 | [Tu Gracia](https://open.spotify.com/track/4pnVqsh2SpbKBKVR0wOVJd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 8:11 |
 | 37 | [Eres Tú](https://open.spotify.com/track/0l5Q4QKITYaO1w7nrM75kd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Músiko](https://open.spotify.com/artist/468bq1o2WymC4iUN9cCXly) | [Eres Tú](https://open.spotify.com/album/7qC6N9vB5cPCzUgRLbhMVw) | 3:42 |
 | 38 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
 | 39 | [Corro a Ti](https://open.spotify.com/track/1TWzVI03Z8DIReVDszddt8) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 5:17 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 47 | [Amanecer](https://open.spotify.com/track/5c9oAzlvPVPpxKCrhRccYm) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Emanuel](https://open.spotify.com/album/27dOnvXZkbLhiGusdxPkWY) | 4:37 |
 | 48 | [Quién Como Tú](https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:14 |
 
-Snapshot ID: `MjgxNzcyNDIsMDAwMDAwMDAxMTYwY2RlZThkMTE3ZmEwMWVkOTg4NjE1MWZlY2U5Mw==`
+Snapshot ID: `MjgxNzg2NjksMDAwMDAwMDAyMjkxMzJiNmUyZTY1ZjUwZGQ2MzliYTBhZTZiMjQyZA==`

@@ -1,12 +1,12 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 123123,
+  "num_followers": 123260,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2U0ZTMwOGUyYzRlMWI3NTM3ODc5NDIzN2E1MjE5MzMzYmExNWUy",
+  "snapshot_id": "MCxkOTBkYjVmY2U5ZTA3NWEwYzc2YTg1ZmQyYmU3OTMzNTg2MmYwNzBm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-07-28 04:49:00",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 196808,
-      "name": "Samba de Amanda e T\u00e9",
-      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
-    },
-    {
-      "added_at": "2023-07-28 04:49:00",
-      "album": {
         "name": "Canto Sagrado - Uma Homenagem \u00e0 Clara Nunes",
         "url": "https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 264933,
       "name": "Tristeza P\u00e9 No Ch\u00e3o",
       "url": "https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L"
+    },
+    {
+      "added_at": "2023-07-28 04:49:00",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 196808,
+      "name": "Samba de Amanda e T\u00e9",
+      "url": "https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc"
     },
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-28 04:49:00",
       "album": {
+        "name": "Samba a Dois",
+        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
+      },
+      "artists": [
+        {
+          "name": "Samb\u00f4",
+          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
+        }
+      ],
+      "duration_ms": 156031,
+      "name": "Samba a Dois",
+      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
+    },
+    {
+      "added_at": "2023-07-28 04:49:00",
+      "album": {
         "name": "Aquarela",
         "url": "https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 187586,
       "name": "Enquanto Voc\u00ea N\u00e3o Chega",
       "url": "https://open.spotify.com/track/2C2Y5LuGMxklegoSOc54fC"
-    },
-    {
-      "added_at": "2023-07-28 04:49:00",
-      "album": {
-        "name": "Samba a Dois",
-        "url": "https://open.spotify.com/album/626nhdq0blndq0o6jT6Rm3"
-      },
-      "artists": [
-        {
-          "name": "Samb\u00f4",
-          "url": "https://open.spotify.com/artist/6IToOQDfAKMsBckqH9tDUZ"
-        }
-      ],
-      "duration_ms": 156031,
-      "name": "Samba a Dois",
-      "url": "https://open.spotify.com/track/4lNEzj1ojOucvZKD6vFiX7"
     },
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-28 04:49:00",
       "album": {
-        "name": "Samba Social Clube",
-        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 268026,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
-    },
-    {
-      "added_at": "2023-07-28 04:49:00",
-      "album": {
         "name": "NEKTAR",
         "url": "https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg"
       },
@@ -1427,22 +1411,34 @@
     {
       "added_at": "2023-07-28 04:49:00",
       "album": {
-        "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
-        "url": "https://open.spotify.com/album/2BFqi3hWedEha3eIYKGSpm"
+        "name": "Samba Social Clube",
+        "url": "https://open.spotify.com/album/7snROpKNdroDGvYYA9UqW8"
       },
       "artists": [
         {
-          "name": "Revna",
-          "url": "https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0"
-        },
-        {
-          "name": "Ponds",
-          "url": "https://open.spotify.com/artist/6q3e7UEHUXK8mepTyndg7h"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 215250,
-      "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
-      "url": "https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk"
+      "duration_ms": 268026,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/2SEY58AadzmWPiksxr2K1N"
+    },
+    {
+      "added_at": "2023-07-28 04:49:00",
+      "album": {
+        "name": "Cantoras do Brasil",
+        "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Na Linha do Mar",
+      "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
     },
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1487,50 +1483,22 @@
     {
       "added_at": "2023-07-28 04:49:00",
       "album": {
-        "name": "Cantoras do Brasil",
-        "url": "https://open.spotify.com/album/4Zg1k7ciP5ew90hzPCkhuI"
+        "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
+        "url": "https://open.spotify.com/album/2BFqi3hWedEha3eIYKGSpm"
       },
       "artists": [
         {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Na Linha do Mar",
-      "url": "https://open.spotify.com/track/5aVHKHEeZ7XT6Upt6nl19H"
-    },
-    {
-      "added_at": "2023-07-28 04:49:00",
-      "album": {
-        "name": "Melhores Pagodes",
-        "url": "https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan"
-      },
-      "artists": [
+          "name": "Revna",
+          "url": "https://open.spotify.com/artist/5euRHFqQ2U4fCCctRKkpf0"
+        },
         {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+          "name": "Ponds",
+          "url": "https://open.spotify.com/artist/6q3e7UEHUXK8mepTyndg7h"
         }
       ],
-      "duration_ms": 243053,
-      "name": "Sufoco",
-      "url": "https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9"
-    },
-    {
-      "added_at": "2023-07-28 04:49:00",
-      "album": {
-        "name": "Baterista: Wilson Das Neves",
-        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 134533,
-      "name": "Balan\u00e7o Zona Sul",
-      "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
+      "duration_ms": 215250,
+      "name": "Onde Voc\u00ea N\u00e3o T\u00e1?",
+      "url": "https://open.spotify.com/track/4yJDBC3erIPsVsXHJ1Zovk"
     },
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1551,6 +1519,22 @@
       "duration_ms": 190880,
       "name": "Pode Ser",
       "url": "https://open.spotify.com/track/2opMS46C0A83CbZUrImjKS"
+    },
+    {
+      "added_at": "2023-07-28 04:49:00",
+      "album": {
+        "name": "Baterista: Wilson Das Neves",
+        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 134533,
+      "name": "Balan\u00e7o Zona Sul",
+      "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
     },
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 249933,
       "name": "Samba Jazz, de Raiz",
       "url": "https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB"
+    },
+    {
+      "added_at": "2023-07-28 04:49:00",
+      "album": {
+        "name": "Melhores Pagodes",
+        "url": "https://open.spotify.com/album/0AYAOB2K3Eg98YaqP3efan"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/5tNeqDocqM9bfagx3jEtd9"
     },
     {
       "added_at": "2023-07-28 04:49:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-07-28 04:49:00",
       "album": {
-        "name": "Show Em Simonal",
-        "url": "https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Meu Lim\u00e3o, Meu Limoeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/02ZCquDL46Dy8eAgAvmIXI"
-    },
-    {
-      "added_at": "2023-07-28 04:49:00",
-      "album": {
         "name": "Tamb\u00e9m Pede Bis",
         "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 171805,
       "name": "Tamb\u00e9m Pede Bis",
       "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-07-28 04:49:00",
+      "album": {
+        "name": "Show Em Simonal",
+        "url": "https://open.spotify.com/album/06I6hTwDIXWi0WxuL87ybU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Meu Lim\u00e3o, Meu Limoeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/02ZCquDL46Dy8eAgAvmIXI"
     },
     {
       "added_at": "2023-07-28 04:49:00",

@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Adolescent's Orquestra",
-  "num_followers": 1837104,
+  "num_followers": 1837242,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDYyNTM1MTg3MGUzZTkyZDY1M2VjZWE4MGU5ODE5OWYyMDFlZGVj",
+  "snapshot_id": "MCw4MDI2ZTZlMjVkN2UxMmI1Y2U4NjVjMDIxNTk2ZTZlYTEwMTBhYTk2",
   "tracks": [
     {
       "added_at": "2023-07-28 03:19:02",
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 302826,
       "name": "Ella Se Hizo Deseo",
       "url": "https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "A Mi Estilo...",
-        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Se\u00f1ora De Madrugada",
-      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
         "name": "Cartas Sobre La Mesa",
         "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 191081,
       "name": "Cartas Sobre La Mesa",
       "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Enriquez",
+          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Abre Que Voy",
+      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 185575,
       "name": "Sincero (Salsa)",
       "url": "https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/5syjNOn67VhltUhaZMkVoZ"
-      },
-      "artists": [
-        {
-          "name": "Miguel Enriquez",
-          "url": "https://open.spotify.com/artist/3BuDl3fIeTGNTV50Y7NyqL"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Abre Que Voy",
-      "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Coraz\u00f3n Roto",
-      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
         "name": "Enam\u00f3rate Bailando",
         "url": "https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 267332,
       "name": "Enam\u00f3rate Bailando",
       "url": "https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
+        "name": "Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Coraz\u00f3n Roto",
+      "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
+        "name": "Exploring Latin Heritage, Vol.3",
+        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saboreo",
+          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+        }
+      ],
+      "duration_ms": 335626,
+      "name": "La Vamo a Tumbar",
+      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
         "name": "Desn\u00fadate",
         "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "Exploring Latin Heritage, Vol.3",
-        "url": "https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6"
+        "name": "Tromboranga",
+        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
       },
       "artists": [
         {
-          "name": "Grupo Saboreo",
-          "url": "https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9"
+          "name": "Tromboranga",
+          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
         }
       ],
-      "duration_ms": 335626,
-      "name": "La Vamo a Tumbar",
-      "url": "https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy"
+      "duration_ms": 283293,
+      "name": "Agua Que Va Caer",
+      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "Tromboranga",
-        "url": "https://open.spotify.com/album/73edLPjbItIG3qulH8etvP"
-      },
-      "artists": [
-        {
-          "name": "Tromboranga",
-          "url": "https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Agua Que Va Caer",
-      "url": "https://open.spotify.com/track/4fZrgC2yPod6nIUvxPJ5aC"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "Todav\u00eda Te Espero",
-        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 192063,
-      "name": "Todav\u00eda Te Espero",
-      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
         "name": "Yo",
         "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 204500,
       "name": "Aroma",
       "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
+        "name": "Todav\u00eda Te Espero",
+        "url": "https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 192063,
+      "name": "Todav\u00eda Te Espero",
+      "url": "https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
+        "name": "Luis Figueroa",
+        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 189463,
+      "name": "Vienes",
+      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
-        "name": "Luis Figueroa",
-        "url": "https://open.spotify.com/album/3k3PwkOP7kThSg2iDxEHhE"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 189463,
-      "name": "Vienes",
-      "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "Leyendas: Salsa Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 304533,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
-    },
-    {
-      "added_at": "2023-07-28 03:19:02",
-      "album": {
         "name": "Nuestra Esquina",
         "url": "https://open.spotify.com/album/2KmfhRaTEiEARwxWlyyRDD"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 213000,
       "name": "Pa'lante y Pa'tras - Remix",
       "url": "https://open.spotify.com/track/0j1Fh9m0wZbvTIl8xIlSKH"
+    },
+    {
+      "added_at": "2023-07-28 03:19:02",
+      "album": {
+        "name": "La Foto, el Video, la Chicaner\u00eda",
+        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Calibre",
+          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+        }
+      ],
+      "duration_ms": 341839,
+      "name": "Charrupi",
+      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
     },
     {
       "added_at": "2023-07-28 03:19:02",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-07-28 03:19:02",
       "album": {
-        "name": "La Foto, el Video, la Chicaner\u00eda",
-        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
       },
       "artists": [
         {
-          "name": "Orquesta Calibre",
-          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 341839,
-      "name": "Charrupi",
-      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+      "duration_ms": 304533,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/27Xz47Suj0sTwK933U7GdT"
     }
   ],
   "unique_name": "Salsa Nation",

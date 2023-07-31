@@ -879,24 +879,6 @@
     },
     {
       "album": {
-        "name": "Beraha Ya Sheekha",
-        "url": "https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk"
-      },
-      "artists": [
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        }
-      ],
-      "date_added": "2023-02-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179526,
-      "name": "Beraha Ya Sheekha",
-      "url": "https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf"
-    },
-    {
-      "album": {
         "name": "Akhro Noor",
         "url": "https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7"
       },
@@ -5388,6 +5370,24 @@
       "duration_ms": 237600,
       "name": "\u0628\u062d\u0628\u0643 \u0648 \u062e\u0627\u064a\u0641",
       "url": "https://open.spotify.com/track/5QUsDMbLJc8b4h4gNXIyxr"
+    },
+    {
+      "album": {
+        "name": "\u0628\u0631\u0627\u062d\u0629 \u064a\u0627 \u0634\u064a\u062e\u0629",
+        "url": "https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179526,
+      "name": "\u0628\u0631\u0627\u062d\u0629 \u064a\u0627 \u0634\u064a\u062e\u0629",
+      "url": "https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf"
     },
     {
       "album": {

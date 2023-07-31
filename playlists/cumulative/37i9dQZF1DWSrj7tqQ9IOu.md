@@ -4,7 +4,7 @@
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-374 songs - 20 hr 31 min
+375 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,8 @@
 | [Médicament](https://open.spotify.com/track/7zqDvIozUYDkUU2j61O9M8) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [1901 \- Part II](https://open.spotify.com/album/3KqY4Enmk7fHbjq7eIRmY2) | 3:22 | 2022-09-15 | 2022-11-11 |
 | [Médicament](https://open.spotify.com/track/6ths4lLgtobquTsQ6hM6oa) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Médicament](https://open.spotify.com/album/4BOS3DHnFFozs9nDVGiO0j) | 3:22 | 2021-12-16 | 2022-09-16 |
 | [Mélodie \(with DORA\)](https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Mélodie \(with DORA\)](https://open.spotify.com/album/2scI9aMrYO9fkaIba8tUhn) | 3:36 | 2023-03-02 | 2023-03-18 |
-| [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 | 2023-06-01 |  |
+| [Never Get Old](https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/4hhy0wVU3ktRB7Siiikk29) | 2:44 | 2023-06-01 | 2023-07-31 |
+| [Never Get Old](https://open.spotify.com/track/3yz5In41ReX8WHkRaAxuob) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Never Get Old](https://open.spotify.com/album/73XYoAKcZhb1cmt2simbJD) | 2:44 | 2023-07-27 |  |
 | [Night Heights](https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 4:09 | 2023-04-20 |  |
 | [Night Train](https://open.spotify.com/track/471rodBEdeDSUbo4f57boM) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The French Girl Effect](https://open.spotify.com/album/2I83COQRwyk2FtG6SWYswM) | 2:31 | 2023-03-23 | 2023-04-14 |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-01-05 | 2023-01-20 |

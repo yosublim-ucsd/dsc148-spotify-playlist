@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-333 songs - 19 hr 7 min
+334 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Figure Numatic](https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO) | [Figure Numatic](https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt) | 6:10 | 2021-12-16 |  |
 | [First Law of Nature Rock Day \(feat\. Denmark Vessey\)](https://open.spotify.com/track/4xRxoDdkC1z55jlQy9SIa3) | [Dabrye](https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ) | [Three/Three](https://open.spotify.com/album/5YWh19vM9DvHTJ8cvqPRBf) | 3:32 | 2022-07-28 | 2023-03-10 |
 | [First Law of Nature Rock Day \(feat\. Denmark Vessey\)](https://open.spotify.com/track/7Fgau8g1vPWm9cIVcG3JU9) | [Dabrye](https://open.spotify.com/artist/1tVRa7YiCwE6hTGsqqb4Te), [Denmark Vessey](https://open.spotify.com/artist/6o8VpmZLTJZfFUQhKCDYoZ) | [Three/Three](https://open.spotify.com/album/4lS4VoFPUEibJzxjzTeosc) | 3:32 | 2021-12-16 | 2022-07-29 |
-| [Flashback](https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd) | 2:33 | 2023-02-09 |  |
+| [Flashback](https://open.spotify.com/track/5Niwu1Unu9JZEkkFmvWfyZ) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/1SNP0P2cVcqaptGedMs2Qd) | 2:33 | 2023-02-09 | 2023-07-31 |
 | [Flashback](https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [See You Soon](https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j) | 2:33 | 2021-12-16 | 2022-11-20 |
 | [Flowers On The Weekend](https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT) | [Flowers On The Weekend](https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K) | 2:32 | 2022-04-11 | 2022-11-24 |
 | [Fossils](https://open.spotify.com/track/1xw0CwUE6XgVGnTkNMjrFg) | [Loop Faction](https://open.spotify.com/artist/1f0dZqs2JpuHbHDtxaNdKq), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [Fossils](https://open.spotify.com/album/5Tc9dB08xZSu8OpaF9iBLG) | 2:47 | 2021-12-16 | 2022-07-29 |
@@ -135,6 +135,7 @@
 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Grown Man Sport](https://open.spotify.com/track/6dRj771QZr0KOQVwaB6ykM) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/3r4RwwnQNkdwLfOcO7WReI) | 4:36 | 2021-12-16 | 2022-11-19 |
 | [Grown Man Sport](https://open.spotify.com/track/6hANdvhL9H7bkESqIVeVIZ) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [InI](https://open.spotify.com/artist/5gv2yt9ii2nJ2tu39FPigj) | [Center of Attention](https://open.spotify.com/album/2VXkgdiXFunIO581a4vqcR) | 4:36 | 2022-10-13 |  |
+| [Guapanese](https://open.spotify.com/track/5BzIsc2VtsEKZ0kjFWPmTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Guapanese](https://open.spotify.com/album/6nrH4KzVJNY1OpjVqemOZU) | 2:24 | 2023-07-27 |  |
 | [Gucci Tried to Tell Me](https://open.spotify.com/track/0IAuU49bpY24saPlYBoMDG) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Elephant In The Room](https://open.spotify.com/album/3prLqNXoNF7GI8SjxCJyBZ) | 3:09 | 2021-12-16 | 2022-07-29 |
 | [Gucci Tried to Tell Me](https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Elephant in the Room](https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN) | 3:09 | 2022-07-28 |  |
 | [Guidelines](https://open.spotify.com/track/10kFUu0fsEalcs8WxgTNNK) | [Elaquent](https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [Guidelines](https://open.spotify.com/album/4CLwNyf4m121DxSMysMC5Q) | 4:07 | 2021-12-16 | 2022-06-18 |

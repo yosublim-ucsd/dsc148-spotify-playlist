@@ -4,7 +4,7 @@
 
 > A lo cubano 🔥 Con Descemer Bueno & Gente de Zona en portada.
 
-50 songs - 2 hr 52 min
+51 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-07-13 |  |
 | [Agua Noche Remix](https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9) | [Yulien Oviedo](https://open.spotify.com/artist/0AglxiiP1X55pczgFkgdC4), [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Agua Noche Remix](https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM) | 3:58 | 2023-07-13 |  |
 | [Calentando la Habana](https://open.spotify.com/track/1AZQo01NYm6BUxhUaxB4lf) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 4:13 | 2023-07-13 |  |
+| [Dale Pa' Miami](https://open.spotify.com/track/6Z3g1JRk0PL2UWGtWW1PxI) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Dale Pa' Miami](https://open.spotify.com/album/3pivUJGUg3vK0yqWFqsKer) | 3:14 | 2023-07-28 |  |
 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 | 2023-07-13 |  |
 | [Descargame Pero No Me Quemes](https://open.spotify.com/track/3MOSqbVAlzqobNNdSOBhdx) | [Morito pks](https://open.spotify.com/artist/6Bn1EHf3buw7nSJ9wPWXB0) | [Descargame Pero No Me Quemes](https://open.spotify.com/album/217vR8hepUDCYZxQlMqMw5) | 3:45 | 2023-07-13 |  |
 | [Después que Bailamos](https://open.spotify.com/track/63cK3MeUeFDBoEe2IRdJbZ) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Después que Bailamos](https://open.spotify.com/album/3zaUSGvWCskrMhSYPwZTEU) | 3:45 | 2023-07-13 |  |
@@ -47,7 +48,7 @@
 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 | 2023-07-13 |  |
 | [Que Rico](https://open.spotify.com/track/0zokajVwRcYAeETU54uu0s) | [Un Titico](https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX), [El Dany MG](https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG) | [Que Rico](https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx) | 2:37 | 2023-07-13 |  |
 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:11 | 2023-07-13 |  |
-| [Secuestro](https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Secuestro](https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7) | 2:53 | 2023-07-13 |  |
+| [Secuestro](https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Secuestro](https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7) | 2:53 | 2023-07-13 | 2023-07-31 |
 | [Si No Vuelves](https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [OTRA COSA](https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7) | 3:35 | 2023-07-13 |  |
 | [Southwezzzt](https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Yonki](https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Southwezzzt](https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi) | 3:07 | 2023-07-13 |  |
 | [Summer Love](https://open.spotify.com/track/5Lyk3rilywbopCieapkohG) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Summer Love](https://open.spotify.com/album/01IAYbljle6TGDD5me0n6Z) | 4:09 | 2023-07-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 186891,
+  "num_followers": 187508,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0",
+  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/60rhOCClApo0duvJbe2A18"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/1dzvje2q7KX8k1U9eOT6Pv"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust - Original Mix",
+      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 509090,
-      "name": "Future Dust - Original Mix",
-      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
       "added_at": "2023-06-02 14:30:00",

@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228190,
+  "num_followers": 228194,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "TAN CAGAU",
+        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
+      },
+      "artists": [
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "TAN CAGAU",
+      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/0TtmDFGPisyjYmdtWfN9DH"
       },
@@ -331,18 +347,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "TAN CAGAU",
-        "url": "https://open.spotify.com/album/6qKfE7JFAQcMn1Pj7Sxxlv"
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
       "artists": [
         {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 185806,
-      "name": "TAN CAGAU",
-      "url": "https://open.spotify.com/track/70OyRe3E72QqoYWkRMue66"
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -399,26 +419,6 @@
       "duration_ms": 253533,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Private Suite (Vol. 1)",
+        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 197280,
+      "name": "Freelance",
+      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 197333,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Private Suite (Vol. 1)",
-        "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        }
-      ],
-      "duration_ms": 197280,
-      "name": "Freelance",
-      "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
     },
     {
       "added_at": "2023-06-09 20:20:12",

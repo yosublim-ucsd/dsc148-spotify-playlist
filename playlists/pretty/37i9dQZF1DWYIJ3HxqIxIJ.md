@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 10 | [Timebomb](https://open.spotify.com/track/3H6F5djWiLqN1ePTHMzs3E) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [TIMEBOMBS](https://open.spotify.com/album/2fznRO2wXuzjjKvA5WvLiP) | 2:51 |
 | 11 | [Stop & Stare](https://open.spotify.com/track/3HQkHblcaWYmYfP1jIRfsj) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Stop & Stare](https://open.spotify.com/album/1NBIz4sWJZtw76e5D6issj) | 2:36 |
 | 12 | [King of Disappointment](https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [King of Disappointment](https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X) | 4:11 |
-| 13 | [Home](https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ) | 4:12 |
+| 13 | [Home](https://open.spotify.com/track/1OZX3YkWr1hrmNGsAF4Hes) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/0xRAs3x5scH14n4sAIqWw3) | 4:12 |
 | 14 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 |
 | 15 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 |
 | 16 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 54 | [Get Inspired](https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Get Inspired](https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD) | 2:53 |
 | 55 | [Only With You](https://open.spotify.com/track/39PEvDhV4y50bAvwbJCtot) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Only With You](https://open.spotify.com/album/4ybmfKNkrpIXMUQ60FvcDm) | 2:57 |
 
-Snapshot ID: `MCxhYWY5OGYzODBhNmIxOGQ0OWQ4Y2M5ZDA5NjE2N2NkYzNhNmM4MTRh`
+Snapshot ID: `MCw5MTlmMmJkYzBlMGFiNmQ0ZjZlNzJhOWI3ZmMzMzEyMWI1NmY4ZmE0`

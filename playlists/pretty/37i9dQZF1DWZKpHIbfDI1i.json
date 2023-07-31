@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Peso Pluma en portada.",
-  "num_followers": 587462,
+  "num_followers": 587856,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjQ4MzY0Y2YzYTFjZmZmOWY2NjgxODcxODE1YzM4MTRmMDQ3OGNj",
+  "snapshot_id": "MCw2YzkxODczYjg0MGZhZjkyNzA1YWUwMzBkMTFkZjAzMDJjN2QxODEz",
   "tracks": [
     {
       "added_at": "2023-07-28 16:58:53",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
+        "name": "LE VA DOLER",
+        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "LE VA DOLER",
+      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 190553,
       "name": "Di Que Si",
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
-        "name": "LE VA DOLER",
-        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "LE VA DOLER",
-      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "Solitario (En Vivo)",
-        "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 208966,
-      "name": "Solitario - En Vivo",
-      "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
         "name": "OJITOS ROJOS",
         "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
+        "name": "Solitario (En Vivo)",
+        "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 208966,
+      "name": "Solitario - En Vivo",
+      "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
+        "name": "Gorra L.A.",
+        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "Gorra L.A.",
+      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
         "name": "G Low Kitty",
         "url": "https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "Gorra L.A.",
-        "url": "https://open.spotify.com/album/1CSP6xUW9UGaQG4XsWRY1j"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "Gorra L.A.",
-      "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
         "name": "MS 20 A\u00f1os",
         "url": "https://open.spotify.com/album/2uvZN0xtan2MRzQ81NYMhj"
       },
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "SIN PASAPORTE",
-        "url": "https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS"
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
       },
       "artists": [
         {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 128065,
-      "name": "SIN PASAPORTE",
-      "url": "https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D"
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -959,6 +959,22 @@
       "duration_ms": 207946,
       "name": "Weeknd<3",
       "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
+        "name": "SIN PASAPORTE",
+        "url": "https://open.spotify.com/album/1SALlUm92ddn9Ku78OlqhS"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        }
+      ],
+      "duration_ms": 128065,
+      "name": "SIN PASAPORTE",
+      "url": "https://open.spotify.com/track/2i5SWPFQ3voJAi50uhMm5D"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -1015,26 +1031,6 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "Extra\u00f1\u00e1ndote",
-        "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
         "name": "Hoy Todo Cambio",
         "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
       },
@@ -1047,26 +1043,6 @@
       "duration_ms": 203885,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
-        "name": "Barrio (with Lefty Sm)",
-        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 144414,
-      "name": "Barrio (with Lefty Sm)",
-      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -1095,18 +1071,42 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "Destapando Botellitas",
-        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
+        "name": "Barrio (with Lefty Sm)",
+        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 139449,
-      "name": "Destapando Botellitas",
-      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/25WDjxsVCQIiVn09wjzjdO"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/4HDL7W0SdqvQKpGc6cwbOW"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "Aunque No Te Pueda Ver",
-        "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
+        "name": "La Pelinegra",
+        "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Aunque No Te Pueda Ver",
-      "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
+      "duration_ms": 155560,
+      "name": "La Pelinegra",
+      "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -1207,6 +1211,58 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
+        "name": "Destapando Botellitas",
+        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 139449,
+      "name": "Destapando Botellitas",
+      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
+        "name": "Aunque No Te Pueda Ver",
+        "url": "https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Aunque No Te Pueda Ver",
+      "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
         "name": "Ana Gloria",
         "url": "https://open.spotify.com/album/5yj42bVeOPjvJs053MvJkN"
       },
@@ -1227,6 +1283,22 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
+        "name": "Fui Marito Choklos",
+        "url": "https://open.spotify.com/album/4CB1C5rC9ufFE1QOETJ839"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 250148,
+      "name": "Fui Marito Choklos",
+      "url": "https://open.spotify.com/track/3c8xkGXxMlvBwpMNPtR0zB"
+    },
+    {
+      "added_at": "2023-07-28 16:58:53",
+      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz"
       },
@@ -1239,26 +1311,6 @@
       "duration_ms": 163040,
       "name": "Los Pasajes Del Sera",
       "url": "https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
-        "name": "UY (feat. Milo Mae)",
-        "url": "https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Milo Mae",
-          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "UY (feat. Milo Mae)",
-      "url": "https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -1283,38 +1335,22 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "Fui Marito Choklos",
-        "url": "https://open.spotify.com/album/4CB1C5rC9ufFE1QOETJ839"
+        "name": "UY (feat. Milo Mae)",
+        "url": "https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 250148,
-      "name": "Fui Marito Choklos",
-      "url": "https://open.spotify.com/track/3c8xkGXxMlvBwpMNPtR0zB"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
         }
       ],
-      "duration_ms": 208413,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+      "duration_ms": 155454,
+      "name": "UY (feat. Milo Mae)",
+      "url": "https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy"
     },
     {
       "added_at": "2023-07-28 16:58:53",
@@ -1383,54 +1419,22 @@
     {
       "added_at": "2023-07-28 16:58:53",
       "album": {
-        "name": "La Pelinegra",
-        "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
+        "name": "Pa' Olvidarme de tus Besos",
+        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 155560,
-      "name": "La Pelinegra",
-      "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
-        "name": "Live In Rio",
-        "url": "https://open.spotify.com/album/1rMKUw17NMVSPwolgMnnIz"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Rebelde - Live",
-      "url": "https://open.spotify.com/track/3SdwlXHKdBT8o3kvIjRIla"
-    },
-    {
-      "added_at": "2023-07-28 16:58:53",
-      "album": {
-        "name": "El Fantasma Sin Limites",
-        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173132,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
+      "duration_ms": 187448,
+      "name": "Pa' Olvidarme de tus Besos",
+      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
     }
   ],
   "unique_name": "Top M\u00e9xico",

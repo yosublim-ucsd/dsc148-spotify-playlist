@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 271536,
+  "num_followers": 271623,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzcwMjkwZDFhNjRhYzJjYjA5NjJiYjRhMDhmZmRjN2UzOTc2OGE2",
+  "snapshot_id": "MCxkOWZkNzVlYzc0M2FkMjllZDlhZGNjZDA2Mjg5YzRkNWY2ODNjNWY0",
   "tracks": [
     {
       "added_at": "2023-07-07 07:43:26",
@@ -31,26 +31,6 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
-        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
-      },
-      "artists": [
-        {
-          "name": "Sigvaldi Kaldal\u00f3ns",
-          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
         "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 93386,
       "name": "Kinderszenen, Op. 15: No. 1, Von fremden L\u00e4ndern und Menschen",
       "url": "https://open.spotify.com/track/4vi9pBR7yJhBzGaNu0k1gj"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
+        "name": "Kaldal\u00f3ns: Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson)",
+        "url": "https://open.spotify.com/album/3h3aFGCPGBTHNrA1Fa6tfA"
+      },
+      "artists": [
+        {
+          "name": "Sigvaldi Kaldal\u00f3ns",
+          "url": "https://open.spotify.com/artist/315KRsFj1cPJewYIbaH978"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Ave Mar\u00eda (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/6MzbO6YS0M6tjwT93hjAl0"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 136400,
       "name": "Le Carnaval des Animaux, R.125: 4. Tortues",
       "url": "https://open.spotify.com/track/5Un9h6xPqnHSvguexXnbEg"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
-        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
-        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
-      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
         "name": "Chill With Chopin",
         "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 294120,
       "name": "Andante spiniato in G: Allegro maestoso",
       "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Chopin: Romantic Chopin (The)",
-        "url": "https://open.spotify.com/album/68gxVEk9D6Z2sdLz7ZujkS"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "\u00c9tudes, Op. 10: Etude No. 6 in E-Flat Minor, Op. 10, No. 6",
-      "url": "https://open.spotify.com/track/6lU6pBRugC3zcG347TLqZx"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
         "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
         "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 233920,
       "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
       "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
+        "name": "Chopin: Romantic Chopin (The)",
+        "url": "https://open.spotify.com/album/68gxVEk9D6Z2sdLz7ZujkS"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "\u00c9tudes, Op. 10: Etude No. 6 in E-Flat Minor, Op. 10, No. 6",
+      "url": "https://open.spotify.com/track/6lU6pBRugC3zcG347TLqZx"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Beethoven: Piano Sonatas, Vol. 7",
-        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
         "name": "Myslive\u010dek: Symphonies",
         "url": "https://open.spotify.com/album/3YlNBtwjqIqsDxbrLGY5c5"
       },
@@ -1479,22 +1459,42 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
-        "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
+        "name": "Beethoven: Piano Sonatas, Vol. 7",
+        "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
       "artists": [
         {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
         },
         {
-          "name": "Werner Haas",
-          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
         }
       ],
-      "duration_ms": 145000,
-      "name": "A la mani\u00e8re de. . . Chabrier",
-      "url": "https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE"
+      "duration_ms": 180200,
+      "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
+        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
+        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 83960,
+      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
+      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -1543,22 +1543,22 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
-        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
+        "name": "Ravel: Complete Music for Piano Solo/Piano Concertos",
+        "url": "https://open.spotify.com/album/1fey9cYZHl1RsMMZci7GOw"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+          "name": "Werner Haas",
+          "url": "https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq"
         }
       ],
-      "duration_ms": 83960,
-      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
-      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
+      "duration_ms": 145000,
+      "name": "A la mani\u00e8re de. . . Chabrier",
+      "url": "https://open.spotify.com/track/0MvyO1DgIlbK4DPoAs1xlE"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
         "name": "Dittersdorf: Sinfonias On Ovid's Metamorphoses, Nos. 1 - 3",
         "url": "https://open.spotify.com/album/7aymM8KHDUWfGS3kz5K7Yv"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 255960,
       "name": "Symphony No. 1 in C Major, \"Die 4 Weltalter\" (the 4 Ages of the World): I. Larghetto",
       "url": "https://open.spotify.com/track/2rDBgkiueKILUcTSBGhSFs"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2023-07-07 07:43:26",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2023-07-07 07:43:26",
       "album": {
-        "name": "Brasil Piano",
-        "url": "https://open.spotify.com/album/2iZUelWbdDCPrAJAazJ5Ku"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 118992,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/6TCXOiDc8KWztKlpKPvpSE"
-    },
-    {
-      "added_at": "2023-07-07 07:43:26",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+    },
+    {
+      "added_at": "2023-07-07 07:43:26",
+      "album": {
+        "name": "Brasil Piano",
+        "url": "https://open.spotify.com/album/2iZUelWbdDCPrAJAazJ5Ku"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 118992,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/6TCXOiDc8KWztKlpKPvpSE"
     },
     {
       "added_at": "2023-07-07 07:43:26",

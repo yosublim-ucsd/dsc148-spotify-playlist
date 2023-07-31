@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Zamilska",
-  "num_followers": 5275,
+  "num_followers": 5276,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5",
+  "snapshot_id": "MCxlMDY2NzczYjBlYzIzNGY4OTAwMGU3Nzg2MTVkMzNkNDE5MGYzNTU5",
   "tracks": [
     {
       "added_at": "2023-07-10 22:00:00",
@@ -291,18 +291,22 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Wi\u015bnie",
-        "url": "https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG"
+        "name": "Pokolenie Dobrobytu",
+        "url": "https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS"
       },
       "artists": [
         {
           "name": "Izabela Zabielska",
           "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        },
+        {
+          "name": "Ajman",
+          "url": "https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl"
         }
       ],
-      "duration_ms": 162666,
-      "name": "Wi\u015bnie",
-      "url": "https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp"
+      "duration_ms": 194526,
+      "name": "Pokolenie Dobrobytu",
+      "url": "https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a"
     },
     {
       "added_at": "2023-07-11 14:44:13",
@@ -387,22 +391,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Pokolenie Dobrobytu",
-        "url": "https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS"
+        "name": "Wi\u015bnie",
+        "url": "https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG"
       },
       "artists": [
         {
           "name": "Izabela Zabielska",
           "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        },
-        {
-          "name": "Ajman",
-          "url": "https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Pokolenie Dobrobytu",
-      "url": "https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a"
+      "duration_ms": 162666,
+      "name": "Wi\u015bnie",
+      "url": "https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+      },
+      "artists": [
+        {
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+        }
+      ],
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
         "name": "Jeszcze mam serce",
         "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
@@ -867,8 +883,8 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "Glitterball",
+        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
       },
       "artists": [
         {
@@ -876,25 +892,9 @@
           "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 225920,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
-      },
-      "artists": [
-        {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
-        }
-      ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+      "duration_ms": 306056,
+      "name": "Glitterball",
+      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+      "duration_ms": 225920,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
         "name": "J\u0119zyk",
         "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 186468,
       "name": "J\u0119zyk",
       "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
-        "name": "Glitterball",
-        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
-      },
-      "artists": [
-        {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
-        }
-      ],
-      "duration_ms": 306056,
-      "name": "Glitterball",
-      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
     }
   ],
   "unique_name": "GLOW Polska",

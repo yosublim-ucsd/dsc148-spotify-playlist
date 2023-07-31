@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 129583,
+  "num_followers": 129912,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjA5NDcxNWU3ZjA4MGVkMmZlZDM3NDMzMjJlZjJjZTVhYmVlZWI4",
+  "snapshot_id": "MCwxN2YwOTc3MWZmNDk1ZGJkMjI4MjljNGY5YmU0YzA4MzVhNDc0Yjk4",
   "tracks": [
     {
       "added_at": "2023-06-20 14:42:27",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 153826,
-      "name": "John Hardy's Wife",
-      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Ultimate Peggy Lee",
         "url": "https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 150053,
       "name": "Hallelujah, I Love Him So",
       "url": "https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Oscar Peterson Plays The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 153826,
+      "name": "John Hardy's Wife",
+      "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "Little Lulu",
-      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Oscar Peterson's Finest Hour",
         "url": "https://open.spotify.com/album/7MvfuK2EXdoRXKpXtQqANP"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 121266,
       "name": "Mumbles",
       "url": "https://open.spotify.com/track/0sguFXNUDV7rZ9GYB9v1r2"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "Little Lulu",
+      "url": "https://open.spotify.com/track/1a8NXpwR2o6LZEG4uAJ6ck"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 116280,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 156546,
       "name": "(How Little It Matters) How Little We Know",
       "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 116280,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "Past Midnight",
         "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 134973,
       "name": "Love for Sale",
       "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
         "name": "The Feeling is Mutual",
         "url": "https://open.spotify.com/album/0NiWeiNpFi6hBoPJ7NCmHk"
       },
@@ -1331,18 +1347,22 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
       "artists": [
         {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
         }
       ],
-      "duration_ms": 182760,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy"
+      "duration_ms": 306133,
+      "name": "It's Crazy",
+      "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1363,26 +1383,6 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 306133,
-      "name": "It's Crazy",
-      "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 358760,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Jazz Masters 35: Johnny Hodges",
         "url": "https://open.spotify.com/album/4fPxmVU9pLV7SVfIKFkDLr"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 447200,
       "name": "Back Beat",
       "url": "https://open.spotify.com/track/1EDPO11fsLlQvGBhzxprqS"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 358760,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
     },
     {
       "added_at": "2023-06-20 14:42:27",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-06-20 14:42:27",
       "album": {
-        "name": "Delightfulee",
-        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
-    },
-    {
-      "added_at": "2023-06-20 14:42:27",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 219160,
       "name": "I've Told Ev'ry Little Star",
       "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
+    },
+    {
+      "added_at": "2023-06-20 14:42:27",
+      "album": {
+        "name": "Delightfulee",
+        "url": "https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU"
     },
     {
       "added_at": "2023-06-20 14:42:27",

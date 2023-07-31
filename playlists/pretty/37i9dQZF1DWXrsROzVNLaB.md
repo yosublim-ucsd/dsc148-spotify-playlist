@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,030 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,029 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 31 | [No One Like Our God](https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [No One Like Our God](https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR) | 4:09 |
 | 32 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 |
 | 33 | [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 |
-| 34 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
-| 35 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
+| 34 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
+| 35 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
 | 36 | [He Lives](https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62), [Adam Agee](https://open.spotify.com/artist/52GnWZuN0H3khY23bcyVcl) | [He Lives](https://open.spotify.com/album/2BYeHrl5Uk56Js2O6wc1Oi) | 4:46 |
 | 37 | [Beautiful Exchange \- Live](https://open.spotify.com/track/2IoLThsLZVkOwDiHwQ0dyM) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 10:43 |
 | 38 | [The Wonderful Cross](https://open.spotify.com/track/784qUrovUUH4jYQ811D6hF) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 7:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [Three](https://open.spotify.com/track/7wAR6VZvelnHbNKsrpTAs0) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Three](https://open.spotify.com/album/4CieJO00mA5U3Qy8WhPYjU) | 3:33 |
 | 75 | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/track/01F2MJzSFzD0Wqhg2bpmvG) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Ashes \(feat\. Chris McClarney\)](https://open.spotify.com/album/1SFDjdhnnT087ZPbKL33st) | 4:39 |
 
-Snapshot ID: `MCxmNzU5ZjE4ZDgxOTBjOTc5MTAwMTdmZTlmMjQ5MTQxNWFiODUxNjMy`
+Snapshot ID: `MCw5ZDA4ODBkMmU4ODljZTYyMDQxOGI2MDU2YzM1NmU3MGUyNzE2Y2Qx`

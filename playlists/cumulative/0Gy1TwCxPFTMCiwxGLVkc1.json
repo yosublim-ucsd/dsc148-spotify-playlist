@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Fairly Odd Bops Vol. 2",
+        "url": "https://open.spotify.com/album/5O3SeuLweSVHp0PvK1566G"
+      },
+      "artists": [
+        {
+          "name": "Nickelodeon",
+          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141633,
+      "name": "Gimme the Wand",
+      "url": "https://open.spotify.com/track/1pmzpe09y4xEw6tTUuKdF6"
+    },
+    {
+      "album": {
         "name": "Go To Sleep",
         "url": "https://open.spotify.com/album/3KC84qwDEw7VuGBV4Roibl"
       },
@@ -662,7 +680,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 79701,
       "name": "Go To Sleep",
       "url": "https://open.spotify.com/track/0jvUB9ZhpQ8g7xA4mIanu7"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 132471,
       "name": "Hacky Smacky (Brush Your Teeth)",
       "url": "https://open.spotify.com/track/5rW7P3ZeKvQpJ09tSAfDLQ"
@@ -821,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Qai Qai's Nursery Rhymes Remix",
+        "url": "https://open.spotify.com/album/4qc2aQQFKPoT965icHooqn"
+      },
+      "artists": [
+        {
+          "name": "Qai Qai",
+          "url": "https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86485,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/4RJN9tEClzyLNnvdMKHT4y"
+    },
+    {
+      "album": {
         "name": "I Am A Bowl",
         "url": "https://open.spotify.com/album/5nBXg3aG4PuD2TLEddV9Ww"
       },
@@ -872,10 +908,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 137133,
       "name": "I See It In The Sea",
       "url": "https://open.spotify.com/track/3MeadeAORRkIN1ABuqsRaX"
+    },
+    {
+      "album": {
+        "name": "Songs From The Hit YouTube Kids Show: Season One",
+        "url": "https://open.spotify.com/album/1qrlOEEMJBOLmbnSo2vib8"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214686,
+      "name": "I'm In Love With My Doggy - Sped Up",
+      "url": "https://open.spotify.com/track/49iqStiKWTq22efcrpMtUx"
     },
     {
       "album": {
@@ -1592,10 +1646,46 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 95071,
       "name": "Panda\u2019s Bus",
       "url": "https://open.spotify.com/track/6N6qWXQV8GaRtORPxFa5hR"
+    },
+    {
+      "album": {
+        "name": "PAW Patrol Official Theme Song & More",
+        "url": "https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40593,
+      "name": "PAW Patrol Opening Theme",
+      "url": "https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M"
+    },
+    {
+      "album": {
+        "name": "Penguin",
+        "url": "https://open.spotify.com/album/3RxVO3jatKY7gSAqRyErFS"
+      },
+      "artists": [
+        {
+          "name": "Panda and Friends",
+          "url": "https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133702,
+      "name": "Penguin",
+      "url": "https://open.spotify.com/track/78TPVdqr5N9J4qATNEll6T"
     },
     {
       "album": {
@@ -2020,7 +2110,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 46114,
       "name": "The Fairly Odd Parents Theme Song",
       "url": "https://open.spotify.com/track/4yghJ7WGLIOMFbV70QRYKE"

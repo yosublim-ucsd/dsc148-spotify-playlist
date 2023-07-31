@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,075 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,092 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [Porta](https://open.spotify.com/track/1cC76TcRLgUmOKrLVdFfky) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Porta](https://open.spotify.com/album/5QNViCOpjhnU6T5a8CjXua) | 3:08 |
 | 50 | [Residui](https://open.spotify.com/track/2QhVRIYxFNFO6I2nZFZp4O) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Residui](https://open.spotify.com/album/4z6EbOQlW2wfyx55F3ZQ6f) | 3:23 |
 
-Snapshot ID: `MCw0Nzc0MmE3NzM5YjZhMTg2MzNiMWFhOTJmYWRmNDdkMDFkMjY1YjAz`
+Snapshot ID: `MCw3NDRjODgwOTExN2Y0YjBiN2EyMjAwNjFlNzNmNGU5MDVmMmU4MDk5`

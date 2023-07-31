@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-318 songs - 1 day 4 hr 2 min
+319 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 | 2021-10-20 |  |
 | [Iniziare](https://open.spotify.com/track/6539RqDlPkwIPXrsmi4u1D) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [AVANTI](https://open.spotify.com/album/6LDgPsDJlyJ948ARpncN9c) | 5:42 | 2020-10-20 | 2022-07-25 |
 | [Into the Aether](https://open.spotify.com/track/48A4wR1mc9xv0CEZPFuThs) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Into the Aether](https://open.spotify.com/album/2zcBKjQTMvMUIpcXl0CPxH) | 4:55 | 2022-01-14 | 2022-08-14 |
+| [Into the Aether](https://open.spotify.com/track/4lsf0XeoCZ6prJ87TwibO2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 4:55 | 2022-01-14 |  |
 | [Into the Aether](https://open.spotify.com/track/7bVhowWWEHsCfl3dNa6cCk) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf) | 4:55 | 2022-01-14 | 2023-06-08 |
 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 | 2021-10-20 |  |
 | [Is This Power](https://open.spotify.com/track/6gNyWXWnOmNwhHmrqCoq6z) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/3fASgexUtIr2a7jAGaIeNP) | 8:39 | 2020-10-20 | 2022-04-21 |
@@ -226,7 +227,7 @@
 | [Phasma Gigas](https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 4:29 | 2020-07-07\* | 2022-07-28 |
 | [Playa Caribe](https://open.spotify.com/track/7M40qvytj9ZFEwc87KiOwf) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Aquatic and Other Worlds](https://open.spotify.com/album/3VZxOjrE2DkwanOwFVUggt) | 6:04 | 2022-04-12 | 2022-07-28 |
 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 | 2020-07-07\* |  |
-| [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2021-10-20 |  |
+| [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2021-10-20 | 2023-07-31 |
 | [Polygon Window](https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe) | [The Dice Man](https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 5:12 | 2021-01-16 | 2023-02-02 |
 | [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2023-04-14 | 2023-05-09 |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2021-07-09 |  |

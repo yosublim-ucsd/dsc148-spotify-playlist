@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-281 songs - 18 hr 33 min
+282 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Don't Break The Silence](https://open.spotify.com/track/7fTEiF3rNCc8TDagCAXjhd) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 1:44 | 2023-04-24 |  |
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-07-04 |  |
 | [DOWN BY LAW](https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 3:31 | 2023-06-22 | 2023-06-27 |
-| [drake era](https://open.spotify.com/track/2lHu8kPlCkYID8BeU3EAwz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black ben carson](https://open.spotify.com/album/1oDgCslpzVA6zATNLPFo7f) | 3:57 | 2022-01-17 |  |
+| [drake era](https://open.spotify.com/track/2lHu8kPlCkYID8BeU3EAwz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black ben carson](https://open.spotify.com/album/1oDgCslpzVA6zATNLPFo7f) | 3:57 | 2022-01-17 | 2023-07-31 |
+| [Drake Era](https://open.spotify.com/track/3gKtBvLJwuh2dg6x1dLDah) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Black Ben Carson](https://open.spotify.com/album/6Y7UjxYGvWGxY5KZDafQKi) | 3:57 | 2023-07-30 |  |
 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2022-06-16 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-03 |
 | [Easier](https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 3:43 | 2023-06-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Gerardo Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,848 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 98 | [El Jabalí](https://open.spotify.com/track/61FVXN8bnWjau07qJ7tq5C) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 2:06 |
 | 99 | [Más Que Tu Amigo](https://open.spotify.com/track/5sBCpZI95tSRPa7FSNAJsl) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:11 |
 
-Snapshot ID: `MCwzMjBjMDFlOWM4ZmZiMWU0YzI4NWFiNDBjNjY5NzVlZjM4ZGU5N2Iz`
+Snapshot ID: `MCxhMGRmYmYwYzg3YzgxMTkzMjFkNmNhZmE4Zjc4NDI3NTFiZDFjMmMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,343 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,386 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 55 | [Freedom Ain't Easy](https://open.spotify.com/track/6QhcPuRKNVEVijKdiDGpA4) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [JAMO](https://open.spotify.com/album/2KwsDZxvocXfvPk8WDHHYz) | 5:20 |
 | 56 | [Black Grapes](https://open.spotify.com/track/6h5z1pLe1wsv1QPEXeTu9p) | [Bocha](https://open.spotify.com/artist/3Uyli9ZRk3FZa1jYkMrxhz), [Corey G](https://open.spotify.com/artist/0OkqNjlmC3mfNMQZLWhP8l), [Jurdan Bryant](https://open.spotify.com/artist/1orGzEcUk9PolAOUmBZLR1) | [DIY](https://open.spotify.com/album/5UiPHP02USJh2sRFWAOVKP) | 2:32 |
 | 57 | [The Creator Has a Master Plan Part II](https://open.spotify.com/track/6UOA79OTL65E5rhZgaBGgW) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Shigeto](https://open.spotify.com/artist/48C2RLG6w7o4jAJjCJKZM8), [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe) | [The Creator Has a Master Plan Part II](https://open.spotify.com/album/4k14NUrZFIzbKBj07BSdDk) | 6:29 |
-| 58 | [Southend Baby](https://open.spotify.com/track/1ve2lB4TYaLEqNnkjZlewo) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [Almost Home](https://open.spotify.com/album/22mpXTrMJEfIsdPxVlq3k8) | 2:05 |
+| 58 | [Southend Baby](https://open.spotify.com/track/1iK6Dp1SL31xpaJ9VDrHrB) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [SOUTHEND LEGEND](https://open.spotify.com/album/6Vgj49lQTXVfMCLaRiew7A) | 2:05 |
 | 59 | [Take Flight \- edbl Remix](https://open.spotify.com/track/6dU1gPHs4LNyVpDIOq54iG) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Take Flight \(edbl Remix\)](https://open.spotify.com/album/3RS0D0zIsIVEWeL0s6XFHi) | 2:56 |
 | 60 | [Wrap It Up](https://open.spotify.com/track/1WrDhpbwUcUO37U6jktT0L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Wrap It Up](https://open.spotify.com/album/6YjvL41pGMuTqtm7QK94Fi) | 3:53 |
 | 61 | [Shy](https://open.spotify.com/track/4p4V4sjILJRmzRyE3taP6m) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Park](https://open.spotify.com/album/714GHMkc56vatUwbcfXk92) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 99 | [always](https://open.spotify.com/track/0hjZ5WaakADg6SzE8NRfi5) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [portrait of a dog](https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5) | 5:23 |
 | 100 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 
-Snapshot ID: `MCw4Mjg2MDZjNTY0YzYyMDFmZTg2NTk4ZGFkYjViOTM3YTVhNDU0NjIw`
+Snapshot ID: `MCxmZTJlM2I2ZjgyZmJkMzE3Y2M2ZWI4ZGVhYTJkMDAwYTYzMDY3ZWQz`

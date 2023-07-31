@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 370295,
+  "num_followers": 370521,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWJhZjU1MWRhMmMxODhhODA0OWVkMjAwM2M1ODZkMjg2ZTQwN2U0",
+  "snapshot_id": "MCw4YmY5ZDE4Mjc2MGMxYjk1NDAwNGM5ZjQ1NjJjMmJkZGQwMjI0ODVj",
   "tracks": [
     {
       "added_at": "2022-05-06 19:37:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Guitars, Cadillacs, Etc., Etc.",
-        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Guitars, Cadillacs",
-      "url": "https://open.spotify.com/track/0LATteOxdYq4vXTNZ97r77"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Mama Tried/ Pride In What I Am",
         "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 134453,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Guitars, Cadillacs",
+      "url": "https://open.spotify.com/track/0LATteOxdYq4vXTNZ97r77"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "George Strait's Greatest Hits, Volume Two",
         "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 200826,
       "name": "All My Ex's Live In Texas",
       "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "The Oak Ridge Boys Have Arrived",
-        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "Leaving Louisiana In The Broad Daylight",
-      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 249293,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "The Oak Ridge Boys Have Arrived",
+        "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Leaving Louisiana In The Broad Daylight",
+      "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
       },
@@ -963,26 +947,18 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 216573,
-      "name": "Wildflowers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1055,6 +1031,30 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Back To The Barrooms",
         "url": "https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "She's Got You - Single Version",
-      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 223613,
       "name": "Two Dozen Roses",
       "url": "https://open.spotify.com/track/2s1gKDfyy4wTv5gzZleWUT"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "She's Got You - Single Version",
+      "url": "https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e"
     },
     {
       "added_at": "2022-05-06 19:37:58",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-05-06 19:37:58",
       "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+    },
+    {
+      "added_at": "2022-05-06 19:37:58",
+      "album": {
         "name": "Just Good Ol' Boys",
         "url": "https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 158720,
       "name": "Just Good Ol' Boys",
       "url": "https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e"
-    },
-    {
-      "added_at": "2022-05-06 19:37:58",
-      "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
-      },
-      "artists": [
-        {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "added_at": "2022-05-06 19:37:58",

@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 382209,
+  "num_followers": 382270,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWIyZjFkZWJkMDgwZjM0YjA3MTAzMzI4ZjEwNDkyODU2NzY0YzUw",
+  "snapshot_id": "MCw0YThkOTI1OTRjZmJjODEwYTQyOGFkODI2OWE4ZWZhOTgyMjZjNmQw",
   "tracks": [
     {
       "added_at": "2023-07-19 14:00:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
         "name": "En attendant",
         "url": "https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 333213,
       "name": "Riders On The Storm",
       "url": "https://open.spotify.com/track/6YDi1zFfIPb5DxYPLKPF3s"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
         "name": "Stan Getz In Stockholm",
         "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 317146,
       "name": "I Can't Believe That You're In Love With Me",
       "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
-      },
-      "artists": [
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
         "name": "For my lady",
         "url": "https://open.spotify.com/album/2NLCnD0lGH6bz8lUsS1PWy"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "The Jazz Seekers",
-        "url": "https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH"
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
       "artists": [
         {
-          "name": "The Jazz Seekers",
-          "url": "https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1"
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
         }
       ],
-      "duration_ms": 287676,
-      "name": "Night Creatures",
-      "url": "https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z"
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -859,6 +843,22 @@
       "duration_ms": 235360,
       "name": "Ballad for K",
       "url": "https://open.spotify.com/track/5wwitdgVIIUfzLVrPzUKTD"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
+        "name": "The Jazz Seekers",
+        "url": "https://open.spotify.com/album/4Vsb19WKYRPRGmpx83EQEH"
+      },
+      "artists": [
+        {
+          "name": "The Jazz Seekers",
+          "url": "https://open.spotify.com/artist/1K6IcbnI4HSwAjecks1vG1"
+        }
+      ],
+      "duration_ms": 287676,
+      "name": "Night Creatures",
+      "url": "https://open.spotify.com/track/06wDTcGK2FxVvH45bak69Z"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "A Ballad Moment",
-        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
-      },
-      "artists": [
-        {
-          "name": "Karl-Martin Almqvist",
-          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 317545,
-      "name": "Moonlight in Vermont",
-      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
       },
@@ -1087,30 +1067,22 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "Times Revisited",
-        "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
+        "name": "A Ballad Moment",
+        "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
       "artists": [
         {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
         },
         {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
         }
       ],
-      "duration_ms": 265826,
-      "name": "Peaceful Paranoia",
-      "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
+      "duration_ms": 317545,
+      "name": "Moonlight in Vermont",
+      "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -1139,6 +1111,34 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
+        "name": "Times Revisited",
+        "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        }
+      ],
+      "duration_ms": 265826,
+      "name": "Peaceful Paranoia",
+      "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "Jazz Lullaby",
-        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
-      },
-      "artists": [
-        {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
-        }
-      ],
-      "duration_ms": 189929,
-      "name": "Frere Jacques",
-      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -1447,6 +1431,34 @@
       "duration_ms": 364741,
       "name": "Jennie",
       "url": "https://open.spotify.com/track/5pvXycrzupnyDZT1FVuwEL"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
+        "name": "At Ease",
+        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+      },
+      "artists": [
+        {
+          "name": "Marcus Bartelt",
+          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
+        },
+        {
+          "name": "Martin Sasse",
+          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
+        },
+        {
+          "name": "Martin Gjakonovski",
+          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
+        },
+        {
+          "name": "Joost Van Schaik",
+          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+        }
+      ],
+      "duration_ms": 454548,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -1487,30 +1499,18 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "At Ease",
-        "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
+        "name": "Jazz Lullaby",
+        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
       "artists": [
         {
-          "name": "Marcus Bartelt",
-          "url": "https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy"
-        },
-        {
-          "name": "Martin Sasse",
-          "url": "https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT"
-        },
-        {
-          "name": "Martin Gjakonovski",
-          "url": "https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61"
-        },
-        {
-          "name": "Joost Van Schaik",
-          "url": "https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ"
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
         }
       ],
-      "duration_ms": 454548,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/4wZbWbTqS657emJy9xuJ2Q"
+      "duration_ms": 189929,
+      "name": "Frere Jacques",
+      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
+        "name": "Have a Day",
+        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 383626,
+      "name": "Have a Day",
+      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
         "name": "Elisian/Inutil Paisagem",
         "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 296253,
       "name": "Elisian/Inutil Paisagem",
       "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
-        "name": "Have a Day",
-        "url": "https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k"
-      },
-      "artists": [
-        {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
-        }
-      ],
-      "duration_ms": 383626,
-      "name": "Have a Day",
-      "url": "https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY"
     },
     {
       "added_at": "2023-07-19 14:00:04",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-07-19 14:00:04",
       "album": {
-        "name": "Best of 1965-76",
-        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
-      },
-      "artists": [
-        {
-          "name": "Nathan Davis",
-          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
-        }
-      ],
-      "duration_ms": 208880,
-      "name": "Sconsolato",
-      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
-    },
-    {
-      "added_at": "2023-07-19 14:00:04",
-      "album": {
         "name": "Sideways",
         "url": "https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 244218,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/7ID8YBMZd8Cqi2fto81sP2"
+    },
+    {
+      "added_at": "2023-07-19 14:00:04",
+      "album": {
+        "name": "Best of 1965-76",
+        "url": "https://open.spotify.com/album/4cskpXjr6Ai90fLNPYX8Vv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Davis",
+          "url": "https://open.spotify.com/artist/3iF9mUqkeDgHbydOvDYqjO"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Sconsolato",
+      "url": "https://open.spotify.com/track/5kUE6uXelwvtA6qYKyfMWM"
     },
     {
       "added_at": "2023-07-19 14:00:04",

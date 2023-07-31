@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zt7Z5fA3V9.md) - [plain]
 
 > Mais que amigas, vizinhas! Ouça as músicas de 'Maldivas', estrelando Bruna Marquezine, Manu Gavassi e mais \- só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638 likes - 20 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 638 likes - 19 songs - 59 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zt7Z5fA3V9.md) - [plain]
 | 7 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:47 |
 | 8 | [Mulher, Chapéu e Botina](https://open.spotify.com/track/5xHDPaWHEqzAZ5oKTKjXBF) | [Ranieri](https://open.spotify.com/artist/4v7s0n7JHe5h8TPBdKYkX4) | [O Vaqueiro Chegou](https://open.spotify.com/album/2H4nSXLgDTyiAGf7hfSdAU) | 3:12 |
 | 9 | [Barbie Girl](https://open.spotify.com/track/2TF4jJbAiWqHojuTzgPUrc) | [Tanaë](https://open.spotify.com/artist/5a4jgwRzY0q9KopqjYrIe1) | [Barbie Girl](https://open.spotify.com/album/7zBGmptU1G30JQZMSoHIwW) | 3:48 |
-| 10 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
-| 11 | [Somebody](https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody](https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi) | 3:14 |
-| 12 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
-| 13 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
-| 14 | [These Boots Are Made For Walking](https://open.spotify.com/track/7ABtsCLOCZ5N9aXtBezZBY) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 3:16 |
-| 15 | [Destroy Me](https://open.spotify.com/track/1j1NwlmcWMW2MEkqwXUmCw) | [Nine One One](https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Songwriter Pop 2](https://open.spotify.com/album/1o9GN6jGJtPJYPOOSDvGEC) | 3:52 |
-| 16 | [7x na Semana](https://open.spotify.com/track/4DjmsguurgYNCjmotBXxuA) | [CAROL CASTRO](https://open.spotify.com/artist/7l7Zq6h9sy2YX1z9CZpsXU), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa) | [7x na Semana](https://open.spotify.com/album/7JFlYLbcgI7kPOUSDUJmZC) | 2:22 |
-| 17 | [Somos um Só](https://open.spotify.com/track/7uwQV7ayaMzokmsTA3XTHI) | [Enzo Romani](https://open.spotify.com/artist/522PTJr1Bx2IhUqvky81mO) | [Voa](https://open.spotify.com/album/5f4bdDsJjcQw7rFy6pa81P) | 3:25 |
-| 18 | [Deve ser horrível dormir sem mim](https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Deve ser horrível dormir sem mim](https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU) | 2:35 |
-| 19 | [áudio de desculpas](https://open.spotify.com/track/1JP3iGUerYKKYQwXGQGYks) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [CUTE BUT \(still\) PSYCHO](https://open.spotify.com/album/74ic7SZ8UUWmYwgax1nHtw) | 2:56 |
-| 20 | [Once in a Thousand Years](https://open.spotify.com/track/6GV1lq6e18wdrEZRGKJCMh) | [Aaron Kaplan](https://open.spotify.com/artist/24sWopYyKz8oka3O4Cp1BC) | [The Moonshine Music Co: Southern Soul](https://open.spotify.com/album/0rRkYhTctzjQRePPXBsCwB) | 3:37 |
+| 10 | [Somebody](https://open.spotify.com/track/6pU7kdmhRvhc8twYRl14bD) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody](https://open.spotify.com/album/1w197Eogn2NRkSmZQFNcKi) | 3:14 |
+| 11 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 |
+| 12 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
+| 13 | [These Boots Are Made For Walking](https://open.spotify.com/track/7ABtsCLOCZ5N9aXtBezZBY) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 3:16 |
+| 14 | [Destroy Me](https://open.spotify.com/track/1j1NwlmcWMW2MEkqwXUmCw) | [Nine One One](https://open.spotify.com/artist/0g3drvUd9hMx7PKYN4OQWy), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Songwriter Pop 2](https://open.spotify.com/album/1o9GN6jGJtPJYPOOSDvGEC) | 3:52 |
+| 15 | [7x na Semana](https://open.spotify.com/track/4DjmsguurgYNCjmotBXxuA) | [CAROL CASTRO](https://open.spotify.com/artist/7l7Zq6h9sy2YX1z9CZpsXU), [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa) | [7x na Semana](https://open.spotify.com/album/7JFlYLbcgI7kPOUSDUJmZC) | 2:22 |
+| 16 | [Somos um Só](https://open.spotify.com/track/7uwQV7ayaMzokmsTA3XTHI) | [Enzo Romani](https://open.spotify.com/artist/522PTJr1Bx2IhUqvky81mO) | [Voa](https://open.spotify.com/album/5f4bdDsJjcQw7rFy6pa81P) | 3:25 |
+| 17 | [Deve ser horrível dormir sem mim](https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Deve ser horrível dormir sem mim](https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU) | 2:35 |
+| 18 | [áudio de desculpas](https://open.spotify.com/track/1JP3iGUerYKKYQwXGQGYks) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [CUTE BUT \(still\) PSYCHO](https://open.spotify.com/album/74ic7SZ8UUWmYwgax1nHtw) | 2:56 |
+| 19 | [Once in a Thousand Years](https://open.spotify.com/track/6GV1lq6e18wdrEZRGKJCMh) | [Aaron Kaplan](https://open.spotify.com/artist/24sWopYyKz8oka3O4Cp1BC) | [The Moonshine Music Co: Southern Soul](https://open.spotify.com/album/0rRkYhTctzjQRePPXBsCwB) | 3:37 |
 
-Snapshot ID: `MCwyOWI1NjZhMzAzZTAwNjc4MzE0YTVjYzg3Nzg1NWQ4NTllMWVkYjYy`
+Snapshot ID: `MCwxNzQxNTEyNDBkZTUxMzdlNDQ1MDM0MmYyMjk4MjBlY2ZlODliODU3`

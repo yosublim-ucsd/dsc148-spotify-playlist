@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr Pig y Mario Bautista en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,759 likes - 81 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,762 likes - 81 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 37 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 |
 | 38 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
 | 39 | [¡Bang Bang!](https://open.spotify.com/track/3jporpDKD12uIni94rIOjh) | [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Barovier](https://open.spotify.com/artist/4R1nd0QT6rtLh6KKWKXeQh), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [¡Bang Bang!](https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1) | 2:47 |
-| 40 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 |
-| 41 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
+| 40 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
+| 41 | [Hanging Tree](https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Hanging Tree](https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S) | 2:53 |
 | 42 | [Brake Test](https://open.spotify.com/track/09N5F30oo4lcyXu1XqkErN) | [Kevin Brand](https://open.spotify.com/artist/37FEWLu0vHMvO4n1SHnWBS), [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Nitai Charan](https://open.spotify.com/artist/5R74FYSqMPIUYTHQs2TA6I) | [Brake Test](https://open.spotify.com/album/1sb9HqNdyxgAhBykc1FGZI) | 2:17 |
 | 43 | [Density](https://open.spotify.com/track/6cPRAfTRZhnQjKtB5y8ucp) | [Guztavo MX](https://open.spotify.com/artist/1WkYOyubVUMoS4YCIuqL9Q), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Density](https://open.spotify.com/album/2Bocmy767YuGNfbMPuMRGl) | 2:41 |
 | 44 | [Ojos \- La Noche Mix \- Radio Edit](https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ) | [Jenna Kyle](https://open.spotify.com/artist/17mfg70P3n3uE4mZP6mH8H), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Ojos \(La Noche Mix\)](https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45) | 3:00 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 80 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 | 81 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 |
 
-Snapshot ID: `MCxlNDNjMjQyZDVkMTdkYzY4NzI4YmZmMjcwMGM4ZTQwZjM0MmE4MGE5`
+Snapshot ID: `MCw1ZmVhOTQyY2I3NWEzYWEwOWZmZTQ5Mzc4ZjM1NmIwNWM5NTJjZjJi`

@@ -4,7 +4,7 @@
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-150 songs - 14 hr 48 min
+151 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Mountain Fog](https://open.spotify.com/track/76r0fkSCfI1VxJkPwH3f8V) | [Rachel Conwell](https://open.spotify.com/artist/5ImxbKryIslMlAKRf79Mhj) | [R&R](https://open.spotify.com/album/4q1yZEleDwRA4DMOpT6Xcz) | 7:53 | 2022-03-11 | 2022-05-25 |
 | [Mountain of Air](https://open.spotify.com/track/5yMNNTsImr64llPwqtB6p4) | [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [For Organ and Brass](https://open.spotify.com/album/1CYC6me7uYzEHT5klCLQpL) | 7:26 | 2022-03-08 |  |
 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 | 2022-03-08 |  |
+| [My People Have Deep Roots](https://open.spotify.com/track/0Xkmp9DkqHvz5EnA7VZPD0) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Under the Lilac Sky](https://open.spotify.com/album/6LPHMEFOuoscZzQQG2UJEj) | 4:00 | 2023-06-09 |  |
 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 | 2022-03-08 | 2023-07-30 |
 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 | 2022-03-08 |  |
 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 | 2022-03-08 |  |
@@ -116,7 +117,7 @@
 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 | 2022-03-08 | 2023-02-02 |
 | [Space 1](https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8) | 4:08 | 2022-12-20 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-03-08 |  |
-| [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 | 2022-07-22 |  |
+| [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 | 2022-07-22 | 2023-07-31 |
 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 | 2022-03-25 |  |
 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 | 2022-07-22 |  |
 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/4yKoTj0XNMnXbx0rin6P6A) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/3T0AgJ1gHqepeDICKQGkDE) | 1:21 | 2022-03-08 | 2022-07-29 |

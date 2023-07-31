@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 21790,
+  "num_followers": 21839,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTY5OGRmNzgwYTM1ODkyZDhiYWM5MmI3MmVmYjUyYjM0NjhkZmRk",
+  "snapshot_id": "MCw2ZWZmOGQyMDI5MWQxMmU5YjM0MDY3OGQ1Yjg1MGMzNWVkNjFkZjUx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Cara De Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "Qu\u00e9 Hay de Malo",
-      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Intenso",
         "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 254933,
       "name": "La Agarro Bajando",
       "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Cara De Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "Qu\u00e9 Hay de Malo",
+      "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Dos Imagenes",
-        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
+        "name": "Con Larry Harlow",
+        "url": "https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn"
       },
       "artists": [
         {
-          "name": "Ismael Quintana",
-          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        },
+        {
+          "name": "Frankie Dante & Orquesta Flamboyan",
+          "url": "https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Vacil\u00f3 Con Tumbao",
-      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
+      "duration_ms": 247998,
+      "name": "Presidente Dante",
+      "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Con Larry Harlow",
-        "url": "https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn"
+        "name": "Dos Imagenes",
+        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
       },
       "artists": [
         {
-          "name": "Larry Harlow",
-          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
-        },
-        {
-          "name": "Frankie Dante & Orquesta Flamboyan",
-          "url": "https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR"
+          "name": "Ismael Quintana",
+          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
         }
       ],
-      "duration_ms": 247998,
-      "name": "Presidente Dante",
-      "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
+      "duration_ms": 174106,
+      "name": "Vacil\u00f3 Con Tumbao",
+      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
     },
     {
       "added_at": "2023-03-17 00:52:56",

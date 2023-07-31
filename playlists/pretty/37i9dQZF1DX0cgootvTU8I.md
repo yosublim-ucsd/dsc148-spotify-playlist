@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,485 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,528 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 13 | [Looking at Your Pager \- CLIPZ Remix](https://open.spotify.com/track/2Ikl0HGBDhvSPyPudSrM9s) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Looking At Your Pager \(CLIPZ Remix\)](https://open.spotify.com/album/3Y4VU7ZIN8v4XVK6J35tdj) | 3:46 |
 | 14 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
 | 15 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
-| 16 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
-| 17 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
+| 16 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
+| 17 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 18 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
 | 19 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 |
 | 20 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 35 | [Renegade](https://open.spotify.com/track/28S4zWqYnMgVfbEPs9LQRS) | [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj) | [Renegade EP](https://open.spotify.com/album/4IMTeGeaXZjZ0EBwmgg3YV) | 5:00 |
 | 36 | [So Good](https://open.spotify.com/track/2jbNkB6CIW8vSwZMWknd8g) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1), [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [Denham Audio & Friends](https://open.spotify.com/album/42xpRc6lrJwY7yeXyhiOy9) | 5:54 |
 | 37 | [Live And Direct](https://open.spotify.com/track/64zlbq7x2ZgHPFbOUBe5v1) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3) | [FWD Thinking](https://open.spotify.com/album/6W1kKAUQ8LwG1vO0OXrKSr) | 6:02 |
-| 38 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
-| 39 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
+| 38 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/6scP0RQzLKk7grCc45KRpE) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/2Qtn6rWtRti5CknQiWh6pi) | 6:52 |
+| 39 | [Invisible Shell of Energy](https://open.spotify.com/track/7tr7SA0R0SmErK0KamRJ2O) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/2oLnlmH72BZTuDM2TMWmxI) | 6:42 |
 | 40 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 |
 | 41 | [Breakout \(Radio Edit\)](https://open.spotify.com/track/7BEW3kDFsv5ZrcI038JQHz) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Breakout](https://open.spotify.com/album/1CUTjQ5IGKUZ87EAEMzDXl) | 3:29 |
 | 42 | [Shelling](https://open.spotify.com/track/3v9sO8XfgHuz9NaWi1dVop) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Shelling](https://open.spotify.com/album/7fY2dcHafkAJihL0jP8amN) | 2:54 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 46 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
 | 47 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 48 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
-| 49 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
-| 50 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
+| 49 | [Adventures VIP \- Original](https://open.spotify.com/track/06u7pgGxQfHWs4R3ghIFbN) | [Brayzn](https://open.spotify.com/artist/5QqWJDnxXi4odamUxarOyB) | [Myor Massiv 10](https://open.spotify.com/album/6fizhc0oj1RTUZdVHWWkJV) | 6:32 |
+| 50 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 
-Snapshot ID: `MCwzZDZiZWQ0YThiOGEwYmRlOGNhMGI0M2RkZTY2MDc2ZDJlNjJhMWZi`
+Snapshot ID: `MCxhYzRlOGY3Mjc4NjUyZDk3ZDI4MTQ2YzMzOGFhYzgyYzk2NzMwNDhi`

@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTc4MSw3ZWRhNTM4MWQzM2VhNTRmYTNlNDEzYjU0OGE5OTdiZjFlNzg2OTQ5",
+  "snapshot_id": "NTc4MyxjMDgyMDMxNThlMWMzY2I4YzA4YTUwMjU3NTBmNzczNmQ5ODVkN2Qx",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -889,6 +889,26 @@
       "url": "https://open.spotify.com/track/540mfIUF3bs0ayeY358REc"
     },
     {
+      "added_at": "2022-10-28 18:40:19",
+      "album": {
+        "name": "Bestiarium",
+        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
+      },
+      "artists": [
+        {
+          "name": "Giovanni da Firenze",
+          "url": "https://open.spotify.com/artist/5HFwH1LXpwJDUg0uau3JiF"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Con bracchi assai",
+      "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
+    },
+    {
       "added_at": "2023-04-14 20:51:40",
       "album": {
         "name": "Gesualdo: Responsoria 1611",
@@ -911,26 +931,6 @@
       "duration_ms": 274978,
       "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
       "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
-    },
-    {
-      "added_at": "2022-10-28 18:40:19",
-      "album": {
-        "name": "Bestiarium",
-        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
-      },
-      "artists": [
-        {
-          "name": "Giovanni da Firenze",
-          "url": "https://open.spotify.com/artist/5HFwH1LXpwJDUg0uau3JiF"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Con bracchi assai",
-      "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
     },
     {
       "added_at": "2022-09-03 07:37:51",
@@ -1105,6 +1105,30 @@
       "url": "https://open.spotify.com/track/1cM6mneFjqEPLo43bDVNLL"
     },
     {
+      "added_at": "2023-06-26 16:11:07",
+      "album": {
+        "name": "Hortus Deliciarum (Chants Gr\u00e9goriens Du XIIe S.)",
+        "url": "https://open.spotify.com/album/7j3iGt09gz87CkmRkwjOHI"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "Brigitte Lesne",
+          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
+        },
+        {
+          "name": "Discantus",
+          "url": "https://open.spotify.com/artist/0lbvLaaitTZ4NZvcU1kRjZ"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Favus Distillans Ursula Virgo: R\u00e9pons",
+      "url": "https://open.spotify.com/track/3tTuC8wdEZ00Pto1UxbbgN"
+    },
+    {
       "added_at": "2023-04-14 20:51:40",
       "album": {
         "name": "Cavalieri: Rappresentatione di Anima, et di Corpo",
@@ -1131,30 +1155,6 @@
       "duration_ms": 198933,
       "name": "Rappresentatione di Anima, et di Corpo, Epilogo: Intermedio (Corpo)",
       "url": "https://open.spotify.com/track/18T6u9WzgAdoZMzpL82Ap9"
-    },
-    {
-      "added_at": "2023-06-26 16:11:07",
-      "album": {
-        "name": "Hortus Deliciarum (Chants Gr\u00e9goriens Du XIIe S.)",
-        "url": "https://open.spotify.com/album/7j3iGt09gz87CkmRkwjOHI"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "Brigitte Lesne",
-          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
-        },
-        {
-          "name": "Discantus",
-          "url": "https://open.spotify.com/artist/0lbvLaaitTZ4NZvcU1kRjZ"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Favus Distillans Ursula Virgo: R\u00e9pons",
-      "url": "https://open.spotify.com/track/3tTuC8wdEZ00Pto1UxbbgN"
     },
     {
       "added_at": "2022-07-15 20:19:19",
@@ -1897,6 +1897,26 @@
       "url": "https://open.spotify.com/track/1QgBalkf0RLm3vmj6zCgXq"
     },
     {
+      "added_at": "2023-07-25 21:29:20",
+      "album": {
+        "name": "Dufay: Voyage en Italie",
+        "url": "https://open.spotify.com/album/0Wj5QMYRphGKF6o8ECgz2u"
+      },
+      "artists": [
+        {
+          "name": "Antonio da Cividale",
+          "url": "https://open.spotify.com/artist/5jEyKpqoDq2cBcoqCawwv5"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 221880,
+      "name": "O felix flos Florencia - Gaude felix Dominice (Motet)",
+      "url": "https://open.spotify.com/track/6yuLp54fh9BlqBran81suq"
+    },
+    {
       "added_at": "2020-10-10 03:24:47",
       "album": {
         "name": "Music at the time of the Crusades",
@@ -1919,26 +1939,6 @@
       "duration_ms": 470173,
       "name": "O quanta qualia (hymnus) - 2000 Remastered Version",
       "url": "https://open.spotify.com/track/0eKXySeNQSU4PquCTbKJta"
-    },
-    {
-      "added_at": "2023-07-25 21:29:20",
-      "album": {
-        "name": "Dufay: Voyage en Italie",
-        "url": "https://open.spotify.com/album/0Wj5QMYRphGKF6o8ECgz2u"
-      },
-      "artists": [
-        {
-          "name": "Antonio da Cividale",
-          "url": "https://open.spotify.com/artist/5jEyKpqoDq2cBcoqCawwv5"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 221880,
-      "name": "O felix flos Florencia - Gaude felix Dominice (Motet)",
-      "url": "https://open.spotify.com/track/6yuLp54fh9BlqBran81suq"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -3217,30 +3217,6 @@
       "url": "https://open.spotify.com/track/0ET9SvzlUP31o2Oq5FTjqa"
     },
     {
-      "added_at": "2023-07-14 21:18:22",
-      "album": {
-        "name": "Gesualdo : Madrigaux, livre VI",
-        "url": "https://open.spotify.com/album/0EHinLW1hfwWxAgVbM9J7n"
-      },
-      "artists": [
-        {
-          "name": "Carlo Gesualdo",
-          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
-        },
-        {
-          "name": "Ensemble M\u00e9tamorphoses",
-          "url": "https://open.spotify.com/artist/3g81ZFdiPjwDevrsHUJQWc"
-        },
-        {
-          "name": "Maurice Bourbon",
-          "url": "https://open.spotify.com/artist/17HrtoDyKg1ywVXqrZ3mzz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Io parto e non piu dissi",
-      "url": "https://open.spotify.com/track/3k6LD457i1CluCDJKSOiLw"
-    },
-    {
       "added_at": "2022-12-30 17:02:22",
       "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
@@ -3263,6 +3239,30 @@
       "duration_ms": 209826,
       "name": "Adieu vous di, tres doulce compaynie",
       "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
+    },
+    {
+      "added_at": "2023-07-14 21:18:22",
+      "album": {
+        "name": "Gesualdo : Madrigaux, livre VI",
+        "url": "https://open.spotify.com/album/0EHinLW1hfwWxAgVbM9J7n"
+      },
+      "artists": [
+        {
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
+        },
+        {
+          "name": "Ensemble M\u00e9tamorphoses",
+          "url": "https://open.spotify.com/artist/3g81ZFdiPjwDevrsHUJQWc"
+        },
+        {
+          "name": "Maurice Bourbon",
+          "url": "https://open.spotify.com/artist/17HrtoDyKg1ywVXqrZ3mzz"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Io parto e non piu dissi",
+      "url": "https://open.spotify.com/track/3k6LD457i1CluCDJKSOiLw"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -3387,30 +3387,6 @@
     {
       "added_at": "2023-04-14 20:51:40",
       "album": {
-        "name": "The Myth of Venice: 16th-Century Music for Cornetto & Keyboards",
-        "url": "https://open.spotify.com/album/3j0DAIgWkn5sElscdSnksY"
-      },
-      "artists": [
-        {
-          "name": "Claudio Merulo",
-          "url": "https://open.spotify.com/artist/259GUXLA7Osf5srDpivlnV"
-        },
-        {
-          "name": "Gawain Glenton",
-          "url": "https://open.spotify.com/artist/0ugIYFKMkzYXexv2L6903a"
-        },
-        {
-          "name": "Silas Wollston",
-          "url": "https://open.spotify.com/artist/3Nn41M6g7InMoCv3r8djtj"
-        }
-      ],
-      "duration_ms": 361636,
-      "name": "Toccata 8",
-      "url": "https://open.spotify.com/track/057uK0W1aKVsSvQaZ8gAOa"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
         "name": "Hortus Deliciarum (Chants Gr\u00e9goriens Du XIIe S.)",
         "url": "https://open.spotify.com/album/7j3iGt09gz87CkmRkwjOHI"
       },
@@ -3431,6 +3407,30 @@
       "duration_ms": 184266,
       "name": "Enixa Est Puerpera: Hymne - Hymnaire de Pairis",
       "url": "https://open.spotify.com/track/26CJn00BQmhmVjhCkrlp37"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "The Myth of Venice: 16th-Century Music for Cornetto & Keyboards",
+        "url": "https://open.spotify.com/album/3j0DAIgWkn5sElscdSnksY"
+      },
+      "artists": [
+        {
+          "name": "Claudio Merulo",
+          "url": "https://open.spotify.com/artist/259GUXLA7Osf5srDpivlnV"
+        },
+        {
+          "name": "Gawain Glenton",
+          "url": "https://open.spotify.com/artist/0ugIYFKMkzYXexv2L6903a"
+        },
+        {
+          "name": "Silas Wollston",
+          "url": "https://open.spotify.com/artist/3Nn41M6g7InMoCv3r8djtj"
+        }
+      ],
+      "duration_ms": 361636,
+      "name": "Toccata 8",
+      "url": "https://open.spotify.com/track/057uK0W1aKVsSvQaZ8gAOa"
     },
     {
       "added_at": "2023-04-21 18:01:00",

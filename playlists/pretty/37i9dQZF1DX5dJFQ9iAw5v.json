@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 30740,
+  "num_followers": 30749,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzA5NDI4ZGQxNDQ3OWY4ZDU3ZTg2ZWFjODNmZGM0NGNkM2FhNTAz",
+  "snapshot_id": "MCwwYzQwNDQ0ZGFkZjU5Yjk0OTkyZDlmOGE5NDkyNWFiMDFjYmVhYjQz",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        }
+      ],
+      "duration_ms": 436414,
+      "name": "Kua Nalu",
+      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "ROM\u00c1N",
         "url": "https://open.spotify.com/album/1jxCi1ZhotrGNaQ1tdN5Sq"
       },
@@ -671,22 +691,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
       },
       "artists": [
         {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
         }
       ],
-      "duration_ms": 436414,
-      "name": "Kua Nalu",
-      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+      "duration_ms": 237240,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Rata",
-        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Pettinato Plays Garc\u00eda",
         "url": "https://open.spotify.com/album/4gQalZNL9vDaIu2FkTjaiO"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 339612,
       "name": "Veinte Trajes Verdes",
       "url": "https://open.spotify.com/track/1LVbxSyJpuep1OHKULZwa2"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Umbral de M\u00ed",
-        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
       "artists": [
         {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
         }
       ],
-      "duration_ms": 296653,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+        "name": "Umbral de M\u00ed",
+        "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
       "artists": [
         {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+      "duration_ms": 296653,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "El Ombligo de un Sue\u00f1o",
         "url": "https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "El Sapo Argentino de Boca Ancha",
         "url": "https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 419426,
       "name": "Tatami",
       "url": "https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
-      },
-      "artists": [
-        {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
-        }
-      ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1267,6 +1251,22 @@
       "duration_ms": 192000,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+      },
+      "artists": [
+        {
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+        }
+      ],
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1299,6 +1299,22 @@
       "duration_ms": 157533,
       "name": "Coplas de Luna Quieta",
       "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1343,22 +1359,6 @@
       "duration_ms": 495746,
       "name": "Cabrera's Blues",
       "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
     }
   ],
   "unique_name": "Jazz Argentino",

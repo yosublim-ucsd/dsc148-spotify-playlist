@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 
 > Anthems from a new generation of party starters\. Cover: venbee
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,350 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,384 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 58 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 |
 | 59 | [Mas Murder](https://open.spotify.com/track/2aV0jGk1i8jIuZUpz8IcLk) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Mas Murder](https://open.spotify.com/album/4SkE5JHPFLZRiF9LCeUn0L) | 7:18 |
 | 60 | [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 |
-| 61 | [Icy](https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Icy](https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g) | 3:34 |
-| 62 | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f) | 2:46 |
+| 61 | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/track/6ZvWa14rXQKpqNMVO0hIXD) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Enchanté \(feat\. Clementine Douglas\)](https://open.spotify.com/album/0LwP3EebCvMfaKK6KRot1f) | 2:46 |
+| 62 | [Icy](https://open.spotify.com/track/4S9p0HwkV3SvxpCR41a5IP) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Icy](https://open.spotify.com/album/3oV5TP7EKHrkcz6lS99u4g) | 3:34 |
 | 63 | [It's Your Time](https://open.spotify.com/track/3Q6T8sRZWec7A4U48jL9Wa) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd), [Jamie Boy Bassline](https://open.spotify.com/artist/0PQWIA1vcMBaOSBXnFgpLj) | [It's Your Time](https://open.spotify.com/album/4ZRW6aNvq4ec59GX7U5jTt) | 3:06 |
 | 64 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
 | 65 | [Bad Decisions](https://open.spotify.com/track/1KtNP7rNIpvYwbidfv8CqU) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Bad Decisions](https://open.spotify.com/album/5c9u50XldYoOOlXDZxfErk) | 2:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaave677EKyk.md) - [plain]
 | 79 | [Over](https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Over](https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh) | 2:38 |
 | 80 | [I Think I Love You](https://open.spotify.com/track/2KZF6LTvlwYKwhStAWCd0f) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [I Think I Love You](https://open.spotify.com/album/1GqZAk1uPn3CToYZn0Uux1) | 4:12 |
 
-Snapshot ID: `MCw4M2MxYmZlYTg5YmExMzQ5NjE5NTRhNzA4YWExYTEyZjU1OGEwYWNi`
+Snapshot ID: `MCwyN2Q3YWZhZGJiMTdmZGZjYzE4YzIzMjc2ODdkZDhjNTc2ZmQwMTlk`

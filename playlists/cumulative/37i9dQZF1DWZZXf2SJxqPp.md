@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-115 songs - 7 hr 43 min
+116 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [I Wanna Know What Love Is](https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd) | [The Prince Karma](https://open.spotify.com/artist/6ew7qRw24oov125Oly8pFD) | [I Wanna Know What Love Is](https://open.spotify.com/album/4YMlkKFWml2zbGExGt7i5X) | 2:51 | 2023-03-20 |  |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-07-21 |  |
 | [I Want Your Attention](https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM) | [First Landing](https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51) | 4:46 | 2023-03-20 |  |
-| [I Won't Fade Away](https://open.spotify.com/track/6c2Sn6SZwKvFhJhsGnZPfD) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [I Won't Fade Away](https://open.spotify.com/album/0uhCqrWtrrLIVH7bz1I2R5) | 3:48 | 2023-03-20 |  |
+| [I Won't Fade Away](https://open.spotify.com/track/6c2Sn6SZwKvFhJhsGnZPfD) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [I Won't Fade Away](https://open.spotify.com/album/0uhCqrWtrrLIVH7bz1I2R5) | 3:48 | 2023-03-20 | 2023-07-31 |
 | [It Makes You Forget \(Itgehane\) \- Edit](https://open.spotify.com/track/1GZJu6ciZ55S8Kp1s8Z5ex) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [It Makes You Forget \(Itgehane\)](https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj) | 3:56 | 2023-03-20 |  |
 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 | 2023-03-20 |  |
 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 | 2023-03-20 | 2023-06-13 |
@@ -95,6 +95,7 @@
 | [Rain Check](https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Rain Check](https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8) | 2:16 | 2023-03-20 |  |
 | [Restless](https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [Restless](https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF) | 3:25 | 2023-03-20 |  |
 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 | 2023-03-20 |  |
+| [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 | 2023-03-20 |  |
 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 | 2023-07-21 |  |
 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 | 2023-05-09 | 2023-07-30 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/3tgHGoK5ItQv2q2yqggxlb) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:05 | 2023-03-20 |  |

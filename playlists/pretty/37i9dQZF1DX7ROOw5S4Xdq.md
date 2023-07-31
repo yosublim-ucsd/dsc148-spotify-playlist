@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Weslei Santos, AMÉM
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,872 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,941 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [Braços de Amor \- Ao Vivo](https://open.spotify.com/track/1nrl6J2dR9Dk3Y22akF2bG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI), [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Braços de Amor \(Ao Vivo\)](https://open.spotify.com/album/3e3j35LvkfnEdz1gYm89eV) | 4:09 |
 | 40 | [Fogo Consumidor \- Ao Vivo](https://open.spotify.com/track/38Sz72JDYbxOMYXEdOKNZv) | [EA Sounds](https://open.spotify.com/artist/2OUchbsgqVFjOkPkb7ODk8), [Filipe Bruno](https://open.spotify.com/artist/0GEazjVq5gP7HUi3R077VJ) | [Fogo Consumidor \(Ao Vivo\)](https://open.spotify.com/album/4fMIMVLtmTbr4vnOgmxFvu) | 5:40 |
 | 41 | [Amigo](https://open.spotify.com/track/71MX9Qvm5Sp9K384lPzIya) | [Jeferson Queiroz](https://open.spotify.com/artist/46ZS0KN3Rt25IewnsRkB5A) | [Amigo](https://open.spotify.com/album/1lTS6SKxGe86KgwwN0EZ2G) | 4:34 |
-| 42 | [Cantar o Amor](https://open.spotify.com/track/3FRxjqwjhnEflSgHxF56HL) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk), [Rafael Bicudo](https://open.spotify.com/artist/3zDpsfA6VCAiPIaNCGdKC7) | [Cantar o Amor](https://open.spotify.com/album/64Qu6YfWSlT36IsjKjhl5e) | 2:21 |
+| 42 | [Cantar o Amor](https://open.spotify.com/track/3FRxjqwjhnEflSgHxF56HL) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk), [Rafael Bicudo](https://open.spotify.com/artist/61H5aPzbcBerqUNoHrckTC) | [Cantar o Amor](https://open.spotify.com/album/64Qu6YfWSlT36IsjKjhl5e) | 2:21 |
 | 43 | [Volta Jesus](https://open.spotify.com/track/6Qdw49imoXR5YWbPX5Vh4K) | [Brendo Azevedo](https://open.spotify.com/artist/5xlKk4GHzWSDyLCkjBCE6z) | [Volta Jesus](https://open.spotify.com/album/4wh6ETQ5diA8HMlxEi8n7e) | 3:10 |
 | 44 | [Eu Te Amo, Senhor](https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY) | [Léo Moreno](https://open.spotify.com/artist/7aL8gEvgW9buUDMXHdkqAP) | [Eu Te Amo, Senhor](https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU) | 5:26 |
 | 45 | [O Som da Liberdade](https://open.spotify.com/track/6Hf4bTfYtLOxzv4Ur12G9v) | [Higor Fernandes](https://open.spotify.com/artist/1noy0yXpKIidatxl4OQsY1) | [O Som da Liberdade](https://open.spotify.com/album/7sger5hoY95tgrvEhvLRpO) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Bom Mestre](https://open.spotify.com/track/08r1uMrc1HXsWGH42VlDNQ) | [Gabriela Klinger](https://open.spotify.com/artist/25OHASaqMP2gPD7MD39OQz) | [Bom Mestre](https://open.spotify.com/album/2zg5BHNqVBf17MpZYXSLA2) | 4:21 |
 | 50 | [A Esperança \- Ao Vivo](https://open.spotify.com/track/4YEQSbvIneg0Z4apJpwX1u) | [IC Music](https://open.spotify.com/artist/1czBekiZY58u6kBfqLzEFD) | [A Esperança \(Ao Vivo\)](https://open.spotify.com/album/18SLZ8KEKTitx8ht785l55) | 5:20 |
 
-Snapshot ID: `MCxkNjQ0ZWY2MGQxZjQ1YjVlNTA5YTg1M2Y1ZWY0MjAzZmQzMDVkMjFj`
+Snapshot ID: `MCwyMTljNThhMzYxYzhkNDcyMWYwNzYxZGExNjEwNDc5NWQ3ZGJjOGQz`

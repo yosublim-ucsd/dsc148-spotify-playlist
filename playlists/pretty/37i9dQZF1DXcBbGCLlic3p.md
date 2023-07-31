@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 
 > Restorative piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,444 likes - 178 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,472 likes - 178 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBbGCLlic3p.md) - [plain]
 | 177 | [Looking Up](https://open.spotify.com/track/6WPhQfpJOY2elhjJHI27H5) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 2:32 |
 | 178 | [Nefelibata](https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Nefelibata](https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn) | 3:00 |
 
-Snapshot ID: `MCxkMjAwOTBjMTc3NmY5MTA4Y2JjYTM3ZGFhMTFkOTlkZWMyNmYwZjA1`
+Snapshot ID: `MCxjZDc0NGYxY2ZhZTY0Njk2NWQwZjNmMDhlZjlhMDBiNTE3ZmQ4MjYy`

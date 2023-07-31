@@ -688,7 +688,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 269231,
       "name": "Amira",
       "url": "https://open.spotify.com/track/2BHxg3zP8IdRvvWPVavzqB"
@@ -1433,24 +1433,6 @@
     },
     {
       "album": {
-        "name": "Beraha Ya Sheekha",
-        "url": "https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk"
-      },
-      "artists": [
-        {
-          "name": "Bahaa Sultan",
-          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
-        }
-      ],
-      "date_added": "2023-02-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179526,
-      "name": "Beraha Ya Sheekha",
-      "url": "https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf"
-    },
-    {
-      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -1994,7 +1976,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 258842,
       "name": "CIRCUS MAXIMUS",
       "url": "https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ"
@@ -2328,7 +2310,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
@@ -3156,7 +3138,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 195598,
       "name": "Etnaset",
       "url": "https://open.spotify.com/track/5hiQSNo6jQbQ2m2gBZs7bU"
@@ -3872,7 +3854,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 127991,
       "name": "GOD'S COUNTRY",
       "url": "https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb"
@@ -4680,7 +4662,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-02",
+      "date_removed": null,
       "duration_ms": 244729,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/1GKqff6G0zabRInKN9Vz1S"
@@ -4782,7 +4764,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 185220,
       "name": "K-POP",
       "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
@@ -6574,7 +6556,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 255412,
       "name": "MODERN JAM",
       "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
@@ -7154,7 +7136,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 168005,
       "name": "Nazlet Seman",
       "url": "https://open.spotify.com/track/3kvFynFheCVVecaJLKketl"
@@ -7470,7 +7452,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 157682,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/4gQ6fFX5GwpUc7TdthnnKw"
@@ -8508,7 +8490,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 177281,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/1EBmjew9K69csBqRxI8BeO"
@@ -8830,7 +8812,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 204447,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
@@ -8884,7 +8866,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 366592,
       "name": "SKITZO",
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"
@@ -9628,7 +9610,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 353754,
       "name": "TELEKINESIS",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -9826,7 +9808,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"
@@ -9870,7 +9852,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 223173,
       "name": "TOPIA TWINS",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
@@ -10380,7 +10362,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Ya 3araf",
       "url": "https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF"
@@ -11311,6 +11293,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0631\u0627\u062d\u0629 \u064a\u0627 \u0634\u064a\u062e\u0629",
+        "url": "https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179526,
+      "name": "\u0628\u0631\u0627\u062d\u0629 \u064a\u0627 \u0634\u064a\u062e\u0629",
+      "url": "https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf"
+    },
+    {
+      "album": {
         "name": "\u0628\u0637\u0644",
         "url": "https://open.spotify.com/album/49dHOMyPff9KOzBNbslOxX"
       },
@@ -12204,7 +12204,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 216816,
       "name": "\u0639\u0631\u0647 \u0641\u0627\u0641\u064a \u0639\u0627\u0645\u0644 \u0645\u063a\u0627\u0645\u0631 - \u0628\u062a \u0627\u0646\u062a\u064a \u062d\u0628 \u062d\u064a\u0627\u062a\u064a",
       "url": "https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl"
@@ -13006,7 +13006,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 167272,
       "name": "\u0647\u0631\u0645\u0648\u0646 \u0627\u0644\u0633\u0639\u0627\u062f\u0629 - \u0645\u0646 \u0641\u064a\u0644\u0645 \u062a\u0627\u062c",
       "url": "https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg"
@@ -13114,7 +13114,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 264196,
       "name": "\u0648\u0633\u0637 \u062f\u0645\u0648\u0639 \u0648\u062c\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM"

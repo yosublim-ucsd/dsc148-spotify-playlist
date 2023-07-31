@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 23865,
+  "num_followers": 24149,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj",
+  "snapshot_id": "MCwxNTgyMWFiYTg1ZjExODE0NjIyZWE4ZDgwZWExNGUwYTVmNTVkZjdk",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -79,18 +79,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+      "duration_ms": 188800,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 299333,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "I'll Be Around",
-      "url": "https://open.spotify.com/track/2vLaES21zwbX1Rnmj56Bbb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "I'm Still in Love with You",
-        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 191636,
-      "name": "I'm Still in Love with You",
-      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "I'm Still in Love with You",
+        "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 191636,
+      "name": "I'm Still in Love with You",
+      "url": "https://open.spotify.com/track/2GEDd9qtGXU7IvGgqTF6Uj"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 209213,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 209213,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
-        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
-      },
-      "artists": [
-        {
-          "name": "Sunny Ozuna And Sunliners",
-          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
-        }
-      ],
-      "duration_ms": 120800,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 164133,
       "name": "Dry Your Eyes",
       "url": "https://open.spotify.com/track/5mlv9Y2cPCjZzppbkWYsKR"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Cameo Parkway Pop And Soul Gems Of 1966 Vol. 4",
+        "url": "https://open.spotify.com/album/4tC2jbwoK0pWAysK4W8Xt8"
+      },
+      "artists": [
+        {
+          "name": "Sunny Ozuna And Sunliners",
+          "url": "https://open.spotify.com/artist/2OJ8svFeHnPIaGZCW6Zc69"
+        }
+      ],
+      "duration_ms": 120800,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/0jkpPohHndqJFpcOmRr5MF"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 148346,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Daddy's Home: The Very Best Of Shep & The Limelites",
         "url": "https://open.spotify.com/album/5D69CVCyBJCbOk4xS1x3Yr"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 167986,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/64Ac1xoo77GCvnA3aaSuJk"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "The Best Of The Animals",
-        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 148346,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
     },
     {
       "added_at": "2023-05-01 20:33:48",

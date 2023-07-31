@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: YUGYEOM\(유겸\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,319 likes - 749 songs - 1 day 18 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,519 likes - 749 songs - 1 day 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -758,4 +758,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 748 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 |
 | 749 | [LOVE YOU! \(Feat\. Tablo\)](https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [LOVE YOU!](https://open.spotify.com/album/6R6OuDp9PRzfVFNsdWuI1u) | 3:05 |
 
-Snapshot ID: `MCxhOGIwM2VjZDlhMWJjZjA5YWY3YjBhMTVjZGM1MDYzYTlhYjBiNjY3`
+Snapshot ID: `MCw0ZjhjNjE2ZTI4YmViMzc0OWFmYTk0ZmRmNTU3ZjUzZDkyMjcyYTRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Usar la imaginación es la solución de un mundo ideal, ¡Vivan lxs niñxs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,291 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,389 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 24 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/52kqFv5uzPoNTPPnbo7jYZ) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Abrazos, Besos y Apapachos](https://open.spotify.com/album/6yQ77MNa0YWbZJIcAPVoLS) | 2:13 |
 | 25 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
 | 26 | [La Pepo Cumbia](https://open.spotify.com/track/2tKEwd6uJPObttivi6EEfg) | [El Show De Bely Y Beto](https://open.spotify.com/artist/4zydHC1eUFMYrjgdruJiJQ) | [La Pepo Cumbia](https://open.spotify.com/album/2jaNOb2kqXJlpaQA9jESb9) | 3:29 |
-| 27 | [No Me Quiero Bañar](https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Salta Sin Parar](https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg) | 3:40 |
-| 28 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
-| 29 | [No Importa la Distancia \(Go the Distance\)](https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:51 |
-| 30 | [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 |
+| 27 | [Flores Amarillas](https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta](https://open.spotify.com/album/5vzRtE9SIJ6MVL0j6uFhW9) | 3:43 |
+| 28 | [No Me Quiero Bañar](https://open.spotify.com/track/1q1kUQzASshxcEb5jcMWeO) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Salta Sin Parar](https://open.spotify.com/album/6ZHDbA5xHesrQC8IvKQhrg) | 3:40 |
+| 29 | [Call me Cruella](https://open.spotify.com/track/7lGfhlbpUkI1DOE51Vb2Mt) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Cruella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ibszTMHImI4rzhjrDRKMq) | 2:07 |
+| 30 | [No Importa la Distancia \(Go the Distance\)](https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 4:51 |
 | 31 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
 | 32 | [Mi Muñeca Me Habló](https://open.spotify.com/track/5ncgVzLRtRDzcPigTddpdp) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Flor Bovina](https://open.spotify.com/artist/40FjANIfFcoTtH0kF9ixHG) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:05 |
 | 33 | [Buenos Días Señor Sol](https://open.spotify.com/track/1KGat1UmiOwHtpqt2JxTnX) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Buenos Días Señor Sol](https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ) | 2:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 46 | [Un Mundo Ideal](https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:20 |
 | 47 | [Twist Del Mono Liso](https://open.spotify.com/track/5IexGMIg4gYRPz5ExvcK9A) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Maria Elena Walsh, El Legado \(Para Grandes y Chicos\)](https://open.spotify.com/album/68lycuLL6gJgJizE0UwRFr) | 3:24 |
 | 48 | [Canción de Cuna](https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko), [Dream Baby](https://open.spotify.com/artist/3E1yxE05BnQblIGuJ7yadK) | [Buenas Noches Mi Sol](https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm) | 2:42 |
-| 49 | [El Ciclo Sin Fin](https://open.spotify.com/track/0DRYjkzPqeVX2gYBFeMmxq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [El Ciclo Sin Fin](https://open.spotify.com/album/6LFMHq2OerUb17FRbDenAD) | 4:05 |
-| 50 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
+| 49 | [El Piojo y la Pulga](https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:32 |
+| 50 | [El Ciclo Sin Fin](https://open.spotify.com/track/0DRYjkzPqeVX2gYBFeMmxq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [El Ciclo Sin Fin](https://open.spotify.com/album/6LFMHq2OerUb17FRbDenAD) | 4:05 |
 
-Snapshot ID: `MCxhYzY1YTJkNDhhMzZmNTc2ZTNjOGNlZWFjYmNmYjNhN2ExYzQ3YmVh`
+Snapshot ID: `MCw4OTZjNmQxMmE2OWI2MGI0OTA4MGZmYTc1MTBjOGU2MWZlMGE0YWMy`

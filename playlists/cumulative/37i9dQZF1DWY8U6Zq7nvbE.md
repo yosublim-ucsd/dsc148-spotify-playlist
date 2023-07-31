@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-396 songs - 21 hr 28 min
+397 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Case of You](https://open.spotify.com/track/4DGNPmbnW9rKw4gwtbfW65) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Other Ways](https://open.spotify.com/album/41aCuMOH5vyFm662hYZVyS) | 4:32 | 2023-06-14 |  |
 | [abcdefu \(acoustic\) \- Radio Edit](https://open.spotify.com/track/1OTFP5JoD3Bwrg2nm0lZBH) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [abcdefu \(acoustic\)](https://open.spotify.com/album/26nOjYS1K4m5R3kg7n7AXj) | 2:48 | 2022-11-11 | 2022-12-02 |
 | [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 |  |
-| [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 | 2023-02-17 |  |
+| [After the Tears Dry \(Acoustic\)](https://open.spotify.com/track/0PJSPWUmwdiTha6X8PAMjz) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [After the Tears Dry \(Acoustic\)](https://open.spotify.com/album/4GPmnoEBdgig59gYF1P0Jw) | 2:39 | 2023-02-17 | 2023-07-31 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/1vHAmQNceQbCjx8mqh0gLg) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/1jN9d28anuaMCN1zwv1NPw) | 2:47 | 2022-08-31 | 2022-10-14 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/1wIf4GoPEDn4BIHlTmyrxi) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Ain't That Why \(Acoustic\)](https://open.spotify.com/album/4urkIKItqfoz5YKTsdszCV) | 2:47 | 2021-03-11 | 2022-07-23 |
 | [Ain't That Why \- Acoustic](https://open.spotify.com/track/6BLpUsQeShohqV1ubHzWb3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Wave EP \(Acoustic, Pt\. 2\)](https://open.spotify.com/album/7yiKHPRucPsuBPJr6Sh20Q) | 2:47 | 2022-09-30 | 2022-12-02 |
@@ -324,6 +324,7 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Somebody That I Used To Know](https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl) | 2:52 | 2023-06-09 |  |
 | [Soon You’ll Get Better \(feat\. The Chicks\)](https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:21 | 2021-03-11 | 2022-11-26 |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2022-11-25 | 2023-07-29 |
+| [Sorry](https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U) | 2:45 | 2023-06-22 |  |
 | [Sorry I'm Gone](https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL) | [Kyle Lionhart](https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j), [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Too Young](https://open.spotify.com/album/1abOgtHlHVN4INBipRQmds) | 3:47 | 2021-03-11 | 2022-11-26 |
 | [Sorry I'm Gone](https://open.spotify.com/track/6COA6vUTp6ElKpEMfJUDq8) | [Kyle Lionhart](https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j), [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Sorry I'm Gone](https://open.spotify.com/album/32VtRj64SYPRTqiNGNQChC) | 3:47 | 2022-10-26 | 2022-11-14 |
 | [Sorry I'm Gone \(feat\. Emily Reid\)](https://open.spotify.com/track/5n7qpik8TgQGGNYBsAktkr) | [Kyle Lionhart](https://open.spotify.com/artist/3VLXw7Phdo2mLlUoB5B59j), [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Sorry I'm Gone \(feat\. Emily Reid\)](https://open.spotify.com/album/189dnw9fwpzRuaxGYcagMs) | 3:47 | 2021-03-11 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 49 min
+80 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [CHIAROSCURO](https://open.spotify.com/track/3u640e6SGAEN0jkSIrPUcT) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u) | 7:56 | 2022-05-29 | 2023-07-07 |
 | [CMAA](https://open.spotify.com/track/4ThWypGQKfkB07EoT1HkaK) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 10:01 | 2022-05-31 | 2022-10-05 |
 | [CORRI](https://open.spotify.com/track/1HfGfzqzd0zhXuIntkqqAq) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u) | 4:17 | 2022-06-06 | 2023-07-04 |
+| [CORRI](https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:17 | 2023-07-30 |  |
 | [Darkened Skies](https://open.spotify.com/track/1MUsuNmzi1f8KvtvkB5AI6) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:53 | 2022-12-30 | 2023-01-11 |
 | [Enter Exit](https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:28 | 2022-05-29 |  |
 | [FIAMMA](https://open.spotify.com/track/1KE0L2k11dJjpA6aDmRAId) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 3:18 | 2023-07-27 | 2023-07-29 |
@@ -51,6 +52,7 @@
 | [La tarantola dal ventre nero](https://open.spotify.com/track/1yicvjJVBy78161FcNOXID) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Scacco al Maestro \- Volume 2](https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz) | 4:39 | 2022-10-15 |  |
 | [LET GO](https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:08 | 2022-07-14 | 2023-07-21 |
 | [LET GO](https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:08 | 2022-05-29 |  |
+| [LO SPECCHIO](https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 5:13 | 2023-07-30 |  |
 | [LO SPECCHIO](https://open.spotify.com/track/7xhIDJMutxbf3iwtHi4wbI) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u) | 5:13 | 2023-06-25 | 2023-07-01 |
 | [MAAC](https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 16:59 | 2022-05-29 | 2022-10-13 |
 | [MCAA](https://open.spotify.com/track/4VoHOltKFlMuiMHbMEwH91) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Alessandro Cortini/Merzbow](https://open.spotify.com/album/1SbqO0MvsZVEnT0gVOsryU) | 20:34 | 2022-06-03 | 2022-09-22 |

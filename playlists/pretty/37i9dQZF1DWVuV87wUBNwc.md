@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Dua Lipa au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,164,496 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,164,956 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 50 | [Dernière](https://open.spotify.com/track/4dEIdPutdmGRP2zxIXCB4S) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 3:23 |
 
-Snapshot ID: `MCxiZTMyMzIxY2Y0OGJjMWNmNWI2MWFhYTY0ODg4NTljOWI0YzhlMmVh`
+Snapshot ID: `MCwwYzgxNTU3ZWVjZTRiNWJmZjMyNjM1MjBhODkzMjE1MzYxYzQwYTMx`

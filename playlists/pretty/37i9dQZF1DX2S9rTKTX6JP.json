@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: Fall Out Boy",
-  "num_followers": 651846,
+  "num_followers": 651994,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTk5NzRjNjBhYmE4OTY0ZTYwNGIwYjI0YzI0MGU2YWEwM2FiOWZk",
+  "snapshot_id": "MCxiZDc3ZWUxNzk0YWUyZTBhYjhiNWM3NzE2ZmM4NjdmNWU1ZGY1NTUz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Weezer (Teal Album)",
+        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Temple of Love (feat. VV)",
         "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Weezer (Teal Album)",
-        "url": "https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Somebody That I Used to Know",
-        "url": "https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 209719,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/100lHmeZbp3OvinYgotmVc"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Gravity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 193080,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/65ixH4ZXPcOExEvKveYoWO"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 209719,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/100lHmeZbp3OvinYgotmVc"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Blow EP",
         "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 300698,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1327,34 +1327,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        },
-        {
-          "name": "I See Stars",
-          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
-        },
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        },
-        {
-          "name": "Ashland",
-          "url": "https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw"
-        }
-      ],
-      "duration_ms": 181695,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
       },
@@ -1403,22 +1375,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Table For Glasses",
-        "url": "https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 231368,
-      "name": "Table For Glasses",
-      "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "eMOTIVe",
         "url": "https://open.spotify.com/album/2UAin9VEGxiZRfe9Q7SKg4"
       },
@@ -1431,6 +1387,50 @@
       "duration_ms": 288000,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/34tYgJ1vX0sRpjm4teNWVe"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        },
+        {
+          "name": "I See Stars",
+          "url": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+        },
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
+        {
+          "name": "Ashland",
+          "url": "https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw"
+        }
+      ],
+      "duration_ms": 181695,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Table For Glasses",
+        "url": "https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 231368,
+      "name": "Table For Glasses",
+      "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Stairway to Nick John",
-        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 485018,
-      "name": "Stairway to Heaven",
-      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "The Human Condition (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 214325,
       "name": "Give Me One Reason (The Plug)",
       "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Stairway to Nick John",
+        "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 485018,
+      "name": "Stairway to Heaven",
+      "url": "https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI"
     }
   ],
   "unique_name": "Rock Covers",

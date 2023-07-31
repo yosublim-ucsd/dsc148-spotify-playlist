@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,915 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,926 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 18 | [Libre Soy](https://open.spotify.com/track/1ylzfSxfJCPkT77O4FNG4l) | [La Perlita](https://open.spotify.com/artist/5aEZor2Rb42Zrpkp49ZL9l) | [Libre Soy](https://open.spotify.com/album/0uGFBzPHJgpWQNTySGiDlg) | 3:28 |
 | 19 | [Movimiento](https://open.spotify.com/track/7p85F5Gc4s8XEFrHXRcQ17) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Movimiento](https://open.spotify.com/album/20CwhG9CsChHciCzDcyh5Y) | 3:26 |
 | 20 | [Quiero Volar](https://open.spotify.com/track/5IpytBp0nKRQZqu1LFYiX1) | [Kelly Fara](https://open.spotify.com/artist/365l3ip11sSLeYyumHodPs) | [Quiero Volar](https://open.spotify.com/album/7H77gBkfOutkXBN67XoHSv) | 2:40 |
-| 21 | [Rompe](https://open.spotify.com/track/6lDKZF5waYyy1pr7Lo1zof) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Rompe](https://open.spotify.com/album/18LtUmQm9NjnZLp0HNfqFN) | 2:00 |
+| 21 | [Rompe](https://open.spotify.com/track/0iN4EAGvrX6ZIXMROaKoMC) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Rompe](https://open.spotify.com/album/3RtgUpdFBpd0vPA6k8IXBI) | 2:00 |
 | 22 | [No Quiero Ser Tu Amiga](https://open.spotify.com/track/02gkVUIoVgozoR1ISkAXt5) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [No Quiero Ser Tu Amiga](https://open.spotify.com/album/0kTEBtSY2CGXW34EPXNAvv) | 2:28 |
 | 23 | [Dos pasajeros](https://open.spotify.com/track/7lnlEPoBm83Ai4q1hpXLeM) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Dos pasajeros](https://open.spotify.com/album/1wxJ0l3lCFlUUi5FzaKQDu) | 5:28 |
 | 24 | [Se Me Ha Muerto Una Flor](https://open.spotify.com/track/0hW4OTYB91BnN8Jm4SEl7w) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Un Año De Cambios](https://open.spotify.com/album/4lGZmWeKswdTsF9H2xGE8r) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [Postal barata](https://open.spotify.com/track/0N479lBYyXFdXFLxmIA5Zj) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Postal barata](https://open.spotify.com/album/0GmqbcfzupnEUquqaVlIcm) | 2:39 |
 | 50 | [Corre, Que El Rayo No Te Parta](https://open.spotify.com/track/3Audy23lbAGTdNJWS4f31d) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Corre, Que El Rayo No Te Parta](https://open.spotify.com/album/1rKNVEnWtbRmQNv5EFa3te) | 3:03 |
 
-Snapshot ID: `MCw2MjI5YzRhMThmYTM3ZDQ0YjM2ZTE4NGY5NzJlNzQ3MzE2NmI4MmI5`
+Snapshot ID: `MCw5MmIwNDliMTJlZTQ1NzZlZWQ1YTNiODMyZDdhMmE4YzQ5MTdjNTI5`

@@ -4,7 +4,7 @@
 
 > a new world of alternative electronic music\. Cover: STÜM
 
-370 songs - 1 day 3 hr 25 min
+371 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [Takes Me To You](https://open.spotify.com/track/7z5fqVuCMLTqQyI3R6jmOW) | [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Takes Me To You](https://open.spotify.com/album/1LSqyxsEsVsJcx7wvt9b1x) | 5:04 | 2022-12-08 | 2023-03-03 |
 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 | 2023-04-27 | 2023-07-14 |
 | [Temple Ball](https://open.spotify.com/track/7Ah1d6NCuGZu9cBUUgKF1H) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Artefacts](https://open.spotify.com/album/3Z8SR7Wc9EETlyQoPRZnx3) | 5:34 | 2022-12-22 | 2023-03-03 |
-| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 |  |
+| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 | 2023-07-31 |
+| [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-07-27 |  |
 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1FD1QJDanGbIvlzISHezws) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/0ieNOineZMrDVzWV9iLPYC) | 3:49 | 2023-01-26 | 2023-03-10 |
 | [The Rite Time \- Radio Edit](https://open.spotify.com/track/1JwmlXDTUO9bu6T8yjTtfw) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Rite Time \(Radio Edit\)](https://open.spotify.com/album/6y1xp6VHSLb450XxNsGDXA) | 3:49 | 2022-12-08 | 2023-02-02 |
 | [The Sea](https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [The Sea](https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo) | 3:10 | 2023-07-27 |  |

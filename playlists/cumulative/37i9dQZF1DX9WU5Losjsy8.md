@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-71 songs - 3 hr 35 min
+72 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,10 +30,11 @@
 | [Dorflove](https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Thekensportlerz](https://open.spotify.com/artist/0TmXQnUwPnEx8MLICEk1r4) | [Dorflove](https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR) | 2:41 | 2023-07-14 |  |
 | [Easy Peasy](https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Fliesentisch Romantik 2](https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM) | 2:30 | 2023-07-14 |  |
 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 | 2023-07-14 |  |
+| [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 | 2023-07-28 |  |
 | [Eine Woche wach](https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Eine Woche wach](https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA) | 3:55 | 2023-07-14 |  |
 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 | 2023-07-14 |  |
 | [Hamma! \- Single Edit](https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Culcha Candela](https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM) | 3:29 | 2023-07-14 |  |
-| [Heisser Sand](https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Heisser Sand](https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV) | 2:03 | 2023-07-14 |  |
+| [Heisser Sand](https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Heisser Sand](https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV) | 2:03 | 2023-07-14 | 2023-07-31 |
 | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3) | 4:06 | 2023-07-14 |  |
 | [Herz an Herz](https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y) | [Blümchen](https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh) | [Herzfrequenz](https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz) | 3:47 | 2023-07-14 |  |
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |

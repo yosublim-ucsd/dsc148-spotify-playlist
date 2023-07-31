@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=\_W\-B2kvUTFeRbAOSHAPq4g"> احمد سعد </a> و <a href="https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814?si=Ql5U58LxTguGr2c5ooJOYg"> روبي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,968 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,374 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 5 | [Law Kan](https://open.spotify.com/track/75mZKR14B0oKPdpWNVhbYx) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Law Kan](https://open.spotify.com/album/6FtU7VDfDmKUrS5sxf6V4e) | 4:16 |
 | 6 | [Raye2](https://open.spotify.com/track/5FG5OwMxg6fUSW8cD3W6M0) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Raye2](https://open.spotify.com/album/2czAtFBjF4awl68FiZQxUE) | 3:47 |
 | 7 | [لمون نعناع](https://open.spotify.com/track/0MTRIhdVLqOy0mnTXtM5jM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [لمون نعناع](https://open.spotify.com/album/5IJllrLdWkmEYDJ6N4tw1Y) | 3:26 |
-| 8 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 |
+| 8 | [براحة يا شيخة](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [براحة يا شيخة](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 |
 | 9 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 |
 | 10 | [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 |
 | 11 | [Come Baby Come](https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Come Baby Come](https://open.spotify.com/album/45VdyjjPc7u8g8UeOvowjI) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Matzaalsh](https://open.spotify.com/track/4C8NYoAzT72Yikn2xeRV8f) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Matzaalsh](https://open.spotify.com/album/772AFGsp15ARb8JczKptWc) | 3:40 |
 | 50 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 |
 
-Snapshot ID: `MCw1NWVlMjhlYTg1NDNjZWMzMDJkMjc0MzkzMmZiNTg3ZTlmNGUzMjFm`
+Snapshot ID: `MCxlYWQwZjBkZjA3ZWRjOWQ2YjA2NjY3NDc4Yjk1NGI4OGU2NWY2YTRh`

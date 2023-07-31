@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 50121,
+  "num_followers": 50169,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjcyOWMzMzhmMzQ1OGM0OTI2MGMwNmJjYjNhYzBmNTJjMDQ2ZDRm",
+  "snapshot_id": "MCw4Nzg3MWU3NDk3ODllYjQ4M2Q5NjdiM2M4MzBlMjg5NjIyYThhNDlh",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Moca",
+        "url": "https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw"
+      },
+      "artists": [
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Moca",
+      "url": "https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Brrrp",
         "url": "https://open.spotify.com/album/4lZXa3MY9tsZxsrnpx54fm"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 161182,
       "name": "Brrrp",
       "url": "https://open.spotify.com/track/383ptF3PbNr3Z1NvwO2Je5"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Moca",
-        "url": "https://open.spotify.com/album/2BbdZLSx9ZxqRK8NlCrmmw"
-      },
-      "artists": [
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Moca",
-      "url": "https://open.spotify.com/track/25gAArCPkbQRxgb7HXYqrP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Street Cred",
+        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Street Cred",
+      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "West Indies",
         "url": "https://open.spotify.com/album/0JQXq0ZM0Nugq7QISjEDAq"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 197052,
       "name": "From Rags to Riches",
       "url": "https://open.spotify.com/track/4aiIKB4FplhLZq0TCh16Ya"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Street Cred",
-        "url": "https://open.spotify.com/album/2yEZn1kPkRUTW3F48OEFeB"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Street Cred",
-      "url": "https://open.spotify.com/track/7uCd9RMJGcbZY9zpv0dPw7"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Likkle Miss",
+        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        }
+      ],
+      "duration_ms": 134452,
+      "name": "Likkle Miss",
+      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Dunce Bat",
         "url": "https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 193958,
       "name": "GPP",
       "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Likkle Miss",
-        "url": "https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk"
-      },
-      "artists": [
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "Likkle Miss",
-      "url": "https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Born Fighter",
+        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
+      },
+      "artists": [
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        }
+      ],
+      "duration_ms": 208928,
+      "name": "Born Fighter",
+      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 236425,
       "name": "Next To Me (feat. Toni-Ann Singh)",
       "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Born Fighter",
-        "url": "https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc"
-      },
-      "artists": [
-        {
-          "name": "Jahshii",
-          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
-        }
-      ],
-      "duration_ms": 208928,
-      "name": "Born Fighter",
-      "url": "https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Peace of Mind",
-        "url": "https://open.spotify.com/album/4A17sw812lXIlFlmavhK37"
+        "name": "Yahoo Boyz",
+        "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
       },
       "artists": [
         {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        },
+        {
+          "name": "Countree Hype",
+          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
         }
       ],
-      "duration_ms": 155611,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
+      "duration_ms": 157800,
+      "name": "Yahoo Boyz",
+      "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1207,6 +1211,22 @@
       "duration_ms": 192156,
       "name": "Try Dat",
       "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/4A17sw812lXIlFlmavhK37"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 155611,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1247,26 +1267,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Yahoo Boyz",
-        "url": "https://open.spotify.com/album/6h8yCyZibQMYez5ZgzFUDt"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        },
-        {
-          "name": "Countree Hype",
-          "url": "https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Yahoo Boyz",
-      "url": "https://open.spotify.com/track/4lE9Acw3XuiLhz32imREj4"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Still a Bleed",
         "url": "https://open.spotify.com/album/7yXsnGPX5pmfHxvoEDMyuG"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 149818,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Sell Lie",
         "url": "https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 171206,
       "name": "Sell Lie",
       "url": "https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 149818,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Another Dolla",
-        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
-      },
-      "artists": [
-        {
-          "name": "RajahWild",
-          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
-        }
-      ],
-      "duration_ms": 163526,
-      "name": "Another Dolla",
-      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Money & Done (Remix)",
         "url": "https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 160528,
       "name": "Money & Done - Remix",
       "url": "https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Another Dolla",
+        "url": "https://open.spotify.com/album/47WukhbbObtRY8dJJNtLpl"
+      },
+      "artists": [
+        {
+          "name": "RajahWild",
+          "url": "https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI"
+        }
+      ],
+      "duration_ms": 163526,
+      "name": "Another Dolla",
+      "url": "https://open.spotify.com/track/7deQrS3BUiDdPJgAl2e3MP"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Perfect Summer",
-        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "Perfect Summer",
-      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Corrupt, Pt. 2",
         "url": "https://open.spotify.com/album/6xqICcPQrRijWbnfWNTc3r"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 156631,
       "name": "Corrupt, Pt. 2",
       "url": "https://open.spotify.com/track/7zTa7Ba7lV0DOya0xTj5Uf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Perfect Summer",
+        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 191526,
+      "name": "Perfect Summer",
+      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Who Cares",
-        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
-      },
-      "artists": [
-        {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Who Cares",
-      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Imperfections",
         "url": "https://open.spotify.com/album/4Y6O56WU1RCfEXPmBnMhFf"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 166687,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/7Hly3BuOvebTEuRRRKjsGC"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Who Cares",
+        "url": "https://open.spotify.com/album/20KtHUMM6VGYqfsUVF8QTb"
+      },
+      "artists": [
+        {
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Who Cares",
+      "url": "https://open.spotify.com/track/1V2JgYBZYFW5zmLrWMQf4w"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Skeng Live Large",
+        "url": "https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ"
+      },
+      "artists": [
+        {
+          "name": "Guhoffentertainment",
+          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
+        },
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
+        }
+      ],
+      "duration_ms": 160313,
+      "name": "Skeng Live Large",
+      "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Every Gyal Want We",
         "url": "https://open.spotify.com/album/4KpYEYoNTXAlqGhFWbrw55"
       },
@@ -2183,26 +2203,6 @@
       "duration_ms": 163200,
       "name": "Every Gyal Waan We",
       "url": "https://open.spotify.com/track/7wcHrLyVTB0YhwqzRiRn8I"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Skeng Live Large",
-        "url": "https://open.spotify.com/album/4sgsQQ4qo5KfgOZ5WBviVZ"
-      },
-      "artists": [
-        {
-          "name": "Guhoffentertainment",
-          "url": "https://open.spotify.com/artist/4bai0UjpFWuKw86ytBiIiV"
-        },
-        {
-          "name": "Skeng",
-          "url": "https://open.spotify.com/artist/27nN7fkb9DQGvW6kNWYBuc"
-        }
-      ],
-      "duration_ms": 160313,
-      "name": "Skeng Live Large",
-      "url": "https://open.spotify.com/track/0H1HSpmEAr0wUa9QTFsdzK"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2243,26 +2243,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Riches Wii a Pree",
-        "url": "https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD"
-      },
-      "artists": [
-        {
-          "name": "Inner Circle",
-          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
-        },
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        }
-      ],
-      "duration_ms": 186654,
-      "name": "Riches Wii a Pree",
-      "url": "https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Ride (Remix)",
         "url": "https://open.spotify.com/album/5ksTZQyb1EcTen6NYlEgL5"
       },
@@ -2279,6 +2259,26 @@
       "duration_ms": 185730,
       "name": "Ride - Remix",
       "url": "https://open.spotify.com/track/3SEfX0PJAkE9mqFVMSO4QO"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Riches Wii a Pree",
+        "url": "https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD"
+      },
+      "artists": [
+        {
+          "name": "Inner Circle",
+          "url": "https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx"
+        },
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        }
+      ],
+      "duration_ms": 186654,
+      "name": "Riches Wii a Pree",
+      "url": "https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Weak Spot",
-        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Weak Spot",
-      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Next Levelution",
         "url": "https://open.spotify.com/album/52bXKKh7PziML9AP8elipt"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 181998,
       "name": "Inna Di Dance",
       "url": "https://open.spotify.com/track/5SV18zUjAFqEtl6B5LY3Xf"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Weak Spot",
+        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Weak Spot",
+      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
     },
     {
       "added_at": "2023-05-24 08:21:37",

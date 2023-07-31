@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 44768,
+  "num_followers": 44795,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw",
+  "snapshot_id": "MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz",
   "tracks": [
     {
       "added_at": "2023-02-13 15:38:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "El Banco De La Plaza",
-        "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
         }
       ],
-      "duration_ms": 277258,
-      "name": "El Banco De La Plaza",
-      "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+        "name": "El Banco De La Plaza",
+        "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
       },
       "artists": [
         {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+      "duration_ms": 277258,
+      "name": "El Banco De La Plaza",
+      "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Cerezo Rosa",
-        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
+        "name": "No",
+        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
+      "duration_ms": 161250,
+      "name": "No",
+      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -651,22 +635,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Nos Hizo Falta Tiempo",
-        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
-      },
-      "artists": [
-        {
-          "name": "Las Perlas Negras",
-          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Nos Hizo Falta Tiempo",
-      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Una Flor En La Laguna",
         "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
@@ -687,18 +655,50 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+        "name": "Nos Hizo Falta Tiempo",
+        "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
       "artists": [
         {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+          "name": "Las Perlas Negras",
+          "url": "https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp"
         }
       ],
-      "duration_ms": 136888,
-      "name": "El Camino De La Vida",
-      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
+      "duration_ms": 166500,
+      "name": "Nos Hizo Falta Tiempo",
+      "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Cerezo Rosa",
+        "url": "https://open.spotify.com/album/0f3HutA3oPA2QjOyST7YMj"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Mariquitas",
+          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/6lrHmW92xxdL7RObYtTlga"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Parece Que Fue Ayer",
-        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
         }
       ],
-      "duration_ms": 168250,
-      "name": "Parece Que Fue Ayer",
-      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+      "duration_ms": 136888,
+      "name": "El Camino De La Vida",
+      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -755,22 +755,6 @@
       "duration_ms": 148500,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Mariquitas",
-          "url": "https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "No",
-      "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Europa - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Guitarras Mexicanas, Vol. 2",
         "url": "https://open.spotify.com/album/28QGhzJl7Ylj9cTWZgJY9b"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+        "name": "Parece Que Fue Ayer",
+        "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
       "artists": [
         {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Europa - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
+      "duration_ms": 168250,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "No Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "15 Inmortales de Pedro Infante",
         "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 146250,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "No Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1027,6 +1027,22 @@
       "duration_ms": 163240,
       "name": "Luna de octubre",
       "url": "https://open.spotify.com/track/7JHUknzJxLnVMMp7jemIB9"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1099,18 +1115,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
       "artists": [
         {
           "name": "Byron Brizz",
           "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
         }
       ],
-      "duration_ms": 153142,
-      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
+      "duration_ms": 129199,
+      "name": "Rancho Abandonado",
+      "url": "https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1183,26 +1203,6 @@
       "duration_ms": 174693,
       "name": "Moliendo Cafe",
       "url": "https://open.spotify.com/track/36gjuOicU4G4yDFaorSoBF"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 129199,
-      "name": "Rancho Abandonado",
-      "url": "https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
       },
       "artists": [
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Piel canela",
-      "url": "https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG"
+      "duration_ms": 192000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
       "artists": [
         {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
+      "duration_ms": 200800,
+      "name": "Piel canela",
+      "url": "https://open.spotify.com/track/5UH08BuqNSq3LsAdhftaRG"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
       "artists": [
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "M.O.Y.A.",
+          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
       "artists": [
         {
-          "name": "M.O.Y.A.",
-          "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+      "duration_ms": 183400,
+      "name": "La barca",
+      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "No Llega El Olvido",
-        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
-      },
-      "artists": [
-        {
-          "name": "Son De Durango",
-          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
-        }
-      ],
-      "duration_ms": 180504,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Trio Azteca: Folk Songs and Ballads",
         "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 176093,
       "name": "De que manera te olvido",
       "url": "https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "No Llega El Olvido",
+        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "duration_ms": 180504,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
     },
     {
       "added_at": "2023-02-13 15:38:00",

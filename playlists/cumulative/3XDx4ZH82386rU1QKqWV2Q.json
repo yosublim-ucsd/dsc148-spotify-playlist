@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192942,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE"
+    },
+    {
+      "album": {
         "name": "Babel",
         "url": "https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo"
       },
@@ -300,6 +318,24 @@
       "duration_ms": 202801,
       "name": "BALLERINA",
       "url": "https://open.spotify.com/track/78AN1oOI3yGW8jr0N7uGgN"
+    },
+    {
+      "album": {
+        "name": "Bicha",
+        "url": "https://open.spotify.com/album/7IQIjSO2J0FGKqVzjLg364"
+      },
+      "artists": [
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Bicha",
+      "url": "https://open.spotify.com/track/2iRwOS4wiZsxU8uIMwbVJX"
     },
     {
       "album": {
@@ -2385,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "LOVE 4 LIFE",
+        "url": "https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g"
+      },
+      "artists": [
+        {
+          "name": "Narciss",
+          "url": "https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173810,
+      "name": "LOVE 4 LIFE",
+      "url": "https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa"
+    },
+    {
+      "album": {
         "name": "Love Me (ecstazzz Remix)",
         "url": "https://open.spotify.com/album/73X5q7MSq6w1dmyEtmtxIb"
       },
@@ -3942,6 +3996,24 @@
       "duration_ms": 124065,
       "name": "snowfall",
       "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
+    },
+    {
+      "album": {
+        "name": "So High",
+        "url": "https://open.spotify.com/album/5pf0HUyJzLJLW7Wv31fGic"
+      },
+      "artists": [
+        {
+          "name": "DAM DRE",
+          "url": "https://open.spotify.com/artist/25rTRpRir3IZKrIz7Ticoq"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146783,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/0WSSJ8Wmj8HicvR1ZnCiPT"
     },
     {
       "album": {

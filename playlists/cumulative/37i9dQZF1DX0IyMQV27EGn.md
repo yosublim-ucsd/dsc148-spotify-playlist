@@ -4,7 +4,7 @@
 
 > A collection of powerful voices and alluring siren songs.
 
-136 songs - 8 hr 13 min
+137 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Help Yourself](https://open.spotify.com/track/2fOwXPlNGoaYLaZJTkkNS1) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/6scmRYUU6LRpbFEAW9LTBk) | 2:58 | 2021-06-04 | 2022-07-29 |
 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 | 2022-07-22 |  |
 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 | 2021-06-04 |  |
-| [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 | 2022-07-22 |  |
+| [Hopeless Romantic](https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:30 | 2022-07-22 | 2023-07-31 |
 | [Hopeless Romantic](https://open.spotify.com/track/1EAjSo91pg9eBHXM7E0V5J) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/4C83S6csUyg8zvxWphNP5o) | 3:30 | 2021-06-04 | 2022-07-29 |
 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 | 2022-07-22 |  |
 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 | 2021-06-04 |  |
@@ -100,6 +100,7 @@
 | [Name on a Matchbook](https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj) | [Springtime Carnivore](https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S) | [Springtime Carnivore](https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO) | 4:16 | 2021-06-04 |  |
 | [Never Want to Be In Love](https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Never Want to Be In Love](https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ) | 3:33 | 2022-07-22 |  |
 | [Never Want To Be In Love](https://open.spotify.com/track/1KE6EibRsVW9ld2PrTGfnd) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Never Want To Be In Love](https://open.spotify.com/album/3DF99BmBkxpdyh2zPmYuTH) | 3:33 | 2021-06-04 | 2022-07-29 |
+| [Nightmare Machine](https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv) | [Olivia Reid](https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1) | [Nightmare Machine](https://open.spotify.com/album/7l3bigwzunjgakr32KbRns) | 4:19 | 2023-07-21 |  |
 | [No Witness](https://open.spotify.com/track/0hJJeoT5Rmi5IF3ZhC7TIZ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 3:28 | 2021-06-04 |  |
 | [Nobody](https://open.spotify.com/track/5PPo3jzi0f3kFrboVgPZJU) | [Rachael Yamagata](https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6) | [Nobody](https://open.spotify.com/album/5V6hoaFti4gY7EZfb2UBU2) | 4:53 | 2021-06-04 | 2022-07-29 |
 | [Not a Soldier](https://open.spotify.com/track/6cGPoNYEvFeVt6Ieqvw88L) | [Willa Amai](https://open.spotify.com/artist/0iP3BGoRpnHIZRVnEQLlHF) | [Not a Soldier](https://open.spotify.com/album/5BewLwqWzRQwm6Oz7WgZy2) | 3:46 | 2021-06-04 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16639,
+  "num_followers": 16653,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl",
+  "snapshot_id": "MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -527,22 +527,18 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Irm\u00e3o Dqbrada!",
-        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
+        "name": "Slow Flow",
+        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
       },
       "artists": [
         {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
         }
       ],
-      "duration_ms": 360559,
-      "name": "Irm\u00e3o DQbrada!",
-      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
+      "duration_ms": 159730,
+      "name": "Rosas e Rimas",
+      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Slow Flow",
-        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
+        "name": "Irm\u00e3o Dqbrada!",
+        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
       },
       "artists": [
         {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
         }
       ],
-      "duration_ms": 159730,
-      "name": "Rosas e Rimas",
-      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+      "duration_ms": 360559,
+      "name": "Irm\u00e3o DQbrada!",
+      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -783,6 +783,46 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
+        "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
+        },
+        {
+          "name": "Disstinto",
+          "url": "https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy"
+        }
+      ],
+      "duration_ms": 282033,
+      "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
+      "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -827,46 +867,6 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Bicho de 7 Cabe\u00e7as / a Culpa \u00c9 das Igrejas",
-        "url": "https://open.spotify.com/album/6hdyWMkuMjjm7txPp7qScS"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "Medulla",
-          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
-        },
-        {
-          "name": "Disstinto",
-          "url": "https://open.spotify.com/artist/7FDAabVIlVUaloRm7MA1Jy"
-        }
-      ],
-      "duration_ms": 282033,
-      "name": "Bicho de 7 Cabe\u00e7as / A Culpa \u00c9 das Igrejas",
-      "url": "https://open.spotify.com/track/4eeGpiaBPnOwD9fT6fBDcE"
     },
     {
       "added_at": "2023-03-10 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 21189,
+  "num_followers": 21215,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw",
+  "snapshot_id": "MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Descarga Espectacular",
-        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
-      },
-      "artists": [
-        {
-          "name": "Fruko Y Sus Tesos",
-          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
-        }
-      ],
-      "duration_ms": 297386,
-      "name": "Cachondea",
-      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 330800,
       "name": "Otra Noche (Another Night)",
       "url": "https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Descarga Espectacular",
+        "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
+      },
+      "artists": [
+        {
+          "name": "Fruko Y Sus Tesos",
+          "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
+        }
+      ],
+      "duration_ms": 297386,
+      "name": "Cachondea",
+      "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -843,18 +843,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Mis Exitos Vol.1",
-        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
+        "name": "Milenario, Vol. 3",
+        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
       "artists": [
         {
-          "name": "Richie Cepeda",
-          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 246600,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
+      "duration_ms": 265026,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -879,22 +883,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Milenario, Vol. 3",
-        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+        "name": "Mis Exitos Vol.1",
+        "url": "https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Richie Cepeda",
+          "url": "https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ"
         }
       ],
-      "duration_ms": 265026,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+      "duration_ms": 246600,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
       },
       "artists": [
         {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 249746,
-      "name": "Por una L\u00e1grima",
-      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
+      "duration_ms": 269191,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
         }
       ],
-      "duration_ms": 269191,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+      "duration_ms": 249746,
+      "name": "Por una L\u00e1grima",
+      "url": "https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1103,18 +1103,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Mar y Luna",
-        "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
       "artists": [
         {
-          "name": "Pecos Kanvas",
-          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 260466,
-      "name": "Mar y Luna",
-      "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
+      "duration_ms": 378373,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1151,22 +1155,34 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+        "name": "Lo Mejor de Los Fantasmas del caribe",
+        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Los Fantasmas del Caribe",
+          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
         }
       ],
-      "duration_ms": 378373,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8"
+      "duration_ms": 247059,
+      "name": "Ag\u00fcita 'e Coco",
+      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Mar y Luna",
+        "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
+      },
+      "artists": [
+        {
+          "name": "Pecos Kanvas",
+          "url": "https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Mar y Luna",
+      "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1203,22 +1219,6 @@
       "duration_ms": 264800,
       "name": "Te Voy a Hacer Falta",
       "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Lo Mejor de Los Fantasmas del caribe",
-        "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
-      },
-      "artists": [
-        {
-          "name": "Los Fantasmas del Caribe",
-          "url": "https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha"
-        }
-      ],
-      "duration_ms": 247059,
-      "name": "Ag\u00fcita 'e Coco",
-      "url": "https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "Muy Tropical y Bailable - 16 Exitos",
+        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Tabaco y Ron",
+      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
         "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
       },
@@ -1367,22 +1387,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Muy Tropical y Bailable - 16 Exitos",
-        "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
+        "name": "14 vallenatos sabroso",
+        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
+          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
         }
       ],
-      "duration_ms": 244506,
-      "name": "Tabaco y Ron",
-      "url": "https://open.spotify.com/track/2jOuQXGCCVHrQeVzyNLwb9"
+      "duration_ms": 283103,
+      "name": "muero por verla luis mateus vallenato",
+      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "14 vallenatos sabroso",
-        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
-      },
-      "artists": [
-        {
-          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
-          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
-        }
-      ],
-      "duration_ms": 283103,
-      "name": "muero por verla luis mateus vallenato",
-      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Bailando Con Roberto Antonio",
         "url": "https://open.spotify.com/album/0doc3F2HPyvkprfqQkyD3w"
       },
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Sus M\u00e1s Grandes Exitos",
-        "url": "https://open.spotify.com/album/0WDHvpTdzU8urEhBDCJjKD"
+        "name": "Como en un Baile",
+        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
       },
       "artists": [
         {
-          "name": "Lisandro Meza",
-          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 254586,
-      "name": "Te Llevar\u00e9",
-      "url": "https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB"
+      "duration_ms": 364617,
+      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
+      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1471,18 +1471,34 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Como en un Baile",
-        "url": "https://open.spotify.com/album/03DBkQ5y8LzsLfXj8zbKvo"
+        "name": "Sus M\u00e1s Grandes Exitos",
+        "url": "https://open.spotify.com/album/0WDHvpTdzU8urEhBDCJjKD"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
         }
       ],
-      "duration_ms": 364617,
-      "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
-      "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
+      "duration_ms": 254586,
+      "name": "Te Llevar\u00e9",
+      "url": "https://open.spotify.com/track/3ZiR1SuQvgKBb2cRGCFpyB"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
+        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+      },
+      "artists": [
+        {
+          "name": "Rossy",
+          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
+        }
+      ],
+      "duration_ms": 174278,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1515,22 +1531,6 @@
       "duration_ms": 183228,
       "name": "Cumbia Caletera",
       "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
-      },
-      "artists": [
-        {
-          "name": "Rossy",
-          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
-        }
-      ],
-      "duration_ms": 174278,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Historia M\u00fasical - 30 \u00c9xitos",
-        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
-      },
-      "artists": [
-        {
-          "name": "The Latin Brothers",
-          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
-        },
-        {
-          "name": "Piper Pimienta Diaz",
-          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Las Cale\u00f1as Son Como las Flores",
-      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 176509,
       "name": "Fantas\u00eda Nocturna",
       "url": "https://open.spotify.com/track/2tcv4KCa1jPl0DuOm5pkJv"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Historia M\u00fasical - 30 \u00c9xitos",
+        "url": "https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj"
+      },
+      "artists": [
+        {
+          "name": "The Latin Brothers",
+          "url": "https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK"
+        },
+        {
+          "name": "Piper Pimienta Diaz",
+          "url": "https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Las Cale\u00f1as Son Como las Flores",
+      "url": "https://open.spotify.com/track/1gntkHoZ8rdpeeVxLbQ6oF"
     },
     {
       "added_at": "2021-12-16 22:41:17",

@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Imagine Dragons
 
-629 songs - 1 day 8 hr 47 min
+630 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:25 | 2022-07-07 | 2023-03-18 |
 | [Love Letter](https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Love Letter](https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo) | 2:38 | 2023-05-05 |  |
 | [Love Not Loving You](https://open.spotify.com/track/1VSsfA5Z37dSNPqiK5dxmM) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Love Not Loving You](https://open.spotify.com/album/0rOYs1ImwkyIJQcfJJFTSo) | 3:34 | 2022-03-24 | 2022-04-18 |
-| [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 | 2022-09-01 |  |
+| [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 | 2022-09-01 | 2023-07-31 |
 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 | 2022-03-17 | 2022-07-29 |
 | [Love Won't Let Me Leave](https://open.spotify.com/track/762YYAuMrzCcJF4Ji3fp3U) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Love Won't Let Me Leave](https://open.spotify.com/album/2PtmMZj4XTuguDt9FdKDF7) | 4:15 | 2022-03-24 | 2022-04-09 |
 | [Love You Sober](https://open.spotify.com/track/1J7G092okHPBnUjSwv0ocj) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Love You Sober](https://open.spotify.com/album/3wysOc65kJgZkNLylRpCsz) | 3:40 | 2022-03-24 | 2022-04-20 |
@@ -627,6 +627,7 @@
 | [Word Vomit](https://open.spotify.com/track/579Toef3RjBEXfFMXvwkqp) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Word Vomit](https://open.spotify.com/album/7dsAqFpnshTvViLP7PTzkd) | 2:26 | 2022-03-24 | 2022-04-18 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2022-03-24 | 2022-08-06 |
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-03-24 | 2022-08-06 |
+| [Year 3000 2.0](https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Year 3000 2.0](https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC) | 3:17 | 2023-07-28 |  |
 | [Year of the Woman](https://open.spotify.com/track/0j8vD7lOS2c5IDKMU3LsIs) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Year of the Woman](https://open.spotify.com/album/2Vuel2cbTIlxIrwLvkYcGe) | 4:17 | 2022-03-24 | 2022-04-16 |
 | [You](https://open.spotify.com/track/6OW9DM0XwDzdiIlKcTuPD3) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [You](https://open.spotify.com/album/2mgnhYvHdQQzVOM2LDkuXU) | 3:46 | 2022-03-17 | 2022-07-29 |
 | [You \(feat\. Travis Barker\)](https://open.spotify.com/track/57CsOeLJrdI20fS4Z8pZPj) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [You \(feat\. Travis Barker\)](https://open.spotify.com/album/0EW257HwkJ1CblYgM9GIAY) | 3:51 | 2022-03-24 | 2022-04-15 |

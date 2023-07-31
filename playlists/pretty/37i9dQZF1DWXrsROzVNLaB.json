@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11030,
+  "num_followers": 11029,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzU5ZjE4ZDgxOTBjOTc5MTAwMTdmZTlmMjQ5MTQxNWFiODUxNjMy",
+  "snapshot_id": "MCw5ZDA4ODBkMmU4ODljZTYyMDQxOGI2MDU2YzM1NmU3MGUyNzE2Y2Qx",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
+        "name": "Holding Nothing Back",
+        "url": "https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 292953,
       "name": "Speak the Name (feat. Natalie Grant)",
       "url": "https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Holding Nothing Back",
-        "url": "https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Happy Day",
-      "url": "https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS"
     },
     {
       "added_at": "2023-04-02 08:21:16",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-341 songs - 16 hr 38 min
+342 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 |  |
 | [Not Alone \- Don Diablo VIP Mix](https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone \(Don Diablo VIP Mix\)](https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX) | 2:31 | 2023-02-17 | 2023-04-02 |
 | [Not Dancing](https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Not Dancing](https://open.spotify.com/album/1O5tGALZgYG6VHycsGKsIu) | 2:43 | 2021-10-29 | 2022-04-28 |
+| [NRG](https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [NRG](https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4) | 3:40 | 2023-07-28 |  |
 | [Nudes](https://open.spotify.com/track/6mjCVjYkqyo4IG4nMhlpD2) | [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Nudes](https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb) | 2:16 | 2023-01-06 | 2023-03-25 |
 | [Off Of My Mind](https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Off Of My Mind](https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5) | 2:44 | 2021-11-30 |  |
 | [Off The Wall](https://open.spotify.com/track/2iBdAPcTzDufAKLvU0e0ba) | [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Off The Wall](https://open.spotify.com/album/6N2YOdLB0cTLbaIMBfD9rr) | 3:32 | 2023-05-12 |  |
@@ -264,7 +265,7 @@
 | [Pump Up The Jam \(with MOTi\)](https://open.spotify.com/track/1uNKDCkSaGNqIsMtvfsr2O) | [Mary N'diaye](https://open.spotify.com/artist/0AMCPHyPTxIV2J2HthnnX4), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Pump Up The Jam \(with MOTi\)](https://open.spotify.com/album/4qSEvbsVZLmFjHNywNm9YA) | 3:29 | 2021-10-29 | 2022-08-27 |
 | [Pumpin](https://open.spotify.com/track/78iKUQrxkSwliAQmagMw0b) | [The Scene Kings](https://open.spotify.com/artist/0GoV0gxK6girSkzcHf9bh5) | [Pumpin](https://open.spotify.com/album/0a7WXJslUYgA9WqaerIrcs) | 2:41 | 2022-02-11 | 2022-06-11 |
 | [Purification](https://open.spotify.com/track/0U9m269ExQq7LmZc6MTzee) | [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Purification](https://open.spotify.com/album/62cXo5O7kZz7l0r9RP8lDw) | 2:58 | 2021-10-29 | 2022-07-29 |
-| [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 | 2021-10-29 |  |
+| [Push And Pull](https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Push And Pull](https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg) | 2:18 | 2021-10-29 | 2023-07-31 |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-09 |  |
 | [Rave Shake](https://open.spotify.com/track/6vJrnybmqS082z1aWP5Gyk) | [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr) | [Rave Shake](https://open.spotify.com/album/5QPR7iKTyHlRQVKFO5gP7b) | 2:04 | 2023-03-10 | 2023-04-16 |
 | [Ready or Not](https://open.spotify.com/track/4c0bQ6itmzAJ4DYlIdCmpm) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [Ready or Not](https://open.spotify.com/album/1GN99bcJIUkMUu1CwtGCuJ) | 3:08 | 2021-10-29 | 2022-07-21 |

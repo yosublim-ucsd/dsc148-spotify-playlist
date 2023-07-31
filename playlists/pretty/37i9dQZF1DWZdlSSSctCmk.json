@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 100410,
+  "num_followers": 100517,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTc3MzYxZjJhNzQ1NjYxZjY0NDc3YTU2NTY3ZjQ0MzM2NWE1MWNi",
+  "snapshot_id": "MCxhMzdhNDc2MjY0YmZiOGYzM2I1MTE2MmQ1NDMxNDY4Yzk5YzExYTY2",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -131,26 +131,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Genetic World",
-        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9popmusik",
-          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
-        },
-        {
-          "name": "Angela McCluskey",
-          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
-        }
-      ],
-      "duration_ms": 282240,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 187286,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Genetic World",
+        "url": "https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9popmusik",
+          "url": "https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF"
+        },
+        {
+          "name": "Angela McCluskey",
+          "url": "https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x"
+        }
+      ],
+      "duration_ms": 282240,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Carboot Soul",
-        "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
-      },
-      "artists": [
-        {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
-        }
-      ],
-      "duration_ms": 379367,
-      "name": "Les Nuits",
-      "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 156069,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Carboot Soul",
+        "url": "https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 379367,
+      "name": "Les Nuits",
+      "url": "https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Protection",
-        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "Three",
-      "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "In The Music The Village Never Ends",
         "url": "https://open.spotify.com/album/2RtJZfZgfyyW8OzxWRCHaR"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 311866,
       "name": "Nomalizo",
       "url": "https://open.spotify.com/track/3lB31lvF4GEwKwMgFWwCJ7"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Protection",
+        "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        }
+      ],
+      "duration_ms": 229066,
+      "name": "Three",
+      "url": "https://open.spotify.com/track/7FKhuZtIPchBVNIhFnNL5W"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "sketches",
-      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Mister Mellow",
         "url": "https://open.spotify.com/album/6Rfsivv6DPegVm4oYLeAsm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 252920,
       "name": "Hard To Say Goodbye",
       "url": "https://open.spotify.com/track/3IrBsMDbRUZYIMcNcA7pPq"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "sketches",
+      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
     },
     {
       "added_at": "2023-07-14 11:01:37",

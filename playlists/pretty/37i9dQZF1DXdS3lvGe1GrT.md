@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,791 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,822 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 84 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 |
 | 85 | [Proof of Life](https://open.spotify.com/track/6lZFNwjvb5BXMoajkKn5ql) | [Gold Dust](https://open.spotify.com/artist/2gMFCVbKNRDr7HxnSnWMZ8) | [The Late Great Gold Dust](https://open.spotify.com/album/7Cvs3WHr3bCwaV5Mloh6b5) | 3:46 |
 | 86 | [Skin The Oasis](https://open.spotify.com/track/1WGDy1DOOgVftzivJb8bup) | [Barbarisms](https://open.spotify.com/artist/7sbmLqY3ZQGtMOiH4niuk3) | [Old Hat](https://open.spotify.com/album/2rw2OPJXMrFhnfllnL1o64) | 3:47 |
-| 87 | [carnegie hall](https://open.spotify.com/track/4trirtOZprOICEfMbDNiAN) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [carnegie hall](https://open.spotify.com/album/4GS59tPoaZ81x8IAXYvJjC) | 4:45 |
+| 87 | [carnegie hall](https://open.spotify.com/track/7xAOjVo97wD5xdcHWvnxkB) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [ep 1](https://open.spotify.com/album/3Gzd8ARjcAKybw51XnnpSw) | 4:45 |
 | 88 | [Let It Pass](https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl) | [Starpainter](https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO) | [Rattlesnake Dream](https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3) | 3:32 |
 | 89 | [wonder eye](https://open.spotify.com/track/37N7VOw3uyycrCbiB8cDIa) | [Little Moon](https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp) | [wonder eye](https://open.spotify.com/album/0yz8JGvJBudW1KiQ392Tqa) | 4:04 |
 | 90 | [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Ten Hands](https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Ten Hands](https://open.spotify.com/album/3OwUW7eo0X90XQQlTirb9z) | 2:27 |
 | 101 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
 
-Snapshot ID: `MCwzMGVmNGQ0MjUzYzRmNjYwZDI3MzYwMDhkMTc3YzA3MDg2Yzg1MDBh`
+Snapshot ID: `MCwzYzQ1MjBjMzhjN2Y3OTBmNWJlM2Y0ZTkwZDAzM2JhYWNiNGNlMDQz`

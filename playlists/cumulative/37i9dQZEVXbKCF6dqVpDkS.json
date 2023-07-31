@@ -42,7 +42,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 159316,
       "name": "0800 HEAVEN",
       "url": "https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D"
@@ -4884,7 +4884,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 274137,
       "name": "DELRESTO (ECHOES)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
@@ -5875,6 +5875,24 @@
     },
     {
       "album": {
+        "name": "Een Chick Als (Jade)",
+        "url": "https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN"
+      },
+      "artists": [
+        {
+          "name": "Floris Keijzer",
+          "url": "https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Een Chick Als (Jade)",
+      "url": "https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm"
+    },
+    {
+      "album": {
         "name": "Een Moment",
         "url": "https://open.spotify.com/album/5fOsdexHLXJfJguRdTbFrd"
       },
@@ -6530,7 +6548,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
@@ -7608,7 +7626,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 161684,
       "name": "Gek Op Jou (feat. Koen)",
       "url": "https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw"
@@ -7894,7 +7912,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 127991,
       "name": "GOD'S COUNTRY",
       "url": "https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb"
@@ -12662,7 +12680,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
@@ -13806,7 +13824,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 255412,
       "name": "MODERN JAM",
       "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
@@ -16038,7 +16056,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 184791,
       "name": "People",
       "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
@@ -16228,7 +16246,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -18298,7 +18316,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 204447,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
@@ -20238,7 +20256,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 223173,
       "name": "TOPIA TWINS",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"

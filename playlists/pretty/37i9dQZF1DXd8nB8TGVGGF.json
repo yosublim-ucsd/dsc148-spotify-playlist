@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 22837,
+  "num_followers": 22904,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWYyYzA5MTRiZTdiMWI0YzlhMTJkOGE2MTJkYjljNTkwZDM3OTFm",
+  "snapshot_id": "MCxjNTQyYjM0ZWU0ZWRkMWZlZjNiZDk4ZmYwMGQ0NjgxOTQzMzdkOWQx",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+        "name": "Fresh Cream",
+        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 185560,
-      "name": "Frosty - Single Version",
-      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
+      "duration_ms": 390226,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/5v2Hwf7w2j4Xpy8kdRgpK2"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Fresh Cream",
-        "url": "https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB"
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 390226,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/5v2Hwf7w2j4Xpy8kdRgpK2"
+      "duration_ms": 185560,
+      "name": "Frosty - Single Version",
+      "url": "https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Ice Cream Man",
-      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "A Hard Road (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 171946,
       "name": "The Stumble",
       "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "I Can't Quit The Blues",
-      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 154693,
       "name": "Good Time Charlie - Pt. 1 / Single Version",
       "url": "https://open.spotify.com/track/5HSJ3BzoAWbE0qdRD0YvvQ"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "I Can't Quit The Blues",
+      "url": "https://open.spotify.com/track/7odv5siIsQdOEUmsk7Mjsv"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -1367,22 +1351,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Free Form Patterns",
-        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 224453,
-      "name": "Give Me Time to Think",
-      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Vivid Sound",
         "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
       },
@@ -1395,6 +1363,38 @@
       "duration_ms": 150693,
       "name": "Highway 60",
       "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Free Form Patterns",
+        "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Give Me Time to Think",
+      "url": "https://open.spotify.com/track/0zx00UByhe6SqVcRHwlA1v"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1427,6 +1427,22 @@
       "duration_ms": 134693,
       "name": "Shiver 'N Shake",
       "url": "https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1475,22 +1491,6 @@
       "duration_ms": 250906,
       "name": "Choo Choo Ch'Boogie",
       "url": "https://open.spotify.com/track/6F8zjuHkDML7rltzx7wvgK"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
-        {
-          "name": "Nita, Rita & Ruby",
-          "url": "https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc"
-        }
-      ],
-      "duration_ms": 123324,
-      "name": "(He Said Yeah) Baby, You\u00b4re the One",
-      "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Blues Ain't Nothin' (Recorded in France 1971-1973)",
         "url": "https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 257000,
       "name": "Goin' to Chicago",
       "url": "https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+      },
+      "artists": [
+        {
+          "name": "Nita, Rita & Ruby",
+          "url": "https://open.spotify.com/artist/0UfaffDVhmyk03vTITLrBc"
+        }
+      ],
+      "duration_ms": 123324,
+      "name": "(He Said Yeah) Baby, You\u00b4re the One",
+      "url": "https://open.spotify.com/track/3OHvbRM4MoyvN3RJpN015b"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1744,22 +1744,6 @@
       },
       "artists": [
         {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "When Girls Do It",
-      "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "When Girls Do It",
-        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
-      },
-      "artists": [
-        {
           "name": "Drifting Charles",
           "url": "https://open.spotify.com/artist/4kSYeEinu0WrEnL76FFzm3"
         }
@@ -1767,6 +1751,22 @@
       "duration_ms": 174453,
       "name": "Drifting Cloud",
       "url": "https://open.spotify.com/track/6MdE6X7xZAXXoXT9zY2eq1"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
+        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
+      },
+      "artists": [
+        {
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
+        }
+      ],
+      "duration_ms": 102733,
+      "name": "She's so Fine",
+      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "When Girls Do It",
+        "url": "https://open.spotify.com/album/7K7xXRmQlBDKsdl5Q1C9df"
+      },
+      "artists": [
+        {
+          "name": "Bobby 'Guitar' Bennett",
+          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "When Girls Do It",
+      "url": "https://open.spotify.com/track/0sGX1jTxtvtLDVPQdgXuLu"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "R&B from the Marquee / At the Cavern (Remastered)",
         "url": "https://open.spotify.com/album/435zTVZqyNJba4YteDro9M"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 159733,
       "name": "Get Your Game Up Tight",
       "url": "https://open.spotify.com/track/0tztP3jhFIlZOm5jhd5q7L"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Bobby \"Guitar\" Bennett & Pancho Villa",
-        "url": "https://open.spotify.com/album/73tCwh99RNt4sJxjnzehBe"
-      },
-      "artists": [
-        {
-          "name": "Bobby 'Guitar' Bennett",
-          "url": "https://open.spotify.com/artist/7inzxmgcCQZGqzBVfkWA8g"
-        }
-      ],
-      "duration_ms": 102733,
-      "name": "She's so Fine",
-      "url": "https://open.spotify.com/track/0XJesjzT9nLXqtOWnSYMIB"
     },
     {
       "added_at": "2023-01-27 16:34:16",

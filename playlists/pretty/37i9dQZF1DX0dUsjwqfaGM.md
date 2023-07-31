@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,205 likes - 59 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 59 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 58 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 |
 | 59 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 |
 
-Snapshot ID: `MCwzNTQxYjM0MTc5Mzk3ZWU4YzFiOWVlZjI5NThiMWZmYmY1MjE2Y2Zh`
+Snapshot ID: `MCwwNDQ0NmM2MzhjZTAzMDY2Y2M0NTA1MmMwZWM1M2Y1OWU1NDQzZmFm`

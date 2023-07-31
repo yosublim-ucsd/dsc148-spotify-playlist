@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nuestros amados 90 los recordamos as\u00ed!",
-  "num_followers": 1013262,
+  "num_followers": 1013457,
   "original_name": "Los 90 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjVjNjFmOGI0Mjg3NjY0NGFmYjFhYWI2NzNiNGVhMjUwZTVhNTgw",
+  "snapshot_id": "MCxkNjdlY2MwMjRhN2JjZWZiZGM4OGQ1MmUxYWY3ODEwMTZhMGY2ZWQw",
   "tracks": [
     {
       "added_at": "2021-09-07 14:13:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "El Silencio",
         "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 274000,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Superexitos Vol. 2",
-        "url": "https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz"
-      },
-      "artists": [
-        {
-          "name": "The Sacados",
-          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
-        }
-      ],
-      "duration_ms": 219454,
-      "name": "Mas de Lo Que Te Imaginas (Classic Version)",
-      "url": "https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Hits Of The 90s",
         "url": "https://open.spotify.com/album/5hiQZaZeGH7HWy2VjDwTcZ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 222626,
       "name": "Macarena",
       "url": "https://open.spotify.com/track/6mhw2fEPH4fMF0wolNm96e"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Superexitos Vol. 2",
+        "url": "https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz"
+      },
+      "artists": [
+        {
+          "name": "The Sacados",
+          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
+        }
+      ],
+      "duration_ms": 219454,
+      "name": "Mas de Lo Que Te Imaginas (Classic Version)",
+      "url": "https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Celebrando 25 A\u00f1os De Juan Gabriel En El Palacio De Bellas Artes",
         "url": "https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 444533,
       "name": "As\u00ed Fue - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
       "url": "https://open.spotify.com/track/6nOJ1EJYDa5QCI6RGBuozw"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "La Ultima Tentaci\u00f3n",
         "url": "https://open.spotify.com/album/4zgAUvHWJU5TsT7eoBM9Vq"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 235906,
       "name": "Me haces tanto bien",
       "url": "https://open.spotify.com/track/5PM8SxOW02F9ChM0BLjALX"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
       "added_at": "2021-09-07 14:13:23",

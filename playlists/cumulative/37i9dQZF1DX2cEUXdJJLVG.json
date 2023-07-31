@@ -2236,10 +2236,32 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 219240,
       "name": "I Won't Tell",
       "url": "https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k"
+    },
+    {
+      "album": {
+        "name": "Through and Through",
+        "url": "https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "I Won't Tell",
+      "url": "https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk"
     },
     {
       "album": {

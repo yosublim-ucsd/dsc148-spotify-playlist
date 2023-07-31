@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Bethany Cosentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,569 likes - 114 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,603 likes - 114 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 81 | [The Weakness](https://open.spotify.com/track/3HQYZhbq8hhVxof8H5nqVF) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/5hzXqk2ukjTaPxX9R3Taj6) | 3:28 |
 | 82 | [Without a Woman](https://open.spotify.com/track/7EcsMCCYXi0mdF0tVyzjCp) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Without a Woman](https://open.spotify.com/album/2Uq3hRliWBJvCVwEDd6JPa) | 4:30 |
 | 83 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
-| 84 | [My Entire Life](https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [My Entire Life](https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e) | 2:46 |
+| 84 | [My Entire Life](https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [My Entire Life](https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO) | 2:46 |
 | 85 | [This Year](https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 3:14 |
 | 86 | [Go Getter](https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Go Getter](https://open.spotify.com/album/70hjGhT2FQRdYU7qShBj5L) | 4:03 |
 | 87 | [Sea Star](https://open.spotify.com/track/6alJoblCCJSKIxicui9cIv) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:27 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 114 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxjYzk0YzhiOWExNzNhNzhmOTExYmFjNWM5MDA5MDIzNTI3MzQzZGEw`
+Snapshot ID: `MCwwZWZmNzI3ZmZkY2Q3MDYyMzczMTZjYThjZWIwMjc1NjkzZTY5OWI1`

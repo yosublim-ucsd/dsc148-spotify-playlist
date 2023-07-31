@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: Awich, NENE, LANA, MaRI, AI, YURIYAN RETRIEVER",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: MY FIRST STORY",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 207615,
       "name": "ATARI",
       "url": "https://open.spotify.com/track/21gjq7cgnOscRURiGhOGPP"
@@ -564,6 +564,24 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/3YhJjRi6fhoZUIO9A82lnY"
+      },
+      "artists": [
+        {
+          "name": "Def Tech",
+          "url": "https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200989,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/5WcjMhF7LXWW6qWRSOoIoO"
     },
     {
       "album": {
@@ -726,6 +744,32 @@
       "duration_ms": 303218,
       "name": "BAD\u30e2\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3TxjMrMGWFP0jkIy0tVvVn"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "JP THE WAVY",
+          "url": "https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187237,
+      "name": "BASH BASH - feat. JP THE WAVY & Awich",
+      "url": "https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB"
     },
     {
       "album": {
@@ -3227,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
+    },
+    {
+      "album": {
         "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
         "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
       },
@@ -4436,6 +4498,24 @@
       "duration_ms": 193495,
       "name": "KICK BACK",
       "url": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
+    },
+    {
+      "album": {
+        "name": "Kiminomachimade",
+        "url": "https://open.spotify.com/album/6tJejWaz1EZb6fuq10DGJ7"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198293,
+      "name": "Kiminomachimade",
+      "url": "https://open.spotify.com/track/2A9dAj285m7uUgdGPSRIAM"
     },
     {
       "album": {
@@ -6548,7 +6628,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 172611,
       "name": "P.S.",
       "url": "https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo"
@@ -7452,7 +7532,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ"
@@ -8216,7 +8296,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 213400,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
@@ -9362,7 +9442,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 232440,
       "name": "Tsumugu",
       "url": "https://open.spotify.com/track/0vfBB5CXn4CwpmQ2M5EZOe"
@@ -10020,7 +10100,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 181618,
       "name": "Wish upon the Summer",
       "url": "https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl"
@@ -11644,7 +11724,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 184201,
       "name": "\u30a8\u30a6\u30ec\u30ab",
       "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
@@ -12005,6 +12085,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228920,
+      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30e9\u30d0",
         "url": "https://open.spotify.com/album/3AqGPcYJrfaY6o8niCnztG"
       },
@@ -12168,6 +12266,24 @@
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+        "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+      "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
     },
     {
       "album": {
@@ -14036,7 +14152,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 310560,
       "name": "\u511a\u304f\u306a\u3044",
       "url": "https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e"
@@ -14614,7 +14730,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 289901,
       "name": "\u590f\u604b\u6ce8\u610f\u5831",
       "url": "https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb"
@@ -14878,6 +14994,24 @@
       "duration_ms": 171546,
       "name": "\u5e38\u7dd1",
       "url": "https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP"
+    },
+    {
+      "album": {
+        "name": "\u5f8c\u5149",
+        "url": "https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204340,
+      "name": "\u5f8c\u5149",
+      "url": "https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX"
     },
     {
       "album": {
@@ -17167,6 +17301,24 @@
     },
     {
       "album": {
+        "name": "\u86cd",
+        "url": "https://open.spotify.com/album/6nHk2AOBDEv4KNDfbQCPgS"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "\u86cd",
+      "url": "https://open.spotify.com/track/2U93Qos9BlyUeGU68SRAF7"
+    },
+    {
+      "album": {
         "name": "\u8896\u306e\u30ad\u30eb\u30c8",
         "url": "https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT"
       },
@@ -17788,7 +17940,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 183692,
       "name": "\u98db\u5929",
       "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"

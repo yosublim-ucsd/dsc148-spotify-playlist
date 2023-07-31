@@ -1,12 +1,12 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring TAICHU.",
-  "num_followers": 29233,
+  "num_followers": 29266,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjBhODZiNTdiM2FjOWE1YmU0ZGI4ZWFmOGJmMzliYzYxZGM4YTAx",
+  "snapshot_id": "MCw1ZGE2ZWYyNDhiNTdiYmJlZjQzYjEzNzMxYzM4MjgxZTAyMzg4OTE1",
   "tracks": [
     {
       "added_at": "2023-07-27 18:59:53",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-27 18:59:53",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-07-27 18:59:53",
-      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2023-07-27 18:59:53",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-07-27 18:59:53",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-27 18:59:53",
       "album": {
-        "name": "ALGARETE",
-        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 208549,
-      "name": "ALGARETE",
-      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
-    },
-    {
-      "added_at": "2023-07-27 18:59:53",
-      "album": {
         "name": "Tiki Tiki",
         "url": "https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 131437,
       "name": "Tiki Tiki",
       "url": "https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO"
+    },
+    {
+      "added_at": "2023-07-27 18:59:53",
+      "album": {
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
     },
     {
       "added_at": "2023-07-27 18:59:53",
@@ -867,22 +867,22 @@
     {
       "added_at": "2023-07-27 18:59:53",
       "album": {
-        "name": "NATTIVIDAD",
-        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
       },
       "artists": [
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Ram Pam Pam",
-      "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "added_at": "2023-07-27 18:59:53",
@@ -935,22 +935,22 @@
     {
       "added_at": "2023-07-27 18:59:53",
       "album": {
-        "name": "Joder",
-        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+        "name": "NATTIVIDAD",
+        "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 149300,
-      "name": "Joder",
-      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+      "duration_ms": 200706,
+      "name": "Ram Pam Pam",
+      "url": "https://open.spotify.com/track/730gfBUwEpyruhbSvDuytR"
     },
     {
       "added_at": "2023-07-27 18:59:53",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-07-27 18:59:53",
       "album": {
-        "name": "La Torta",
-        "url": "https://open.spotify.com/album/1uJIQzUMOVmc2RO6blgzRA"
+        "name": "Te cargo la 9",
+        "url": "https://open.spotify.com/album/4vhWwdEMvazQMJbrgXsQpp"
       },
       "artists": [
         {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "Akatumamy",
+          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
         }
       ],
-      "duration_ms": 170589,
-      "name": "La Torta",
-      "url": "https://open.spotify.com/track/2EVnhDu1nfDNrr74OJpf1e"
+      "duration_ms": 157422,
+      "name": "Te cargo la 9",
+      "url": "https://open.spotify.com/track/1JGYOhkZMOh1qZgAiCayX1"
     }
   ],
   "unique_name": "EQUAL Urbano",

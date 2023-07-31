@@ -4,7 +4,7 @@
 
 > Explore the Romantic side of Tamil Indie
 
-52 songs - 3 hr 32 min
+53 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Anbe Aaruyirae](https://open.spotify.com/track/3ebSznljltY5w7kskNlhma) | [Prashan Sean](https://open.spotify.com/artist/04WGlrqyaR2LvjkL5O2eVf), [Navin Raaj Mathavan](https://open.spotify.com/artist/1PbMW7SDnPgoPWgo1Szi6h) | [Anbe Aaruyirae](https://open.spotify.com/album/57xEQNhxZfTTsbjdd6FEvo) | 4:51 | 2021-12-01 |  |
 | [Anbe Nalama?](https://open.spotify.com/track/07TiM33PXuXAhvQSwsnOYW) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Anbe Nalama?](https://open.spotify.com/album/2TqgLBHd11jVzsYZUt4fnc) | 3:10 | 2021-12-01 |  |
 | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/track/7bie2UikFoDY3E8u6S4z8y) | [Godwin Winston](https://open.spotify.com/artist/7vqUNeg85N6Ric98foS687) | [Ellam Unnale \(From "Think Indie"\)](https://open.spotify.com/album/0Cl17slMTfhEVwdZmxtthR) | 3:52 | 2021-12-01 |  |
-| [En Manasa Kalachale](https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN) | [Manoj Kumar.M](https://open.spotify.com/artist/3HF2g6nt0a3ZX6oZ8gO3gT), [Sibhi](https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD) | [En Manasa Kalachale](https://open.spotify.com/album/5lf9NhTSRez5DnAHF1v8eR) | 3:34 | 2021-12-01 |  |
+| [En Manasa Kalachale](https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN) | [Manoj Kumar.M](https://open.spotify.com/artist/3HF2g6nt0a3ZX6oZ8gO3gT), [Sibhi](https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD) | [En Manasa Kalachale](https://open.spotify.com/album/5lf9NhTSRez5DnAHF1v8eR) | 3:34 | 2021-12-01 | 2023-07-31 |
+| [En Manasa Kalachale](https://open.spotify.com/track/7wtlmmn8eIV4Ma7qcc9aXv) | [Sibhi](https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD) | [En Manasa Kalachale](https://open.spotify.com/album/1a976GvlsDfAHjBk8OI5Au) | 3:34 | 2021-12-01 |  |
 | [En Uravey](https://open.spotify.com/track/1pNVWXmlh8PQBIbQ3JJJDW) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [Sathya Nithi](https://open.spotify.com/artist/3EaRKichvknevcEOvDte9N) | [En Uravey](https://open.spotify.com/album/0aDwjm96rpQV1ZIVpkEmof) | 5:23 | 2021-12-01 |  |
 | [Ennaval](https://open.spotify.com/track/7ceeckHyXKhb2ZbtN3fpCJ) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Ennaval](https://open.spotify.com/album/7zsQgug8SUE7Skc8FyWmra) | 3:40 | 2021-12-01 |  |
 | [Ennavaley](https://open.spotify.com/track/1pM9kwOy7CnjRNVzOHJ2kf) | [Dhilip Varman](https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2), [Thila Laxshman](https://open.spotify.com/artist/4hOt4NszxtYXKVTh14rLEO), [Psychomantra](https://open.spotify.com/artist/3as8HCXqsoGHDGPMcqaJOW), [Saint\(TFC\)](https://open.spotify.com/artist/1Im8ga1cR4Ms4dCEUjtvhx) | [Saran Z Ennavaley](https://open.spotify.com/album/552jEYJblo3g8rZ6zGVIhI) | 4:03 | 2021-12-01 |  |

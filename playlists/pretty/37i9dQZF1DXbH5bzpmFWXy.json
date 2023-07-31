@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Ryan Castro, Peso Pluma & SOG en portada.",
-  "num_followers": 137132,
+  "num_followers": 137244,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTVlMmVkMDY2ZTZlOTg4ZDkyNWU1ZGYzNjg4MzRhOWQ3YTYwOTBm",
+  "snapshot_id": "MCw0OTVmZjRiN2IzMjI5ZmM5OTUwMDllYzU2MDEzOThhYTE1Yzg1YTM5",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -99,22 +99,18 @@
     {
       "added_at": "2023-07-14 06:00:00",
       "album": {
-        "name": "La 701 - Panter Belico",
-        "url": "https://open.spotify.com/album/0SwvlaDXZ02ru0A2F8F0PG"
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI"
       },
       "artists": [
         {
-          "name": "5 Music MX",
-          "url": "https://open.spotify.com/artist/0ZptoanpAurqsvPl5tHKSH"
-        },
-        {
-          "name": "La Fresada Music",
-          "url": "https://open.spotify.com/artist/2EMMZtzNBUVJAPy0l4w4A1"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 183240,
-      "name": "La 701 - Panter Belico",
-      "url": "https://open.spotify.com/track/5yPJK5jRsaeIoNo0rcFkgP"
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G"
     },
     {
       "added_at": "2023-06-30 06:00:00",

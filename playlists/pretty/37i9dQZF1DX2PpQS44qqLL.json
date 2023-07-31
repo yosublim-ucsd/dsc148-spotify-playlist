@@ -1,12 +1,12 @@
 {
   "description": "Siempre espectaculares. Foto: Vicente Fern\u00e1ndez",
-  "num_followers": 82315,
+  "num_followers": 82455,
   "original_name": "Las Estrellas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTZmMzE1MjI2YzQ4YWZmYTk0ZjUzZDY1MmZlMTljMWM3YjY2YTUw",
+  "snapshot_id": "MCw3NjkwYTgwMzBlM2ZmYzlkMzY2ODc3MzFlZGVkNjY3YTY0YjU0OTkz",
   "tracks": [
     {
       "added_at": "2021-12-21 16:52:55",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Recuerdos II",
+        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 328320,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Pimpinela",
         "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Recuerdos II",
-        "url": "https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 328320,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -727,6 +727,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
+      },
+      "artists": [
+        {
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Completamente Tuya",
         "url": "https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh"
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
       },
       "artists": [
         {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs"
+      "duration_ms": 325466,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -791,22 +807,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 325466,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Reflexiones",
         "url": "https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 190706,
       "name": "Ser\u00e9",
       "url": "https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -855,6 +839,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 261360,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Amor prohibido",
-        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
-      },
-      "artists": [
-        {
-          "name": "Daniela Romo",
-          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Yo no te pido la luna (Non voglio mica la luna)",
-      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 312560,
       "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Amor prohibido",
+        "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Yo no te pido la luna (Non voglio mica la luna)",
+      "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Chica Dorada",
-        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "M\u00edo",
-      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Celebrando 25 A\u00f1os De Juan Gabriel En El Palacio De Bellas Artes",
         "url": "https://open.spotify.com/album/3EdXKrmsoiThC0FWi9ctNH"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+        "name": "La Chica Dorada",
+        "url": "https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c"
       },
       "artists": [
         {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 176196,
-      "name": "Donde Estaras",
-      "url": "https://open.spotify.com/track/48kQ9dT6e0yexYR791ar4I"
+      "duration_ms": 225866,
+      "name": "M\u00edo",
+      "url": "https://open.spotify.com/track/77GJz1FIKgjIp9KtnGc8Fl"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1175,6 +1159,22 @@
       "duration_ms": 184813,
       "name": "Vive",
       "url": "https://open.spotify.com/track/4YTsQ1axezXF9S6DmX45LS"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Donde Estaras",
+      "url": "https://open.spotify.com/track/48kQ9dT6e0yexYR791ar4I"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "NUEVA ERA",
         "url": "https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 202266,
-      "name": "Hoy Lo Vi Pasar",
-      "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1303,6 +1287,22 @@
       "duration_ms": 260026,
       "name": "El Amor Acaba",
       "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Hoy Lo Vi Pasar",
+      "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Doce Rosas",
+        "url": "https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Malherido",
-      "url": "https://open.spotify.com/track/650ucbNGGPC8CZvA0Y0D2A"
+      "duration_ms": 229668,
+      "name": "Doce Rosas",
+      "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Doce Rosas",
-        "url": "https://open.spotify.com/album/4QRBCtIJVQDK6k8fJ9jUFh"
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
       "artists": [
         {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
         }
       ],
-      "duration_ms": 229668,
-      "name": "Doce Rosas",
-      "url": "https://open.spotify.com/track/7cGgfuTFHDRA0b7zdzEg6R"
+      "duration_ms": 230266,
+      "name": "Malherido",
+      "url": "https://open.spotify.com/track/650ucbNGGPC8CZvA0Y0D2A"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 191792,
-      "name": "Me Enamoro De Ti",
-      "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mudanzas",
         "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
       },
@@ -1451,22 +1435,6 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/5nDWALUZxhEzwbmIbjk2ZZ"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1487,6 +1455,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 191792,
+      "name": "Me Enamoro De Ti",
+      "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Gracias por Esperar",
         "url": "https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 354013,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/5rycwubN7We1zdSDM1ZABW"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/5nDWALUZxhEzwbmIbjk2ZZ"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1531,6 +1531,22 @@
       "duration_ms": 202400,
       "name": "Mi Amor por Ti",
       "url": "https://open.spotify.com/track/0UOH706F2rU84cbI1HnGto"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 235572,
+      "name": "Que Ganas de No Verte Nunca Mas",
+      "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 235572,
-      "name": "Que Ganas de No Verte Nunca Mas",
-      "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Por Que Sera",
+        "url": "https://open.spotify.com/album/4L92OJGSEZfrfBwPJWpLsd"
+      },
+      "artists": [
+        {
+          "name": "Rudy La Scala",
+          "url": "https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "Por Que Sera",
+      "url": "https://open.spotify.com/track/2zFhOgUTFiAupp71sFKm77"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Por Que Sera",
-        "url": "https://open.spotify.com/album/4L92OJGSEZfrfBwPJWpLsd"
-      },
-      "artists": [
-        {
-          "name": "Rudy La Scala",
-          "url": "https://open.spotify.com/artist/0og9Hk6RVwNayDiXdbGVhb"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "Por Que Sera",
-      "url": "https://open.spotify.com/track/2zFhOgUTFiAupp71sFKm77"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Viviendo Del Futuro",
         "url": "https://open.spotify.com/album/61QXrezlQ97RAus6JvzCSk"
       },
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mocedades 5",
         "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 187000,
       "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 2",
-        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 417533,
-      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
-      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Volvamos a Vivir",
         "url": "https://open.spotify.com/album/1TNHTUsVLxVCLyHXhQkmqW"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 214666,
       "name": "Mi Vida Eres Tu",
       "url": "https://open.spotify.com/track/02SYuW0BNj2bvwY81HBBTd"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 2",
+        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 417533,
+      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
+      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
-      },
-      "artists": [
-        {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "Cuarenta Grados (Tudo a Ver Com Teu Olhar)",
-      "url": "https://open.spotify.com/track/5qVrVer9M3KgjyafudqUR7"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Monica Naranjo",
         "url": "https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 253266,
       "name": "Solo Se Vive una Vez",
       "url": "https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "Cuarenta Grados (Tudo a Ver Com Teu Olhar)",
+      "url": "https://open.spotify.com/track/5qVrVer9M3KgjyafudqUR7"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Rocio Banquells",
         "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 209146,
       "name": "Reconquistarte",
       "url": "https://open.spotify.com/track/7EyOWIqpFSHgK5Qs3HpDrU"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2375,18 +2375,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Amor Infinito",
-        "url": "https://open.spotify.com/album/7JOaaaN8g6NnPUcDSGsHxZ"
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
       },
       "artists": [
         {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 234893,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/1MH7CE7NBhn3kdmFEfeBhn"
+      "duration_ms": 256200,
+      "name": "Veinte Millas",
+      "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2403,6 +2403,22 @@
       "duration_ms": 247266,
       "name": "No soy de aqu\u00ed",
       "url": "https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Amor Infinito",
+        "url": "https://open.spotify.com/album/7JOaaaN8g6NnPUcDSGsHxZ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/1MH7CE7NBhn3kdmFEfeBhn"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2435,22 +2451,6 @@
       "duration_ms": 335124,
       "name": "Lo Siento Mi Amor",
       "url": "https://open.spotify.com/track/2X27vrGVFUGGxXzM8PMtHC"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Veinte Millas",
-      "url": "https://open.spotify.com/track/2PJa2C3r3b6byOU6JsxNUn"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1YDlbQe6Tf0EljFYiIi2Lu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/1uvsP5ew81PvJE3GgAGrSM"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d"
       },
@@ -2747,18 +2731,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "El Sonido Vol. 3",
-        "url": "https://open.spotify.com/album/3K9Lx3MCERuTQswKy5tMQ7"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1YDlbQe6Tf0EljFYiIi2Lu"
       },
       "artists": [
         {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Dudas",
-      "url": "https://open.spotify.com/track/7EtOFVnHpg6Czxb7pwG2j0"
+      "duration_ms": 220226,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/1uvsP5ew81PvJE3GgAGrSM"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2775,6 +2759,22 @@
       "duration_ms": 211226,
       "name": "Qui\u00e9n piensa en ti - 2015 Remastered Version",
       "url": "https://open.spotify.com/track/5dzhWgvobFV8CrKkUuz0RR"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "El Sonido Vol. 3",
+        "url": "https://open.spotify.com/album/3K9Lx3MCERuTQswKy5tMQ7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Dudas",
+      "url": "https://open.spotify.com/track/7EtOFVnHpg6Czxb7pwG2j0"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Tatiana y Johnny",
-        "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
-      },
-      "artists": [
-        {
-          "name": "Tatiana y Johnny",
-          "url": "https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm"
-        }
-      ],
-      "duration_ms": 223477,
-      "name": "Cuando Estemos Juntos",
-      "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "La Historia del Puma",
         "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
       },
@@ -3087,6 +3071,22 @@
       "duration_ms": 313146,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Tatiana y Johnny",
+        "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
+      },
+      "artists": [
+        {
+          "name": "Tatiana y Johnny",
+          "url": "https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm"
+        }
+      ],
+      "duration_ms": 223477,
+      "name": "Cuando Estemos Juntos",
+      "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Sentidos Opuestos",
-        "url": "https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64"
-      },
-      "artists": [
-        {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Escr\u00edbeme En El Cielo",
-      "url": "https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lucerito",
         "url": "https://open.spotify.com/album/1Ylk1qtCXpMdBpDaZvPd0I"
       },
@@ -3135,6 +3119,22 @@
       "duration_ms": 222426,
       "name": "Vete Con Ella (Chappell Of Love)",
       "url": "https://open.spotify.com/track/18yQJpSFRhdRYC4GHVEwcc"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Sentidos Opuestos",
+        "url": "https://open.spotify.com/album/2eOqqbyOTwSaS4V2H0jW64"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "Escr\u00edbeme En El Cielo",
+      "url": "https://open.spotify.com/track/2fnRjRGStHz4eDBiEXbFrc"
     },
     {
       "added_at": "2021-12-21 16:52:55",

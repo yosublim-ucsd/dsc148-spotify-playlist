@@ -2343,6 +2343,36 @@
     },
     {
       "album": {
+        "name": "Price Tag (Sped Up)",
+        "url": "https://open.spotify.com/album/6ITJMaP8RALYKlF1zYr8kx"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        },
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+        },
+        {
+          "name": "Kuya Magik",
+          "url": "https://open.spotify.com/artist/2XoYzhtOrvNdtu1NjyZsnb"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197664,
+      "name": "Price Tag - Sped Up",
+      "url": "https://open.spotify.com/track/7wBOjV4TIq2YzPFDc3mFmA"
+    },
+    {
+      "album": {
         "name": "prolly my spookiest beat (sped up)",
         "url": "https://open.spotify.com/album/5EJjM6oFkw0bdnCchn5BRV"
       },
@@ -2658,7 +2688,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 179482,
       "name": "Sicko (Nightcore) [feat. Paycheck & TIMMS] - Sped Up",
       "url": "https://open.spotify.com/track/6bZ5DQLL9Ly46TdDJYXkaF"

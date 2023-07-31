@@ -1057,6 +1057,28 @@
     },
     {
       "album": {
+        "name": "Bettie James Gold Edition",
+        "url": "https://open.spotify.com/album/3IqbCcRHR6MWLONfEsa34O"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        },
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "Freedom Was A Highway",
+      "url": "https://open.spotify.com/track/28suql59B0WWfWtL3rZfDy"
+    },
+    {
+      "album": {
         "name": "Bettie James",
         "url": "https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h"
       },
@@ -2538,7 +2560,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 189773,
       "name": "River's Still Running",
       "url": "https://open.spotify.com/track/5ipliYl84z26IyTnGMbZVT"

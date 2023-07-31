@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,145 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,161 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 34 | [La Casa De Tu Mamá](https://open.spotify.com/track/347RGsSgCXlzIlZYb2gEwu) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [La Casa De Tu Mamá](https://open.spotify.com/album/05SDUU6l3vytYY5Jld0b00) | 3:13 |
 | 35 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
 
-Snapshot ID: `MCxiMDQwZTFmYzUxYzJiMzJiZDk2ZmFiMTRlYmRlMzg1YjcyNGU5MTNl`
+Snapshot ID: `MCxkZTQ1OGJiYzExM2JmZDRiMmY2OWVhM2FkNjMyMjRiZGM0NDc0YzM4`

@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 268591,
+  "num_followers": 268823,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTVkNTkxYjhhZDljNzQzMGY4YjA4OWFlMWUyNTgyYWVmM2Y4NmQx",
+  "snapshot_id": "MCxiMjkyNjFmNmI5ZGY5ZDVhN2JiYzg0ZWVjYjE0YTRhYTRmZjIxNmZh",
   "tracks": [
     {
       "added_at": "2023-07-07 20:47:58",
@@ -615,8 +615,8 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Chatma",
-        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+        "name": "Kidal",
+        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
         }
       ],
-      "duration_ms": 290800,
-      "name": "Tisnant an Chatma",
-      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
+      "duration_ms": 218076,
+      "name": "Mawarniha Tartit",
+      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
     },
     {
       "added_at": "2023-07-07 20:47:58",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-07-07 20:47:58",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Imuhar",
-      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
-        "name": "Kidal",
-        "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
-      },
-      "artists": [
-        {
-          "name": "Tamikrest",
-          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
-        }
-      ],
-      "duration_ms": 218076,
-      "name": "Mawarniha Tartit",
-      "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
-    },
-    {
-      "added_at": "2023-07-07 20:47:58",
-      "album": {
         "name": "Albala",
         "url": "https://open.spotify.com/album/2ATFSmZ538NkNHgLM95YFH"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 311253,
       "name": "Be Ki Don",
       "url": "https://open.spotify.com/track/5JMebtqw62DkVHPsUJMKvh"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "Chatma",
+        "url": "https://open.spotify.com/album/0VI8LrJKHMN1S9hloXGMlU"
+      },
+      "artists": [
+        {
+          "name": "Tamikrest",
+          "url": "https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872"
+        }
+      ],
+      "duration_ms": 290800,
+      "name": "Tisnant an Chatma",
+      "url": "https://open.spotify.com/track/32ORiXJSpjsxEBh53n03U4"
+    },
+    {
+      "added_at": "2023-07-07 20:47:58",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Imuhar",
+      "url": "https://open.spotify.com/track/0Lo6q647IUY2xo2kZZszw2"
     },
     {
       "added_at": "2023-07-07 20:47:58",

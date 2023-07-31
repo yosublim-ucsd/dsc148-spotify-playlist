@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 509803,
+  "num_followers": 509782,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDMyMTMwNzRkNWU2ZGI4Y2Y1NzI4ODVjMzQ3NDk5MDA1NGUyN2Y4",
+  "snapshot_id": "MCw0OWMyYTJlMTQ2MGU2ZWJhMGU2MzU3MzViM2QyZWNiYmE5MmY5MTBl",
   "tracks": [
     {
       "added_at": "2022-11-18 05:01:00",
@@ -213,24 +213,20 @@
       "url": "https://open.spotify.com/track/7j1XQuI82j3ui6ERkKgwdI"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Christmas Greetings",
-        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
+        "name": "Just Me This Year",
+        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
         }
       ],
-      "duration_ms": 183412,
-      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
     },
     {
       "added_at": "2021-11-12 15:48:58",
@@ -281,20 +277,24 @@
       "url": "https://open.spotify.com/track/2H9zsdAjaue3tkg4d27jRm"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2021-11-12 15:48:58",
       "album": {
-        "name": "Just Me This Year",
-        "url": "https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr"
+        "name": "Christmas Greetings",
+        "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
       "artists": [
         {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 187005,
-      "name": "Just Me This Year",
-      "url": "https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa"
+      "duration_ms": 183412,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
     },
     {
       "added_at": "2022-11-25 05:00:00",
@@ -737,26 +737,6 @@
       "url": "https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH"
     },
     {
-      "added_at": "2021-11-12 15:48:58",
-      "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Christmas In New Orleans",
-      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
-    },
-    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "The Merriest",
@@ -775,6 +755,26 @@
       "duration_ms": 237613,
       "name": "That Holiday Feeling",
       "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
+    },
+    {
+      "added_at": "2021-11-12 15:48:58",
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
     },
     {
       "added_at": "2021-11-12 15:48:58",

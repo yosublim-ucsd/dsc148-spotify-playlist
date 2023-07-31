@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126459,
+  "num_followers": 126452,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWNjMGYzZTM5NWJhNDI1M2MyODk5MjA2YTE0MjYzZDdmNzI1OTNm",
+  "snapshot_id": "MCxkMzE1ZDcyY2E4MzNlN2UxNDc5ZTE3NjQ1NDM2ZGQxNGQ3NTZhMTky",
   "tracks": [
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 180135,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 565833,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 180135,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
     },
     {
       "added_at": "2023-02-07 01:47:20",

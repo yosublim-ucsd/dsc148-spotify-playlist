@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,145 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,220 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 |
 | 2 | [It Is Well](https://open.spotify.com/track/3SajhWMnXhX2RaLeEdqXHq) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Oliphant Gold](https://open.spotify.com/artist/1UeEFhpijQMngJrzoPiPXV), [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew) | [It Is Well](https://open.spotify.com/album/7nom4Vze0mmtc6e0HcKzYa) | 7:10 |
 | 3 | [Sweet Nothings \- Original Mix](https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3) | [Lebzin](https://open.spotify.com/artist/5g0Z3S2S1jqM9wBCpM9VhA), [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC) | [Sweet Nothings](https://open.spotify.com/album/0hiiBQLCfX1xy8zNk4D58e) | 4:33 |
-| 4 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 |
-| 5 | [Grootman \(Spiritual Love Affair\)](https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz) | [Daano](https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd) | [The Jazz Kid III](https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI) | 7:27 |
+| 4 | [Grootman \(Spiritual Love Affair\)](https://open.spotify.com/track/3GkzVmBju18ibwKCIJwVwz) | [Daano](https://open.spotify.com/artist/3M4Y4YPMGeBOTdKs8jUUhd) | [The Jazz Kid III](https://open.spotify.com/album/7GogCpf2vfmvx0cxjVVMBI) | 7:27 |
+| 5 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/5pFXBKRfcyCw3q39HTvpwR), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 |
 | 6 | [Ngaphakathi](https://open.spotify.com/track/6VDV7qSg8oBsdiBkHnYoug) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM) | [Welcome To The Party](https://open.spotify.com/album/7CZsavnt6vFWPkk8KntzjO) | 6:22 |
 | 7 | [HER](https://open.spotify.com/track/4r76IoQTGsPL4U3KeDFvj3) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [Day Dream](https://open.spotify.com/album/0wsXydHwawHNb02YgSTNbu) | 6:13 |
 | 8 | [Lesedi](https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J) | [Back To Front EP](https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0) | 8:14 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 44 | [Sunday Showers](https://open.spotify.com/track/6LpP5t2AzDqpMsEcIi95a1) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Old but New Last Episode](https://open.spotify.com/album/6Y1u7IbxK8uufy9akyjbv4) | 6:52 |
 | 45 | [Ivar the Boneless](https://open.spotify.com/track/5jEL4pW79jdIz6VnqDaCjm) | [Gigg Cosco](https://open.spotify.com/artist/0DkJm7HViEwxS1zxHKY86o) | [Ivar the Boneless](https://open.spotify.com/album/00vV7Vovl8G5eu9B7f896I) | 6:44 |
 | 46 | [Lately I Found Myself](https://open.spotify.com/track/5ZfIMcsmsB5wVnkGh112Bn) | [HisKing](https://open.spotify.com/artist/0j01TxMt3NFKTOCy2ob4Qj), [The Poetic Manic](https://open.spotify.com/artist/56VBl9X48ovh8FBNieoYxF) | [Lately I Found Myself](https://open.spotify.com/album/0mB5VErDZoHjWvzBfqddGP) | 7:28 |
-| 47 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
-| 48 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
-| 49 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
+| 47 | [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 |
+| 48 | [Gambiando Caras](https://open.spotify.com/track/4YNgFSOwvgYuiaDv15kiGL) | [Sir Vee The Great](https://open.spotify.com/artist/54Dv7ivRbifKAIo3fKLlyI) | [Gambiando Caras](https://open.spotify.com/album/34Z2Yz8YHzjvFZGqxr5RzG) | 7:15 |
+| 49 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 | 50 | [Captured by Mizolution](https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [One More Time](https://open.spotify.com/album/5oN6cPVKjJkSgbhUOfgaCJ) | 8:47 |
 
-Snapshot ID: `MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3`
+Snapshot ID: `MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1`

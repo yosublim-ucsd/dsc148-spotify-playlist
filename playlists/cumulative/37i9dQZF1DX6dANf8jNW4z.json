@@ -11380,7 +11380,7 @@
     {
       "album": {
         "name": "Rompe",
-        "url": "https://open.spotify.com/album/18LtUmQm9NjnZLp0HNfqFN"
+        "url": "https://open.spotify.com/album/3RtgUpdFBpd0vPA6k8IXBI"
       },
       "artists": [
         {
@@ -11391,6 +11391,24 @@
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/0iN4EAGvrX6ZIXMROaKoMC"
+    },
+    {
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/18LtUmQm9NjnZLp0HNfqFN"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mart\u00edn",
+          "url": "https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
       "duration_ms": 120000,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/6lDKZF5waYyy1pr7Lo1zof"

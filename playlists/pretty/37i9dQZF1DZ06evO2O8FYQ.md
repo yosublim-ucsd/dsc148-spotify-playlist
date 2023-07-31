@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 
 > This is Dinosaur Pile\-Up\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578 likes - 28 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577 likes - 28 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [11:11](https://open.spotify.com/track/3HtazJXet39mz8SqZwm5NP) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 4:04 |
 | 2 | [Back Foot](https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:08 |
-| 3 | [Peninsula](https://open.spotify.com/track/0xP7KHjAjhW9rHDbT2lFnm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 |
+| 3 | [Derail](https://open.spotify.com/track/48bAOPXsasZVoA96Tihzdo) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 |
 | 4 | [It's Tricky](https://open.spotify.com/track/4zbDMXa67MBJ4h7APUeGDj) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [It's Tricky](https://open.spotify.com/album/4gHLIjjsfGiNopeMqxoZMX) | 3:08 |
 | 5 | [Barce\-Loner](https://open.spotify.com/track/5JsxX5mxbXvgX8e8R0uH5x) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:15 |
 | 6 | [Thrash Metal Cassette](https://open.spotify.com/track/0RhYWcRxUljBv363WhAbtu) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:39 |
-| 7 | [Derail](https://open.spotify.com/track/48bAOPXsasZVoA96Tihzdo) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 |
+| 7 | [Peninsula](https://open.spotify.com/track/0xP7KHjAjhW9rHDbT2lFnm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Nature Nurture](https://open.spotify.com/album/01DDYdMREqxZO2ZZs1w0zk) | 3:31 |
 | 8 | [Red and Purple](https://open.spotify.com/track/6SRJtgmyjyQ5ro0LpHaPw1) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Eleven Eleven](https://open.spotify.com/album/4ojK5MjWXa8blo3bAyOVbJ) | 3:36 |
 | 9 | [Mona Lisa](https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 4:00 |
 | 10 | [Stupid Heavy Metal Broken Hearted Loser Punk](https://open.spotify.com/track/0GqdnBuiNOIqMd8R4RDWEx) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 3:12 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O8FYQ.md) - [plain]
 | 27 | [Broken Knee](https://open.spotify.com/track/75vR9yvIpqKdQv5CneGDP0) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 3:33 |
 | 28 | [Hey Man \(Home You Ruin\)](https://open.spotify.com/track/6GFqj7vEpTwcCG3LqRwjN7) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Growing Pains](https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix) | 5:20 |
 
-Snapshot ID: `MjgxNzcyNDIsMDAwMDAwMDAyZWE0YWYyOWZkMmEwZGY4OGNhMTgzZDhmNTUxZGY3ZQ==`
+Snapshot ID: `MjgxNzg2NjksMDAwMDAwMDA1NzE5Yzk5MzFhMmE5MzA0NjZmNDMzNTMyNmMyMTRhYQ==`

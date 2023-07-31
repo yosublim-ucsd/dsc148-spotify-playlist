@@ -1,12 +1,12 @@
 {
   "description": "Move your way through the day with the dance tracks you love.",
-  "num_followers": 54980,
+  "num_followers": 55008,
   "original_name": "Dance All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGVlZDQzOTkxODIxNjEyMzVkNTA5ZWMyMDhkOGFmY2UxMTU0OGE3",
+  "snapshot_id": "MCwyZDI5NjMxM2Q0ODNmYTkzYzkxODhmODdhZjNhYjE2ZDg4ZjAzZTEx",
   "tracks": [
     {
       "added_at": "2023-05-19 16:54:38",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future)",
         "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1803,6 +1803,38 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
+        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
+        "url": "https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Lunis",
+          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
+        },
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
+      "url": "https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
         "name": "Unholy (feat. Kim Petras) [Disclosure Remix]",
         "url": "https://open.spotify.com/album/1Ta4wnFWj2Ej3JheWSdjtj"
       },
@@ -1823,26 +1855,6 @@
       "duration_ms": 234411,
       "name": "Unholy (feat. Kim Petras) - Disclosure Remix",
       "url": "https://open.spotify.com/track/2Tl5fhF4itz5VeXHRVGIO5"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
-        "name": "The Parade",
-        "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Da Hool",
-          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
-        }
-      ],
-      "duration_ms": 158724,
-      "name": "The Parade",
-      "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1879,34 +1891,22 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
-        "url": "https://open.spotify.com/album/29lm3KjzCeCV07CHGT8R7n"
+        "name": "The Parade",
+        "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
       },
       "artists": [
         {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
         },
         {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Lunis",
-          "url": "https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN"
-        },
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
         }
       ],
-      "duration_ms": 128500,
-      "name": "Calabria (feat. Fallen Roses, Lujavo & Lunis)",
-      "url": "https://open.spotify.com/track/3M89zvwwb1jtDUDKYNsdiA"
+      "duration_ms": 158724,
+      "name": "The Parade",
+      "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
     },
     {
       "added_at": "2023-05-19 16:54:38",
@@ -1951,30 +1951,6 @@
     {
       "added_at": "2023-05-19 16:54:38",
       "album": {
-        "name": "Living Without You",
-        "url": "https://open.spotify.com/album/6i5EQgCokHB7wgiP68UYmA"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Living Without You",
-      "url": "https://open.spotify.com/track/1KkV5NgLa2XtD00IfaCPyG"
-    },
-    {
-      "added_at": "2023-05-19 16:54:38",
-      "album": {
         "name": "Rather Be Alone",
         "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
       },
@@ -1987,6 +1963,26 @@
       "duration_ms": 137419,
       "name": "Rather Be Alone",
       "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
+    },
+    {
+      "added_at": "2023-05-19 16:54:38",
+      "album": {
+        "name": "People Ain't Dancing (feat. Kah-Lo)",
+        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+      },
+      "artists": [
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 154859,
+      "name": "People Ain't Dancing (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
     }
   ],
   "unique_name": "Dance All Day",

@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 176000,
       "name": "BLUEBERRY",
       "url": "https://open.spotify.com/track/4BgTgPsNeDz2KG4QsshjL9"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/2nFaT0t36H6UX3wN3Vxvjm"
@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 183924,
       "name": "Czarna Per\u0142a",
       "url": "https://open.spotify.com/track/2KEEXp9tP8rA5gcVJlbAtI"
@@ -8410,7 +8410,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -8450,7 +8450,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
@@ -10676,6 +10676,24 @@
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "album": {
@@ -12996,7 +13014,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 150391,
       "name": "Kryszta\u0142owa kula",
       "url": "https://open.spotify.com/track/5eJNktTA71VoGinYjftbqH"
@@ -14000,7 +14018,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 163071,
       "name": "LOST FOREVER",
       "url": "https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf"
@@ -16624,7 +16642,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 135572,
       "name": "NA ZAWSZE",
       "url": "https://open.spotify.com/track/4l2ugyJ52D0ErwcS0gB7da"
@@ -17314,7 +17332,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 185573,
       "name": "NIETOPERZE",
       "url": "https://open.spotify.com/track/7yL315ekRVSzp62p0bOBGJ"
@@ -17508,6 +17526,24 @@
       "duration_ms": 157714,
       "name": "Numer o spodenkach kr\u00f3tkich",
       "url": "https://open.spotify.com/track/2lCq8c3uKMxbX6GwUNVXij"
+    },
+    {
+      "album": {
+        "name": "N\u00d3\u017b",
+        "url": "https://open.spotify.com/album/5WxKqpmvTX0NDV3Xb35xPr"
+      },
+      "artists": [
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153939,
+      "name": "N\u00d3\u017b",
+      "url": "https://open.spotify.com/track/08rZCN2J2ELhooLqm9wB6i"
     },
     {
       "album": {
@@ -19120,7 +19156,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 154964,
       "name": "PARASAIL",
       "url": "https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6"
@@ -24958,7 +24994,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 314836,
       "name": "TIL FURTHER NOTICE",
       "url": "https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo"

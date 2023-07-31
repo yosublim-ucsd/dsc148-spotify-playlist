@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is. \ud83d\udc97",
-  "num_followers": 171931,
+  "num_followers": 172179,
   "original_name": "EDM 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWFkMTY1MzAwOTBhZjU2MDhjM2JjOGM1MWI0ZTUzOTcxMTY5MThh",
+  "snapshot_id": "MCxjNGI5OGI1ODYxN2UzZTg1MjVhNDU2NmEwMmU2ZWEwNzM4ZWQzOWEz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -855,22 +855,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Savage",
-        "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
+      "duration_ms": 140160,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -891,6 +887,22 @@
       "duration_ms": 162545,
       "name": "I Go Dancing (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/2mPyJgKE7vSpUoFXJps8z3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 121904,
+      "name": "Goodies",
+      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -923,38 +935,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 121904,
-      "name": "Goodies",
-      "url": "https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Lucid Dream",
-        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 193235,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "One Last Time (with R3HAB) (feat. Enny-Mae)",
         "url": "https://open.spotify.com/album/1D98GoIVHBVQsPPPAmBYDX"
       },
@@ -979,6 +959,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Lucid Dream",
+        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 193235,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
       },
@@ -999,18 +995,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/5MZ8KBGWztnBxBlrLPRBZB"
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM"
       },
       "artists": [
         {
           "name": "Ti\u00ebsto",
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 140160,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/3BuHeeCEqJ41hBkiK069RA"
+      "duration_ms": 167500,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "You Can\u2019t Change Me (feat. Raye)",
-        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "You Can\u2019t Change Me (feat. Raye)",
-      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Starlight (Keep Me Afloat)",
         "url": "https://open.spotify.com/album/7eIDupqYq3dYiaLPmv71bY"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 202670,
       "name": "Starlight (Keep Me Afloat)",
       "url": "https://open.spotify.com/track/4UQy41kC5LjzwQuiuWOpwA"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Party PPL",
-        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "89ers",
-          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
-        }
-      ],
-      "duration_ms": 148412,
-      "name": "Party PPL",
-      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Party PPL",
+        "url": "https://open.spotify.com/album/0oglJBSSaMlKM95QLXQGx5"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        }
+      ],
+      "duration_ms": 148412,
+      "name": "Party PPL",
+      "url": "https://open.spotify.com/track/5XlfRHrrl5kxkm22pxeLjH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -2107,26 +2107,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Would You Even Know",
-        "url": "https://open.spotify.com/album/4BNrohSLaSA4ifKPJyzUts"
+        "name": "Lipstick (feat. Robbie Rise)",
+        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
       "artists": [
         {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         },
         {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Tia Tia",
-          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
+          "name": "Robbie Rise",
+          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
         }
       ],
-      "duration_ms": 197590,
-      "name": "Would You Even Know",
-      "url": "https://open.spotify.com/track/07FMnItEdDXZ2WAgNR9n6a"
+      "duration_ms": 226615,
+      "name": "Lipstick (feat. Robbie Rise)",
+      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
     }
   ],
   "unique_name": "EDM 2023",

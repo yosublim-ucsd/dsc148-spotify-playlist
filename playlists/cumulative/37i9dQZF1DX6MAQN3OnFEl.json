@@ -826,6 +826,24 @@
     {
       "album": {
         "name": "Jennifer Paige",
+        "url": "https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ"
+    },
+    {
+      "album": {
+        "name": "Jennifer Paige",
         "url": "https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz"
       },
       "artists": [
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 214786,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/2CZi8d774dBB0wiuWMIpr8"

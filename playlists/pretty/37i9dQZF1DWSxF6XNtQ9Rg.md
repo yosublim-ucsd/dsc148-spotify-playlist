@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,102 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,247 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Narcos](https://open.spotify.com/track/1BdmcsFAODQR4x7eiOuRVf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:16 |
 | 100 | [Phi](https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 2:54 |
 
-Snapshot ID: `MCxhNWRkMTlmODk4YjlkYmJjYmJhMzdmYmMyYTZmMDE1OTEzNjBhMDUy`
+Snapshot ID: `MCw0ZGQ2MzQzZjkwY2QzYzU0ZGExOTBiNzM1MzY4ZmVhZGM1M2M2Yjll`

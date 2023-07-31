@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 38544,
+  "num_followers": 38751,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTI1ZmFiNTc0OTFhM2Q2OTk4ZTIxOTM5NjZjZWQyYjJjMjVkNWVh",
+  "snapshot_id": "MCw1MmM4ZWMzMzEwMTBlYjdkYWYzY2M1MDI5ZmNhY2Q3ZDc1YjM1N2Zm",
   "tracks": [
     {
       "added_at": "2023-07-24 14:21:43",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-24 14:21:43",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 307453,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
-    },
-    {
-      "added_at": "2023-07-24 14:21:43",
-      "album": {
         "name": "GHOSTS ON TAPE",
         "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 226622,
       "name": "MORBID FASCINATION",
       "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+    },
+    {
+      "added_at": "2023-07-24 14:21:43",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 307453,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
     },
     {
       "added_at": "2023-07-24 14:21:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-24 14:21:43",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
-      },
-      "artists": [
-        {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
-    },
-    {
-      "added_at": "2023-07-24 14:21:43",
-      "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2023-07-24 14:21:43",
+      "album": {
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+      },
+      "artists": [
+        {
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2023-07-24 14:21:43",

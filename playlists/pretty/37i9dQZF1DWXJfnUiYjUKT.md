@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,866 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,042 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Don’t Call Me](https://open.spotify.com/track/3bU91SbdFFrxKTu6L02r5r) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Don’t Call Me](https://open.spotify.com/album/5Q4FL6AO9WxaWTLGX4uuYN) | 2:48 |
 | 100 | [radar](https://open.spotify.com/track/6IRdJtaVyL4bgGWgubnPoX) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/43UCisFX7ydBuBK24RQlur) | 2:22 |
 
-Snapshot ID: `MCxhMTgzYTg2NmZjYjExNjdlNTY2NjUwNjBkNmI5MjhiNmU4NTcwNDBi`
+Snapshot ID: `MCwwYzBjM2NlMGQwNzFiZjBiOTE0MTc3NzM4MTBhYTlmZGM1ZDlhZWU0`

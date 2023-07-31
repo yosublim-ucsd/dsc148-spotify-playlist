@@ -4,11 +4,11 @@
 
 > This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 42 min
+54 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [911](https://open.spotify.com/track/0Ci1S6gSZJ912cYoSZvJMW) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [911](https://open.spotify.com/album/3PuIN4CvidkN27v8FCJVbq) | 3:56 | 2023-07-22 |  |
+| [911](https://open.spotify.com/track/0Ci1S6gSZJ912cYoSZvJMW) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [911](https://open.spotify.com/album/3PuIN4CvidkN27v8FCJVbq) | 3:56 | 2023-07-22 | 2023-07-31 |
 | [A Voz \(feat\. Daniela Araújo\)](https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 4:31 | 2023-07-09 |  |
 | [Abba](https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Abba](https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W) | 4:23 | 2023-07-09 |  |
 | [Abril](https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitor Kivitz](https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:49 | 2023-07-09 |  |
@@ -52,6 +52,7 @@
 | [Ruídos](https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Ruídos](https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX) | 5:20 | 2023-07-09 |  |
 | [Santo](https://open.spotify.com/track/2MHys4QtjlA9PW4vpWMHme) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Santo](https://open.spotify.com/album/5jFjtCN7cYop72h0iylfxk) | 3:38 | 2023-07-09 |  |
 | [Santo/ Graça](https://open.spotify.com/track/33O7e0HmKndEDMf6hj96p0) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:18 | 2023-07-09 |  |
+| [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 | 2023-07-30 |  |
 | [Simplicidade](https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Simplicidade](https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3) | 4:48 | 2023-07-09 | 2023-07-22 |
 | [Sintonia](https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:22 | 2023-07-09 |  |
 | [Sonhadora](https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora](https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5) | 3:35 | 2023-07-09 |  |

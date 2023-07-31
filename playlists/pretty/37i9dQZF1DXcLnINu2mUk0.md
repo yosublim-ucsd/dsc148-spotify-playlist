@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,266 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,292 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 57 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
 | 58 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
 | 59 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
-| 60 | [Cara do Pai](https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT) | [Arganaça](https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i) | [Cara do Pai](https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR) | 3:09 |
-| 61 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
+| 60 | [Linda](https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Linda](https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH) | 2:32 |
+| 61 | [Cara do Pai](https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT) | [Arganaça](https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i) | [Cara do Pai](https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR) | 3:09 |
 | 62 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
 | 63 | [Não Me Leves a Mal](https://open.spotify.com/track/74lzWQmKWFI5Z0RJqV8hEG) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Não Me Leves a Mal](https://open.spotify.com/album/11hvGr1BS32qZ4MOAAGiXP) | 4:00 |
 | 64 | [Low Battery](https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [Low Battery](https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov) | 2:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 |
 | 75 | [Quero\-te a Ti](https://open.spotify.com/track/6GILBGEhDI9k3VeAfgzxyw) | [FdAN](https://open.spotify.com/artist/20Ee6qv5FGmTxGbcs9tLm3) | [Quero\-te a Ti](https://open.spotify.com/album/1ZmBfvpD4fzZ8058BCVhKW) | 2:45 |
 
-Snapshot ID: `MCxkZTZmODE2ZjM1YTFkMDRkZWY2OGU5MTQ0MWY3MmQ1MmYyZTFjMzE0`
+Snapshot ID: `MCw0YmEyYzIyNWJhZDEyMzA0MTExZjFlYTc1ZjQwOThjZTFjMzMzM2Y4`

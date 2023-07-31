@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,663 likes - 74 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,677 likes - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 44 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 |
 | 45 | [Slow Rollin'](https://open.spotify.com/track/52FOkM2lmc1fXkzj9BULfO) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 2:44 |
 | 46 | [Rippin It up \(feat\. Bubba Sparxxx, Boondock Kingz, Porch Matthews & Jawga Boyz\)](https://open.spotify.com/track/6BOqVMxqQxkxknO3COfzrG) | [Jawga Sparxxx](https://open.spotify.com/artist/4Tmi4eRiBmTkJCEJuFnKuP), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Boondock Kingz](https://open.spotify.com/artist/5t1SNVbHSuaQWZ0FXnLGcK), [Porch Matthews](https://open.spotify.com/artist/6mzpnqqXaw7OEOXKXJtPp7), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Muddy Days Drunken Nights](https://open.spotify.com/album/10kU2gbvQq0alFj6jmgwqK) | 3:12 |
-| 47 | [Bumpy Road](https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 2:50 |
-| 48 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 |
+| 47 | [Redneck Dirt Road Riders](https://open.spotify.com/track/6ZtUAt1b7sEY6RmRSGfIaB) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Hick Hop 101](https://open.spotify.com/album/1fdPeDF1pCecHyPX8JNKbE) | 3:32 |
+| 48 | [Bumpy Road](https://open.spotify.com/track/4AVGNAuDKWYpdFKavRF8pB) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 2:50 |
 | 49 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 |
 | 50 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 |
 | 51 | [Out Here](https://open.spotify.com/track/0MWRZAn0iqxue6g7bm72KV) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [Outlaw In Me](https://open.spotify.com/album/760sXqdIdCq7C9zHKELKYr) | 4:39 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 74 | [Watch This](https://open.spotify.com/track/0q8DxBCyj91Wrh1zlmcx5H) | [Moccasin Creek](https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T), [Tommy Chayne](https://open.spotify.com/artist/3EuDaf0CO8MR6eH3ax8EHO), [Hard Target](https://open.spotify.com/artist/2YqvF0mZUjjtRyMP4vyGUf) | [Lethal](https://open.spotify.com/album/0GbkBN6oG4gtSx5JuFQ9Ci) | 3:51 |
 
-Snapshot ID: `MCwwOTRkMzk2MTE3N2RkNzE3NWI4ZjIzNWEwNGE0YWRiYzA5NmNjYjQw`
+Snapshot ID: `MCxjZTYzODFjZDc4ODJhMzlhOGFkYjNlMTBhOTBjMzVmNzIwY2ZiMDUy`

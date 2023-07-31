@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > Cover: A\. G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,282 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,476 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [brainfreeze](https://open.spotify.com/track/3xrgxsAR0xNqSgSsQHHfWe) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [brainfreeze](https://open.spotify.com/album/5MDmvBCWLgiKxbP27Iixjp) | 1:52 |
 | 100 | [i feel like a dog](https://open.spotify.com/track/5fMzsDRT8cHtZ1R9aLiYAZ) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [i feel like a dog](https://open.spotify.com/album/0owUk0b5tnYYVcvQz6zTo5) | 1:25 |
 
-Snapshot ID: `MCxjZWEzYTJjMDFkMDhkNjEzMTAzMTAwNzI4ZWMyOWJkMTBhMWEzODg4`
+Snapshot ID: `MCw5ODlkMTY4OWRjN2Y4MjUyNzhiZDM2ZTM5YzU5ZjA2MzM0N2UxNDI2`

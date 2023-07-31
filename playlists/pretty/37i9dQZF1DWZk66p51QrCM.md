@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 
 > The Official EA SPORTS F1 23 Soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,615 likes - 34 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,778 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk66p51QrCM.md) - [plain]
 | 28 | [FORFEIT](https://open.spotify.com/track/540ikgaUcx6N1SNX5JfqId) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [FORFEIT](https://open.spotify.com/album/2BXeD1kVZRzkXn563w7vd5) | 2:50 |
 | 29 | [Speed Of Light](https://open.spotify.com/track/6Z1162p9kKYUAGbRWLN2eH) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Speed Of Light](https://open.spotify.com/album/64AsM1vclRLFeNKlSPnGsA) | 3:24 |
 | 30 | [Oceans](https://open.spotify.com/track/2H28Hbm2ScwDoWdsbHUsNB) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [Oceans](https://open.spotify.com/album/5momdt5jI4owNpsBqNhfwm) | 4:53 |
-| 31 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
-| 32 | [We've Got A Good Thing Going](https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/6EXOECUag8jXX4iJIu4mJ5) | 5:01 |
+| 31 | [We've Got A Good Thing Going](https://open.spotify.com/track/47FUHv5KRr4nQ1xyJoTNZR) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [We've Got A Good Thing Going](https://open.spotify.com/album/6EXOECUag8jXX4iJIu4mJ5) | 5:01 |
+| 32 | [I Do You](https://open.spotify.com/track/2quYVfmHHIpVJQduMAkHtk) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:44 |
 | 33 | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/track/2Z9NWTkvE7dDFDpWhCY3bQ) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Real Talk \(Boys Noize Remix\)](https://open.spotify.com/album/71qWeuLd6mu03o55lvJPKH) | 6:45 |
 | 34 | [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 |
 
-Snapshot ID: `MCwzNzViZjYzZTlmODExNWUzYzk0MTUwNzk0ZjA5MjgxZjFmOTJiN2Ey`
+Snapshot ID: `MCxiYjlmM2JiNDY2YjQ5MjY0NjdkYTkzMjI4ZWE0ZjhlMWZjZjY3MTVk`

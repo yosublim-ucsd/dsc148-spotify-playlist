@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,331 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,416 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 61 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 |
 | 62 | [Moon River](https://open.spotify.com/track/7m3MJIwWdNA5xuIuZDfawS) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 6:26 |
 | 63 | [Misty \- 2001 Remaster](https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [The Sound Of Johnny Smith](https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh) | 5:28 |
-| 64 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
+| 64 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 |
 | 65 | [When The Sun Comes Out](https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU) | [Howard Roberts](https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel) | [Good Pickin's](https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS) | 4:15 |
 | 66 | [The Nearness Of You \- Instrumental](https://open.spotify.com/track/118oSpIpxvMlnpeX2TOiKr) | [George Van Eps](https://open.spotify.com/artist/6QL3lIEWRff6Nn0Iy1yIps), [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR) | [Hand\-Crafted Swing](https://open.spotify.com/album/1qb8YfycUTV28M85dBT5kZ) | 6:10 |
 | 67 | [Autumn Leaves](https://open.spotify.com/track/4kAmZwI6PGdgMrkJaodfQp) | [Joseph Kosma](https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y), [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [Verve Jazz Masters 41: Tal Farlow](https://open.spotify.com/album/3s1NyCyNpsGKgUZncxwvyi) | 1:41 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 70 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
 | 71 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 72 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
-| 73 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 |
+| 73 | [Minor Blues](https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [The Next Step](https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb) | 5:54 |
 | 74 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
 | 75 | [Freedom Dance](https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig) | [Heritage](https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy) | 4:40 |
 | 76 | [For Toddlers Only](https://open.spotify.com/track/19GBMJXq6kXHemriVnEtnC) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Jazz Guitar](https://open.spotify.com/album/6mFt5Ao230rf7Dedo8C6mK) | 5:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [May Dance](https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Gateway](https://open.spotify.com/album/17BiOpPnez7L0w8r0yRp9Y) | 11:01 |
 | 100 | [Never Will I Marry](https://open.spotify.com/track/4TrYsGEGHFqysMRmkgW548) | [Sam Yahel Trio](https://open.spotify.com/artist/3ISh6Jz1xLIprziBMg5Iuu), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Trio](https://open.spotify.com/album/34rwazvp4s6hULceKvV5MV) | 5:54 |
 
-Snapshot ID: `MCxhYjViN2FkNjgyYWJmZmYxNGVlODc5ZDhhMmQ5MjdkMzNiODc3NmFh`
+Snapshot ID: `MCw0ZjllZTk3NzE1YjRiM2QzNWMwMTAwOWYzYTllMjIxZTc5NGUxZDJm`

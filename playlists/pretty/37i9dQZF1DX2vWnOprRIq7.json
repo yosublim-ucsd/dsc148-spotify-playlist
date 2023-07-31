@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring Rubio.",
-  "num_followers": 16093,
+  "num_followers": 16104,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTllMjM2Njg2ZTgwOTk5OGQ2MjczNzA1MzA1NzgwNTI4NGEwMjA5",
+  "snapshot_id": "MCw5NDBkMWI4YzI2ZDVmMGI1NjU0MDJjMDAzOTg0MjFhMTNmMDE4OTky",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "\u00faltimo y primero",
-        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 179377,
-      "name": "\u00faltimo y primero",
-      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "D\u00eda de Noche (B-Sides & Remixes)",
         "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 307000,
       "name": "Zorzal",
       "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "\u00faltimo y primero",
+        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -879,6 +879,26 @@
       "duration_ms": 180867,
       "name": "HYPERREAL",
       "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1035,30 +1055,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        },
-        {
-          "name": "Sergio Escribano",
-          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
-        },
-        {
-          "name": "Escaparate de Poes\u00eda",
-          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
-        }
-      ],
-      "duration_ms": 221610,
-      "name": "ELLA (CAE LA NOCHE)",
-      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "TODO HA CAMBIAO'",
         "url": "https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy"
       },
@@ -1079,22 +1075,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        },
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
         }
       ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
+      "duration_ms": 221610,
+      "name": "ELLA (CAE LA NOCHE)",
+      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Modernos",
         "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 253500,
       "name": "Modernos",
       "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Dime Algo (bonito)",
-        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
-      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Aparecido",
         "url": "https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 246136,
       "name": "Ave",
       "url": "https://open.spotify.com/track/5N2R03ZsiQhq1fFgXC03Hs"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Dime Algo (bonito)",
+        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
+      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Dice que cambi\u00f3",
         "url": "https://open.spotify.com/album/43pw905y2K62roRunMGYRl"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 163000,
       "name": "LA FRONTERA",
       "url": "https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-07-28 03:00:00",

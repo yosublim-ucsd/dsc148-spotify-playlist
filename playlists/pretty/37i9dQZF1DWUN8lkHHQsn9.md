@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Zamilska
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,275 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,276 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 14 | [oddaję Ci melodię](https://open.spotify.com/track/5zvfPxqXLOXEls3qME9Uz9) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [oddaję Ci melodię](https://open.spotify.com/album/4OVGD8MkQjwtXeUaJwpJ7U) | 2:23 |
 | 15 | [Fragile](https://open.spotify.com/track/677URO2eaUkEKpGeKq6Lds) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Fragile](https://open.spotify.com/album/0A7DfszejiHBJaGH7VSkgj) | 3:06 |
 | 16 | [GEJSZA](https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv) | [RUSKIEFAJKI](https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna) | [GEJSZA](https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl) | 3:28 |
-| 17 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
+| 17 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 |
 | 18 | [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 |
 | 19 | [bezdech](https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50) | [livia lena](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [bezdech](https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R) | 3:19 |
 | 20 | [Święta Betsy](https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Święta Betsy](https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B) | 2:49 |
 | 21 | [MAJUŚ](https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [MAJUŚ](https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b) | 2:17 |
 | 22 | [Shine](https://open.spotify.com/track/1BZrovLZ6QTTFxn4Ng4v2m) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reincarnation EP](https://open.spotify.com/album/6W74HIJEn8xY0swZtCJHDd) | 3:58 |
-| 23 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 |
+| 23 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
 | 24 | [Better Place](https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Better Place](https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG) | 3:01 |
 | 25 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
 | 26 | [Spytaj mnie](https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:13 |
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 47 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 48 | [priorytetem](https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [psychodynamiczne](https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9) | 3:10 |
 | 49 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
-| 50 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
-| 51 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
-| 52 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
+| 50 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
+| 51 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
+| 52 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
 | 53 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
 | 54 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
 | 55 | [Evangelion](https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Magister](https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h) | 2:40 |
 | 56 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
-| 57 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
+| 57 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
 | 58 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
-| 59 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
-| 60 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
+| 59 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
+| 60 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 
-Snapshot ID: `MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5`
+Snapshot ID: `MCxlMDY2NzczYjBlYzIzNGY4OTAwMGU3Nzg2MTVkMzNkNDE5MGYzNTU5`

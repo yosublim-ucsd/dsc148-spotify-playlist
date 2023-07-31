@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,595 songs - 5 day 17 hr 53 min
+3,596 songs - 5 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2020-03-20 | 2020-08-30 |
 | [Dawnlight](https://open.spotify.com/track/72epC72BQjPF0KqYUTj0PT) | [Huez](https://open.spotify.com/artist/11nJzHENlaUYrrT9CAd0W9) | [Dawnlight / Diamond Queen](https://open.spotify.com/album/27ej7ZIC8uAWNcqXMyrODR) | 1:41 | 2019-05-26\* | 2019-08-21 |
 | [day after day](https://open.spotify.com/track/3NJVZBzYRMOLabGq1hSDRd) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [day after day](https://open.spotify.com/album/39LdsRZXXUENgM2dprcmJM) | 1:53 | 2021-11-27 | 2021-12-29 |
-| [Day Blessing](https://open.spotify.com/track/7sOWaCTLMXgeic0njcAdGN) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Day Blessing](https://open.spotify.com/album/4BUPHOTT0bRM7rcsuaHwUV) | 2:00 | 2023-07-27 |  |
+| [Day Blessing](https://open.spotify.com/track/7sOWaCTLMXgeic0njcAdGN) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Day Blessing](https://open.spotify.com/album/4BUPHOTT0bRM7rcsuaHwUV) | 2:00 | 2023-07-27 | 2023-07-31 |
 | [Day One](https://open.spotify.com/track/63cbElHfVa2IewIu8mhDq5) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [Day One](https://open.spotify.com/album/67FJXm7DQw0XeJJCy1zEgN) | 2:32 | 2021-10-08 | 2021-11-12 |
 | [Daybed](https://open.spotify.com/track/2PD9AssRuwARlWkJIurSaI) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Daybed](https://open.spotify.com/album/6oA5t3W5fNpK7GZ26rLT4p) | 1:50 | 2023-07-27 |  |
 | [Daybreak](https://open.spotify.com/track/1qCDrlj87fYTurdtXLqSvU) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Daybreak](https://open.spotify.com/album/3iLglOQSk2RfT28Abtjm4A) | 2:33 | 2021-10-01 | 2021-11-11 |
@@ -2449,6 +2449,7 @@
 | [Purple Kush](https://open.spotify.com/track/6AeZjvFrbtkXwqtufASn59) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Nickel Bag of Beats](https://open.spotify.com/album/7d9NrghKGej9KejdR5XFaz) | 1:17 | 2020-04-18 | 2020-05-25 |
 | [Purple Midnight](https://open.spotify.com/track/1P4cOlRiuivUcl6teeUp1W) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Purple Midnight](https://open.spotify.com/album/549gF7b0HFwdtj3dlqPMzy) | 1:48 | 2021-07-09 | 2022-01-21 |
 | [Purple Skies](https://open.spotify.com/track/2foRZpSWipdqRtuwube6A5) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Purple Skies](https://open.spotify.com/album/7GJu0vat4vBd3iFplNwSoS) | 2:14 | 2020-10-23 | 2021-03-14 |
+| [Purple Summer Vibes](https://open.spotify.com/track/2zaBhN5Hfm1KRw3vCaQNTI) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Purple Summer Vibes](https://open.spotify.com/album/4TXh2T1ThZU7U6BYkD7PFP) | 1:44 | 2023-07-27 |  |
 | [Pushing](https://open.spotify.com/track/3KFuN9qopbwFZEqfyo4Dsj) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Pushing](https://open.spotify.com/album/7jbh3vcWYt5z51FNWgL41b) | 2:16 | 2021-05-29 | 2021-11-19 |
 | [Quane Street](https://open.spotify.com/track/08SrBiUgPVHcTOPXcijdgM) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Quane Street](https://open.spotify.com/album/1CVr6LQ5RDXaDcFJ3IvQm5) | 2:17 | 2020-06-19 | 2021-03-26 |
 | [Quattro Stagioni](https://open.spotify.com/track/2pN5vchOyzBXilH2jkkM6g) | [Mi Ka](https://open.spotify.com/artist/7rbh86THQLpEnUvTQ9lAL4) | [Quattro Stagioni](https://open.spotify.com/album/4HisAvZUxMwWx7ozygixxS) | 2:53 | 2021-12-04 | 2022-01-07 |

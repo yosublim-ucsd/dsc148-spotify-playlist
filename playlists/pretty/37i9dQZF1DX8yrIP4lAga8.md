@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,503 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,539 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 19 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 20 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
 | 21 | [This Groove](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [This Groove](https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H) | 3:08 |
-| 22 | [Summer 91](https://open.spotify.com/track/7pARbCUoO1CTzU5ucMEaVF) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91](https://open.spotify.com/album/4eAbd696nAHRZy2g6RwLhL) | 2:29 |
-| 23 | [Paris City Jazz](https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Paris City Jazz](https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS) | 5:43 |
+| 22 | [Paris City Jazz](https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw) | [Paris City Jazz](https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS) | 5:43 |
+| 23 | [Summer 91](https://open.spotify.com/track/7pARbCUoO1CTzU5ucMEaVF) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91](https://open.spotify.com/album/4eAbd696nAHRZy2g6RwLhL) | 2:29 |
 | 24 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 |
 | 25 | [You're Sunshine](https://open.spotify.com/track/4gdjZS54vHNBk467zeAqkq) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [You're Sunshine](https://open.spotify.com/album/5ASahiUQrJOala4neqHSd5) | 2:56 |
 | 26 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Sweet Harmony](https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3) | 4:22 |
 | 50 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 
-Snapshot ID: `MCw4YmJkYWM5MGEwNTQ2YWUxOTE5ZTg2OTAzNjg2ZGQ0NjliYjYzOWIy`
+Snapshot ID: `MCw4ZTZiZjZjMzVlYjJhOWVkMGRiZmM5ODhhNzU0MjgwMTY0MjZhMzU3`

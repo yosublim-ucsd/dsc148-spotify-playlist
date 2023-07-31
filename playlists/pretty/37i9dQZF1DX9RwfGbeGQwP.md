@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,567 likes - 524 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,766 likes - 524 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -533,4 +533,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 523 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 |
 | 524 | [Works of Fiction](https://open.spotify.com/track/4OIWPBw1keXcCsTBh1Jw39) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:48 |
 
-Snapshot ID: `MCw0ZDQwOGI1ZjE0YjlmYjFmMGYyYTRjOTExOGY2MDM2M2QzNGYyNTI0`
+Snapshot ID: `MCwyMDE4NWE0YWYxNGU5NGE5ZGExMjYxNTA4ZmE3MzQ1MTZkOTlkMzk4`

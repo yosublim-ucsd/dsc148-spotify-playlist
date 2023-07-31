@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,729 songs - 3 day 5 hr 33 min
+1,730 songs - 3 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1350,6 +1350,7 @@
 | [Soothe](https://open.spotify.com/track/0TA4KpQK657wXKvW3X0Oxf) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [All Behind Us](https://open.spotify.com/album/4hwIH1YgDbVfPSGjelmO08) | 2:30 | 2021-04-23 | 2022-03-28 |
 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-27 |  |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2021-05-16 | 2022-04-21 |
+| [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 | 2023-07-27 |  |
 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 | 2021-05-03 | 2022-07-19 |
 | [Spanish Evening](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [Hilda Atkins](https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd) | [Spanish Evening](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 2:31 | 2021-04-30 | 2022-04-16 |
 | [Speck of Dust](https://open.spotify.com/track/0M7gRVPeVUAUDbS8N0kmdb) | [Fellows](https://open.spotify.com/artist/28MgNka3kDQyWxvuoGDo3o) | [Speck of Dust](https://open.spotify.com/album/3GnXsIXQPmCreqTC5l8ZZ0) | 4:07 | 2021-04-22 | 2021-12-20 |
@@ -1496,7 +1497,7 @@
 | [The Shores](https://open.spotify.com/track/4pUSEwCVnD5fYYb6pDkJNw) | [Hermosa Dawn](https://open.spotify.com/artist/2MjjjAZZhgYEyywzBnhZbN) | [The Shores](https://open.spotify.com/album/0sxe2UItX3hliFGbvLxwPq) | 2:01 | 2021-03-08 | 2022-04-18 |
 | [The Sky](https://open.spotify.com/track/2VXkzMDKubnPzh16J9b9tm) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [The Sky](https://open.spotify.com/album/54HWr8JfjFpNgBIKllPuXg) | 2:38 | 2022-03-29 | 2022-04-14 |
 | [The Stars](https://open.spotify.com/track/3MudBKLYKO3jw8xl8HdLXi) | [Calle Rasmusson](https://open.spotify.com/artist/542yTnYI4To78OAWEblioM), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Dalasinfoniettan](https://open.spotify.com/artist/7zHTlOcdKTklAyain9VFB3) | [One](https://open.spotify.com/album/1UAS6rzizbJzW7mjr2qp3x) | 5:32 | 2021-05-16 | 2022-04-14 |
-| [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-25 |  |
+| [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 | 2023-04-25 | 2023-07-31 |
 | [The Swan](https://open.spotify.com/track/4gnse1wE1sdaO1LNqyDVCo) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [The Swan](https://open.spotify.com/album/3n4E33QEwe90voYnoAWGtc) | 2:28 | 2021-05-05 | 2022-04-17 |
 | [The Thing With Feathers](https://open.spotify.com/track/3mFbJCcXcQJiyiksotg99d) | [Melanie Adler](https://open.spotify.com/artist/551CfpY5WmasLWB8Ir0EKx) | [The Thing With Feathers](https://open.spotify.com/album/5yo0tGwa1UDw1FqiCEItFK) | 2:39 | 2021-05-16 | 2021-05-18 |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-04-15 |  |

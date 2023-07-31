@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,386 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,385 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 7 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
 | 8 | [Gente Aberta \- Acorda Amor](https://open.spotify.com/track/6P5vzOMnn0h1vszZquA1If) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acorda Amor](https://open.spotify.com/album/5eh6PHaZrwQJ0xG9d7OS8n) | 5:55 |
 | 9 | [Tudo Seu](https://open.spotify.com/track/3DkC02GRxCISS2mo0MwQYd) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:32 |
-| 10 | [Lá De Onde Eu Vim](https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Lá De Onde Eu Vim](https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B) | 3:07 |
-| 11 | [No Tempo da Intolerância](https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [No Tempo da Intolerância](https://open.spotify.com/album/0zi3FiBTSw5ZL98oW4wEZV) | 2:50 |
+| 10 | [No Tempo da Intolerância](https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [No Tempo da Intolerância](https://open.spotify.com/album/0zi3FiBTSw5ZL98oW4wEZV) | 2:50 |
+| 11 | [Lá De Onde Eu Vim](https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Lá De Onde Eu Vim](https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B) | 3:07 |
 | 12 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 |
 | 13 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
 | 14 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 35 | [Por Aqui Tá Tudo Bem](https://open.spotify.com/track/7G52l43cuNJxyVu5ciMKy1) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Por Aqui Tá Tudo Bem](https://open.spotify.com/album/4I7A1KErUent5Uk1jg7uaj) | 3:00 |
 | 36 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
-| 37 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD) | 3:15 |
-| 38 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
+| 37 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
+| 38 | [Deusa Inebriante](https://open.spotify.com/track/5jokszjIdX0MXseaJrpAWJ) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:18 |
 | 39 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
-| 40 | [Deusa Inebriante](https://open.spotify.com/track/5jokszjIdX0MXseaJrpAWJ) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:18 |
+| 40 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD) | 3:15 |
 | 41 | [Renascer](https://open.spotify.com/track/2MdJeuNgolwPRA18MTIc5I) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Em Nome da Estrela](https://open.spotify.com/album/5wZ83t7Di8TmoUP6uc6IC5) | 4:54 |
 | 42 | [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 |
 | 43 | [Dialeto Secreto](https://open.spotify.com/track/1vasBfbudfWUfdT2ll3FIk) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Melhor Que Ontem](https://open.spotify.com/album/64ux9afJoLaafAYumSppUl) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Uva Niágara](https://open.spotify.com/track/7MKKA2t5XffoOxksp0m1vH) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Uva Niágara](https://open.spotify.com/album/0NZcfKoQQpQIBxqgAkkIyd) | 3:05 |
 | 50 | [Insegurança](https://open.spotify.com/track/1a3RCKohK84mXO8GmlcfXb) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Insegurança](https://open.spotify.com/album/1IbDGV9gKwVftBV6JXCA6t) | 3:12 |
 
-Snapshot ID: `MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh`
+Snapshot ID: `MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl`

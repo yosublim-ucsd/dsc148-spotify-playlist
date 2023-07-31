@@ -4,7 +4,7 @@
 
 > every day grooves for a laid back day.
 
-141 songs - 8 hr 14 min
+142 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [I CAN'T](https://open.spotify.com/track/65b76kM7sMWzoBiUMjsjR8) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE MAKINGS OF ME](https://open.spotify.com/album/3nUqWkMIx1l7XMyRNPTHGE) | 1:45 | 2022-07-22 |  |
 | [I Feel a Change](https://open.spotify.com/track/61lMfe2aGI4EjrlVK03ZoI) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [I Feel a Change](https://open.spotify.com/album/3cctKHJqEMJ4p4MnELFvHq) | 4:26 | 2021-10-22 | 2022-02-19 |
 | [I Love Me Too](https://open.spotify.com/track/4UpbTA0kccMXQqfuOSSPi1) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Unpregnant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Gvg9EUzXnxltRlj2R2fCX) | 2:57 | 2021-10-22 | 2022-09-10 |
-| [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 | 2023-02-10 |  |
+| [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 | 2023-02-10 | 2023-07-31 |
+| [I Won't Tell](https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:39 | 2023-02-10 |  |
 | [Intentions](https://open.spotify.com/track/4eI6gfUfYEK7bU6wxPcVIB) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Big Sleepover](https://open.spotify.com/album/7I7LXKjl6oGnHT6GcfsP8Q) | 3:43 | 2022-02-18 | 2022-11-12 |
 | [Intentions](https://open.spotify.com/track/4K9cCtDfk9pr6EGFzl0ec8) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Intentions](https://open.spotify.com/album/3Ltqe8yE6rI8XuIxjGZ0In) | 3:43 | 2021-10-22 | 2022-07-29 |
 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 | 2022-07-22 |  |

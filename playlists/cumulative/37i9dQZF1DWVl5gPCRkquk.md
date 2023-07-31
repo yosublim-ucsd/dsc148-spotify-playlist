@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-274 songs - 17 hr 8 min
+275 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2021-10-29 |  |
 | [It Is What It Is](https://open.spotify.com/track/3FblHhMLjyL9G8Gtqhe45y) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [It Is What It Is](https://open.spotify.com/album/5uzGw560B5h9zUInkEVqds) | 3:57 | 2021-10-29 | 2022-05-07 |
 | [Jah Werx](https://open.spotify.com/track/0V6qGMcs3HocgP1Cwk8SkI) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5D062RPrAS76knCMha1xCw) | 3:02 | 2021-10-29 | 2022-07-24 |
-| [Jah Werx](https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:03 | 2022-04-15 |  |
+| [Jah Werx](https://open.spotify.com/track/0epaptkWK7BHkHJheQJtZ4) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [& I'm Fine Today](https://open.spotify.com/album/5BMjWYvNyJDfdW5Gzfyc21) | 3:03 | 2022-04-15 | 2023-07-31 |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-29 | 2023-04-19 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2021-10-29 |  |
 | [Keep On](https://open.spotify.com/track/4Bekc318sVRVNqy2HoXON7) | [Crooked Spines](https://open.spotify.com/artist/0gflAQkqjOluWa2R9hXUAm) | [Canyons](https://open.spotify.com/album/01Ns4nKQgJL0gDNIM0KYfk) | 4:35 | 2022-04-15 | 2022-04-20 |
@@ -228,6 +228,7 @@
 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 | 2021-10-29 | 2022-07-28 |
 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 | 2022-04-15 |  |
 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 | 2021-10-29 |  |
+| [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 | 2023-07-28 |  |
 | [Standing in the Doorway](https://open.spotify.com/track/5eTBKnncz8aOAytilhA4Ix) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/4z9lypFKw9WE1udcEQpnxc) | 2:37 | 2022-10-07 | 2023-02-03 |
 | [Standing in the Doorway](https://open.spotify.com/track/7oYPCRpV3oPCl2fJ2Gud71) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Standing in the Doorway](https://open.spotify.com/album/6u26KQYzo46ySO2qT9CEZA) | 2:37 | 2022-04-15 | 2022-04-19 |
 | [Stanley Park](https://open.spotify.com/track/0SWNotmLvAsYVMQSDJsRk8) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In The Magic Hour](https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f) | 2:50 | 2022-04-15 | 2022-04-21 |

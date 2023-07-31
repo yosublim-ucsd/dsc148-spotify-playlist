@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-358 songs - 1 day 1 hr 12 min
+359 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Gift to the World](https://open.spotify.com/track/7dmEXRsuWBSi4gsbjA4f4S) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Gift to the World](https://open.spotify.com/album/0AiFnIPpeIMFWpCBZJmX8y) | 4:04 | 2021-06-04 | 2022-07-29 |
 | [Give Me Your Love](https://open.spotify.com/track/5YTTAwPC8NkT67yx7MLZS7) | [Mark Allen Felton](https://open.spotify.com/artist/3WnIsv9TaH1unkErOs83GK) | [Give Me Your Love](https://open.spotify.com/album/76rdABxCKq6lEAVTWvjU3n) | 3:52 | 2022-02-25 | 2023-06-17 |
 | [Good On You](https://open.spotify.com/track/7cpU9JiLhdxF75HXFBcNh6) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Good On You](https://open.spotify.com/album/0rEUrLXs9cweIiWmAFWGAk) | 4:11 | 2022-05-20 |  |
-| [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 |  |
+| [Groove Factor](https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:14 | 2023-04-28 |  |
+| [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 | 2023-07-31 |
 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-09-30 |  |
 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 | 2023-03-10 | 2023-05-13 |
 | [Hear At Last](https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E) | [Hear at Last](https://open.spotify.com/album/3QWI2FECarl04d4WF2COUe) | 3:56 | 2021-07-23 | 2022-07-24 |

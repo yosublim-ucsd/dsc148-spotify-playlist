@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Becca Mancari",
-  "num_followers": 340756,
+  "num_followers": 340835,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjRiOWFkNzgwZGI5MGYxMDIyN2IwZWQ2MThkMzBiYzgxNjg2MTli",
+  "snapshot_id": "MCw1ZjJlNDEyODZhZDQzOTFhMTBhZjc3ZmU2MzlmZTJjM2I0ZTFhMjA4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Wet Dream",
-        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140083,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 307075,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 307075,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+        "name": "Bunny Is A Rider",
+        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
       },
       "artists": [
         {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Lilacs",
-      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
+      "duration_ms": 193957,
+      "name": "Bunny Is A Rider",
+      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Bunny Is A Rider",
-        "url": "https://open.spotify.com/album/2cwOa6RStGRanie22to0NO"
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
       "artists": [
         {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
         }
       ],
-      "duration_ms": 193957,
-      "name": "Bunny Is A Rider",
-      "url": "https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb"
+      "duration_ms": 195600,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/69Akwuscu16hdYN637eTis"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 304413,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Thx",
-        "url": "https://open.spotify.com/album/15nul3qLPn2FopI5zjdEg7"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 162624,
-      "name": "Interstate Vision",
-      "url": "https://open.spotify.com/track/4LGCqrllsDT8SI8xmmE6OL"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Household Name",
         "url": "https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 254200,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3381KgaT7kBV2Cuno9scbe"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Thx",
+        "url": "https://open.spotify.com/album/15nul3qLPn2FopI5zjdEg7"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Interstate Vision",
+      "url": "https://open.spotify.com/track/4LGCqrllsDT8SI8xmmE6OL"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 227841,
-      "name": "Be Careful With Yourself",
-      "url": "https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 186465,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 227841,
+      "name": "Be Careful With Yourself",
+      "url": "https://open.spotify.com/track/0c8dhGhpolT4ByZ28RgIti"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1647,8 +1663,24 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD"
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
       "artists": [
         {
@@ -1656,9 +1688,9 @@
           "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 304413,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI"
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1679,18 +1711,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+        "name": "Jump Rope Gazers",
+        "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
+      "duration_ms": 312182,
+      "name": "Jump Rope Gazers",
+      "url": "https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1707,22 +1739,6 @@
       "duration_ms": 192550,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/3Lllvxi2oA6DIwy2qhPgQx"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Jump Rope Gazers",
-        "url": "https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 312182,
-      "name": "Jump Rope Gazers",
-      "url": "https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Maps / Country",
-        "url": "https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 207179,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 131630,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/5lVuIYjYS8Xh7tJ7UwWrmE"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "I (motsi)",
+        "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        }
+      ],
+      "duration_ms": 197437,
+      "name": "It's a good day (to fight the system)",
+      "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "I (motsi)",
-        "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
+        "name": "Maps / Country",
+        "url": "https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw"
       },
       "artists": [
         {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 197437,
-      "name": "It's a good day (to fight the system)",
-      "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
+      "duration_ms": 207179,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 261213,
       "name": "The Last Man On Earth",
       "url": "https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-07-28 04:00:00",

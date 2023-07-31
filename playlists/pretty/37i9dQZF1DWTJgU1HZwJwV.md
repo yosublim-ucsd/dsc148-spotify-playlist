@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,461 likes - 177 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,504 likes - 177 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 176 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 |
 | 177 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 |
 
-Snapshot ID: `MCwzMGU0NWVhNjExOTFlNjU1MWYzYTg4YjJiNGQ0OGUzN2E1ODY5ZjA2`
+Snapshot ID: `MCxhZWQ4ZDg4NGUxMDk3OTRiNTA5ZWUxZThhMDNiZTU4NTQzZmM2OGQx`

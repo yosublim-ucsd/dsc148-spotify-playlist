@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=9LTt1F_xQKax36ZbiICLsw\">Nasty C</a>",
-  "num_followers": 61661,
+  "num_followers": 61836,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWMxZjA1NWI5YWQxZTM0ZGMzYmEyZGE3NTg4M2NiMjY0N2M3YTBj",
+  "snapshot_id": "MCwyOThmOThlMzk3NDhiYjYwY2JmNzVjZmNmZmVjOGFlNzljMjBlMTlj",
   "tracks": [
     {
       "added_at": "2023-07-28 01:00:00",
@@ -51,26 +51,6 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
-        "name": "Gwan (feat. Maglera Doe Boy)",
-        "url": "https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc"
-      },
-      "artists": [
-        {
-          "name": "Dee Koala",
-          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "duration_ms": 222705,
-      "name": "Gwan (feat. Maglera Doe Boy)",
-      "url": "https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
         "name": "SR3",
         "url": "https://open.spotify.com/album/6Si2FMyfksVv0PHoSmWGUT"
       },
@@ -91,42 +71,22 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+        "name": "Gwan (feat. Maglera Doe Boy)",
+        "url": "https://open.spotify.com/album/2hZUuS7mLKc8ZcqQcYf0qc"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
-        "name": "Sosh Plata",
-        "url": "https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm"
-      },
-      "artists": [
-        {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+          "name": "Dee Koala",
+          "url": "https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT"
         },
         {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        },
-        {
-          "name": "Thapelo Ghutra",
-          "url": "https://open.spotify.com/artist/1KOyVpsHg06svISF8XgSbi"
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
         }
       ],
-      "duration_ms": 238032,
-      "name": "Sosh Plata - Remix",
-      "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
+      "duration_ms": 222705,
+      "name": "Gwan (feat. Maglera Doe Boy)",
+      "url": "https://open.spotify.com/track/457nxkch48VCfRKAEi0cBA"
     },
     {
       "added_at": "2023-07-21 08:21:29",
@@ -159,6 +119,22 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
         "name": "Lepanta",
         "url": "https://open.spotify.com/album/7J0C0dNRXYDAZCdCihuu3y"
       },
@@ -179,30 +155,6 @@
       "duration_ms": 206571,
       "name": "Lepanta",
       "url": "https://open.spotify.com/track/1AtEgqOGijcATNpVd1IDLa"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
-        "name": "Pramis, Swuh",
-        "url": "https://open.spotify.com/album/0o7ulqv3kP59j3ScfsEY80"
-      },
-      "artists": [
-        {
-          "name": "Flow Jones Jr.",
-          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        }
-      ],
-      "duration_ms": 134450,
-      "name": "Pramis, Swuh",
-      "url": "https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME"
     },
     {
       "added_at": "2023-07-28 01:08:24",
@@ -231,26 +183,6 @@
     {
       "added_at": "2023-07-28 01:00:00",
       "album": {
-        "name": "No Comment.",
-        "url": "https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M"
-      },
-      "artists": [
-        {
-          "name": "Tyson Sybateli",
-          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
-        },
-        {
-          "name": "Thato Saul",
-          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
-        }
-      ],
-      "duration_ms": 142248,
-      "name": "No Comment.",
-      "url": "https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA"
-    },
-    {
-      "added_at": "2023-07-28 01:00:00",
-      "album": {
         "name": "Stru",
         "url": "https://open.spotify.com/album/0XPXGn2w0pzatcO5FsakoR"
       },
@@ -263,6 +195,30 @@
       "duration_ms": 116846,
       "name": "Stru",
       "url": "https://open.spotify.com/track/2VMFLg4q2682hAwZsbMjyl"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
+        "name": "Sosh Plata",
+        "url": "https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm"
+      },
+      "artists": [
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Thapelo Ghutra",
+          "url": "https://open.spotify.com/artist/1KOyVpsHg06svISF8XgSbi"
+        }
+      ],
+      "duration_ms": 238032,
+      "name": "Sosh Plata - Remix",
+      "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
     },
     {
       "added_at": "2023-07-28 01:08:24",
@@ -281,6 +237,50 @@
       "url": "https://open.spotify.com/track/683EhjBwGmcv23ezqCM22h"
     },
     {
+      "added_at": "2023-07-28 01:00:00",
+      "album": {
+        "name": "No Comment.",
+        "url": "https://open.spotify.com/album/5LmMEKzq3eXu1IDL3ZAI9M"
+      },
+      "artists": [
+        {
+          "name": "Tyson Sybateli",
+          "url": "https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy"
+        },
+        {
+          "name": "Thato Saul",
+          "url": "https://open.spotify.com/artist/0R6GDPZ2Hrn2lF4svYJRkn"
+        }
+      ],
+      "duration_ms": 142248,
+      "name": "No Comment.",
+      "url": "https://open.spotify.com/track/2ryyhrWGvoJ3HebeKqebSA"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
+        "name": "Pramis, Swuh",
+        "url": "https://open.spotify.com/album/0o7ulqv3kP59j3ScfsEY80"
+      },
+      "artists": [
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "duration_ms": 134450,
+      "name": "Pramis, Swuh",
+      "url": "https://open.spotify.com/track/6IpI9llej8xmnhYW4X9KME"
+    },
+    {
       "added_at": "2023-07-21 08:21:29",
       "album": {
         "name": "CLOWN",
@@ -295,6 +295,30 @@
       "duration_ms": 227688,
       "name": "CLOWN",
       "url": "https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
+        "name": "HAMBA HA",
+        "url": "https://open.spotify.com/album/6bIxmm59vfwazznB9xxoXM"
+      },
+      "artists": [
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        },
+        {
+          "name": "Roiii",
+          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
+        },
+        {
+          "name": "Buzzi Lee",
+          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "HAMBA HA",
+      "url": "https://open.spotify.com/track/6CPmGbuYQ6IJKGgDylKhW7"
     },
     {
       "added_at": "2023-07-21 08:21:29",
@@ -323,30 +347,6 @@
       "duration_ms": 234375,
       "name": "Better Than This (feat. Tellaman)",
       "url": "https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
-        "name": "HAMBA HA",
-        "url": "https://open.spotify.com/album/6bIxmm59vfwazznB9xxoXM"
-      },
-      "artists": [
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
-        },
-        {
-          "name": "Roiii",
-          "url": "https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V"
-        },
-        {
-          "name": "Buzzi Lee",
-          "url": "https://open.spotify.com/artist/5uq7zsfkgABEDUgJZzGZNR"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "HAMBA HA",
-      "url": "https://open.spotify.com/track/6CPmGbuYQ6IJKGgDylKhW7"
     },
     {
       "added_at": "2023-07-21 08:21:29",
@@ -739,6 +739,30 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
+        "name": "MASS COUNTRY",
+        "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Nadia Nakai",
+          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
+        }
+      ],
+      "duration_ms": 223797,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
         "name": "I Want It",
         "url": "https://open.spotify.com/album/52FHTjYYBHX7M9ncrUC7Ux"
       },
@@ -863,6 +887,26 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
+        "name": "papa fetti",
+        "url": "https://open.spotify.com/album/0B97J0R4bwPUqYnxtTXeLo"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Emtee",
+          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "fetti",
+      "url": "https://open.spotify.com/track/071zULQTyEyVmunaIBr38t"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
         "name": "Twice",
         "url": "https://open.spotify.com/album/5aSWvBpM2OVXGaT5ATSBWF"
       },
@@ -947,50 +991,6 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/7hXYfIiJPD6HcL7PGZkvuC"
-      },
-      "artists": [
-        {
-          "name": "CTT Beats",
-          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
-        },
-        {
-          "name": "D38",
-          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/4EpiTWdpcsNV02xdeSGuUO"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
-        "name": "MASS COUNTRY",
-        "url": "https://open.spotify.com/album/376vzaVcBQAbefjO1t7vu5"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Nadia Nakai",
-          "url": "https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r"
-        }
-      ],
-      "duration_ms": 223797,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/7xEtzTuTO5gW5fPyMnYp5J"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
         "name": "Pardon My Arrogance",
         "url": "https://open.spotify.com/album/2690tz6XKjQtcF1WjNNDJW"
       },
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-07-21 08:21:29",
       "album": {
-        "name": "papa fetti",
-        "url": "https://open.spotify.com/album/0B97J0R4bwPUqYnxtTXeLo"
-      },
-      "artists": [
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "fetti",
-      "url": "https://open.spotify.com/track/071zULQTyEyVmunaIBr38t"
-    },
-    {
-      "added_at": "2023-07-21 08:21:29",
-      "album": {
         "name": "THE LOST PACK:, Vol. 1",
         "url": "https://open.spotify.com/album/3RFcqfqeIHjtQstdNcBbdF"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 106151,
       "name": "THANK YOU JESUS",
       "url": "https://open.spotify.com/track/0CHrwFE4sBRp8t1y1aZ1dA"
+    },
+    {
+      "added_at": "2023-07-21 08:21:29",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/7hXYfIiJPD6HcL7PGZkvuC"
+      },
+      "artists": [
+        {
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/4EpiTWdpcsNV02xdeSGuUO"
     },
     {
       "added_at": "2023-07-21 08:21:29",

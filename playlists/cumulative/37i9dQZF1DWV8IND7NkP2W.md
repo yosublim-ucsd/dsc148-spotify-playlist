@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-626 songs - 1 day 4 hr 15 min
+627 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [gentle rain](https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP) | 1:30 | 2023-07-20 |  |
 | [Getaway](https://open.spotify.com/track/3KW9TEb7G6BZu3XWVR8caI) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [KAZUMI KANEDA](https://open.spotify.com/artist/7mQtMaMaPMw2NTeYXfT53M), [Hector Mario](https://open.spotify.com/artist/7K33yZHEVk9UQXM4BRlvbi) | [Getaway](https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4) | 2:43 | 2022-03-24 |  |
 | [Getting By](https://open.spotify.com/track/6w1F8RFr3Q7pX2vPcLNEuC) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Getting By](https://open.spotify.com/album/6vn1dsAFLW0f6sY1kFvqcC) | 2:51 | 2021-12-23 | 2022-07-28 |
+| [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 | 2023-07-27 |  |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-28 |  |
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 |  |
@@ -586,7 +587,7 @@
 | [U](https://open.spotify.com/track/6H6qrSldeRmzi5jHYELgMW) | [Hama](https://open.spotify.com/artist/2mkZla5mSMjsk6BRgWGOHr) | [U](https://open.spotify.com/album/1Boz9tEroukxBpTBiG7plf) | 2:35 | 2021-12-23 | 2022-07-17 |
 | [Uh\-Huh\-Huh](https://open.spotify.com/track/4xN2Y6BnbQlK6SJvYMv4xh) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Uh\-Huh\-Huh](https://open.spotify.com/album/18JG3fCVXqaX1IgdbWMt35) | 1:33 | 2021-12-23 | 2022-07-25 |
 | [Ukiyo](https://open.spotify.com/track/4YlDeQaaGoiY3aH2QaNEyK) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Space Invader](https://open.spotify.com/artist/266hqoFawOZA6rbHQHeyav), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb) | [Ukiyo](https://open.spotify.com/album/3jtkFYkgsFLjNhnRMupg1h) | 2:04 | 2022-01-06 | 2022-05-23 |
-| [Ukiyo](https://open.spotify.com/track/5CCBENes8uXqqPcntd08Yf) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Ukiyo](https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk) | 2:04 | 2022-07-28 |  |
+| [Ukiyo](https://open.spotify.com/track/5CCBENes8uXqqPcntd08Yf) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8), [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Ukiyo](https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk) | 2:04 | 2022-07-28 | 2023-07-31 |
 | [Umbrella For Two](https://open.spotify.com/track/5YuVeFoaiD1q8b9RuZRKAE) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH), [Jom Bee](https://open.spotify.com/artist/6qfJzYVLixl3pMl20JTxAw) | [Umbrella For Two](https://open.spotify.com/album/5Qb4y1wiRtbisJPCRkwI84) | 2:31 | 2021-12-23 | 2022-05-22 |
 | [UMM](https://open.spotify.com/track/4EFlpLqNYaZQ5dySiioU9i) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [UMM](https://open.spotify.com/album/3OfeK7h6RcovN6GLC1COzq) | 2:12 | 2023-04-13 | 2023-06-17 |
 | [Unikko](https://open.spotify.com/track/0e6Zp0zDbIpBqrp6R2i4ha) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/0et5c9eLd0MQCMvCtBLjFX) | 3:14 | 2023-04-13 | 2023-04-15 |

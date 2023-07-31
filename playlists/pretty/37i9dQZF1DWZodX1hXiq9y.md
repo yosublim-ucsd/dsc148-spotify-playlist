@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,761 likes - 100 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,848 likes - 100 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 7 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
 | 8 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 |
 | 9 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 |
-| 10 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
-| 11 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 |
+| 10 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 |
+| 11 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
 | 12 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 |
 | 13 | [Rosita](https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:02 |
 | 14 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 83 | [Song For Bilbao](https://open.spotify.com/track/0WMG5EgKUdK73cLMEPoRMX) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Tales From The Hudson](https://open.spotify.com/album/0ETqvY4pIhY46IXMTUpXMc) | 5:44 |
 | 84 | [Stairway To The Stars \- Rudy Van Gelder Edition / 2003 Remaster](https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Our Man In Paris \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088) | 6:57 |
 | 85 | [Autumn Leaves](https://open.spotify.com/track/0CtJNp7uAVKkXRqRiezuDe) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [East Of The Sun](https://open.spotify.com/album/3480op1epAO8uwXjonzuc9) | 5:18 |
-| 86 | [These Foolish Things \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:09 |
-| 87 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
+| 86 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
+| 87 | [These Foolish Things \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:09 |
 | 88 | [It Had To Be You \- Live At The Half Note, NYC, 1959](https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Jazz Alive! A Night At The Half Note \(Live\)](https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn) | 10:14 |
 | 89 | [Don't Cry, Just Sigh](https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Third Season](https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu) | 6:54 |
 | 90 | [Blue Star](https://open.spotify.com/track/7KmeTGyGCdwcJFuA6rAEi9) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 5:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 99 | [Bye bye blackbird](https://open.spotify.com/track/4vKfWkaLc1gJ5swCnib2a6) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [Swingin' Till The Girls Come Home](https://open.spotify.com/album/4yl06rWUAfJwtgC4O3ZfSw) | 3:40 |
 | 100 | [Twelve More Bars To Go \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 5:31 |
 
-Snapshot ID: `MCxlMTZiZjRiMjAxMzQwZTFiNWZkNzBkNmM4ZTk3M2NhMzc5NzU1NDZi`
+Snapshot ID: `MCw5YzRlN2U4NTQwMTRjZmY1MDA5MWQ2MGUwODVlZTc5NmM1MWJmNWFm`

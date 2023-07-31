@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-253 songs - 11 hr 11 min
+257 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,10 @@
 | [Always Gonna Need You](https://open.spotify.com/track/3ehLFbbQgaoNUfwzhXfJR1) | [DJ Scottydog](https://open.spotify.com/artist/6qbipg6rddpVH6auKqStzc) | [Always Gonna Need You](https://open.spotify.com/album/2jdJ9OtnHA1Y2CiRzaInk4) | 3:35 | 2023-06-19 | 2023-06-29 |
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 | 2023-07-14 |
 | [astronimals](https://open.spotify.com/track/63SurArpGSwUlVB8KwYFVy) | [hypernaut](https://open.spotify.com/artist/21LYQfaU4iEC9jqu4tzG0o), [Sloth](https://open.spotify.com/artist/2R8PPmEGSs8qYtV7qlHjt4) | [astronimals](https://open.spotify.com/album/7FD9aLK4297YbiTfu1TO0H) | 3:39 | 2023-07-03 | 2023-07-19 |
+| [Attack](https://open.spotify.com/track/48HyHfhq5gUI11xucqR6cE) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Attack](https://open.spotify.com/album/7sXChGm9M5qwsrKYb7t2yJ) | 3:12 | 2023-07-30 |  |
 | [Babel](https://open.spotify.com/track/6b8VuRQmxLjUM4KvqpuYOP) | [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9) | [Babel](https://open.spotify.com/album/4x3ubg4BHqes69AX7kENNo) | 2:52 | 2023-06-12 |  |
 | [BALLERINA](https://open.spotify.com/track/78AN1oOI3yGW8jr0N7uGgN) | [BRADWTF](https://open.spotify.com/artist/1KxfBHx2BSdk25sDjmykt4), [9LIVES](https://open.spotify.com/artist/14zyCokqdd5rltFNfE6jTL) | [BALLERINA](https://open.spotify.com/album/1fa3QuLqaaXeY5TIPGVkL2) | 3:22 | 2023-07-06 |  |
+| [Bicha](https://open.spotify.com/track/2iRwOS4wiZsxU8uIMwbVJX) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Bicha](https://open.spotify.com/album/7IQIjSO2J0FGKqVzjLg364) | 3:54 | 2023-07-29 |  |
 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 | 2023-06-12 |  |
 | [BLEACH](https://open.spotify.com/track/2qjDHIVrDRqHQRL5EU3qq2) | [SXRPENT](https://open.spotify.com/artist/4B2rGiffJ3wU73LhUMRESe) | [BLEACH](https://open.spotify.com/album/7yJxGx1cQJcmMTYcA0TrTQ) | 1:28 | 2023-06-26 | 2023-07-11 |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2023-06-12 |  |
@@ -128,6 +130,7 @@
 | [Lord Forgive Me](https://open.spotify.com/track/3AzPxdm8SRYNdsc7v1bpEj) | [Taz\*](https://open.spotify.com/artist/0iuRv2MZkD74UDXdtcU9pv) | [Lord Forgive Me](https://open.spotify.com/album/2Eca7jQMiSWHWCI4LiAmpj) | 2:33 | 2023-06-12 | 2023-06-26 |
 | [Lost Forever](https://open.spotify.com/track/3ULhC0SnG6mHluq2UbFqTJ) | [Sergio Valentino](https://open.spotify.com/artist/4OmG7TmODI5Rj3q7PV3fP5) | [Lost Forever](https://open.spotify.com/album/5NB4IfZvUysbgJ7cUIJwET) | 1:52 | 2023-06-12 |  |
 | [Love & Pain](https://open.spotify.com/track/77EDwBqVObqkgqve83Rjke) | [Markee Ledge](https://open.spotify.com/artist/5wQbPoVrw8eVVAr85kwvzN), [Damvic](https://open.spotify.com/artist/0kci2lj9cYhSk2zCGAIsER) | [Laws of Emotion: Equinox II](https://open.spotify.com/album/6svUNxeAScLkCERDA7b4Lw) | 4:46 | 2023-06-25 |  |
+| [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-29 |  |
 | [Love Me \(ecstazzz Remix\)](https://open.spotify.com/track/7ahabzYSnRJlsozhUgXvaR) | [Zyrex](https://open.spotify.com/artist/33FP9bOTWc2zzSuDnh5O5Q) | [Love Me \(ecstazzz Remix\)](https://open.spotify.com/album/73X5q7MSq6w1dmyEtmtxIb) | 2:07 | 2023-06-12 |  |
 | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/track/7FwQw1LFaxK4yNJpTtyPM4) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/album/6YkRZxsN4V0Ll5NhV6TnAH) | 2:29 | 2023-06-12 |  |
 | [LørdØfTheDead](https://open.spotify.com/track/3DOMBdXxnFnbeM7dtSOOq3) | [HAłłØWMANE](https://open.spotify.com/artist/1PHuqtGb7RbEJLOOdMjInP), [The Static Dive](https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX) | [LørdØfTheDead](https://open.spotify.com/album/6vjFypRAcwe88wZh7EqmPR) | 3:16 | 2023-06-12 | 2023-07-03 |
@@ -206,6 +209,7 @@
 | [Slide](https://open.spotify.com/track/35EepYDTGEcwmO0Hrws93C) | [Dehko](https://open.spotify.com/artist/1xV2xLgsPO74FavF7Tz083), [Snap Dogg](https://open.spotify.com/artist/3gwjMn413kOhSLR9wb4CWJ) | [Tektroit](https://open.spotify.com/album/5uA7WPYDfREdjLacHolhqK) | 3:28 | 2023-06-12 |  |
 | [Smoke](https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE) | [Cowbell Cult](https://open.spotify.com/artist/39M7VBSU9jF9IpmkNQeycY), [Joehdah](https://open.spotify.com/artist/7pZPHbnazpBvpdAG51TuxQ) | [Cowbell Cult, Vol\. 1](https://open.spotify.com/album/78dlN8ziXrEeDNHIxt8u4o) | 1:54 | 2023-06-12 |  |
 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 | 2023-06-12 |  |
+| [So High](https://open.spotify.com/track/0WSSJ8Wmj8HicvR1ZnCiPT) | [DAM DRE](https://open.spotify.com/artist/25rTRpRir3IZKrIz7Ticoq) | [So High](https://open.spotify.com/album/5pf0HUyJzLJLW7Wv31fGic) | 2:26 | 2023-07-29 |  |
 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 | 2023-06-25 |  |
 | [SO TIRED 2](https://open.spotify.com/track/1kZ0HVCcWP14ksZDzk2G0q) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [SO TIRED 2](https://open.spotify.com/album/2NCPiJWNMjw6ca2TK5V13V) | 2:13 | 2023-07-13 |  |
 | [Soaker](https://open.spotify.com/track/7g0NNpMkrgGUczNSrw9V3T) | [Belmez Faces](https://open.spotify.com/artist/4XmjuOlO74XI9wdHQamseO) | [Soaker](https://open.spotify.com/album/3HqP588An0lx911UnSpXz5) | 3:22 | 2023-06-12 |  |

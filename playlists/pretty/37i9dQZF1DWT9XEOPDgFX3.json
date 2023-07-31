@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Delaney Bailey",
-  "num_followers": 70429,
+  "num_followers": 70487,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzhjYTNkNzA4YmFkMDU5N2Q2ZjRmMGRkMjE5ZjExZjhjMmE1OTJi",
+  "snapshot_id": "MCwzMWQ0ZWIyN2UxM2RiM2U4NWRmM2UwNTkwYWNkZTkxNjc5NDQ1Yjg3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "In My Own Time (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 203397,
+      "name": "Something on Your Mind",
+      "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "The Spur",
         "url": "https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 218000,
       "name": "King Street",
       "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "In My Own Time (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 203397,
-      "name": "Something on Your Mind",
-      "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Glacier Meadow",
-        "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 166340,
-      "name": "Glacier Meadow",
-      "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -659,18 +639,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+        "name": "Glacier Meadow",
+        "url": "https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        },
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
         }
       ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
+      "duration_ms": 166340,
+      "name": "Glacier Meadow",
+      "url": "https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Blue Sea",
-        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
       },
       "artists": [
         {
-          "name": "RICEWINE",
-          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 195514,
-      "name": "Blue Sea",
-      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
+      "duration_ms": 190466,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
       },
       "artists": [
         {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9"
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Coyotes",
+        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Coyotes",
+      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Every Day Like the Last",
         "url": "https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Coyotes",
-        "url": "https://open.spotify.com/album/4oi348TEEySIOcEJPnVSrI"
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
       "artists": [
         {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
         }
       ],
-      "duration_ms": 183800,
-      "name": "Coyotes",
-      "url": "https://open.spotify.com/track/0hUjeGobTWYBa5DmlHOeoR"
+      "duration_ms": 140145,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "everything\u2019s been going so well",
-        "url": "https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1"
-      },
-      "artists": [
-        {
-          "name": "Field Medic",
-          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
-        }
-      ],
-      "duration_ms": 173599,
-      "name": "everything\u2019s been going so well",
-      "url": "https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Thompson's Station",
         "url": "https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 204065,
       "name": "Thompson's Station",
       "url": "https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "everything\u2019s been going so well",
+        "url": "https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1"
+      },
+      "artists": [
+        {
+          "name": "Field Medic",
+          "url": "https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ"
+        }
+      ],
+      "duration_ms": 173599,
+      "name": "everything\u2019s been going so well",
+      "url": "https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1547,38 +1563,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Come Onn",
-        "url": "https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 204339,
-      "name": "Come Onn",
-      "url": "https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "More Better",
         "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Come Onn",
+        "url": "https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 204339,
+      "name": "Come Onn",
+      "url": "https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 218413,
       "name": "Polly",
       "url": "https://open.spotify.com/track/6vN3Vd01CbXwsEeWFVR6tj"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1823,34 +1839,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Shell",
-        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
+        "name": "Bury Your Horses",
+        "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
       },
       "artists": [
         {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
         }
       ],
-      "duration_ms": 140145,
-      "name": "Shell",
-      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 286042,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+      "duration_ms": 233984,
+      "name": "Dr. Johann Averies",
+      "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Bury Your Horses",
-        "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
+        "name": "More",
+        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
       },
       "artists": [
         {
-          "name": "Daneshevskaya",
-          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
         }
       ],
-      "duration_ms": 233984,
-      "name": "Dr. Johann Averies",
-      "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
+      "duration_ms": 286042,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "no fun/party",
         "url": "https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 356474,
       "name": "no fun/party",
       "url": "https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Closing the Door on Us",
-        "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 135338,
-      "name": "Closing the Door on Us",
-      "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+        "name": "Closing the Door on Us",
+        "url": "https://open.spotify.com/album/5lrXpvZW4qzI9Ua9aqY7U3"
       },
       "artists": [
         {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
         }
       ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+      "duration_ms": 135338,
+      "name": "Closing the Door on Us",
+      "url": "https://open.spotify.com/track/0QiNYxQRmZgkkBf023sPAz"
     },
     {
       "added_at": "2023-07-28 04:00:00",

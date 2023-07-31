@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-262 songs - 15 hr 49 min
+263 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [I Got Your Back](https://open.spotify.com/track/16s1oTqJSCXz2KELFhnKll) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [I Got Your Back](https://open.spotify.com/album/6CC5BUqncXiqJOSKi1ZCu1) | 3:05 | 2022-09-09 | 2022-11-27 |
 | [I Want](https://open.spotify.com/track/2k9E1OlHPxIKT6y46726Mv) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [I Want](https://open.spotify.com/album/0IQNUnAmWi9KSZEOLjsPHe) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [I Want You \- Underboss Remix](https://open.spotify.com/track/5XglCdjCtfFJpKlIOf1y4I) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [I Want You \(Underboss Remix\)](https://open.spotify.com/album/1d5Aaipwunfid3kaIchL0E) | 5:23 | 2022-09-09 | 2022-10-15 |
-| [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 | 2023-02-09 |  |
+| [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 | 2023-02-09 | 2023-07-31 |
+| [I Won't Tell](https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:39 | 2023-07-13 |  |
 | [I'm A Blessed Man](https://open.spotify.com/track/4qJZP0xc9qgitasa1U1AzA) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Mister Vi](https://open.spotify.com/artist/2kDrLqHECtvseToY2KBq2L) | [Rebirth](https://open.spotify.com/album/3A86ZfahL8jBCWGT1Put5n) | 9:56 | 2022-12-05 |  |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-09-09 |  |
 | [In Touch \(feat\. Daul\)](https://open.spotify.com/track/6XPY03nLWtiZOIkTs2IBjN) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [In Touch \(feat\. Daul\)](https://open.spotify.com/album/5ewjsi9Fd4yMPsdaUus5VY) | 3:41 | 2022-09-09 | 2022-09-16 |

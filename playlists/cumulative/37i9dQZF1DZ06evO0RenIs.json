@@ -316,6 +316,24 @@
     {
       "album": {
         "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243733,
+      "name": "Fior di Latte",
+      "url": "https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
         "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
       },
       "artists": [
@@ -326,7 +344,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 243733,
       "name": "Fior Di Latte",
       "url": "https://open.spotify.com/track/4JFXNDchRuhicS7fh2civh"
@@ -352,6 +370,24 @@
     {
       "album": {
         "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Goodbye Soleil",
+      "url": "https://open.spotify.com/track/1E5pUyfGJI8oTrUeHuN05P"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
         "url": "https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP"
       },
       "artists": [
@@ -362,7 +398,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 235773,
       "name": "Goodbye Soleil",
       "url": "https://open.spotify.com/track/6BqVLNQ0RGU8cytLaHLuo6"
@@ -892,10 +928,28 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 232680,
       "name": "Tuttifrutti",
       "url": "https://open.spotify.com/track/0R98IdPkYNH36q3DhAO3NB"
+    },
+    {
+      "album": {
+        "name": "Ti Amo",
+        "url": "https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Tuttifrutti",
+      "url": "https://open.spotify.com/track/387304JRC4rHBwlVcbny0m"
     },
     {
       "album": {

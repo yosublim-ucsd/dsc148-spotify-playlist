@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 553012,
+  "num_followers": 553358,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGUyYzE2ZmQzMGY4YWQ1MDg0NjRlZTc2NDlkNTM5NjAzYzE5ZTBl",
+  "snapshot_id": "MCwzYTE1ZDUyY2ZkZTgyYmEzMTBmNDNjYjJiMmY2M2Y0MTdlODliYzk3",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 163504,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 163504,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Looks Like Me",
+        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Looks Like Me",
+      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "My Kink Is Karma",
-        "url": "https://open.spotify.com/album/4mZyB1ASr5fZA8vsG8jTLC"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "My Kink Is Karma",
-      "url": "https://open.spotify.com/track/17ikhYAxaFvhpRUJ52wtN4"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "If I Don't Laugh, I'll Cry",
         "url": "https://open.spotify.com/album/0ZNj1dzkYUmgDKdL1NRvJI"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 198009,
       "name": "If I Don't Laugh, I'll Cry",
       "url": "https://open.spotify.com/track/1vezKKI9PZnHIMFzzDcF6U"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "My Kink Is Karma",
+        "url": "https://open.spotify.com/album/4mZyB1ASr5fZA8vsG8jTLC"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "My Kink Is Karma",
+      "url": "https://open.spotify.com/track/17ikhYAxaFvhpRUJ52wtN4"
     },
     {
       "added_at": "2023-07-21 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with CloZee.",
-  "num_followers": 971131,
+  "num_followers": 971211,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmQyYzUzNGY2ODE2Yzk3MTZlMDk5OTZhNzBiOWJmZDRjY2YwYjA0",
+  "snapshot_id": "MCw0MjkzZDM5OTE0OWE3ZTJkNTJmNWUyNDMyOWU3MzQwNDFiMDc4MzNh",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Beyond The Veil (Deluxe)",
-        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 238566,
-      "name": "Brightest Light (feat. Dotter)",
-      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Meant To Be Lonely",
         "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
       },
@@ -971,30 +951,42 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "BACK ONLINE",
-        "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
+        "name": "Beyond The Veil (Deluxe)",
+        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
       },
       "artists": [
         {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
         },
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
         }
       ],
-      "duration_ms": 217846,
-      "name": "BACK ONLINE",
-      "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+      "duration_ms": 238566,
+      "name": "Brightest Light (feat. Dotter)",
+      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Dark & Danger",
+        "url": "https://open.spotify.com/album/52on97V2vFf9FfCGziCmox"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        },
+        {
+          "name": "The Tech Thieves",
+          "url": "https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Dark & Danger",
+      "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1035,6 +1027,34 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "BACK ONLINE",
+        "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
+      },
+      "artists": [
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        },
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 217846,
+      "name": "BACK ONLINE",
+      "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Thirst (Hex Cougar Remix)",
         "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 204963,
       "name": "Thirst - Hex Cougar Remix",
       "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Dark & Danger",
-        "url": "https://open.spotify.com/album/52on97V2vFf9FfCGziCmox"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "The Tech Thieves",
-          "url": "https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Dark & Danger",
-      "url": "https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Skanka (VIP)",
+        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 228004,
+      "name": "Skanka (VIP)",
+      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 198400,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Skanka (VIP)",
-        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 228004,
-      "name": "Skanka (VIP)",
-      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "In Your House",
+        "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 164591,
+      "name": "In Your House",
+      "url": "https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Along The Way",
         "url": "https://open.spotify.com/album/3BskIApiATh6ffjlksP6mz"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 242986,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/0t5ba5bIUxBvwsHfC0XSSQ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "In Your House",
-        "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 164591,
-      "name": "In Your House",
-      "url": "https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "CHOMP",
-        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        },
-        {
-          "name": "CHOMPO",
-          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
-        }
-      ],
-      "duration_ms": 198281,
-      "name": "CHOMP",
-      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "KILLA",
         "url": "https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 204375,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "CHOMP",
+        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        },
+        {
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+        }
+      ],
+      "duration_ms": 198281,
+      "name": "CHOMP",
+      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Onzeker Kraft Vol.1",
+        "url": "https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 223565,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Flying (Pegboard Nerds Remix)",
         "url": "https://open.spotify.com/album/2WhrRHs1WCqjgP4JHZM52m"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 168275,
       "name": "Flying (Pegboard Nerds Remix)",
       "url": "https://open.spotify.com/track/70TjDtaV2yY4prx0gB35Bx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Onzeker Kraft Vol.1",
-        "url": "https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65"
-      },
-      "artists": [
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 223565,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -2079,6 +2079,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "You Know I Got It",
+        "url": "https://open.spotify.com/album/4ndtDOgs0R8SNeFf1OIPFZ"
+      },
+      "artists": [
+        {
+          "name": "Flatland Funk",
+          "url": "https://open.spotify.com/artist/46Ig2rJQQYetQEJgKhEZDV"
+        },
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "duration_ms": 194685,
+      "name": "You Know I Got It",
+      "url": "https://open.spotify.com/track/6oReNO31UN1gzts4zxBbJw"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Got To Me",
         "url": "https://open.spotify.com/album/5Yg5KxhC7gLu8HczlGN9Hi"
       },
@@ -2099,22 +2119,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "You Know I Got It",
-        "url": "https://open.spotify.com/album/4ndtDOgs0R8SNeFf1OIPFZ"
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ"
       },
       "artists": [
         {
-          "name": "Flatland Funk",
-          "url": "https://open.spotify.com/artist/46Ig2rJQQYetQEJgKhEZDV"
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
         },
         {
-          "name": "ZABO",
-          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+          "name": "Catlea",
+          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
         }
       ],
-      "duration_ms": 194685,
-      "name": "You Know I Got It",
-      "url": "https://open.spotify.com/track/6oReNO31UN1gzts4zxBbJw"
+      "duration_ms": 201600,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -2167,26 +2187,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/7aI7DD29eHD9yO4Aed3rDQ"
-      },
-      "artists": [
-        {
-          "name": "STAR SEED",
-          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
-        },
-        {
-          "name": "Catlea",
-          "url": "https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/6u2buWQK4lGRUcHsyqPNEk"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "6am Bounce",
         "url": "https://open.spotify.com/album/7KFI76Vox8h6hCCPeB5kVd"
       },
@@ -2227,38 +2227,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Reptiles",
-        "url": "https://open.spotify.com/album/1AJeFPsi69OzgyzenprjzP"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        }
-      ],
-      "duration_ms": 188095,
-      "name": "Reptiles",
-      "url": "https://open.spotify.com/track/2JDdSaNvQrlEucMA0KOonb"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Crossfire",
         "url": "https://open.spotify.com/album/6vj1NsBvjKHVOfdhSWFrQu"
       },
@@ -2283,18 +2251,34 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Minha Vida - Sadness",
-        "url": "https://open.spotify.com/album/7hpaVvbrgihorMXpHVRhE4"
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
       "artists": [
         {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
         }
       ],
-      "duration_ms": 110499,
-      "name": "Not In The Mood",
-      "url": "https://open.spotify.com/track/3NYw5JI6wlqtGoCuZRzn6R"
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Reptiles",
+        "url": "https://open.spotify.com/album/1AJeFPsi69OzgyzenprjzP"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        }
+      ],
+      "duration_ms": 188095,
+      "name": "Reptiles",
+      "url": "https://open.spotify.com/track/2JDdSaNvQrlEucMA0KOonb"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -2331,6 +2315,22 @@
       "duration_ms": 180531,
       "name": "Novaform",
       "url": "https://open.spotify.com/track/4iRF49wQyW2359Lxh6bJ2q"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Minha Vida - Sadness",
+        "url": "https://open.spotify.com/album/7hpaVvbrgihorMXpHVRhE4"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 110499,
+      "name": "Not In The Mood",
+      "url": "https://open.spotify.com/track/3NYw5JI6wlqtGoCuZRzn6R"
     },
     {
       "added_at": "2023-07-28 04:01:00",

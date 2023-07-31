@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 10761,
+  "num_followers": 10782,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQ1ZDA1ZjhmMjFhY2ZlYWJmYTExNjNhYzRjM2U2MzdhYTg3Y2Vi",
+  "snapshot_id": "MCwwNDU0ZjQ5NzVhMWM0MDhhYzZlYTI5NzU0ODU4OGVkNDE3NWM1MGMw",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -735,22 +735,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -771,18 +767,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
     },
     {
       "added_at": "2021-03-11 16:36:50",

@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 48179,
+  "num_followers": 48595,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWJlZjNlZWVkMWFjNmNiMjA5NmVjMzNiNGQ4OTlhOGE0NGY0ZTY1",
+  "snapshot_id": "MCxiMmIxZDc3MDM5NzE3ZGU2NmFjYzNiNDQ2NzM2MGZjZDhhYzA0NDY5",
   "tracks": [
     {
       "added_at": "2023-06-30 00:01:00",
@@ -345,26 +345,6 @@
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
-      "added_at": "2023-06-02 00:01:00",
-      "album": {
-        "name": "Cover The Earth (Live In New York)",
-        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 504992,
-      "name": "Sing Hallelujah (with Natalie Grant) - Live",
-      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
-    },
-    {
       "added_at": "2023-06-23 00:01:00",
       "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
@@ -403,6 +383,26 @@
       "duration_ms": 279066,
       "name": "You are Yahweh",
       "url": "https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG"
+    },
+    {
+      "added_at": "2023-06-02 00:01:00",
+      "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 504992,
+      "name": "Sing Hallelujah (with Natalie Grant) - Live",
+      "url": "https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9"
     },
     {
       "added_at": "2023-05-19 00:01:00",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "One Name (Jesus) [Live]",
-        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 559267,
-      "name": "One Name (Jesus) - Live",
-      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
-    },
-    {
       "added_at": "2023-05-05 00:01:00",
       "album": {
         "name": "Cornerstone (Live)",
@@ -513,6 +497,30 @@
       "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
       "added_at": "2023-04-14 13:12:47",
       "album": {
         "name": "Elevated",
@@ -543,6 +551,22 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "One Name (Jesus) [Live]",
+        "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 559267,
+      "name": "One Name (Jesus) - Live",
+      "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
     },
     {
       "added_at": "2023-06-23 00:01:00",
@@ -595,30 +619,6 @@
       "duration_ms": 148146,
       "name": "My God Is Good - Double Double Remix/Live",
       "url": "https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
+    },
+    {
+      "added_at": "2023-04-14 13:12:47",
+      "album": {
         "name": "Perfect Love",
         "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
@@ -757,24 +777,20 @@
       "url": "https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s"
     },
     {
-      "added_at": "2023-04-14 13:12:47",
+      "added_at": "2023-06-16 00:01:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+        "name": "Adonai",
+        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
+      "duration_ms": 249443,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
     },
     {
       "added_at": "2023-06-30 00:01:00",
@@ -799,22 +815,6 @@
       "duration_ms": 507376,
       "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Adonai",
-        "url": "https://open.spotify.com/album/6FLiEFzCVibo1ptdlzXP4D"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 249443,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/1YJu9epNBMoQfF1EffjwiY"
     },
     {
       "added_at": "2023-06-02 00:01:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-04-14 13:12:47",
-      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -947,6 +927,26 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-04-14 13:12:47",
+      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 577592,
       "name": "Kaabo",
       "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -975,6 +991,26 @@
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
+      "added_at": "2023-04-14 13:12:47",
+      "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV"
+      },
+      "artists": [
+        {
+          "name": "Masterkraft",
+          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 197795,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk"
     },
     {
       "added_at": "2023-07-21 00:01:00",
@@ -999,22 +1035,42 @@
     {
       "added_at": "2023-04-14 13:12:47",
       "album": {
-        "name": "Hosanna",
-        "url": "https://open.spotify.com/album/45cxp5JvmZffL4LH2lcDNV"
+        "name": "Jehovah 'Meliwo (Live)",
+        "url": "https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u"
       },
       "artists": [
         {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         },
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "121 Selah",
+          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
         }
       ],
-      "duration_ms": 197795,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk"
+      "duration_ms": 299160,
+      "name": "Jehovah 'Meliwo - Live",
+      "url": "https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r"
+    },
+    {
+      "added_at": "2023-06-02 00:01:00",
+      "album": {
+        "name": "The Lord's Prayer (It's Yours)",
+        "url": "https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "The Lord's Prayer (It's Yours)",
+      "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1047,46 +1103,6 @@
       "duration_ms": 247068,
       "name": "Provider",
       "url": "https://open.spotify.com/track/5XmBjBjVxyhZGK7tR4u7GH"
-    },
-    {
-      "added_at": "2023-06-02 00:01:00",
-      "album": {
-        "name": "The Lord's Prayer (It's Yours)",
-        "url": "https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "The Lord's Prayer (It's Yours)",
-      "url": "https://open.spotify.com/track/35oVIBPpkHEWsz3Q88NBAe"
-    },
-    {
-      "added_at": "2023-04-14 13:12:47",
-      "album": {
-        "name": "Jehovah 'Meliwo (Live)",
-        "url": "https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        },
-        {
-          "name": "121 Selah",
-          "url": "https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5"
-        }
-      ],
-      "duration_ms": 299160,
-      "name": "Jehovah 'Meliwo - Live",
-      "url": "https://open.spotify.com/track/6SCnE9KZ0Ts9Vhn4v1el7r"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1123,22 +1139,6 @@
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
       "added_at": "2023-04-14 13:12:47",
@@ -1285,26 +1285,6 @@
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
-      "added_at": "2023-05-26 00:01:00",
-      "album": {
-        "name": "Already Blessed",
-        "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
-      },
-      "artists": [
-        {
-          "name": "Chidiya Ohiagu",
-          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
-        },
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 227962,
-      "name": "Already Blessed",
-      "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
-    },
-    {
       "added_at": "2023-04-14 13:12:47",
       "album": {
         "name": "Power",
@@ -1323,6 +1303,26 @@
       "duration_ms": 197522,
       "name": "Power",
       "url": "https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt"
+    },
+    {
+      "added_at": "2023-05-26 00:01:00",
+      "album": {
+        "name": "Already Blessed",
+        "url": "https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5"
+      },
+      "artists": [
+        {
+          "name": "Chidiya Ohiagu",
+          "url": "https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp"
+        },
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 227962,
+      "name": "Already Blessed",
+      "url": "https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU"
     },
     {
       "added_at": "2023-05-12 00:01:00",
@@ -1393,26 +1393,6 @@
       "url": "https://open.spotify.com/track/6EhVvsXCwlrlHrJuBmlYPZ"
     },
     {
-      "added_at": "2023-07-07 00:01:00",
-      "album": {
-        "name": "The Sound of Redemption",
-        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
-      },
-      "artists": [
-        {
-          "name": "Mabongi",
-          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
-        },
-        {
-          "name": "Khaya Mthethwa",
-          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
-        }
-      ],
-      "duration_ms": 403568,
-      "name": "We Worship",
-      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
-    },
-    {
       "added_at": "2023-04-28 00:03:00",
       "album": {
         "name": "I No Send",
@@ -1431,6 +1411,26 @@
       "duration_ms": 233128,
       "name": "I No Send",
       "url": "https://open.spotify.com/track/5y7hfbiSVXeVBE7ivQfbBq"
+    },
+    {
+      "added_at": "2023-07-07 00:01:00",
+      "album": {
+        "name": "The Sound of Redemption",
+        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
+      },
+      "artists": [
+        {
+          "name": "Mabongi",
+          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "duration_ms": 403568,
+      "name": "We Worship",
+      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
     },
     {
       "added_at": "2023-04-14 13:12:47",

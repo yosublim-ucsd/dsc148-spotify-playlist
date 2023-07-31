@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with JJUUJJUU on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 109999,
+  "num_followers": 110041,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzQxYzg3OTA1ZmRhMTcxMWRjOGE0ZWE3NjU4ZjAwMDBiMmNiMjQy",
+  "snapshot_id": "MCw5MzFkZTIyMGUxM2Q4OGJkYWU1YmEwZGM4ZjM0MmZlMzFjOGI2ZGUz",
   "tracks": [
     {
       "added_at": "2023-06-28 01:00:55",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
     },
     {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Vandalized Statue To Be Replaced With Shrine",
+        "url": "https://open.spotify.com/album/0rCANSvIeIw1BJ6Rfyzw12"
+      },
+      "artists": [
+        {
+          "name": "Monde UFO",
+          "url": "https://open.spotify.com/artist/0zU3wUdqv85zN0yPJEozBN"
+        }
+      ],
+      "duration_ms": 71703,
+      "name": "Instruments 1",
+      "url": "https://open.spotify.com/track/0h6YJOYoqi3MFzbYVH5Tbf"
+    },
+    {
       "added_at": "2023-04-12 14:55:04",
       "album": {
         "name": "Love Conductor",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Vandalized Statue To Be Replaced With Shrine",
-        "url": "https://open.spotify.com/album/0rCANSvIeIw1BJ6Rfyzw12"
-      },
-      "artists": [
-        {
-          "name": "Monde UFO",
-          "url": "https://open.spotify.com/artist/0zU3wUdqv85zN0yPJEozBN"
-        }
-      ],
-      "duration_ms": 71703,
-      "name": "Instruments 1",
-      "url": "https://open.spotify.com/track/0h6YJOYoqi3MFzbYVH5Tbf"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "Last Life on Earth",
         "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 264266,
       "name": "Boundless Baby",
       "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Siro Silo",
-        "url": "https://open.spotify.com/album/5Sl86p5foB6RvuCjrYuYVN"
-      },
-      "artists": [
-        {
-          "name": "Yushh",
-          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
-        }
-      ],
-      "duration_ms": 293333,
-      "name": "Siro Silo",
-      "url": "https://open.spotify.com/track/1etzoaNUN5fNQGTMeHRtXZ"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -819,6 +803,22 @@
       "duration_ms": 122368,
       "name": "Tinnitus Titles (Tinnitus OST)",
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Siro Silo",
+        "url": "https://open.spotify.com/album/5Sl86p5foB6RvuCjrYuYVN"
+      },
+      "artists": [
+        {
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
+        }
+      ],
+      "duration_ms": 293333,
+      "name": "Siro Silo",
+      "url": "https://open.spotify.com/track/1etzoaNUN5fNQGTMeHRtXZ"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/295imTGl6y0k7idGTb7nCO"
-      },
-      "artists": [
-        {
-          "name": "MeSo",
-          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
-        }
-      ],
-      "duration_ms": 238434,
-      "name": "Encounter",
-      "url": "https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB"
-    },
-    {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
         "name": "1800-PARASOL",
         "url": "https://open.spotify.com/album/7eRcIoexZgmX24i26Xv55v"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Flood City Trax",
-        "url": "https://open.spotify.com/album/5bW9n1xGlGshlj7iQvH7nT"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/295imTGl6y0k7idGTb7nCO"
       },
       "artists": [
         {
-          "name": "Nondi_",
-          "url": "https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF"
+          "name": "MeSo",
+          "url": "https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe"
         }
       ],
-      "duration_ms": 263896,
-      "name": "FCD (Floaty Cloud Dream)",
-      "url": "https://open.spotify.com/track/1F7frrqHbCzsyvmA1s9Rb1"
+      "duration_ms": 238434,
+      "name": "Encounter",
+      "url": "https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-04-12 14:55:04",
       "album": {
+        "name": "Flood City Trax",
+        "url": "https://open.spotify.com/album/5bW9n1xGlGshlj7iQvH7nT"
+      },
+      "artists": [
+        {
+          "name": "Nondi_",
+          "url": "https://open.spotify.com/artist/6vcnozR3JODUnpP8VL8OWF"
+        }
+      ],
+      "duration_ms": 263896,
+      "name": "FCD (Floaty Cloud Dream)",
+      "url": "https://open.spotify.com/track/1F7frrqHbCzsyvmA1s9Rb1"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
         "name": "Nebula",
         "url": "https://open.spotify.com/album/3MWDjdMkccH0cVYs9mt0fX"
       },
@@ -965,20 +965,20 @@
       "url": "https://open.spotify.com/track/4cr5kh3rF7kvoczgYxIiV2"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "WIREPULLER",
-        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
+        "name": "Spells",
+        "url": "https://open.spotify.com/album/6hnbEcR9Y2mYtNY2zjjfWG"
       },
       "artists": [
         {
-          "name": "UURYDON",
-          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
+          "name": "O'o",
+          "url": "https://open.spotify.com/artist/1DtsFylHx6XtgBVITFouan"
         }
       ],
-      "duration_ms": 90266,
-      "name": "HAXAN",
-      "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
+      "duration_ms": 237042,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/75FDoDgKy5ikwr4sMfwKKy"
     },
     {
       "added_at": "2023-06-28 01:00:55",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/0iupNUfxhGo1AEPlfHz4m6"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-07-18 19:13:40",
       "album": {
-        "name": "Spells",
-        "url": "https://open.spotify.com/album/6hnbEcR9Y2mYtNY2zjjfWG"
+        "name": "WIREPULLER",
+        "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
       },
       "artists": [
         {
-          "name": "O'o",
-          "url": "https://open.spotify.com/artist/1DtsFylHx6XtgBVITFouan"
+          "name": "UURYDON",
+          "url": "https://open.spotify.com/artist/52BXrT8rLQHuxQ2IxhTA5G"
         }
       ],
-      "duration_ms": 237042,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/75FDoDgKy5ikwr4sMfwKKy"
+      "duration_ms": 90266,
+      "name": "HAXAN",
+      "url": "https://open.spotify.com/track/1BrVmVhe95wzB4wLw1KztV"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/234LkCmcEYvr2uqqp2IMtV"
     },
     {
+      "added_at": "2023-05-17 15:25:53",
+      "album": {
+        "name": "Last Life on Earth",
+        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
+      },
+      "artists": [
+        {
+          "name": "Dimming",
+          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Clean Slate",
+      "url": "https://open.spotify.com/track/1qjMM7qlmDnucsa5UoOCZ9"
+    },
+    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Field Tapes In Der Trash",
@@ -1269,22 +1285,6 @@
       "url": "https://open.spotify.com/track/2IIA0q9fPM5yn5W4nRe6Xb"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Los D\u00edas M\u00e1s Grises Son Todos",
-        "url": "https://open.spotify.com/album/5euGIk2cAiplt06Ue5Bvrx"
-      },
-      "artists": [
-        {
-          "name": "Mav Nuhels",
-          "url": "https://open.spotify.com/artist/5LUlTrxkftULCz2gKzMe00"
-        }
-      ],
-      "duration_ms": 193585,
-      "name": "Naufragio",
-      "url": "https://open.spotify.com/track/0iYtWrXwYf26zBDDS23TD3"
-    },
-    {
       "added_at": "2023-05-17 15:25:53",
       "album": {
         "name": "as we once were",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/6T4HaZ7XBQkaoUnYg6KUdI"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
+      "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Last Life on Earth",
-        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
+        "name": "Los D\u00edas M\u00e1s Grises Son Todos",
+        "url": "https://open.spotify.com/album/5euGIk2cAiplt06Ue5Bvrx"
       },
       "artists": [
         {
-          "name": "Dimming",
-          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
+          "name": "Mav Nuhels",
+          "url": "https://open.spotify.com/artist/5LUlTrxkftULCz2gKzMe00"
         }
       ],
-      "duration_ms": 255986,
-      "name": "Clean Slate",
-      "url": "https://open.spotify.com/track/1qjMM7qlmDnucsa5UoOCZ9"
+      "duration_ms": 193585,
+      "name": "Naufragio",
+      "url": "https://open.spotify.com/track/0iYtWrXwYf26zBDDS23TD3"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/0WE5WXXXF4rm3dzE7DnfFE"
     },
     {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "On Garudan Wing",
-        "url": "https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6"
-      },
-      "artists": [
-        {
-          "name": "Matt LaJoie",
-          "url": "https://open.spotify.com/artist/56VvcTr0tIhh0jinmqK35j"
-        }
-      ],
-      "duration_ms": 384890,
-      "name": "Brushstroke",
-      "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Arcana",
@@ -1445,20 +1429,20 @@
       "url": "https://open.spotify.com/track/1gH5SBhS98bidrGo13gojP"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
+      "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "All The Sad And Loving People",
-        "url": "https://open.spotify.com/album/0rYeUzYzjIEf1y0TMMUgdf"
+        "name": "On Garudan Wing",
+        "url": "https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6"
       },
       "artists": [
         {
-          "name": "Ky",
-          "url": "https://open.spotify.com/artist/4IMeRsH8YFB6BKogJhpzJK"
+          "name": "Matt LaJoie",
+          "url": "https://open.spotify.com/artist/56VvcTr0tIhh0jinmqK35j"
         }
       ],
-      "duration_ms": 342608,
-      "name": "All The Sad And Loving People - Single Version",
-      "url": "https://open.spotify.com/track/1DHKUxf15ms7MEXfAmbzAx"
+      "duration_ms": 384890,
+      "name": "Brushstroke",
+      "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1475,6 +1459,22 @@
       "duration_ms": 206428,
       "name": "Second Attempt",
       "url": "https://open.spotify.com/track/06WxpNhlcee8LxTzumrR2B"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "All The Sad And Loving People",
+        "url": "https://open.spotify.com/album/0rYeUzYzjIEf1y0TMMUgdf"
+      },
+      "artists": [
+        {
+          "name": "Ky",
+          "url": "https://open.spotify.com/artist/4IMeRsH8YFB6BKogJhpzJK"
+        }
+      ],
+      "duration_ms": 342608,
+      "name": "All The Sad And Loving People - Single Version",
+      "url": "https://open.spotify.com/track/1DHKUxf15ms7MEXfAmbzAx"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "Trama EP",
-        "url": "https://open.spotify.com/album/2GbymWEmHDAOff10l882Iq"
+        "name": "Onwards",
+        "url": "https://open.spotify.com/album/376lSzakQ49opuRjoAhLig"
       },
       "artists": [
         {
-          "name": "Tiello",
-          "url": "https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl"
+          "name": "Nu Shaydz",
+          "url": "https://open.spotify.com/artist/01z2FdyqeO53hdivv1qWIm"
         }
       ],
-      "duration_ms": 328440,
-      "name": "Though",
-      "url": "https://open.spotify.com/track/2A1j7HEHpSqNXYDL0d3rps"
+      "duration_ms": 99428,
+      "name": "New Challenges",
+      "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "Onwards",
-        "url": "https://open.spotify.com/album/376lSzakQ49opuRjoAhLig"
+        "name": "Trama EP",
+        "url": "https://open.spotify.com/album/2GbymWEmHDAOff10l882Iq"
       },
       "artists": [
         {
-          "name": "Nu Shaydz",
-          "url": "https://open.spotify.com/artist/01z2FdyqeO53hdivv1qWIm"
+          "name": "Tiello",
+          "url": "https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl"
         }
       ],
-      "duration_ms": 99428,
-      "name": "New Challenges",
-      "url": "https://open.spotify.com/track/5dJZ45VpKjXE6McWZSqFnh"
+      "duration_ms": 328440,
+      "name": "Though",
+      "url": "https://open.spotify.com/track/2A1j7HEHpSqNXYDL0d3rps"
     },
     {
       "added_at": "2023-05-24 14:03:48",

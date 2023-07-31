@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest",
-  "num_followers": 117353,
+  "num_followers": 117424,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTM4MWZlNDcyODlhYTRhNjY5OWEwYTA5NzI1OTJkODJlZDY4NzJj",
+  "snapshot_id": "MCxkNGI4NDA0YjdlMzJjM2I5ODRjZjFhZGNkNWIyMDNkYmE4OTQ5MDc2",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -579,6 +579,34 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Contagem",
+        "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Contagem",
+      "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Melhor Dia 11: Ilus\u00e3o com Autoestima",
         "url": "https://open.spotify.com/album/6lb3vS0CnersbHGvdTIpXM"
       },
@@ -619,34 +647,6 @@
       "duration_ms": 394883,
       "name": "Melhor Dia 11: Ilus\u00e3o com Autoestima",
       "url": "https://open.spotify.com/track/6vHa5xCUuoZikmu0cWPnIj"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Contagem",
-        "url": "https://open.spotify.com/album/7qgjjC1i3CcMmLJbseIybA"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Contagem",
-      "url": "https://open.spotify.com/track/1yGKbakTOI42EMvvWVtqQH"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "EVDC DELUXE",
+        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        }
+      ],
+      "duration_ms": 178591,
+      "name": "Diagn\u00f3stico",
+      "url": "https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Vivendo Um Sonho",
         "url": "https://open.spotify.com/album/0BRSfD1KvU8e7lLQrCRf6i"
       },
@@ -1139,42 +1159,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
-      },
-      "artists": [
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Lancei os Trajes",
-      "url": "https://open.spotify.com/track/1kxrDZEDihuelR3QlKJH7g"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Cavalona",
         "url": "https://open.spotify.com/album/3cDefGhhnYoqP5Bc8XDbqc"
       },
@@ -1243,6 +1227,42 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g"
+      },
+      "artists": [
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Lancei os Trajes",
+      "url": "https://open.spotify.com/track/1kxrDZEDihuelR3QlKJH7g"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "EVDC DELUXE",
         "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
       },
@@ -1252,13 +1272,17 @@
           "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
         }
       ],
-      "duration_ms": 178591,
-      "name": "Diagn\u00f3stico",
-      "url": "https://open.spotify.com/track/7KdVFvjsLG0bBn7LO4ae2I"
+      "duration_ms": 184615,
+      "name": "\u00c9 o paco ou berro?",
+      "url": "https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1367,46 +1391,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "EVDC DELUXE",
-        "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "\u00c9 o paco ou berro?",
-      "url": "https://open.spotify.com/track/18CtlrryJwqsvSOyd9GBim"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Evoque Miami Blue",
-        "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
-      },
-      "artists": [
-        {
-          "name": "A$TRO BOY",
-          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
-        }
-      ],
-      "duration_ms": 129044,
-      "name": "Evoque Miami Blue",
-      "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Suethseason",
         "url": "https://open.spotify.com/album/6MLgeaFryg6G8xXo4GStVr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 160476,
       "name": "Suethseason",
       "url": "https://open.spotify.com/track/5pt9z8FThYiEcFeY8sdeXF"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Evoque Miami Blue",
+        "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        }
+      ],
+      "duration_ms": 129044,
+      "name": "Evoque Miami Blue",
+      "url": "https://open.spotify.com/track/5wm1P0cfNLvQ3uauPoUjui"
     },
     {
       "added_at": "2023-07-28 03:01:00",

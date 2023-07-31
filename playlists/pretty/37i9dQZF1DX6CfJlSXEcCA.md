@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,015 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,079 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 12 | [Saudade](https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [Resident Evil 2 Original Soundtrack](https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2) | 4:18 |
 | 13 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/55j3FJUsQrDSECgJ2ogMev) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 4:31 |
 | 14 | [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 |
-| 15 | [Yearning for Dark Shadows](https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 6:02 |
-| 16 | [Theme of Guile](https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa) | 4:12 |
+| 15 | [Theme of Guile](https://open.spotify.com/track/3dR4J0QqEyUSJCLx7xt3tO) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [STREET FIGHTER V ARCADE EDITION ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4wx1coZnnXhhoCGBicDWFa) | 4:12 |
+| 16 | [Yearning for Dark Shadows](https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq) | [Brian D'Oliveira](https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 6:02 |
 | 17 | [X vs ZERO](https://open.spotify.com/track/5DmiafSW6i4jp0sJ9z95qW) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [MEGA MAN X5 SOUND COLLECTION](https://open.spotify.com/album/1ICLroyqx3t6PnTKlW1ejh) | 2:43 |
 | 18 | [Silver\-winged Star \- Valstrax](https://open.spotify.com/track/3lvbr6VJPV8kfrIcyfsdqa) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [MONSTER HUNTER RISE Extra Tracks](https://open.spotify.com/album/02v01ZbI91kG3WAQMqCOlf) | 4:03 |
 | 19 | [綾里真宵 〜逆転姉妹のテーマ 2001](https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 2:41 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 25 | [Rising Sun](https://open.spotify.com/track/4yB3Ljw5lrhqmAISGaNPsd) | [T’s MUSIC](https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V) | [Okami Original Soundtrack \(Vol\. 4\)](https://open.spotify.com/album/0vLmuVMBOqBfGjc0j5E8R8) | 5:42 |
 | 26 | [OPENING STAGE](https://open.spotify.com/track/5AuhTgpU1Q99tq1mv4TUIi) | [Kinuyo Yamashita](https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx) | [MEGA MAN X3 SOUND COLLECTION](https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK) | 1:35 |
 | 27 | [Ripples in the Calm](https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n) | [Shusaku Uchiyama](https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8) | [RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA) | 2:22 |
-| 28 | [Mega Man 2 / Dr\. Wily Stage 1](https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg) | 3:53 |
-| 29 | [Domain of Dust and Desolation](https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [MONSTER HUNTER RISE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT) | 4:14 |
+| 28 | [Domain of Dust and Desolation](https://open.spotify.com/track/7fh6upeBBPHJqOesusuMbe) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [MONSTER HUNTER RISE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT) | 4:14 |
+| 29 | [Mega Man 2 / Dr\. Wily Stage 1](https://open.spotify.com/track/2PCurI9hftlXKUtUFSTFX7) | [ROCK\-MEN](https://open.spotify.com/artist/32d84jVg6I1eVLBMis0tx8) | [We are ROCK\-MEN!2](https://open.spotify.com/album/4Xg2Jvqvhurzo6UZtfmwKg) | 3:53 |
 | 30 | [英雄の証 〜 ミラクル☆ミルクティ](https://open.spotify.com/track/1mbJVz9bjm7Rdm5ZkZnNhC) | [ミラクル☆ミルクティ\(CV:上田麗奈&高野麻里佳\)](https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN) | [モンスターハンターダブルクロス ミラクル☆ミルクティ](https://open.spotify.com/album/5gpRBUGBt9nkKQZldHXkY8) | 4:03 |
 | 31 | [Esperanto](https://open.spotify.com/track/2bO8wK9Cj7KJieoirM3Klu) | [Umegaki Runa](https://open.spotify.com/artist/1EttdjOOkUtmSht8NjZ1ax) | [MEGAMAN ZERO/ZX SOUND BOX](https://open.spotify.com/album/53jTF5NJogiBRi0H2yMGtE) | 2:19 |
 | 32 | [Ryu's Theme \-The Fist That Knows No End\-](https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターV エクスパンション トラックス 2](https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ) | 1:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
 | 50 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 
-Snapshot ID: `MCw0NjRmNDgzMTM3ZTY0MDA3NjFmNGI3MTEyYmM5YzhmMmQyMzU4ZmM1`
+Snapshot ID: `MCxjZTc1NzdkOGI4NGU2NzhhNGQzOWQ4ZmQxNTFmNmI5NTkyMzczYWQx`

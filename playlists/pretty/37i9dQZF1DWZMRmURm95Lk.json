@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Johnny Marsiglia in cover.",
-  "num_followers": 33856,
+  "num_followers": 33861,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjFlMDliM2QyYjY3YTBhNDQ0NGViN2Q2NDhmMWQxY2I5MGUzNjRm",
+  "snapshot_id": "MCw4ZjViYTQ2M2JjMThkNTlkZTJlOGIyOWRlYzQ1YjkzNDhkYTg3Y2I5",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Madreperla",
+        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Da 1k In Su (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Sacrosanto",
         "url": "https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 158943,
       "name": "Sembrava Impossibile",
       "url": "https://open.spotify.com/track/3cAIN3it8fhHDiyO5vXOVj"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Madreperla",
-        "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Da 1k In Su (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/4FnTFBGLLkSFuyT40g6djx"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Non Dormire",
+        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Verano Zombie",
+      "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "OVERT",
         "url": "https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ"
       },
@@ -631,22 +651,6 @@
       "duration_ms": 219000,
       "name": "DON DADAIST (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/2Q2mMT9N8v9uMsxiPQHemP"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "GARA 7",
-        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
-      },
-      "artists": [
-        {
-          "name": "Johnny Marsiglia",
-          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "Prime",
-      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -727,22 +731,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Non Dormire",
-        "url": "https://open.spotify.com/album/0JI15mziWe7eKoM7nt8vsX"
+        "name": "GARA 7",
+        "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
       "artists": [
         {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Gemello",
-          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Verano Zombie",
-      "url": "https://open.spotify.com/track/64lAuSz0vPFFK4IAFlENnU"
+      "duration_ms": 130373,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/7JdjeREIOitJyG1Wak6awD"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "La calda notte",
+        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Chicoria",
+          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Cronaca quotidiana",
+      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Piove Ancora",
         "url": "https://open.spotify.com/album/4YFbmYCyhx8cC8AvOVT8DO"
       },
@@ -779,22 +799,6 @@
       "duration_ms": 176103,
       "name": "Blood Nero",
       "url": "https://open.spotify.com/track/7s00rO6jvrptIf1iiRhknh"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 266933,
-      "name": "Int 'o rione",
-      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -831,6 +835,38 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 266933,
+      "name": "Int 'o rione",
+      "url": "https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+      },
+      "artists": [
+        {
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+        }
+      ],
+      "duration_ms": 201618,
+      "name": "Freccia",
+      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Numero zero ep",
         "url": "https://open.spotify.com/album/3XDfQm5UcWmaxSvax7r5ha"
       },
@@ -855,18 +891,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
+        "name": "Verano Zombie",
+        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
       },
       "artists": [
         {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
         }
       ],
-      "duration_ms": 201618,
-      "name": "Freccia",
-      "url": "https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn"
+      "duration_ms": 163626,
+      "name": "Quelle Notti",
+      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -883,26 +919,6 @@
       "duration_ms": 270293,
       "name": "Non Piove",
       "url": "https://open.spotify.com/track/6Qtr4kXMP3utm8TmoFsuJm"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "La calda notte",
-        "url": "https://open.spotify.com/album/6QdeiDIk0cnXh7czJPWqFT"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        },
-        {
-          "name": "Chicoria",
-          "url": "https://open.spotify.com/artist/5OzBpKiOsMFpuwvbJpUGce"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Cronaca quotidiana",
-      "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -931,26 +947,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "XENOVERSO",
         "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
@@ -967,6 +963,26 @@
       "duration_ms": 179936,
       "name": "Guardie&Ladri (feat. Nayt)",
       "url": "https://open.spotify.com/track/3glwI8YMhuziGnQvnhrkqz"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Verano Zombie",
-        "url": "https://open.spotify.com/album/5Nd8JR6mCH4ePxGWjhcJvV"
-      },
-      "artists": [
-        {
-          "name": "Noyz Narcos",
-          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Quelle Notti",
-      "url": "https://open.spotify.com/track/4xXwGmvUUT69n1xoaKxucB"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Ferro del mestiere",
         "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 130593,
       "name": "Yeah (feat. Emis Killa)",
       "url": "https://open.spotify.com/track/2CxCmoViEZSnWZU60K4tW3"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "SPECIALIST",
-        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
-      },
-      "artists": [
-        {
-          "name": "Ensi",
-          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
-        }
-      ],
-      "duration_ms": 145446,
-      "name": "SPECIALIST",
-      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "SPECIALIST",
+        "url": "https://open.spotify.com/album/0ffd8nDXYLBtCWVNOujCQV"
+      },
+      "artists": [
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        }
+      ],
+      "duration_ms": 145446,
+      "name": "SPECIALIST",
+      "url": "https://open.spotify.com/track/00ziDepoTjKU8DJ3lXnh4T"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1123,22 +1123,6 @@
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Curre curre guagli\u00f2",
-        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
-      },
-      "artists": [
-        {
-          "name": "99 Posse",
-          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
-        }
-      ],
-      "duration_ms": 354506,
-      "name": "Rigurgito antifascista",
-      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Curre curre guagli\u00f2",
+        "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
+      },
+      "artists": [
+        {
+          "name": "99 Posse",
+          "url": "https://open.spotify.com/artist/0C47YN6zg3vCNA2gIScdgW"
+        }
+      ],
+      "duration_ms": 354506,
+      "name": "Rigurgito antifascista",
+      "url": "https://open.spotify.com/track/6L2NXxAfU3SjTweQIjezO2"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391960,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
         "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 187959,
       "name": "Parla piano",
       "url": "https://open.spotify.com/track/37IHphajTmd27MDLG76zEd"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391960,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/3LwO99eYcBuX0n6ttVtKCQ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Sotto lo stesso effetto",
+        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
+      },
+      "artists": [
+        {
+          "name": "Sottotono",
+          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Amor de mi vida",
+      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Luigi XVI",
         "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 185880,
       "name": "Hashishin",
       "url": "https://open.spotify.com/track/4GaQdMWDuFyIA5puUPGadp"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Sotto lo stesso effetto",
-        "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
-      },
-      "artists": [
-        {
-          "name": "Sottotono",
-          "url": "https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Amor de mi vida",
-      "url": "https://open.spotify.com/track/1V88gWT2lkujA6094zxA39"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Chi more pe' mme",
-        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Chi more pe' mme",
-      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Lo Spirito Che Suona",
         "url": "https://open.spotify.com/album/6sYqliMCrAJNLQkni9cCpS"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 269760,
       "name": "Citt\u00e0 di vetro",
       "url": "https://open.spotify.com/track/3lE6RqZdFuVewUneoTlb5l"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Chi more pe' mme",
+        "url": "https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Chi more pe' mme",
+      "url": "https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Treddepomeriggio",
+        "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
+      },
+      "artists": [
+        {
+          "name": "Er Costa",
+          "url": "https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1"
+        }
+      ],
+      "duration_ms": 183914,
+      "name": "Treddepomeriggio",
+      "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Infernum",
         "url": "https://open.spotify.com/album/1CD519TNba7nHjdcrCekz9"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 180776,
       "name": "Beatrice",
       "url": "https://open.spotify.com/track/1WYX66uRaVP4GCEwyvAt3D"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Treddepomeriggio",
-        "url": "https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF"
-      },
-      "artists": [
-        {
-          "name": "Er Costa",
-          "url": "https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1"
-        }
-      ],
-      "duration_ms": 183914,
-      "name": "Treddepomeriggio",
-      "url": "https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP"
     },
     {
       "added_at": "2023-07-27 22:01:00",

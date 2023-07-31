@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: YOÚN
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,896 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,917 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 66 | [Delírio](https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG) | [INAHUGO](https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR) | [Estou Aqui](https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr) | 3:47 |
 | 67 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 |
 | 68 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 |
-| 69 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 |
-| 70 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
+| 69 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
+| 70 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 |
 | 71 | [Ponto de Equilíbrio](https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV) | [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Ponto de Equilíbrio](https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH) | 3:13 |
 | 72 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 |
 | 73 | [se você quiser](https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Mutanx](https://open.spotify.com/artist/7pH4KBMOUOnzAWnbtgDhiM), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [se você quiser](https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE) | 3:44 |
 | 74 | [Abstinência](https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG), [Christoffer](https://open.spotify.com/artist/1e4TwMRNTZmlnnwa0ymxHG) | [Abstinência](https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO) | 2:48 |
 | 75 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [MOTICO MONEY](https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
 
-Snapshot ID: `MCw1MWY3NDZkNzY1ZjhiZjIzODUwZTU0OTI0OTdjMGM4YjkzOGRiMmM3`
+Snapshot ID: `MCxjMzgxODYyODgzZDk2MzAzMzZjZmI4MGRjNzU3MTM3ZTljOTUwMWM5`

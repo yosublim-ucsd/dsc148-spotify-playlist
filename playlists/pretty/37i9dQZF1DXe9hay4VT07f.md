@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Alkaline
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,976 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,208 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 76 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
 | 77 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
 | 78 | [Party Hard](https://open.spotify.com/track/0S0qKgHu2CCL3MjPo3HMl5) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 3:38 |
-| 79 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
-| 80 | [Fling](https://open.spotify.com/track/0Ocz4RqsoxmtwcZjWnjYlp) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Fling](https://open.spotify.com/album/4XDwOg42iBKH7lx6dg33OC) | 2:48 |
+| 79 | [Fling](https://open.spotify.com/track/0Ocz4RqsoxmtwcZjWnjYlp) | [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Fling](https://open.spotify.com/album/4XDwOg42iBKH7lx6dg33OC) | 2:48 |
+| 80 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
 | 81 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 |
 | 82 | [Big Chune](https://open.spotify.com/track/1IjPlLjheWe899ounTjCby) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Big Chune](https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs) | 2:43 |
 | 83 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 95 | [Ocean Wave](https://open.spotify.com/track/6INb5MdCjzrkqqIPPEJvbq) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Ocean Wave](https://open.spotify.com/album/722vGdkmCeXfKriYdKonto) | 2:43 |
 | 96 | [Vitamin S](https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:12 |
 | 97 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
-| 98 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
-| 99 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
+| 98 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
+| 99 | [Money & Done \- Remix](https://open.spotify.com/track/488Uem9ellPhXvA8XfBhty) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Black Shadow](https://open.spotify.com/artist/2p9Ir76xCg114T9P67Hk1z) | [Money & Done \(Remix\)](https://open.spotify.com/album/4YX0QGF4fbGoxDAjBLtueO) | 2:40 |
 | 100 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 |
 
-Snapshot ID: `MCxiYjY4YWI4YjI2YzI3YjlmMzAyYjgzMjVlMDAzYzBkMTAzOTdhODBl`
+Snapshot ID: `MCwxMDA4YzRkYzFmNzAxOGZmMmNiMDJjMmE2MjgxYTFiY2IxNWUwNDE5`

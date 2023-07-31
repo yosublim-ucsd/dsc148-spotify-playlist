@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 250133,
       "name": "Elastic Heart - Piano Version",
       "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "SHADYXV",
+        "url": "https://open.spotify.com/album/3CjuTytLZz3G9znXt2rJgU"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Guts Over Fear",
+      "url": "https://open.spotify.com/track/3pAnZV3mgNKCABheAUatc3"
+    },
+    {
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -554,7 +576,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
@@ -800,6 +822,24 @@
       "duration_ms": 197026,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270826,
+      "name": "Salted Wound - From \"Fifty Shades Of Grey\" Soundtrack",
+      "url": "https://open.spotify.com/track/54ssLbJIu1evMyaERFYHjs"
     },
     {
       "album": {

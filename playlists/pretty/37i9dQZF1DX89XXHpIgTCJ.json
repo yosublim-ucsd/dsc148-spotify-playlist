@@ -1,12 +1,12 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 253005,
+  "num_followers": 253539,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2N2Y3ODZiYjgzYmY0ZWY4MGQ1ODYyYjVjM2M5ZDA0NjU3MTU1Yzdi",
+  "snapshot_id": "MCxiYjNmMGMxZTFmNDQwZWM4NjZmMWIxZWU0N2M4YzJkZTE3OTZmOWMx",
   "tracks": [
     {
       "added_at": "2023-07-25 11:59:13",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-07-25 11:59:13",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Children of the Korn (feat. Ice Cube)",
-      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
-    },
-    {
-      "added_at": "2023-07-25 11:59:13",
-      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 160666,
       "name": "Shame",
       "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
+    },
+    {
+      "added_at": "2023-07-25 11:59:13",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Children of the Korn (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
     },
     {
       "added_at": "2023-07-25 11:59:13",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-07-25 11:59:13",
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Wicked (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
-    },
-    {
-      "added_at": "2023-07-25 11:59:13",
-      "album": {
         "name": "War & Peace Vol. 1 (The War Disc)",
         "url": "https://open.spotify.com/album/3WZoJdkb9NSvZqkUShSKv4"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 243506,
       "name": "Fuck Dying",
       "url": "https://open.spotify.com/track/2Qq2O47kcBU3FksKmDSiPn"
+    },
+    {
+      "added_at": "2023-07-25 11:59:13",
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
     },
     {
       "added_at": "2023-07-25 11:59:13",

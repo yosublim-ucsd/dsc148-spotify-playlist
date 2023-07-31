@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcp8vZ8TtVI.md) - [plain]
 
 > Celebrity wedding planner Mindy Weiss brings you her essential songs for wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,178 likes - 34 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,186 likes - 34 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcp8vZ8TtVI.md) - [plain]
 | 33 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
 | 34 | [I Will Be There](https://open.spotify.com/track/5uQDsGFQm4uwyU1bVFmf3E) | [Odessa](https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1) | [Odessa](https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH) | 4:35 |
 
-Snapshot ID: `MCwzOTUxNTNiYjY3NjE1ZTBkYWY4Zjg4NzE3YmYzNWE1NTNkNDJjYTc1`
+Snapshot ID: `MCw3ZDYzYTA5ZmUwODMxNTQ5NDQ2MDE5MTM5NzYzNjQwNjFmZWY2ZTIz`

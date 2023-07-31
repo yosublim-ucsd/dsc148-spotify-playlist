@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 Marina Fages
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,393 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,411 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 74 | [Nuevo Plano](https://open.spotify.com/track/7cA4kcht49w4hcC6YYG0Ce) | [Entidad Animada](https://open.spotify.com/artist/2fa4MkhFQbeYbxkvHF3M7P) | [Nuevo Plano](https://open.spotify.com/album/6F5WoawljfNJDKEFQHNVKr) | 2:25 |
 | 75 | [Natalia Dice](https://open.spotify.com/track/4Lg1a3ptSavkUgjV5nwBIC) | [J](https://open.spotify.com/artist/020TECbJNvzquIiMMR4jV0), [107 Faunos](https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r), [Srta\. Trueno Negro](https://open.spotify.com/artist/5hVTdFTyOgwBKn5CWKnwrQ) | [Natalia Dice](https://open.spotify.com/album/4KKMxWPrXOZauEAQUKpo0A) | 4:11 |
 
-Snapshot ID: `MCxkMDMxMjY0NjAzYmY5NGYxNDhhODA5Y2NhZDI0ZDkyODdmMThjZjg2`
+Snapshot ID: `MCw2MDY0ODdlMjI0OTA3NmUyMTU4N2I5N2ZlNjhhMjAxY2ExNThhMWMz`

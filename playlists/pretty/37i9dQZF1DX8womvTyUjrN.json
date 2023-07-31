@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Alex Luna",
-  "num_followers": 282542,
+  "num_followers": 282576,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzA4MzM2ZWYwMmEwNWFhY2MxMGU5YzYzNjM0MDg0ZTY2ZTE4ODEx",
+  "snapshot_id": "MCw0ODNjMGY3NmI4MThlYjM1NjZhNWExOWRiMDA4YjE1YzQwZmQ5Y2Q4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -359,6 +359,30 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "YOKO",
         "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
       },
@@ -463,6 +487,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "traici\u00f3n",
+        "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 165454,
+      "name": "traici\u00f3n",
+      "url": "https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "DEKKOLETERA 3",
         "url": "https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X"
       },
@@ -531,22 +571,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Disculpa Amiga",
-        "url": "https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 168286,
-      "name": "Disculpa Amiga",
-      "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
@@ -563,6 +587,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Disculpa Amiga",
+        "url": "https://open.spotify.com/album/52D4v7ZG7eta1PSjm3zdSp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 168286,
+      "name": "Disculpa Amiga",
+      "url": "https://open.spotify.com/track/1zfJC7Zm6WpbmklOBJGZEL"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu"
       },
@@ -575,30 +615,6 @@
       "duration_ms": 172066,
       "name": "Amor",
       "url": "https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "tqum (feat. Kim Petras) [Remix]",
-        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum (feat. Kim Petras) - Remix",
-      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -659,6 +675,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Besos y Pendientes",
+        "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Besos y Pendientes",
+      "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
       },
@@ -687,26 +723,6 @@
       "duration_ms": 150500,
       "name": "mE vALe maDRE :)",
       "url": "https://open.spotify.com/track/0ktTd6UI2vktUtieujvgU8"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Besos y Pendientes",
-        "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Besos y Pendientes",
-      "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "traici\u00f3n",
-        "url": "https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 165454,
-      "name": "traici\u00f3n",
-      "url": "https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz"
     },
     {
       "added_at": "2023-07-28 04:00:00",

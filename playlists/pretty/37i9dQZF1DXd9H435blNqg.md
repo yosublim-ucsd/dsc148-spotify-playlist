@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,304 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,382 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 13 | [Surrender](https://open.spotify.com/track/4BfT2o6RDR3dOATt0e3XhR) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3HmSF21KTTO6dK3AxJpXps) | 3:36 |
 | 14 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 |
 | 15 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 |
-| 16 | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/1cIQrwG14lRNk9DFwbIqAt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:32 |
+| 16 | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/7fPH04rkWtdSQx65BUpM0Z) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ain't Nobody \(Pain\)](https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW) | 3:32 |
 | 17 | [Go Crazy \(feat\. Keb' Mo'\)](https://open.spotify.com/track/7G6oI8xoGa62LGvE2xjtfP) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:40 |
 | 18 | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/track/2ZagwBX7kXRGC767ZVBt0H) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/album/3QxSxnvXPvwjXM5jAYw4hC) | 3:24 |
 | 19 | [Holy Ghost Fire](https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9H435blNqg.md) - [plain]
 | 74 | [One Thing \(2020\)](https://open.spotify.com/track/3UN865e2RbOp2e5MEaKyH1) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Get That Feeling, Vol\. I](https://open.spotify.com/album/0yGqO8T0PFlvvOEB67SVw8) | 4:06 |
 | 75 | [Quarantine](https://open.spotify.com/track/7gde4dG4lg1LDEVAgwTeYE) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Quarantine](https://open.spotify.com/album/2WjzcRa6XEfaLmYqTMBrEE) | 2:52 |
 
-Snapshot ID: `MCxhODQ2Y2UzOTg1MjFmN2Q2MDAwNzlhYTc2NDJlZDhhYjc1Y2Y1ZTU4`
+Snapshot ID: `MCw1MTliYTA3ZDE2NzY5YjUyNzQwMTQ5M2Y4MmM4ZjU5MjY3MTFjNjZj`

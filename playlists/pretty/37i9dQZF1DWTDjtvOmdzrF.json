@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 560776,
+  "num_followers": 560923,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjNlMmFiNDI2YTMyMTE3ZWZiMGQ2MDFkNDQ2N2I3ODY5M2I1NDMz",
+  "snapshot_id": "MCwxMDExMTljNDAyOTE0ZDU1MmRjZTNiODkxOWVkNmE5MTk2YjFiZjE0",
   "tracks": [
     {
       "added_at": "2023-07-14 01:17:56",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-07-14 01:17:56",
       "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2023-07-14 01:17:56",
+      "album": {
         "name": "Ini Bukan Nosstress",
         "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 213240,
       "name": "Semoga, Ya",
       "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
-    },
-    {
-      "added_at": "2023-07-14 01:17:56",
-      "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2023-07-14 01:17:56",

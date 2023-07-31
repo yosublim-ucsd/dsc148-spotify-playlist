@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 97585,
+  "num_followers": 97639,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQyODMxOTc5Njc1MWQ0MzFjMzZkMWVjMDEzODcyZjllZGVjODcx",
+  "snapshot_id": "MCw4OTY3MjQxNTk2Mzk3NzVjMjA0YTBkYjE3MjA2MDJjZDk2NTkyZjI2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "L(oo)ping",
         "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 312653,
       "name": "Ghosts - Looping",
       "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Golden Hours, Pt. 1",
         "url": "https://open.spotify.com/album/5jZ6dWSjl1sY8WGlXvWcaa"
       },
@@ -383,6 +367,42 @@
       "duration_ms": 427200,
       "name": "[Time] Place",
       "url": "https://open.spotify.com/track/7y5KNFzUITQC3ObeFkf9cj"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Abu Simbel (Hania Rani Invalides Version)",
+        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 339082,
+      "name": "Abu Simbel - Hania Rani Invalides Version",
+      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -407,26 +427,6 @@
       "duration_ms": 215281,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - Levitation Mix",
       "url": "https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Abu Simbel (Hania Rani Invalides Version)",
-        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 339082,
-      "name": "Abu Simbel - Hania Rani Invalides Version",
-      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Reimagined. Volume 2, Chapter 3",
         "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 153120,
       "name": "Home",
       "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 235563,
+      "name": "G-Minor",
+      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/4p7hOvFyTVUe5h59jZmeYq"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 365892,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -703,6 +703,38 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        }
+      ],
+      "duration_ms": 365892,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/0Vpwr05jz86jMAIzMZ7BBE"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Music for Film and Theatre",
+        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 233148,
+      "name": "Soleil P\u00e2le",
+      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Apricity",
         "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
       },
@@ -739,6 +771,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Circle 23 (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/66rfRw6aDTgOeSTT8xfN6J"
       },
@@ -763,22 +811,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 235563,
-      "name": "G-Minor",
-      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "N\u00e9fos",
         "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
       },
@@ -791,38 +823,6 @@
       "duration_ms": 192000,
       "name": "N\u00e9fos",
       "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Thaw",
-        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
-      },
-      "artists": [
-        {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Thaw",
-      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Thaw",
+        "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Thaw",
+      "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
         "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 243431,
       "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
       "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Music for Film and Theatre",
-        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 233148,
-      "name": "Soleil P\u00e2le",
-      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        },
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 307840,
-      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
-      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Gabriel (Tom Player Strings Version)",
         "url": "https://open.spotify.com/album/3u59XcWfFkoPeZFDWbH0bc"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+        "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        },
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 307840,
+      "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
+      "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Caught a Black Rabbit - The Remixes",
-        "url": "https://open.spotify.com/album/4Tlq2ZWSjTMq5sWeRy438H"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        },
-        {
-          "name": "Turtle",
-          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
-        }
-      ],
-      "duration_ms": 293408,
-      "name": "Robin's Cello (Turtle Remix)",
-      "url": "https://open.spotify.com/track/1XLRc2YwqD348gKH0iHsNI"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Retour",
         "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 425440,
       "name": "Retour",
       "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Caught a Black Rabbit - The Remixes",
+        "url": "https://open.spotify.com/album/4Tlq2ZWSjTMq5sWeRy438H"
+      },
+      "artists": [
+        {
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
+        },
+        {
+          "name": "Turtle",
+          "url": "https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2"
+        }
+      ],
+      "duration_ms": 293408,
+      "name": "Robin's Cello (Turtle Remix)",
+      "url": "https://open.spotify.com/track/1XLRc2YwqD348gKH0iHsNI"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Step Step Step",
-        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
+        "name": "Sleepless Wake",
+        "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Aisha Burns",
-          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        },
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Jason Treuting",
-          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 241390,
-      "name": "Step Step Step",
-      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
+      "duration_ms": 222187,
+      "name": "Sleepless Wake",
+      "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
     }
   ],
   "unique_name": "Classical X",

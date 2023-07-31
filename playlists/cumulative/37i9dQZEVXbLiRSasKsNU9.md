@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,715 songs - 3 day 19 hr 28 min
+1,716 songs - 3 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 | 2022-10-11 | 2022-11-01 |
 | [EU JA SOFRI POR AMOR MAIS NÃO SOFR4 MAIS, AGORA O 212](https://open.spotify.com/track/6Gm15pOZt2qNlleuiR8B78) | [BR SILVA DO YTB](https://open.spotify.com/artist/48pwe1kE41BdvGKjrcpZm4) | [EU JA SOFRI POR AMOR MAIS NÃO SOFR4 MAIS, AGORA O 212](https://open.spotify.com/album/7pJVoPhvCNwIlnjwX82psr) | 1:51 | 2022-06-21 | 2022-06-26 |
 | [EU JÁ SOFRI POR AMOR MAS NÃO SOFRO MAIS](https://open.spotify.com/track/2sWWu68ZmobaPdwPsC4RXs) | [130 BPM](https://open.spotify.com/artist/7s8i1tsCjtErKt7d1jn0js), [130 BPN](https://open.spotify.com/artist/2SDKb8y7KxJ6aMLQ2thraY), [HIT CARIOCA](https://open.spotify.com/artist/3rsAVfmh0I2umrMmMgP4Yt) | [EU JÁ SOFRI POR AMOR MAS NÃO SOFRO MAIS](https://open.spotify.com/album/5YS88OklifkV7ULH1Qssrb) | 1:56 | 2022-06-07 | 2022-06-10 |
+| [Eu Não Previ \- Ao Vivo em Goiânia](https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ) | [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Traia Véia \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg) | 2:14 | 2023-07-30 |  |
 | [Eu Te Amo Tanto Iguinho](https://open.spotify.com/track/4CZ0TYScO38MfP7rPAjMuo) | [Piseiro original](https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 3:32 | 2022-11-19 | 2022-12-04 |
 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 | 2022-04-26 | 2022-05-29 |
 | [Evaluasi](https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 3:14 | 2022-09-21 | 2022-10-31 |
@@ -906,7 +907,7 @@
 | [Malvadão 3](https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Malvadão 3](https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl) | 2:21 | 2021-12-28 | 2022-02-02 |
 | [Mama ŠČ!](https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ) | [Let 3](https://open.spotify.com/artist/4gs82a9ZgG2faut653OMRD) | [Mama ŠČ!](https://open.spotify.com/album/2Z7f4V8Z7CcPPtPKXW6wbc) | 2:34 | 2023-05-14 | 2023-05-28 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-03-08 | 2022-03-23 |
-| [MAMTA'S INTERLUDE](https://open.spotify.com/track/32YA3PItSKjcNONrp1p4Y5) | [Gauntlet.](https://open.spotify.com/artist/01Co4R2CqEEwVgmbNMPei4), [NARCO](https://open.spotify.com/artist/6TK1aE29is2e4iYpRKk3oS) | [BHARIBHATTA BHOSAD](https://open.spotify.com/album/2CFgCG9Oo0NkhCnULcghid) | 2:13 | 2023-06-30 |  |
+| [MAMTA'S INTERLUDE](https://open.spotify.com/track/32YA3PItSKjcNONrp1p4Y5) | [Gauntlet.](https://open.spotify.com/artist/01Co4R2CqEEwVgmbNMPei4), [NARCO](https://open.spotify.com/artist/6TK1aE29is2e4iYpRKk3oS) | [BHARIBHATTA BHOSAD](https://open.spotify.com/album/2CFgCG9Oo0NkhCnULcghid) | 2:13 | 2023-06-30 | 2023-07-31 |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2022-09-08 | 2022-09-28 |
 | [Mandinka](https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 3:47 | 2023-07-28 |  |
 | [Mania De Você](https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 4:55 | 2023-05-11 | 2023-05-18 |

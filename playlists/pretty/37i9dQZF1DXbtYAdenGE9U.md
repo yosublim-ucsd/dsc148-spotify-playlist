@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,842 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,335 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 4 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
 | 5 | [Played\-A\-Live \(The Bongo Song\) \- Radio Edit](https://open.spotify.com/track/71cEGt2SrA5toSCCTVpLMU) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Played\-A\-Live \(The Bongo Song\)](https://open.spotify.com/album/1MxM3wvwaHMpSSCYovfgGN) | 3:20 |
 | 6 | [Silence \- DJ Tiësto's In Search Of Sunrise Edit](https://open.spotify.com/track/2jAjkmZIKwV5VOBiZ3qUUL) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [The Best Of](https://open.spotify.com/album/2YrnYkO6WGGx5e0UfNbGps) | 3:55 |
-| 7 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
+| 7 | [Nessaja](https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Encore \- Live And Direct](https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b) | 3:28 |
 | 8 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
-| 9 | [Nessaja](https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Encore \- Live And Direct](https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b) | 3:28 |
+| 9 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 |
 | 10 | [For An Angel \- PVD Angel In Heaven Radio Edit](https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [For An Angel](https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl) | 3:53 |
 | 11 | [Adagio For Strings \- Radio Edit](https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Magikal Journey \-The Hits Collection 1998 \- 2008](https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3) | 3:25 |
 | 12 | [God Is a DJ](https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Forever Faithless \- The Greatest Hits](https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL) | 3:28 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 40 | [Shivers](https://open.spotify.com/track/0pfJH3eRkM4t9wlg6LwuTU) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Armin Anthems Top 100 \(Ultimate Singles Collected\)](https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a) | 3:09 |
 | 41 | [Everytime \- Nalin & Kane Mix](https://open.spotify.com/track/1jxVRXHqJKPzyhDQBmT6vU) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [25 Years, Vol\. 3](https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV) | 4:09 |
 | 42 | [Café Del Mar \- Marco V Remix Radio Edit](https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:06 |
-| 43 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
-| 44 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
+| 43 | [Seven Cities \- Solarstone's Atlantis Mix](https://open.spotify.com/track/1Tz10EYl3RFRItgJU8bJWu) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90), [Andy Bury](https://open.spotify.com/artist/7eJRumzcr8tEQBi3JqyWjU) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 3:31 |
+| 44 | [Fire Wire \- Radio Edit](https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Fire Wire](https://open.spotify.com/album/0aotMmIvDysOzHXkCwkXbY) | 2:51 |
 | 45 | [Out Of The Blue](https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue \(Ilan Bluestone Remix\)](https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF) | 3:53 |
 | 46 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 |
 | 47 | [1998 \- Paul van Dyk Remix](https://open.spotify.com/track/1ZuCmG8sXSqgMzpnlOonPv) | [Binary Finary](https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [Trance Top 1000 \(Ibiza Anthems Mini Mix\)](https://open.spotify.com/album/3q2xAPNvEuLEyFGXFT6eGu) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 49 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
 | 50 | [We Control The Sunlight](https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Jwaydan](https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp) | [Armada Collected: Aly & Fila](https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1) | 3:46 |
 
-Snapshot ID: `MCw5YTk2NzQ5NmQ3NzdmZDc5ZWE0MjYwNWUyZjY5YWZiMDU2NTdmY2Zi`
+Snapshot ID: `MCxkNDVjNmFiODMwZGFmNGU4ZjQ5Yjc4ODIzZjZlNjY3NGM3ZWRmZDI4`

@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 186010,
+  "num_followers": 186305,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjhlNzc1OWIzNDAwNDI2OTNjNGY5MzYxNjkyZjUyZWVkMzJiMDM3",
+  "snapshot_id": "MCw2YzZhMTE2N2RlODYxYzQwOTk5NTU0YzAzOWIyYzdiNjNjYzJmZGEz",
   "tracks": [
     {
       "added_at": "2022-12-07 21:09:44",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Amor de Internet",
-        "url": "https://open.spotify.com/album/4EUUeYCNRYC0eTdlPKF7Rl"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Amor de Internet",
-      "url": "https://open.spotify.com/track/0tAxedQQR6bPR26BlfZ8d2"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Amor de Internet",
+        "url": "https://open.spotify.com/album/4EUUeYCNRYC0eTdlPKF7Rl"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "Amor de Internet",
+      "url": "https://open.spotify.com/track/0tAxedQQR6bPR26BlfZ8d2"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Qu\u00e9 Cante El Amor",
-        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Al Despertar",
-      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Separece A Ti",
         "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 248786,
       "name": "Se Parece M\u00e1s A Ti",
       "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Qu\u00e9 Cante El Amor",
+        "url": "https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Al Despertar",
+      "url": "https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "El Poder de la Cumbia",
-        "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual? Dinastia Pedraza",
-          "url": "https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "No Te Voy A Perdonar, Vol. 4",
-        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
+        "name": "El Poder de la Cumbia",
+        "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Grupo Kual? Dinastia Pedraza",
+          "url": "https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq"
         }
       ],
-      "duration_ms": 232609,
-      "name": "No Te Voy a Perdonar",
-      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -811,6 +795,22 @@
       "duration_ms": 162920,
       "name": "Como Agua en las Manos",
       "url": "https://open.spotify.com/track/2LoKCVvq23Zuh0kaKCLv6P"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "No Te Voy A Perdonar, Vol. 4",
+        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 232609,
+      "name": "No Te Voy a Perdonar",
+      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "El Santo Del Amor",
-      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 242242,
       "name": "Iluminar\u00e1",
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Carta De Recuerdo",
-      "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "17 Aniversario",
         "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 188943,
       "name": "Adolescente y Bonita",
       "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Carta De Recuerdo",
+      "url": "https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd"
     },
     {
       "added_at": "2022-12-07 21:09:44",

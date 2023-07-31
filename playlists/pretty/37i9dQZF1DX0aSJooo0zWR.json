@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 186295,
+  "num_followers": 186382,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
+  "snapshot_id": "MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Walk Cycle",
@@ -247,6 +231,22 @@
       "duration_ms": 192013,
       "name": "Walk Cycle",
       "url": "https://open.spotify.com/track/45pi4lJQlmehAEdkCdPzFB"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -281,30 +281,6 @@
       "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Layers",
-        "url": "https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97"
-      },
-      "artists": [
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Hadrien Feraud",
-          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
-        },
-        {
-          "name": "Morgan \u00c5gren",
-          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
-        }
-      ],
-      "duration_ms": 164622,
-      "name": "Layers",
-      "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Romantic Warrior",
@@ -335,6 +311,30 @@
       "duration_ms": 352466,
       "name": "Dolemite",
       "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/61HTeENwsrXkQywUJBoE97"
+      },
+      "artists": [
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        },
+        {
+          "name": "Morgan \u00c5gren",
+          "url": "https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE"
+        }
+      ],
+      "duration_ms": 164622,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "From The Top",
-        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        }
-      ],
-      "duration_ms": 281946,
-      "name": "From The Top",
-      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Wired",
@@ -447,6 +431,22 @@
       "duration_ms": 243000,
       "name": "Hard-Wired",
       "url": "https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "From The Top",
+        "url": "https://open.spotify.com/album/0qC7R7ctR01ERrSufbrSGU"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "duration_ms": 281946,
+      "name": "From The Top",
+      "url": "https://open.spotify.com/track/2JsRRVcFT8oTo2Ijfberc3"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/1Q9JmAOdnmamXLl9bR6VDz"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Opuntia",
-        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
-      },
-      "artists": [
-        {
-          "name": "Anika Nilles",
-          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
-    },
-    {
       "added_at": "2022-06-10 04:02:00",
       "album": {
         "name": "The Antidote Is in the Poison",
@@ -611,6 +595,22 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Opuntia",
+        "url": "https://open.spotify.com/album/5n7YoitQwsMfVGYXhy1EHi"
+      },
+      "artists": [
+        {
+          "name": "Anika Nilles",
+          "url": "https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Up and Down",
+      "url": "https://open.spotify.com/track/7iA7W8XQ649pA5sgMiSOtJ"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+        "name": "Visions of the Emerald Beyond",
+        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
       },
       "artists": [
         {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
         }
       ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
+      "duration_ms": 212560,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Visions of the Emerald Beyond",
-        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
       },
       "artists": [
         {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
         }
       ],
-      "duration_ms": 212560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1039,6 +1039,22 @@
       "duration_ms": 309800,
       "name": "Spacy Country",
       "url": "https://open.spotify.com/track/7oMfpYkcmKi3myvmaOWaff"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Shapeless",
+        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
+      },
+      "artists": [
+        {
+          "name": "St. Barbe",
+          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
+        }
+      ],
+      "duration_ms": 348733,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -1073,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Shapeless",
-        "url": "https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq"
-      },
-      "artists": [
-        {
-          "name": "St. Barbe",
-          "url": "https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v"
-        }
-      ],
-      "duration_ms": 348733,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
-    },
-    {
       "added_at": "2021-07-02 04:01:00",
       "album": {
         "name": "Space-Time",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/1uOhdNyN3TwlC16ZaKUmge"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Now You See It ... (Now You Don't)",
@@ -1151,6 +1135,22 @@
       "duration_ms": 326000,
       "name": "Escher Sketch (A Tale Of Two Rhythms)",
       "url": "https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/2w9QlilA4qcAt10ntA9RaJ"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Mondo Garaj",
-        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
-      },
-      "artists": [
-        {
-          "name": "Garaj Mahal",
-          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
-        }
-      ],
-      "duration_ms": 333413,
-      "name": "Mondo Garaj",
-      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
-    },
-    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1235,6 +1219,22 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Mondo Garaj",
+        "url": "https://open.spotify.com/album/0HRZUivY2ufjDXHxeXmFTs"
+      },
+      "artists": [
+        {
+          "name": "Garaj Mahal",
+          "url": "https://open.spotify.com/artist/1m99aAxdBoGdZ3FVWkOBcM"
+        }
+      ],
+      "duration_ms": 333413,
+      "name": "Mondo Garaj",
+      "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1269,6 +1269,22 @@
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
+    },
+    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "VHS Fireplace Love (Live)",
@@ -1291,22 +1307,6 @@
       "duration_ms": 164000,
       "name": "VHS Fireplace Love - Live",
       "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1357,6 +1357,26 @@
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
+      "added_at": "2022-04-08 04:02:00",
+      "album": {
+        "name": "Funkdombe - edit",
+        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
+      },
+      "artists": [
+        {
+          "name": "Hector Bingert",
+          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 230374,
+      "name": "Funkdombe - edit",
+      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
+    },
+    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1383,26 +1403,6 @@
       "duration_ms": 378489,
       "name": "Prophecy Extended",
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
-    },
-    {
-      "added_at": "2022-04-08 04:02:00",
-      "album": {
-        "name": "Funkdombe - edit",
-        "url": "https://open.spotify.com/album/283Munji1hx8ykXv5sY57R"
-      },
-      "artists": [
-        {
-          "name": "Hector Bingert",
-          "url": "https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 230374,
-      "name": "Funkdombe - edit",
-      "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
     },
     {
       "added_at": "2021-07-16 04:01:00",

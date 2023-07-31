@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6rIaHuCIUu32uj2CjlEBN3">Mike Dimes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,782,567 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,782,887 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 |
 | 100 | [DRACULA](https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DRACULA](https://open.spotify.com/album/0t6XelUenN8uSlGHLgarcr) | 2:58 |
 
-Snapshot ID: `MCwwOTdmZDY0ZmE3YjI5M2E0ZmFhZjk0ZWJiYjJkODIxMjZhODg2Mjlh`
+Snapshot ID: `MCwzMTFhZTFhODJiZGE1NzExYjVmYTk3NjBmOGNjZDE0NDFiNjdjNzU5`

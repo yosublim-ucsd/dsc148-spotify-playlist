@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,141 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 27 | [Meliton Tombe](https://open.spotify.com/track/7IDhSbqY5GIKgjKKjuXLkD) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:34 |
 | 28 | [Meli Ton Ton Be](https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:37 |
 | 29 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
-| 30 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 |
-| 31 | [Campo \(Land\) / Yo cantaré esta bomba \(I Will Sing this Bomba\)](https://open.spotify.com/track/3re4zafR80jdjih18UJYvF) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 7:34 |
+| 30 | [Campo \(Land\) / Yo cantaré esta bomba \(I Will Sing this Bomba\)](https://open.spotify.com/track/3re4zafR80jdjih18UJYvF) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 7:34 |
+| 31 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 |
 | 32 | [Medley: Mañana por la Mañana/Voy Subiendo](https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l) | [Gary Nuñez & Plena Libre](https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF) | [Regalo de Navidad](https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo) | 6:51 |
 | 33 | [Lamento Borincano](https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 6:23 |
 | 34 | [A La Buena Si](https://open.spotify.com/track/3BKuNccgeCFlAQ7KHljZ3V) | [Chamir Bonano](https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0) | [A La Buena Si](https://open.spotify.com/album/4uJmBA2GdFJExP1VUvTMUV) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Timba Timbo](https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA) | [Plena Adentro](https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg) | [Rompecabezas](https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp) | 3:08 |
 | 50 | [La Marejá de los Muertos](https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Opus IV](https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7) | 5:10 |
 
-Snapshot ID: `MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3`
+Snapshot ID: `MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl`

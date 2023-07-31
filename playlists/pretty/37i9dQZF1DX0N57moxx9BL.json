@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr?si=e5058065479e4f97\">Thousand Foot Krutch</a> and <a href=\"https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk?si=0da24d47e12746eb\">Adelitas Way</a>",
-  "num_followers": 129775,
+  "num_followers": 129906,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDE0MTUzYWQzYmFhMDJhZjUwZTYxOTkxZmQwYWExOWQwMDVhNDQ4",
+  "snapshot_id": "MCw0ZGQyY2E3OTkyYTQxZjVjOWM2OTE2Yjk3N2VhOGQ4YzIxMWY3MTM3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "By Faith",
-        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
-      },
-      "artists": [
-        {
-          "name": "7eventh Time Down",
-          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The Covering",
         "url": "https://open.spotify.com/album/7GwZOydAvSG27rpzjhAhZP"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 206288,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/655chF6VkcXtmErpzj0h0x"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "By Faith",
+        "url": "https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 186849,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Farewell to Midnight",
-        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
-      },
-      "artists": [
-        {
-          "name": "As We Ascend",
-          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
-        }
-      ],
-      "duration_ms": 214315,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "SILENCE THE WORLD",
         "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 382125,
       "name": "Chariots - Live",
       "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Farewell to Midnight",
+        "url": "https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH"
+      },
+      "artists": [
+        {
+          "name": "As We Ascend",
+          "url": "https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1"
+        }
+      ],
+      "duration_ms": 214315,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
-      },
-      "artists": [
-        {
-          "name": "Torndown",
-          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Salvation For 100%",
         "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 369191,
       "name": "Salvation For 100%",
       "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
+      },
+      "artists": [
+        {
+          "name": "Torndown",
+          "url": "https://open.spotify.com/artist/04xyr6U6aDe3a4F3xdwnKQ"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
-      },
-      "artists": [
-        {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
-        }
-      ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Pennell",
         "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 333370,
       "name": "Send Forth Laborers",
       "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+      },
+      "artists": [
+        {
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+        }
+      ],
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
-      },
-      "artists": [
-        {
-          "name": "XXI",
-          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Way You Love Me",
-      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Songs for the Late Night Drive Home",
         "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211360,
       "name": "Lower East Side",
       "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
+      },
+      "artists": [
+        {
+          "name": "XXI",
+          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Way You Love Me",
+      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
         "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-07-28 04:01:00",

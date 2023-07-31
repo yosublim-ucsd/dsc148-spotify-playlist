@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 45136,
+  "num_followers": 45169,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj",
+  "snapshot_id": "MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Languid Gongue",
-        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
-      },
-      "artists": [
-        {
-          "name": "Luke Sanger",
-          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Efflorescence",
-      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "North of Roswell",
         "url": "https://open.spotify.com/album/6oMdRYCpSDlDAhgkDAVxCw"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 154830,
       "name": "North of Roswell",
       "url": "https://open.spotify.com/track/0EQFIXppCNstgJ0P9PAPEt"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Languid Gongue",
+        "url": "https://open.spotify.com/album/3h6haEyUYaLtJeEKxLce2s"
+      },
+      "artists": [
+        {
+          "name": "Luke Sanger",
+          "url": "https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Efflorescence",
+      "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Circle 18",
+      "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "CHU / \u8655",
         "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
@@ -691,22 +711,6 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Together in Static",
-        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 155375,
-      "name": "Together in Static",
-      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -727,22 +731,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
+        "name": "Together in Static",
+        "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
       "artists": [
         {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Circle 18",
-      "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
+      "duration_ms": 155375,
+      "name": "Together in Static",
+      "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 268043,
       "name": "Tide Pools",
       "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Mirror Ensemble",
-        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
-      },
-      "artists": [
-        {
-          "name": "Brett Naucke",
-          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Rose Water",
-      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
         "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 192019,
       "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
       "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Mirror Ensemble",
+        "url": "https://open.spotify.com/album/23mBqaNaTe05zZM8oQXtag"
+      },
+      "artists": [
+        {
+          "name": "Brett Naucke",
+          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Rose Water",
+      "url": "https://open.spotify.com/track/6AEXBSliph7nngKCqahlV5"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Kosmic Headroom",
-        "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
+        "name": "Wrecked Exotic",
+        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
       },
       "artists": [
         {
-          "name": "Poulson Sq.",
-          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
+          "name": "John Roberts",
+          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
         }
       ],
-      "duration_ms": 253047,
-      "name": "Kosmic Headroom",
-      "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
+      "duration_ms": 290555,
+      "name": "Paravents",
+      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1099,18 +1099,34 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Wrecked Exotic",
-        "url": "https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz"
+        "name": "Kosmic Headroom",
+        "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
       "artists": [
         {
-          "name": "John Roberts",
-          "url": "https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6"
+          "name": "Poulson Sq.",
+          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
         }
       ],
-      "duration_ms": 290555,
-      "name": "Paravents",
-      "url": "https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy"
+      "duration_ms": 253047,
+      "name": "Kosmic Headroom",
+      "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1135,22 +1151,6 @@
       "duration_ms": 462088,
       "name": "Snow Ritual (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-03-10 00:01:00",

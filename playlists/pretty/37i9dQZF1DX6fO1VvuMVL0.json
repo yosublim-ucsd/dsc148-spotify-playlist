@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 56945,
+  "num_followers": 57005,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzIzNmUyZTJlYTYyMTE1ZWZmNzc5NjZlM2UwYzYwZGYwMGFiYzY5",
+  "snapshot_id": "MCxiYzE0Y2IxMjU0ZDIwMDlhNWY2NjlhMWM5N2FiYzVhMGQ4MjQ3NTAw",
   "tracks": [
     {
       "added_at": "2023-06-21 12:46:36",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-06-21 12:46:36",
       "album": {
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 429026,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
+    },
+    {
+      "added_at": "2023-06-21 12:46:36",
+      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 225160,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
-    },
-    {
-      "added_at": "2023-06-21 12:46:36",
-      "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
     },
     {
       "added_at": "2023-06-21 12:46:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-06-21 12:46:36",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Waltz Me Blues",
-      "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
-    },
-    {
-      "added_at": "2023-06-21 12:46:36",
-      "album": {
         "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 191906,
       "name": "Ergo - Remastered 2004",
       "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
+    },
+    {
+      "added_at": "2023-06-21 12:46:36",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Waltz Me Blues",
+      "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
     },
     {
       "added_at": "2023-06-21 12:46:36",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-06-21 12:46:36",
       "album": {
+        "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
+        "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 250472,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
+    },
+    {
+      "added_at": "2023-06-21 12:46:36",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 422266,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
-    },
-    {
-      "added_at": "2023-06-21 12:46:36",
-      "album": {
-        "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
-        "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 250472,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
     },
     {
       "added_at": "2023-06-21 12:46:36",

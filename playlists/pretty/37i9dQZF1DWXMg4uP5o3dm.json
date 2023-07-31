@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 454676,
+  "num_followers": 454808,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE1M2YwNTNkMzY3MzFiNmNmZTg2N2NhZWIwNTk5YTBlMWY0MDY0",
+  "snapshot_id": "MCxiNDRmNjEzYjhmOTMwYTVkMzdkMTcxOGI3YWRmMTJkYTU3NmQ5YTM3",
   "tracks": [
     {
       "added_at": "2023-07-27 22:18:39",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "Metamorph",
-        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
         "name": "AMERICAN HORROR SHOW",
         "url": "https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
+        "name": "Metamorph",
+        "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1719,26 +1719,18 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
-        "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
+        "name": "MERIDIAN",
+        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
       },
       "artists": [
         {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
         }
       ],
-      "duration_ms": 171587,
-      "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
-      "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
+      "duration_ms": 192773,
+      "name": "PUMP THE BREAK",
+      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1763,18 +1755,26 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "MERIDIAN",
-        "url": "https://open.spotify.com/album/4uH776h4uovgy3YYG1vbKC"
+        "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
+        "url": "https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK"
       },
       "artists": [
         {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
         }
       ],
-      "duration_ms": 192773,
-      "name": "PUMP THE BREAK",
-      "url": "https://open.spotify.com/track/7baoqD2YuFgFTqdBwf72PC"
+      "duration_ms": 171587,
+      "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
+      "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
     },
     {
       "added_at": "2023-07-27 22:18:39",

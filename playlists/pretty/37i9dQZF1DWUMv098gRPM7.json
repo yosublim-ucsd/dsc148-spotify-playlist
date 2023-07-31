@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Idman",
-  "num_followers": 5607,
+  "num_followers": 5631,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRmZmU4OWYxYWMyMjgxZjhiMzY2NDM1MjMxMjczNDJiMmRjZDBm",
+  "snapshot_id": "MCw3ZmIzZTU4ZWQ3OGEyZWJkZWI0MDc4MzdkYjk4NGIyOThmZjVkZjA3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -959,22 +959,6 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Touch You",
-        "url": "https://open.spotify.com/album/2swjItgL58UFVWaX7fp4Mn"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 158737,
-      "name": "Touch You",
-      "url": "https://open.spotify.com/track/0wb4yG8GfIbDKAe2SPAy53"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9"
+      },
+      "artists": [
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "duration_ms": 180874,
+      "name": "Love Shit",
+      "url": "https://open.spotify.com/track/0L2qoVdYFANCKydaeuqDHU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Candydrip",
         "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/6ImHqlbLXfWhPdP2l2toA9"
-      },
-      "artists": [
-        {
-          "name": "LU KALA",
-          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
-        }
-      ],
-      "duration_ms": 180874,
-      "name": "Love Shit",
-      "url": "https://open.spotify.com/track/0L2qoVdYFANCKydaeuqDHU"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "When Flowers Bloom",
         "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
       },
@@ -1347,6 +1331,26 @@
       "duration_ms": 199770,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Dangerous (Deluxe)",
+        "url": "https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 196949,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/58uTw3T5gfAMvvQuNhJPJH"
     }
   ],
   "unique_name": "R&B Rewind",

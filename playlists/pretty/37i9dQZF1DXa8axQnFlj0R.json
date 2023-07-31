@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 68908,
+  "num_followers": 68906,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0",
+  "snapshot_id": "MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 200755,
-      "name": "Autumn Leaves - Deluxe Edition",
-      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 212373,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 200755,
+      "name": "Autumn Leaves - Deluxe Edition",
+      "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
         "name": "Without Fear (The Complete Edition)",
         "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1159,22 +1175,6 @@
       "duration_ms": 226582,
       "name": "Unfortunate Love",
       "url": "https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1299,22 +1299,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
         }
       ],
-      "duration_ms": 147229,
-      "name": "It\u2019s Your Own Body And Mind",
-      "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
       "artists": [
         {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+      "duration_ms": 147229,
+      "name": "It\u2019s Your Own Body And Mind",
+      "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Midnight Sun (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
-      },
-      "artists": [
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        }
-      ],
-      "duration_ms": 193905,
-      "name": "Midnight Sun - Acoustic Version",
-      "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Seastroke",
         "url": "https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 275528,
       "name": "Seastroke",
       "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Midnight Sun (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
+      },
+      "artists": [
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        }
+      ],
+      "duration_ms": 193905,
+      "name": "Midnight Sun - Acoustic Version",
+      "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Our Day",
-        "url": "https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp"
+        "name": "Love You Twice",
+        "url": "https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5"
       },
       "artists": [
         {
-          "name": "Cooza",
-          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+          "name": "Lilla Vargen",
+          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
         }
       ],
-      "duration_ms": 123374,
-      "name": "I Can See New Zealand From Here",
-      "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
+      "duration_ms": 204736,
+      "name": "Love You Twice",
+      "url": "https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Love You Twice",
-        "url": "https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5"
-      },
-      "artists": [
-        {
-          "name": "Lilla Vargen",
-          "url": "https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j"
-        }
-      ],
-      "duration_ms": 204736,
-      "name": "Love You Twice",
-      "url": "https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 236800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Our Day",
+        "url": "https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp"
+      },
+      "artists": [
+        {
+          "name": "Cooza",
+          "url": "https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V"
+        }
+      ],
+      "duration_ms": 123374,
+      "name": "I Can See New Zealand From Here",
+      "url": "https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh"
     },
     {
       "added_at": "2022-12-02 19:02:37",

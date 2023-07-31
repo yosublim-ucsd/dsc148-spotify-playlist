@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 212784,
+  "num_followers": 212899,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
+  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Leon Ware",
-        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
-      },
-      "artists": [
-        {
-          "name": "Leon Ware",
-          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Why I Came to California",
-      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Leon Ware",
+        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
+      },
+      "artists": [
+        {
+          "name": "Leon Ware",
+          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Why I Came to California",
+      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "What A Woman Needs",
-        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Your Sweet Lovin'",
-      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Love Has Come Around - Finest Moments",
         "url": "https://open.spotify.com/album/7BFPbUysgfYdNs0Zs9CqI1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 400000,
       "name": "I Can't Get Along Without You",
       "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "What A Woman Needs",
+        "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
+      },
+      "artists": [
+        {
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Your Sweet Lovin'",
+      "url": "https://open.spotify.com/track/5jcEF54JEAlhlDH9b5H0d6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "You're a Melody",
-        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
-      },
-      "artists": [
-        {
-          "name": "Aged In Harmony",
-          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
-        }
-      ],
-      "duration_ms": 259415,
-      "name": "You're a Melody - Extended Disco Version",
-      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Kiss Me Again",
         "url": "https://open.spotify.com/album/1jDWFLM7HsGgVc4gh3ePbK"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 278000,
       "name": "Stop Your Life - Original Album",
       "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "You're a Melody",
+        "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
+      },
+      "artists": [
+        {
+          "name": "Aged In Harmony",
+          "url": "https://open.spotify.com/artist/5hABGCgIH57T4NTNpp0gCL"
+        }
+      ],
+      "duration_ms": 259415,
+      "name": "You're a Melody - Extended Disco Version",
+      "url": "https://open.spotify.com/track/0BnavfaSvNQXxg5sBfxTxX"
     },
     {
       "added_at": "2022-09-05 16:54:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,496 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,535 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 |
 | 50 | [Living On Video \(All Tonight\)](https://open.spotify.com/track/3Jd898Z6fG2rooLiBA3gIc) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Pakito](https://open.spotify.com/artist/4FHn7iPrkpqsUTwRSxfX4l), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Living On Video \(All Tonight\)](https://open.spotify.com/album/6sAxhPAaJeMHeN69mlCMhB) | 2:36 |
 
-Snapshot ID: `MCxkNjkxYTZmZmQ0OTU0YTMwNTBhOTk0MTI1M2FhODUwOGIzYzBjMDZl`
+Snapshot ID: `MCw0MjZmMDkyNjk5Yjc5NzNmMGUxMDNjZjc3MzAzYzRiMjAzNjA5Zjhj`

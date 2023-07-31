@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Post Malone, Carly Rae Jepsen, Grimes & Illangelo and Roy Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,605 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,624 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [FALLEN ANGEL](https://open.spotify.com/track/4ST0Joh8wzuYOUv8xWA9Ns) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [CHAPTER II: FALLEN](https://open.spotify.com/album/7rQ8wz62RAV7SDxsCgAxxt) | 3:39 |
 | 100 | [Didn't Say](https://open.spotify.com/track/1N8TRZPLLeWakoc1T1SGYt) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Didn't Say](https://open.spotify.com/album/6CHakQh4FSomvAr2j5MiRV) | 3:26 |
 
-Snapshot ID: `MCwyZmU5ZGQxN2NkODA0M2VhZThlYmFkYjQyOTVkODAyMTQwN2MyYmNk`
+Snapshot ID: `MCwyOGRiOTFkMWVkNDNlYzhkZTIwODgyN2EyZjllZWRiMTMxMzg5MDE2`

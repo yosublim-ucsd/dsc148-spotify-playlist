@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 64931,
+  "num_followers": 64947,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNkYmM5Zjg4ZDI1Y2NiMjZiOGVhOTBhZDZhOTY1MjcyZWZjNjFm",
+  "snapshot_id": "MCw5YzQzNGFlNzNjMTliZWIzNzkwYTIwOGY0MjZjYTM4ZmQ5MWNlY2Jm",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 204726,
-      "name": "My My My!",
-      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Whispering Jack",
         "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 300733,
       "name": "You're the Voice",
       "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 204726,
+      "name": "My My My!",
+      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/1JCCdiru7fhstOIF4N7WJC"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Blue Neighbourhood (Deluxe)",
-        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 185194,
-      "name": "YOUTH",
-      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/1JCCdiru7fhstOIF4N7WJC"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -615,6 +599,22 @@
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Blue Neighbourhood (Deluxe)",
+        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 185194,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Footprints",
-        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
-      },
-      "artists": [
-        {
-          "name": "Holly Valance",
-          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Kiss Kiss",
-      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "In The Summertime",
         "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Reprisal",
-        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+        "name": "Footprints",
+        "url": "https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "Holly Valance",
+          "url": "https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E"
         }
       ],
-      "duration_ms": 226350,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+      "duration_ms": 204400,
+      "name": "Kiss Kiss",
+      "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1111,6 +1095,22 @@
       "duration_ms": 313053,
       "name": "Two Shoes",
       "url": "https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Reprisal",
+        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 226350,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Ivy & The Big Apples",
-        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
       "artists": [
         {
-          "name": "Spiderbait",
-          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
         }
       ],
-      "duration_ms": 111293,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
+      "duration_ms": 227360,
+      "name": "Pressure Down",
+      "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
     }
   ],
   "unique_name": "Aussie Pop Classics",

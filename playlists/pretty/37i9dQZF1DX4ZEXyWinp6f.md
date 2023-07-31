@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,385 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,497 likes - 75 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 18 | [Childhood Dream](https://open.spotify.com/track/0hjlsV7bnM7HLPuIoaMfkm) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [The Signal](https://open.spotify.com/album/6mopwrOq8X9v9xSTZ8ExlH) | 4:09 |
 | 19 | [Elena's Sound\-World](https://open.spotify.com/track/7gpa2umN5eZhM40DOB3L0z) | [Sinoia Caves](https://open.spotify.com/artist/3PiClMYSnMYHCc2T11m9cd) | [Beyond The Black Rainbow \- Original Soundtrack](https://open.spotify.com/album/5cbwOeQ5ScNqV942hoet9P) | 5:10 |
 | 20 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 |
-| 21 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
-| 22 | [Spacelab \- 2009 Remaster](https://open.spotify.com/track/48Q7pVDuBivnR5rdf6RGYT) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 5:57 |
+| 21 | [Spacelab \- 2009 Remaster](https://open.spotify.com/track/48Q7pVDuBivnR5rdf6RGYT) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 5:57 |
+| 22 | [Lone Machine](https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Erased Dreams](https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv) | 3:36 |
 | 23 | [1969](https://open.spotify.com/track/7qWHLT10dDsu8fCJZFkL5y) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 4:20 |
 | 24 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 |
 | 25 | [Tales of the Future](https://open.spotify.com/track/21aDHnHXtZqnxqLaD0chkG) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 4:46 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 52 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
 | 53 | [12121](https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Biologica, Volume One \(Water\)](https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq) | 2:36 |
 | 54 | [Detroit People Mover](https://open.spotify.com/track/2g8v1yWbbFM6Gb7FLyJrgu) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/0dPj5xfT7jv9XxRhPbfGuH) | 4:26 |
-| 55 | [Los Angeles](https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 2:55 |
-| 56 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
+| 55 | [Phaedra \- Remastered 2018](https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 17:39 |
+| 56 | [Los Angeles](https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 2:55 |
 | 57 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
 | 58 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
 | 59 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 72 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 |
 | 73 | [Floe \(Remix\) \- Specially Mixed for Your Personal Cassette Player](https://open.spotify.com/track/4dcXDL3703XHNYdqbOxY1U) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Philip Glass Ensemble](https://open.spotify.com/artist/3d8ZNJ7en7Rf9cnI9U8gbp), [Michael Riesman](https://open.spotify.com/artist/1KPzLZHZrqvYILcVTEMCP1) | [Glassworks \- Specially Mixed for Your Personal Cassette Player](https://open.spotify.com/album/0AyAlM9IKZuvgADNBS3JJD) | 6:00 |
 | 74 | [Human By Mistake](https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt) | [Human By Mistake](https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF) | 6:55 |
-| 75 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 |
+| 75 | [Into the Aether](https://open.spotify.com/track/4lsf0XeoCZ6prJ87TwibO2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 4:55 |
 
-Snapshot ID: `MCwzZTRiY2UxMWI4NGU4ZDVjYTVkYzIxYWM4M2E5Y2QwMzcwMjJhYWJk`
+Snapshot ID: `MCw2OThkMmUyYzQ3OTJiZjhiOTAzZmQ4NzIzNGVmNDA4ZGViOWZmOGUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,044 likes - 175 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,224 likes - 175 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 175 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCwzOTdiMjI0OWFiYTI5OTkwM2U0Mjc5YzdmZjQ0MDgyNmMwMTYxNzkx`
+Snapshot ID: `MCxlZTcxMDNkYjQ4YmQ3YzM3ZmUyZDVkNDVjZGNiNmRkMDc3NGU3OTA5`

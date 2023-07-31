@@ -566,7 +566,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 262293,
       "name": "Celosa",
       "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
@@ -2194,6 +2194,28 @@
       "duration_ms": 178251,
       "name": "Me da igual",
       "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
+    },
+    {
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121674,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
     },
     {
       "album": {

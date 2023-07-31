@@ -4,7 +4,7 @@
 
 > Dale play, y que la cumbia no pare.
 
-146 songs - 8 hr 54 min
+147 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Loco Perdido](https://open.spotify.com/track/5bb10YUAPAOlSWCEEQw5Lk) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Loco Perdido](https://open.spotify.com/album/6AhzF12Pr3A6h39TPAB2j3) | 3:17 | 2022-04-15 | 2022-07-01 |
 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 | 2022-04-15 |  |
 | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI) | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U) | 3:18 | 2022-04-15 | 2022-07-08 |
-| [Maravillosa Esta Noche](https://open.spotify.com/track/0nPObGwq8ryJ0ZLEdY6Qg8) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Por Siempre](https://open.spotify.com/album/0kAkyYhZo4S3nJXxtkvall) | 4:02 | 2022-04-15 |  |
+| [Maravillosa Esta Noche](https://open.spotify.com/track/0nPObGwq8ryJ0ZLEdY6Qg8) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Por Siempre](https://open.spotify.com/album/0kAkyYhZo4S3nJXxtkvall) | 4:02 | 2022-04-15 | 2023-07-31 |
 | [Me Estoy Enamorando](https://open.spotify.com/track/2BD4H5q5BOlmXKCkpzyHUL) | [Dario](https://open.spotify.com/artist/6iJvAWH4UMSp4f8rpuJlHd) | [El Baile del Recuerdo](https://open.spotify.com/album/4MHDvgTWwwr0UbFjgDttJB) | 3:52 | 2022-04-15 | 2022-07-10 |
 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 | 2022-04-15 |  |
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2022-07-22 |  |
@@ -105,6 +105,7 @@
 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 | 2022-04-15 |  |
 | [Quiero Saber Que Es el Amor](https://open.spotify.com/track/0L5J93aHRj1cVRUYmKJYU0) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Quiero Saber Que Es el Amor](https://open.spotify.com/album/76KxeAXCfbDErjxJ5WjgVK) | 3:48 | 2022-04-15 | 2022-07-09 |
 | [Quiero Verte Bailar](https://open.spotify.com/track/19SPpzI7l7Aovt7AnoHqTw) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Quiero Verte Bailar](https://open.spotify.com/album/4ceIQJuUkphs5HfrQh9O63) | 3:07 | 2022-04-15 |  |
+| [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 | 2023-07-28 |  |
 | [Ritmo Sabroson](https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:12 | 2022-04-15 | 2023-06-17 |
 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 | 2023-03-10 |  |
 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 | 2022-04-15 | 2023-03-12 |

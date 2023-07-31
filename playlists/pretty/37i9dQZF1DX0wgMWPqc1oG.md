@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,597 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,613 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 63 | [Love Song \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 8:24 |
 | 64 | [Bartók: Thumb Under](https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8) | [Lee Konitz Quintet](https://open.spotify.com/artist/58qZcMEA6JYKQ1QHtBUkz2) | [Peacemeal](https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh) | 3:14 |
 | 65 | [Siete Ocho \- Remastered 2003 / Rudy Van Gelder Edition](https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Judgment \(Remastered 2003 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f) | 8:58 |
-| 66 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
-| 67 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
+| 66 | [Three\-Four vs\. Six\-Eight Four\-Four Ways](https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali](https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX) | 5:40 |
+| 67 | [Vertigo \- Remastered](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
 | 68 | [Little Madimba \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/2wNf0aQZ5ZpDLqvNyO8CI0) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Time For Tyner \(2005 Remastered/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p) | 8:32 |
 | 69 | [Components \- Remastered 1994](https://open.spotify.com/track/11RdQ7zGzEfRuXcZW5sb1Y) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 6:25 |
 | 70 | [French Spice \- Remaster 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1Mg3SMOgU9XFyrEdIIgjSk) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Free Form \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/490Ui9cZvDXuv9bRf5mdB4) | 8:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCw5YzM2ZjM5NzA3Y2VkZThjMmI0ZDljMTgzYTJiYWZhNjVmZDY4YjVk`
+Snapshot ID: `MCw4NjhjNTc3ZTgyN2Y5MjRkYzc2NDIwN2E2OWJkMmJhZWVmMDhjZjJk`

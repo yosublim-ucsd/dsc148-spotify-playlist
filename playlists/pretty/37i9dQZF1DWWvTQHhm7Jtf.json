@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 15777,
+  "num_followers": 15801,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
+  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -503,6 +503,26 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Between No Things",
+        "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
+      },
+      "artists": [
+        {
+          "name": "Suso Saiz",
+          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
+        },
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 235717,
+      "name": "On Plateau",
+      "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -527,22 +547,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
-      },
-      "artists": [
-        {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
-        }
-      ],
-      "duration_ms": 369765,
-      "name": "Nexus On The Beach",
-      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -559,22 +563,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Between No Things",
-        "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
       "artists": [
         {
-          "name": "Suso Saiz",
-          "url": "https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh"
-        },
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
         }
       ],
-      "duration_ms": 235717,
-      "name": "On Plateau",
-      "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
+      "duration_ms": 369765,
+      "name": "Nexus On The Beach",
+      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -593,20 +593,20 @@
       "url": "https://open.spotify.com/track/2Wu0k9sazKppf4ihMI1Vfh"
     },
     {
-      "added_at": "2022-12-20 22:19:56",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "SUNDAYS",
+        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
         }
       ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+      "duration_ms": 294000,
+      "name": "I've Got What I Need",
+      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -625,20 +625,20 @@
       "url": "https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2022-12-20 22:19:56",
       "album": {
-        "name": "SUNDAYS",
-        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
       "artists": [
         {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
         }
       ],
-      "duration_ms": 294000,
-      "name": "I've Got What I Need",
-      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 316214,
-      "name": "Agua Azul",
-      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
-    },
-    {
       "added_at": "2022-02-12 01:31:39",
       "album": {
         "name": "Sequences",
@@ -815,18 +799,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
       "artists": [
         {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
         }
       ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
+      "duration_ms": 316214,
+      "name": "Agua Azul",
+      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
     },
     {
       "added_at": "2021-11-12 02:58:17",
@@ -843,6 +827,22 @@
       "duration_ms": 231760,
       "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
       "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+      },
+      "artists": [
+        {
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+        }
+      ],
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/5hGQQu04tYHWt0zzDpYA1D"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
-      },
-      "artists": [
-        {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
-        }
-      ],
-      "duration_ms": 230309,
-      "name": "Two Halves Touching",
-      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
-    },
-    {
       "added_at": "2022-09-21 02:21:27",
       "album": {
         "name": "Waypoints",
@@ -975,6 +959,22 @@
       "duration_ms": 278533,
       "name": "Virgin Ice",
       "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 230309,
+      "name": "Two Halves Touching",
+      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2022-01-11 00:30:53",
@@ -1043,22 +1043,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Rio Nilo 66",
-        "url": "https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz"
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
       },
       "artists": [
         {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Ethan Braun",
-          "url": "https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi"
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
         }
       ],
-      "duration_ms": 491371,
-      "name": "1/2 SCULPTURE",
-      "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
+      "duration_ms": 487715,
+      "name": "Aurobindo",
+      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
     },
     {
       "added_at": "2022-02-16 01:53:19",
@@ -1083,22 +1079,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 487715,
-      "name": "Aurobindo",
-      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Whisper Fold Brush",
         "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 1190161,
       "name": "Whisper Fold Brush, Pt. One",
       "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Rio Nilo 66",
+        "url": "https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz"
+      },
+      "artists": [
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Ethan Braun",
+          "url": "https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi"
+        }
+      ],
+      "duration_ms": 491371,
+      "name": "1/2 SCULPTURE",
+      "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
     },
     {
       "added_at": "2021-10-20 18:30:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,556 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,551 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 28 | [Santa Tell Me](https://open.spotify.com/track/1axYNHZnGmk4CsoPZWsNNY) | [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [An Electronic Christmas](https://open.spotify.com/album/1O9x3r0VqEdu05RL9xFPoc) | 2:05 |
 | 29 | [Jingle Bells X Deck the Halls](https://open.spotify.com/track/4w1maTceOzURZYKqDzninf) | [Khalil Ramos](https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU), [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Jingle Bells X Deck the Halls](https://open.spotify.com/album/25UjFOoZbJOx0jg1QWXg8n) | 2:37 |
 | 30 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 |
-| 31 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
+| 31 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
 | 32 | [Carnival \- Xmas Edition](https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [A Very Decent Christmas 4](https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g) | 3:19 |
-| 33 | [Whim](https://open.spotify.com/track/4ygRwQ51TwtULzMfSBeWLQ) | [Ghost of Christmas](https://open.spotify.com/artist/7Akv2Ot7bWY2ZtJSlLevfD) | [The Difference](https://open.spotify.com/album/57zA28ulk816vLFjPrihMF) | 3:38 |
+| 33 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
 | 34 | [Jingle Bass \- VIP](https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ) | [ARIUS](https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE), [Born I](https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM) | [Jingle Bass \(VIP\)](https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2) | 2:55 |
 | 35 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 |
 | 36 | [I've Got My Love To Keep Me Warm \- Somni Remix](https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [I've Got My Love To Keep Me Warm \(Somni Remix\)](https://open.spotify.com/album/6VnBYqwkSLjmIXlHMjyd4N) | 2:36 |
 | 37 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 
-Snapshot ID: `MCw3ZDNlZDYwN2U1MzBmODgxZjVjYTkwNjViZDBhOTIyZDRmMDYyOWQw`
+Snapshot ID: `MCw3YWNhYTQwM2NmNjFlYmVjODY4Yjg4ZDM1YmFkMTIyYzBmYmM2NDNi`

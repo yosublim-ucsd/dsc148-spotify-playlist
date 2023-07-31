@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 233197,
+  "num_followers": 233230,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjM0Zjg3NDc4NTQ5OTg2OTM4NjQ4MTU0NzJkNmEyOTE0OTQ3ZmMz",
+  "snapshot_id": "MCwwMjE4OGUwNWUwMDkzNDE4YzkzMmY3YzMyMDJhOTU3NGY1YzUxOWVj",
   "tracks": [
     {
       "added_at": "2023-06-01 22:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "Victims & Villains",
-        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 230136,
-      "name": "white rice d\u00e9j\u00e0 vu",
-      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/39D2GatZ2RuT6BGln1tNK1"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 157800,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/78crxkAaQ38xBYs4uM5Xkz"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "Victims & Villains",
+        "url": "https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 230136,
+      "name": "white rice d\u00e9j\u00e0 vu",
+      "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "On Lock",
-        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 161677,
-      "name": "On Lock",
-      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 151676,
       "name": "Simp",
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
+        "name": "On Lock",
+        "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 161677,
+      "name": "On Lock",
+      "url": "https://open.spotify.com/track/75fxE44yD87YmT2n68gkw2"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Spoon & Bang",
+      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Open (Remix)",
         "url": "https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "SASSY (Deluxe)",
-        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Spoon & Bang",
-      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
+        "name": "WHO HURT YOU? (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 183575,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK"
+    },
+    {
+      "added_at": "2023-06-01 22:01:00",
+      "album": {
         "name": "Ginger Me",
         "url": "https://open.spotify.com/album/1FjkFEI5TuOmX4UDADlFXp"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 166189,
       "name": "Ginger Me",
       "url": "https://open.spotify.com/track/6ihWzjaRWNX9NAHnCzkD4S"
-    },
-    {
-      "added_at": "2023-06-01 22:01:00",
-      "album": {
-        "name": "WHO HURT YOU? (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 183575,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK"
     },
     {
       "added_at": "2023-06-01 22:01:00",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-06-01 22:01:00",
       "album": {
-        "name": "FTU",
-        "url": "https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu"
+        "name": "WOMAN",
+        "url": "https://open.spotify.com/album/7eS3314VnVZQ3ZMNFCjZ92"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Avenue Beat",
+          "url": "https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc"
         }
       ],
-      "duration_ms": 144692,
-      "name": "FTU",
-      "url": "https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA"
+      "duration_ms": 164166,
+      "name": "WOMAN",
+      "url": "https://open.spotify.com/track/63yD1pa1Ux5Ug4tIi6ygdv"
     }
   ],
   "unique_name": "R&B Magic",

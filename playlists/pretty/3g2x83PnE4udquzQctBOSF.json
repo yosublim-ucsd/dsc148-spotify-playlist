@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2271,
+  "num_followers": 2276,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzQ4NCw3ZjQxMTIzNzZmYjQ1OTNiZjRhYTA5YThmMGYzYjc3NzliYTliN2Rk",
+  "snapshot_id": "MzUwOSw4MDBlZTFmYjBiNGEzOGNjZDMzMjE1YmY3YWI0NzVkNjBjOTE5OTAw",
   "tracks": [
     {
       "added_at": "2023-06-30 04:57:30",
@@ -23,6 +23,78 @@
       "duration_ms": 185570,
       "name": "Calling Through The Fire",
       "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
+    },
+    {
+      "added_at": "2023-07-30 13:17:26",
+      "album": {
+        "name": "Snogo",
+        "url": "https://open.spotify.com/album/5ycaiG74PVEjmvgfKP5It4"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        },
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        }
+      ],
+      "duration_ms": 240654,
+      "name": "Snogo",
+      "url": "https://open.spotify.com/track/1k4KObZOwAg4Xld5At9hiV"
+    },
+    {
+      "added_at": "2023-07-30 13:17:33",
+      "album": {
+        "name": "The Treble",
+        "url": "https://open.spotify.com/album/0iHPUixpramB60NDP56aar"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "The Treble",
+      "url": "https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5"
+    },
+    {
+      "added_at": "2023-07-30 13:17:29",
+      "album": {
+        "name": "In The Air",
+        "url": "https://open.spotify.com/album/4JHdM4BYdqOJGGw12t1bzX"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "In The Air",
+      "url": "https://open.spotify.com/track/1d6drNGnLw63kP9Bm8aQtz"
+    },
+    {
+      "added_at": "2023-05-12 16:24:04",
+      "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 182659,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
       "added_at": "2023-07-16 07:33:01",
@@ -61,6 +133,30 @@
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
     },
     {
+      "added_at": "2023-07-30 13:17:20",
+      "album": {
+        "name": "Stop Time",
+        "url": "https://open.spotify.com/album/2R0m33i4wSKTVCJAysYNT4"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 193075,
+      "name": "Stop Time",
+      "url": "https://open.spotify.com/track/4ulSZ1XjQ9mKnybMF987AZ"
+    },
+    {
       "added_at": "2023-07-16 07:32:56",
       "album": {
         "name": "Fine Night",
@@ -77,10 +173,10 @@
       "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
-      "added_at": "2023-05-12 16:24:04",
+      "added_at": "2023-03-17 19:24:07",
       "album": {
-        "name": "Trees",
-        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
       },
       "artists": [
         {
@@ -88,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
         }
       ],
-      "duration_ms": 182659,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
+      "duration_ms": 197416,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
       "added_at": "2023-07-02 14:39:27",
@@ -125,26 +221,6 @@
       "url": "https://open.spotify.com/track/2DOZrh6r6QwGdtSyWqje6a"
     },
     {
-      "added_at": "2023-07-02 14:39:17",
-      "album": {
-        "name": "Rave Grave",
-        "url": "https://open.spotify.com/album/5h4wJIZVn43IZVTJxMsete"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 207460,
-      "name": "The Biznes",
-      "url": "https://open.spotify.com/track/5DCSFGxrLMYYio1NKPNEO6"
-    },
-    {
       "added_at": "2023-07-16 07:32:13",
       "album": {
         "name": "Perreo",
@@ -159,38 +235,6 @@
       "duration_ms": 161250,
       "name": "Perreo",
       "url": "https://open.spotify.com/track/0B5wxpAcOlXYvvPyC4L933"
-    },
-    {
-      "added_at": "2023-03-17 19:24:07",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 197416,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
-    },
-    {
-      "added_at": "2023-07-02 14:39:14",
-      "album": {
-        "name": "Mr. Lover",
-        "url": "https://open.spotify.com/album/4MmqnLXzJ3M8mPZPhHc2VS"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        }
-      ],
-      "duration_ms": 218139,
-      "name": "Mr. Lover",
-      "url": "https://open.spotify.com/track/5I062SYRoWdD5RAvLPwAJY"
     },
     {
       "added_at": "2023-07-16 07:33:06",
@@ -213,46 +257,6 @@
       "url": "https://open.spotify.com/track/6OjuhFJWcKpvy9VsCSS0vV"
     },
     {
-      "added_at": "2023-07-16 07:32:58",
-      "album": {
-        "name": "Frikitona",
-        "url": "https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh"
-    },
-    {
-      "added_at": "2023-07-02 14:39:44",
-      "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/1PwT4vLwRrpzOcJlnogRSf"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Curtiba",
-          "url": "https://open.spotify.com/artist/1ZwpPFrrag8lUXAHwNxyY3"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 152351,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/4X4N9Oqw4BMOzZubKscOF1"
-    },
-    {
       "added_at": "2023-02-10 17:30:44",
       "album": {
         "name": "Ready Or Not",
@@ -267,6 +271,22 @@
       "duration_ms": 189196,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
+      "added_at": "2023-07-16 07:32:58",
+      "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh"
     },
     {
       "added_at": "2023-07-16 07:33:13",
@@ -289,22 +309,6 @@
       "url": "https://open.spotify.com/track/3LWs50IQtW4qamQvXH0NPw"
     },
     {
-      "added_at": "2023-07-02 14:39:20",
-      "album": {
-        "name": "STUPID",
-        "url": "https://open.spotify.com/album/3TeajY9TawyGrr0r3Gfvwg"
-      },
-      "artists": [
-        {
-          "name": "Detlef",
-          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
-        }
-      ],
-      "duration_ms": 327173,
-      "name": "STUPID",
-      "url": "https://open.spotify.com/track/3yW4OUmhCGjgj7hb11hMMP"
-    },
-    {
       "added_at": "2023-07-16 07:31:54",
       "album": {
         "name": "Como?",
@@ -321,24 +325,20 @@
       "url": "https://open.spotify.com/track/1zEsqQNC0KrX8cxdBuuTyg"
     },
     {
-      "added_at": "2023-07-02 14:38:21",
+      "added_at": "2023-07-30 13:17:24",
       "album": {
-        "name": "Bigger Than Prince (Classmatic Remixes)",
-        "url": "https://open.spotify.com/album/0vX688Q6D6Bo547Y5H1B3W"
+        "name": "Love For You / Koppa",
+        "url": "https://open.spotify.com/album/2C6oFZng8cTk70w1lewtDL"
       },
       "artists": [
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+          "name": "Yungness & Jaminn",
+          "url": "https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR"
         }
       ],
-      "duration_ms": 415748,
-      "name": "Bigger Than Prince - Classmatic Remix",
-      "url": "https://open.spotify.com/track/488VEVK9VNBdsK75fAwjZE"
+      "duration_ms": 384000,
+      "name": "Koppa",
+      "url": "https://open.spotify.com/track/74YBPuKegpCE0Z8XZ6voiS"
     },
     {
       "added_at": "2023-01-20 06:39:56",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/5NVvOLD77ShDwUYRaRtRbX"
     },
     {
-      "added_at": "2023-07-02 14:39:34",
-      "album": {
-        "name": "Body Close",
-        "url": "https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH"
-      },
-      "artists": [
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 219169,
-      "name": "Body Close",
-      "url": "https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH"
-    },
-    {
       "added_at": "2023-07-16 07:32:35",
       "album": {
         "name": "Express Yourself (Mochakk Remix)",
@@ -437,22 +421,6 @@
       "url": "https://open.spotify.com/track/2WNj9pcYFpYuG4jxQ5vrwT"
     },
     {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
       "added_at": "2023-07-16 07:30:32",
       "album": {
         "name": "Reload",
@@ -473,6 +441,22 @@
       "url": "https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg"
     },
     {
+      "added_at": "2022-09-30 05:47:41",
+      "album": {
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
+    },
+    {
       "added_at": "2023-07-02 14:38:18",
       "album": {
         "name": "F\u00fcr Nimmer",
@@ -487,6 +471,26 @@
       "duration_ms": 199708,
       "name": "F\u00fcr Nimmer",
       "url": "https://open.spotify.com/track/73GKSqqeuhZgNweb48vqPl"
+    },
+    {
+      "added_at": "2023-07-30 13:18:27",
+      "album": {
+        "name": "Reissues 008",
+        "url": "https://open.spotify.com/album/3f6xSKFe6CqKvjYI9lYJeE"
+      },
+      "artists": [
+        {
+          "name": "RN ISMO",
+          "url": "https://open.spotify.com/artist/4aZFo0GamLTTIBmMTrde0m"
+        },
+        {
+          "name": "Cami Jones",
+          "url": "https://open.spotify.com/artist/1sW1zoUjNUrcs9eX7n2yE3"
+        }
+      ],
+      "duration_ms": 332459,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/1xjDEE29tMo5Vwn4DQf9hh"
     },
     {
       "added_at": "2023-07-16 07:32:41",

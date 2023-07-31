@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,878 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,886 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 69 | [Hương Tình Yêu](https://open.spotify.com/track/1ie16BdlU6DPT3rKjIYskG) | [Dâu Tây](https://open.spotify.com/artist/6nZiSrlrBjy8d3nfRDO1wp), [DXY](https://open.spotify.com/artist/0JkfirEBER65Ny2jL0540c) | [Hương Tình Yêu](https://open.spotify.com/album/2hd31pCXFROrst58vY8dyX) | 3:39 |
 | 70 | [Chân Ái Có Còn Không](https://open.spotify.com/track/3s0YC7XbG6mBLIBvG1YEli) | [Ella Mia](https://open.spotify.com/artist/28XyLxwHxob5leILgkHPEN) | [Chân Ái Có Còn Không](https://open.spotify.com/album/4cRSMt12H6jwV7MhElsXOC) | 3:55 |
 | 71 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
-| 72 | [Con tim bít iu](https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI) | [NhiiT](https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk), [mơ](https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [Con tim bít iu](https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT) | 2:57 |
+| 72 | [Con tim bít iu](https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI) | [NhiiT](https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk), [Mỡ](https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [Con tim bít iu](https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT) | 2:57 |
 | 73 | [245](https://open.spotify.com/track/4AZHGHvEbOOUe3lpA4t8Ko) | [NP.2](https://open.spotify.com/artist/0FqdaYWdo1r4esDdZ4wA8n) | [245](https://open.spotify.com/album/3RD9kn96OvrvM6GEls35xF) | 2:46 |
 | 74 | [Chỉ Cần Anh Thôi](https://open.spotify.com/track/3iY19II7byM0UoOXXHuJ5P) | [Ngọc Quý](https://open.spotify.com/artist/2leSEcXuVkmEvnKPN6gfIz), [Huyền Cadie](https://open.spotify.com/artist/0xUFCc4mMXQg69vZqXUWN2), [Silly Fox](https://open.spotify.com/artist/7peoP1HPAUnl3bKI15iOVw) | [Chỉ Cần Anh Thôi](https://open.spotify.com/album/5wO5hfnTzJt204PeG101PI) | 4:04 |
 | 75 | [Sau Những Lần Đau \- Remake](https://open.spotify.com/track/6DXlafxUhuXiRZah0yDP6t) | [Dũng](https://open.spotify.com/artist/7MmYt8AEBM64SmtswuUUEH), [fhung](https://open.spotify.com/artist/4YShTTdbTtAijqfto0IBWG) | [Sau Những Lần Đau \(Remake\)](https://open.spotify.com/album/58RkQJVMwNKPmBtUYXhd80) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [One Slot](https://open.spotify.com/track/7HpdvZd4AQ02baoSVMk1ch) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a) | [One Slot](https://open.spotify.com/album/0A6esndtWXcTcpmlZioSXD) | 3:01 |
 | 100 | [EASY](https://open.spotify.com/track/1OpUIvfCInZYXf6K4sjCAS) | [DXSE](https://open.spotify.com/artist/0Sh636g3SpwGfv9WwgY040) | [EASY](https://open.spotify.com/album/3ePJT2MfLOW0AjPtm7lkXP) | 3:13 |
 
-Snapshot ID: `MCwyZTc5ZDZiY2UyZjM2OTQ4YjFkNWQ3MWU4MTMwYjg1YWM1YjY0MjJk`
+Snapshot ID: `MCxlMzNjMDI4ZmU0YTZmZGViNTAxMjViMzVhNDBlOGNlZThkNjcxYzkz`

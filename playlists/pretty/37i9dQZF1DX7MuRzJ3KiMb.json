@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 54022,
+  "num_followers": 54071,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWY4NzRiZWVhZWNiMTA2Nzg1Yjk1MDI2ODg1NTIyZmU0MjIwNmIz",
+  "snapshot_id": "MCwwZDZjZDY2NjA4YzczNmVjZGIyMmU0MTFjNmIxZDI1ZjZkYTg5YjMz",
   "tracks": [
     {
       "added_at": "2023-06-22 20:49:18",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "ULYSE",
         "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Ni Modo",
         "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "capturas de pantalla",
-        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 206053,
-      "name": "capturas de pantalla",
-      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
+      "duration_ms": 190006,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+        "name": "capturas de pantalla",
+        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+      "duration_ms": 206053,
+      "name": "capturas de pantalla",
+      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
     },
     {
       "added_at": "2023-06-22 20:49:18",

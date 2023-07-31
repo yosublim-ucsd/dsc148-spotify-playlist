@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 45959,
+  "num_followers": 45962,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWM3YjA4ZTIzYmE5NzA1NmFkNWVhODI3NTdmODVmYzU5MWQ3MWZi",
+  "snapshot_id": "MCwzMTY1MDc1ODI5ODg1OTgxMjVhNjYyMTgyNDY1NWQzMzQ4MDY2NTRl",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "You Don't Own Me Anymore",
         "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 223586,
       "name": "Kathy's Song",
       "url": "https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Can You Afford To Lose Me?",
         "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 133773,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Higher Places",
-        "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "The Only Thing I Fear",
-      "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 210206,
+      "name": "The Only Thing I Fear",
+      "url": "https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "I Only See the Moon",
-        "url": "https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6"
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
         }
       ],
-      "duration_ms": 177573,
-      "name": "I Only See the Moon",
-      "url": "https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp"
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
     }
   ],
   "unique_name": "night light ",

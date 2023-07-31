@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 46317,
+  "num_followers": 46347,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTkzZGFkMDhmMjhkNDA4NmQ1MTM1YjZmZDhmZGQyY2UwZGUzZGQx",
+  "snapshot_id": "MCxiN2YyMzI5MzRkMjljODZlNmJhMTA1YWI4NjM5MjJhYzRjZGRlNDk4",
   "tracks": [
     {
       "added_at": "2023-07-14 13:29:55",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-07-14 13:29:55",
       "album": {
+        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
+      },
+      "artists": [
+        {
+          "name": "Laith Abu Joda",
+          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
+        }
+      ],
+      "duration_ms": 178912,
+      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
+    },
+    {
+      "added_at": "2023-07-14 13:29:55",
+      "album": {
         "name": "A3MEL ESH",
         "url": "https://open.spotify.com/album/2asPtwQJwsCs2LP0HQQgJP"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 96000,
       "name": "A3MEL ESH",
       "url": "https://open.spotify.com/track/3W2aWHlWIo373Npwv8TGEm"
-    },
-    {
-      "added_at": "2023-07-14 13:29:55",
-      "album": {
-        "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/3KVMPfIaR2QTJIguyhdnxh"
-      },
-      "artists": [
-        {
-          "name": "Laith Abu Joda",
-          "url": "https://open.spotify.com/artist/409IHz2Yvi1kdUmrjein3m"
-        }
-      ],
-      "duration_ms": 178912,
-      "name": "\u0644\u0627 \u062a\u063a\u0645\u0632\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/3XknoC28vtiUyutxsG9ul6"
     },
     {
       "added_at": "2023-07-14 13:29:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-07-14 13:29:55",
       "album": {
-        "name": "Dabke System",
-        "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
-      },
-      "artists": [
-        {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
-        }
-      ],
-      "duration_ms": 342784,
-      "name": "Dabke System",
-      "url": "https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy"
-    },
-    {
-      "added_at": "2023-07-14 13:29:55",
-      "album": {
         "name": "Mariam",
         "url": "https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 235000,
       "name": "Mariam",
       "url": "https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd"
+    },
+    {
+      "added_at": "2023-07-14 13:29:55",
+      "album": {
+        "name": "Dabke System",
+        "url": "https://open.spotify.com/album/0WKmc7uvbK5VlKFTZ1bJ7G"
+      },
+      "artists": [
+        {
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+        }
+      ],
+      "duration_ms": 342784,
+      "name": "Dabke System",
+      "url": "https://open.spotify.com/track/6pA25Qz9Pbvb90I6j0MRYy"
     },
     {
       "added_at": "2023-07-14 13:29:55",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-07-14 13:29:55",
       "album": {
-        "name": "Mo Light",
-        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
+        "name": "Le meilleur, vol.1",
+        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
       },
       "artists": [
         {
-          "name": "47SOUL",
-          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
+          "name": "Nass El Ghiwane",
+          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
         }
       ],
-      "duration_ms": 285773,
-      "name": "Mo Light",
-      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
+      "duration_ms": 383333,
+      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
+      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
     },
     {
       "added_at": "2023-07-14 13:29:55",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-07-14 13:29:55",
       "album": {
-        "name": "Le meilleur, vol.1",
-        "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
+        "name": "Mo Light",
+        "url": "https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E"
       },
       "artists": [
         {
-          "name": "Nass El Ghiwane",
-          "url": "https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL"
+          "name": "47SOUL",
+          "url": "https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge"
         }
       ],
-      "duration_ms": 383333,
-      "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
-      "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
+      "duration_ms": 285773,
+      "name": "Mo Light",
+      "url": "https://open.spotify.com/track/4ELE971aOY79OV4263w8h3"
     },
     {
       "added_at": "2023-07-14 13:29:55",

@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 183449,
+  "num_followers": 183523,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDBkNTZjNmY1YmUyZGJiOGM2ZTI4NjY1OWE2Njg1NzEwZjM1ODVj",
+  "snapshot_id": "MCw0MDhlMmVkM2JlNmM4ZmYwYmFmNzMyM2VmMTNjZDE3NTNjOWIyMjA5",
   "tracks": [
     {
       "added_at": "2021-10-20 17:59:21",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
+    },
+    {
       "added_at": "2023-04-15 00:12:52",
       "album": {
         "name": "sunrise mtn",
@@ -451,22 +467,6 @@
       "duration_ms": 151714,
       "name": "sunrise mtn",
       "url": "https://open.spotify.com/track/39fB9kG8siVbe6cOOtVliL"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -613,30 +613,6 @@
       "url": "https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8"
     },
     {
-      "added_at": "2023-05-16 04:54:42",
-      "album": {
-        "name": "OFFAIR: from the forest floor",
-        "url": "https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0"
-      },
-      "artists": [
-        {
-          "name": "Jenny Owen Youngs",
-          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
-        },
-        {
-          "name": "John Mark Nelson",
-          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
-        },
-        {
-          "name": "Hrishikesh Hirway",
-          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
-        }
-      ],
-      "duration_ms": 182528,
-      "name": "ambrosia",
-      "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
-    },
-    {
       "added_at": "2022-02-23 18:07:47",
       "album": {
         "name": "Marginalia III",
@@ -683,6 +659,30 @@
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2023-05-16 04:54:42",
+      "album": {
+        "name": "OFFAIR: from the forest floor",
+        "url": "https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        },
+        {
+          "name": "Hrishikesh Hirway",
+          "url": "https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf"
+        }
+      ],
+      "duration_ms": 182528,
+      "name": "ambrosia",
+      "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
     },
     {
       "added_at": "2021-12-07 05:45:16",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Late Spring",
-        "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Breaking Dawn",
-      "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Six Songs for Invisible Gardens",
         "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 264787,
       "name": "Sansevieria",
       "url": "https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Late Spring",
+        "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Breaking Dawn",
+      "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
     },
     {
       "added_at": "2022-02-18 05:44:57",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/15sBxSySsqOVSSknoW2lGX"
     },
     {
-      "added_at": "2023-01-04 01:25:52",
-      "album": {
-        "name": "Maracuy\u00e1",
-        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
-      },
-      "artists": [
-        {
-          "name": "Hermanito",
-          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maracuy\u00e1",
-      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Wake Up Calls",
@@ -999,6 +983,22 @@
       "duration_ms": 145226,
       "name": "Cuckoo",
       "url": "https://open.spotify.com/track/1Dryf1pXEIEsKC2Q8Z2FAT"
+    },
+    {
+      "added_at": "2023-01-04 01:25:52",
+      "album": {
+        "name": "Maracuy\u00e1",
+        "url": "https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi"
+      },
+      "artists": [
+        {
+          "name": "Hermanito",
+          "url": "https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maracuy\u00e1",
+      "url": "https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Cicada Waves",
-        "url": "https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6"
-      },
-      "artists": [
-        {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
-        }
-      ],
-      "duration_ms": 402266,
-      "name": "Fog Rolls Out Rabun Gap",
-      "url": "https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "The Box Tree",
         "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "4T Recordings",
-        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
+        "name": "Cicada Waves",
+        "url": "https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
         }
       ],
-      "duration_ms": 197249,
-      "name": "4T Recordings",
-      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
+      "duration_ms": 402266,
+      "name": "Fog Rolls Out Rabun Gap",
+      "url": "https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv"
     },
     {
       "added_at": "2022-03-30 02:54:54",
@@ -1105,52 +1089,20 @@
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
     },
     {
-      "added_at": "2022-11-09 01:04:49",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Gal\u00e1pagos (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A"
+        "name": "4T Recordings",
+        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
       },
       "artists": [
         {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 138773,
-      "name": "Seals",
-      "url": "https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Pantano Lontano",
-        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
-      },
-      "artists": [
-        {
-          "name": "Nodes",
-          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
-        }
-      ],
-      "duration_ms": 341621,
-      "name": "Sin\u00fa",
-      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+      "duration_ms": 197249,
+      "name": "4T Recordings",
+      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1171,6 +1123,54 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "Pantano Lontano",
+        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
+      },
+      "artists": [
+        {
+          "name": "Nodes",
+          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
+        }
+      ],
+      "duration_ms": 341621,
+      "name": "Sin\u00fa",
+      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Gal\u00e1pagos (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Seals",
+      "url": "https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4"
+    },
+    {
+      "added_at": "2022-11-09 01:04:49",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 187058,
       "name": "Gyroscope",
       "url": "https://open.spotify.com/track/2dziNfL0S9awABp30vNN08"
-    },
-    {
-      "added_at": "2022-09-15 12:29:37",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 225822,
-      "name": "to all the plants i loved",
-      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
       "added_at": "2022-01-12 18:38:07",
@@ -1221,20 +1205,20 @@
       "url": "https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
+      "added_at": "2022-09-15 12:29:37",
       "album": {
-        "name": "Music for Growing Plants",
-        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
       },
       "artists": [
         {
-          "name": "Christopher Stracey",
-          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
         }
       ],
-      "duration_ms": 364133,
-      "name": "Beginning, Becoming",
-      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
+      "duration_ms": 225822,
+      "name": "to all the plants i loved",
+      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1251,6 +1235,22 @@
       "duration_ms": 163000,
       "name": "Perennial Bloom",
       "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Music for Growing Plants",
+        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
+      },
+      "artists": [
+        {
+          "name": "Christopher Stracey",
+          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
+        }
+      ],
+      "duration_ms": 364133,
+      "name": "Beginning, Becoming",
+      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Tantra Loom",
-        "url": "https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa"
-      },
-      "artists": [
-        {
-          "name": "Advaitas",
-          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
-        }
-      ],
-      "duration_ms": 227700,
-      "name": "Tantra Loom",
-      "url": "https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -1333,24 +1317,20 @@
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
     },
     {
-      "added_at": "2023-01-06 21:07:36",
+      "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "sol",
-        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+        "name": "Tantra Loom",
+        "url": "https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Advaitas",
+          "url": "https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8"
         }
       ],
-      "duration_ms": 119649,
-      "name": "sol",
-      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
+      "duration_ms": 227700,
+      "name": "Tantra Loom",
+      "url": "https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw"
     },
     {
       "added_at": "2022-05-18 01:37:47",
@@ -1387,6 +1367,26 @@
       "duration_ms": 592013,
       "name": "Morning Dancing",
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
+    },
+    {
+      "added_at": "2023-01-06 21:07:36",
+      "album": {
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 119649,
+      "name": "sol",
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt"
     },
     {
-      "added_at": "2023-05-24 00:55:55",
-      "album": {
-        "name": "Chipinque",
-        "url": "https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM"
-      },
-      "artists": [
-        {
-          "name": "Tiempo Fuera",
-          "url": "https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z"
-        }
-      ],
-      "duration_ms": 194705,
-      "name": "Chipinque",
-      "url": "https://open.spotify.com/track/2nY28xLbU220DiDAc3177k"
-    },
-    {
       "added_at": "2022-01-11 00:18:40",
       "album": {
         "name": "Good Places",
@@ -1483,6 +1467,22 @@
       "duration_ms": 266526,
       "name": "Good Places",
       "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2023-05-24 00:55:55",
+      "album": {
+        "name": "Chipinque",
+        "url": "https://open.spotify.com/album/1C66AJuEWFwkg2MB9JnkjM"
+      },
+      "artists": [
+        {
+          "name": "Tiempo Fuera",
+          "url": "https://open.spotify.com/artist/3tsfuCKw78MCVfLoKHUn4Z"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "Chipinque",
+      "url": "https://open.spotify.com/track/2nY28xLbU220DiDAc3177k"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2022-04-09 03:30:53",
-      "album": {
-        "name": "Comfort",
-        "url": "https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2"
-      },
-      "artists": [
-        {
-          "name": "Seaspray",
-          "url": "https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO"
-        }
-      ],
-      "duration_ms": 144349,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Greenhouse",
@@ -1547,6 +1531,22 @@
       "duration_ms": 104560,
       "name": "Sunflower, Raise Your Heavy Head and Face the Sun!",
       "url": "https://open.spotify.com/track/2mXwSbqPRfmiG2KcM81Y1j"
+    },
+    {
+      "added_at": "2022-04-09 03:30:53",
+      "album": {
+        "name": "Comfort",
+        "url": "https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2"
+      },
+      "artists": [
+        {
+          "name": "Seaspray",
+          "url": "https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO"
+        }
+      ],
+      "duration_ms": 144349,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 195136,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2023-03-03 04:12:58",

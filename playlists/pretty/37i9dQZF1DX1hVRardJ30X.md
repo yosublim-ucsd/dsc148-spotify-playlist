@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Blessd & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,587 likes - 61 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,836 likes - 61 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 29 | [Wacha Checa](https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Wacha Checa](https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY) | 3:37 |
 | 30 | [traición](https://open.spotify.com/track/0VGmiApaRPcTcNndzAm1Zz) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [traición](https://open.spotify.com/album/6lWIQTxzfL8MQXGtDhbmSz) | 2:45 |
 | 31 | [hookah envenena](https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [hookah envenena](https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z) | 2:50 |
-| 32 | [PA PA PA](https://open.spotify.com/track/5wuub0qkR7iGjOLkZe4Uod) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [PA PA PA](https://open.spotify.com/album/3Zx74y6FI8qjbUa2qWRDbB) | 3:43 |
+| 32 | [PA PA PA](https://open.spotify.com/track/5wuub0qkR7iGjOLkZe4Uod) | [Matt Paris](https://open.spotify.com/artist/1w1EFjTCiwLWRZMQwyJU1H), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [PA PA PA](https://open.spotify.com/album/3Zx74y6FI8qjbUa2qWRDbB) | 3:43 |
 | 33 | [Polvos Corridos](https://open.spotify.com/track/4WUdZlahqz9F0nGh4P9Wss) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [GOTA, Vol\. 1](https://open.spotify.com/album/5dYvZFWKM3J74yzCSD9oBb) | 3:00 |
 | 34 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
 | 35 | [Me Quieres Cuando No Estas Bien](https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Me Quieres Cuando No Estas Bien](https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw) | 3:17 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 60 | [A.S.D.A.](https://open.spotify.com/track/1VbcjQ14V7ORdYGKOyuzS7) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [A.S.D.A.](https://open.spotify.com/album/2QKZ1oNbiQUzBYxvtggJBX) | 2:53 |
 | 61 | [I <3 NY](https://open.spotify.com/track/0BEFvYzuO6DMUYXWk9cUAi) | [Leisley](https://open.spotify.com/artist/5aRtrcGhtNrjVmmGihilvt) | [I <3 NY](https://open.spotify.com/album/4K8IgmWP9f6R217sHOjuB7) | 3:46 |
 
-Snapshot ID: `MCxjYjdiMDdiNWQ2ZWFmNTc2ODdiZWU2MWIxZjVlY2E5NWI5OTdlYzAw`
+Snapshot ID: `MCxkOTZiNTNlODVkYzE0YWFmN2YyMzRlNjJhNzg4YjQ4ZDkwY2YzZDkz`

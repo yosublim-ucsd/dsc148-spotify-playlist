@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Maikel Delacalle
 
-319 songs - 16 hr 49 min
+320 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Aquí Sigo](https://open.spotify.com/track/03SfiKlwlCXmYRVHdXSA4C) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/1StQn8B5i4LVkAR0gJdRm9) | 2:38 | 2023-06-09 | 2023-07-20 |
 | [Aquí Sigo](https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Aquí Sigo](https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX) | 2:38 | 2023-07-14 |  |
 | [Arrocito Frito](https://open.spotify.com/track/68BjkLhM0Sb0wGDd6w5jKU) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Arrocito Frito](https://open.spotify.com/album/5gAB1Cq1VVlQ7TzztBCG3T) | 3:01 | 2022-02-11 | 2022-09-07 |
-| [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 |  |
+| [ASMR](https://open.spotify.com/track/3d6GBK3VlzhluJrFUNlrEi) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [ASMR](https://open.spotify.com/album/1tc2XAQZqkW9wvUTe6H6En) | 3:01 | 2023-05-12 | 2023-07-31 |
 | [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 | 2023-06-30 |  |
 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 | 2023-05-12 |  |
 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 | 2023-01-20 | 2023-05-15 |
@@ -72,6 +72,7 @@
 | [Como Amigos](https://open.spotify.com/track/2uXS7NcBChNJZTIjHjlgjV) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Mi Monopolio](https://open.spotify.com/album/21HvaqyP2K8nQZdgGicqMh) | 3:50 | 2023-03-10 |  |
 | [Como Amigos](https://open.spotify.com/track/3ymNNjeQsobL39vXi6KmK6) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Como Amigos](https://open.spotify.com/album/2RxpDHtD9R3VYCGdxDiNdU) | 3:50 | 2023-02-24 | 2023-03-23 |
 | [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 | 2023-05-12 |  |
+| [Completa](https://open.spotify.com/track/56UwPuOsLHYgb0c04tNY3h) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Emi Muñiz](https://open.spotify.com/artist/19NZ579epNEbAxEuUlDUUj) | [Completa](https://open.spotify.com/album/6UeQLxvjp6AqO6whrw5Lyc) | 3:21 | 2023-07-28 |  |
 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 | 2022-02-11 | 2022-09-07 |
 | [Confusión](https://open.spotify.com/track/1fSkREDvtJw4pGkudpJzEF) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Confusión](https://open.spotify.com/album/3TXITNl8PYjxLY6MYGpg61) | 3:51 | 2022-02-11 | 2022-07-29 |
 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 | 2022-02-11 | 2023-05-13 |

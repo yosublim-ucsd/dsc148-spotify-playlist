@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 44193,
+  "num_followers": 44323,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2JjNzMwNzU1MjRiNzc2OTJlN2JhOTExMWZiMTUwMzE0NjdjYThi",
+  "snapshot_id": "MCwwNzg5MzFhMjhjMTUxZmMwMzI0MTE5ZjAxMTNjN2EyOTU2ZjFiNjBk",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -595,22 +595,18 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Turning Away",
-        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
       },
       "artists": [
         {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
         }
       ],
-      "duration_ms": 244543,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+      "duration_ms": 244672,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -631,18 +627,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ"
+        "name": "Turning Away",
+        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
       },
       "artists": [
         {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
         }
       ],
-      "duration_ms": 244672,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
+      "duration_ms": 244543,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Yesterday Is Heavy",
+        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "To Feel Again / Trois",
         "url": "https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 293489,
       "name": "To Feel Again / Trois",
       "url": "https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Yesterday Is Heavy",
-        "url": "https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 189422,
-      "name": "To The Floor",
-      "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
     },
     {
       "added_at": "2022-11-30 13:46:00",

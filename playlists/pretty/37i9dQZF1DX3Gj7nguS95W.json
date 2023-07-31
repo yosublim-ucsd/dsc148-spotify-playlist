@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 840277,
+  "num_followers": 840482,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGU0MjYzYzc4NmQ4MjY5ZTI4MjVkNjY0Mzk5YTMyZDAzNzFkMGMy",
+  "snapshot_id": "MCw4ODY0MWY1MjljMGIzMTk1ZTdhZTM4YmFkNGQ2MjM5MTcwODAyODA4",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -299,18 +299,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
         }
       ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+      "duration_ms": 173320,
+      "name": "Town Called Malice",
+      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -347,18 +347,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG"
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
       "artists": [
         {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 173320,
-      "name": "Town Called Malice",
-      "url": "https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k"
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2020-01-14 21:16:41",

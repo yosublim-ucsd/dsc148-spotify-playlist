@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Azules",
+        "url": "https://open.spotify.com/album/2cvVW3I0Wub3ppZQ59UlXE"
+      },
+      "artists": [
+        {
+          "name": "Marta Luque",
+          "url": "https://open.spotify.com/artist/5p986xumU59cCDxFAfmqbv"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102855,
+      "name": "Azules",
+      "url": "https://open.spotify.com/track/5ZWpidWRGBeMCtL5k5mRwc"
+    },
+    {
+      "album": {
         "name": "Worldwide Remixes",
         "url": "https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO"
       },
@@ -8974,7 +8992,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 203370,
       "name": "Conversations",
       "url": "https://open.spotify.com/track/5x4f2ks5tp9nt7Jg34LRtI"
@@ -16062,7 +16080,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 186871,
       "name": "Getting Easier",
       "url": "https://open.spotify.com/track/11nBEAAfc6pPEx6V8Ktabw"
@@ -34187,6 +34205,24 @@
     },
     {
       "album": {
+        "name": "RGT",
+        "url": "https://open.spotify.com/album/2kkm0zTtc2xDa7kJjx9Y3n"
+      },
+      "artists": [
+        {
+          "name": "RiViGi",
+          "url": "https://open.spotify.com/artist/7hFivlSa04N5OKeTlKS4Ck"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "RGT",
+      "url": "https://open.spotify.com/track/5a6OuYsZsNdynbsRMyrENl"
+    },
+    {
+      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -37017,6 +37053,24 @@
     },
     {
       "album": {
+        "name": "Snorkel",
+        "url": "https://open.spotify.com/album/0kKoiw4VwS76k0iQDGDhvd"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/471tKsyg8QSWGj8DKb8wWx"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174985,
+      "name": "Snorkel",
+      "url": "https://open.spotify.com/track/2WxLRzVS5Pn6YZEGV4gRF9"
+    },
+    {
+      "album": {
         "name": "Snow Dusted Ponies",
         "url": "https://open.spotify.com/album/0kmMERaQsMUjp7Xd9khdCw"
       },
@@ -39304,6 +39358,24 @@
       "duration_ms": 149285,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/4hMAmrOnKl0VGe8U8CEGWC"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/3uIyzUlILU3kveRlSMQaa7"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/6Y8juDB68XHwCICKckhelj"
     },
     {
       "album": {

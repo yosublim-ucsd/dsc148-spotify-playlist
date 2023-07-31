@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Mitski
 
-1,022 songs - 2 day 10 hr 4 min
+1,024 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Another Day](https://open.spotify.com/track/1kOE8llMtBmwvPOh7eFBQy) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/7GZtz7PZ16q4fNci27FIVG) | 2:49 | 2023-07-28 |  |
 | [Ant Pile](https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Ant Pile](https://open.spotify.com/album/0SBIuYBUOdwBL5yZ1DXpl4) | 2:06 | 2023-05-26 |  |
 | [Anthem for Loners](https://open.spotify.com/track/1MvN8yG10reo5t32BdEThU) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [Anthem for Loners](https://open.spotify.com/album/0mhuQxb185EDaIyU9LDEkE) | 2:52 | 2023-03-23 | 2023-05-19 |
-| [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-06-29 |  |
+| [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 | 2023-06-29 | 2023-07-31 |
 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 | 2023-03-08 | 2023-03-25 |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-24 | 2022-05-10 |
 | [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 | 2022-08-04 | 2022-10-12 |
@@ -92,7 +92,7 @@
 | [Be Somebody \(feat\. Tkay Maidza\)](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody \(feat\. Tkay Maidza\)](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 | 2023-04-13 |  |
 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 | 2021-12-28 | 2022-03-11 |
 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-08 | 2022-12-09 |
-| [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-05-11 |  |
+| [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 | 2023-05-11 | 2023-07-31 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-02-03 | 2022-04-08 |
 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 | 2023-03-02 | 2023-03-31 |
 | [Believe \- Triple J Like A Version](https://open.spotify.com/track/4inJjInWq5Y0YYvLCWUIrg) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(Triple J Like A Version\)](https://open.spotify.com/album/03T183KnaZWUhDr2X6GxeY) | 3:17 | 2023-07-19 |  |
@@ -134,7 +134,7 @@
 | [Brinner](https://open.spotify.com/track/53eThdE4SviUNz3CeIw7QM) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m) | [Breakfast for Dinner](https://open.spotify.com/album/6tCvXIIA6A6zmdtmCq1fiD) | 3:43 | 2022-10-11 | 2022-11-18 |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-03 | 2022-04-01 |
 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 | 2023-05-04 | 2023-05-19 |
-| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 |  |
+| [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-27 | 2023-07-31 |
 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-29 | 2022-11-02 |
 | [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2022-10-27 | 2022-11-25 |
 | [Bull Breed](https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb) | 2:52 | 2022-07-28 | 2022-08-12 |
@@ -419,6 +419,7 @@
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2022-12-01 | 2023-01-27 |
 | [High Fidelity](https://open.spotify.com/track/6Fp3Zh7rCRiICGnPWVcCUk) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [High Fidelity](https://open.spotify.com/album/5ck0FDIBSpWzOgnEvSv6Uk) | 3:30 | 2021-12-28 | 2022-02-11 |
 | [High Rise](https://open.spotify.com/track/0jz3gUtyvKDcNKDZRjy0eS) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:30 | 2022-03-03 | 2022-05-13 |
+| [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 | 2023-07-31 |  |
 | [Highlight](https://open.spotify.com/track/5FMwi15wu4jDg48lzOtU6j) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Highlight](https://open.spotify.com/album/6rqyzABnm2XOj7MT1sfgMG) | 2:33 | 2022-08-05 | 2022-09-23 |
 | [Hold](https://open.spotify.com/track/6gHSghdESsKPS80t5DDYxb) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:05 | 2023-04-13 | 2023-05-26 |
 | [Hold On](https://open.spotify.com/track/0lLBVkeTuZVfZRUC6MFfRf) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Hold On](https://open.spotify.com/album/2HUFjJZI8gE43IxF3i5i9S) | 3:15 | 2022-01-13 | 2022-03-18 |
@@ -733,6 +734,7 @@
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-06 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-11 | 2022-12-02 |
 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 | 2023-06-01 |  |
+| [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-07-31 |  |
 | [Razor Teeth](https://open.spotify.com/track/58qPcYPp2mVtgySDYS5jRa) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 2:59 | 2023-04-06 | 2023-04-14 |
 | [Real Life](https://open.spotify.com/track/5JPrTJ2LUOCOw50wofQoXm) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Real Life](https://open.spotify.com/album/0xaaanovXvM78kr6ZHXWMh) | 3:22 | 2022-07-14 | 2022-09-09 |
 | [Real Nice \(H.C.T.F.\) \(feat\. Nerve\)](https://open.spotify.com/track/7IcfiG6VRJYZMvRxRYlYGp) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Real Nice \(H.C.T.F.\)](https://open.spotify.com/album/1J8pqICACP8NoLgHxUPUMR) | 2:40 | 2021-12-28 | 2022-01-17 |

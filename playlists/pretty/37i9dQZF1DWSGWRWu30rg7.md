@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Aruna Dawn
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,067 likes - 52 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,066 likes - 52 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 51 | [Manja Manja](https://open.spotify.com/track/63G7OFsvcwncnRZmnSYWNN) | [Bong Andre](https://open.spotify.com/artist/47EpbMBAm1vNyciIfbAKM8), [Ans Nahak](https://open.spotify.com/artist/5AFQTYLyvjqMRJaGDVmAzq), [JB Macho](https://open.spotify.com/artist/4ymB8WFyQJW4GSOzLkFDpz) | [Love Languages](https://open.spotify.com/album/3B1fDbdujfg8zwNCHL7Nr4) | 4:09 |
 | 52 | [Pelindungmu](https://open.spotify.com/track/2XrlzDHZyr3BcUouWk7dtK) | [Renggadwitya](https://open.spotify.com/artist/6NRs8gDtog88nHOWxNk7t0) | [Pelindungmu](https://open.spotify.com/album/7kQ34cyOCeL7jtbUUBwsQy) | 4:08 |
 
-Snapshot ID: `MCwzZGI1NjdjN2VmZGMyZmNkNmFjZWIyOTkxMDhjM2I0ZDdkMTI2ZGNh`
+Snapshot ID: `MCw3OTgyNjY5YmQ0MDA2MzE5MzUwZmJjM2YwNGIxNjdkZWVkOTI0MjFl`

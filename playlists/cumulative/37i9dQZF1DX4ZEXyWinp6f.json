@@ -2484,6 +2484,24 @@
     {
       "album": {
         "name": "Astrosat",
+        "url": "https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295714,
+      "name": "Into the Aether",
+      "url": "https://open.spotify.com/track/4lsf0XeoCZ6prJ87TwibO2"
+    },
+    {
+      "album": {
+        "name": "Astrosat",
         "url": "https://open.spotify.com/album/5S7THuLIRniJ0TxrWJwUEf"
       },
       "artists": [
@@ -4072,7 +4090,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 312200,
       "name": "Polygon Window",
       "url": "https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461"

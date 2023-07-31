@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,475 likes - 31 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485 likes - 31 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 30 | [Tiempo](https://open.spotify.com/track/2EfqSseQX83icThfmXIgfW) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU) | [Transistor](https://open.spotify.com/album/7A3kGOjnV2KExE4fBFc6ne) | 5:00 |
 | 31 | [Contain \(In Key\)](https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Contain \(In Key\)](https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo) | 8:08 |
 
-Snapshot ID: `MCxjNDEwZmVhZGI2Mjk3MThmMTgxM2Y4ZjViOTRlNTQ1NjdjNTVlYTU5`
+Snapshot ID: `MCwzMzVmNjQ0Yzk5NDEzOWE4NTA5OWM5YTg2NDljM2YyMDAxNTg1OTUx`

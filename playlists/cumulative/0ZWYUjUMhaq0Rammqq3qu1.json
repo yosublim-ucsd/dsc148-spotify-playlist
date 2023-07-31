@@ -804,7 +804,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 166717,
       "name": "City Of Love",
       "url": "https://open.spotify.com/track/4mUJ5LUrEYm12deebNCZSA"
@@ -932,6 +932,28 @@
       "duration_ms": 155538,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR"
+    },
+    {
+      "album": {
+        "name": "Could've Been Love",
+        "url": "https://open.spotify.com/album/5X0mSHSwAkaSv3iB9D5ovE"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Holly Ellison",
+          "url": "https://open.spotify.com/artist/2sDMxPZ5rTvGivtiw9yHPy"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184112,
+      "name": "Could've Been Love",
+      "url": "https://open.spotify.com/track/6z3DzuNM9G0pSQyhAax7zK"
     },
     {
       "album": {
@@ -3037,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5iQPep5UWWfqr4Lvcuy3dm"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182675,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/4GLmR59ivaKbUVikqJW7tg"
+    },
+    {
+      "album": {
         "name": "Not A Day Goes By",
         "url": "https://open.spotify.com/album/43n9pvIHe2EW3PB01OURIv"
       },
@@ -4554,7 +4598,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 172133,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ"

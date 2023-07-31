@@ -9517,6 +9517,28 @@
     },
     {
       "album": {
+        "name": "Traia V\u00e9ia (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134932,
+      "name": "Eu N\u00e3o Previ - Ao Vivo em Goi\u00e2nia",
+      "url": "https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ"
+    },
+    {
+      "album": {
         "name": "Iguinho e lulinha Eu te amo tanto",
         "url": "https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf"
       },
@@ -17916,7 +17938,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 133730,
       "name": "MAMTA'S INTERLUDE",
       "url": "https://open.spotify.com/track/32YA3PItSKjcNONrp1p4Y5"

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1260084,
+  "num_followers": 1260514,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmJmYWE2Njk1NzA3NDdjMzE4YWZiNWQ2NzNmNzc0ODU3MTgzYWNi",
+  "snapshot_id": "MCw2ZGU0ZGIyYzA0MWI2ZDQ5MGY0ZGM0ZjBkMDM2ZTkwNjA5NzVkYWQ1",
   "tracks": [
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1131,18 +1131,26 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Donde Estaras",
-        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
       "artists": [
         {
           "name": "ICC",
           "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 244924,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1259,26 +1267,18 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
+        "name": "Donde Estaras",
+        "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
       "artists": [
         {
           "name": "ICC",
           "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+      "duration_ms": 244924,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "La Cumbia Se\u00f1al",
-        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Orquesta Sonidera",
-          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
-        }
-      ],
-      "duration_ms": 375849,
-      "name": "La Cumbia Se\u00f1al",
-      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Video Cumbias Pa' Bailar 2",
         "url": "https://open.spotify.com/album/5UvXruYgho8IhZr3W7h1Ie"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 322986,
       "name": "Lucerito",
       "url": "https://open.spotify.com/track/3xJaqmggvkerhccRZC4Yyg"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "La Cumbia Se\u00f1al",
+        "url": "https://open.spotify.com/album/6YTxVxs81ZfPj1afYAiGaj"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Orquesta Sonidera",
+          "url": "https://open.spotify.com/artist/2R0A3pt9Ysob5m2ymaHEhB"
+        }
+      ],
+      "duration_ms": 375849,
+      "name": "La Cumbia Se\u00f1al",
+      "url": "https://open.spotify.com/track/1NhZB15j0NfhJihKP0H1s9"
     },
     {
       "added_at": "2023-06-16 17:56:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-06-16 17:56:50",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2023-06-16 17:56:50",
-      "album": {
         "name": "Ya No Est\u00e0s Aqu\u00ec",
         "url": "https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 262861,
       "name": "Ya No Est\u00e0s Aqu\u00ec",
       "url": "https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E"
+    },
+    {
+      "added_at": "2023-06-16 17:56:50",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2023-06-16 17:56:50",

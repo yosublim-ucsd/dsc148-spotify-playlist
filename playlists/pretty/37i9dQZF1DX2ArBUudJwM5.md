@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Estamos listxs para un Festival único\. <br/>\#FestivalEqual • 16 de septiembre • Hipódromo de Palermo
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,314 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,531 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 35 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
 | 36 | [Karma](https://open.spotify.com/track/4SkPhoz2b5busK8p9yc4rB) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Karma](https://open.spotify.com/album/6zl0Ny6UMSSXnmMzOYElmC) | 2:56 |
 | 37 | [Thunder](https://open.spotify.com/track/02ZzBDYIK4DVJnZMwqA2bF) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU) | [Break](https://open.spotify.com/album/6g10dg2gIRvdJdxUpCV2ao) | 4:00 |
-| 38 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
-| 39 | [La Güera Salome](https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 3:02 |
+| 38 | [La Güera Salome](https://open.spotify.com/track/51kzAz2guzWXeQFtzE3BUa) | [Lia Crucet](https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ) | [La Movidita](https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP) | 3:02 |
+| 39 | [Solita \- Remix](https://open.spotify.com/track/1hFC3OfExDADVLCAQDgUr8) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Solita \(Remix\)](https://open.spotify.com/album/7rczcUlz87UicCYwuAig7C) | 3:50 |
 | 40 | [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 |
 | 41 | [Mentira](https://open.spotify.com/track/5xcxpy75Jw5sLiJI8tT7uC) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Mentira](https://open.spotify.com/album/5b6BwahD7XcYvvo3s56vo7) | 3:35 |
 | 42 | [El Antigal](https://open.spotify.com/track/32CIU2BQzqyWAChePiMiu1) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/78b7ydPgTanHedDDZ4pqIZ) | 4:18 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 47 | [Yo no lloro más](https://open.spotify.com/track/61p3ncr6aD14pvJjdmRBaG) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl) | [Raices de Pasión](https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5) | 3:08 |
 | 48 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 |
 | 49 | [TRIGAL](https://open.spotify.com/track/2qsM6rTkCSweVj9drhvsLF) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LXS INFERNALES \(Del Valle Encantado\)](https://open.spotify.com/album/5RC9l3WFfIOKJ2hbe7goWE) | 3:02 |
-| 50 | [Zoe](https://open.spotify.com/track/1Zp6wk74v4tf1UPgX75IQB) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Como Antes](https://open.spotify.com/album/56qAd8JFUBjW7gdAEQinHT) | 3:34 |
+| 50 | [Revolea](https://open.spotify.com/track/2I8yKSM7fygPWvu8iWKW9r) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [Revolea](https://open.spotify.com/album/5i2gn7HRchalnvQHW5WCYI) | 3:53 |
 
-Snapshot ID: `MCw3NGJlNWIxYTgxMDdlYjg1Zjg0NjM0Mzc1OTIxMDgzZWM2OTA0MjQ3`
+Snapshot ID: `MCxkYjVjYzEyNzI1MmVlYjAxYmQwNTI3YjYwMzA4NGM4MjYyZDM4Nzdh`

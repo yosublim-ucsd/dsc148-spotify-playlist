@@ -1,12 +1,12 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 91160,
+  "num_followers": 91198,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGMyMWI2OTY2ZWZhZmY1Zjg5M2NkZjQwNmZjZTZiNzhhZTg0MzUz",
+  "snapshot_id": "MCwzNzJhM2RlN2M3OTFhOWVlMTk4ZjE1Y2FlMjUyNTM2YjI0ZTY1YTUy",
   "tracks": [
     {
       "added_at": "2023-07-28 21:28:53",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
     },
     {
+      "added_at": "2023-06-02 00:27:20",
+      "album": {
+        "name": "Common Land",
+        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
+      },
+      "artists": [
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "duration_ms": 321482,
+      "name": "Common Land",
+      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Inner Song",
@@ -177,22 +193,6 @@
       "url": "https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq"
     },
     {
-      "added_at": "2023-06-02 00:27:20",
-      "album": {
-        "name": "Common Land",
-        "url": "https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr"
-      },
-      "artists": [
-        {
-          "name": "James Holden",
-          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
-        }
-      ],
-      "duration_ms": 321482,
-      "name": "Common Land",
-      "url": "https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Erratics & Unconformities",
@@ -239,22 +239,6 @@
       "duration_ms": 208912,
       "name": "The Trembling of Glass",
       "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Kelly Lee Owens",
-        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        }
-      ],
-      "duration_ms": 192674,
-      "name": "S.O",
-      "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
     },
     {
       "added_at": "2022-09-27 23:17:09",
@@ -329,6 +313,22 @@
       "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Kelly Lee Owens",
+        "url": "https://open.spotify.com/album/0aol42apbylFf2POjiAOeP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "duration_ms": 192674,
+      "name": "S.O",
+      "url": "https://open.spotify.com/track/1rPVwDsOQngRvmfkFgXLjn"
+    },
+    {
       "added_at": "2022-03-30 15:08:41",
       "album": {
         "name": "Between Voids",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Tri Repetae",
-        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 255933,
-      "name": "Eutow",
-      "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
-    },
-    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "No Highs",
@@ -427,6 +411,22 @@
       "duration_ms": 511951,
       "name": "Lotus Light",
       "url": "https://open.spotify.com/track/7E5YAVrt11Xkgl0jhXLgAP"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Tri Repetae",
+        "url": "https://open.spotify.com/album/3p1ZD8q3sGC6tf81QeVrYI"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 255933,
+      "name": "Eutow",
+      "url": "https://open.spotify.com/track/4uRXAyNL5T4KY7iawdfJBZ"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
     },
     {
-      "added_at": "2023-03-03 04:14:50",
-      "album": {
-        "name": "Vegetal Passivity",
-        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
-      },
-      "artists": [
-        {
-          "name": "Rzekomo",
-          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Vegetal Passivity",
-      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
-    },
-    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -851,6 +835,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -889,20 +889,20 @@
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2023-03-03 04:14:50",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+        "name": "Vegetal Passivity",
+        "url": "https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW"
       },
       "artists": [
         {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+          "name": "Rzekomo",
+          "url": "https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku"
         }
       ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+      "duration_ms": 238153,
+      "name": "Vegetal Passivity",
+      "url": "https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh"
     },
     {
       "added_at": "2022-03-30 04:41:43",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
-      "added_at": "2022-07-06 16:48:39",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 331514,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
-    },
-    {
       "added_at": "2022-02-16 00:42:21",
       "album": {
         "name": "drames rurals",
@@ -1015,6 +999,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2022-07-06 16:48:39",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 331514,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag"
     },
     {
-      "added_at": "2022-12-16 01:59:41",
-      "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "5",
-      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "The Alias Sessions",
@@ -1127,6 +1111,22 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2022-12-16 01:59:41",
+      "album": {
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
+      },
+      "artists": [
+        {
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
+        }
+      ],
+      "duration_ms": 244760,
+      "name": "5",
+      "url": "https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/1QNgUvacqzNDdMOkXFtMlN"
     },
     {
-      "added_at": "2023-03-28 06:19:24",
-      "album": {
-        "name": "weirdbloom",
-        "url": "https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ"
-      },
-      "artists": [
-        {
-          "name": "Artur M Puga",
-          "url": "https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn"
-        }
-      ],
-      "duration_ms": 279816,
-      "name": "NPCs have feelings too",
-      "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
-    },
-    {
       "added_at": "2023-03-22 17:48:40",
       "album": {
         "name": "Los muertos no lloran",
@@ -1223,6 +1207,22 @@
       "duration_ms": 340590,
       "name": "Los muertos no lloran",
       "url": "https://open.spotify.com/track/1XrNKhqFjetXTmVbWXbQNS"
+    },
+    {
+      "added_at": "2023-03-28 06:19:24",
+      "album": {
+        "name": "weirdbloom",
+        "url": "https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ"
+      },
+      "artists": [
+        {
+          "name": "Artur M Puga",
+          "url": "https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn"
+        }
+      ],
+      "duration_ms": 279816,
+      "name": "NPCs have feelings too",
+      "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
-      },
-      "artists": [
-        {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
-        }
-      ],
-      "duration_ms": 293294,
-      "name": "Insight",
-      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
-    },
-    {
       "added_at": "2023-04-15 02:42:19",
       "album": {
         "name": "1977",
@@ -1313,20 +1297,20 @@
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
     },
     {
-      "added_at": "2023-06-01 23:19:14",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Journey into Mr Re",
-        "url": "https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC"
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
       },
       "artists": [
         {
-          "name": "Afrikan Sciences",
-          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
         }
       ],
-      "duration_ms": 411886,
-      "name": "Whipping Spree",
-      "url": "https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro"
+      "duration_ms": 293294,
+      "name": "Insight",
+      "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
     },
     {
       "added_at": "2022-09-21 02:21:07",
@@ -1343,6 +1327,22 @@
       "duration_ms": 354645,
       "name": "The Clearing Pt. 2",
       "url": "https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C"
+    },
+    {
+      "added_at": "2023-06-01 23:19:14",
+      "album": {
+        "name": "Journey into Mr Re",
+        "url": "https://open.spotify.com/album/0hnTDDS4cjavAkrdGHCStC"
+      },
+      "artists": [
+        {
+          "name": "Afrikan Sciences",
+          "url": "https://open.spotify.com/artist/4Ewz395zbkN9YjaRc10t0U"
+        }
+      ],
+      "duration_ms": 411886,
+      "name": "Whipping Spree",
+      "url": "https://open.spotify.com/track/200545IqOHWYOBYYWWf7ro"
     },
     {
       "added_at": "2022-08-31 04:01:41",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Under The Sun (Expanded Vol. 1)",
-        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
-      },
-      "artists": [
-        {
-          "name": "Mark Pritchard",
-          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Give It Your Choir - Instrumental",
-      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Angel Tears in Sunlight",
         "url": "https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 270539,
       "name": "Marking Time",
       "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Under The Sun (Expanded Vol. 1)",
+        "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
+      },
+      "artists": [
+        {
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Give It Your Choir - Instrumental",
+      "url": "https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI"
     },
     {
       "added_at": "2022-03-09 04:45:41",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/3LLih0W5lB0xEAQxSxoBW6"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
       "added_at": "2022-01-21 20:27:00",
       "album": {
         "name": "Some Way",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+        "name": "Middle Life",
+        "url": "https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR"
       },
       "artists": [
         {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+      "duration_ms": 97760,
+      "name": "Middle Life",
+      "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1521,42 +1537,6 @@
       "url": "https://open.spotify.com/track/6BJ4F52G2o5TgmIJAAYuQD"
     },
     {
-      "added_at": "2022-01-12 02:35:30",
-      "album": {
-        "name": "This Is An Advertisement",
-        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
-      },
-      "artists": [
-        {
-          "name": "usr/friendly",
-          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
-        },
-        {
-          "name": "Oketo",
-          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Middle Life",
-        "url": "https://open.spotify.com/album/6FKJdshnI3wJ5vU13bYGnR"
-      },
-      "artists": [
-        {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
-        }
-      ],
-      "duration_ms": 97760,
-      "name": "Middle Life",
-      "url": "https://open.spotify.com/track/7i1apjmMHgD3cyaJAoscr5"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Square One",
@@ -1575,6 +1555,26 @@
       "duration_ms": 425417,
       "name": "Arthur",
       "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
+    },
+    {
+      "added_at": "2022-01-12 02:35:30",
+      "album": {
+        "name": "This Is An Advertisement",
+        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
+      },
+      "artists": [
+        {
+          "name": "usr/friendly",
+          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+        },
+        {
+          "name": "Oketo",
+          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
     },
     {
-      "added_at": "2023-02-16 00:21:45",
-      "album": {
-        "name": "I Can't Die as Well",
-        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
-      },
-      "artists": [
-        {
-          "name": "Fire-Toolz",
-          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
-        }
-      ],
-      "duration_ms": 145774,
-      "name": "I Can't Die as Well",
-      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
-    },
-    {
       "added_at": "2022-09-30 02:46:46",
       "album": {
         "name": "\u307f\u305e\u3046\u3075\u304f",
@@ -1647,6 +1631,22 @@
       "duration_ms": 388373,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
+    },
+    {
+      "added_at": "2023-02-16 00:21:45",
+      "album": {
+        "name": "I Can't Die as Well",
+        "url": "https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok"
+      },
+      "artists": [
+        {
+          "name": "Fire-Toolz",
+          "url": "https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o"
+        }
+      ],
+      "duration_ms": 145774,
+      "name": "I Can't Die as Well",
+      "url": "https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45"
     },
     {
       "added_at": "2021-10-06 04:42:05",

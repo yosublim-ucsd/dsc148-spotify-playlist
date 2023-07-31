@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1671185,
+  "num_followers": 1671574,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM4MjMxNThiMDQyMTBkZGNhYmMxYTdiNzUwM2VjZGI4NjcyMjQz",
+  "snapshot_id": "MCwwMmJhMTAyNzlmOTA0Yzc5ZDQyNjYzZWE5MDQxYWY2YjRhNmNlMGI5",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Dylan Scott (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 197640,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
-      },
-      "artists": [
-        {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Who Needs Pictures",
         "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/5bg19JZRGPWA2ubmplCSt2"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/3pD2qgImjXbfepb5mksDp3"
     },
     {
       "added_at": "2023-07-28 04:01:00",

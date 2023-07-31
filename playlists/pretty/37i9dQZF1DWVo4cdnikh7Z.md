@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,266 likes - 63 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,854 likes - 63 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 5 | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/track/3M9G4jJAgDLB9ycinua8Wo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kaavaalaa \(From "Jailer"\)](https://open.spotify.com/album/2zyHoHE002bpKqLY52nbAs) | 3:10 |
 | 6 | [Kanguva Glimpse \(From "Kanguva"\)](https://open.spotify.com/track/617YmFhbtCUHTHmiYCSmJu) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Kanguva Glimpse \(From "Kanguva"\)](https://open.spotify.com/album/6F0I1GPd3xujdEVk6dHKR7) | 2:17 |
 | 7 | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/track/7AfS3sw4qaSBvobpdPYalt) | [Bharath Sankar](https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54), [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8), [Rehman](https://open.spotify.com/artist/5uKN1IyD8fLoj2lV8CDzws) | [Bangaarupetalona \(From "Mahaveerudu"\)](https://open.spotify.com/album/3anqjQy9dqSqFrNFQHBzfT) | 3:28 |
-| 8 | [Rathamaarey](https://open.spotify.com/track/0NAUzrHSWZwDCFsAT5fBV4) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 4:12 |
+| 8 | [Rathamaarey](https://open.spotify.com/track/0NAUzrHSWZwDCFsAT5fBV4) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 4:12 |
 | 9 | [Jawan Prevue Theme](https://open.spotify.com/track/29Lsdm869Qk82RS5he08R4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Jawan Prevue Theme](https://open.spotify.com/album/2bE8aLgWEZkHvTRhosPwmC) | 2:07 |
 | 10 | [Adhirudha \- From "Mark Antony"](https://open.spotify.com/track/4u7dTTr6SApQiy7eBWARZI) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [T\. Rajendar](https://open.spotify.com/artist/4UDzzsfKqZUs5bDy3cisle), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Adhirudha \(From "Mark Antony"\)](https://open.spotify.com/album/7zJ5qxeFanSZgXeZoD820s) | 4:00 |
 | 11 | [Nenjame Nenjame](https://open.spotify.com/track/5gpjup3L76P6ZNMu44eCyG) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Maamannan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pMOd6mZQQDi7hz6NYOKL0) | 6:50 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 62 | [Vaa Vaathi \(Dhanush Reprise Version\)](https://open.spotify.com/track/43bgjI3ZddPJsu3JvNmYui) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Vaathi](https://open.spotify.com/album/4cp0WC1sFQfAKOnw0VjfMB) | 3:43 |
 | 63 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 |
 
-Snapshot ID: `MCw3ODhlMzliZGZlZGIyOTFjMzgyNjg5OThlY2YxODMwY2FlNGNiOGUz`
+Snapshot ID: `MCxjMDdmNDJlYjE5MzhkZGM3MTdlNGRkNDliMjhjOTAwY2QxZTdjM2My`

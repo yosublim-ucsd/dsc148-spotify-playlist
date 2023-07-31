@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12420,
+  "num_followers": 12433,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz",
+  "snapshot_id": "MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "AQUA",
+        "url": "https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "\u00c9xtasis",
+      "url": "https://open.spotify.com/track/6OQJpGOFtYEXNdLkseQAJW"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Suerte",
         "url": "https://open.spotify.com/album/0Rllfr3QR8wKH1ZjJ4TtB6"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 167000,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "AQUA",
-        "url": "https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "\u00c9xtasis",
-      "url": "https://open.spotify.com/track/6OQJpGOFtYEXNdLkseQAJW"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/0KpjvvxnXUb05nPESLiNQT"
+      },
+      "artists": [
+        {
+          "name": "consuelohm",
+          "url": "https://open.spotify.com/artist/5QAmCLVNtEsRydOsyywQYp"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/1gO1fK9xXLsHgrze8gkUCk"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "E.G.O",
         "url": "https://open.spotify.com/album/6bSrt7bNhfPuQUREyTbyZo"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 263583,
       "name": "E.G.O",
       "url": "https://open.spotify.com/track/4ch3Ou2rFOerDEEJ2affZh"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Suerte",
-        "url": "https://open.spotify.com/album/0KpjvvxnXUb05nPESLiNQT"
-      },
-      "artists": [
-        {
-          "name": "consuelohm",
-          "url": "https://open.spotify.com/artist/5QAmCLVNtEsRydOsyywQYp"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Suerte",
-      "url": "https://open.spotify.com/track/1gO1fK9xXLsHgrze8gkUCk"
     },
     {
       "added_at": "2023-07-05 03:00:00",

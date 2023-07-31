@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,131 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,241 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 45 | [X6](https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:53 |
 | 46 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 47 | [Playboy Preto](https://open.spotify.com/track/6h78CkYMNpGolZwhjBz3i9) | [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Playboy Preto](https://open.spotify.com/album/2v09Ch9OOBo8m6Ou4j62FV) | 2:41 |
-| 48 | [1 Minuto](https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 2:42 |
-| 49 | [Drip](https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Vianna](https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:30 |
-| 50 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 |
+| 48 | [Loyalty](https://open.spotify.com/track/1tVENMDCXyu32b8xFTZT5z) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm) | [Loyalty](https://open.spotify.com/album/6Mb93xMq97OqX2SmKU29xw) | 3:24 |
+| 49 | [1 Minuto](https://open.spotify.com/track/4mLq1oE66kT6kb2OEQWvlz) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [Nova Wave, Pt\. 2](https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI) | 2:42 |
+| 50 | [Drip](https://open.spotify.com/track/4Rpz7ah9UAfR25jINdTIcm) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Vianna](https://open.spotify.com/artist/6ioDFcw3cEjfi2IRMde4vA) | [Drip Sesh, Vol\. 1](https://open.spotify.com/album/07j32H5r7zVrkEzUYb62AK) | 2:30 |
 
-Snapshot ID: `MCw4YzE3NjQxMTY0NDE4N2RkNjJkYjIwN2E4YzBiM2M3MzdlNmFjZDcy`
+Snapshot ID: `MCxiN2FjMGNkNWRmNTk4YzYyMTE5M2M3MTRiYTllMTMyNjc2YWYxNWE2`

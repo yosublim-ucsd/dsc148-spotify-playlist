@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1497894,
+  "num_followers": 1497990,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTYzNGE0NmQ3ZmE1ODFhYjcxYmVjOTRmNWMyMWQ5ZjYxZjczOGNh",
+  "snapshot_id": "MCwxYWRhMzZiNjI0NDc2YTRiNGVhNTU1MDY1NmRhY2ZlMTM5ODE2ZWVk",
   "tracks": [
     {
       "added_at": "2023-06-09 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
       "artists": [
         {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+      "duration_ms": 268280,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
       "artists": [
         {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 268280,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
         "name": "Jade Bird",
         "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Lovers Carvings (WXAXRXP Session)",
-        "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "Lovers Carvings - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
         "name": "Peach Fuzz",
         "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 224360,
       "name": "Peach Fuzz",
       "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "Lovers Carvings (WXAXRXP Session)",
+        "url": "https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "Lovers Carvings - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W"
     },
     {
       "added_at": "2023-06-09 04:00:00",

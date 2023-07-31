@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5957,
+  "num_followers": 5966,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
+  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Every Chance I Get (I Want You In The Flesh)",
-        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 248004,
-      "name": "Every Chance I Get (I Want You In The Flesh)",
-      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Last Train To Nowhere",
         "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 216613,
       "name": "Last Train To Nowhere",
       "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Every Chance I Get (I Want You In The Flesh)",
+        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 248004,
+      "name": "Every Chance I Get (I Want You In The Flesh)",
+      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "What Can I Do?",
-        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
-      },
-      "artists": [
-        {
-          "name": "The Black Belles",
-          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "What Can I Do?",
-      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 172520,
       "name": "Rise",
       "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "What Can I Do?",
+        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
+      },
+      "artists": [
+        {
+          "name": "The Black Belles",
+          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "What Can I Do?",
+      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "GrandVille",
-        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
-      },
-      "artists": [
-        {
-          "name": "GrandVille",
-          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
-        }
-      ],
-      "duration_ms": 368459,
-      "name": "Counting Colors",
-      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 167275,
       "name": "She Moved On",
       "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "GrandVille",
+        "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
+      },
+      "artists": [
+        {
+          "name": "GrandVille",
+          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
+        }
+      ],
+      "duration_ms": 368459,
+      "name": "Counting Colors",
+      "url": "https://open.spotify.com/track/1f8Try7safFyXmmOOZilPi"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Chrysomallousa",
-        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
-      },
-      "artists": [
-        {
-          "name": "Demetris Mesimeris",
-          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
-        }
-      ],
-      "duration_ms": 219954,
-      "name": "Chrysomallousa",
-      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Rubber Hits the Road",
         "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 181133,
       "name": "Rubber Hits the Road",
       "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Chrysomallousa",
+        "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
+      },
+      "artists": [
+        {
+          "name": "Demetris Mesimeris",
+          "url": "https://open.spotify.com/artist/0p719GsCmShkdzknkYSp8A"
+        }
+      ],
+      "duration_ms": 219954,
+      "name": "Chrysomallousa",
+      "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Jam With Me",
-        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
-      },
-      "artists": [
-        {
-          "name": "Lance Lopez",
-          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Jam With Me",
-      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Guitar Kingdom",
         "url": "https://open.spotify.com/album/2usnidWItfepT2FDfqcI6y"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 200773,
       "name": "The Great Beyond",
       "url": "https://open.spotify.com/track/2iuaBaLe5hqMMFjdTySzcq"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Jam With Me",
+        "url": "https://open.spotify.com/album/091N9UIZOOGeEVmk92L9hQ"
+      },
+      "artists": [
+        {
+          "name": "Lance Lopez",
+          "url": "https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Jam With Me",
+      "url": "https://open.spotify.com/track/0SdXKa4TANvfdnRZywZdp6"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Stop Signs and Fence Lines",
-        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
-      },
-      "artists": [
-        {
-          "name": "Jericho Woods",
-          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
-        }
-      ],
-      "duration_ms": 170854,
-      "name": "Ten Beer Job",
-      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Dynamite A Tribute to Muddy Waters (Radio Edit)",
-        "url": "https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru"
+        "name": "Stop Signs and Fence Lines",
+        "url": "https://open.spotify.com/album/4xIlCqv0Q3VTiesLSeYSQB"
       },
       "artists": [
         {
-          "name": "Baba Jenkins",
-          "url": "https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez"
+          "name": "Jericho Woods",
+          "url": "https://open.spotify.com/artist/7v0ILx2PRtCXa1j2Vgyled"
         }
       ],
-      "duration_ms": 162612,
-      "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
-      "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
+      "duration_ms": 170854,
+      "name": "Ten Beer Job",
+      "url": "https://open.spotify.com/track/2JlTEXBWpd16V6EZujGwXh"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -923,6 +907,22 @@
       "duration_ms": 193928,
       "name": "Go Down Swinging",
       "url": "https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Dynamite A Tribute to Muddy Waters (Radio Edit)",
+        "url": "https://open.spotify.com/album/1hLKS8WIE6j3abS51y6hru"
+      },
+      "artists": [
+        {
+          "name": "Baba Jenkins",
+          "url": "https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez"
+        }
+      ],
+      "duration_ms": 162612,
+      "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
+      "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
     },
     {
       "added_at": "2023-07-21 15:58:03",

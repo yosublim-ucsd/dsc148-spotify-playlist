@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,577 likes - 172 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,626 likes - 172 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 69 | [Flashing Lights](https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy) | [Flashing Lights](https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv) | 3:33 |
 | 70 | [Give It a Go](https://open.spotify.com/track/2aUPmWTy3eTfbVFx3BVaE9) | [Curtis Cole](https://open.spotify.com/artist/3nHifOdw3FgOxPAlg4kzTl), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Give It a Go](https://open.spotify.com/album/1z44wef0na78nNIvld0NcQ) | 2:46 |
 | 71 | [Still Yearn](https://open.spotify.com/track/6xxKl1JI54AaZOLHpeZc8B) | [SIROJ](https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv), [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [You Will Be Fine](https://open.spotify.com/album/6ufZebDKqcDJfQyMkkDh9z) | 3:12 |
-| 72 | [I Won't Tell](https://open.spotify.com/track/1zsv1BLFCSedZ2CbkGBb4k) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [I Won't Tell](https://open.spotify.com/album/6ECkJpAGSb8Qu3npCwXQeG) | 3:39 |
+| 72 | [I Won't Tell](https://open.spotify.com/track/3rot29NUumMnFoeZCq7ynk) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:39 |
 | 73 | [Future Proof](https://open.spotify.com/track/6qaJAYN6r3uX20vLQ6MT7F) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Future Proof](https://open.spotify.com/album/24VbraVikV7y8QVALWIBKq) | 3:33 |
 | 74 | [Are You Even Sorry](https://open.spotify.com/track/6rDRn3bjkILnkDJySKjzMO) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Are You Even Sorry](https://open.spotify.com/album/3vYAhAb03cBAIaTJmM9Zj2) | 2:47 |
 | 75 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 171 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 |
 | 172 | [MY HOUSE](https://open.spotify.com/track/6sZzLJkAHCbSkbqLdUFT6Q) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [MY HOUSE / BLEAK](https://open.spotify.com/album/3YKs6Hoq25I2tqZjSP56qU) | 4:02 |
 
-Snapshot ID: `MCxkZGY1MmU3NDdjYTFmNjBlYWI1NWM3MGQ5MWFjMjZkYzU0ZWY2YTM3`
+Snapshot ID: `MCwwNTMyYjk0OWY1NGRiNThlMWU1NjMwNDlkZGRiNzkxZDZhMDYyN2I4`

@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 551671,
+  "num_followers": 551812,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjFmOGRhYmJmYWZhOGM3NGE4YzZlNGE4Y2U3MGRkOTcxYTVjZGY1",
+  "snapshot_id": "MCxhYmFlYTQ5YmEwNjBjMTA0YzgzM2VmYTJlNzU5NzY3ZDY4ZTAyNzAw",
   "tracks": [
     {
       "added_at": "2023-07-25 20:43:15",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+      },
+      "artists": [
+        {
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 144000,
       "name": "TRUCHO",
       "url": "https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Orgullosa",
-      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "Par-Tusa",
         "url": "https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 190850,
       "name": "Par-Tusa",
       "url": "https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 187693,
+      "name": "Orgullosa",
+      "url": "https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "\u00bfQu\u00e9 No Vale Nada?",
-        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
       },
       "artists": [
         {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Resaka",
-      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/39h88ns1BmKSs8pgdrhLXG"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 197040,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/79R4NmcyCKcVkwzL2PUS8x"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "\u00bfQu\u00e9 No Vale Nada?",
+        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Resaka",
+      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1855,38 +1855,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 158145,
-      "name": "No Te Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
-        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
-      },
-      "artists": [
-        {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Fog\u00f3n",
-      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI"
       },
@@ -1915,6 +1883,38 @@
       "duration_ms": 178604,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/0cBDwyo9iFsSd3i4RrcKaB"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 158145,
+      "name": "No Te Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "Podran Imitarnos, Jam\u00e1s Igualarnos",
+        "url": "https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Fog\u00f3n",
+      "url": "https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "El Retutu",
+        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
+      },
+      "artists": [
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Acercate Bandida",
+      "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "El Manual",
         "url": "https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 128567,
       "name": "El Manual",
       "url": "https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "El Retutu",
-        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
-      },
-      "artists": [
-        {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Acercate Bandida",
-      "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "Una Vela",
-        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 124563,
-      "name": "Una Vela",
-      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 190200,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "Una Vela",
+        "url": "https://open.spotify.com/album/5WGq0agfHJFFBGPQpIY9B1"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 124563,
+      "name": "Una Vela",
+      "url": "https://open.spotify.com/track/7xv4O7ppdYg4kFyqLxNP0i"
     },
     {
       "added_at": "2023-07-25 20:43:15",

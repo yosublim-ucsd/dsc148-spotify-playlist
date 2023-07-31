@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 460339,
+  "num_followers": 460718,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGQwYTllNzgzMjAxNTU5NDk2MDNlODRiYTBhNmQxZTc1NTM0Y2Zl",
+  "snapshot_id": "MCw0ZTA0MjdiNWVjNjg2YjE1YTUzNDQxOGE1NTYyYjYwYTUyMDgwOGZj",
   "tracks": [
     {
       "added_at": "2023-05-18 20:30:01",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-18 20:30:01",
       "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Contrabando De Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59"
-    },
-    {
-      "added_at": "2023-05-18 20:30:01",
-      "album": {
         "name": "En Que Trabaja El Muchacho",
         "url": "https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 122618,
       "name": "En Que Trabaja El Muchacho",
       "url": "https://open.spotify.com/track/2mQ0j9CdvOdKaDp2UdJbZ4"
+    },
+    {
+      "added_at": "2023-05-18 20:30:01",
+      "album": {
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Contrabando De Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/4gwuwo3PgUrWzyJ7ofjN59"
     },
     {
       "added_at": "2023-05-18 20:30:01",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-05-18 20:30:01",
       "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Sonora Y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p"
+    },
+    {
+      "added_at": "2023-05-18 20:30:01",
+      "album": {
         "name": "CORRIDOS FAMOSOS VOL. 2 (Grabaci\u00f3n Original Remasterizada)",
         "url": "https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 238266,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
-    },
-    {
-      "added_at": "2023-05-18 20:30:01",
-      "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 177386,
-      "name": "Sonora Y Sus Ojos Negros",
-      "url": "https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p"
     },
     {
       "added_at": "2023-05-18 20:30:01",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-18 20:30:01",
       "album": {
-        "name": "Corridos bien Pesados para la Bohemia",
-        "url": "https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "El \u00e1rbol de la horca",
-      "url": "https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ"
-    },
-    {
-      "added_at": "2023-05-18 20:30:01",
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "added_at": "2023-05-18 20:30:01",
+      "album": {
+        "name": "Corridos bien Pesados para la Bohemia",
+        "url": "https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "El \u00e1rbol de la horca",
+      "url": "https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ"
     },
     {
       "added_at": "2023-05-18 20:30:01",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2023-05-18 20:30:01",
       "album": {
-        "name": "Corridos Famosos",
-        "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
       },
       "artists": [
         {
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 162453,
-      "name": "El 24 De Junio",
-      "url": "https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz"
+      "duration_ms": 218044,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
     },
     {
       "added_at": "2023-05-18 20:30:01",

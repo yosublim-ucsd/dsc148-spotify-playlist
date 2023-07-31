@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 283221,
+  "num_followers": 283271,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTNmZDE4NGEzMDBiYjAzZDg5MmIzZTcwMGJhYzc1MDc5ZjRkNmRl",
+  "snapshot_id": "MCw5NjMxODE1OTJiYTM3ZTU0OTlhYTA3ZWFiMDhkYjVmMDk3ZDA4M2Rh",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "I'm on Fire",
         "url": "https://open.spotify.com/album/3aPijjXkCcaGDPS38ZUkuI"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Maps",
@@ -483,22 +499,6 @@
       "duration_ms": 171315,
       "name": "Cooking",
       "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -859,38 +859,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Life And Life Only (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Paul",
-        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 187121,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 187121,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Life And Life Only (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hhJEtyz55rIxT7h4zi5go"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 183588,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/5UChPKbbKFkbuQKicha00m"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Can I Call You Tonight? / Quarterback",
-        "url": "https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX"
-      },
-      "artists": [
-        {
-          "name": "Cal in Red",
-          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Can I Call You Tonight? / Quarterback",
-      "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Can I Call You Tonight? / Quarterback",
+        "url": "https://open.spotify.com/album/066JtnqQpY3WWGryF1HNZX"
+      },
+      "artists": [
+        {
+          "name": "Cal in Red",
+          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Can I Call You Tonight? / Quarterback",
+      "url": "https://open.spotify.com/track/2BKhMeOOjLohwCOuobeiVd"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Home Again / It's Too Late",
         "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1205,6 +1185,26 @@
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Lost",
@@ -1219,26 +1219,6 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "Three Hours",
-        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
-      },
-      "artists": [
-        {
-          "name": "John Parish",
-          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
-        },
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 272567,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1271,6 +1251,26 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
+      },
+      "artists": [
+        {
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1593,26 +1593,6 @@
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
-      "added_at": "2023-07-20 17:51:58",
-      "album": {
-        "name": "Broken Glass, Vol. 1",
-        "url": "https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        },
-        {
-          "name": "Goodwerks",
-          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Horror Show",
@@ -1647,6 +1627,26 @@
       "duration_ms": 164211,
       "name": "Just the Two of Us",
       "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
+    },
+    {
+      "added_at": "2023-07-20 17:51:58",
+      "album": {
+        "name": "Broken Glass, Vol. 1",
+        "url": "https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"
     },
     {
       "added_at": "2023-05-05 17:19:46",

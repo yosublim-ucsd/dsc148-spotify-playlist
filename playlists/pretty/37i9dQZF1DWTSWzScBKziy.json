@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 89566,
+  "num_followers": 89595,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmNlZTE4NjUxODJmOGUxYWZkYTY4NTk2YjkwNGE5NzQ0MzlhNjJj",
+  "snapshot_id": "MCw2OWMzNWU5MGM4MDdlYmRlNDg5MWQ5NzY5ZjgzZGRjODZlOWJlYjZk",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 251185,
-      "name": "First Things First",
-      "url": "https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Canvas",
         "url": "https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 170549,
       "name": "Build a Boat",
       "url": "https://open.spotify.com/track/4JVzoYdjh1LJZ4IGZyOHWF"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/13mul4QzmQg9QyrxTirVsc"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 251185,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/3lcBpmaV7zkDtFzjzOB6GJ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Heart of God",
+        "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "Heart of God",
+      "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Before I Knew Jesus",
         "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
       },
@@ -703,18 +719,30 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Heart of God",
-        "url": "https://open.spotify.com/album/05tgQSry1iAyf8qsbTvNaS"
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 233146,
-      "name": "Heart of God",
-      "url": "https://open.spotify.com/track/6BhXU6XZMOZ4wz3tUcgkai"
+      "duration_ms": 565833,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -747,34 +775,6 @@
       "duration_ms": 288658,
       "name": "You Can Rest",
       "url": "https://open.spotify.com/track/4ZeHjRfWTpESYD0XarSXit"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 565833,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/1pAyPMHDHBOR3zlTK1eUb4"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 625062,
       "name": "Fear Is Not My Future (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/1AlIF7Ndgztmris8fLgytr"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 238757,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Light a Fire",
         "url": "https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+      "duration_ms": 238757,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1051,6 +1035,22 @@
       "duration_ms": 193685,
       "name": "Good News",
       "url": "https://open.spotify.com/track/2MZrUgL0lk5qvGsWvH7uK4"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "What He Didn't Do",
-        "url": "https://open.spotify.com/album/4CthwmxxcC3VpJVPAqxrFL"
-      },
-      "artists": [
-        {
-          "name": "Landry Cantrell",
-          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
-        }
-      ],
-      "duration_ms": 236117,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/2F38S7efPnrF8l69N04ofv"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Known, Seen, Loved",
         "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
       },
@@ -1423,18 +1407,34 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+        "name": "What He Didn't Do",
+        "url": "https://open.spotify.com/album/4CthwmxxcC3VpJVPAqxrFL"
       },
       "artists": [
         {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          "name": "Landry Cantrell",
+          "url": "https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+      "duration_ms": 236117,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/2F38S7efPnrF8l69N04ofv"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "God Is On The Throne",
+        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 284413,
+      "name": "God Is On The Throne",
+      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "God Is On The Throne",
-        "url": "https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 284413,
-      "name": "God Is On The Throne",
-      "url": "https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Though None Go",
         "url": "https://open.spotify.com/album/6AARjaQ2hd1WfU3S0JfImo"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4HwR3J7H9aOLHhSGOGhAoq"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/5b3I2jCJm3FklJ5ui1uU77"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
         }
       ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Father",
-        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
       "artists": [
         {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 213281,
-      "name": "Father",
-      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2022-10-29 07:17:38",

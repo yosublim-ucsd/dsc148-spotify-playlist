@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Daviles de Novelda & Rafa Pabön
 
-290 songs - 17 hr 12 min
+291 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-01-20 | 2023-07-29 |
 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 | 2023-03-03 | 2023-05-20 |
 | [Creo en amor](https://open.spotify.com/track/3FMoiKx7ZQNrOjdR2TrC4j) | [Mandinga](https://open.spotify.com/artist/1nSK1Zwoj2ZfDQv3Ry6oqe) | [Creo En Amor](https://open.spotify.com/album/6gmdIsNZFMztj4YXaue1LK) | 3:30 | 2022-07-19 | 2023-02-13 |
+| [CRIMINAL](https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q) | [CRIMINAL](https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB) | 3:00 | 2023-07-28 |  |
 | [Cuando Me Hayas Perdido](https://open.spotify.com/track/7CZw1UNzbvrmW1bMK7U8Ly) | [ANDER DEFRANK](https://open.spotify.com/artist/15MCoBJv3FwrZE1F4MNkGT), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Cuando Me Hayas Perdido](https://open.spotify.com/album/14clFFI0eKdesRHFlQYkyD) | 3:54 | 2023-04-07 | 2023-04-15 |
 | [Cuando Te Toco](https://open.spotify.com/track/5KrZNf2oVTpfyp1X9p4LrG) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Cuando Te Toco](https://open.spotify.com/album/01wsqbA8Ck8vfThIO3MTVR) | 4:06 | 2022-06-29 | 2023-04-04 |
 | [Cuando Te Vuelva a Ver \- Bachata Version](https://open.spotify.com/track/3BwdoA2FFCEpxrTf062ze5) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Bachata Union](https://open.spotify.com/album/35uUrVpaYFHrFTSYZ4F0Sf) | 3:42 | 2022-01-01 | 2022-03-26 |
@@ -223,7 +224,7 @@
 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 | 2022-09-09 | 2023-01-25 |
 | [Quimicas de Amor](https://open.spotify.com/track/7hOKkEkiw2gUlJLXFFbT6s) | [J\-Dream](https://open.spotify.com/artist/43UkDk4JiVnOIVZdMHhO0Z), [Lady laura La morena del swing](https://open.spotify.com/artist/1oq10cOkNQAk6T63equyFp) | [Quimicas de Amor](https://open.spotify.com/album/0PA3JHgKlI5jzf8VdLPEE2) | 3:05 | 2022-03-25 | 2022-06-30 |
 | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/track/2jjS5j292q9RoNwNXNRM6x) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Reggaetonista Salsaton \(Baila Morena/Oye Mi Canto/Ven Bailalo/Dile/Pa Que Retozen\)](https://open.spotify.com/album/5U8TwxqlnkjcWw14Svv3Bs) | 2:37 | 2022-01-01 | 2022-01-29 |
-| [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 |  |
+| [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 | 2023-01-27 | 2023-07-31 |
 | [Remember Me](https://open.spotify.com/track/2PTDRE8RTmKU0LbJCvK9vA) | [Alain Daniel](https://open.spotify.com/artist/2u1nvbgShcmjDc2SeSDDu6), [Alexander Delgado](https://open.spotify.com/artist/2XZxaXED899trOkylOP8fa) | [Remember Me](https://open.spotify.com/album/2KkJOl11zZxOf8LYSIwaZz) | 3:25 | 2022-06-29 | 2023-01-22 |
 | [Republica Dominicana](https://open.spotify.com/track/02IdYXYJ0G9vgs9DVmONFX) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Republica Dominicana](https://open.spotify.com/album/69Fk1rIWzvwImYuXN6CcUQ) | 4:36 | 2023-01-27 | 2023-02-25 |
 | [Resistirá](https://open.spotify.com/track/7knEsle2mCnypBafCdrWx8) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Resistirá](https://open.spotify.com/album/4VmevPcZ6QXfiKira0aBE7) | 3:45 | 2022-06-29 | 2023-01-14 |

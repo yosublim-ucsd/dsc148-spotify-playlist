@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,443 likes - 50 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,574 likes - 50 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 14 | [Cornish Acid](https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:14 |
 | 15 | [No Way Back](https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX) | 4:55 |
 | 16 | [DEFIANT ORDER](https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B) | 3:41 |
-| 17 | [Charlie can't dance](https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA) | 2:21 |
-| 18 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
+| 17 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
+| 18 | [Charlie can't dance](https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA) | 2:21 |
 | 19 | [I Love Acid](https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD) | 4:17 |
 | 20 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 21 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 23 | [Cardiology \(Isolée Mix\) \- Mixed](https://open.spotify.com/track/4AC2gUCUq3n1Iaxz2aYskJ) | [Recloose](https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S) | [DJ\-Kicks \(Motor City Drum Ensemble\) \[DJ Mix\]](https://open.spotify.com/album/2Z0yypS9AyYAbuxzeOAMhx) | 5:45 |
 | 24 | [Warsaw \- White Light Version](https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [White Light](https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45) | 5:45 |
 | 25 | [Bowie in Harmony](https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Alientronic](https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy) | 6:22 |
-| 26 | [Patchwork Jazz](https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH) | 7:12 |
-| 27 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
+| 26 | [Sumo Acid Crew](https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA) | [In Gold](https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR) | 6:19 |
+| 27 | [Patchwork Jazz](https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH) | 7:12 |
 | 28 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
 | 29 | [Acid Thunder](https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba) | 4:32 |
 | 30 | [Substance Abuse](https://open.spotify.com/track/3yo5BnK1cWRuAIMbJReCMZ) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Substance Abuse](https://open.spotify.com/album/2KLpnpPRuDx24So8bHiBXw) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 49 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 |
 | 50 | [Acid Bit \(feat\. Addison Groove\)](https://open.spotify.com/track/2yvsFzmOODkBzhJo4l5ywM) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Addison Groove](https://open.spotify.com/artist/6LG1BzyImz45pwMF6ft7Yr) | [Double Cup](https://open.spotify.com/album/2wZJl03iX9DxZ3P5C1HTBR) | 3:24 |
 
-Snapshot ID: `MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi`
+Snapshot ID: `MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm`

@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Bella Shmurda
 
-133 songs - 6 hr 19 min
+134 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Astalavista](https://open.spotify.com/track/3kKZsfJfTLHQOraQWL1KYE) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Astalavista](https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8) | 2:51 | 2022-11-25 |  |
 | [Attends](https://open.spotify.com/track/1rMnlh7YO6lb9dGZiasVwt) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Attends](https://open.spotify.com/album/6rRwP9eQqtS03jtLomkFvB) | 2:25 | 2023-02-16 | 2023-03-25 |
 | [Back To Sender](https://open.spotify.com/track/4IhkeUUPpPfT3eP0yN4bq7) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Back To Sender](https://open.spotify.com/album/0rThnN5X2Ktwkh8qEid6eH) | 2:27 | 2023-02-03 | 2023-02-11 |
+| [Badagry](https://open.spotify.com/track/00zdNgxTeBKbB4JsjGwVqz) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Badagry](https://open.spotify.com/album/6LJkRvpFfHIUwKSpuEMpDU) | 2:13 | 2023-07-28 |  |
 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 | 2022-08-12 | 2023-04-09 |
 | [Banga](https://open.spotify.com/track/2aoXJ2B1v1OEqHGxdv1gEy) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Banga \(feat\. Portable\)](https://open.spotify.com/album/49wtNf0riNWWlUb3phQcQc) | 3:13 | 2023-02-23 | 2023-06-17 |
 | [Bankruptcy](https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:31 | 2023-07-28 |  |
@@ -30,7 +31,7 @@
 | [Call of Duty](https://open.spotify.com/track/2wfWK2cmM5DZ4VnT7rDnFO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Call of Duty](https://open.spotify.com/album/4ULxpCQINF17EWAhbE8w2T) | 2:24 | 2022-08-25 |  |
 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 | 2023-05-04 |  |
 | [Cash App](https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Lincoln](https://open.spotify.com/artist/3xm6dLNdCqqgkv9AkNZNQu) | [Cash App](https://open.spotify.com/album/4sP46SuU8qdDzKOUA926qT) | 3:56 | 2022-06-29 |  |
-| [Caution \(Remix\)](https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Caution \(Remix\)](https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig) | 2:26 | 2022-12-02 |  |
+| [Caution \(Remix\)](https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Caution \(Remix\)](https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig) | 2:26 | 2022-12-02 | 2023-07-31 |
 | [Celetronic Riddim](https://open.spotify.com/track/3sO5W4kHBdjvcyE2ApiVcs) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:56 | 2022-06-29 | 2023-03-12 |
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 |  |
 | [Comma](https://open.spotify.com/track/0X6KeoX1HANrLI20m4Hc1V) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 2:50 | 2022-06-29 | 2023-02-17 |

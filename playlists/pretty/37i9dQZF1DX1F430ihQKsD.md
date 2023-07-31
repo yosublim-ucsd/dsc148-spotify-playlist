@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: MUNYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,214 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,237 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 | 100 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 |
 
-Snapshot ID: `MCxjMzdmYWNmYjk3YjAyYWU3ZGFmOWFjYzA1ZjkyMTExNTA1ODE0ZmNm`
+Snapshot ID: `MCw1MzBjOGIxNTk5OTRlOWZhMjJlMzMxY2VjYTA4NGM0ZDJmYWM0Nzdl`

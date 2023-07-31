@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,739 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,053 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 39 | [Die Alone](https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 4:21 |
 | 40 | [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 |
 | 41 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
-| 42 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
-| 43 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
+| 42 | [i'll never fall in love with myself \- demo](https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [goodnight moon \(demos\)](https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN) | 1:47 |
+| 43 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 | 44 | [Pictures of Us](https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 4:39 |
 | 45 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 |
 | 46 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
@@ -80,14 +80,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 70 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 |
 | 71 | [If I Really Love You](https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [If I Really Love You](https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u) | 3:14 |
 | 72 | [Tired](https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Tired](https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c) | 2:58 |
-| 73 | [Rage](https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rage](https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN) | 2:41 |
-| 74 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 |
+| 73 | [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 |
+| 74 | [Rage](https://open.spotify.com/track/1tOpOwS4F854SWZmhhy3XU) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Rage](https://open.spotify.com/album/4FPSps9RCv6uftt1JuqpCN) | 2:41 |
 | 75 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |
 | 76 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
 | 77 | [VERY ALONE](https://open.spotify.com/track/1LCgehdvJ91SgSRuI7Ez90) | [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz) | [VERY ALONE](https://open.spotify.com/album/3MFv8OuVq7MKHRMoAKwFjK) | 2:11 |
 | 78 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 |
-| 79 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
-| 80 | [are you sleeping alone again?](https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:06 |
+| 79 | [are you sleeping alone again?](https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [are you sleeping alone again?](https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU) | 2:06 |
+| 80 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 |
 | 81 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 |
 | 82 | [Pyjama Pants](https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:58 |
 | 83 | [tell me a joke](https://open.spotify.com/track/2fOYcnUo9iPTOqIlSg26MY) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 5:04 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 90 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 |
 | 91 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 |
 | 92 | [canine teeth](https://open.spotify.com/track/0mXhEiLnnb5cpePShMXQVO) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Fog Lake](https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H) | [canine teeth](https://open.spotify.com/album/1psPqa4HOi4BLqMP9yi1X9) | 1:20 |
-| 93 | [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:14 |
-| 94 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
-| 95 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 |
+| 93 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 |
+| 94 | [Mother](https://open.spotify.com/track/2ItXZP9iAfOtoASybQIOJd) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Mother](https://open.spotify.com/album/5muERq5oQwEjbruFHVIPk2) | 3:13 |
+| 95 | [silhouette](https://open.spotify.com/track/5jCv6lP0L05g8GcRTYLCIE) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [silhouette](https://open.spotify.com/album/3oIahIvFl1nQjfzoJrdP7Y) | 4:14 |
 | 96 | [lost a friend](https://open.spotify.com/track/0UHYeb8y30S4iImlXQEqbR) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:45 |
 | 97 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 |
 | 98 | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/album/6CfmJvvl4OCMN2XoWxn3wC) | 2:16 |
 | 99 | [Brown Eyes and Backwoods](https://open.spotify.com/track/5Q8ILM1zVZWyGjIxAs8jdn) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:58 |
 | 100 | [Deep End](https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Deep End](https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU) | 2:16 |
 
-Snapshot ID: `MCw1NWZiNDU4YTM0ODYwYjRiNjBlZTExZDI3ODE0NTcxYmZmNjBmMjY2`
+Snapshot ID: `MCwzYWMyNTJiZGZjYzJjNWZmZjFiMTY2NWZhYzk1MjhjZWJhYTkyMmFi`

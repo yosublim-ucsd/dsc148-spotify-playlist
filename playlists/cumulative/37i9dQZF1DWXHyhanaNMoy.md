@@ -4,7 +4,7 @@
 
 > Motion en good vibes! Cover: JZyNo, Lasmid
 
-638 songs - 1 day 4 hr 42 min
+639 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-19 | 2023-06-16 |
 | [Bestie](https://open.spotify.com/track/18VGPLvONm381ScPGhBXNb) | [Tjatjie](https://open.spotify.com/artist/2xLO5iLr601OrcfLKlMIPQ), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Bestie](https://open.spotify.com/album/2TNRp017CdbAr8KksHBtkD) | 2:08 | 2022-08-25 | 2022-09-09 |
 | [Beter Af Alleen](https://open.spotify.com/track/7dDbJduMeUOHoU2SATXn7k) | [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX) | [Beter Af Alleen](https://open.spotify.com/album/5EtgGMGFw9y0xy0xUDwFRw) | 2:13 | 2023-01-26 | 2023-02-10 |
+| [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-30 |  |
 | [Big Man Ting](https://open.spotify.com/track/5ulIfOLr3pg4EDuVmF96RD) | [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Kleine Jongens Worden Groot](https://open.spotify.com/album/24z2HWc8t4yya3nP4yEBaC) | 2:32 | 2022-11-10 | 2022-11-26 |
 | [Big Player](https://open.spotify.com/track/25uTHWeasYt0agKHBXGMPp) | [Jamily Jordan](https://open.spotify.com/artist/6gHqhHMbrZ5VHK1z3CoqDa) | [Big Player](https://open.spotify.com/album/6yxBzEi4tNslPCYyakJLNb) | 2:07 | 2023-05-12 | 2023-05-19 |
 | [Big Poppa \(feat\. Sam J'taime & Bartofso\)](https://open.spotify.com/track/7A8saQHtibJkuv5t8civXN) | [ChildsPlay](https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel), [Sam J'taime](https://open.spotify.com/artist/5xI2wCNNCEJClRVASUysAh), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Big Poppa \(feat\. Sam J'taime & Bartofso\)](https://open.spotify.com/album/4N1xOqqWvbRTa9aWhoxHQg) | 2:07 | 2023-06-29 |  |

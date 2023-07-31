@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > the soundtrack for girls living by their notes app\. ft Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,544 likes - 96 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,941 likes - 96 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 95 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 |
 | 96 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 
-Snapshot ID: `MCw4MTM5N2Q5ZGQ2YjkyNjdjNzI5NmU5YTI4YmEyNTUwZGRjODY1YjM2`
+Snapshot ID: `MCxmZWVjZmIzNzU5NGYzMjFkYWY2ZmI5N2YxNWQzMDU5NDNmYTk1N2Rl`

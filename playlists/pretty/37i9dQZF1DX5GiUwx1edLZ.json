@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276162,
+  "num_followers": 276179,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj",
+  "snapshot_id": "MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -607,26 +607,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "All That Really Matters (Stripped Version)",
-        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198568,
-      "name": "All That Really Matters - Stripped Version",
-      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 170882,
       "name": "Hurricane - Acoustic Version",
       "url": "https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "All That Really Matters (Stripped Version)",
+        "url": "https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 198568,
+      "name": "All That Really Matters - Stripped Version",
+      "url": "https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 191327,
-      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
-      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Better EP (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/6XTuLXNcNIzDaLzI6EwKXy"
       },
@@ -883,22 +863,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Drink About (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
+        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
       },
       "artists": [
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 177656,
-      "name": "Drink About - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
+      "duration_ms": 191327,
+      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
+      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -915,6 +895,26 @@
       "duration_ms": 282744,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Drink About (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Drink About - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Paradise (The Acoustics)",
-        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 158830,
-      "name": "Paradise - Piano Version",
-      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Better Half Of Me",
         "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 212846,
       "name": "Better Half Of Me - Acoustic Mix",
       "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Paradise (The Acoustics)",
+        "url": "https://open.spotify.com/album/7Jhw4zniJdzFWMt7iPmtZK"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 158830,
+      "name": "Paradise - Piano Version",
+      "url": "https://open.spotify.com/track/550aWNppgjke6wF5lepBbG"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Watch the World",
-        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 201748,
-      "name": "Fears - Acoustic Version",
-      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Looking For Me (Remixes)",
         "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Watch the World",
+        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
+        }
+      ],
+      "duration_ms": 201748,
+      "name": "Fears - Acoustic Version",
+      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1963,22 +1963,18 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+        "name": "Ones You Miss (Acoustic)",
+        "url": "https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Don't Forget My Love - Acoustic",
-      "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
+      "duration_ms": 112173,
+      "name": "Ones You Miss - Acoustic",
+      "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"
     }
   ],
   "unique_name": "mint Acoustic",

@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 57316,
+  "num_followers": 57342,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDhlNjc0N2VjYWYxZDEzNGI3MmQ5OTM0N2RhMDFiOTBjYTU2YzBi",
+  "snapshot_id": "MCxlNWEwMGJiMjk4ODE1ZDBkYzBhMmVhZDQ4NTI3MDNlNTJmMGIzMTZi",
   "tracks": [
     {
       "added_at": "2023-07-24 15:00:07",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-07-24 15:00:07",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2023-07-24 15:00:07",
+      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 197633,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO"
-    },
-    {
-      "added_at": "2023-07-24 15:00:07",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-07-24 15:00:07",

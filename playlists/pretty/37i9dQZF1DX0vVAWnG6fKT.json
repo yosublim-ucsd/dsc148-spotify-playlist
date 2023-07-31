@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 136197,
+  "num_followers": 136294,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm",
+  "snapshot_id": "MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Roy Acuff",
-        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
-      },
-      "artists": [
-        {
-          "name": "Roy Acuff",
-          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 163560,
       "name": "Deep In the Heart of Texas",
       "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
       "artists": [
         {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+      "duration_ms": 208066,
+      "name": "Blue Yodel No. 4",
+      "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
       },
       "artists": [
         {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Blue Yodel No. 4",
-      "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
-      },
-      "artists": [
-        {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Country Hoedown",
         "url": "https://open.spotify.com/album/1jf3GBgaKcCXbSTypbfEId"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 176573,
       "name": "Slowpoke",
       "url": "https://open.spotify.com/track/6Hyk7NaRlC3pSBrso8oFXM"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
+      },
+      "artists": [
+        {
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+        }
+      ],
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bond",
-          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "So, Round, So Firm, So Fully Packed",
-      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Bill Monroe",
         "url": "https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 161626,
       "name": "Mule Skinner Blues (Blue Yodel #8)",
       "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bond",
+          "url": "https://open.spotify.com/artist/3oY80B5wwJ7TH3inVejOQ0"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "So, Round, So Firm, So Fully Packed",
+      "url": "https://open.spotify.com/track/0OmEXfD8wnUDd5hCQktc5x"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Copasetic",
-        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Copas",
-          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Filipino Baby",
-      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 161120,
       "name": "Texarkana Baby",
       "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Copasetic",
+        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Copas",
+          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Filipino Baby",
+      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
     },
     {
       "added_at": "2023-01-02 21:50:32",

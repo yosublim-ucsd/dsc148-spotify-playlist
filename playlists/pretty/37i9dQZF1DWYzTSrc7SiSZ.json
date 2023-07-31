@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 663509,
+  "num_followers": 663608,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWIyOTE5NWE3OGJkYjVkYmYxMzQ2MDUwOGU5OTY4NmNiMTA5ZjYy",
+  "snapshot_id": "MCxkMjUxNDY1M2U5NWEzNjk4OGQ3MTIzNDUxMjU5MTExNTE0YWNkZjJh",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "POKE FREESTYLE",
+        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "POKE FREESTYLE",
+      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Planeando Madrid",
         "url": "https://open.spotify.com/album/6VdOHTCfGTHltUhXr7Nre7"
       },
@@ -151,22 +171,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "rifresh",
-        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 177515,
-      "name": "Doler\u00eda",
-      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
       },
@@ -179,6 +183,22 @@
       "duration_ms": 211562,
       "name": "Uh",
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "rifresh",
+        "url": "https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 177515,
+      "name": "Doler\u00eda",
+      "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -211,26 +231,6 @@
       "duration_ms": 209941,
       "name": "La Ducha",
       "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "POKE FREESTYLE",
-        "url": "https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Papi Sousa",
-          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "POKE FREESTYLE",
-      "url": "https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Siempre tengo sue\u00f1o",
-        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Siempre tengo sue\u00f1o",
-      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Siempre tengo sue\u00f1o",
+        "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 165909,
+      "name": "Siempre tengo sue\u00f1o",
+      "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El D\u00eda Que Me Odies",
-        "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "El D\u00eda Que Me Odies",
-      "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Cafeliko",
         "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "El D\u00eda Que Me Odies",
+        "url": "https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "El D\u00eda Que Me Odies",
+      "url": "https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Toma Mi Mano",
-        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
-      },
-      "artists": [
-        {
-          "name": "Matias Juarez",
-          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
-        },
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Toma Mi Mano",
-      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 166310,
       "name": "Duele",
       "url": "https://open.spotify.com/track/4m5EmFEphqslKaLYw9mU1t"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Toma Mi Mano",
+        "url": "https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj"
+      },
+      "artists": [
+        {
+          "name": "Matias Juarez",
+          "url": "https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Toma Mi Mano",
+      "url": "https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -987,26 +987,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Astra",
-        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        },
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 313198,
-      "name": "Sin Freno",
-      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Astra",
+        "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 313198,
+      "name": "Sin Freno",
+      "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
         }
       ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 250160,
       "name": "beat relajado para estudiar",
       "url": "https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
-        }
-      ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Conf\u00eden En M\u00ed",
-        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
-      },
-      "artists": [
-        {
-          "name": "Andry Kiddos",
-          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
-        }
-      ],
-      "duration_ms": 108586,
-      "name": "No Eres T\u00fa, Soy Yo",
-      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Guitarra",
         "url": "https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 174000,
       "name": "Guitarra",
       "url": "https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Conf\u00eden En M\u00ed",
+        "url": "https://open.spotify.com/album/3Zh7CHXu7JfbaRThiXjfDy"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "duration_ms": 108586,
+      "name": "No Eres T\u00fa, Soy Yo",
+      "url": "https://open.spotify.com/track/0yyXYlCgvoiKjm9T7k23q1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Tus Besos",
-        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 205874,
-      "name": "Tus Besos",
-      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Tus Besos",
+        "url": "https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 205874,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/028vko2T93bPeotwTWXOve"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "My Summer Time",
         "url": "https://open.spotify.com/album/5lyIffJt0ugc2GApCIe0nr"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 187418,
       "name": "My Summer Time",
       "url": "https://open.spotify.com/track/6lSUnwb0ba41qNUhTFfIoA"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Hurricane Season",
+        "url": "https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j"
+      },
+      "artists": [
+        {
+          "name": "JCZR",
+          "url": "https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D"
+        }
+      ],
+      "duration_ms": 167878,
+      "name": "Hurricane Season",
+      "url": "https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv"
     }
   ],
   "unique_name": "Chill Latino",

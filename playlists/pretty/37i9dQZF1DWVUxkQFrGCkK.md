@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,455 likes - 214 songs - 16 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,637 likes - 214 songs - 16 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 12 | [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 |
 | 13 | [All My Friends](https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Real Cultural Shit](https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0) | 4:03 |
 | 14 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
-| 15 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 |
+| 15 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 |
 | 16 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 |
 | 17 | [Detective Chimp](https://open.spotify.com/track/7H4DeHbqZkeNdJkEequ1sh) | [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl), [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG) | [Dance Monkey Dance](https://open.spotify.com/album/1k3ppNSi9Ko3oaKVcyUWXW) | 6:06 |
 | 18 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 213 | [1994](https://open.spotify.com/track/6hZ84FsTMVnKcFg4NL8Jdx) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Deep Aztec](https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw) | [1994](https://open.spotify.com/album/6Ad8xLIOBY6b2mG1jIenwa) | 5:09 |
 | 214 | [Bird](https://open.spotify.com/track/0FGG8uB6cqwDxI1LzIGLZ6) | [Time](https://open.spotify.com/artist/121kK4qdKVJMI8kIFIPbag) | [Bird](https://open.spotify.com/album/3gPdFSeAxBSpSidzKwyWMz) | 6:24 |
 
-Snapshot ID: `MCxkYjM1MGI3ZWExZWE1ODI4ZTkyM2ZhZDc2NGQ0OWRjOGZjYjIzOGUz`
+Snapshot ID: `MCw5MjlmYmQ2MzgxNDEyYWY2ZWRhYjY1YTAyNzg1MTI5M2EzODE0NWQw`

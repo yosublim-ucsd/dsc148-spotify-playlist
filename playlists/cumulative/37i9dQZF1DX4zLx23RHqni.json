@@ -214,10 +214,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 214269,
       "name": "En Manasa Kalachale",
       "url": "https://open.spotify.com/track/6MpPuw9ZJjRwty1QuiyloN"
+    },
+    {
+      "album": {
+        "name": "En Manasa Kalachale",
+        "url": "https://open.spotify.com/album/1a976GvlsDfAHjBk8OI5Au"
+      },
+      "artists": [
+        {
+          "name": "Sibhi",
+          "url": "https://open.spotify.com/artist/7stMjx1zufHjblKVqqVZiD"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214269,
+      "name": "En Manasa Kalachale",
+      "url": "https://open.spotify.com/track/7wtlmmn8eIV4Ma7qcc9aXv"
     },
     {
       "album": {

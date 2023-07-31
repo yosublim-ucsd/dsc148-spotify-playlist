@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
         "url": "https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR"
       },
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 218381,
       "name": "\u9752\u6625\u307f\u305f\u3044\u3060",
       "url": "https://open.spotify.com/track/5vXE55Ruduk3vkaXtLu4P7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Blue.D\(블루디\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,699 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,709 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 8 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 |
 | 9 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
 | 10 | [pit\-a\-pet](https://open.spotify.com/track/5Pf0Kp6w1G9xh7ufoKcL5m) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/5rsgGy09HIAwtIy5oF5MhF) | 4:01 |
-| 11 | [typical story](https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [typical story](https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU) | 2:06 |
+| 11 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
 | 12 | [Bad](https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p) | 4:42 |
-| 13 | [Strawberry Kisses](https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Strawberry Kisses](https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6) | 3:01 |
+| 13 | [typical story](https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [typical story](https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU) | 2:06 |
 | 14 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 |
 | 15 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
 | 16 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 44 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
 | 45 | [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 |
 | 46 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
-| 47 | [Mr\. Mood](https://open.spotify.com/track/625V2w5OOIYwF9MQE3FrEG) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Mr\. Mood](https://open.spotify.com/album/42E7mSHab2epuAzNgrelpf) | 2:03 |
+| 47 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
 | 48 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
-| 49 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
-| 50 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
+| 49 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 |
+| 50 | [Mr\. Mood](https://open.spotify.com/track/625V2w5OOIYwF9MQE3FrEG) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Mr\. Mood](https://open.spotify.com/album/42E7mSHab2epuAzNgrelpf) | 2:03 |
 
-Snapshot ID: `MCxmODBiNjBlYTNiZGNmYTQxOGZmNTdmOTdiZjkxYjQ5MzBlZTg5MDRj`
+Snapshot ID: `MCw3MmIzZDUyMjE2MjIyMDg3NWM4Y2IxYTU3MTBkMmQwYjEwNWM1ZDFl`

@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 1557,
+  "num_followers": 1576,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjg5ODk2ZGFmYTE3N2NlOTE3YjhhNjcyYTMzNjAzZDJlMjA1YWZk",
+  "snapshot_id": "MCxjYzM3ZjRlOGUxYTFiN2VkMDI2ZDRjNjYwNWQ0OGZmY2QyYjkzMjgy",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:44",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 427226,
-      "name": "Wo Ntaban",
-      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/5caDSXSNgN6sPsCJRWCqNT"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 378666,
       "name": "Ayeyi Ndowm",
       "url": "https://open.spotify.com/track/25oRGk2NVHd5yHFuQwp2ES"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 427226,
+      "name": "Wo Ntaban",
+      "url": "https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Comfort Annor",
+          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
+        }
+      ],
+      "duration_ms": 328855,
+      "name": "Di Wo Hene",
+      "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
         "name": "Osoro Ne Yefie",
         "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 434259,
       "name": "Osoro Ne Yefie",
       "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 527640,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
       },
       "artists": [
         {
-          "name": "Comfort Annor",
-          "url": "https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb"
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
         }
       ],
-      "duration_ms": 328855,
-      "name": "Di Wo Hene",
-      "url": "https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu"
+      "duration_ms": 527640,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Asomdwoe Hene",
-        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 312058,
-      "name": "Twediampong Nyame",
-      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 377678,
       "name": "Bue Kwan Ma Me",
       "url": "https://open.spotify.com/track/0gUVb28Uegg96XfBZYZglR"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Asomdwoe Hene",
+        "url": "https://open.spotify.com/album/4UxB7lVnR3sT4OmBuDhBw2"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 312058,
+      "name": "Twediampong Nyame",
+      "url": "https://open.spotify.com/track/4JwAjpD5KJyrqVcIg2MhLD"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
+        "name": "Mahunu Awurade",
+        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 359366,
+      "name": "Okura Yen Mu",
+      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 347693,
       "name": "Aden Nti Na Woresu Yi_",
       "url": "https://open.spotify.com/track/5j3jlCQ6gJl4hMLLwTNF7H"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Mahunu Awurade",
-        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 359366,
-      "name": "Okura Yen Mu",
-      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
     },
     {
       "added_at": "2023-04-06 15:07:44",

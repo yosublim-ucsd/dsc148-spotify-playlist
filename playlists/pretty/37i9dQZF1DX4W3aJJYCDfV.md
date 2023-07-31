@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Calvin Harris + Sam Smith \(pictured\), Anne\-Marie, Burna Boy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,822 likes - 144 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,849 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 143 | [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 |
 | 144 | [Medina](https://open.spotify.com/track/71GKQgzFuV3uCFJIwsJkCZ) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb) | [Medina](https://open.spotify.com/album/0PxYMm6JaKtyRvutWduBNe) | 6:36 |
 
-Snapshot ID: `MCwyYWQyNjRmODc5OWEzZjE1NjBhMjNkMTMxMWY5OWNlYmUzYjJlNzA2`
+Snapshot ID: `MCw1Mzg2MWZkZDEyYTYzYTMwYmM4NDEwNGM4ZmNjYmRhODFiYTQyMTlm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,530 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,604 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 28 | [Are You Having Any Fun](https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Tony Bennett With Count Baise](https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6) | 2:43 |
 | 29 | [Take The "A" Train](https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 6:44 |
 | 30 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
-| 31 | [Happy Together](https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [Happy Together](https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO) | 3:36 |
-| 32 | [Orange Colored Sky \- Remastered 2005](https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Stan Kenton & His Orchestra](https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 2:33 |
+| 31 | [Orange Colored Sky \- Remastered 2005](https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Stan Kenton & His Orchestra](https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 2:33 |
+| 32 | [Happy Together](https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [Happy Together](https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO) | 3:36 |
 | 33 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 34 | [Jack, You're Dead!](https://open.spotify.com/track/1EbSCkFjbaTncuamPWPq11) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Jumpin' Jive \(Remastered 1999\)](https://open.spotify.com/album/7spQJsP6dimhGMNgsBYaRO) | 2:47 |
 | 35 | [The Night Is Ours](https://open.spotify.com/track/3gdtpnncPDMylME3EWreQf) | [Gregory Cotti](https://open.spotify.com/artist/33t28I8epQR7UNrJXLgowa), [Gabriel Saban](https://open.spotify.com/artist/2lgEU996kHhYBlo10vh59G) | [Rumble Jam \- Big Band and Jazz Themes](https://open.spotify.com/album/2u1GEI8PRVNlBnVCAOEJFM) | 2:28 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 42 | [Lullaby of the Leaves](https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu) | [The Kenny Clarke\-Francy Boland Big Band](https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO) | [More Smiles](https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg) | 4:14 |
 | 43 | [Everybody's Talking \(feat\. Greg Blackman\)](https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc) | [Dutty Moonshine Big Band](https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W) | [Everybody's Talking \(feat\. Greg Blackman\)](https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg) | 2:56 |
 | 44 | [The Waltz I Blew for You](https://open.spotify.com/track/3dx30dESDnNEglqLAVknpX) | [Rob McConnell](https://open.spotify.com/artist/0I283aIonuly1I86RkxpXr), [The Boss Brass](https://open.spotify.com/artist/6JPFuxGY5ZvsAlznTmLTbT) | [Present Perfect](https://open.spotify.com/album/6BLOeCD5XEE3yPs7GpIovn) | 9:42 |
-| 45 | [Nuttville](https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Roar Of '74](https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd) | 4:50 |
-| 46 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
+| 45 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
+| 46 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
 | 47 | [Doodlin'](https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 3:55 |
-| 48 | [Just One Of Those Things](https://open.spotify.com/track/6QZ4ZhD8hGVTfwoN2Ypl4Z) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Inspiration \(A Tribute To Nat King Cole\)](https://open.spotify.com/album/7CVBlFmDZnYjHyP6G0aj0m) | 2:42 |
+| 48 | [Nuttville](https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS) | [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [The Roar Of '74](https://open.spotify.com/album/1HgeSBNWKa45fb7WmQwcNd) | 4:50 |
 | 49 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
 | 50 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 
-Snapshot ID: `MCwxZDRkNzgxOGQ4YmRjYTQ5ODQxYjBhZDY1MWZlNTJjMTEwNzQwMDc1`
+Snapshot ID: `MCxhY2I4MzM4Yzg5ZTJkMzRlNWYxZWJiODkyMzI0NDhiZDdjZTQzOTBm`

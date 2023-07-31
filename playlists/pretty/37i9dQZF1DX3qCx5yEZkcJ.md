@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,225 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,262 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 74 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 |
 | 75 | [Restless Minds](https://open.spotify.com/track/6eMBHbovGi1RhRrViEtvaV) | [Yomoti](https://open.spotify.com/artist/1QybrBtERg1gUpJxwRelUC) | [Restless Minds](https://open.spotify.com/album/0WldfGjBHGC793Dr3AMwmP) | 2:09 |
 | 76 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 |
-| 77 | [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 |
-| 78 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 |
-| 79 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 |
-| 80 | [Elevator \- Remastered](https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N) | 3:27 |
+| 77 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 |
+| 78 | [Transit\(Ions\)](https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit](https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r) | 2:12 |
+| 79 | [Elevator \- Remastered](https://open.spotify.com/track/2yltjA72DhOW2hL7CzbAMD) | [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [Elevator \(Remastered\)](https://open.spotify.com/album/7DNUHO4a9PrLD51cOaJO1N) | 3:27 |
+| 80 | [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 |
 
-Snapshot ID: `MCxkNTUyYWMxYmNmNGJhNTE2ZGI0MGNiYWUxOGE1YzRkYTRmZmFhMTRk`
+Snapshot ID: `MCwyYmVmMGY1YWZlOGU4Zjc0YmFmMWVmZGZiMTA3ZDcyOTg2ZTM5ODdi`

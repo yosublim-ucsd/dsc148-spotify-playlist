@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=otIbe8yYTz6puy1WeFIcUg"> AYLØ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,182 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,217 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [GBEDU](https://open.spotify.com/track/1DFvoNrsP9IAahTwwXDTmf) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [GBEDU](https://open.spotify.com/album/21XomI9UziLcJk8yLCInRY) | 3:05 |
 | 80 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 |
 
-Snapshot ID: `MCxjYjBmZmU3YjM1NWRkZmZjMTI3ZDMwMmJlYmZiYjc2Yzk1MmE4Zjk3`
+Snapshot ID: `MCxiYmEyMDViZjVhMzJhODJlNDU2YWY3MjRjYWYxNzNiMzZmZWQzOGFj`

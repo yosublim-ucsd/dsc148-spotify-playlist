@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 13 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 |
 | 14 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 15 | [A Stream With Bright Fish \- 2005 Digital Remaster](https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:56 |
-| 16 | [Do Matter](https://open.spotify.com/track/49jtaVSPf7RzqtFfHlFOLr) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [The Digging Remedy](https://open.spotify.com/album/0WKm16Qa3ZrFVWyA8v8OJz) | 3:40 |
-| 17 | [Intro / Menu](https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [The Old City \(Original Soundtrack\)](https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG) | 2:08 |
+| 16 | [Intro / Menu](https://open.spotify.com/track/73E1KgkXmrxyOREKgJIVTy) | [Atrium Carceri](https://open.spotify.com/artist/6UIsHrMMddC9hmkwI4J3Jr) | [The Old City \(Original Soundtrack\)](https://open.spotify.com/album/5Fex355uJzSpwLSzcngIvG) | 2:08 |
+| 17 | [Do Matter](https://open.spotify.com/track/49jtaVSPf7RzqtFfHlFOLr) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [The Digging Remedy](https://open.spotify.com/album/0WKm16Qa3ZrFVWyA8v8OJz) | 3:40 |
 | 18 | [Night](https://open.spotify.com/track/0tdZbCUN57uLhTPMjfQz1f) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes](https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9) | 3:38 |
 | 19 | [In McDonalds](https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK) | 2:06 |
 | 20 | [Eulogy](https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9aFcuM4nAnw.md) - [plain]
 | 74 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 75 | [Mogadon Coffee Morning](https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia) | [The Advisory Circle](https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S) | [Other Channels](https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D) | 2:56 |
 
-Snapshot ID: `MCw3NDhjODkzMDA2YzA5OWNiZGM4ZTkzYTVkZTEzZmQzM2VlZjlkNTNl`
+Snapshot ID: `MCw2ZGY3MjQ4ODA2MWU1NWUzMDc4MjRhZTU1N2ExOTc2ZGU0ZDY3ZWQ1`

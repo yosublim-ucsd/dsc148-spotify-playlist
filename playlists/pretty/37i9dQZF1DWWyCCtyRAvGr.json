@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 155395,
+  "num_followers": 155441,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWM2ZTE0N2Y0ODA3MzQxODM3Yzc2OGZlMWRkMzA2Mzg1MjU4ODAw",
+  "snapshot_id": "MCwyMzkxMDQzOGVkZjEwNDI2Zjg1NTkxNjNhMWU1MjM2NDM1YjVkMjQ3",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 355434,
-      "name": "Come on and Go with Me",
-      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 355434,
+      "name": "Come on and Go with Me",
+      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Then Play On (2013 Remaster; Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
         }
       ],
-      "duration_ms": 275201,
-      "name": "Without You - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+        "name": "Then Play On (2013 Remaster; Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW"
       },
       "artists": [
         {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
+      "duration_ms": 275201,
+      "name": "Without You - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Crackdown",
-        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "One Scotch, One Bourbon, One Beer",
         "url": "https://open.spotify.com/album/7uDIaa0VUbDhhEA4CkqNN6"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Mississippi Son",
-        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
+        "name": "Crackdown",
+        "url": "https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL"
       },
       "artists": [
         {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Drifting From Town To Town",
-      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
+      "duration_ms": 211819,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/4mEITOF0rKhIZr3rBJuwk0"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1215,22 +1199,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+        "name": "Mississippi Son",
+        "url": "https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf"
       },
       "artists": [
         {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 187447,
-      "name": "Something With Feel",
-      "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
+      "duration_ms": 186493,
+      "name": "Drifting From Town To Town",
+      "url": "https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1247,6 +1227,26 @@
       "duration_ms": 170133,
       "name": "(I'm Your) Hoochie Coochie Man",
       "url": "https://open.spotify.com/track/76yNIsr8JtT0ubC3HjxKgS"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 187447,
+      "name": "Something With Feel",
+      "url": "https://open.spotify.com/track/4KGC0qfSTXLVU2ZYCRUHKq"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 443160,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 301440,
       "name": "I Got News For You",
       "url": "https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 443160,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
     },
     {
       "added_at": "2023-04-28 16:37:16",

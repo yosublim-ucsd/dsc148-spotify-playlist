@@ -4,7 +4,7 @@
 
 > Boss music for boss people\. Cover: Bandit
 
-145 songs - 8 hr 22 min
+146 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Feel for Me](https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae) | [Lissy Taylor](https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4) | [Feel for Me](https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP) | 3:22 | 2023-07-28 |  |
 | [Feels So Real](https://open.spotify.com/track/3FT6FDtU2POsP0XAcqtAsh) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [The Clockworks](https://open.spotify.com/album/5yy6SxQG6UFCXMP6wDAUJR) | 3:32 | 2023-01-10 |  |
 | [Forget About Me](https://open.spotify.com/track/3a0EX3qKaVsTsVxBexZQnc) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Knowledge Freedom Power](https://open.spotify.com/album/5Hjrk5ZrtyQgt0MDzdT6nu) | 3:56 | 2023-02-24 | 2023-04-19 |
+| [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 | 2023-07-28 |  |
 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 | 2023-01-10 |  |
 | [Full Round Table](https://open.spotify.com/track/2mX022csmPILfLhGGwctqn) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Full Round Table](https://open.spotify.com/album/6gptW1eODnspT3YYkcVfTf) | 4:14 | 2023-01-10 | 2023-02-24 |
 | [Getting Started](https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:09 | 2023-06-07 |  |
@@ -122,7 +123,7 @@
 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 | 2023-03-31 |  |
 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 | 2023-02-24 |  |
 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 | 2023-02-24 |  |
-| [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2023-01-10 |  |
+| [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2023-01-10 | 2023-07-31 |
 | [The Back Seat](https://open.spotify.com/track/1ComyGLPB1zuJKeHlP9OrQ) | [Paris Youth Foundation](https://open.spotify.com/artist/0VbV5uXwfAeHwknldpuAYa) | [How to Ruin Your Life](https://open.spotify.com/album/5pTTaAcPkllw9HpZFIfP7x) | 4:12 | 2023-01-10 |  |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2023-01-10 |  |
 | [The Dreamer](https://open.spotify.com/track/6gQheeYzRC6CFO6ydya9wx) | [The Sway](https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb) | [Days Lost or Happily Wasted](https://open.spotify.com/album/530f9RmlCdks6xvP7ZtObj) | 3:11 | 2023-03-31 | 2023-04-19 |

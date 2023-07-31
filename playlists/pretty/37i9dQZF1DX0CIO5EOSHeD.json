@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Eyedress",
-  "num_followers": 442849,
+  "num_followers": 443019,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjQ1YzViZjlmYjc2ODA2YWU5OTgzYjBiNDNkNzVlOWFiMzg1YWZl",
+  "snapshot_id": "MCxjYTYxZmYxNGY5ODhlY2Q1MWFjNDQ2YjA3MzhhMGQxOTE2YTU1ZDVj",
   "tracks": [
     {
       "added_at": "2023-07-21 22:14:09",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
+        "name": "Big Day",
+        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 176002,
       "name": "ALIEN LOVE CALL",
       "url": "https://open.spotify.com/track/5o5SdS2vu1PgKblBABGlER"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
-        "name": "Big Day",
-        "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "High",
-      "url": "https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Luxury Beverage",
         "url": "https://open.spotify.com/album/0Yo59wt8j5LFakGmqm16Iu"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 158785,
       "name": "lavender blood",
       "url": "https://open.spotify.com/track/4sXwt3StCVkgLyxxvgVXrq"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 191527,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2023-07-21 22:14:09",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-07-21 22:14:09",
       "album": {
-        "name": "Elizabethtown.",
-        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 136649,
-      "name": "mean creek.",
-      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
-    },
-    {
-      "added_at": "2023-07-21 22:14:09",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 180295,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
+    },
+    {
+      "added_at": "2023-07-21 22:14:09",
+      "album": {
+        "name": "Elizabethtown.",
+        "url": "https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 136649,
+      "name": "mean creek.",
+      "url": "https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO"
     },
     {
       "added_at": "2023-07-21 22:14:09",

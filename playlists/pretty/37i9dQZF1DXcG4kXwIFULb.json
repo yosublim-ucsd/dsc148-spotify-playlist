@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 131854,
+  "num_followers": 132004,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTZlZDhkM2YyZTFhMGJmNGYwNWE4NzQ1MGY0ZTZhZmQwNjlhZjJi",
+  "snapshot_id": "MCw5ZTJlOTUzMGIwZmJhNGJkZDE3N2JjZjEyZjM1ZWM1ZGIzZTk5NzBm",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -219,18 +219,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
+        "name": "Deadringer: Deluxe",
+        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
         }
       ],
-      "duration_ms": 209024,
-      "name": "A Calf Born in Winter",
-      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
+      "duration_ms": 317933,
+      "name": "Ghostwriter",
+      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -291,18 +291,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/7At6mG0vv1DWLVuRrRr3S0"
       },
       "artists": [
         {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 317933,
-      "name": "Ghostwriter",
-      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
+      "duration_ms": 209024,
+      "name": "A Calf Born in Winter",
+      "url": "https://open.spotify.com/track/230tKtsKM3eigmK2CtssAO"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+        "name": "Nouvelle vague",
+        "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Nouvelle Vague",
+          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
+        },
+        {
+          "name": "Eloisia",
+          "url": "https://open.spotify.com/artist/4s4nnSLRibMyHWqCg7J1Pu"
         }
       ],
-      "duration_ms": 207253,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
+      "duration_ms": 198026,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/7a4fdnIEEwQpqrp39clRzK"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1067,22 +1071,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Nouvelle vague",
-        "url": "https://open.spotify.com/album/5odsgd8X7BBy1azAyyKZGY"
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
       "artists": [
         {
-          "name": "Nouvelle Vague",
-          "url": "https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0"
-        },
-        {
-          "name": "Eloisia",
-          "url": "https://open.spotify.com/artist/4s4nnSLRibMyHWqCg7J1Pu"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/7a4fdnIEEwQpqrp39clRzK"
+      "duration_ms": 207253,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy"
     },
     {
       "added_at": "2020-09-04 01:12:56",

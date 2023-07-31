@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 7036,
+  "num_followers": 7045,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3",
+  "snapshot_id": "MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -239,18 +239,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Kan Mingtian",
-        "url": "https://open.spotify.com/album/2q76etsUC6RX93q0UvDWyF"
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43"
       },
       "artists": [
         {
-          "name": "Onisan Lost Piano",
-          "url": "https://open.spotify.com/artist/2aEzybNq7HnpioCV1d4WHs"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 231960,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3KrpjcRBEbJ4qm6ngom95b"
+      "duration_ms": 263779,
+      "name": "Is You - Instrumental",
+      "url": "https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3K4uVMdGeyvmQGd2Biby43"
+        "name": "Kan Mingtian",
+        "url": "https://open.spotify.com/album/2q76etsUC6RX93q0UvDWyF"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Onisan Lost Piano",
+          "url": "https://open.spotify.com/artist/2aEzybNq7HnpioCV1d4WHs"
         }
       ],
-      "duration_ms": 263779,
-      "name": "Is You - Instrumental",
-      "url": "https://open.spotify.com/track/3qhAl59H69PCjM2zOCrW5f"
+      "duration_ms": 231960,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3KrpjcRBEbJ4qm6ngom95b"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "I Just Want To Stay With You - Instrumental",
-      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 234093,
       "name": "You're Cold - Instrumental",
       "url": "https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "I Just Want To Stay With You - Instrumental",
+      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
+        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "Little by little - instrumental",
+      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 251173,
       "name": "You're My End and My Beginning - Instrumental",
       "url": "https://open.spotify.com/track/3v0HU7S4mzqQxFQJXW9970"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
-        "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "Little by little - instrumental",
-      "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Romance is a Bonus Book OST Part.4",
-        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
-      },
-      "artists": [
-        {
-          "name": "Motte",
-          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
-        }
-      ],
-      "duration_ms": 227936,
-      "name": "I pray (Inst.) (Instrumental)",
-      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 157000,
       "name": "My Eyes - Instrumental",
       "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Romance is a Bonus Book OST Part.4",
+        "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "duration_ms": 227936,
+      "name": "I pray (Inst.) (Instrumental)",
+      "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
-      },
-      "artists": [
-        {
-          "name": "Jo Hyun Ah",
-          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "When We Were Together - Instrumental",
-      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Men Are Men (Original Television Soundtrack), Pt.4",
         "url": "https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 256306,
       "name": "Not Clumsy Anymore - Inst.",
       "url": "https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 274917,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
+      "duration_ms": 249042,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 249042,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1491,8 +1491,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "KPOP Piano Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w"
       },
       "artists": [
         {
@@ -1500,9 +1500,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 229415,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
+      "duration_ms": 250224,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1523,8 +1523,8 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Best of BTS, Vol. 2",
-        "url": "https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w"
+        "name": "KPOP Piano Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
       "artists": [
         {
@@ -1532,9 +1532,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 250224,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
     },
     {
       "added_at": "2022-11-02 13:40:53",

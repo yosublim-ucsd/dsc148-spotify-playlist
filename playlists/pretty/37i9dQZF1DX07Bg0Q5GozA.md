@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,741 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,780 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 56 | [Take a Chance](https://open.spotify.com/track/5YKHh24xKQNW7XT29gNIRp) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Take a Chance](https://open.spotify.com/album/5FGc2Uy94y4BVsRSkxmOkZ) | 3:23 |
 | 57 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 |
 | 58 | [hearts <3](https://open.spotify.com/track/2o0JbmIEBEJ20f7SXpr7XH) | [Dariush](https://open.spotify.com/artist/3C4HKKPCdlK3Sn9ik1WDkP), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [bb break fast](https://open.spotify.com/album/5xQytuElt7kUQ3Pus9fdmr) | 4:57 |
-| 59 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 |
+| 59 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 |
 | 60 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
 | 61 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 |
 | 62 | [Find A Way](https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 | 75 | [Feel The Same](https://open.spotify.com/track/2VpoQq4skMUOJNumZWIR2F) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Feel The Same](https://open.spotify.com/album/7BkQXxFdJJwaPB37QvrxQs) | 3:43 |
 
-Snapshot ID: `MCxmNjY3YWFkMDU1ZTRjMzM4MDdhZGJlNjQ2MzQ0MWJiMmY4YTlkM2Ri`
+Snapshot ID: `MCxmNWIwYzc0OTFkNWQ2Zjc0MjUzYjk5NmRjOWFiYjhiNGVmMzBiNGQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ג׳יי למוטה
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,360 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,358 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [ידעתי שבסוף תברח](https://open.spotify.com/track/638BcGDZKDAjZItfKU2izC) | [Shira Margalit](https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz) | [ידעתי שבסוף תברח](https://open.spotify.com/album/3pmkrdURRSTZSExX2NrRgD) | 3:07 |
 | 50 | [שער הרחמים \- ביצוע מיוחד ליום השואה](https://open.spotify.com/track/6nzvw7EbtQmDeusbpMmodc) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [שער הרחמים \(ביצוע מיוחד ליום השואה\)](https://open.spotify.com/album/6BJLlVBky4y4SHf5sidx8t) | 3:56 |
 
-Snapshot ID: `MCxhNWU5MzMxYzUyMzY4YTQxZTA0YTE3N2IzMjVjMmQ4NTM1ZTgzMWU2`
+Snapshot ID: `MCxmM2ZhZGEwZGFiYWI3MjFlOTAzNDZkOGFkMjRhMzk5NTQ4NGNlNmMz`

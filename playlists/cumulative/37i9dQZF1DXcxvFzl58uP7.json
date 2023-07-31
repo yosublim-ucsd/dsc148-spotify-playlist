@@ -8974,7 +8974,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
@@ -9302,6 +9302,24 @@
       "duration_ms": 180173,
       "name": "nature song",
       "url": "https://open.spotify.com/track/2XZ4QZuNkjkfUdrOG3JsVG"
+    },
+    {
+      "album": {
+        "name": "nature song",
+        "url": "https://open.spotify.com/album/6JgG3hdJeiBNHruSyKEho4"
+      },
+      "artists": [
+        {
+          "name": "Shanin Blake",
+          "url": "https://open.spotify.com/artist/0sPLIcpwzNwI8GZMcnCdYp"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180173,
+      "name": "nature song",
+      "url": "https://open.spotify.com/track/6Sqx6YNOsNbtWSwkjDuQhK"
     },
     {
       "album": {

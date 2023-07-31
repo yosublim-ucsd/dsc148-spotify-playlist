@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257897,
+      "name": "CORRI",
+      "url": "https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2"
+    },
+    {
+      "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
       },
@@ -932,6 +950,24 @@
       "duration_ms": 308813,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313543,
+      "name": "LO SPECCHIO",
+      "url": "https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 145244,
+  "num_followers": 145378,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWI5ZTUxYTJlYjUxZTYwNjY1NTBiYjQ2YjBkNzY3OGZkOGU0NWMw",
+  "snapshot_id": "MCwxMjE3NzdkMjRjNWMxNDQ3OGQ0NTUzYmIxNzAzNTMzMGUxNzE1N2Mx",
   "tracks": [
     {
       "added_at": "2023-07-27 12:00:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Going To Where The Tea Trees Are",
         "url": "https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 217640,
       "name": "The Story of the Impossible",
       "url": "https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210329,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl"
     },
     {
       "added_at": "2023-07-27 12:00:43",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
+        "name": "Part I \u2013 When Everything Was Lost",
+        "url": "https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 191450,
+      "name": "Inside My Chest",
+      "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -975,34 +991,18 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Part I \u2013 When Everything Was Lost",
-        "url": "https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2"
+        "name": "Like A Million Dreams (Live)",
+        "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
       },
       "artists": [
         {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+          "name": "Yodelice",
+          "url": "https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ"
         }
       ],
-      "duration_ms": 191450,
-      "name": "Inside My Chest",
-      "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
-        "name": "The Sweet Sound of You",
-        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 297720,
-      "name": "The Sweet Sound of You",
-      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
+      "duration_ms": 229464,
+      "name": "Talk to Me - Live",
+      "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

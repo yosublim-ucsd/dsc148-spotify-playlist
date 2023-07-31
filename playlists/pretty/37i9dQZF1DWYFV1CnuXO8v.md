@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حاله حب 🫶
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,853 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,953 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 8 | [Beat بتمايل على ال](https://open.spotify.com/track/16JY6C92j7cm0LEiuhaN5N) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Beat بتمايل على ال](https://open.spotify.com/album/4Q5agUfE9KBXPt3wuJPz1I) | 4:07 |
 | 9 | [كعبك علي](https://open.spotify.com/track/3fiEw3W3xInUXjyuqFO1S6) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [كعبك علي](https://open.spotify.com/album/1Kgo9nVQn4AwUiaFg3NIFu) | 3:34 |
 | 10 | [3al Wa3d](https://open.spotify.com/track/0jBnk6ZGo8XuurCrYaEZon) | [Wust El Balad](https://open.spotify.com/artist/5kpaPebhiMoUmLOVyPW7gv) | [3al Wa3d](https://open.spotify.com/album/5atcnSO2Vs5QQKu6xxAY0Z) | 3:01 |
-| 11 | [Beraha Ya Sheekha](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Beraha Ya Sheekha](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 |
+| 11 | [براحة يا شيخة](https://open.spotify.com/track/1VfR7wqvEB9vQZrpizMRmf) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [براحة يا شيخة](https://open.spotify.com/album/20FUHKKDyLbnf8shknBSnk) | 2:59 |
 | 12 | [الوتر الحساس](https://open.spotify.com/track/63Gl4Wqr98iJnWoNGFOQjr) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 4:21 |
 | 13 | [Saaba Leh](https://open.spotify.com/track/5LYP0e4du4F6gw9m7SOQI5) | [Nesma Herky](https://open.spotify.com/artist/20KfKaHWko8qNRRhoXTByX), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [Saaba Leh](https://open.spotify.com/album/0cYUB7gHc0pL0AwJuT7m2e) | 4:02 |
 | 14 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 49 | [خطوة](https://open.spotify.com/track/44Mu8j0VexMGUk8Om7U8HU) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [خطوة](https://open.spotify.com/album/0CHAeCoS0FlsSOXTBQgQje) | 3:18 |
 | 50 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 |
 
-Snapshot ID: `MCxlNTg3NDQyYzI3MDY4NWU5M2JkNzBmMjNkMTljYTJlNDNiN2E3NzIy`
+Snapshot ID: `MCxjYzUzZDgzOTQ5NGFmMGIxYmZjNGQwMTc0MGE4NDQxZjFlMDVjN2Jj`

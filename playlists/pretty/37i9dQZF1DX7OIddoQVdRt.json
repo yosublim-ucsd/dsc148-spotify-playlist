@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: The hosts of this year's <a href=\"https://www.thestellarawards.com/index.html\">Stellar Awards</a> , <a href=\"https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7\">Tasha Cobbs Leonard</a>  and <a href=\"https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a\">Jonathan McReynolds</a>",
-  "num_followers": 625234,
+  "num_followers": 625374,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWI3NjZlZDU2MzBiOTEwN2RmMWJjMjJmZjNjYmQzYjkyN2RiZTdj",
+  "snapshot_id": "MCwwMGVlYTQxOTljOGViMjBlZDNhZTBlOTI2Zjg3MDEwNDVkZDJhYWJi",
   "tracks": [
     {
       "added_at": "2023-07-13 07:23:22",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+        "name": "We Gon\u2019 Be Alright",
+        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
       },
       "artists": [
         {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Bishop Cortez Vaughn",
-          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 365190,
-      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
-      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+      "duration_ms": 214973,
+      "name": "We Gon\u2019 Be Alright",
+      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -567,18 +563,22 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "We Gon\u2019 Be Alright",
-        "url": "https://open.spotify.com/album/7mlzDISRd3IcS4MFf0Cuxb"
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
         }
       ],
-      "duration_ms": 214973,
-      "name": "We Gon\u2019 Be Alright",
-      "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 244133,
-      "name": "I Need A Word",
-      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
         "name": "Work It Out (Live)",
         "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 320955,
       "name": "Work It Out - Live",
       "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/6GiPLtoDGqnOIiZtarBE6r"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 347752,
       "name": "Something Has To Break (feat. Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
-        "name": "Speak To Me",
-        "url": "https://open.spotify.com/album/6GiPLtoDGqnOIiZtarBE6r"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Speak To Me",
-      "url": "https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
-        "name": "Touch From You",
-        "url": "https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        }
-      ],
-      "duration_ms": 237257,
-      "name": "Touch From You",
-      "url": "https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
         "name": "Place Called Victory - EP",
         "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
+        "name": "Touch From You",
+        "url": "https://open.spotify.com/album/4qcJq2M19yycNn4wIFo78y"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "duration_ms": 237257,
+      "name": "Touch From You",
+      "url": "https://open.spotify.com/track/2IHroOC3rcvR8fx0SN8Xva"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
         "name": "Zacardi Cortez",
         "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
       },
@@ -1635,26 +1635,6 @@
       "duration_ms": 259906,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
-        "name": "Don't Judge Me (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Judge Me (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1707,6 +1687,26 @@
       "duration_ms": 250107,
       "name": "Never Gonna Break My Faith (feat. The Boys Choir of Harlem)",
       "url": "https://open.spotify.com/track/24l5ku1oI5KdZpF0dLDjAd"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
+        "name": "Don't Judge Me (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Don't Judge Me (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": "2023-07-13 07:23:22",
@@ -1815,6 +1815,30 @@
     {
       "added_at": "2023-07-13 07:23:22",
       "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Melissa Bethea",
+          "url": "https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg"
+        }
+      ],
+      "duration_ms": 747716,
+      "name": "Not Holding Back",
+      "url": "https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD"
+    },
+    {
+      "added_at": "2023-07-13 07:23:22",
+      "album": {
         "name": "Good & Loved (feat. DOE) [Stellars 2020]",
         "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
       },
@@ -1831,22 +1855,6 @@
       "duration_ms": 232232,
       "name": "Good & Loved (feat. DOE) - Stellars 2020",
       "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
-    },
-    {
-      "added_at": "2023-07-13 07:23:22",
-      "album": {
-        "name": "Lifted Up",
-        "url": "https://open.spotify.com/album/4fQDmcyjsy74Ae0ykQmdDd"
-      },
-      "artists": [
-        {
-          "name": "VaShawn Mitchell",
-          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
-        }
-      ],
-      "duration_ms": 269579,
-      "name": "Lifted Up",
-      "url": "https://open.spotify.com/track/080UdKu38T2X7BkTb9jV9u"
     }
   ],
   "unique_name": "Spread the Gospel",

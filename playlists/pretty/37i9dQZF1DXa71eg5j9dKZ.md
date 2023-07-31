@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Maribou State
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,114 likes - 130 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,123 likes - 130 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 129 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 |
 | 130 | [Both](https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Both](https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY) | 2:53 |
 
-Snapshot ID: `MCwyMmIxMDdlN2NjNjRmNDRkMmMzZDIzZjlmNTFkZTk0Mjc2ODk0Yjk2`
+Snapshot ID: `MCw4MWYxN2ZjMDg3ZDg1ZWUwNjc1MjA3ZTc5NjQ0ZjJmYjQ4ZTE4YmM4`

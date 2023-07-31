@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Francisca Valenzuela & Ximena Sari\u00f1ana.",
-  "num_followers": 54730,
+  "num_followers": 54736,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjgxNzRlYWM1MjY5NTYzNDk3MThiOWU3MmMwNjIyNzkxZDVlMTc2",
+  "snapshot_id": "MCxhOTljYWZlZTE4OWY2OTg1MzE4Mzg0ODFhNTliZGU5YWM4YzdiNmJj",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
+      },
+      "artists": [
+        {
+          "name": "Abril Olivera",
+          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
+        }
+      ],
+      "duration_ms": 159741,
+      "name": "Por el Bien de los Dos",
+      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Dos Extra\u00f1os",
         "url": "https://open.spotify.com/album/1LtqPrw7WHFks31bbxZ3LM"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 181564,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/1A6WHBHrOBZTdGcQrc3HAV"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 159741,
-      "name": "Por el Bien de los Dos",
-      "url": "https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "t quiero baby",
-        "url": "https://open.spotify.com/album/7hAtgp27UmRzzUdsaHL8DG"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "t quiero baby",
-      "url": "https://open.spotify.com/track/5Ism0pljdp59O89F22begB"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "La Melancol\u00eda",
         "url": "https://open.spotify.com/album/43naFQmoz0bkCXJOfbxM5t"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 109000,
       "name": "La Melancol\u00eda",
       "url": "https://open.spotify.com/track/0rYCv51RoAHWVxkISDgXyU"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "t quiero baby",
+        "url": "https://open.spotify.com/album/7hAtgp27UmRzzUdsaHL8DG"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "t quiero baby",
+      "url": "https://open.spotify.com/track/5Ism0pljdp59O89F22begB"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Particular",
-        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
-      },
-      "artists": [
-        {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
-        },
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 165808,
-      "name": "Particular",
-      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Particular",
+        "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        },
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "duration_ms": 165808,
+      "name": "Particular",
+      "url": "https://open.spotify.com/track/7vqHU0ctwwedqb7J9QrUUi"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Casualidad",
-        "url": "https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki"
+        "name": "Noche Tem\u00e1tica",
+        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
       },
       "artists": [
         {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+          "name": "Todo El Verano",
+          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
         }
       ],
-      "duration_ms": 168306,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ"
+      "duration_ms": 219834,
+      "name": "Noche Tem\u00e1tica",
+      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1163,18 +1163,34 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Noche Tem\u00e1tica",
-        "url": "https://open.spotify.com/album/551AmNqvXTAgw2NU5DfRJX"
+        "name": "Casualidad",
+        "url": "https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki"
       },
       "artists": [
         {
-          "name": "Todo El Verano",
-          "url": "https://open.spotify.com/artist/36ql1hMBBeWfqeQmK5vXn9"
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
         }
       ],
-      "duration_ms": 219834,
-      "name": "Noche Tem\u00e1tica",
-      "url": "https://open.spotify.com/track/7k6lLVdDN1pczDJzUhm4n7"
+      "duration_ms": 168306,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Sigo Llorando",
+        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 223349,
+      "name": "Sigo Llorando",
+      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Ya No Era Fel\u00edz Contigo",
         "url": "https://open.spotify.com/album/2MMrxUtCssjTgQr1NHigS5"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 188046,
       "name": "Ya No Era Fel\u00edz",
       "url": "https://open.spotify.com/track/7mTfMbGpBMZQE3pE9cyndg"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Sigo Llorando",
-        "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 223349,
-      "name": "Sigo Llorando",
-      "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Un besito",
-        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Un besito",
-      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "miel <3",
         "url": "https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 203157,
       "name": "miel <3",
       "url": "https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Un besito",
+        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Un besito",
+      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
-      },
-      "artists": [
-        {
-          "name": "martuli",
-          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
-        }
-      ],
-      "duration_ms": 186608,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "No Ves Tal Vez",
         "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
       },
@@ -1503,6 +1487,58 @@
       "duration_ms": 209829,
       "name": "No Ves Tal Vez",
       "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/7CTYEjeve7mpzQ4gCJYn9C"
+      },
+      "artists": [
+        {
+          "name": "martuli",
+          "url": "https://open.spotify.com/artist/5nR5kX61auDJNnU64hAIBc"
+        }
+      ],
+      "duration_ms": 186608,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/11dJmpR21O80TucauhNsVN"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        },
+        {
+          "name": "La Nueva Imperial",
+          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
+        }
+      ],
+      "duration_ms": 202655,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Como un Guiri en Barcelona",
+        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Como un Guiri en Barcelona",
+      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1559,34 +1595,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Como un Guiri en Barcelona",
-        "url": "https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm"
+        "name": "El Vals",
+        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
       "artists": [
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Felix Alvarez",
+          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Como un Guiri en Barcelona",
-      "url": "https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "El Protag\u00f3nico",
-        "url": "https://open.spotify.com/album/1Q4mn8XElzCTOZBl2qfkqY"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 160403,
-      "name": "El Protag\u00f3nico",
-      "url": "https://open.spotify.com/track/2qRkJ7rOYh4PhNFuqqHNc7"
+      "duration_ms": 200956,
+      "name": "El Vals",
+      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1611,18 +1631,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "El Vals",
-        "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
+        "name": "El Protag\u00f3nico",
+        "url": "https://open.spotify.com/album/1Q4mn8XElzCTOZBl2qfkqY"
       },
       "artists": [
         {
-          "name": "Felix Alvarez",
-          "url": "https://open.spotify.com/artist/7uiyWjLynl8bhyxDuKphXA"
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
         }
       ],
-      "duration_ms": 200956,
-      "name": "El Vals",
-      "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+      "duration_ms": 160403,
+      "name": "El Protag\u00f3nico",
+      "url": "https://open.spotify.com/track/2qRkJ7rOYh4PhNFuqqHNc7"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1643,26 +1663,6 @@
       "duration_ms": 199386,
       "name": "Los Viernes",
       "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        },
-        {
-          "name": "La Nueva Imperial",
-          "url": "https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5"
-        }
-      ],
-      "duration_ms": 202655,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Caminito",
-        "url": "https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq"
-      },
-      "artists": [
-        {
-          "name": "Coco Green",
-          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
-        },
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Caminito",
-      "url": "https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/3m0R7fX6Gsd7fd7nyQ3FJd"
       },
@@ -1751,22 +1731,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Un Nuevo Ritmo",
-        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+        "name": "Caminito",
+        "url": "https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq"
       },
       "artists": [
         {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+          "name": "Coco Green",
+          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
         },
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
         }
       ],
-      "duration_ms": 213164,
-      "name": "Un Nuevo Ritmo",
-      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
+      "duration_ms": 166500,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1783,6 +1763,26 @@
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Un Nuevo Ritmo",
+        "url": "https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "Un Nuevo Ritmo",
+      "url": "https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9"
     }
   ],
   "unique_name": "mandarina",

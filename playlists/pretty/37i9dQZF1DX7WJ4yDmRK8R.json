@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Jeff Rosenstock ",
-  "num_followers": 354482,
+  "num_followers": 354570,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYThmZmJkMTZiMWZmOWQ5ZDZjYTU1NTk2OGM3MDViYmZiYzQxZjAx",
+  "snapshot_id": "MCw0ZGYxYTQyNThmYWM0YjM5Yzg3NDUzNDk4NGMxZDZjNGZiYTg0MGZh",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Hello Rockview",
-        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "All My Best Friends Are Metalheads",
-      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Hello Rockview",
+        "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "All My Best Friends Are Metalheads",
+      "url": "https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "The Science of Selling Yourself Short",
-      "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Funky Kingston",
         "url": "https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 295666,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/2Csf9jkWwwusFvIW7DppX7"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "The Science of Selling Yourself Short",
+      "url": "https://open.spotify.com/track/1iD0a0plhO55cWEJa5UGcZ"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Big Daddy Multitude (2010 Re-Issue)",
-        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
+        "name": "The Fury of the Aquabats!",
+        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
       },
       "artists": [
         {
-          "name": "Mustard Plug",
-          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
         }
       ],
-      "duration_ms": 166040,
-      "name": "Mr. Smiley",
-      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
+      "duration_ms": 182800,
+      "name": "Super Rad!",
+      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "The Fury of the Aquabats!",
-        "url": "https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM"
+        "name": "Big Daddy Multitude (2010 Re-Issue)",
+        "url": "https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b"
       },
       "artists": [
         {
-          "name": "The Aquabats!",
-          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+          "name": "Mustard Plug",
+          "url": "https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Super Rad!",
-      "url": "https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE"
+      "duration_ms": 166040,
+      "name": "Mr. Smiley",
+      "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130373,
-      "name": "180 Degrees",
-      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "The Essential Fishbone",
         "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130373,
+      "name": "180 Degrees",
+      "url": "https://open.spotify.com/track/6kpBcTVx7kzWMvZ6z0ZCUY"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "South Somewhere Else",
-        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
-      },
-      "artists": [
-        {
-          "name": "Nana Grizol",
-          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "Future Version",
-      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 180066,
       "name": "House Of Fun",
       "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "South Somewhere Else",
+        "url": "https://open.spotify.com/album/0I2o0Ivz3uo7LxwWdM2AtO"
+      },
+      "artists": [
+        {
+          "name": "Nana Grizol",
+          "url": "https://open.spotify.com/artist/7FPO7WTShHCXnmVv7lhhZM"
+        }
+      ],
+      "duration_ms": 95500,
+      "name": "Future Version",
+      "url": "https://open.spotify.com/track/5xzf2RsrHJwbrlVUQYE5jr"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Sound the Alarm",
-        "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Things Change",
-      "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 170800,
       "name": "Don't Let the Bastards Grind You Down",
       "url": "https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Sound the Alarm",
+        "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Things Change",
+      "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Me, Myself and Something Else",
-        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
-      },
-      "artists": [
-        {
-          "name": "Call Me Malcolm",
-          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "I Bet They're Asleep In New York",
-      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Fear",
         "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 216900,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Me, Myself and Something Else",
+        "url": "https://open.spotify.com/album/4Ce185NtrqYpLPwOkK5r1b"
+      },
+      "artists": [
+        {
+          "name": "Call Me Malcolm",
+          "url": "https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU"
+        }
+      ],
+      "duration_ms": 274250,
+      "name": "I Bet They're Asleep In New York",
+      "url": "https://open.spotify.com/track/1xxJeDob3k09GfNsDFm1tc"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem"
-      },
-      "artists": [
-        {
-          "name": "The Frights",
-          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "No Place Like (Not Being) Home",
-      "url": "https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "The Toasters: 30th Anniversary",
         "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 197040,
       "name": "2Tone Army",
       "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem"
+      },
+      "artists": [
+        {
+          "name": "The Frights",
+          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "No Place Like (Not Being) Home",
+      "url": "https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3"
     },
     {
       "added_at": "2023-07-28 06:00:00",

@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 258842,
       "name": "CIRCUS MAXIMUS",
       "url": "https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ"
@@ -3486,6 +3486,24 @@
       "duration_ms": 210213,
       "name": "Collide",
       "url": "https://open.spotify.com/track/5sv0WnUs74Orn6GoPmC5im"
+    },
+    {
+      "album": {
+        "name": "COLOMBIANA",
+        "url": "https://open.spotify.com/album/2FThiLOrlhKaGlxNRMQ5Sz"
+      },
+      "artists": [
+        {
+          "name": "Capo 13",
+          "url": "https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115620,
+      "name": "COLOMBIANA",
+      "url": "https://open.spotify.com/track/2tVTu15UvnTdQxEYDbV1DS"
     },
     {
       "album": {
@@ -7744,7 +7762,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 127991,
       "name": "GOD'S COUNTRY",
       "url": "https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb"
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 140089,
       "name": "Gode Dage, Gode Drinks",
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
@@ -13282,7 +13300,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 163071,
       "name": "LOST FOREVER",
       "url": "https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf"
@@ -14804,7 +14822,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 179783,
       "name": "Mucki Bar",
       "url": "https://open.spotify.com/track/4XhW9iOypxiiNyIMpirPFv"
@@ -16384,7 +16402,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 154964,
       "name": "PARASAIL",
       "url": "https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6"
@@ -22126,7 +22144,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 157815,
       "name": "V\u00e5gen (Artigeardit X Lamin)",
       "url": "https://open.spotify.com/track/09N9LGyKqWlLViq2bQjFxR"

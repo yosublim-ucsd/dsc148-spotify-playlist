@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 39752,
+  "num_followers": 39807,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzJmOWNiOGFkNzhmMDYwZWQ4N2MzMGEyNzQ1YzNkNmNhNjZlMDZk",
+  "snapshot_id": "MCwwY2E2MjkyNjk5MDk1MTUyZmQ1NTJlY2NiYzI3MzViNjNjMTlkMzk3",
   "tracks": [
     {
       "added_at": "2023-07-28 00:01:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Brighter Days / Tin Roof",
-        "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
       "artists": [
         {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 208691,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2023-06-16 07:12:46",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+        "name": "Brighter Days / Tin Roof",
+        "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+      "duration_ms": 208691,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/7yfo4vBrhxBDO9IkJz8zkV"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "There's an Overflow",
+        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 490000,
+      "name": "There's an Overflow",
+      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 274534,
       "name": "That's The Power - Live",
       "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "There's an Overflow",
-        "url": "https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "There's an Overflow",
-      "url": "https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "Provider",
         "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "The Birth of Revival",
+        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 395810,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "Onyedikagi",
         "url": "https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 297966,
       "name": "Onyedikagi",
       "url": "https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "The Birth of Revival",
-        "url": "https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 395810,
-      "name": "Maranatha",
-      "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Way\u03b5 Me Yie",
-        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 303553,
-      "name": "Way\u03b5 Me Yie",
-      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Selense",
         "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+        "name": "Way\u03b5 Me Yie",
+        "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
         }
       ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
+      "duration_ms": 303553,
+      "name": "Way\u03b5 Me Yie",
+      "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 405840,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/3agNg2Dsn2LpHO9i0M112R"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Yahweh Be Praised",
-        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 327554,
-      "name": "Yahweh Be Praised",
-      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "ALONE WITH GOD (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 2526933,
       "name": "ALONE WITH GOD (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Yahweh Be Praised",
+        "url": "https://open.spotify.com/album/1elhLJH10sQPxWc1MlYMOO"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 327554,
+      "name": "Yahweh Be Praised",
+      "url": "https://open.spotify.com/track/058gANWDIXnZh7u37Sn0Oa"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 552000,
       "name": "Emmanuel",
       "url": "https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Nsenkyerene Nyankopon (Live)",
-        "url": "https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 464677,
-      "name": "Nsenkyerene Nyankopon (Live)",
-      "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "As we pray (Prayer charge)",
         "url": "https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 345443,
       "name": "As we pray - Prayer charge",
       "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Nsenkyerene Nyankopon (Live)",
+        "url": "https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 464677,
+      "name": "Nsenkyerene Nyankopon (Live)",
+      "url": "https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog"
     }
   ],
   "unique_name": "Be Lifted ",

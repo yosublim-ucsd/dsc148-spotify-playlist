@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 338755,
+  "num_followers": 338841,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODQ5Mzk2YjVkM2ZlMDNhZjFhNDhiY2VlYjc2YTM3NDc2ZmJhMDAy",
+  "snapshot_id": "MCwxY2ZmODNmOTdhMTQ5M2QxNTkxODJiZTQzZWUwYzc1MDFhMjc1OWE1",
   "tracks": [
     {
       "added_at": "2023-07-14 10:25:34",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "miss me (when you're gone) [remixes]",
-        "url": "https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t"
-      },
-      "artists": [
-        {
-          "name": "Will Linley",
-          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
-        }
-      ],
-      "duration_ms": 184915,
-      "name": "miss me (when you're gone)",
-      "url": "https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/1w3KuDqXpsnQuCBGqr7A0n"
       },
@@ -463,6 +447,38 @@
       "duration_ms": 192920,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2X97u85uhrMdjPLFZ8Upn8"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "miss me (when you're gone) [remixes]",
+        "url": "https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "duration_ms": 184915,
+      "name": "miss me (when you're gone)",
+      "url": "https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -499,22 +515,6 @@
       "duration_ms": 140309,
       "name": "Pretty Boys",
       "url": "https://open.spotify.com/track/698ehyxjqZ7i06vUJQFviN"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
-        "name": "Good Times Go",
-        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
-        }
-      ],
-      "duration_ms": 177371,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Thrill Of It All",
-        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Thrill Of It All",
-      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Wer wenn nicht wir",
         "url": "https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 163500,
       "name": "Wer wenn nicht wir",
       "url": "https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Thrill Of It All",
+        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Thrill Of It All",
+      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Butterflies (feat. FLETCHER)",
-        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Butterflies (feat. FLETCHER)",
-      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "Flugmodus",
         "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 269538,
       "name": "I Made It",
       "url": "https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Butterflies (feat. FLETCHER)",
+        "url": "https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Butterflies (feat. FLETCHER)",
+      "url": "https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm"
     },
     {
       "added_at": "2023-07-14 10:25:34",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-14 10:25:34",
       "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
-    },
-    {
-      "added_at": "2023-07-14 10:25:34",
-      "album": {
         "name": "How Many Moons",
         "url": "https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 183635,
       "name": "How Many Moons",
       "url": "https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so"
+    },
+    {
+      "added_at": "2023-07-14 10:25:34",
+      "album": {
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
     }
   ],
   "unique_name": "Feelgood Pop",

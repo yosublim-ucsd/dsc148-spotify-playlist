@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7954423,
+  "num_followers": 7956983,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTJlYzdhNDM0N2YxMzYzMjhkZjE3MDJkYjY3NWUxMjA1Y2ExMTc5",
+  "snapshot_id": "MCxhMDA5NjE4Njc0YzE5OWU3ZmI4M2NkMzU3N2VlMjBiNzM2YTk2NjJm",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:17",
@@ -1279,34 +1279,6 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        },
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
-      "url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E"
-    },
-    {
-      "added_at": "2023-07-13 12:12:17",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 259306,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+    },
+    {
+      "added_at": "2023-07-13 12:12:17",
+      "album": {
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
+      "url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E"
     },
     {
       "added_at": "2023-07-13 12:12:17",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 158466,
-      "name": "Gimme Some More",
-      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
+      "duration_ms": 261265,
+      "name": "Rebirth Of Slick (Cool Like Dat)",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
     },
     {
       "added_at": "2023-07-13 12:12:17",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 261265,
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
     },
     {
       "added_at": "2023-07-13 12:12:17",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Tical",
-        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Bring The Pain",
-      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
-    },
-    {
-      "added_at": "2023-07-13 12:12:17",
-      "album": {
         "name": "Mr. Smith (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
       },
@@ -1859,18 +1843,38 @@
     {
       "added_at": "2023-07-13 12:12:17",
       "album": {
-        "name": "Let's Get Free",
-        "url": "https://open.spotify.com/album/7gXuElmegVReY7imkb5bf8"
+        "name": "Tical",
+        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
       },
       "artists": [
         {
-          "name": "Dead Prez",
-          "url": "https://open.spotify.com/artist/2UBt0GWBuPVXlPisRvWzlD"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 214066,
-      "name": "Hip-Hop",
-      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy"
+      "duration_ms": 189760,
+      "name": "Bring The Pain",
+      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
+    },
+    {
+      "added_at": "2023-07-13 12:12:17",
+      "album": {
+        "name": "Gettin' It (Album Number Ten)",
+        "url": "https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "Parliament Funkadelic",
+          "url": "https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Gettin' It (feat. Parliament Funkadelic)",
+      "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

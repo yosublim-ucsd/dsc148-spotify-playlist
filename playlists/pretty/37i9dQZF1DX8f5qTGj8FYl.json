@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 346180,
+  "num_followers": 346293,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGJmZTk2M2NhMTAxZDg5NjczODI2MGRjNWZlNDZmNGU2MDBmYWM0",
+  "snapshot_id": "MCwzYjU5ZjZlZWY0Y2U4MWM3YzM5OGJiMzZmOTM0MDNkNGMwNmI2NDNi",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Tej b/w Short Shrift",
-        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
-      },
-      "artists": [
-        {
-          "name": "The So Ons",
-          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
-        }
-      ],
-      "duration_ms": 328433,
-      "name": "Tej",
-      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Smooth Move",
         "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 316107,
       "name": "Smooth Move",
       "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Tej b/w Short Shrift",
+        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
+      },
+      "artists": [
+        {
+          "name": "The So Ons",
+          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
+        }
+      ],
+      "duration_ms": 328433,
+      "name": "Tej",
+      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Jazz In The Present Tense",
+        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
+      },
+      "artists": [
+        {
+          "name": "Solsonics",
+          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Montuno Funk",
+      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Got Ya Movin'",
@@ -739,22 +755,6 @@
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Jazz In The Present Tense",
-        "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
-      },
-      "artists": [
-        {
-          "name": "Solsonics",
-          "url": "https://open.spotify.com/artist/0hRcHqu2R885utzNyofwbj"
-        }
-      ],
-      "duration_ms": 249933,
-      "name": "Montuno Funk",
-      "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Golden Ticket",
-        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Assassin (The Paisley Park Session)",
@@ -939,6 +923,22 @@
       "duration_ms": 202457,
       "name": "Assassin - The Paisley Park Session",
       "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Golden Ticket",
+        "url": "https://open.spotify.com/album/0iOLQnizNBBrvLbvmdUPF6"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4X9qoigjhdm32eRJRcjtm2"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Strawberry Mansion",
-        "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Pets",
-          "url": "https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol"
-        }
-      ],
-      "duration_ms": 319687,
-      "name": "Strawberry Mansion",
-      "url": "https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg"
-    },
-    {
       "added_at": "2021-12-24 05:01:00",
       "album": {
         "name": "1am Funk Dance Party",
@@ -1125,20 +1109,20 @@
       "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+        "name": "Strawberry Mansion",
+        "url": "https://open.spotify.com/album/1thNTCmjYa3DbaxP1uvrGt"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "The Heavy Pets",
+          "url": "https://open.spotify.com/artist/3Olk7pmwmVS6GxinoMMYol"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+      "duration_ms": 319687,
+      "name": "Strawberry Mansion",
+      "url": "https://open.spotify.com/track/3y5oXd6uDIHl1mb72EYwTg"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Fun Ones",
-        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 281805,
-      "name": "Indoor S'mores",
-      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Groove Cubed",
         "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 412733,
       "name": "In the Groove",
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fun Ones",
+        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 281805,
+      "name": "Indoor S'mores",
+      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "West Coast Jam",
+      "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "The Basement Beat",
         "url": "https://open.spotify.com/album/3JrhYYG6NXmVmLQ2mH8zaB"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 470371,
       "name": "Bambu",
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Bunny Hop!",
-        "url": "https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts"
-      },
-      "artists": [
-        {
-          "name": "The CB3",
-          "url": "https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl"
-        }
-      ],
-      "duration_ms": 302288,
-      "name": "Bunny Hop",
-      "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1361,20 +1361,20 @@
       "url": "https://open.spotify.com/track/6ZNXFAxCA4SjBBTt3tm6PG"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-02-25 05:02:00",
       "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
+        "name": "Bunny Hop!",
+        "url": "https://open.spotify.com/album/2eZaBE4GDDdOgZH8210Nts"
       },
       "artists": [
         {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+          "name": "The CB3",
+          "url": "https://open.spotify.com/artist/3z9nMmCLIxruNbcL4Iddsl"
         }
       ],
-      "duration_ms": 238706,
-      "name": "West Coast Jam",
-      "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
+      "duration_ms": 302288,
+      "name": "Bunny Hop",
+      "url": "https://open.spotify.com/track/07ma7BgUd9SUyOWSkpQCLp"
     },
     {
       "added_at": "2020-11-13 05:02:00",

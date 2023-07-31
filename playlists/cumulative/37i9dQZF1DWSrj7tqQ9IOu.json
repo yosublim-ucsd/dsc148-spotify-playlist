@@ -4188,10 +4188,36 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 164360,
       "name": "Never Get Old",
       "url": "https://open.spotify.com/track/2JMSqKjWQYBhmWG8yWj7DE"
+    },
+    {
+      "album": {
+        "name": "Never Get Old",
+        "url": "https://open.spotify.com/album/73XYoAKcZhb1cmt2simbJD"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164360,
+      "name": "Never Get Old",
+      "url": "https://open.spotify.com/track/3yz5In41ReX8WHkRaAxuob"
     },
     {
       "album": {

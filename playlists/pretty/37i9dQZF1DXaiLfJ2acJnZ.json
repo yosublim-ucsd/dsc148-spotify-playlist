@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 40102,
+  "num_followers": 40154,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2ZjZWMxOWZiOTJlYWM0OWQzOTNmZTE1YzQ1N2U3OTFkYzZlZWEw",
+  "snapshot_id": "MCwwMzI0ZWZkMTk3NTAxNWMzOWNhODcxMGE2OTg4OGRiZjMyZjkxYzhl",
   "tracks": [
     {
       "added_at": "2023-07-21 16:04:40",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "Two Weeks Ago",
-        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "Ready To Be Loved",
         "url": "https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "Two Weeks Ago",
+        "url": "https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -747,6 +747,22 @@
       "duration_ms": 200199,
       "name": "Mama's Eyes",
       "url": "https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
+      },
+      "artists": [
+        {
+          "name": "ADMT",
+          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -811,22 +827,6 @@
       "duration_ms": 141991,
       "name": "2009 TOYOTA",
       "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
-      },
-      "artists": [
-        {
-          "name": "ADMT",
-          "url": "https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "i loved a boy",
-        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 145128,
-      "name": "i loved a boy",
-      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "Have Fun!",
         "url": "https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 270453,
       "name": "Have Fun!",
       "url": "https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "i loved a boy",
+        "url": "https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 145128,
+      "name": "i loved a boy",
+      "url": "https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 226035,
-      "name": "East End Coast",
-      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "LUCID",
-        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 218108,
-      "name": "LUCID",
-      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+      "duration_ms": 226035,
+      "name": "East End Coast",
+      "url": "https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr"
     },
     {
       "added_at": "2023-07-21 16:04:40",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-07-21 16:04:40",
       "album": {
-        "name": "Big Lizard Energy",
-        "url": "https://open.spotify.com/album/78c2Ea9FmvEBOi0gGDmfZP"
-      },
-      "artists": [
-        {
-          "name": "Ellie Dixon",
-          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
-        }
-      ],
-      "duration_ms": 157105,
-      "name": "Big Lizard Energy",
-      "url": "https://open.spotify.com/track/6VluWX7HW7IswLgiHrVvn7"
-    },
-    {
-      "added_at": "2023-07-21 16:04:40",
-      "album": {
         "name": "A Little Lost, A Little Found",
         "url": "https://open.spotify.com/album/60vFu4HyCBEE5YgIIMZaEg"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 182600,
       "name": "Hope",
       "url": "https://open.spotify.com/track/0cfq3yjm24XfxqcWzRjlQd"
+    },
+    {
+      "added_at": "2023-07-21 16:04:40",
+      "album": {
+        "name": "Big Lizard Energy",
+        "url": "https://open.spotify.com/album/78c2Ea9FmvEBOi0gGDmfZP"
+      },
+      "artists": [
+        {
+          "name": "Ellie Dixon",
+          "url": "https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso"
+        }
+      ],
+      "duration_ms": 157105,
+      "name": "Big Lizard Energy",
+      "url": "https://open.spotify.com/track/6VluWX7HW7IswLgiHrVvn7"
     },
     {
       "added_at": "2023-07-21 16:04:40",

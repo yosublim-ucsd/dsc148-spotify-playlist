@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 183076,
       "name": "Como Ella Baila As\u00ed",
       "url": "https://open.spotify.com/track/4RKV9cellpKyHcNIIWnkKX"
@@ -5805,6 +5805,32 @@
     },
     {
       "album": {
+        "name": "En Llamas",
+        "url": "https://open.spotify.com/album/2jfQbOscs3B8J8OWuDuFts"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221751,
+      "name": "En Llamas",
+      "url": "https://open.spotify.com/track/4C9lz7XcINbbknMDsc23LC"
+    },
+    {
+      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -7696,7 +7722,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
@@ -11538,7 +11564,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 246133,
       "name": "MELTDOWN",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
@@ -13354,6 +13380,32 @@
       "duration_ms": 183844,
       "name": "Pal Muro",
       "url": "https://open.spotify.com/track/62JKwv9Xiz8NkyDGnddNaR"
+    },
+    {
+      "album": {
+        "name": "Paleta Pa To El Mundo",
+        "url": "https://open.spotify.com/album/1wte6ngGeMWifMI2N0xljV"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242796,
+      "name": "Paleta Pa To El Mundo",
+      "url": "https://open.spotify.com/track/00WeA6cTYkmAbBuTmhCHYq"
     },
     {
       "album": {
@@ -20176,7 +20228,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-27",
+      "date_removed": null,
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"

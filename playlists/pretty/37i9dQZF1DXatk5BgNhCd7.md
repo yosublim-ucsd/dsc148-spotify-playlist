@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Big One, Rusherking, Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,909 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,977 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 |
-| 2 | [El Celoso](https://open.spotify.com/track/3tM6F42zOnMFm2RucfeUmR) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Su Magestad La Brissa](https://open.spotify.com/artist/74FxyQRwxIYvvwchaZpzFG) | [El Celoso](https://open.spotify.com/album/6vENWqDR8z64rthyQDODFd) | 2:53 |
+| 2 | [El Celoso](https://open.spotify.com/track/3tM6F42zOnMFm2RucfeUmR) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L) | [El Celoso](https://open.spotify.com/album/6vENWqDR8z64rthyQDODFd) | 2:53 |
 | 3 | [JotaBé](https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [JotaBé](https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS) | 2:47 |
 | 4 | [La Espina en México \- En Vivo](https://open.spotify.com/track/5pYZGTuuu4mB4p1HBVwlFn) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [La Espina en México \(En Vivo\)](https://open.spotify.com/album/2T12GY1tLBX8wdgZj8nzx3) | 3:07 |
 | 5 | [Como A Nadie](https://open.spotify.com/track/27r1KnZXHGkuLRGctCyD7D) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Como Nadie](https://open.spotify.com/album/70gqKr2KTS4AhGXxBeC0xy) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Ella Baila Sola \- Bachata](https://open.spotify.com/track/4bHzVlcRel2OxVJ4uBZLME) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Ella Baila Sola](https://open.spotify.com/album/18o1cHOnQ9JcksXGXSeQmr) | 2:45 |
 | 50 | [Cómo Se Olvida](https://open.spotify.com/track/1xMRIFh8HKmOBiVkYUFtXp) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Cómo Se Olvida](https://open.spotify.com/album/3YzhMQ87jEhzRVqbn2d7ez) | 3:20 |
 
-Snapshot ID: `MCxiMmU0M2M5NzhlNDRlMjBhNzhlZDEzODFjYjYxNjI5MTQ1Mzc0Nzhj`
+Snapshot ID: `MCxjN2NhZDJkMTY1MzQ1NGExYTQxOGY4OWI5YzJhNTg3M2Y3YmYzM2Ri`

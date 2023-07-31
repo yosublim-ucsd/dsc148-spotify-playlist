@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: VK Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,475 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,473 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 73 | [Prometazina](https://open.spotify.com/track/5TPGZNFUWThxPkA95SR6fY) | [LP Freestyle](https://open.spotify.com/artist/55MsEWRF4BhHEQqWvtPHjv), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Prometazina](https://open.spotify.com/album/0aPlwNreucz647rjA6AWPj) | 3:02 |
 | 74 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCxiMzc2NzkzMTE1YzhmZTBkZTJhYTU2MzE2Y2YwM2NjNGE3MzAyYWUy`
+Snapshot ID: `MCxjYzhjZTFhNWU3NjFlY2MwYzhkODE5Mzk5YTMzOTg1MWJlZTA3YTU5`

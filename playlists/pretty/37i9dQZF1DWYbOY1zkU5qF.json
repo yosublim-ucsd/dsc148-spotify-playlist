@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 138086,
+  "num_followers": 138162,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmZhZmU0OWQ2OTdmNGYzZDcwN2IzZDhhN2I1YWNiYzM0MWY3MTRi",
+  "snapshot_id": "MCw3NDg3ZTFjYzc2MDg1NDJjYmM2YmQxY2JjNzFhNTc5YjdkMGM0MWUx",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 162510,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 348339,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 162510,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "M\u00e1tenme Porque Me Muero",
-        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 206993,
-      "name": "M\u00e1tenme Porque Me Muero",
-      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Viral Hits, Vol. 1",
         "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 215000,
       "name": "Bailame",
       "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "M\u00e1tenme Porque Me Muero",
+        "url": "https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 206993,
+      "name": "M\u00e1tenme Porque Me Muero",
+      "url": "https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Vaina Loca",
         "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Chantaje",
-        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
-        }
-      ],
-      "duration_ms": 207431,
-      "name": "Chantaje",
-      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Panacea Session, Vol. 2",
         "url": "https://open.spotify.com/album/0vVu8iHQmGTkfc0YwwtA0n"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216383,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/7hwhLO6kskiavCM8Xi6bpQ"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Chantaje",
+        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
+        }
+      ],
+      "duration_ms": 207431,
+      "name": "Chantaje",
+      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
+      },
+      "artists": [
+        {
+          "name": "Leopoldo Lopez",
+          "url": "https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q"
+        }
+      ],
+      "duration_ms": 238874,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Extra\u00f1\u00e1ndote en Cuarentena",
         "url": "https://open.spotify.com/album/1UfEr0bXeemQhpBacsZRfO"
       },
@@ -903,34 +919,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
       },
       "artists": [
         {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
         }
       ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
-      },
-      "artists": [
-        {
-          "name": "Leopoldo Lopez",
-          "url": "https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q"
-        }
-      ],
-      "duration_ms": 238874,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
+      "duration_ms": 201000,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
       "artists": [
         {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
+      "duration_ms": 216746,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
-      },
-      "artists": [
-        {
-          "name": "Alfa Omega",
-          "url": "https://open.spotify.com/artist/6unfrgA6NT9eX0W09Y42YE"
-        },
-        {
-          "name": "Cl\u00e1udia Nunes",
-          "url": "https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl"
-        }
-      ],
-      "duration_ms": 214425,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Drume Negrita (Desde Fonobox) [En Vivo]",
         "url": "https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 186689,
       "name": "Muerte En Hawaii",
       "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb"
+      },
+      "artists": [
+        {
+          "name": "Alfa Omega",
+          "url": "https://open.spotify.com/artist/6unfrgA6NT9eX0W09Y42YE"
+        },
+        {
+          "name": "Cl\u00e1udia Nunes",
+          "url": "https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl"
+        }
+      ],
+      "duration_ms": 214425,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Felices los 4 (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 249088,
-      "name": "Felices los 4 - Acoustic version",
-      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Panacea Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+        "name": "Felices los 4 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7"
       },
       "artists": [
         {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
         }
       ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
+      "duration_ms": 249088,
+      "name": "Felices los 4 - Acoustic version",
+      "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1179,6 +1163,22 @@
       "duration_ms": 248028,
       "name": "Pareja Del An\u0303o",
       "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Con la miel en los labios",
+        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Con la miel en los labios",
+      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Asi Es La Vida",
-        "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
-      },
-      "artists": [
-        {
-          "name": "Pablo Rojas",
-          "url": "https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx"
-        }
-      ],
-      "duration_ms": 284332,
-      "name": "Asi Es La Vida",
-      "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cien A\u00f1os",
         "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Asi Es La Vida",
+        "url": "https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi"
+      },
+      "artists": [
+        {
+          "name": "Pablo Rojas",
+          "url": "https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx"
+        }
+      ],
+      "duration_ms": 284332,
+      "name": "Asi Es La Vida",
+      "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
     },
     {
       "added_at": "2022-02-18 06:00:00",

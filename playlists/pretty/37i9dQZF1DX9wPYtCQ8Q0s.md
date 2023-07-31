@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,884 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,902 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 49 | [223's \(feat\. 9lokknine\)](https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm) | [223's \(feat\. 9lokknine\)](https://open.spotify.com/album/7cekEHNPgpKwVd9kJE9G8F) | 2:56 |
 | 50 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 |
 
-Snapshot ID: `MCwyNjA3M2I1MjQxMDg4ODg2NGU4YjgzMDk4YzFhMzY3ZGI3MGY3ZTlk`
+Snapshot ID: `MCw5YzA2OWNlY2QxNmZlNmYyOGIyZmIzZTVmNjA0YTE5OTMxOTFkNTNm`

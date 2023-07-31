@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria.",
-  "num_followers": 275469,
+  "num_followers": 275542,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVlZjJkOGRiYWNjN2RkMTE1ZDEzNjAxZjRjZjQ5M2U1OGQwYTEx",
+  "snapshot_id": "MCw5OWVkMjY0YmIwZjFkY2ExYzBiNTY5YmE0YTZlODYxZjBkYjU2MmE3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:29:31",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Terremoto EP",
-        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
-      },
-      "artists": [
-        {
-          "name": "Chemical Surf",
-          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
-        },
-        {
-          "name": "Ghabe",
-          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
-        }
-      ],
-      "duration_ms": 165519,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "Terremoto EP",
+        "url": "https://open.spotify.com/album/0aJooEPl35trvbDJxdFEj4"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Ghabe",
+          "url": "https://open.spotify.com/artist/6q8BNoSQYcHGzaF5Kkb2nA"
+        }
+      ],
+      "duration_ms": 165519,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/0sL7klqtKTaMVVC3CCXwRv"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -807,6 +807,30 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
+        "name": "Esta Vida (VINNE Remix)",
+        "url": "https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Esta Vida - VINNE Remix",
+      "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/1SoFbdEmEiFgpstKwJ8Iyh"
       },
@@ -851,6 +875,30 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
+        "name": "Party On My Own (feat. FAULHABER)",
+        "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Party On My Own (feat. FAULHABER)",
+      "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
       },
@@ -875,30 +923,6 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
-        "name": "Party On My Own (feat. FAULHABER)",
-        "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "FAULHABER",
-          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Party On My Own (feat. FAULHABER)",
-      "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
     },
     {
       "added_at": "2023-07-28 16:29:31",
@@ -975,26 +999,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "New Memories",
-        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "New Memories",
-      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Mr. Navigator",
         "url": "https://open.spotify.com/album/7j2CtumDjqj5nve12AmTjy"
       },
@@ -1015,26 +1019,22 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Esta Vida (VINNE Remix)",
-        "url": "https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8"
+        "name": "New Memories",
+        "url": "https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Esta Vida - VINNE Remix",
-      "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
+      "duration_ms": 194655,
+      "name": "New Memories",
+      "url": "https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW"
     },
     {
       "added_at": "2023-07-28 16:29:31",

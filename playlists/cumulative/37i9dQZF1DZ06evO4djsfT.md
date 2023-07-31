@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 15 min
+54 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Church Clap](https://open.spotify.com/track/4iHrXZX4AKJOW58civjs1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Weight & Glory](https://open.spotify.com/album/4gR8HZVG97FFpWrzfvVM8v) | 3:17 | 2023-03-17 |  |
 | [Come Alive](https://open.spotify.com/track/7cSgDrUh6ZAv25JgOPlyOB) | [116](https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [Come Alive](https://open.spotify.com/album/4nrf0EltbsBbUX5fSJjF2W) | 3:57 | 2023-03-17 |  |
 | [Crowns & Thorns \(Oceans\)](https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:51 | 2023-03-17 |  |
+| [Danza](https://open.spotify.com/track/2mp5lKkx5EP7fPlynWlpjP) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [Danza](https://open.spotify.com/album/5f8Rt45R3jvZxV00aNwxrW) | 3:23 | 2023-07-30 |  |
 | [Die Rich](https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ray Emmanuel](https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd) | [Die Rich](https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0) | 4:02 | 2023-03-17 | 2023-03-20 |
 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 | 2023-03-17 |  |
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 |  |

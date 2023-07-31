@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,614 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,803 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 15 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
 | 16 | [Irre \- KomaCasper Remix](https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre \(KomaCasper Remix\)](https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4) | 3:20 |
 | 17 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
-| 18 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
-| 19 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
-| 20 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
-| 21 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 |
+| 18 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
+| 19 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 |
+| 20 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 |
+| 21 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 22 | [BLOODY ASS SHOES](https://open.spotify.com/track/5xdmotWnFPVuPEZAI98OHl) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27) | [BLOODY ASS SHOES](https://open.spotify.com/album/28PKjKbNF9M3MjzyZ9Gz1n) | 2:19 |
 | 23 | [My Barn My Rules \- Edit](https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 2:06 |
 | 24 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 35 | [Good Energy](https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Good Energy](https://open.spotify.com/album/0QhvkMApI7fDSW7D1e4y1x) | 5:22 |
 | 36 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 37 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 |
-| 38 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
-| 39 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
+| 38 | [Goldener Raver \(1995 Remix\) \- Rave Mix](https://open.spotify.com/track/6Q3m7v5B10JUlcoJR4RCKw) | [Joachim Witt](https://open.spotify.com/artist/130taNt2uNYJmou3IGnRHV), [Komakino](https://open.spotify.com/artist/7kXKgvvRpzUfLrNlsgeQRF) | [Goldener Raver \(1995 Remix\)](https://open.spotify.com/album/3XawjaEVs1ux5XNVF900oz) | 4:48 |
+| 39 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
 | 40 | [Serenity](https://open.spotify.com/track/24ODAgW6PvaHTl7QUgaoqk) | [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Serenity](https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop) | 6:55 |
 | 41 | [No Type](https://open.spotify.com/track/4tNCSo5ZDCDWjUnlggKqnU) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [No Type](https://open.spotify.com/album/4yUyghTTQlMlqs162AacBO) | 3:23 |
 | 42 | [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 |
 | 50 | [Get Busy](https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Get Busy](https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob) | 3:20 |
 
-Snapshot ID: `MCwyZDM3ZDdkODcxNjZkOTFmMzljMGQ0MTI2ODBjYTBkY2RiZDNkMjRl`
+Snapshot ID: `MCw4ZmY3ZWQxZmVlZGM2ZTI4YTBkZDgxZTE4YTcyZjE3MWE0ZjMwNWEz`

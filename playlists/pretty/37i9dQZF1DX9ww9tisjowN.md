@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Fujii Kaze \(藤井 風\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,846 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,288 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [ほろよい](https://open.spotify.com/track/6vMQPwSKJWc4q272mUPqeJ) | [さんひ](https://open.spotify.com/artist/4idudB1HgSIESccE67FbNf) | [ほろよい](https://open.spotify.com/album/2DsVuF5n03nZIlB5TH3x8Q) | 3:23 |
 | 75 | [FLY GUY](https://open.spotify.com/track/2aYHMki1NRAxRjdarrgCBF) | [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3), [MAX!!!](https://open.spotify.com/artist/1MgqejqU5aSwZkhkhPkefn) | [WHOOPEE LAND](https://open.spotify.com/album/0hue9kuX7nULpylyGYvMDS) | 2:38 |
 
-Snapshot ID: `MCxiNmYzZGMwMzQ4ZDRiODQ0ODM1MDliZGU0ZDliYjhmMTcyZjU0NGM5`
+Snapshot ID: `MCw1YTQxOTExNWI2MDc0ZDU2NjZmNGZmMjhlZDY0OTQ1YTQwNmUxZTgw`

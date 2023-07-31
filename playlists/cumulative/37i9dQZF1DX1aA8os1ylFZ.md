@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-350 songs - 18 hr 26 min
+351 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Forgot How To Love Me](https://open.spotify.com/track/484aU8wGt1mHA8ymmDGtPQ) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/7rID19h03gYHYAwUMsuKWh) | 3:41 | 2021-12-16 | 2023-01-13 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-01-18 |  |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-03-02 |  |
-| [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 |  |
+| [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 | 2023-07-31 |
 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 | 2023-06-01 |  |
 | [Gameboy Color](https://open.spotify.com/track/0arsX94THobgECcVUCOq31) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/6OGauTBfMUpc4gbAro8c3r) | 2:34 | 2023-01-12 | 2023-02-15 |
 | [Gameboy Color](https://open.spotify.com/track/6MefIlx2loVSQ0JnIkKPM1) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Gameboy Color](https://open.spotify.com/album/3pCHgEhuauqOLRxBFWXm1U) | 2:34 | 2023-03-22 | 2023-06-24 |
@@ -354,6 +354,7 @@
 | [With You](https://open.spotify.com/track/5rIG2y6JHX8Xxy023ZiEml) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0bX49paIIrFiHe3ajPKWk0) | 3:44 | 2022-10-27 | 2023-01-13 |
 | [With You](https://open.spotify.com/track/7F4tdzXomvS7biLOJojIjs) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/0MXooTq2cGzeGgbg0WDLFm) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/0Ew7NkseJTFtiFselBmFg1) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [With You](https://open.spotify.com/album/4y8kGaY6DtdPQ6xWVbzKh4) | 3:39 | 2021-12-16 | 2023-01-13 |
+| [WOMAN](https://open.spotify.com/track/63yD1pa1Ux5Ug4tIi6ygdv) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [WOMAN](https://open.spotify.com/album/7eS3314VnVZQ3ZMNFCjZ92) | 2:44 | 2023-06-01 |  |
 | [Word For Word](https://open.spotify.com/track/6YRe3sTiUR0ACtSQTejxCt) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Word For Word](https://open.spotify.com/album/2cEJ2GHIoUgI9nrEZGTONk) | 3:03 | 2023-01-19 |  |
 | [You All Day](https://open.spotify.com/track/6k3ybhZHeFtZsuyidDFriA) | [JOS](https://open.spotify.com/artist/07IupuXv6tNTjb5xBo3P9a), [Ashdown](https://open.spotify.com/artist/0l6pyDkdaojMjTu5lAuJzE) | [You All Day](https://open.spotify.com/album/7tfllHucm1Wdwo6xyclI0u) | 2:20 | 2023-03-22 | 2023-04-07 |
 | [YOU got what i need](https://open.spotify.com/track/12rGDE4wphOzVLLeWzBWJr) | [The Cool Quest](https://open.spotify.com/artist/7eW7XlHPEaGBY5JION7Vw9) | [YOU got what i need](https://open.spotify.com/album/6O8CA5GZVKn3WopaOmKXEm) | 3:02 | 2021-12-16 | 2022-03-25 |

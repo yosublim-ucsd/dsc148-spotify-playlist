@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 930056,
+  "num_followers": 930216,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTRlMjE2YjI5YjZmNzdhODFhZThjNWJkYmY2MTU3MzVlZDllZDY1",
+  "snapshot_id": "MCw0N2ZhZTNiYTgwNWE0ZTgxN2JmMDVhODQ3MzVmZDRiZTM0NTY3NWMz",
   "tracks": [
     {
       "added_at": "2023-07-28 16:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1107,22 +1127,26 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+        "name": "Disco Tool (Remixes)",
+        "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         },
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+      "duration_ms": 217142,
+      "name": "Disco Tool (Taiki Nulight Remix)",
+      "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1147,26 +1171,18 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Disco Tool (Remixes)",
-        "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
         }
       ],
-      "duration_ms": 217142,
-      "name": "Disco Tool (Taiki Nulight Remix)",
-      "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 160000,
       "name": "What You Got",
       "url": "https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1287,6 +1287,42 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
+        "name": "Patron",
+        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Patron",
+      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx"
       },
@@ -1307,18 +1343,22 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+        "name": "Gotta Let U Go",
+        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
         }
       ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+      "duration_ms": 149219,
+      "name": "Gotta Let U Go",
+      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1351,26 +1391,6 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Gotta Let U Go",
-        "url": "https://open.spotify.com/album/7ju3PeAUzEAJciTPBNKGMp"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Dominica",
-          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
-        }
-      ],
-      "duration_ms": 149219,
-      "name": "Gotta Let U Go",
-      "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "Patron",
-        "url": "https://open.spotify.com/album/0mFtxNT7BPD4Mb5BWuX0jX"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Ookay",
-          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Patron",
-      "url": "https://open.spotify.com/track/5u6vPXz6fNB55xWP5pzmJb"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
-        "name": "Have Me All (feat. Jelita)",
-        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jelita",
-          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
-        }
-      ],
-      "duration_ms": 170004,
-      "name": "Have Me All (feat. Jelita)",
-      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
         "name": "Turn Off The Lights (Cloonee Remix)",
         "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
+        "name": "Have Me All (feat. Jelita)",
+        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Have Me All (feat. Jelita)",
+      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
     },
     {
       "added_at": "2023-07-28 16:00:00",
@@ -1887,6 +1887,46 @@
     {
       "added_at": "2023-07-28 16:00:00",
       "album": {
+        "name": "Your Tongue",
+        "url": "https://open.spotify.com/album/2Wqy2IKWC5zai36LAin6eP"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 157428,
+      "name": "Your Tongue",
+      "url": "https://open.spotify.com/track/6uGNhZyjr139uPQIFQCVP2"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "added_at": "2023-07-28 16:00:00",
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
       },
@@ -1907,38 +1947,6 @@
       "duration_ms": 165120,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "Your Tongue",
-        "url": "https://open.spotify.com/album/2Wqy2IKWC5zai36LAin6eP"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        }
-      ],
-      "duration_ms": 157428,
-      "name": "Your Tongue",
-      "url": "https://open.spotify.com/track/6uGNhZyjr139uPQIFQCVP2"
-    },
-    {
-      "added_at": "2023-07-28 16:00:00",
-      "album": {
-        "name": "Push And Pull",
-        "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Push And Pull",
-      "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
     }
   ],
   "unique_name": "Shuffle Syndrome",

@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 133513,
+  "num_followers": 133607,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzIwNzIzOTM4MmM3YjI5MmExMzgyNmZhZDVkZjU4N2ZkMmYwZjRl",
+  "snapshot_id": "MCwwMzE1NTEzZWNlMWM3MTVkM2Y2NzMyMzllNzA2MDNmNzUwZDQwYjY2",
   "tracks": [
     {
       "added_at": "2023-06-22 22:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 228234,
+      "name": "Wintertime",
+      "url": "https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Crazy He Calls Me",
         "url": "https://open.spotify.com/album/6SVe88s5f4nGY0mqlIuNv3"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 233027,
       "name": "Crazy He Calls Me",
       "url": "https://open.spotify.com/track/24x9urAiyzJ0ZpD5er4SWm"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 228234,
-      "name": "Wintertime",
-      "url": "https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -607,6 +607,22 @@
       "duration_ms": 240009,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 243876,
+      "name": "A Song With No Name",
+      "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -691,22 +707,6 @@
       "duration_ms": 299106,
       "name": "Adventure Of A Lifetime",
       "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 243876,
-      "name": "A Song With No Name",
-      "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 206004,
-      "name": "Don't Need The Real Thing",
-      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Riders on the Storm",
         "url": "https://open.spotify.com/album/4PwN4pAtzT9f0tDskm7Gc9"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 226389,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/6Q7ELYBAEzPU9jVNauiYMN"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 206004,
+      "name": "Don't Need The Real Thing",
+      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3FUx3pa4NXmlVJQzBHRRx7"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Cinematic",
         "url": "https://open.spotify.com/album/24OOx2oXqqdfOo5XRbjVUI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 276346,
       "name": "Gran Torino",
       "url": "https://open.spotify.com/track/07SNUZ03yaR77QAG0QgPzH"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3FUx3pa4NXmlVJQzBHRRx7"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 302890,
-      "name": "Just A Little Bit",
-      "url": "https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 368551,
       "name": "Goodbye Stranger",
       "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 302890,
+      "name": "Just A Little Bit",
+      "url": "https://open.spotify.com/track/1JfbhdC2PRpB1TcobDTvF8"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "A Voice",
+        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "A Voice",
+      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Rogue",
         "url": "https://open.spotify.com/album/51hmnwZrsDwbweZLJ1CbKK"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 231040,
       "name": "2nite",
       "url": "https://open.spotify.com/track/2EVvYPOMpYIjP9mxyxmvE4"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "A Voice",
-        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "A Voice",
-      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
+        "name": "Bagatelles",
+        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
       },
       "artists": [
         {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+          "name": "Nellie McKay",
+          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
         }
       ],
-      "duration_ms": 216000,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+      "duration_ms": 127426,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Bagatelles",
-        "url": "https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1"
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
       },
       "artists": [
         {
-          "name": "Nellie McKay",
-          "url": "https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN"
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
         }
       ],
-      "duration_ms": 127426,
-      "name": "How About You",
-      "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
+      "duration_ms": 216000,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1607,6 +1607,54 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "This Too Shall Pass",
+        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+      },
+      "artists": [
+        {
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        }
+      ],
+      "duration_ms": 201979,
+      "name": "This Too Shall Pass",
+      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Hey Laura",
+        "url": "https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d"
+      },
+      "artists": [
+        {
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Hey Laura",
+      "url": "https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Break In",
+        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
+      },
+      "artists": [
+        {
+          "name": "TICO DE MORAES",
+          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Break In",
+      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
       },
@@ -1639,38 +1687,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Break In",
-        "url": "https://open.spotify.com/album/5LEZDxOK0FRDjj6DlWtPMO"
-      },
-      "artists": [
-        {
-          "name": "TICO DE MORAES",
-          "url": "https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05"
-        }
-      ],
-      "duration_ms": 199636,
-      "name": "Break In",
-      "url": "https://open.spotify.com/track/50T4oNyzIMVM2xoC8kvoLw"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Hey Laura",
-        "url": "https://open.spotify.com/album/5RVJgpxz5uWPDXdGWMCx1d"
-      },
-      "artists": [
-        {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
-        }
-      ],
-      "duration_ms": 193160,
-      "name": "Hey Laura",
-      "url": "https://open.spotify.com/track/3WH078dURFTzcALQD8UBMw"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "This Too Shall Pass",
-        "url": "https://open.spotify.com/album/4Vouu0GOiGtA7ivgYNZoJV"
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
       "artists": [
         {
-          "name": "Dennis van Aarssen",
-          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
         }
       ],
-      "duration_ms": 201979,
-      "name": "This Too Shall Pass",
-      "url": "https://open.spotify.com/track/0YtEa0cfa0txTHV99HVpNW"
+      "duration_ms": 293504,
+      "name": "Your Hands",
+      "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1719,22 +1735,6 @@
       "duration_ms": 201000,
       "name": "When The Stars Align",
       "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
-      },
-      "artists": [
-        {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
-        }
-      ],
-      "duration_ms": 293504,
-      "name": "Your Hands",
-      "url": "https://open.spotify.com/track/5L2WZHdSzV9rCsK6KWxb2E"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Sugilite",
+        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Newhall",
+          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
+        }
+      ],
+      "duration_ms": 278961,
+      "name": "Sugilite",
+      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "What Love Is For",
         "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 283106,
       "name": "The Very Thought Of You",
       "url": "https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Sugilite",
-        "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Newhall",
-          "url": "https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t"
-        }
-      ],
-      "duration_ms": 278961,
-      "name": "Sugilite",
-      "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
+        "name": "Song Like Ours",
+        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
+      },
+      "artists": [
+        {
+          "name": "Jazzy D",
+          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
+        },
+        {
+          "name": "Angela Gooden",
+          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
+        }
+      ],
+      "duration_ms": 298549,
+      "name": "Song Like Ours",
+      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/2YrxQ8cVq9Rcw0vLOKx2cy"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/4pUe0F3de1wLLGYFkbhmmn"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
-        "name": "Song Like Ours",
-        "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
-      },
-      "artists": [
-        {
-          "name": "Jazzy D",
-          "url": "https://open.spotify.com/artist/3ptyb6LvZRaIJhXpRYGrHR"
-        },
-        {
-          "name": "Angela Gooden",
-          "url": "https://open.spotify.com/artist/34a5uVpfGun3lRfBi0ImVm"
-        }
-      ],
-      "duration_ms": 298549,
-      "name": "Song Like Ours",
-      "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
     },
     {
       "added_at": "2023-06-22 22:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-06-22 22:00:00",
       "album": {
-        "name": "Let's Get Lost",
-        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Summers",
-          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
-    },
-    {
-      "added_at": "2023-06-22 22:00:00",
-      "album": {
         "name": "Can't Fight Love",
         "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 256000,
       "name": "Can't Fight Love",
       "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
+    },
+    {
+      "added_at": "2023-06-22 22:00:00",
+      "album": {
+        "name": "Let's Get Lost",
+        "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Summers",
+          "url": "https://open.spotify.com/artist/6uqOd0qw9avpT0vCyCZ4DX"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/6CqPIL8gJlNo4p9uIOF1LM"
     },
     {
       "added_at": "2023-06-22 22:00:00",

@@ -26,7 +26,7 @@
 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:42 | 2022-07-18 |  |
 | [These Boots Are Made For Walking](https://open.spotify.com/track/7ABtsCLOCZ5N9aXtBezZBY) | [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [The Very Special World Of Lee Hazlewood \(Expanded Edition\)](https://open.spotify.com/album/4BshrFXTkg7Vhtdcqg0FpX) | 3:16 | 2022-07-18 |  |
 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2022-07-18 |  |
-| [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 | 2022-07-18 |  |
+| [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 | 2022-07-18 | 2023-07-31 |
 | [áudio de desculpas](https://open.spotify.com/track/1JP3iGUerYKKYQwXGQGYks) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [CUTE BUT \(still\) PSYCHO](https://open.spotify.com/album/74ic7SZ8UUWmYwgax1nHtw) | 2:56 | 2022-07-18 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

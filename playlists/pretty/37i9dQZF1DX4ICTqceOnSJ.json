@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422237,
+  "num_followers": 422253,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjliNDQ4MGM0MzNjOWFkNDcxYjEzOGY2OTU5NGUxNWVhZmUzNDY4",
+  "snapshot_id": "MCxkYjkyMTI3NGY2OGNhODJlNTE3YmZiZDVmOWNjMjA1NDQ2ZGFkYTcy",
   "tracks": [
+    {
+      "added_at": "2023-07-30 06:00:00",
+      "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
+    },
     {
       "added_at": "2023-07-29 06:00:00",
       "album": {
@@ -879,22 +895,6 @@
       "duration_ms": 212199,
       "name": "Dime",
       "url": "https://open.spotify.com/track/0AeLV7eiqBHMaTeq5R8SAS"
-    },
-    {
-      "added_at": "2023-07-24 22:53:16",
-      "album": {
-        "name": "Nadie Lo Dir\u00eda",
-        "url": "https://open.spotify.com/album/2Qa5RlEmohnGEoloswYbYW"
-      },
-      "artists": [
-        {
-          "name": "Duplat",
-          "url": "https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO"
-        }
-      ],
-      "duration_ms": 220950,
-      "name": "Nadie Lo Dir\u00eda",
-      "url": "https://open.spotify.com/track/0b9xK6eoCf7BWpoUimY0r4"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

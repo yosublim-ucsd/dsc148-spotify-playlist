@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Agris en portada.",
-  "num_followers": 96468,
+  "num_followers": 96463,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz",
+  "snapshot_id": "MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx",
   "tracks": [
     {
       "added_at": "2023-07-07 16:56:50",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Amar",
-        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 179071,
-      "name": "Amar",
-      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Laura Itandehui",
         "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 171750,
       "name": "Yo no Necesito de Mucho",
       "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Amar",
+        "url": "https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 179071,
+      "name": "Amar",
+      "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Es Tan Bonita",
-        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
+        "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
         }
       ],
-      "duration_ms": 159333,
-      "name": "Es Tan Bonita",
-      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -639,18 +635,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Amor Con Filo",
-        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
+        "name": "Es Tan Bonita",
+        "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
       },
       "artists": [
         {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
+      "duration_ms": 159333,
+      "name": "Es Tan Bonita",
+      "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
+        "name": "Hierbas Para la Tristeza",
+        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
       },
       "artists": [
         {
-          "name": "Costa de \u00c1mbar",
-          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
+          "name": "Amapola",
+          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
         }
       ],
-      "duration_ms": 168000,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
+      "duration_ms": 166112,
+      "name": "Hierbas",
+      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Hierbas Para la Tristeza",
-        "url": "https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK"
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG"
       },
       "artists": [
         {
-          "name": "Amapola",
-          "url": "https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5"
+          "name": "Costa de \u00c1mbar",
+          "url": "https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg"
         }
       ],
-      "duration_ms": 166112,
-      "name": "Hierbas",
-      "url": "https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9"
+      "duration_ms": 168000,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Al Amor",
-        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 208177,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Tu Despedida",
         "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 234466,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Al Amor",
+        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "mejor me voy",
-        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "mejor me voy",
-      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "M\u00edstico Desierto",
         "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Siente Lo Que Siento",
-        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
-      },
-      "artists": [
-        {
-          "name": "Carolina en Llamas",
-          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Siente Lo Que Siento",
-      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 164086,
       "name": "Problema",
       "url": "https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "mejor me voy",
+        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "mejor me voy",
+      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Siente Lo Que Siento",
+        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
+      },
+      "artists": [
+        {
+          "name": "Carolina en Llamas",
+          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Siente Lo Que Siento",
+      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Repetir",
-        "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 163958,
-      "name": "Repetir",
-      "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "P\u00e1ramo M\u00edstico",
         "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 203532,
       "name": "Arena Blanca",
       "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Repetir",
+        "url": "https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 163958,
+      "name": "Repetir",
+      "url": "https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7"
     },
     {
       "added_at": "2023-07-07 16:56:50",

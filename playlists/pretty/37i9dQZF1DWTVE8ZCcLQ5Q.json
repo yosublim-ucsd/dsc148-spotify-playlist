@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421695,
+  "num_followers": 421688,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
+  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Do Alto da Laje",
-        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        }
-      ],
-      "duration_ms": 159048,
-      "name": "Daqui de Cima",
-      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "bonita e miser\u00e1vel",
         "url": "https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 171601,
       "name": "bonita e miser\u00e1vel",
       "url": "https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Do Alto da Laje",
+        "url": "https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        }
+      ],
+      "duration_ms": 159048,
+      "name": "Daqui de Cima",
+      "url": "https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww"
     },
     {
       "added_at": "2023-07-12 21:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
-        "name": "Favelinha",
-        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
-      },
-      "artists": [
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 102958,
-      "name": "Favelinha",
-      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
         "name": "O outro lado do rio",
         "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 194351,
       "name": "Me chama pra dan\u00e7ar",
       "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
+        "name": "Favelinha",
+        "url": "https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd"
+      },
+      "artists": [
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 102958,
+      "name": "Favelinha",
+      "url": "https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod"
     },
     {
       "added_at": "2023-07-12 21:00:00",

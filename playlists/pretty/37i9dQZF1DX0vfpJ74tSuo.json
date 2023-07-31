@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 61605,
+  "num_followers": 61642,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2E1NTIyYWE5ZjI4NmI4ZTk3ZDM4N2E4ZDQzMDZmY2Y1ZjI3ZjI5",
+  "snapshot_id": "MCxiMjRiN2JkZTFlY2MyYzJjOWI1YzhlZWFjYWI2YzU5YjU4NjQzZTA3",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383760,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Oklahoma",
         "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 268346,
       "name": "Diving Duck Blues",
       "url": "https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383760,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Extraordinary Times (The Duo Sessions)",
-        "url": "https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk"
-      },
-      "artists": [
-        {
-          "name": "Natural Blues",
-          "url": "https://open.spotify.com/artist/0Uiywt2Agresj5Su8OxALd"
-        }
-      ],
-      "duration_ms": 206606,
-      "name": "Sweet Goddess Blues",
-      "url": "https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Elementary Doctor Watson",
         "url": "https://open.spotify.com/album/21k6Gb6ldqVsUfWY9culSS"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 207387,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6XqtE6pjFSJV3dC7Qlr0t0"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Extraordinary Times (The Duo Sessions)",
+        "url": "https://open.spotify.com/album/6hnHx3h7NFAkWE7EbseSHk"
+      },
+      "artists": [
+        {
+          "name": "Natural Blues",
+          "url": "https://open.spotify.com/artist/0Uiywt2Agresj5Su8OxALd"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Sweet Goddess Blues",
+      "url": "https://open.spotify.com/track/3XMPpennPuz3oZnOZx193p"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Mystery Man",
         "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Blues Before Sunrise",
+      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "It Would Be Better for the Bad to Be Good",
         "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 213253,
       "name": "It Would Be Better for the Bad to Be Good",
       "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Simple Truths",
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
+      },
+      "artists": [
+        {
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
+        }
+      ],
+      "duration_ms": 280306,
+      "name": "I'm So Lonely",
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 205240,
       "name": "Blues Funky Like Dat",
       "url": "https://open.spotify.com/track/6ZRUSMo4fKCk7bLKhE31lJ"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Simple Truths",
-        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
-      },
-      "artists": [
-        {
-          "name": "The Holmes Brothers",
-          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
-        }
-      ],
-      "duration_ms": 280306,
-      "name": "I'm So Lonely",
-      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "The Cause of It All",
-        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Shawn Amos",
-          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
-        }
-      ],
-      "duration_ms": 137186,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Don't Be Late",
         "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 174313,
       "name": "Foolin'",
       "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "The Cause of It All",
+        "url": "https://open.spotify.com/album/0vFXHwYTLDliBGEMDFEqoh"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Shawn Amos",
+          "url": "https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT"
+        }
+      ],
+      "duration_ms": 137186,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "75-71",
-        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "75-71",
-      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Outdated Emotion",
         "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 186317,
       "name": "Two Step Too",
       "url": "https://open.spotify.com/track/3qFPfJOLQanNyGcvduvG6p"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Open Road",
         "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 212066,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/46XA7kA0XVsREeXvWz4Cas"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1891,38 +1891,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Peter Green's Fleetwood Mac (Deluxe)",
-        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 149026,
-      "name": "The World Keep on Turning",
-      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Pray For Rain",
-        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Pray For Rain",
-      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Mission Creep",
         "url": "https://open.spotify.com/album/0qplBAg6M8wyXjzX4Dr7we"
       },
@@ -1935,6 +1903,22 @@
       "duration_ms": 180793,
       "name": "My Little One",
       "url": "https://open.spotify.com/track/3Jpj3WobbdheWDhXL51M1a"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "The World Keep on Turning",
+      "url": "https://open.spotify.com/track/4hcMB6cObt073jy7IJME51"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1991,18 +1975,34 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
+        "name": "Turn Me Loose",
+        "url": "https://open.spotify.com/album/7qYPsrVyyy12xAcSfqPPz0"
       },
       "artists": [
         {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
+          "name": "Angela Perley",
+          "url": "https://open.spotify.com/artist/2U3xMvB5tzEWXO6lM6HMfg"
         }
       ],
-      "duration_ms": 197237,
-      "name": "Meet Me In The City",
-      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
+      "duration_ms": 176980,
+      "name": "Praying for Daylight",
+      "url": "https://open.spotify.com/track/44g9peXGLkmhN61xdpPhkt"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Pray For Rain",
+        "url": "https://open.spotify.com/album/3VYZoU9OHoA25oBGY7D8zz"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Pray For Rain",
+      "url": "https://open.spotify.com/track/5elAntVKVPp6vMluBMlxWF"
     }
   ],
   "unique_name": "Morning Blues",

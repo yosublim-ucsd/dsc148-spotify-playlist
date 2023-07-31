@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Newport\. Artwork: Isu Kim
 
-2,403 songs - 5 day 12 hr 9 min
+2,404 songs - 5 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -915,7 +915,8 @@
 | [Healing](https://open.spotify.com/track/5LEqciYTIj0P54NFJpJk1I) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB) | [Healing](https://open.spotify.com/album/1PInN5WeOf5BKxOSb24i9Z) | 2:52 | 2021-12-28 | 2022-01-13 |
 | [Hear no, Speak no](https://open.spotify.com/track/3Fhy8YFgo9DAOhBBsz3mne) | [Narli](https://open.spotify.com/artist/53PF1XNYEjCjV3nHOXEDoO) | [Hear no, Speak no](https://open.spotify.com/album/6Gn2SYE1BgF0SiZiAjGFGP) | 2:37 | 2023-04-19 | 2023-05-11 |
 | [Heard This Calling](https://open.spotify.com/track/1Vbyh85c1kKWe2Daq9NwfP) | [Cassettes For Kids](https://open.spotify.com/artist/4Zs7sfD9SC3wRBZ0U29CPB) | [Heard This Calling](https://open.spotify.com/album/2IALQfr0s4LYREWQxE7aNC) | 5:15 | 2022-06-01 | 2022-06-23 |
-| [Heart Full Of Tenderness](https://open.spotify.com/track/2IKFliCQSryEI0rHX3XycS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Heart Full Of Tenderness](https://open.spotify.com/album/0bgATyrFE1D21ryMOyFr6u) | 4:10 | 2023-07-12 |  |
+| [Heart Full Of Tenderness](https://open.spotify.com/track/2IKFliCQSryEI0rHX3XycS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Heart Full Of Tenderness](https://open.spotify.com/album/0bgATyrFE1D21ryMOyFr6u) | 4:10 | 2023-07-12 | 2023-07-31 |
+| [Heart Full Of Tenderness](https://open.spotify.com/track/39zZaQHjXzYr8IiOOAlZhT) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 4:10 | 2023-07-26 |  |
 | [Heartbeat](https://open.spotify.com/track/6K2uzG9WomPsCknrMU9BJJ) | [Audition Tape](https://open.spotify.com/artist/5RkNnygxaxAM01O4ms8lC9) | [Heartbeat](https://open.spotify.com/album/3JA4Gn3uJMxTQUhxJOX5w1) | 3:14 | 2022-08-03 | 2022-08-25 |
 | [Heartbeat](https://open.spotify.com/track/2OdyPLxLwIosEAFxNeUucV) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Heartbeat](https://open.spotify.com/album/4fC7DGkjg7cXtI9jf8Kapp) | 3:16 | 2022-08-03 | 2022-09-01 |
 | [Heartless](https://open.spotify.com/track/0scF0rzaAQ0zIMO3ki5o8u) | [Eduard Luli](https://open.spotify.com/artist/5hLOqEoLT2c6NtGvE2AlsF) | [Heartless](https://open.spotify.com/album/2FhdXVkamh69YXoxt1atQ9) | 3:12 | 2022-08-31 | 2022-09-22 |

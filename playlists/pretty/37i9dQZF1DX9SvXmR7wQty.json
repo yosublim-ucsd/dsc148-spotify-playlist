@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Salebarbes",
-  "num_followers": 37345,
+  "num_followers": 37350,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTAxYWY2MDdlM2U4NmZiOTk5NTJlNDUwMzgzNDU3YzdiMWU5MDk4",
+  "snapshot_id": "MCwwZmJlYWIzZjU4MGE2OTYzNDg4MzJjMzg5MTEwMmYzY2E2ZGJkMzZk",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 195659,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Ouvert tout l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 195659,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -439,30 +439,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Chef D'orchestre",
-        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "ZEG P",
-          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Cit\u00e9s de France",
-      "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG"
       },
@@ -475,6 +451,22 @@
       "duration_ms": 134423,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -495,18 +487,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Derni\u00e8re fois",
-        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+        "name": "Chef D'orchestre",
+        "url": "https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "ZEG P",
+          "url": "https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc"
         }
       ],
-      "duration_ms": 198698,
-      "name": "Derni\u00e8re fois",
-      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+      "duration_ms": 189666,
+      "name": "Cit\u00e9s de France",
+      "url": "https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "BORZ",
-        "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        }
-      ],
-      "duration_ms": 136635,
-      "name": "BORZ",
-      "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 131480,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "BORZ",
+        "url": "https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "duration_ms": 136635,
+      "name": "BORZ",
+      "url": "https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Y Dor",
+        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 145620,
+      "name": "Y Dor",
+      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Eyes Contact",
         "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
       },
@@ -671,6 +691,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "duration_ms": 176325,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "La Centrale",
         "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
       },
@@ -691,18 +727,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "G.O.A.T",
-        "url": "https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc"
+        "name": "Femmes",
+        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
       },
       "artists": [
         {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         }
       ],
-      "duration_ms": 176325,
-      "name": "G.O.A.T",
-      "url": "https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp"
+      "duration_ms": 131399,
+      "name": "Femmes",
+      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -727,22 +763,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Femmes",
-        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 131399,
-      "name": "Femmes",
-      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "VIDA LOCA",
         "url": "https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM"
       },
@@ -763,22 +783,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Y Dor",
-        "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
+        "name": "\u00c7a va !",
+        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
       },
       "artists": [
         {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
         },
         {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 145620,
-      "name": "Y Dor",
-      "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
+      "duration_ms": 154580,
+      "name": "\u00c7a va !",
+      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -799,26 +819,6 @@
       "duration_ms": 214605,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "\u00c7a va !",
-        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
-      },
-      "artists": [
-        {
-          "name": "DJ Bens",
-          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
-        },
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 154580,
-      "name": "\u00c7a va !",
-      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Cette vie",
+        "url": "https://open.spotify.com/album/314caeDoxMmpPdP1aoPcyC"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 139509,
+      "name": "Cette vie",
+      "url": "https://open.spotify.com/track/2COzs35KuKto9iRL9RIZRg"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "M\u00e9diterran\u00e9e",
         "url": "https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 248759,
       "name": "Colors",
       "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Hello Hi / Un Deux Trois",
-        "url": "https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "Un Deux Trois",
-      "url": "https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

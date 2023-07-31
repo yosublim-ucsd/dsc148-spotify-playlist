@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 89514,
+  "num_followers": 89618,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzZkZmFlNTExYWY1NTBiYTE1ZDcwNGQ4YjMwOGMwYTQyYzk5Y2Rm",
+  "snapshot_id": "MCxjZTkzNTAxNTg3ZmM5MTRmMjk2ZTRkMDQzMzhhODk2M2JjYTZmNzk5",
   "tracks": [
     {
       "added_at": "2023-06-29 22:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "On the Nile",
-        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
-      },
-      "artists": [
-        {
-          "name": "The Egyptian Lover",
-          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
-        }
-      ],
-      "duration_ms": 319413,
-      "name": "Egypt Egypt",
-      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Spirit (feat. Wale)",
         "url": "https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
+        "name": "On the Nile",
+        "url": "https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i"
+      },
+      "artists": [
+        {
+          "name": "The Egyptian Lover",
+          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
+        }
+      ],
+      "duration_ms": 319413,
+      "name": "Egypt Egypt",
+      "url": "https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
         "name": "Abacab (2007 Remaster)",
         "url": "https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-06-29 22:01:00",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
-    },
-    {
-      "added_at": "2023-06-29 22:01:00",
-      "album": {
         "name": "Born To Mack",
         "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 573066,
       "name": "Freaky Tales",
       "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
+    },
+    {
+      "added_at": "2023-06-29 22:01:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
     },
     {
       "added_at": "2023-06-29 22:01:00",

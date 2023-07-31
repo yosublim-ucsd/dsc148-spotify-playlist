@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 49899,
+  "num_followers": 49990,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTRkMDczMmFiYzg2YjcwMmY5MDVlNjA3Zjg3MjViZWRhMzY4ZDE3",
+  "snapshot_id": "MCwyMmMwNjU5Mjk5NzViYzYyOTAyNTUwZTQ4ZDkxNjEyY2I2YzIyMDBl",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Smokestack Lightning",
+      "url": "https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues",
         "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 135546,
       "name": "Messin' with the Kid",
       "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "You Broke Me",
-        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Smokestack Lightning",
-      "url": "https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "You Broke Me",
-        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 236543,
-      "name": "Baby We're Through",
-      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "This Is... Huey 'Piano' Smith",
         "url": "https://open.spotify.com/album/2O3iFb9B97JGcQt1IxvEfD"
       },
@@ -495,22 +479,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
@@ -523,6 +491,38 @@
       "duration_ms": 169306,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "I Am The Moon: II. Ascension",
         "url": "https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 159427,
       "name": "So Long Savior",
       "url": "https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "That's What Love Will Make You Do",
         "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 245173,
       "name": "That's What Love Will Make You Do",
       "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     },
     {
       "added_at": "2023-07-14 00:01:00",

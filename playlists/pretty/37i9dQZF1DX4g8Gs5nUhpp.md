@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: ERIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,038 likes - 57 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,087 likes - 57 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 56 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 |
 | 57 | [đưa em về nhàa](https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy) | 4:00 |
 
-Snapshot ID: `MCw0MTUzMGE1OGVmYWRhMmQ1OWEwNTYwN2VjNTJkODZiY2MzY2Y0NGJl`
+Snapshot ID: `MCw0M2MxYjY5MGIyNTFiNzkzODAyZDQ0NTI1ZmEwYmQzMGFmMTIxMjE5`

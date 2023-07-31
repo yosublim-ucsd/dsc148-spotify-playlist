@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 512035,
+  "num_followers": 512159,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjFkZWY5ZWZhNzcyNDRkNDY2NTk0ZTlmYjhmYTIwOTVkNDA4MmI2",
+  "snapshot_id": "MCw1ZTc1OTk1ZTYzZjNkNjVmNjIyOGMyYjI5MzY3ZmUyMmMxNWJmMTM3",
   "tracks": [
     {
       "added_at": "2023-07-07 18:46:24",
@@ -39,6 +39,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Slave to Love",
         "url": "https://open.spotify.com/album/4o3qMdB8Y1aX1kWIOynXa7"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 211191,
       "name": "Slave to Love",
       "url": "https://open.spotify.com/track/28xiVJLGLwEHNFDzXKUIdY"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Conga Blue",
-        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 304066,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/2MF2sME4JRxNVNVxu05v5D"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "Conga Blue",
+        "url": "https://open.spotify.com/album/07nnA2Zlxl32A0CIB2qxlf"
+      },
+      "artists": [
+        {
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
+        }
+      ],
+      "duration_ms": 304066,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/2MF2sME4JRxNVNVxu05v5D"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Palabras",
         "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 244000,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Plays The Contemporary Music Of Mexico And Brazil",
-        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Se E Tarde, Me Perdoa",
-      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Que Ser\u00e1",
         "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 118500,
       "name": "Que Ser\u00e1",
       "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Plays The Contemporary Music Of Mexico And Brazil",
+        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Se E Tarde, Me Perdoa",
+      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
+        "name": "Soul Burst",
+        "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 375693,
+      "name": "Curacao",
+      "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/75bq0AKsv6CNCI6oVT57bL"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 225985,
       "name": "Me Has Echado al Olvido",
       "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "Soul Burst",
-        "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 375693,
-      "name": "Curacao",
-      "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1039,26 +1039,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Tr\u00edo Oriental",
-        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
+        "name": "The Latin Bit (Remastered)",
+        "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
       },
       "artists": [
         {
-          "name": "Hugo Fattoruso",
-          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
-        },
-        {
-          "name": "Daniel Maza",
-          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
-        },
-        {
-          "name": "Fabi\u00e1n Miodownik",
-          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
         }
       ],
-      "duration_ms": 130346,
-      "name": "La Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
+      "duration_ms": 352693,
+      "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
+      "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1079,18 +1071,26 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "The Latin Bit (Remastered)",
-        "url": "https://open.spotify.com/album/25R1tDWaQANYeIQb60rwiX"
+        "name": "Tr\u00edo Oriental",
+        "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
       "artists": [
         {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+          "name": "Hugo Fattoruso",
+          "url": "https://open.spotify.com/artist/6QDyLE9MsKNhEwDcgd86F9"
+        },
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        },
+        {
+          "name": "Fabi\u00e1n Miodownik",
+          "url": "https://open.spotify.com/artist/0id6cJE1cdObojEVJ8K5ym"
         }
       ],
-      "duration_ms": 352693,
-      "name": "Mambo Inn - Rudy Van Gelder Edition / Remastered 2007",
-      "url": "https://open.spotify.com/track/5yjT5e0813ydHnLjTFzYp3"
+      "duration_ms": 130346,
+      "name": "La Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/2HlWEGp5Hefb38uuwEL4dI"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 131386,
-      "name": "Seven Steps To Heaven",
-      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -1195,6 +1179,30 @@
       "duration_ms": 270066,
       "name": "Chopin: Prelude In E-Minor",
       "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 311920,
+      "name": "En Esta Tarde Gris",
+      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1251,26 +1259,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
+        "name": "Enchantment",
+        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Hilton Ruiz",
+          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
         }
       ],
-      "duration_ms": 311920,
-      "name": "En Esta Tarde Gris",
-      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+      "duration_ms": 131386,
+      "name": "Seven Steps To Heaven",
+      "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Duologue",
-        "url": "https://open.spotify.com/album/1SW7WYNVqXh4BXJFkfWJTj"
+        "name": "The Best Of Paquito D'Rivera",
+        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
       },
       "artists": [
         {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+          "name": "Paquito D'Rivera",
+          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/3IegPPKqQgbvrvQZ0Yo8wb"
+      "duration_ms": 291733,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "The Best Of Paquito D'Rivera",
-        "url": "https://open.spotify.com/album/2HWAPCvYnTDQQrcCuR8v3F"
+        "name": "Duologue",
+        "url": "https://open.spotify.com/album/1SW7WYNVqXh4BXJFkfWJTj"
       },
       "artists": [
         {
-          "name": "Paquito D'Rivera",
-          "url": "https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8"
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         }
       ],
-      "duration_ms": 291733,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/6BtRxQRMHXc8RSUXRTFgNn"
+      "duration_ms": 203493,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/3IegPPKqQgbvrvQZ0Yo8wb"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "El Arte Del Bolero",
-        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+        "name": "Habana",
+        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
       },
       "artists": [
         {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 477496,
-      "name": "C\u00f3mo Fue",
-      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+      "duration_ms": 287173,
+      "name": "Afrodisia",
+      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1559,22 +1555,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Habana",
-        "url": "https://open.spotify.com/album/6wV9FgUyUXOqE84uz2uNIy"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Afrodisia",
-      "url": "https://open.spotify.com/track/2agvDL6NkQfEjGgMbfqQMi"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Indigenous",
         "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 349165,
       "name": "Sabor A Mi",
       "url": "https://open.spotify.com/track/0zE1yiL5X6HZKSkvbuqncC"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "El Arte Del Bolero",
+        "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        },
+        {
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+        }
+      ],
+      "duration_ms": 477496,
+      "name": "C\u00f3mo Fue",
+      "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
         "name": "Duos II",
         "url": "https://open.spotify.com/album/5HBHLmP3Zv5Qc1a5NdguBn"
       },
@@ -1687,22 +1671,6 @@
       "duration_ms": 172680,
       "name": "Muita Bobeira",
       "url": "https://open.spotify.com/track/3yWwPTIZAw9qYkH1L3tIdO"
-    },
-    {
-      "added_at": "2023-07-07 18:46:24",
-      "album": {
-        "name": "New Era",
-        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
-      },
-      "artists": [
-        {
-          "name": "Negroni's Trio",
-          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Brazilian Love Affair",
-      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1723,18 +1691,34 @@
     {
       "added_at": "2023-07-07 18:46:24",
       "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
       },
       "artists": [
         {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "New Era",
+        "url": "https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya"
+      },
+      "artists": [
+        {
+          "name": "Negroni's Trio",
+          "url": "https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Brazilian Love Affair",
+      "url": "https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1"
     },
     {
       "added_at": "2023-07-07 18:46:24",
@@ -1759,6 +1743,22 @@
       "duration_ms": 407832,
       "name": "Don't Like Goodbyes - Bonus Track",
       "url": "https://open.spotify.com/track/36GHJdOaMJLh8b5iv4gxhu"
+    },
+    {
+      "added_at": "2023-07-07 18:46:24",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE"
     },
     {
       "added_at": "2023-07-07 18:46:24",

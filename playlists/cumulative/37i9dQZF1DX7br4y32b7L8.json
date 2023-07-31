@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "Gek Op Jou (feat. Koen)",
+        "url": "https://open.spotify.com/album/3U0ck9Ps7JzuRPN6eNFeNC"
+      },
+      "artists": [
+        {
+          "name": "Yes-R",
+          "url": "https://open.spotify.com/artist/26W6sq5yZeIhzfO6d8g9NJ"
+        },
+        {
+          "name": "Koen",
+          "url": "https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Gek Op Jou (feat. Koen)",
+      "url": "https://open.spotify.com/track/0SznGXywmezP2t8hI9NDkw"
+    },
+    {
+      "album": {
         "name": "Gimme Bass",
         "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
       },
@@ -2782,6 +2804,28 @@
       "duration_ms": 141184,
       "name": "One More Shot",
       "url": "https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa"
+    },
+    {
+      "album": {
+        "name": "Ongezien",
+        "url": "https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hoefnagels",
+          "url": "https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q"
+        },
+        {
+          "name": "Rhod\u00e9 Kok",
+          "url": "https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Ongezien",
+      "url": "https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ"
     },
     {
       "album": {

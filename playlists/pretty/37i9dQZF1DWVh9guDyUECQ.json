@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 170942,
+  "num_followers": 170986,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy",
+  "snapshot_id": "MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -811,6 +811,26 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Sin Gravedad",
+        "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "JAVI",
+          "url": "https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK"
+        }
+      ],
+      "duration_ms": 180779,
+      "name": "Sin Gravedad",
+      "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Sin Gravedad",
-        "url": "https://open.spotify.com/album/3wUhVULJ1PdkhaENsajf7b"
-      },
-      "artists": [
-        {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
-        },
-        {
-          "name": "JAVI",
-          "url": "https://open.spotify.com/artist/50TBxDRKXkx8BffKq4NKlK"
-        }
-      ],
-      "duration_ms": 180779,
-      "name": "Sin Gravedad",
-      "url": "https://open.spotify.com/track/5jh1Vw7bhJJDGqpPxETFfO"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Si Tu No Estas",
-        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Si T\u00fa No Estas",
-      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 205706,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Si Tu No Estas",
+        "url": "https://open.spotify.com/album/4XlLSOigjYUbHcRR0dALRW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Si T\u00fa No Estas",
+      "url": "https://open.spotify.com/track/3EnXQxzuk2aqhoy8loWQLv"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
       "artists": [
         {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        },
+        {
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
         }
       ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1643,22 +1647,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
       "artists": [
         {
-          "name": "Artury Pepper",
-          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
         }
       ],
-      "duration_ms": 210266,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Un Call",
         "url": "https://open.spotify.com/album/41skV30829DyjovTu9BPas"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 206230,
       "name": "M\u00e1s Como T\u00fa \u2013 Remix",
       "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
     }
   ],
   "unique_name": "Flow Cristiano",

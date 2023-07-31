@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-853 songs - 1 day 20 hr 19 min
+854 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-06-14 | 2023-04-18 |
 | [Medicine](https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 | 2021-02-07 | 2022-07-27 |
 | [Melocotón](https://open.spotify.com/track/1qW32mkxIEhRkerlabQVOd) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 2:27 | 2020-07-23 | 2021-05-28 |
-| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 |  |
+| [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-11-19 | 2023-07-31 |
 | [Metamodernity](https://open.spotify.com/track/61GiMDN1kUiEQK6zHGMdnx) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/5HkW3pBnVMbKRaWbizrIMN) | 2:42 | 2019-07-31 | 2021-08-28 |
 | [Meteor Shower](https://open.spotify.com/track/6A2itXgDf96XHp9qR6oyPN) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 4:25 | 2022-02-10 | 2022-12-15 |
 | [Michelle](https://open.spotify.com/track/512KrOic5RhnnHYn0F1gBv) | [Dameer](https://open.spotify.com/artist/1rTEkzUiftHqoVMjSucIV6) | [For We Are Distant](https://open.spotify.com/album/7knkJrs3ILgOPtzSfD68YT) | 3:42 | 2021-02-27 | 2022-07-29 |
@@ -508,6 +508,7 @@
 | [MyLuv](https://open.spotify.com/track/5cNPfcnT3y3JmWiqBQqtLi) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [MyLuv](https://open.spotify.com/album/0con7VlHh3THpC6TLtNoQd) | 2:01 | 2021-08-13 | 2022-04-29 |
 | [Mystery](https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Mystery](https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5) | 2:57 | 2021-04-02 |  |
 | [nature song](https://open.spotify.com/track/2XZ4QZuNkjkfUdrOG3JsVG) | [Shanin Blake](https://open.spotify.com/artist/0sPLIcpwzNwI8GZMcnCdYp) | [nature song](https://open.spotify.com/album/4jPB4PeKxKoE4KjYzhCl61) | 3:00 | 2022-03-04 | 2022-04-19 |
+| [nature song](https://open.spotify.com/track/6Sqx6YNOsNbtWSwkjDuQhK) | [Shanin Blake](https://open.spotify.com/artist/0sPLIcpwzNwI8GZMcnCdYp) | [nature song](https://open.spotify.com/album/6JgG3hdJeiBNHruSyKEho4) | 3:00 | 2023-04-17 |  |
 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 | 2019-09-12 |  |
 | [Needy](https://open.spotify.com/track/7EHZMOUAhYwnAoAO8cIKOw) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D), [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [Needy](https://open.spotify.com/album/0DNUQA7dBG8fzvzZd5Tx3f) | 2:38 | 2022-03-04 | 2022-07-29 |
 | [Never Cared](https://open.spotify.com/track/5ZGidWqM4SKev5YSnFH9RK) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Never Cared](https://open.spotify.com/album/6TePe3YzQ6I3neT2vuUaRT) | 3:24 | 2019-07-30\* | 2020-04-24 |

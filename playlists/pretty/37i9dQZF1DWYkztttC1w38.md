@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 
 > Soothing classical music to help you relax while you read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,215 likes - 65 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,358 likes - 65 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 37 | [Berceuse](https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Sara Chenal](https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo), [Jean\-Pierre Ferey](https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8) | [Violon au féminin: Compositrices françaises](https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F) | 2:28 |
 | 38 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Nightfall](https://open.spotify.com/album/0Mbkl6nlKMXhmVeoSCQntV) | 4:54 |
 | 39 | [Their First Time](https://open.spotify.com/track/0MPYUwNGF3D7dvBoAIlMVh) | [Adam Taylor](https://open.spotify.com/artist/2eog4K1pzXDmE54lHAc6DL) | [The Handmaid's Tale \(Deluxe Edition\) \[Original Series Soundtrack\]](https://open.spotify.com/album/2PBGnQ3ZG4X8wc9MRCiRyB) | 1:35 |
-| 40 | [Sonata In G Minor For Cello & Piano, Op\. 65: 3\. Largo](https://open.spotify.com/track/0IeYgH0U4BlDNVKAV3jLTJ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Relaxing Piano \- Bach, Beethoven, Chopin](https://open.spotify.com/album/5ZhychUFBVpFlJTpz7vgR6) | 3:37 |
+| 40 | [Sonata In G Minor For Cello & Piano, Op\. 65: 3\. Largo](https://open.spotify.com/track/3WIifOYctFn4eagupeKP6a) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Chopin \- Music from the 1800s](https://open.spotify.com/album/5VHeuyuGesCOyUeIykxP4q) | 3:37 |
 | 41 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/2WZNkbVqATzXscJ6VgYJeo) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Paul Goodwin](https://open.spotify.com/artist/4GamZjZFOQyMp7LNx81GwZ) | [Under the Stars](https://open.spotify.com/album/21lNww10aD2NEIr6mR7JyJ) | 2:54 |
 | 42 | [Sleepless](https://open.spotify.com/track/3IIboL1W5mfWjzPZenvCVe) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Sleepless](https://open.spotify.com/album/2VPWAuIYIPe988tW6llpml) | 3:05 |
 | 43 | [Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav\. Al tempo di Giga](https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 2:20 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkztttC1w38.md) - [plain]
 | 64 | [Bluebird](https://open.spotify.com/track/6iL0pob2CNH1KNXPsSl9Fo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Relaxing Classical](https://open.spotify.com/album/17tI0LEAubONuqyNfoDD12) | 3:24 |
 | 65 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 
-Snapshot ID: `MCw1YzE4Yzk1NjY1M2U4ZTA3MThkNmI1ZmMwNWE0ZmY1OGI1OGVlNjMy`
+Snapshot ID: `MCw1YzczYmZmNDg0Mjc3ODJmNjM2ZmVlOTQ4MThjYTY4ZWViMDdiZjZk`

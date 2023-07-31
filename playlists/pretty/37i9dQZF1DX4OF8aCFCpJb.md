@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,585 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,602 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 7 | [1.000.000 Nollor](https://open.spotify.com/track/2zKQmG3vaoRpogBihuBb3p) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 3:46 |
 | 8 | [Skin](https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 2:56 |
 | 9 | [12/12](https://open.spotify.com/track/3F2avOu7brXts7okal0BbK) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Kärlek & Revolt](https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO) | 3:52 |
-| 10 | [När solen går ner \- Kap10 Reggae Remix](https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h) | 3:41 |
+| 10 | [You Are My Angel](https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:20 |
 | 11 | [Det strålar så om dig](https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY), [HOFFMAESTRO](https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr) | [Kalibreraren](https://open.spotify.com/album/6AdURTh1xcp4WsitJR9FBR) | 4:17 |
-| 12 | [You Are My Angel](https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:20 |
+| 12 | [När solen går ner \- Kap10 Reggae Remix](https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [När solen går ner](https://open.spotify.com/album/3d57S81SE0Uz0zDaR9wh3h) | 3:41 |
 | 13 | [Polisen slår](https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7) | [Ras Cricket](https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH) | [Min Tid](https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv) | 3:46 |
 | 14 | [Smugglaren](https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0) | [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f), [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [One](https://open.spotify.com/album/0VNoWNuBCHyc0ibxfyxyEI) | 4:20 |
 | 15 | [Nån Annan \(feat\. Jacco\)](https://open.spotify.com/track/0FDF7UebxnxtLZwJIsbnbB) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Hela Livet](https://open.spotify.com/album/3ObxkdT65iK1fa2t5X7a8N) | 3:44 |
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 18 | [In Kommer Ting](https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 2:59 |
 | 19 | [Hetare Än Lava](https://open.spotify.com/track/6WTNvOppGFPmwZ37edR9tR) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Kärlek & Revolt](https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO) | 3:23 |
 | 20 | [Ugly Girls](https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Natural](https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM) | 4:35 |
-| 21 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 |
+| 21 | [Vår betong](https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Vår betong](https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail) | 3:44 |
 | 22 | [Tippa på tå](https://open.spotify.com/track/1PKRouxQ3KghcyU2UovQlF) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Tippa på tå](https://open.spotify.com/album/5JgVSX1xqeYviplcfs3qfu) | 3:01 |
-| 23 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
+| 23 | [Babylonsjukan](https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Helt Off](https://open.spotify.com/album/6uWdxQpz6z4Mi2LqnQuNFV) | 3:49 |
 | 24 | [Rudeboy Love](https://open.spotify.com/track/4lXN6CUfWgIKupkC2h4SaR) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Rudeboy Love](https://open.spotify.com/album/2IGr9pbfhEngQoxfcy3vjn) | 3:40 |
-| 25 | [Vår betong](https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w) | [Jacco](https://open.spotify.com/artist/1U8lN2i4lHmZqDerkVNKWk) | [Vår betong](https://open.spotify.com/album/5W1UoUi2OhzcnwIIBW2Ail) | 3:44 |
-| 26 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
-| 27 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
+| 25 | [Tribulations](https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Labababa](https://open.spotify.com/album/3z6fqHPkHimDtnsjGq1snB) | 4:33 |
+| 26 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
+| 27 | [Gillar din vibe](https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Dömd att bli bedömd](https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B) | 3:08 |
 | 28 | [Som Bob Marley](https://open.spotify.com/track/22FAGmEc3gyW5W8XAyJYA0) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Dancehall](https://open.spotify.com/album/2Cf4aLjmsn8561yq7otet9) | 3:18 |
 | 29 | [Hei Sommer](https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd) | [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD), [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5) | [Hei Sommer](https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj) | 2:52 |
 | 30 | [Bonus På Kortet](https://open.spotify.com/track/65ESFFKYf1iGe4xbBogmot) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Rikslarm](https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz) | [Kartellen](https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Slutpläderingen](https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs) | 2:36 |
 | 50 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
 
-Snapshot ID: `MCw0ZTkwMTQyYzc1MzY1MjI0NDM1MWExMjlmODE0ZDBkOGQwZDljZTAx`
+Snapshot ID: `MCw5NGZlOTQxNzBkZWYzYzU3ODhiMzc5ZjM2MzFjMTI1Mjc2MWM3MjYy`

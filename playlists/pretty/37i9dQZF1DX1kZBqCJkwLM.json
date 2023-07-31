@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 80441,
+  "num_followers": 80473,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGJmNDk4OTRlNmE0ZGU3NjcwZTMyY2FlOGY4MzgyNzdiNzlhMGMx",
+  "snapshot_id": "MCwzMjhlNzgxNmVjZWJhODVjMWJmNzc2ZWM0ZjRmOWZkM2VhNzMyNDM1",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Better Than the Boys",
+        "url": "https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9yah",
+          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
+        }
+      ],
+      "duration_ms": 154884,
+      "name": "Better Than the Boys",
+      "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Querencia",
         "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 186666,
       "name": "damn Right Pt. 2",
       "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Better Than the Boys",
-        "url": "https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9yah",
-          "url": "https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63"
-        }
-      ],
-      "duration_ms": 154884,
-      "name": "Better Than the Boys",
-      "url": "https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Can you (Galcher Lustwerk Remix)",
-        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 219216,
-      "name": "Can you",
-      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 231986,
       "name": "Flower (In Full Bloom)",
       "url": "https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Can you (Galcher Lustwerk Remix)",
+        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 219216,
+      "name": "Can you",
+      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
     },
     {
       "added_at": "2023-07-14 04:00:00",

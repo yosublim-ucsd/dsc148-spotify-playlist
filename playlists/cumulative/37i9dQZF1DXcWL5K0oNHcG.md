@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: MELONYX Artwork: Joy Yamusangie
 
-1,208 songs - 4 day 0 hr 2 min
+1,209 songs - 4 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -937,7 +937,8 @@
 | [Stank Face Patrol](https://open.spotify.com/track/2H4xUr4LK3EHNnXwOxCYW8) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/6ouVTP3LLQi5r1wvIuEqUQ) | 3:15 | 2023-05-10 | 2023-06-02 |
 | [Stank Face Patrol](https://open.spotify.com/track/6atptFSO0uK34oWZB9sevI) | [Jeremy Talon](https://open.spotify.com/artist/3ZCxlp3z1vzDcPN3kgPwcJ) | [Stank Face Patrol](https://open.spotify.com/album/60KAKPSwkb7PN98c7iQkdh) | 3:15 | 2023-05-10 | 2023-07-20 |
 | [Star Crossing](https://open.spotify.com/track/2nvyck5lSFUiwtnpG7H8mX) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Star Crossing](https://open.spotify.com/album/2PVBkjfnPzaLnS4TcR5XN9) | 4:19 | 2022-06-01 | 2022-06-30 |
-| [Stardust](https://open.spotify.com/track/4JRLytUE8OoVFYOVb8pF2s) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Stardust](https://open.spotify.com/album/1aNEqxblgIVMhykm0TLnnS) | 5:14 | 2023-06-14 |  |
+| [Stardust](https://open.spotify.com/track/2l8nWLkLuQTrRgsuGpQkT1) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [What A Wonderful World](https://open.spotify.com/album/4T1dek2O0wIVMG9ljzu5yM) | 5:14 | 2023-06-14 |  |
+| [Stardust](https://open.spotify.com/track/4JRLytUE8OoVFYOVb8pF2s) | [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Stardust](https://open.spotify.com/album/1aNEqxblgIVMhykm0TLnnS) | 5:14 | 2023-06-14 | 2023-07-31 |
 | [Starshine](https://open.spotify.com/track/5QJ9hMbrRgy0bh2Rf6X2qH) | [STL Collective](https://open.spotify.com/artist/1BVPGx5V0loqZCjZsGyUHe), [Joanna Serenko](https://open.spotify.com/artist/1Kgono2MXcTfWH2AX2bbrO), [Tyler Dale](https://open.spotify.com/artist/77ZEWK0kppsHZbuCK0aOH8) | [Starshine](https://open.spotify.com/album/7m6wntXpuUnxWdLxY2pwwa) | 3:44 | 2022-07-27 | 2022-09-09 |
 | [Stealing Me](https://open.spotify.com/track/4mbNHMhvErsWF7pnsa4Qu9) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Stealing Me](https://open.spotify.com/album/48iEiXUl3N5g9FID6DVBcC) | 4:20 | 2022-08-03 | 2022-09-22 |
 | [Steinhäuser](https://open.spotify.com/track/2AVeUUnU7UXBxzaz7i1M5b) | [Maik Mondial](https://open.spotify.com/artist/3ALV9FDmpjZFWNUvzT2jKA) | [Steinhäuser](https://open.spotify.com/album/3kPHSk3EpUEH0a3pTtxWG8) | 4:45 | 2022-06-29 | 2022-07-28 |

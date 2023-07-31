@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Ramona",
-  "num_followers": 513273,
+  "num_followers": 513317,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2Y5MDI0YTI3ZjQxY2Y2ZTk5YjFjNWUwYzE4ZGFiZGZmMTlkODIx",
+  "snapshot_id": "MCwxNTU5NzdjOWJkMjdjMGM3YWRlNmRkZDNiMTZiNThlZmYyMTcwYjhh",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Mi Querido, Mi Viejo, Mi Amigo",
-        "url": "https://open.spotify.com/album/7vlyywsguQ8jChINFZRf7d"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 198112,
-      "name": "Mi Querido, Mi Viejo, Mi Amigo",
-      "url": "https://open.spotify.com/track/6rmOA5QbXGCXGoR9dYwR4p"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 211562,
       "name": "Uh",
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Mi Querido, Mi Viejo, Mi Amigo",
+        "url": "https://open.spotify.com/album/7vlyywsguQ8jChINFZRf7d"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 198112,
+      "name": "Mi Querido, Mi Viejo, Mi Amigo",
+      "url": "https://open.spotify.com/track/6rmOA5QbXGCXGoR9dYwR4p"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
       },
@@ -563,6 +579,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Hasta Que Llegue El Verano",
+        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 227375,
+      "name": "Hasta Que Llegue El Verano",
+      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Agua al dolor",
         "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
       },
@@ -599,26 +635,6 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Hasta Que Llegue El Verano",
-        "url": "https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur"
-      },
-      "artists": [
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 227375,
-      "name": "Hasta Que Llegue El Verano",
-      "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -667,22 +683,6 @@
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Cabras",
+        "url": "https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Jimena Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Cabras",
+      "url": "https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Quien Tengo Que Ser",
         "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 176335,
       "name": "LALALAND",
       "url": "https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Cabras",
-        "url": "https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        },
-        {
-          "name": "Jimena Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Cabras",
-      "url": "https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Duele (Negociaci\u00f3n)",
-        "url": "https://open.spotify.com/album/2A7pEcFehWX92ammHs913N"
+        "name": "Todo lo que es Bueno",
+        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
       },
       "artists": [
         {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
         }
       ],
-      "duration_ms": 217760,
-      "name": "Duele (Negociaci\u00f3n)",
-      "url": "https://open.spotify.com/track/5yI50XJm7uEHYxM14gpBGu"
+      "duration_ms": 180618,
+      "name": "Todo lo que es Bueno",
+      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Todo lo que es Bueno",
-        "url": "https://open.spotify.com/album/06gKFFCsifj9HFausMxMyy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Todo lo que es Bueno",
-      "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Holidays - Chromocosmic Avenue",
         "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 203680,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Duele (Negociaci\u00f3n)",
+        "url": "https://open.spotify.com/album/2A7pEcFehWX92ammHs913N"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Duele (Negociaci\u00f3n)",
+      "url": "https://open.spotify.com/track/5yI50XJm7uEHYxM14gpBGu"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "CARDIO",
-        "url": "https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8"
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
       },
       "artists": [
         {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 142400,
-      "name": "CARDIO",
-      "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+        "name": "CARDIO",
+        "url": "https://open.spotify.com/album/4KI149spTqotwFjNUbrAl8"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
         }
       ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
+      "duration_ms": 142400,
+      "name": "CARDIO",
+      "url": "https://open.spotify.com/track/1YLyCvXW50Jd7W4F3ZcAAY"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Hermoso",
+        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 207274,
+      "name": "Hermoso",
+      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Nena, dime algo.",
         "url": "https://open.spotify.com/album/4LNN7H1otfd8z5TFIlQCEY"
       },
@@ -1383,6 +1399,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/6m3XECdFtdnTqy1mplUb5R"
       },
@@ -1415,38 +1447,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "ojitos caramelo (Remix)",
         "url": "https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 144960,
       "name": "ojitos caramelo - Remix",
       "url": "https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Mu\u00e9vete",
-        "url": "https://open.spotify.com/album/53vZo5q0F7jYsa7C2KDzku"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        }
-      ],
-      "duration_ms": 176623,
-      "name": "Mu\u00e9vete",
-      "url": "https://open.spotify.com/track/2K2nInEDfZrfxMO7AhswCE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "odio esta casa (cuando te vas)",
         "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 194048,
       "name": "odio esta casa (cuando te vas)",
       "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Mu\u00e9vete",
+        "url": "https://open.spotify.com/album/53vZo5q0F7jYsa7C2KDzku"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 176623,
+      "name": "Mu\u00e9vete",
+      "url": "https://open.spotify.com/track/2K2nInEDfZrfxMO7AhswCE"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1703,22 +1719,6 @@
       "duration_ms": 242000,
       "name": "Volves",
       "url": "https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Hermoso",
-        "url": "https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 207274,
-      "name": "Hermoso",
-      "url": "https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC"
     },
     {
       "added_at": "2023-07-28 04:00:00",

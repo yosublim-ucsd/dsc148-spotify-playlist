@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,991 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,074 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 20 | [That Was Your Mother \- Gui Boratto Remix](https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Graceland \- The Remixes](https://open.spotify.com/album/34ORSj2qrkkwUUwQJMcV1d) | 6:17 |
 | 21 | [Stand Up](https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Stand Up](https://open.spotify.com/album/2830antyeEz07AIkDQpWhP) | 4:01 |
 | 22 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
-| 23 | [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 |
-| 24 | [The Spirit](https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF) | 2:15 |
+| 23 | [The Spirit](https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF) | 2:15 |
+| 24 | [Peace Now \- Folamour Remix](https://open.spotify.com/track/095eMtsXfbV9lLX9QfBvzj) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Peace Now \(Folamour Remix\)](https://open.spotify.com/album/7HrFmMMJVi3RXaM8iSz1vR) | 3:14 |
 | 25 | [Can't Fake the Feeling](https://open.spotify.com/track/3WtL910PEMIjJkkpM4xMKU) | [Geraldine Hunt](https://open.spotify.com/artist/2VuXufMFvhdWTYGEVceBdV) | [Can't Fake the Feeling](https://open.spotify.com/album/1dGnvsgMyThFwpl9hhSGbI) | 5:16 |
 | 26 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
 | 27 | [You Goin' Miss Your Candyman](https://open.spotify.com/track/3teQ8pkzhuw4JILPFUADIu) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [What Color Is Love](https://open.spotify.com/album/61YKu9dRRskWOAT3ijKTr2) | 7:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [Dancing in the Dusk \- Clap! Clap! Remix](https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [Dancing in the Dusk \(Clap! Clap! Remix\)](https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc) | 7:11 |
 | 50 | [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 |
 
-Snapshot ID: `MCwzNmQ5MTM0Zjc5MThlM2EyMjIxNDlkOWMzOGRmMGYyZGFiNzRmNTQ1`
+Snapshot ID: `MCxkNjFjZGI1NzQxNmE2NjRiNTY1MzhlYzhhNGFhMmZiYzljMjZkZDdk`

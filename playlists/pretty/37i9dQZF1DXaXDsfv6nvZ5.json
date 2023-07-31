@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 752100,
+  "num_followers": 752142,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmU4OTQ1YTM0ZTNjYmNhMzgyNmI3NWMyNzA4OTZiYTUzZGZkMjk4",
+  "snapshot_id": "MCxmNDIxZGRkNTZjOWRiODZkMDI3OGM2OTk2NzVjYzVjMjNjMDgyMDEz",
   "tracks": [
     {
       "added_at": "2023-06-30 04:28:27",
@@ -513,6 +513,22 @@
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Hrs & Hrs (Remix)",
@@ -533,6 +549,22 @@
       "url": "https://open.spotify.com/track/5ZfQFxeeGGiKUmwzQBbGaV"
     },
     {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "These Songs Are For Anyone Sick Of Earth",
+        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
+      },
+      "artists": [
+        {
+          "name": "Aliah Sheffield",
+          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+        }
+      ],
+      "duration_ms": 229299,
+      "name": "Good For The Money",
+      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "To This Day",
@@ -551,38 +583,6 @@
       "duration_ms": 210880,
       "name": "To This Day",
       "url": "https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi"
-    },
-    {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "These Songs Are For Anyone Sick Of Earth",
-        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
-      },
-      "artists": [
-        {
-          "name": "Aliah Sheffield",
-          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
-        }
-      ],
-      "duration_ms": 229299,
-      "name": "Good For The Money",
-      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/3tpI98Yae25hSvhh6mitA9"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
+      "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+        "name": "Bittersweet (Radio Edit)",
+        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 148080,
-      "name": "Mind Yo Mouth",
-      "url": "https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l"
+      "duration_ms": 236640,
+      "name": "Bittersweet - Radio Edit",
+      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/3NbfpyJ7RROQgoUBXE33yP"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Bittersweet (Radio Edit)",
-        "url": "https://open.spotify.com/album/6zqOLPAQagrbNJCd10MiST"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "Bittersweet - Radio Edit",
-      "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
-    },
-    {
       "added_at": "2022-10-03 05:27:10",
       "album": {
         "name": "Sweet Blue",
@@ -763,6 +747,22 @@
       "duration_ms": 253527,
       "name": "Sweet Blue",
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 148080,
+      "name": "Mind Yo Mouth",
+      "url": "https://open.spotify.com/track/2oyP6zpgfQOSAzYuLDrI6l"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 164448,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "poison (demo)",
         "url": "https://open.spotify.com/album/4qIShsDt5DHqK9WxMwWx8Q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 163653,
       "name": "poison - demo",
       "url": "https://open.spotify.com/track/76y9rYVLGK4Ob2qaruXmhC"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 164448,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
     },
     {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Coffee in the Morning",
+        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Coffee in the Morning",
+      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+    },
+    {
       "added_at": "2023-06-09 04:00:00",
       "album": {
         "name": "When I Hear Your Name",
@@ -1029,20 +1045,24 @@
       "url": "https://open.spotify.com/track/3KGvzl1vguT4QLEXsplga2"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Coffee in the Morning",
-        "url": "https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1"
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
       },
       "artists": [
         {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
         }
       ],
-      "duration_ms": 226453,
-      "name": "Coffee in the Morning",
-      "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
+      "duration_ms": 238571,
+      "name": "Lying To You",
+      "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
       "added_at": "2023-03-03 05:39:26",
@@ -1079,26 +1099,6 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "Amber Navran",
-          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "Lying To You",
-      "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1333,42 +1333,6 @@
       "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
     },
     {
-      "added_at": "2023-06-30 04:28:27",
-      "album": {
-        "name": "What Love Can Do [Feat. Emily King]",
-        "url": "https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 230840,
-      "name": "What Love Can Do [Feat. Emily King]",
-      "url": "https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Variables",
@@ -1387,6 +1351,42 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "added_at": "2023-06-30 04:28:27",
+      "album": {
+        "name": "What Love Can Do [Feat. Emily King]",
+        "url": "https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "What Love Can Do [Feat. Emily King]",
+      "url": "https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
+      "added_at": "2023-04-03 16:57:20",
+      "album": {
+        "name": "Times It By Two",
+        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
+      },
+      "artists": [
+        {
+          "name": "Annie Tracy",
+          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
+        }
+      ],
+      "duration_ms": 205743,
+      "name": "Times It By Two",
+      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Means The World",
@@ -1597,38 +1613,6 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
-      "added_at": "2023-04-03 16:57:20",
-      "album": {
-        "name": "Times It By Two",
-        "url": "https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp"
-      },
-      "artists": [
-        {
-          "name": "Annie Tracy",
-          "url": "https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF"
-        }
-      ],
-      "duration_ms": 205743,
-      "name": "Times It By Two",
-      "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Don't Think You Ever Loved Me",
-        "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 396825,
-      "name": "Don't Think You Ever Loved Me",
-      "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
-    },
-    {
       "added_at": "2022-09-30 04:06:57",
       "album": {
         "name": "Make Me Say It Again, Girl",
@@ -1651,6 +1635,22 @@
       "duration_ms": 314424,
       "name": "Make Me Say It Again, Girl",
       "url": "https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Don't Think You Ever Loved Me",
+        "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 396825,
+      "name": "Don't Think You Ever Loved Me",
+      "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1761,26 +1761,6 @@
       "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
     },
     {
-      "added_at": "2023-06-16 06:17:29",
-      "album": {
-        "name": "Whatcha Know",
-        "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Oroza",
-          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
-        },
-        {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        }
-      ],
-      "duration_ms": 234593,
-      "name": "Whatcha Know",
-      "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
-    },
-    {
       "added_at": "2023-05-05 05:35:01",
       "album": {
         "name": "Eve Gene",
@@ -1799,6 +1779,26 @@
       "duration_ms": 198425,
       "name": "Eve Gene",
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
+    },
+    {
+      "added_at": "2023-06-16 06:17:29",
+      "album": {
+        "name": "Whatcha Know",
+        "url": "https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Oroza",
+          "url": "https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ"
+        },
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        }
+      ],
+      "duration_ms": 234593,
+      "name": "Whatcha Know",
+      "url": "https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1837,20 +1837,20 @@
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2022-10-03 05:27:10",
       "album": {
-        "name": "Closer (Deluxe)",
-        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
       "artists": [
         {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 234144,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
+      "duration_ms": 257846,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/4hGEJ3VhpJJxxEqQnz9JPS"
     }
   ],
   "unique_name": "Soul Coffee",

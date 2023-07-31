@@ -4953,6 +4953,32 @@
     },
     {
       "album": {
+        "name": "NRG",
+        "url": "https://open.spotify.com/album/55rwbbipDik1y3Q0Fesmb4"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/63QiIbACG85n38thH1gJry"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220898,
+      "name": "NRG",
+      "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
+    },
+    {
+      "album": {
         "name": "Nudes",
         "url": "https://open.spotify.com/album/4vtBTnn8AbVYqYnHZf3NVb"
       },
@@ -5464,7 +5490,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 138750,
       "name": "Push And Pull",
       "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"

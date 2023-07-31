@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,793 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,832 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 22 | [Nerd Starter Pack](https://open.spotify.com/track/3gMnzlM0E8z3RWFgRKGdhd) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Nerd Starter Pack](https://open.spotify.com/album/1SidTD8IwbHh6UqVPYNbyv) | 4:30 |
 | 23 | [Sundown](https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g) | 4:28 |
 | 24 | [Offender](https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Offender](https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh) | 3:43 |
-| 25 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
-| 26 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 25 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 26 | [Polarity \- VIP](https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Polarity \(VIP\)](https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN) | 3:22 |
 | 27 | [Tekkers Riddim \(feat\. Harry Shotta & Mr Traumatik\)](https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Harry Shotta](https://open.spotify.com/artist/1KDOjuXZPd8XA3YBakakMb), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z) | [Tekkers Riddim](https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X) | 4:00 |
 | 28 | [Somebody Else Part 2](https://open.spotify.com/track/0D8LbRJfY6AtnmBsNAxW9R) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else Part 2](https://open.spotify.com/album/6Preo4wcIUwWO8Pu6Mu6IL) | 3:17 |
 | 29 | [Freak \- Used Remix](https://open.spotify.com/track/48261IylfaueSdk1XKX0nh) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Freak \(Used Remix\)](https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY) | 4:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Cool Out Son \- Benny Page & Isaac Maya Remix \- Edit](https://open.spotify.com/track/1rpw2J5u4jBB6gRow9JyUL) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1), [Isaac Maya](https://open.spotify.com/artist/57nfWuv6BoRlsy8xLOxlO8) | [Cool Out Son](https://open.spotify.com/album/6Z8z6IXng18jfx5kAzpCp4) | 3:28 |
 | 55 | [Void](https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 5:27 |
 
-Snapshot ID: `MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk`
+Snapshot ID: `MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm`

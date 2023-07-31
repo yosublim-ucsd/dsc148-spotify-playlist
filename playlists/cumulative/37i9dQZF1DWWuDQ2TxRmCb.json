@@ -94,7 +94,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-26",
+      "date_removed": null,
       "duration_ms": 215813,
       "name": "Asadh Mein",
       "url": "https://open.spotify.com/track/4oYF9CjA5kaUNXtjHe6Gkd"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 277546,
       "name": "Ki Jaana",
       "url": "https://open.spotify.com/track/7sCtnlyuxm07ISQg5ErK0Z"
@@ -694,6 +694,24 @@
       "duration_ms": 181959,
       "name": "Lone Poet (Aeri Aali)",
       "url": "https://open.spotify.com/track/7vm4uByBujMi734s6LO3hm"
+    },
+    {
+      "album": {
+        "name": "Madano",
+        "url": "https://open.spotify.com/album/1tNOP6LpEgSR3fVuwYU6A1"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268969,
+      "name": "Madano",
+      "url": "https://open.spotify.com/track/2zTNlHeGIOgRqyYCsVopHc"
     },
     {
       "album": {
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 196027,
       "name": "Rain Dance (Barsan Laagi)",
       "url": "https://open.spotify.com/track/5tpbNwiHBY3HocFQGLGH7s"

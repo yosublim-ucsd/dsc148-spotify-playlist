@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Jamie Cullum",
-  "num_followers": 108277,
+  "num_followers": 108399,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzk2ZDVkMzA2YjQ5ODYxN2FhOWI4ZTM5ZGU3MTA2YmI3ZWQzYjcz",
+  "snapshot_id": "MCxlMWI1MjM4ZDc1ZDhjYmRkMDExM2I2YzkxZTgyYWUxM2QyOTU1OTE5",
   "tracks": [
     {
       "added_at": "2023-06-21 10:58:17",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Most of the Time",
         "url": "https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 229826,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 258398,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Just the Way You Are",
-        "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Patterson",
-          "url": "https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311"
-        }
-      ],
-      "duration_ms": 272625,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Music From Leonard Bernstein'S 'West Side Story' And 'Wonderful Town'",
         "url": "https://open.spotify.com/album/7t0ixwcxppL8KOnQ5Mfvop"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 226093,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/3RSViRFX1LwGMrsv0NcQk4"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Just the Way You Are",
+        "url": "https://open.spotify.com/album/2nbQXKBxv0kJaO0x8vsyLW"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Patterson",
+          "url": "https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/2tH5sKm9pFLSJXeHJjXEUN"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Life's Love Songs",
-        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 328192,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Who Used To Dance",
         "url": "https://open.spotify.com/album/6HPS7rpJJXMLzguv1RfDU0"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 413240,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/0muTyC7lwOtRtdFunLau6v"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 328192,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Timeless Tales [For Changing Times]",
+        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 526533,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 305631,
       "name": "Sorry Seems to Be the Hardest Word",
       "url": "https://open.spotify.com/track/5kBw6WiW6YwymbFQm4DQQp"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Timeless Tales [For Changing Times]",
-        "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 526533,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
-      },
-      "artists": [
-        {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "A Modern Songbook",
         "url": "https://open.spotify.com/album/1AXxMgXOJfn5Qdnz7V9y1H"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 265546,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/2jNw83C2mRYWCLNiqGZ4GQ"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Ultrahang",
+        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 402160,
+      "name": "Ladies Of the Canyon (Bonus)",
+      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "Lieb Plays the Beatles",
         "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
       },
@@ -2323,22 +2339,6 @@
       "duration_ms": 261853,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1RTmc5oW1VmWUaUh80IZzo"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Ultrahang",
-        "url": "https://open.spotify.com/album/1t82Iyc1g2Z5xAUPjGzCvj"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 402160,
-      "name": "Ladies Of the Canyon (Bonus)",
-      "url": "https://open.spotify.com/track/6KjMkGCoRpcb9nHS2auXo5"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2447,38 +2447,6 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
-        "name": "Lieb Plays the Beatles",
-        "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
-      },
-      "artists": [
-        {
-          "name": "The David Liebman Trio",
-          "url": "https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh"
-        },
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        },
-        {
-          "name": "John Ruocco",
-          "url": "https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok"
-        },
-        {
-          "name": "Eric Ineke",
-          "url": "https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx"
-        },
-        {
-          "name": "Marius Beets",
-          "url": "https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "The Fool on the Hill",
-      "url": "https://open.spotify.com/track/1kUNTX5gPEJAU1R5z1kZEz"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
         "name": "Sealed with a Kiss",
         "url": "https://open.spotify.com/album/3WCTl9gYGQqyLtKIiVLtuj"
       },
@@ -2507,6 +2475,38 @@
       "duration_ms": 224171,
       "name": "True Love Waits (Radiohead)",
       "url": "https://open.spotify.com/track/0Z5FjFtvNrYgAOwLHWQX2R"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
+        "name": "Lieb Plays the Beatles",
+        "url": "https://open.spotify.com/album/2jSCnq7vrAR0DO3qLdKjEr"
+      },
+      "artists": [
+        {
+          "name": "The David Liebman Trio",
+          "url": "https://open.spotify.com/artist/7ntUblw92fCVpMIjkM1TXh"
+        },
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        },
+        {
+          "name": "John Ruocco",
+          "url": "https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok"
+        },
+        {
+          "name": "Eric Ineke",
+          "url": "https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx"
+        },
+        {
+          "name": "Marius Beets",
+          "url": "https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "The Fool on the Hill",
+      "url": "https://open.spotify.com/track/1kUNTX5gPEJAU1R5z1kZEz"
     },
     {
       "added_at": "2023-06-21 10:58:17",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2023-06-21 10:58:17",
       "album": {
+        "name": "Rock Swings",
+        "url": "https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os"
+    },
+    {
+      "added_at": "2023-06-21 10:58:17",
+      "album": {
         "name": "Wille",
         "url": "https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK"
       },
@@ -2595,22 +2611,6 @@
       "duration_ms": 231800,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/0vHHA2NGykToUDhiKyB7wF"
-    },
-    {
-      "added_at": "2023-06-21 10:58:17",
-      "album": {
-        "name": "Rock Swings",
-        "url": "https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os"
     },
     {
       "added_at": "2023-06-21 10:58:17",

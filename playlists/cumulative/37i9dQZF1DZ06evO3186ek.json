@@ -910,19 +910,19 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 945731,
-      "name": "Lean Back (feat. Amanda Lindsey Cook & Chandler Moore)",
+      "name": "Lean Back (feat. Amanda Lindsey Cook)",
       "url": "https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r"
     },
     {
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 647024,
       "name": "The One You Love / One Thing Remains (feat. Brandon Lake, Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/0Mqb5jCtcctzWFGAT3jRZY"

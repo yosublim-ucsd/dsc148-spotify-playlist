@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 34070,
+  "num_followers": 34110,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWQxMTlhZDI2ZTQ4YjE1MzZiNWMwNGY1NjE3MDBjZGE0YmRhNGMx",
+  "snapshot_id": "MCwzNzIwZDdiYTE4NDBlMDBhZTlmN2EyMDBhMzk2YjQxYzNkZTgyYjVh",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Better Than This",
-        "url": "https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Better Than This",
-      "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Sweet Harmony",
         "url": "https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 162310,
       "name": "Sweet Harmony",
       "url": "https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Better Than This",
+        "url": "https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Better Than This",
+      "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239021,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
       },
@@ -467,6 +447,26 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239021,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Thousand Lullabies",
         "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 129573,
       "name": "Thousand Lullabies",
       "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -515,6 +499,22 @@
       "duration_ms": 183460,
       "name": "Lights Go Down (with SIDEPIECE)",
       "url": "https://open.spotify.com/track/2Oz13asNMRrqP0oHH5Nq1l"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
       },
@@ -1099,26 +1115,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        },
-        {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -1139,6 +1135,26 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "The Sea",
-        "url": "https://open.spotify.com/album/1JrPLf0whTgjEwJxIMwPLo"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 164000,
       "name": "Escaping",
       "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 189421,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0Zy6JoXzMdjEkLI48x3Fuy"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Heartbreak In Seychelles",
-        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "Watching Colours",
+          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
         }
       ],
-      "duration_ms": 176307,
-      "name": "Heartbreak In Seychelles",
-      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
+      "duration_ms": 124772,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2"
-      },
-      "artists": [
-        {
-          "name": "Watching Colours",
-          "url": "https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX"
-        }
-      ],
-      "duration_ms": 124772,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/6GM324cKBxHB2Hb44u5G8y"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 220644,
       "name": "Gold",
       "url": "https://open.spotify.com/track/22Gd0aeeTTa5E81i5bJ3FB"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Heartbreak In Seychelles",
+        "url": "https://open.spotify.com/album/4ZP30YFMMl9TSstermvNmL"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Heartbreak In Seychelles",
+      "url": "https://open.spotify.com/track/1blZk1wWpMkLflaNHtUOlZ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
+        "name": "See You On The Other Side",
+        "url": "https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+      "duration_ms": 241061,
+      "name": "See You On The Other Side",
+      "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1547,22 +1547,18 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "ECH\u014cWALL",
-          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 156375,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
+      "duration_ms": 143606,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
     }
   ],
   "unique_name": "Dance Chill",

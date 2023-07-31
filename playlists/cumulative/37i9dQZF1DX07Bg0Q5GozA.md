@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: James Blake
 
-406 songs - 1 day 4 hr 30 min
+407 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,8 @@
 | [Take Your Time \(Do It Right\)](https://open.spotify.com/track/76cVBDPi7Z9ZA74OBow3kY) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Take Your Time \(Do It Right\)](https://open.spotify.com/album/5flGddeRshLt7jHLHUfQ4Z) | 4:02 | 2023-04-13 | 2023-06-23 |
 | [Tell Me](https://open.spotify.com/track/6VkEyJbgKPyXtweiYsEPcj) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Feral Garden](https://open.spotify.com/artist/6C3Yrg93t2fro8ikPATMfK) | [Tell Me](https://open.spotify.com/album/1O5xnJpHgn1KeCKf4lII0G) | 4:11 | 2023-02-02 | 2023-03-10 |
 | [Tempest](https://open.spotify.com/track/7a4tPUZr5Fm3eQ1KkT2nGA) | [SIN](https://open.spotify.com/artist/2i5iThI7dEkgZVYAksSIFJ) | [Shadows EP](https://open.spotify.com/album/7o24DO0IfQWB4qhMC1pDyN) | 3:29 | 2023-04-13 | 2023-06-16 |
-| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 |  |
+| [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 | 2023-07-31 |
+| [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-07-27 |  |
 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jennifer Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 | 2023-06-01 |  |
 | [The Future](https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Future](https://open.spotify.com/album/6fx6KRK3aaWihej7lWLO5s) | 3:44 | 2023-01-26 | 2023-07-21 |
 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 | 2022-12-30 | 2023-01-02 |

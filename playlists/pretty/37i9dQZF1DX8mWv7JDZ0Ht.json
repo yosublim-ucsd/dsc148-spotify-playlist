@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: YVISON, GUPE",
-  "num_followers": 428915,
+  "num_followers": 428998,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjIxYzI4MDY3M2I1OTRhZWNjZTRjYWE4NWM1MmMyZjQ3YzNkNzc0",
+  "snapshot_id": "MCxiNDhiMWI1NWZkMGRmNTEwNDU4ZGE1YTUwMzQxZWNhODcwN2FiODFi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -387,26 +387,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Passarinho",
-        "url": "https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 157317,
-      "name": "Passarinho",
-      "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "REWIND DOIS",
         "url": "https://open.spotify.com/album/2S4ZruzfwuQWkoVYk4ibrZ"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 184000,
       "name": "REWIND DOIS",
       "url": "https://open.spotify.com/track/7E7cd7fZV1ZsLjBO1rQAeK"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Passarinho",
+        "url": "https://open.spotify.com/album/6hNdkT4xZMvF9z6IR2ZnKa"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 157317,
+      "name": "Passarinho",
+      "url": "https://open.spotify.com/track/0p1slIKTqrmSudYxd6XUP8"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -659,6 +659,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 177344,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Coisas De Voc\u00ea",
         "url": "https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE"
       },
@@ -691,22 +711,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Amor das Minhas Vidas",
-        "url": "https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI"
+        "name": "Dias Claros",
+        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
         }
       ],
-      "duration_ms": 177344,
-      "name": "Amor das Minhas Vidas",
-      "url": "https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb"
+      "duration_ms": 151874,
+      "name": "Dias Claros",
+      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 181209,
       "name": "Tudo Certo",
       "url": "https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Dias Claros",
-        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Dias Claros",
-      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "deixa eu me perder",
-        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
-      },
-      "artists": [
-        {
-          "name": "Chiara Maria",
-          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "deixa eu me perder",
-      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Tua Voz",
         "url": "https://open.spotify.com/album/5mQIy6QhlB000eCxcqoDT2"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 205374,
       "name": "Tua Voz",
       "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "deixa eu me perder",
+        "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
+      },
+      "artists": [
+        {
+          "name": "Chiara Maria",
+          "url": "https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "deixa eu me perder",
+      "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "No Passo da Saudades",
-        "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "No Passo da Saudades",
-      "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "MEU 1\u00ba APARTAMENTO",
-        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
+        "name": "No Passo da Saudades",
+        "url": "https://open.spotify.com/album/0729bsCZ4g6R5JeuVpoUsj"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
         }
       ],
-      "duration_ms": 199000,
-      "name": "MEU 1\u00ba APARTAMENTO",
-      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
+      "duration_ms": 176869,
+      "name": "No Passo da Saudades",
+      "url": "https://open.spotify.com/track/6rPw4RPfrsMlmXeZb5QUII"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1363,6 +1347,22 @@
       "duration_ms": 147600,
       "name": "Sustentar",
       "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "MEU 1\u00ba APARTAMENTO",
+        "url": "https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "MEU 1\u00ba APARTAMENTO",
+      "url": "https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ"
     },
     {
       "added_at": "2023-07-28 03:00:00",

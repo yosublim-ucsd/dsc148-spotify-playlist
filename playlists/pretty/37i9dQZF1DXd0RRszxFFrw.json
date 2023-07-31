@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 49005,
+  "num_followers": 49035,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4",
+  "snapshot_id": "MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bella Donna",
-        "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
-      },
-      "artists": [
-        {
-          "name": "Esteban Delano",
-          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
-        }
-      ],
-      "duration_ms": 139760,
-      "name": "Bella Donna",
-      "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Toda Esta Gente",
         "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Bella Donna",
+        "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "duration_ms": 139760,
+      "name": "Bella Donna",
+      "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
-      },
-      "artists": [
-        {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "De Cerca",
         "url": "https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 403000,
       "name": "Morente Habichuela - Alegr\u00edas",
       "url": "https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
+      },
+      "artists": [
+        {
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
+        }
+      ],
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Commitments",
-        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
-      },
-      "artists": [
-        {
-          "name": "Affe Reidhoff",
-          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
-        }
-      ],
-      "duration_ms": 194944,
-      "name": "Commitments",
-      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Little Island Bossa",
         "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 246128,
       "name": "The Little Island Bossa",
       "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Commitments",
+        "url": "https://open.spotify.com/album/5Hzye9VDXOIUJviuOwR4st"
+      },
+      "artists": [
+        {
+          "name": "Affe Reidhoff",
+          "url": "https://open.spotify.com/artist/4pqJbzXUZa8by7nb50hlN0"
+        }
+      ],
+      "duration_ms": 194944,
+      "name": "Commitments",
+      "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Beatles for Classical Guitar",
-        "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
-      },
-      "artists": [
-        {
-          "name": "Notis Mavroudis",
-          "url": "https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK"
-        }
-      ],
-      "duration_ms": 165626,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 131209,
       "name": "Siena",
       "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "The Beatles for Classical Guitar",
+        "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
+      },
+      "artists": [
+        {
+          "name": "Notis Mavroudis",
+          "url": "https://open.spotify.com/artist/3O3JrDqhfzJ6kOdvIEJwXK"
+        }
+      ],
+      "duration_ms": 165626,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/51jdU0DN5BQctErrG44HVX"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Tristango",
-        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
-        }
-      ],
-      "duration_ms": 199230,
-      "name": "Tristango",
-      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Romantic Carnival Chillout Music",
         "url": "https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 97387,
       "name": "Mexican Mood",
       "url": "https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Tristango",
+        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+        }
+      ],
+      "duration_ms": 199230,
+      "name": "Tristango",
+      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     },
     {
       "added_at": "2022-10-27 22:01:00",

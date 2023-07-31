@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Daviles de Novelda & Rafa Pab\u00f6n",
-  "num_followers": 255479,
+  "num_followers": 255504,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQ3MzJlMzY5ZDI2ZDRhMDg5OWYwOTRlMmFmY2U1Y2VmYzRiMTc4",
+  "snapshot_id": "MCxhODc1MzFlN2M2YTk0ZjMxYTk2ZTljZThjYmRhMGY4MWIzZTk2Mjkw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -203,6 +203,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "La Morocha",
+        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -219,22 +239,6 @@
       "duration_ms": 212813,
       "name": "Ambulancia",
       "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Me EnRD",
-        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 185822,
-      "name": "Me EnRD",
-      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "La Morocha",
-        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
+        "name": "Me EnRD",
+        "url": "https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 134144,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
+      "duration_ms": 185822,
+      "name": "Me EnRD",
+      "url": "https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -291,22 +291,6 @@
       "duration_ms": 165855,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/7H5YFDcDPy7viAoyVhYwNa"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "SEROTONINA",
-        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 137967,
-      "name": "SIN CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -331,6 +315,22 @@
       "duration_ms": 216666,
       "name": "T\u00fa Y T\u00fa",
       "url": "https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "SEROTONINA",
+        "url": "https://open.spotify.com/album/5OoIV5fMI5Wby0UsiLqX9H"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 137967,
+      "name": "SIN CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/3aELj9aOZ14knOMmMbXfZD"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "FOREVER KING",
-        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 203821,
-      "name": "Carcelero",
-      "url": "https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 225640,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "FOREVER KING",
+        "url": "https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 203821,
+      "name": "Carcelero",
+      "url": "https://open.spotify.com/track/4BgbRqOMBkEzTXuhHyaLjC"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/3YdTZioBhiGLgxd7lFiHnB"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        }
+      ],
+      "duration_ms": 180525,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/0dCddleAveCZYwVbkEAhYR"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
         "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
       },
@@ -879,6 +899,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Rom\u00e1ntica Champeta",
         "url": "https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO"
       },
@@ -899,38 +935,6 @@
       "duration_ms": 202641,
       "name": "Rom\u00e1ntica Champeta",
       "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/79nrfAlzkAaCorWG5JtKD2"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Regr\u00e9same Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Regr\u00e9same Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
     }
   ],
   "unique_name": "el nuevo tropical",

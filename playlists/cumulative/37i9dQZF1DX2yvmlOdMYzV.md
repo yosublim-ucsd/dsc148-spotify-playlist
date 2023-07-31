@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-426 songs - 23 hr 42 min
+427 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 | 2021-12-15 | 2023-03-11 |
 | [dreaming](https://open.spotify.com/track/6mjCfixEcMad2k7OiMLhMJ) | [Mar](https://open.spotify.com/artist/6e2Hf0OeWo1XAK5Sg70oBQ) | [life is a chord progression](https://open.spotify.com/album/7CZmImneBX6du6FXPt143z) | 3:02 | 2021-12-15 | 2022-07-29 |
 | [Drifty](https://open.spotify.com/track/3dJSC3yIV69Afxvme5qf5d) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Demos](https://open.spotify.com/album/2HatDWFqyd2cFNHX7wX7Yp) | 3:57 | 2021-12-15 | 2023-02-13 |
+| [Drunk AF](https://open.spotify.com/track/1syXzcic9jT7Vqq0i17pLt) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7DQGbVYleJAOwg9ETfeBZA) | 2:34 | 2023-07-28 |  |
 | [Dying in the Subtlety](https://open.spotify.com/track/5k9BcVWNFpsU35Ojv7LjGQ) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Dying in the Subtlety](https://open.spotify.com/album/6nJj5oB6KSg74PcIDrp2HP) | 2:19 | 2021-12-15 | 2023-02-10 |
 | [Easy Baby](https://open.spotify.com/track/3trAHivkszyC0kFTGQ7Bf4) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/0x7hOg2zE7GSphEDmwI7Ct) | 3:19 | 2022-06-30 | 2023-01-28 |
 | [Easy Baby](https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc) | [Denyah](https://open.spotify.com/artist/6zoKZY2wor5ZTbxZ3giOPy) | [Easy Baby](https://open.spotify.com/album/5nxfGiKqavxhxGZG3VQQ2B) | 3:19 | 2021-12-15 | 2022-07-29 |
@@ -137,7 +138,7 @@
 | [From My Heart and My Soul \(feat\. Phoelix\)](https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:30 | 2021-12-15 |  |
 | [Frontier Pass](https://open.spotify.com/track/24G6qIFgmj40koUyIv2TfB) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Frontier Pass](https://open.spotify.com/album/1fcs0XDucXzC3Ns541p9Lr) | 2:59 | 2023-04-07 | 2023-05-03 |
 | [Gay Face](https://open.spotify.com/track/0bDSviyAcNpCiIOipNDLhU) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Gay Face](https://open.spotify.com/album/0O0Hp49Ql9EKpcVPYxVzlf) | 3:01 | 2023-06-02 | 2023-06-10 |
-| [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-03 |  |
+| [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-03 | 2023-07-31 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-12-15 | 2023-07-15 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2023-02-12 |  |

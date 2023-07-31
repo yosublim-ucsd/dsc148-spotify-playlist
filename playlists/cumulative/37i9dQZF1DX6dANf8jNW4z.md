@@ -4,7 +4,7 @@
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Judeline.
 
-785 songs - 1 day 16 hr 32 min
+786 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,8 @@
 | [Rockstar](https://open.spotify.com/track/2Ilwkcdd3TQPfWJznf1Mm9) | [Tina Pámpano](https://open.spotify.com/artist/3JpVAGms96OlNuWPRfrI28), [Funny Rage](https://open.spotify.com/artist/0nnbRnctDmzZK9a0OzYUEq) | [Rockstar](https://open.spotify.com/album/3aLH1VDAvlRBNCEpYBqlDE) | 3:02 | 2022-04-06 | 2022-05-04 |
 | [Roma](https://open.spotify.com/track/6Xc6M5xO1zaYovz4twClA4) | [Row](https://open.spotify.com/artist/0GH5uehpTHrQBZlSeXT4PN) | [Roma](https://open.spotify.com/album/7DKwqOR36tXCLmKfeVMWti) | 3:41 | 2022-07-05 | 2022-09-07 |
 | [Romancero Propio](https://open.spotify.com/track/3O1GoifSo01SPqbl1JUQgd) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Romancero Propio](https://open.spotify.com/album/42OoyAaRonNgqSlSDrvWRc) | 3:16 | 2023-02-28 | 2023-04-05 |
-| [Rompe](https://open.spotify.com/track/6lDKZF5waYyy1pr7Lo1zof) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Rompe](https://open.spotify.com/album/18LtUmQm9NjnZLp0HNfqFN) | 2:00 | 2023-07-04 |  |
+| [Rompe](https://open.spotify.com/track/0iN4EAGvrX6ZIXMROaKoMC) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Rompe](https://open.spotify.com/album/3RtgUpdFBpd0vPA6k8IXBI) | 2:00 | 2023-07-04 |  |
+| [Rompe](https://open.spotify.com/track/6lDKZF5waYyy1pr7Lo1zof) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus) | [Rompe](https://open.spotify.com/album/18LtUmQm9NjnZLp0HNfqFN) | 2:00 | 2023-07-04 | 2023-07-31 |
 | [Roto](https://open.spotify.com/track/2LnVH7ePJaBEHUlUz930ui) | [Brisa Fenoy](https://open.spotify.com/artist/444Dlt4pxLqvKYqWdk4s1i) | [Roto](https://open.spotify.com/album/3pxvUv2cd948nNMAqqseNh) | 4:20 | 2023-05-02 | 2023-06-07 |
 | [Rude Way](https://open.spotify.com/track/5eRrb9zGqqhvAtF6gkcFdj) | [Carla Frigo](https://open.spotify.com/artist/78KbCcXFz65Lzh0i3ngyPg) | [Rude Way](https://open.spotify.com/album/3zagoZtyjFmeWon5JA2faF) | 2:31 | 2022-02-01 | 2022-03-08 |
 | [RUEDA, RUEDA](https://open.spotify.com/track/5q1rKmRj3tzge5O96Ga8ev) | [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [RUEDA, RUEDA](https://open.spotify.com/album/0ngCqYNNhnvc5BTvNqpyV5) | 3:09 | 2023-07-04 |  |

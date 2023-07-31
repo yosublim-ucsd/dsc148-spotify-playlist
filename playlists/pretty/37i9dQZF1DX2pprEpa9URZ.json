@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 725736,
+  "num_followers": 725823,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh",
+  "snapshot_id": "MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -403,42 +423,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Maasai (Doctor Flake Remix)",
         "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
       "artists": [
         {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
         }
       ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -491,6 +475,22 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 449509,
       "name": "Se Va, Se Va",
       "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 465502,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Yoruba",
+        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 427627,
+      "name": "Yoruba",
+      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Unsichtbar (Behrooz Zandi Remix)",
         "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 370196,
       "name": "Unsichtbar - Behrooz Zandi Remix",
       "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Yoruba",
-        "url": "https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9"
-      },
-      "artists": [
-        {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
-        }
-      ],
-      "duration_ms": 427627,
-      "name": "Yoruba",
-      "url": "https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Time & Space",
         "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Graceland",
-        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
-      },
-      "artists": [
-        {
-          "name": "Till Von Sein",
-          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
-        }
-      ],
-      "duration_ms": 405213,
-      "name": "Graceland",
-      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 449454,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Graceland",
+        "url": "https://open.spotify.com/album/389FTo58PpF3FBb8rh7IlV"
+      },
+      "artists": [
+        {
+          "name": "Till Von Sein",
+          "url": "https://open.spotify.com/artist/5gRHhAWRxjeshuTGcFfEkI"
+        }
+      ],
+      "duration_ms": 405213,
+      "name": "Graceland",
+      "url": "https://open.spotify.com/track/4blmNPKr7Nkfaj6GDAKU5P"
     }
   ],
   "unique_name": "Org\u00e1nica",

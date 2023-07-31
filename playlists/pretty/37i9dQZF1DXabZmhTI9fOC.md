@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,575 likes - 78 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,702 likes - 78 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 77 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 78 | [Home](https://open.spotify.com/track/4ApfaVddaKWeeOSwaQ6T7I) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Lloren](https://open.spotify.com/artist/6BXnCNvWCmFRvlMazWAomB), [Lucie Paradis](https://open.spotify.com/artist/62IE8780a3EQi3hqeKVZFJ) | [Home](https://open.spotify.com/album/6ewifpOYzSQ1vcmleiWfek) | 3:27 |
 
-Snapshot ID: `MCxiZTI0YzgwZGJjN2Y0ZTdhZjQwYWU1NTM2N2UxNDA1YjUyZDA4N2Zk`
+Snapshot ID: `MCw5OThiOWUyYmRlYWRmZDdhYzhmY2RjZjkzY2M2YTcwOWY1MTg3ZTVl`

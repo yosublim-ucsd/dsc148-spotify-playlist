@@ -1,12 +1,12 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 235788,
+  "num_followers": 235837,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWZlNGQyNDQxMTc0MzM2YTBhY2RkN2IxYTRhNmVhNzBlOTM1ZTRh",
+  "snapshot_id": "MCw5MTgwM2FlZjljOTlkMjEwN2Y3YmQ5NWQ3ZTM0YjdhNGExYzdlM2Y2",
   "tracks": [
     {
       "added_at": "2023-07-28 16:21:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
-        "name": "Tinta Roja",
-        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
-      },
-      "artists": [
-        {
-          "name": "Tomi Lago",
-          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
-        }
-      ],
-      "duration_ms": 188854,
-      "name": "Tinta Roja",
-      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
         "name": "El Album Blanco",
         "url": "https://open.spotify.com/album/5yQ4bqbHYzGZfYqg9ZiaAa"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179400,
       "name": "Niebla del Riachuelo",
       "url": "https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
+        "name": "Tinta Roja",
+        "url": "https://open.spotify.com/album/4vs90hLFeYjNRrYQU3rZQ4"
+      },
+      "artists": [
+        {
+          "name": "Tomi Lago",
+          "url": "https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug"
+        }
+      ],
+      "duration_ms": 188854,
+      "name": "Tinta Roja",
+      "url": "https://open.spotify.com/track/14tN2CpfkuYokHuToHEW8W"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -895,6 +895,26 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
+        "name": "De Criollos y Tangueros",
+        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        },
+        {
+          "name": "Walter Laborde",
+          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
+        }
+      ],
+      "duration_ms": 253769,
+      "name": "Payada Gardel-Razzano",
+      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 163333,
       "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
       "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
-        "name": "De Criollos y Tangueros",
-        "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        },
-        {
-          "name": "Walter Laborde",
-          "url": "https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ"
-        }
-      ],
-      "duration_ms": 253769,
-      "name": "Payada Gardel-Razzano",
-      "url": "https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
         "name": "Celebridades",
         "url": "https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL"
       },
@@ -1015,18 +1031,22 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+        "name": "Piazzolla & Amelita Baltar",
+        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
       },
       "artists": [
         {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         }
       ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+      "duration_ms": 276093,
+      "name": "Las Ciudades",
+      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -1047,26 +1067,6 @@
       "duration_ms": 174693,
       "name": "La Luz de un F\u00f3sforo - En Vivo",
       "url": "https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
-        "name": "Piazzolla & Amelita Baltar",
-        "url": "https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        }
-      ],
-      "duration_ms": 276093,
-      "name": "Las Ciudades",
-      "url": "https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
+        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
+        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 204714,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
-        "name": "Antolog\u00eda, Vol.2: Viejas Alegrias",
-        "url": "https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
         "name": "Si Sos Brujo",
         "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
       },
@@ -1223,6 +1223,38 @@
       "duration_ms": 209746,
       "name": "Si Sos Brujo",
       "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
+        "name": "Cuarteto Federico Grela, Vol. 1",
+        "url": "https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Federico Grela",
+          "url": "https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Danzar\u00edn",
+      "url": "https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
+        "name": "Tangazos",
+        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 161061,
+      "name": "Se Tiran Conmigo",
+      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -1247,54 +1279,6 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
-        "name": "Tangazos",
-        "url": "https://open.spotify.com/album/1lNKXd3O7tBxvLn8egvjDg"
-      },
-      "artists": [
-        {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "Se Tiran Conmigo",
-      "url": "https://open.spotify.com/track/52bmeu33Kkm1hfEsuvivs5"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
-        "name": "Cuarteto Federico Grela, Vol. 1",
-        "url": "https://open.spotify.com/album/7FVhw0omeFrQSIUaIQmggq"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Federico Grela",
-          "url": "https://open.spotify.com/artist/2fLpZQgdBH8MpNlPSirNNV"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Danzar\u00edn",
-      "url": "https://open.spotify.com/track/3MTkrZvv106Xe3psYCm2wT"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
-        "name": "Oto\u00f1o Porte\u00f1o",
-        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
-      },
-      "artists": [
-        {
-          "name": "Ventarr\u00f3n",
-          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Oto\u00f1o porte\u00f1o",
-      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
-        "name": "Presentando a Charlo",
-        "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
+        "name": "Oto\u00f1o Porte\u00f1o",
+        "url": "https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT"
       },
       "artists": [
         {
-          "name": "Charlo",
-          "url": "https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL"
+          "name": "Ventarr\u00f3n",
+          "url": "https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX"
         }
       ],
-      "duration_ms": 191320,
-      "name": "Ave de Paso",
-      "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+      "duration_ms": 291586,
+      "name": "Oto\u00f1o porte\u00f1o",
+      "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
+        "name": "Presentando a Charlo",
+        "url": "https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm"
+      },
+      "artists": [
+        {
+          "name": "Charlo",
+          "url": "https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL"
+        }
+      ],
+      "duration_ms": 191320,
+      "name": "Ave de Paso",
+      "url": "https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
         "name": "A Las Orquestas",
         "url": "https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 251472,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l"
+    },
+    {
+      "added_at": "2023-07-28 16:21:09",
+      "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     },
     {
       "added_at": "2023-07-28 16:21:09",
@@ -1399,38 +1415,22 @@
     {
       "added_at": "2023-07-28 16:21:09",
       "album": {
-        "name": "Gran Hotel Victoria",
-        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
       "artists": [
         {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Gran Hotel Victoria",
-      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
-    },
-    {
-      "added_at": "2023-07-28 16:21:09",
-      "album": {
-        "name": "A los Cantores (En Vivo)",
-        "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
         },
         {
-          "name": "Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk"
+          "name": "Federico Mizrahi",
+          "url": "https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt"
         }
       ],
-      "duration_ms": 167200,
-      "name": "Barrio de Tango - En Vivo",
-      "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+      "duration_ms": 221500,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
     }
   ],
   "unique_name": "Tangos y Milongas",

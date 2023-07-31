@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,239 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,248 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 21 | [Making The Band \(Danity Kane\)](https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Making The Band \(Danity Kane\)](https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr) | 1:45 |
 | 22 | [Broski](https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Broski](https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07) | 5:14 |
 | 23 | [Slow it Down](https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:30 |
-| 24 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 |
-| 25 | [Marble Columns \(feat\. Larry June\)](https://open.spotify.com/track/3IPSBSVqnwlWu2wsexdHqo) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 3:10 |
+| 24 | [Marble Columns \(feat\. Larry June\)](https://open.spotify.com/track/3IPSBSVqnwlWu2wsexdHqo) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 3:10 |
+| 25 | [hue\_man nature](https://open.spotify.com/track/2cVIKCgIfYOYyyXfQEstZN) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [hue\_man nature](https://open.spotify.com/album/7kVjOwhgEPAapTI57E7y1v) | 1:40 |
 | 26 | [Super Rare \(feat\. Hello O'Shay\)](https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 3:20 |
 | 27 | [Reflection](https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:12 |
 | 28 | [Ambitious](https://open.spotify.com/track/0pytLWYHCQdheIWB2Ay5Dk) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 |
 | 50 | [Marcus Camby \(feat\. Jim Jones & Tommy Wright III\)](https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Tommy Wright III](https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 2:38 |
 
-Snapshot ID: `MCwxNjRmZTRlYzU5ZDE4ZjYyY2UyMDI3YTE3ZjE5ZmQwY2I0MzExODg4`
+Snapshot ID: `MCxmODM4Yjc0YjI2MWE3ZjJkY2M3ZGE2MmY5MDg2OGQwMDkxZGUxNDAw`

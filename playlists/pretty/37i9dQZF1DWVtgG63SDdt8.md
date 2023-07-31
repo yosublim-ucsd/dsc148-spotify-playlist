@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,562 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,749 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [YOU'RE MINE](https://open.spotify.com/track/0ika43Bh4ZerhBKWqJGi0Y) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [YOU'RE MINE](https://open.spotify.com/album/2Va2mNp8nQ5GWBqQSN9yO9) | 2:40 |
 | 100 | [boys don't cry.](https://open.spotify.com/track/1LgWU5tcPIc9prUvouAL7k) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [boys don't cry.](https://open.spotify.com/album/17Unz9MVuW4hYOoriIzvoy) | 2:30 |
 
-Snapshot ID: `MCwzNmY5M2I4ODI5MzNlNGNlNWZhNjBmNTRlZmVlYjUzZjI4ODU3NjMz`
+Snapshot ID: `MCwzYmIxMTBhOTE2MmJlZTAyMjdmZmU5ZjZiYjc1MDU1OGI3OGIzYzBl`

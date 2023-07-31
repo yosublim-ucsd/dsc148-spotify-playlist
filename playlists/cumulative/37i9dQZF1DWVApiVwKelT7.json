@@ -254,7 +254,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 246666,
       "name": "En Kadhal (From \"Andhagan\")",
       "url": "https://open.spotify.com/track/5dSxl1cCBhbslpWT7iXeWY"
@@ -875,32 +875,6 @@
     },
     {
       "album": {
-        "name": "Kulirudha Pulla (From \"Oththa Serupu\" Original Motion Picture Sound Track)",
-        "url": "https://open.spotify.com/album/0Ml5FUixqqkqbxqlgC3doV"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Sangeetha Karuppiah",
-          "url": "https://open.spotify.com/artist/5P5uQfYGTqVWR3JacJUALa"
-        }
-      ],
-      "date_added": "2021-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 298733,
-      "name": "Kulirudha Pulla",
-      "url": "https://open.spotify.com/track/3spahFLlYT9DappCXaDdab"
-    },
-    {
-      "album": {
         "name": "Oththa Seruppu",
         "url": "https://open.spotify.com/album/51VpovLUBjVnUMonbaFNaS"
       },
@@ -916,6 +890,24 @@
       "duration_ms": 298733,
       "name": "Kulirudha Pulla",
       "url": "https://open.spotify.com/track/6Kj9YBTJ7n0JBBZrfoXWeG"
+    },
+    {
+      "album": {
+        "name": "Kulirudha Pulla (From 'Oththa Serupu' Original Motion Picture Sound Track)",
+        "url": "https://open.spotify.com/album/0Ml5FUixqqkqbxqlgC3doV"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram,Sangeetha Karuppiah",
+          "url": "https://open.spotify.com/artist/2lfF2TUhDa4VUdh005TvFR"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298733,
+      "name": "Kulirudha Pulla",
+      "url": "https://open.spotify.com/track/3spahFLlYT9DappCXaDdab"
     },
     {
       "album": {
@@ -982,7 +974,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-31",
       "duration_ms": 299305,
       "name": "Marandhaye - From \"Teddy\"",
       "url": "https://open.spotify.com/track/7lBWLsnWYvQOT95UhN7D46"

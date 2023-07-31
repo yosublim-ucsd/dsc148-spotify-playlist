@@ -1,12 +1,12 @@
 {
   "description": "n.i.n.a dedica para todos os garotos que j\u00e1...",
-  "num_followers": 1201189,
+  "num_followers": 1201411,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmZmMWM1NzcxNTFiNmNkNzdjOWQxYmZlM2FhMzljMWY4ZjA1Mjdl",
+  "snapshot_id": "MCwwYTllMjhmYTE4NDU2MDg5NDI1MjA4Y2E3NGU1ZjdmMDM3Mjc5YWQ2",
   "tracks": [
     {
       "added_at": "2023-07-28 03:03:00",
@@ -695,6 +695,30 @@
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
+        "name": "Noite Fria",
+        "url": "https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Noite Fria",
+      "url": "https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI"
+    },
+    {
+      "added_at": "2023-07-28 03:03:00",
+      "album": {
         "name": "Clickbait",
         "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 161344,
       "name": "Clickbait",
       "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
-    },
-    {
-      "added_at": "2023-07-28 03:03:00",
-      "album": {
-        "name": "Noite Fria",
-        "url": "https://open.spotify.com/album/0aixHaAcI8UV5vBWmRnLni"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Pipokinha",
-          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Noite Fria",
-      "url": "https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI"
     },
     {
       "added_at": "2023-07-28 03:03:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
+        "name": "Se Voc\u00ea For Embora",
+        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "Se Voc\u00ea for Embora",
+      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
+    },
+    {
+      "added_at": "2023-07-28 03:03:00",
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
-    },
-    {
-      "added_at": "2023-07-28 03:03:00",
-      "album": {
-        "name": "Se Voc\u00ea For Embora",
-        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Langris",
-          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
-        }
-      ],
-      "duration_ms": 130496,
-      "name": "Se Voc\u00ea for Embora",
-      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
     },
     {
       "added_at": "2023-07-28 03:03:00",
@@ -1523,34 +1523,6 @@
     {
       "added_at": "2023-07-28 03:03:00",
       "album": {
-        "name": "Movimento - Spotify Singles",
-        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 158076,
-      "name": "Movimento - Spotify Singles",
-      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
-    },
-    {
-      "added_at": "2023-07-28 03:03:00",
-      "album": {
         "name": "Giro dos Artistas 3",
         "url": "https://open.spotify.com/album/4mGRJwsdyWhU3IDBQvraTm"
       },
@@ -1591,6 +1563,34 @@
       "duration_ms": 367058,
       "name": "Giro dos Artistas 3",
       "url": "https://open.spotify.com/track/3zWcZ1ZMWGMPsiyL8cYy7o"
+    },
+    {
+      "added_at": "2023-07-28 03:03:00",
+      "album": {
+        "name": "Movimento - Spotify Singles",
+        "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 158076,
+      "name": "Movimento - Spotify Singles",
+      "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
     },
     {
       "added_at": "2023-07-28 03:03:00",

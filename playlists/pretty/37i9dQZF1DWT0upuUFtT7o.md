@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Matilda Lyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,944 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,011 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Fragrance](https://open.spotify.com/track/2082vPorTG6ceIWBT0szPp) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:19 |
 | 100 | [Planet Song](https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Planet Song](https://open.spotify.com/album/55diFtOoLrNqGpuffZwSCK) | 3:30 |
 
-Snapshot ID: `MCw3NDA1YmE2MzljNmI1YzU0OGRiODhjYWI0MTA2ZmQ5ZTkyZjllODZj`
+Snapshot ID: `MCxhMWNjMjlhNGIxMGRhMmZiMTA3NzA0ZDE2NzY5MzhmOGY0NGYwNDU4`

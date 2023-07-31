@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 77707,
+  "num_followers": 77700,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGQzM2RmNGNiMmNkMmM4NjhkNDg0NTQ5MjYzMWRmZmI2YmFjZTk0",
+  "snapshot_id": "MCw3YjExNWU5NGRmYTMwODlhOGExZjE4OGMyNGNjOWRiMWFkODBlOTQw",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 452499,
       "name": "Graves Into Gardens (Live)",
       "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -491,18 +491,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
       },
       "artists": [
         {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
         }
       ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -523,22 +527,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Death Was Arrested (feat. Seth Condrey)",
-        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
       "artists": [
         {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
         }
       ],
-      "duration_ms": 295306,
-      "name": "Death Was Arrested (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Greatest Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
+        "name": "Kari Jobe",
+        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
       },
       "artists": [
         {
-          "name": "Selah",
-          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 231866,
-      "name": "Wonderful, Merciful Savior",
-      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
+      "duration_ms": 361386,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Kari Jobe",
-        "url": "https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb"
+        "name": "Greatest Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
         }
       ],
-      "duration_ms": 361386,
-      "name": "Revelation Song",
-      "url": "https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5"
+      "duration_ms": 231866,
+      "name": "Wonderful, Merciful Savior",
+      "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/010wiwXUvegsmlERAv7vMe"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 186026,
       "name": "The Old Rugged Cross",
       "url": "https://open.spotify.com/track/4jTPlQp1YnJFmP3tIzLcmN"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/4vhKRjmiboAhfunCabpXap"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1339,6 +1339,34 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Freedom.",
+        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Judah Smith",
+          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
+        }
+      ],
+      "duration_ms": 286453,
+      "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
+      "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Good News (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
@@ -1367,34 +1395,6 @@
       "duration_ms": 236666,
       "name": "Forgiven",
       "url": "https://open.spotify.com/track/0d2svMT7Gaisn7RY4cJRDN"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Freedom.",
-        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Judah Smith",
-          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
-        }
-      ],
-      "duration_ms": 286453,
-      "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
-      "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Cornerstone (Live)",
-        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "David Ware",
-          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
-        }
-      ],
-      "duration_ms": 409146,
-      "name": "Cornerstone - Live",
-      "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Poets & Saints",
         "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
       },
@@ -1475,22 +1455,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "All My Hope",
-        "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
+        "name": "Cornerstone (Live)",
+        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "David Ware",
+          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
         }
       ],
-      "duration_ms": 232760,
-      "name": "All My Hope",
-      "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
+      "duration_ms": 409146,
+      "name": "Cornerstone - Live",
+      "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1515,6 +1495,26 @@
       "duration_ms": 371774,
       "name": "Extravagant - Live",
       "url": "https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "All My Hope",
+        "url": "https://open.spotify.com/album/2Sa4xXwFFbQM02rxdK9vQe"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "All My Hope",
+      "url": "https://open.spotify.com/track/6FPLwwpWitg3Tvuy8FGHKT"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 497560,
       "name": "All Hail King Jesus",
       "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Resurrection Letters, Vol. 1",
-        "url": "https://open.spotify.com/album/7rJMQR42NpNno6urgyoBLV"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2re4s98HNlkhVZzGSerVHb"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 212533,
       "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Resurrection Letters, Vol. 1",
+        "url": "https://open.spotify.com/album/7rJMQR42NpNno6urgyoBLV"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2re4s98HNlkhVZzGSerVHb"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 165346,
       "name": "Freedom (with BEAM)",
       "url": "https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Pure Heart (Live)",
         "url": "https://open.spotify.com/album/5tke3M4DlnUd6fChHyIxKg"
       },
@@ -2175,6 +2159,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Hallelujah For The Cross (Live)",
         "url": "https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL"
       },
@@ -2187,22 +2187,6 @@
       "duration_ms": 331998,
       "name": "Hallelujah For The Cross - Live",
       "url": "https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Church Songs",
-        "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 251546,
-      "name": "Lamb of God",
-      "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2227,6 +2211,22 @@
       "duration_ms": 308274,
       "name": "Sweet Victory",
       "url": "https://open.spotify.com/track/3RpcCr8ZlIiYEctUYBAGQm"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Church Songs",
+        "url": "https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 251546,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Yes I Will",
-        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
-      },
-      "artists": [
-        {
-          "name": "Vertical Worship",
-          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
-        }
-      ],
-      "duration_ms": 234731,
-      "name": "Yes I Will",
-      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Bigger Story",
         "url": "https://open.spotify.com/album/0RuTgx8XCqLhlahtIkSMaX"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 216226,
       "name": "Because He Lives",
       "url": "https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "Yes I Will",
+      "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Don't Lose Hope",
         "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 182426,
       "name": "He's Not Here",
       "url": "https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
     },
     {
       "added_at": "2023-04-09 08:59:03",

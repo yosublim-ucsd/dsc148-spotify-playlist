@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 910224,
+  "num_followers": 910585,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2ZmMjc4MjE5NjEwYmQwZTRkODY1ZDIzMjk4OWQwMzc4NjNlZmIw",
+  "snapshot_id": "MCxhNTA3YTgzMmYzODI0YmM0MDcxOWJmZTJhZGVkNjJlNDQ3N2NkYTQ2",
   "tracks": [
     {
       "added_at": "2023-02-16 15:18:53",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Be My Summer",
@@ -91,6 +75,22 @@
       "duration_ms": 186540,
       "name": "Be My Summer",
       "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -201,24 +201,20 @@
       "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "THE GLADE",
-        "url": "https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa"
+        "name": "Forest in the City",
+        "url": "https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR"
       },
       "artists": [
         {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 222456,
-      "name": "THE GLADE",
-      "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
+      "duration_ms": 151906,
+      "name": "say im ur luv",
+      "url": "https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx"
     },
     {
       "added_at": "2023-07-14 05:58:26",
@@ -237,20 +233,24 @@
       "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Forest in the City",
-        "url": "https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR"
+        "name": "THE GLADE",
+        "url": "https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 151906,
-      "name": "say im ur luv",
-      "url": "https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx"
+      "duration_ms": 222456,
+      "name": "THE GLADE",
+      "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
     },
     {
       "added_at": "2023-07-14 05:58:26",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/3Czw867MbvBiyEd1QCvjmq"
     },
     {
+      "added_at": "2023-05-12 05:38:48",
+      "album": {
+        "name": "Charismatic",
+        "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Charismatic",
+      "url": "https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "I Choose U (feat. RINI)",
@@ -555,22 +571,6 @@
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
-    },
-    {
-      "added_at": "2023-05-12 05:38:48",
-      "album": {
-        "name": "Charismatic",
-        "url": "https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Charismatic",
-      "url": "https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
+        "name": "AVAILABLE FOR ME",
+        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 141732,
+      "name": "AVAILABLE FOR ME",
+      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
         "name": "SATIN",
         "url": "https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny"
       },
@@ -701,22 +717,6 @@
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
-    },
-    {
       "added_at": "2023-06-16 05:59:11",
       "album": {
         "name": "Colder in June",
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "AVAILABLE FOR ME",
-        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i"
       },
       "artists": [
         {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 141732,
-      "name": "AVAILABLE FOR ME",
-      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
+      "duration_ms": 218253,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -785,26 +785,6 @@
       "url": "https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        },
-        {
-          "name": "Gwen Bunn",
-          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
-        }
-      ],
-      "duration_ms": 151266,
-      "name": "311 (with Gwen Bunn)",
-      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "All For You",
@@ -825,20 +805,24 @@
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
     },
     {
-      "added_at": "2023-06-30 04:21:09",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc"
       },
       "artists": [
         {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Gwen Bunn",
+          "url": "https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
+      "duration_ms": 151266,
+      "name": "311 (with Gwen Bunn)",
+      "url": "https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -855,6 +839,22 @@
       "duration_ms": 196673,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7z6VTwkfEhX25WWy1xC75O"
+    },
+    {
+      "added_at": "2023-06-30 04:21:09",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -925,26 +925,6 @@
       "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Motions",
-        "url": "https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY"
-      },
-      "artists": [
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        },
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 208860,
-      "name": "Motions",
-      "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "All For You",
@@ -963,6 +943,26 @@
       "duration_ms": 183354,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Motions",
+        "url": "https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 208860,
+      "name": "Motions",
+      "url": "https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx"
     },
     {
       "added_at": "2023-06-30 04:21:09",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     },
     {
-      "added_at": "2023-05-05 06:06:11",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
-      },
-      "artists": [
-        {
-          "name": "Dean Brady",
-          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "CHERIMOYA",
@@ -1191,6 +1175,22 @@
       "duration_ms": 129080,
       "name": "CHERIMOYA",
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
+    },
+    {
+      "added_at": "2023-05-05 06:06:11",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
+      },
+      "artists": [
+        {
+          "name": "Dean Brady",
+          "url": "https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN"
+        }
+      ],
+      "duration_ms": 210679,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "THE SOUTHWESTERN BENEDICTION",
-        "url": "https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX"
-      },
-      "artists": [
-        {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
-        }
-      ],
-      "duration_ms": 181231,
-      "name": "SOUL SURVIVOR",
-      "url": "https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa"
-    },
-    {
       "added_at": "2023-04-03 16:56:15",
       "album": {
         "name": "Times It By Two",
@@ -1239,6 +1223,22 @@
       "duration_ms": 205743,
       "name": "Times It By Two",
       "url": "https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "THE SOUTHWESTERN BENEDICTION",
+        "url": "https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "duration_ms": 181231,
+      "name": "SOUL SURVIVOR",
+      "url": "https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Westside",
-        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
-      },
-      "artists": [
-        {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
-        }
-      ],
-      "duration_ms": 155454,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Don't Doubt It",
@@ -1303,6 +1287,22 @@
       "duration_ms": 182493,
       "name": "Don't Doubt It",
       "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1449,6 +1449,30 @@
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
     },
     {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "100 Degrees",
+        "url": "https://open.spotify.com/album/68x3SZi68AXrSunEhvBnml"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        },
+        {
+          "name": "Reuben James",
+          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "duration_ms": 154814,
+      "name": "100 Degrees",
+      "url": "https://open.spotify.com/track/6qXJEnPg8I9tTPqMiUhjTK"
+    },
+    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "Untitled (God)",
@@ -1479,30 +1503,6 @@
       "duration_ms": 204033,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/627yvru8268y11clOwn3f4"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "100 Degrees",
-        "url": "https://open.spotify.com/album/68x3SZi68AXrSunEhvBnml"
-      },
-      "artists": [
-        {
-          "name": "Quinn Oulton",
-          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
-        },
-        {
-          "name": "Reuben James",
-          "url": "https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH"
-        },
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
-        }
-      ],
-      "duration_ms": 154814,
-      "name": "100 Degrees",
-      "url": "https://open.spotify.com/track/6qXJEnPg8I9tTPqMiUhjTK"
     },
     {
       "added_at": "2023-05-05 06:06:11",
@@ -1629,6 +1629,22 @@
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "They Cloned Tyrone (Music from and Inspired by the Netflix Film)",
+        "url": "https://open.spotify.com/album/7DQGbVYleJAOwg9ETfeBZA"
+      },
+      "artists": [
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 154347,
+      "name": "Drunk AF",
+      "url": "https://open.spotify.com/track/1syXzcic9jT7Vqq0i17pLt"
+    },
+    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "WILLOW: Live At Electric Lady",
@@ -1717,22 +1733,6 @@
       "url": "https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "In Between",
-        "url": "https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Always Love",
-      "url": "https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Maybe",
@@ -1753,20 +1753,20 @@
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
+      "duration_ms": 200640,
+      "name": "Always Love",
+      "url": "https://open.spotify.com/track/0Yt6dZi9jhnaCmzoJddPnt"
     }
   ],
   "unique_name": "Lowkey",

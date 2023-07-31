@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. La Adictiva & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,822 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,969 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [El Papá De Los Pitufos](https://open.spotify.com/track/15gZrMqODqLIm2SPegEHRU) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Papá De Los Pitufos](https://open.spotify.com/album/4tCX1DeFaQHlEMKTvPH6D9) | 2:29 |
 | 75 | [Scarface](https://open.spotify.com/track/4VJXoUCf65wGl6K5SDfmhL) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Scarface](https://open.spotify.com/album/1rRUo0iV3pilgsQBxQT0aQ) | 4:13 |
 
-Snapshot ID: `MCxhZDEyODZiZjAxNjRkYzE2ZWI0NDE5MTBlYmRjY2ZlN2E4ODViNGUx`
+Snapshot ID: `MCw1OTNkMWYzZWU2ODE4MTJlMDBkZDVkMDJhMmVlNDA3NDA4YWMxZmU3`

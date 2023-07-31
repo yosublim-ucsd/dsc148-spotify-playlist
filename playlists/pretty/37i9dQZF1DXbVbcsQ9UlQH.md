@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVbcsQ9UlQH.md) - [plain]
 | 32 | [Low Flame](https://open.spotify.com/track/6AYhSDnaJvnFwtgD3Unlpb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Low Flame](https://open.spotify.com/album/2IP4cee5dknBj24zyROpfC) | 4:55 |
 | 33 | [Mosaic \- 2005 Remaster](https://open.spotify.com/track/7fX1jZuluhiOhVx5HKzIBA) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Mosaic \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0ROzOHhkPnjLnHFLJ49Xco) | 8:13 |
 
-Snapshot ID: `MCw1OWU3NWEzYmRhOGY3MTY1NzZiZmZjMTc4MmJkODhiNGYzYzRlOTRk`
+Snapshot ID: `MCw4NWNhYzQ0ODk0NWQ5YWViNzk3OWY3MDUyZGJhZjc1YjE1YjI0Nzlk`
