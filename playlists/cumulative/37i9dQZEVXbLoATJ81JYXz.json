@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -3401,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Burna boi",
+        "url": "https://open.spotify.com/album/1jCrsSO0dzxZZCaXO4FzQQ"
+      },
+      "artists": [
+        {
+          "name": "Nathan K",
+          "url": "https://open.spotify.com/artist/0gjoWt9fRKf09gYem1xjn6"
+        },
+        {
+          "name": "Capo 13",
+          "url": "https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Burna boi",
+      "url": "https://open.spotify.com/track/25vLQdEEryVegnmEBYYVOJ"
+    },
+    {
+      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD"
       },
@@ -4936,7 +4958,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -7694,7 +7716,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 191700,
       "name": "FE!N",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -11332,7 +11354,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 222085,
       "name": "HYAENA",
       "url": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc"
@@ -20120,7 +20142,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 121219,
       "name": "RID MIG SOM EN DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
@@ -26086,7 +26108,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
@@ -26194,7 +26216,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 160541,
       "name": "Vart Du \u00c4n G\u00e5r",
       "url": "https://open.spotify.com/track/6m7kCRnpgOtCMT3HEeX8g8"

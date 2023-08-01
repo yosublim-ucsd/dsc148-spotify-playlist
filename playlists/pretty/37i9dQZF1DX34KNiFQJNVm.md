@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Ryan SP, Mc Poze do Rodo e Mc Daniel, IZA, Henrique & Juliano, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,899,461 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,899,770 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Meu Bem\-Te\-Vi](https://open.spotify.com/track/7iuvVFHmmQmugGo0EbfyTY) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Meu Bem\-Te\-Vi](https://open.spotify.com/album/5nfzQ9wIIJFoNxJiT4ODLB) | 2:49 |
 | 99 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 
-Snapshot ID: `MCw2OTc2MGU2M2Y1ZThkZWM4ZWFhNDg0ZTEzOTUzMWEyMWRkNWVlOGYy`
+Snapshot ID: `MCw1Yjk1NDRkYjcwY2Y2OGUxZmNhYmNmNDllOTg5MjJmNTU1M2ZmODk4`

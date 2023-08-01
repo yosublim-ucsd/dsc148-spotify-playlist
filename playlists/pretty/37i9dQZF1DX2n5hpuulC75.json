@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 256001,
+  "num_followers": 256029,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -163,22 +163,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -399,26 +399,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
-        "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
+        "name": "Someone\u2019s EP I",
+        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 200504,
-      "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
-      "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
+      "duration_ms": 87037,
+      "name": "INT.",
+      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -439,18 +431,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Someone\u2019s EP I",
-        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
+        "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
+        "url": "https://open.spotify.com/album/21iBuI7GQwUDkBPErWjPi0"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
-      "duration_ms": 87037,
-      "name": "INT.",
-      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+      "duration_ms": 200504,
+      "name": "In Your Eyes (feat. Charlotte Day Wilson) [Nosaj Thing Remix]",
+      "url": "https://open.spotify.com/track/28atUbzCFihH4GA3dU1gVM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -479,22 +479,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Old Compilation 3",
         "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 146880,
       "name": "thankful",
       "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Green Twins",
@@ -595,6 +579,22 @@
       "duration_ms": 211826,
       "name": "Needy Bees",
       "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
     },
     {
-      "added_at": "2019-03-18 20:29:35",
-      "album": {
-        "name": "Never Meant to Call",
-        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
-      },
-      "artists": [
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Never Meant To Call",
-      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Naps",
@@ -647,6 +631,22 @@
       "duration_ms": 238148,
       "name": "Naps",
       "url": "https://open.spotify.com/track/6NLeGH6nGVTZzc9eOYrNmp"
+    },
+    {
+      "added_at": "2019-03-18 20:29:35",
+      "album": {
+        "name": "Never Meant to Call",
+        "url": "https://open.spotify.com/album/11WGsf87BALAgX0eMSX19S"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Never Meant To Call",
+      "url": "https://open.spotify.com/track/2GfmhU4E6NgIlqxa0wlGoD"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -859,6 +859,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Canyon",
+        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
+      },
+      "artists": [
+        {
+          "name": "Glded",
+          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
+        }
+      ],
+      "duration_ms": 189445,
+      "name": "Canyon",
+      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Wave001",
         "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Do You Feel",
+        "url": "https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW"
+      },
+      "artists": [
+        {
+          "name": "Bearcubs",
+          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Do You Feel",
+      "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
       },
@@ -911,38 +943,6 @@
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Canyon",
-        "url": "https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT"
-      },
-      "artists": [
-        {
-          "name": "Glded",
-          "url": "https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH"
-        }
-      ],
-      "duration_ms": 189445,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Do You Feel",
-        "url": "https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW"
-      },
-      "artists": [
-        {
-          "name": "Bearcubs",
-          "url": "https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Do You Feel",
-      "url": "https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -995,22 +995,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "They Came Along",
-        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
-      },
-      "artists": [
-        {
-          "name": "Haulm",
-          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
-        }
-      ],
-      "duration_ms": 357894,
-      "name": "They Came Along",
-      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Self Edit",
         "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 236842,
       "name": "Zender",
       "url": "https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "They Came Along",
+        "url": "https://open.spotify.com/album/5xpYPGDdWhSsP6DuRwYub5"
+      },
+      "artists": [
+        {
+          "name": "Haulm",
+          "url": "https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21"
+        }
+      ],
+      "duration_ms": 357894,
+      "name": "They Came Along",
+      "url": "https://open.spotify.com/track/2pHmVgvvl7IJdxaofJ88YX"
     },
     {
       "added_at": "2018-12-11 21:12:31",

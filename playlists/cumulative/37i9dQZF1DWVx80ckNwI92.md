@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-105 songs - 5 hr 15 min
+106 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Le Nna](https://open.spotify.com/track/0iITdLlvevSpWBiURJirKN) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The First Kind](https://open.spotify.com/album/2mg5e4VrqplBIt4COvJngx) | 2:35 | 2023-03-30 |  |
 | [Levels](https://open.spotify.com/track/0TalH2EQxBFEOJGNMk8Edm) | [Jimmy Nevis](https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3), [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE), [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [Things We Don't Talk About](https://open.spotify.com/album/6b10CoMCksM7uJYa4zOykU) | 3:49 | 2023-03-30 | 2023-04-22 |
 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 | 2023-03-30 | 2023-04-28 |
+| [Like I Care](https://open.spotify.com/track/4fUA7JD3WhESXoX5XxIbz0) | [April Maey](https://open.spotify.com/artist/0CyVkXQydhAi8gPILbXb99) | [Like I Care](https://open.spotify.com/album/5z4KzauUZ5zVQzOV0KsiZO) | 3:09 | 2023-07-31 |  |
 | [Like the Clouds](https://open.spotify.com/track/4LUQ2UIIxSgq9tTcqu7q9e) | [Tai Murape](https://open.spotify.com/artist/0qCwWQGWUw3YyYPjaFCltG) | [Like the Clouds](https://open.spotify.com/album/17kpu9XPvVthKOTH8eunCt) | 5:52 | 2023-06-08 |  |
 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 | 2023-07-07 |  |
 | [Long Live Anna](https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa) | [Gabila](https://open.spotify.com/artist/6N55yMrcfCYw8d7D4f86EE) | [XXXPRESSIONS](https://open.spotify.com/album/2C2bgq7t8LGIBvodQxRGC0) | 1:37 | 2023-03-30 | 2023-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,334 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,355 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [Moving Into Tucson](https://open.spotify.com/track/5xdHN0dVW9PLxaiqpDSCFK) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Moving Into Tucson](https://open.spotify.com/album/6f3kMkSt9E24Ai203Hehse) | 3:27 |
 | 94 | [Happy](https://open.spotify.com/track/6yFrsXnPJYWNyWiCrwRh9k) | [The Sunset Society](https://open.spotify.com/artist/1ZXfQxTLk25XK3ePd8EwtU) | [Songs Of Love](https://open.spotify.com/album/4WfaALP600ins6emi4SM6f) | 1:52 |
 
-Snapshot ID: `MCwxMTExMWI0NjU2ODI2Njg0MWNiNTM3NzRhOWZkNWRkMTA3MjgxZDUx`
+Snapshot ID: `MCw0NDU1NjJiOTk0NGNkNjA0MDM2YWFkYjk0YzM2NTgzYTllYzNhYWZk`

@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 27008,
+  "num_followers": 27033,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA0MzUxYTEwYjQxZjg3MmE4MGZiOTNmNzk2YzE1NjI3YmJjZjk0",
+  "snapshot_id": "MCwxM2IxMTExMjYwOWRhYzBlMzQwZTc5NDY4MzU4Y2U3Y2ZlZTZkNWI3",
   "tracks": [
     {
       "added_at": "2023-07-23 21:26:18",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
+        "name": "Gone Are The Good Days",
+        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
       },
       "artists": [
         {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+          "name": "Chunk! No, Captain Chunk!",
+          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
         }
       ],
-      "duration_ms": 212016,
-      "name": "Chevalier Bulltoe",
-      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
+      "duration_ms": 191440,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Gone Are The Good Days",
-        "url": "https://open.spotify.com/album/7G984XgKrRusVBpuwtLbO2"
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U"
       },
       "artists": [
         {
-          "name": "Chunk! No, Captain Chunk!",
-          "url": "https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h"
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
         }
       ],
-      "duration_ms": 191440,
-      "name": "Bitter",
-      "url": "https://open.spotify.com/track/0pUNyIK9UsvFpXHbJ6gunK"
+      "duration_ms": 212016,
+      "name": "Chevalier Bulltoe",
+      "url": "https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Factory (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5bqAsAhjXyeM4KrsBQDwOA"
-      },
-      "artists": [
-        {
-          "name": "No Money Kids",
-          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
-        }
-      ],
-      "duration_ms": 157758,
-      "name": "I'm Rollin'",
-      "url": "https://open.spotify.com/track/0QYhsHnG4PNrx104D2Gavz"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Aucun mec ne ressemble \u00e0 Brad Pitt dans la Dr\u00f4me",
         "url": "https://open.spotify.com/album/1POjEAquHo8mTJZDuanBeF"
       },
@@ -427,18 +411,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Fixed It All",
-        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+        "name": "Factory (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5bqAsAhjXyeM4KrsBQDwOA"
       },
       "artists": [
         {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+          "name": "No Money Kids",
+          "url": "https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF"
         }
       ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+      "duration_ms": 157758,
+      "name": "I'm Rollin'",
+      "url": "https://open.spotify.com/track/0QYhsHnG4PNrx104D2Gavz"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -455,6 +439,22 @@
       "duration_ms": 283226,
       "name": "Anyone, Evermore",
       "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Fixed It All",
+        "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "N\u00e9ant",
+        "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "N\u00e9ant",
+      "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Bride",
         "url": "https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "N\u00e9ant",
-        "url": "https://open.spotify.com/album/2DNqvxMLvHoBkRqJm3jKNu"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "N\u00e9ant",
-      "url": "https://open.spotify.com/track/49KvJyXnYReCKEUcvUsFbF"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Afterparty - All We Have Is Now",
+        "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
+      },
+      "artists": [
+        {
+          "name": "Caesaria",
+          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
+        },
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Self Doubt",
         "url": "https://open.spotify.com/album/2BR1sted1afSm06jB0Tw9O"
       },
@@ -1039,22 +1059,6 @@
       "duration_ms": 179200,
       "name": "Self Doubt",
       "url": "https://open.spotify.com/track/7mRLn9umXqCT2xdqeUMk2J"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Hara",
-        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
-      },
-      "artists": [
-        {
-          "name": "Datcha Mandala",
-          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Stick It Out",
-      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1075,22 +1079,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Afterparty - All We Have Is Now",
-        "url": "https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU"
+        "name": "Hara",
+        "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
       "artists": [
         {
-          "name": "Caesaria",
-          "url": "https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3"
-        },
-        {
-          "name": "Storm Orchestra",
-          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+          "name": "Datcha Mandala",
+          "url": "https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1"
+      "duration_ms": 204106,
+      "name": "Stick It Out",
+      "url": "https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
-      },
-      "artists": [
-        {
-          "name": "Laura Cox",
-          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
-        }
-      ],
-      "duration_ms": 236868,
-      "name": "One Big Mess",
-      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "HLA-11TF",
         "url": "https://open.spotify.com/album/5dX2zMk3Uxw7HNnqFTaVEj"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "duration_ms": 236868,
+      "name": "One Big Mess",
+      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "The West Is the Best",
         "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "You Never Did Anything Wrong to Me",
+        "url": "https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT"
+      },
+      "artists": [
+        {
+          "name": "Team Ghost",
+          "url": "https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW"
+        }
+      ],
+      "duration_ms": 259386,
+      "name": "A Glorious Time",
+      "url": "https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1231,22 +1247,6 @@
       "duration_ms": 187299,
       "name": "Didn\u2019t Know",
       "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "You Never Did Anything Wrong to Me",
-        "url": "https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT"
-      },
-      "artists": [
-        {
-          "name": "Team Ghost",
-          "url": "https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW"
-        }
-      ],
-      "duration_ms": 259386,
-      "name": "A Glorious Time",
-      "url": "https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Guilty Species",
         "url": "https://open.spotify.com/album/3Dm0UMOKdtBKymE62q1Iau"
       },
@@ -1395,34 +1379,18 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
       "artists": [
         {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
         }
       ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
-        "name": "Songs/Motion Return",
-        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
-      },
-      "artists": [
-        {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1443,6 +1411,22 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
         "name": "Ain't No Princess",
         "url": "https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 197333,
       "name": "So Quarrelsome",
       "url": "https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Songs/Motion Return",
+        "url": "https://open.spotify.com/album/0HNoauBRe7vw3WlqH9APbM"
+      },
+      "artists": [
+        {
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/367PCAccIOOMRfnaSKtFDG"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Chantal",
-        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
-      },
-      "artists": [
-        {
-          "name": "Equipe de Foot",
-          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
-        }
-      ],
-      "duration_ms": 253906,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Billy Believe",
         "url": "https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 286173,
       "name": "Vegan Porn Food",
       "url": "https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Chantal",
+        "url": "https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W"
+      },
+      "artists": [
+        {
+          "name": "Equipe de Foot",
+          "url": "https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836"
+        }
+      ],
+      "duration_ms": 253906,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu"
     },
     {
       "added_at": "2023-07-23 21:26:18",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-23 21:26:18",
       "album": {
-        "name": "Negativity",
-        "url": "https://open.spotify.com/album/66f2nh2ampcaZgeN2Qqw5t"
-      },
-      "artists": [
-        {
-          "name": "Yvet Garden",
-          "url": "https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7"
-        }
-      ],
-      "duration_ms": 237454,
-      "name": "Negativity",
-      "url": "https://open.spotify.com/track/0hwG6egZXGibubr52Av5df"
-    },
-    {
-      "added_at": "2023-07-23 21:26:18",
-      "album": {
         "name": "Salvation Prayer",
         "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 223421,
       "name": "Peeling the Onion",
       "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
+    },
+    {
+      "added_at": "2023-07-23 21:26:18",
+      "album": {
+        "name": "Negativity",
+        "url": "https://open.spotify.com/album/66f2nh2ampcaZgeN2Qqw5t"
+      },
+      "artists": [
+        {
+          "name": "Yvet Garden",
+          "url": "https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7"
+        }
+      ],
+      "duration_ms": 237454,
+      "name": "Negativity",
+      "url": "https://open.spotify.com/track/0hwG6egZXGibubr52Av5df"
     }
   ],
   "unique_name": "French Noise",

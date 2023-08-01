@@ -1,12 +1,12 @@
 {
   "description": "Chasing sunsets con buena m\u00fasica de fondo.",
-  "num_followers": 2745,
+  "num_followers": 2770,
   "original_name": "canciones para ver atardeceres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWUxMThhOTNhZTBiOGE4ZDFkN2JkZjYyYzdiYmRkZWM1MTM1YzFm",
+  "snapshot_id": "MCxmMjMzZDVjNzc5ZDQyNDBhODgxMjMyMzFlYmU4NGIyYWMyMTNjMDZm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Why You?",
         "url": "https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "El Big Blue",
-        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
         }
       ],
-      "duration_ms": 175506,
-      "name": "Sin Vos No Puedo",
-      "url": "https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW"
+      "duration_ms": 212000,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -407,6 +391,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "El Big Blue",
+        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "Sin Vos No Puedo",
+      "url": "https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Holidays - Chromocosmic Avenue",
-        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Holidays",
-      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Pangea",
         "url": "https://open.spotify.com/album/66vAJcsK1TsM8ZYFodxN2C"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 212666,
       "name": "\u00daltimas Palabras",
       "url": "https://open.spotify.com/track/7GVXXI9F3Wv3oNZIyTHf7v"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Holidays - Chromocosmic Avenue",
+        "url": "https://open.spotify.com/album/7K8FcHyp3prxzWxEiP4gDz"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "jard\u00edn de flores",
+        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 199523,
+      "name": "jard\u00edn de flores",
+      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/6hwBv8CvjmxQwAtNkHaAY2"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "jard\u00edn de flores",
-        "url": "https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi"
+        "name": "Quemarropa",
+        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Juku Ares",
+          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
         }
       ],
-      "duration_ms": 199523,
-      "name": "jard\u00edn de flores",
-      "url": "https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi"
+      "duration_ms": 180891,
+      "name": "Porque",
+      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 154000,
       "name": "Tu Forma",
       "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Quemarropa",
-        "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
-      },
-      "artists": [
-        {
-          "name": "Juku Ares",
-          "url": "https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Porque",
-      "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "El Ding Dong",
+        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 159829,
+      "name": "El Ding Dong",
+      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Sentimiento",
         "url": "https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 215236,
       "name": "BROOKLYN",
       "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "El Ding Dong",
-        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 159829,
-      "name": "El Ding Dong",
-      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
     },
     {
       "added_at": "2023-07-28 04:00:00",

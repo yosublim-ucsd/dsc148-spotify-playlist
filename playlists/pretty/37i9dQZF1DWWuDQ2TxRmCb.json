@@ -1,12 +1,12 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
-  "num_followers": 63635,
+  "num_followers": 63671,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODFlMTNhMDViZTVmZWI1ZjFjMjRhM2E1MjMxNjkzYWM3ZTY1NWEz",
+  "snapshot_id": "MCw3OTEyMmVjYTA4MmNhMThjNmFmMDkyMjdkOThlYWQ4NTgxOGFiZDI2",
   "tracks": [
     {
       "added_at": "2023-07-28 05:48:40",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
+        "name": "Desert Sessions",
+        "url": "https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU"
+      },
+      "artists": [
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        }
+      ],
+      "duration_ms": 251250,
+      "name": "Kesariya Balam",
+      "url": "https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
         "name": "Ek Nazar",
         "url": "https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc"
       },
@@ -267,18 +283,18 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Desert Sessions",
-        "url": "https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU"
+        "name": "Runak Jhunak",
+        "url": "https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT"
       },
       "artists": [
         {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+          "name": "Kanika",
+          "url": "https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF"
         }
       ],
-      "duration_ms": 251250,
-      "name": "Kesariya Balam",
-      "url": "https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM"
+      "duration_ms": 190539,
+      "name": "Runak Jhunak",
+      "url": "https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -303,18 +319,18 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Runak Jhunak",
-        "url": "https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT"
+        "name": "Madano",
+        "url": "https://open.spotify.com/album/1tNOP6LpEgSR3fVuwYU6A1"
       },
       "artists": [
         {
-          "name": "Kanika",
-          "url": "https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF"
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
         }
       ],
-      "duration_ms": 190539,
-      "name": "Runak Jhunak",
-      "url": "https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0"
+      "duration_ms": 268969,
+      "name": "Madano",
+      "url": "https://open.spotify.com/track/2zTNlHeGIOgRqyYCsVopHc"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -351,6 +367,26 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
+        "name": "Maati Baani",
+        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Ankita Joshi",
+          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
+        }
+      ],
+      "duration_ms": 273394,
+      "name": "Boondan Boondan (feat. Ankita Joshi)",
+      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
         "name": "Chhaap Tilak",
         "url": "https://open.spotify.com/album/4PxJFikJLP5xm6P2WyWkml"
       },
@@ -375,26 +411,6 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Maati Baani",
-        "url": "https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        },
-        {
-          "name": "Ankita Joshi",
-          "url": "https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS"
-        }
-      ],
-      "duration_ms": 273394,
-      "name": "Boondan Boondan (feat. Ankita Joshi)",
-      "url": "https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
         "name": "Agnee",
         "url": "https://open.spotify.com/album/4zE9JWKkoH2ezquD54Kwn9"
       },
@@ -407,58 +423,6 @@
       "duration_ms": 251560,
       "name": "Sadho Re",
       "url": "https://open.spotify.com/track/2FSVKGUjxl1b805NESHmOq"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Kon Halave Limdi (Reprise)",
-        "url": "https://open.spotify.com/album/5tyRG2a7FMXAVr39NmOYKS"
-      },
-      "artists": [
-        {
-          "name": "Dhaval Kothari",
-          "url": "https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt"
-        },
-        {
-          "name": "Sarthak Kalyani",
-          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
-        }
-      ],
-      "duration_ms": 238433,
-      "name": "Kon Halave Limdi - Reprise",
-      "url": "https://open.spotify.com/track/5BhOC3r1Cc7hGj1S4ik5c2"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Madano",
-        "url": "https://open.spotify.com/album/1tNOP6LpEgSR3fVuwYU6A1"
-      },
-      "artists": [
-        {
-          "name": "Aabha Hanjura",
-          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
-        }
-      ],
-      "duration_ms": 268969,
-      "name": "Madano",
-      "url": "https://open.spotify.com/track/2zTNlHeGIOgRqyYCsVopHc"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Matwari",
-        "url": "https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9"
-      },
-      "artists": [
-        {
-          "name": "Samahita Narang",
-          "url": "https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Matwari",
-      "url": "https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -483,6 +447,42 @@
       "duration_ms": 218307,
       "name": "Radhe (From Songs of Faith)",
       "url": "https://open.spotify.com/track/3H1vNEDvVDLEqzLbubsrpL"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Kon Halave Limdi (Reprise)",
+        "url": "https://open.spotify.com/album/5tyRG2a7FMXAVr39NmOYKS"
+      },
+      "artists": [
+        {
+          "name": "Dhaval Kothari",
+          "url": "https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt"
+        },
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        }
+      ],
+      "duration_ms": 238433,
+      "name": "Kon Halave Limdi - Reprise",
+      "url": "https://open.spotify.com/track/5BhOC3r1Cc7hGj1S4ik5c2"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Matwari",
+        "url": "https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9"
+      },
+      "artists": [
+        {
+          "name": "Samahita Narang",
+          "url": "https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Matwari",
+      "url": "https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
+        "name": "Hukus Bukus",
+        "url": "https://open.spotify.com/album/5ORGx0mjAyoPn2LSDRzbku"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        }
+      ],
+      "duration_ms": 246822,
+      "name": "Hukus Bukus",
+      "url": "https://open.spotify.com/track/50A0o1uOb6TW2bdbJFrp8F"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
         "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
         "url": "https://open.spotify.com/album/66xOQ66ZnZPAlA6thPN5kb"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 175929,
       "name": "Haalyo Jaa (Secret Sessions X Collab Stories)",
       "url": "https://open.spotify.com/track/0fzVqKKvn5P6MU3kNYsqgM"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Hukus Bukus",
-        "url": "https://open.spotify.com/album/5ORGx0mjAyoPn2LSDRzbku"
-      },
-      "artists": [
-        {
-          "name": "Aabha Hanjura",
-          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
-        }
-      ],
-      "duration_ms": 246822,
-      "name": "Hukus Bukus",
-      "url": "https://open.spotify.com/track/50A0o1uOb6TW2bdbJFrp8F"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -867,6 +867,30 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
+        "name": "Mahadeva",
+        "url": "https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f"
+      },
+      "artists": [
+        {
+          "name": "Nyasa",
+          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
+        },
+        {
+          "name": "Gaurav Chati",
+          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
+        },
+        {
+          "name": "Rstarjazz",
+          "url": "https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Mahadeva",
+      "url": "https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
         "name": "Shades of Cashmere",
         "url": "https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo"
       },
@@ -895,46 +919,6 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Mahadeva",
-        "url": "https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f"
-      },
-      "artists": [
-        {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
-        },
-        {
-          "name": "Gaurav Chati",
-          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
-        },
-        {
-          "name": "Rstarjazz",
-          "url": "https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Mahadeva",
-      "url": "https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Kabir Cafe Live",
-        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        }
-      ],
-      "duration_ms": 260486,
-      "name": "Ghat Ghat",
-      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
         "name": "Chekele",
         "url": "https://open.spotify.com/album/0rPIpdxZnQKdP6iEeI05n2"
       },
@@ -947,26 +931,6 @@
       "duration_ms": 142105,
       "name": "Chekele",
       "url": "https://open.spotify.com/track/48onZ4ZEQnfzaH0yAofSsA"
-    },
-    {
-      "added_at": "2023-07-28 05:48:40",
-      "album": {
-        "name": "Chidiya Da Chamba",
-        "url": "https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        }
-      ],
-      "duration_ms": 293076,
-      "name": "Chidiya Da Chamba",
-      "url": "https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg"
     },
     {
       "added_at": "2023-07-28 05:48:40",
@@ -995,22 +959,54 @@
     {
       "added_at": "2023-07-28 05:48:40",
       "album": {
-        "name": "Pagdandi",
-        "url": "https://open.spotify.com/album/1d4SyBc282ylobPcMQBPvD"
+        "name": "Ki Jaana",
+        "url": "https://open.spotify.com/album/2w05JOdoxAmsvpPvbeuLtP"
       },
       "artists": [
         {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
         },
         {
-          "name": "Gaurav Chati",
-          "url": "https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP"
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
         }
       ],
-      "duration_ms": 190714,
-      "name": "Pagdandi",
-      "url": "https://open.spotify.com/track/4sVsPVWeoALxXeJ8rof2bN"
+      "duration_ms": 277546,
+      "name": "Ki Jaana",
+      "url": "https://open.spotify.com/track/7sCtnlyuxm07ISQg5ErK0Z"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Kabir Cafe Live",
+        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
+      },
+      "artists": [
+        {
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
+        }
+      ],
+      "duration_ms": 260486,
+      "name": "Ghat Ghat",
+      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
+    },
+    {
+      "added_at": "2023-07-28 05:48:40",
+      "album": {
+        "name": "Banna",
+        "url": "https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        }
+      ],
+      "duration_ms": 336296,
+      "name": "Banna",
+      "url": "https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB"
     }
   ],
   "unique_name": "Folk in India",

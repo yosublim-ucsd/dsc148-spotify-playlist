@@ -1,12 +1,12 @@
 {
   "description": "Funky blips and blops",
-  "num_followers": 4690,
+  "num_followers": 4701,
   "original_name": "Electro Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2YzYTBkYTcwZTgxMmQ4NzJiZGNlY2ExNzVlYjMyMjM1NTZkNGE5",
+  "snapshot_id": "MCw3YTc5ZTZjNjBlZTMxNjA4MTMzZGNmYWFmMDZmZjhmZGU1NTFlMWM5",
   "tracks": [
     {
       "added_at": "2020-08-28 18:46:05",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Gang War",
-        "url": "https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK"
-      },
-      "artists": [
-        {
-          "name": "Prince Charles And The City Beat Band",
-          "url": "https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Tight Jeans",
-      "url": "https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Greatest Hits: Straight Up",
         "url": "https://open.spotify.com/album/73RNO2BAAyYy4kq0gP9Szu"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 357733,
       "name": "Loopzilla - Broadcast Version; 2000 Digital Remaster",
       "url": "https://open.spotify.com/track/1uDo3aV0mG2SDkSMoPwm0m"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Gang War",
+        "url": "https://open.spotify.com/album/52JrEiptr41fxnyaD8oZYK"
+      },
+      "artists": [
+        {
+          "name": "Prince Charles And The City Beat Band",
+          "url": "https://open.spotify.com/artist/4MY00RhSxz9sIaTKQX8q7b"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Tight Jeans",
+      "url": "https://open.spotify.com/track/7ltgjbYbyoRYCuLTFnAt5L"
     },
     {
       "added_at": "2020-08-28 18:46:05",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-08-28 18:46:05",
       "album": {
-        "name": "Rare Preludes, Vol. 4",
-        "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
-      },
-      "artists": [
-        {
-          "name": "Wuf Ticket",
-          "url": "https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ"
-        }
-      ],
-      "duration_ms": 402760,
-      "name": "The Key",
-      "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
-    },
-    {
-      "added_at": "2020-08-28 18:46:05",
-      "album": {
         "name": "Prelude's Greatest Hits, Vol. 5",
         "url": "https://open.spotify.com/album/5TPiMDrNtfok3VDNYZpLgJ"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 383541,
       "name": "We are the Jonzun Crew",
       "url": "https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e"
+    },
+    {
+      "added_at": "2020-08-28 18:46:05",
+      "album": {
+        "name": "Rare Preludes, Vol. 4",
+        "url": "https://open.spotify.com/album/3ZQn7MOngY3Dgq8ZZ0XwE1"
+      },
+      "artists": [
+        {
+          "name": "Wuf Ticket",
+          "url": "https://open.spotify.com/artist/0WANAwJZgqJQWUcxLzTisQ"
+        }
+      ],
+      "duration_ms": 402760,
+      "name": "The Key",
+      "url": "https://open.spotify.com/track/3vgbqGOEFgDsT1RAC4Auaf"
     },
     {
       "added_at": "2020-08-28 18:46:05",

@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ?si=odFUv1B\-S3a0z\_Tz\_8gQbg">Bla$ta</a>
+> California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et?si=1e43029707cf49e2">Caleborate</a>
 
 846 songs - 1 day 18 hr 22 min
 

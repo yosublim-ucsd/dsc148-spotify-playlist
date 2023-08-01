@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=BEkpM7ZITmuFksyFi7qa1A">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,028 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,061 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 5 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 6 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 |
 | 7 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
-| 8 | [Wena Wethu \(feat\. Sino Msolo & Chley\)](https://open.spotify.com/track/5VWHXYu6nuV1aMzBt1Wp9R) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Netha](https://open.spotify.com/album/4PHeWglPwWKRiuZTbpjUPx) | 6:14 |
+| 8 | [Wena Wethu \(feat\. Musa Keys\)](https://open.spotify.com/track/5VWHXYu6nuV1aMzBt1Wp9R) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Netha](https://open.spotify.com/album/4PHeWglPwWKRiuZTbpjUPx) | 6:14 |
 | 9 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
 | 10 | [BIRTHDAY](https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BIRTHDAY](https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74) | 2:55 |
 | 11 | [MONEY COUNTER](https://open.spotify.com/track/6NwF4qlLv4eormuKKowaRg) | [Infinity MusiQ](https://open.spotify.com/artist/1WYoK8ZzO0j3lSmnNRY5KW), [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l) | [MONEY COUNTER](https://open.spotify.com/album/6h3EnAhqYSmMli8eplFSIH) | 6:25 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 71 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 |
 | 72 | [Lock It Down](https://open.spotify.com/track/7EBsJZyt5DKvIsgEsIz6Gb) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Lock It Down](https://open.spotify.com/album/101dDvYka9Q459BvinL7Ih) | 2:57 |
 
-Snapshot ID: `MCxjMDA4MzFkYmZjNDIxOGQwM2YxOGNkNmJjMTgyZTkxMGI4OTEzNzdj`
+Snapshot ID: `MCwwMWI5MWE1MDlmZjQxYzBlNjY2YmQzNTJkYzc5NDY0MmVkNjM5MmFh`

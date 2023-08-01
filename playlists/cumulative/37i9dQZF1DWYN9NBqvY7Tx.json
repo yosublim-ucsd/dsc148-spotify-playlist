@@ -5235,6 +5235,32 @@
     },
     {
       "album": {
+        "name": "Pill",
+        "url": "https://open.spotify.com/album/707RNXJxcKVtqr2JPukjB0"
+      },
+      "artists": [
+        {
+          "name": "Heuse",
+          "url": "https://open.spotify.com/artist/0FnS2UBQERszgo9dRLNdPT"
+        },
+        {
+          "name": "Emma Sameth",
+          "url": "https://open.spotify.com/artist/0hac78iy32k7qYWLp6RPaz"
+        },
+        {
+          "name": "Zeus X Crona",
+          "url": "https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134404,
+      "name": "Pill",
+      "url": "https://open.spotify.com/track/2e3wKwNMrYIvMgAS484EXQ"
+    },
+    {
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
       },
@@ -5558,7 +5584,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 159640,
       "name": "Rampage (Free Fire Rampage Theme Song)",
       "url": "https://open.spotify.com/track/4XMf6BjWH7Pme8eY4yyEZE"

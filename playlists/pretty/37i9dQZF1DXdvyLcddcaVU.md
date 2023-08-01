@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > Life in plastic, it's fantastic \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,346 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,200 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 99 | [Drogbacité \(feat\. Junior Bvndo\)](https://open.spotify.com/track/1s20za1efDrV6tjO4Aiz73) | [Bhk220](https://open.spotify.com/artist/5eL7Hq6SnfxhK6CFYBesK1), [Junior Bvndo](https://open.spotify.com/artist/58lWi9l7zeTHdUz6Glzm9p) | [Drogbacité \(feat\. Junior Bvndo\)](https://open.spotify.com/album/144BJevrFl9CEwP5Dp4j18) | 2:02 |
 | 100 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 |
 
-Snapshot ID: `MCw4NTM2MWNjOTAwOGU3MGIyNGI2ZDQ0Mzg5YjlkMTIxOTlmZDdkZDlm`
+Snapshot ID: `MCw4ODJhY2VmMjFiYmE1MTQ1Yzc3ZjE3ZWE4YWMzZWIzNTFlZTgxN2E4`

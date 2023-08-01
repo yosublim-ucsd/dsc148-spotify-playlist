@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 
 > Travel back to the start, tracing the roots of what would become bluegrass through to some of its early hits and gems\. Cover: Remembering Jesse McReynolds
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,339 likes - 57 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,360 likes - 57 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RwLEp3x6W4.md) - [plain]
 | 56 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 |
 | 57 | [Whitehouse Blues](https://open.spotify.com/track/5JxJ1qkfZxbivjdusciKas) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Bluegrass Blues](https://open.spotify.com/album/6LUb06ZNMDASuDgD6sHisX) | 1:39 |
 
-Snapshot ID: `MCxhOTIyNmZkNDMxNDA4MWFlZWQ3ZWYzMDJmMzU1YTcyOTViZjIzMWFj`
+Snapshot ID: `MCwxZTkzMDdjMzdkMTBiZGEzZGU5ZTVmM2EyM2U0ZjJhNTk5YzZiMmZh`

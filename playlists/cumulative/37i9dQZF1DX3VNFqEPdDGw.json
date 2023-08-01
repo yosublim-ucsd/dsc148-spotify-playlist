@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168178,
+      "name": "HOBBIES",
+      "url": "https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6"
+    },
+    {
+      "album": {
         "name": "B.T.F.U",
         "url": "https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs"
       },
@@ -1264,6 +1286,24 @@
       "duration_ms": 215819,
       "name": "Necklace",
       "url": "https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4"
+    },
+    {
+      "album": {
+        "name": "Honsla Rakh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3LqKRnd8VRJazkkjv8bl81"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Number 5",
+      "url": "https://open.spotify.com/track/2WucLX3feWudkrM2MBtN3I"
     },
     {
       "album": {

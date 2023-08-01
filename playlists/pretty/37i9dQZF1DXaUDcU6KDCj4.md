@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,679 likes - 150 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,794 likes - 150 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Shades Of You](https://open.spotify.com/track/5P0xYk06k6jT5Cujyx5TLX) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Surf The Sun](https://open.spotify.com/album/4P86SbCNGivegXvti0I0hX) | 4:14 |
 | 150 | [Go\-Getter](https://open.spotify.com/track/2NLjxyQTnKArh5lAJXSoNr) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Red\-Eye Effect](https://open.spotify.com/album/1lmmfQayZ9x0mVbLn2Fn53) | 2:57 |
 
-Snapshot ID: `MCwyYzliN2EzYWZhMTNjMDc0NWY4NGJhOTk3YjYzMmFlNmRmOGM1NGYy`
+Snapshot ID: `MCxhMDE0MWU3ZTcxMTIzYTcwNDNiMTY2ZjU1OTA5YjVkY2JmYTY3Mzcx`

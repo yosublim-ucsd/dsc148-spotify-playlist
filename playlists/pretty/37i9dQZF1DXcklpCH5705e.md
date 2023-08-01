@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,713 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,716 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 2 | [有誰共鳴](https://open.spotify.com/track/6WeK60Z3tB1VdEONdBWfmq) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [有誰共鳴](https://open.spotify.com/album/6p1lJXhCHRZDygLpQORcVK) | 3:12 |
 | 3 | [偷情](https://open.spotify.com/track/2E5X5HbBHBUeo2juTSgTMX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [偷情](https://open.spotify.com/album/2zYf27zQAJY1qgPB5plv19) | 3:48 |
 | 4 | [難道喜歡處女座 \- J1M3 Remix](https://open.spotify.com/track/0ZWpQpsBL0aPRvSpxCPpnH) | [梁釗峰](https://open.spotify.com/artist/28ZDaobarpiyxFtfg11sS8), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [難道喜歡處女座 \(J1M3 Remix\)](https://open.spotify.com/album/1BI2KlhZY5Ba9hG68Syuj4) | 2:22 |
-| 5 | [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 |
+| 5 | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/track/3SFgidWdBgZNLcjy8ymzH0) | [小肥](https://open.spotify.com/artist/1IEuhKA77qmOfPSgrCaFCs), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/album/3lic9Btq2yShkvJfC7YnvE) | 4:07 |
 | 6 | [路過蜻蜓](https://open.spotify.com/track/4Uhq40fGrEwKEHxzQQajTY) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [歷久嚐新II Reborn \(環球精選\)](https://open.spotify.com/album/76OhLZYkmy48oEy0bVHwxL) | 4:51 |
 | 7 | [暗湧 \- 電影"愈快樂愈墮落"歌曲](https://open.spotify.com/track/51qJSDTQiyP2BNsAKRcRo2) | [Anthony Wong](https://open.spotify.com/artist/16J0pDSrYEctKiVYogq2aI) | [廿一世紀精選](https://open.spotify.com/album/1YOynn6PjM1NnCnBRLuv2S) | 3:49 |
 | 8 | [初恋](https://open.spotify.com/track/40z4u67Cm6I4WUQvM3atmb) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [The Voyage](https://open.spotify.com/album/3yNL4RvDIZShXbY1HHiVqA) | 3:27 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 36 | [甘心替代你 \- 2020 Music Suite Live](https://open.spotify.com/track/5aB9F7Ku4KwzuvEmQqXnPI) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret \(2nd edition\)](https://open.spotify.com/album/33oSpTnVlOvjODoph9vv3u) | 3:25 |
 | 37 | [給自己的信](https://open.spotify.com/track/0Tmkb2BB7M6Jxugz2yHZCU) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [C AllLive 2012](https://open.spotify.com/album/6rvPe6eKm2V6YVw3GzJWAj) | 4:33 |
 
-Snapshot ID: `MCxhOTIyMWM1NzE3YzQzYzkzYTdmOTJlNjQxZjgyZTUyNDIzMzJlZjk1`
+Snapshot ID: `MCxjYmRiYzg4MDJhMmRkYjAyNjY2YjVmNDBmOWE1MzZhN2RmYmFlYjky`

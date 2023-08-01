@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 139074,
       "name": "AMA OU ODEIA",
       "url": "https://open.spotify.com/track/5drh9s8nnyLJGEdQuOPb7g"
@@ -14928,6 +14928,28 @@
       "duration_ms": 164276,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/6TussN1rv7dNIO8jVoz9rU"
+    },
+    {
+      "album": {
+        "name": "Playboy Preto",
+        "url": "https://open.spotify.com/album/2v09Ch9OOBo8m6Ou4j62FV"
+      },
+      "artists": [
+        {
+          "name": "Jorge Bask",
+          "url": "https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy"
+        },
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161221,
+      "name": "Playboy Preto",
+      "url": "https://open.spotify.com/track/6h78CkYMNpGolZwhjBz3i9"
     },
     {
       "album": {

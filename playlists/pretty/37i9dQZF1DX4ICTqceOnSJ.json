@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjkyMTI3NGY2OGNhODJlNTE3YmZiZDVmOWNjMjA1NDQ2ZGFkYTcy",
+  "snapshot_id": "MCwzNGNkNTVmMDY2OGUxM2FjNWVlMDEzNzY3MWU2NTRkZGNlZDcyZmE0",
   "tracks": [
+    {
+      "added_at": "2023-07-31 18:00:00",
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
     {
       "added_at": "2023-07-30 06:00:00",
       "album": {
@@ -875,26 +891,6 @@
       "duration_ms": 230252,
       "name": "Que Ven\u00eds",
       "url": "https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u"
-    },
-    {
-      "added_at": "2023-07-24 22:53:16",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/4Pp7QfJOdByWRnYaCBSquf"
-      },
-      "artists": [
-        {
-          "name": "Sabi Satiz\u00e1bal",
-          "url": "https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX"
-        },
-        {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        }
-      ],
-      "duration_ms": 212199,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0AeLV7eiqBHMaTeq5R8SAS"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

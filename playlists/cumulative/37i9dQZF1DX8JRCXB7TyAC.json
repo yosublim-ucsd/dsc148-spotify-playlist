@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 153488,
       "name": "Badmash",
       "url": "https://open.spotify.com/track/2LAeibIZBqlCD3HrlLSjjE"
@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Gunda Tera Yaar",
+        "url": "https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61"
+      },
+      "artists": [
+        {
+          "name": "Dikshit Parasher",
+          "url": "https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158313,
+      "name": "Gunda Tera Yaar",
+      "url": "https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8"
+    },
+    {
+      "album": {
         "name": "Gunday",
         "url": "https://open.spotify.com/album/73DYc8xnjVLEzxAqdBx7Y0"
       },
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 175125,
       "name": "Haryana Style",
       "url": "https://open.spotify.com/track/29wpqIo0iw9JSJIFQMR7Re"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 189749,
       "name": "Hashtag",
       "url": "https://open.spotify.com/track/24zHwk9jgxzOHnOPuYIqAJ"
@@ -682,6 +700,28 @@
       "duration_ms": 177473,
       "name": "Jaat",
       "url": "https://open.spotify.com/track/7JGrjPpKep3LJdiEHQ4N0K"
+    },
+    {
+      "album": {
+        "name": "Jaat Anthem",
+        "url": "https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO"
+      },
+      "artists": [
+        {
+          "name": "D Naveen",
+          "url": "https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb"
+        },
+        {
+          "name": "Sumit Kajla",
+          "url": "https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153272,
+      "name": "Jaat Anthem",
+      "url": "https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq"
     },
     {
       "album": {
@@ -1000,7 +1040,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 245365,
       "name": "Tair Paatge",
       "url": "https://open.spotify.com/track/49fe97w18d7UWkJ5Ig5l0H"
@@ -1102,7 +1142,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 183750,
       "name": "Tycon",
       "url": "https://open.spotify.com/track/689Hj1Zr8wOV3dJ45SEwTO"
@@ -1182,7 +1222,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 189000,
       "name": "Yadav Maar Maran (feat. Akki Kalyan)",
       "url": "https://open.spotify.com/track/3eqWEV3vl7YSITnYzzfW76"

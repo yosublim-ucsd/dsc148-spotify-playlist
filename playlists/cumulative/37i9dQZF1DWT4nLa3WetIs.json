@@ -2031,6 +2031,28 @@
     },
     {
       "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/061q5E43gIp25oJxVxvAav"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233680,
+      "name": "Never (Lagos Never Gonna Be the Same)",
+      "url": "https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K"
+    },
+    {
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -3288,7 +3310,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 255712,
       "name": "Yahooze",
       "url": "https://open.spotify.com/track/0CJntpJHxb23mAvskYI31f"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:4ccurDUZ48cXNrcrLsA9ub\">IGNACY</a>",
+  "description": "Odkryj swojego nowego ulubionego artyst\u0119. Cover: <a href=\"spotify:artist:6W1NclX9rP93bkhQEOQtm4\">Frank Leen</a>",
   "name": "RADAR Polska",
   "tracks": [
     {
@@ -162,6 +162,42 @@
       "duration_ms": 141951,
       "name": "California Boy (jjjerk)",
       "url": "https://open.spotify.com/track/1c7pvFD8j9li7nmJwbAfr2"
+    },
+    {
+      "album": {
+        "name": "Carrie",
+        "url": "https://open.spotify.com/album/2jTw2ZkjGsIAIRJtS4UaDe"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/4dg06owZapY09INYbaFH0j"
+    },
+    {
+      "album": {
+        "name": "Chardonnay",
+        "url": "https://open.spotify.com/album/716XoQ3W64WJxMH8L7Bney"
+      },
+      "artists": [
+        {
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160049,
+      "name": "Chardonnay",
+      "url": "https://open.spotify.com/track/2V0fdohnsYJyiLWHyByJRj"
     },
     {
       "album": {
@@ -368,6 +404,24 @@
       "duration_ms": 112694,
       "name": "Diss Na Mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
+    },
+    {
+      "album": {
+        "name": "Dobra Albo Z\u0142a",
+        "url": "https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193843,
+      "name": "Dobra Albo Z\u0142a",
+      "url": "https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff"
     },
     {
       "album": {
@@ -1387,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Sam",
+        "url": "https://open.spotify.com/album/6FiasC1yEdNf0IwHoYuXag"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Sam",
+      "url": "https://open.spotify.com/track/2JHhMVU7urxhuxF7IMF6Hw"
+    },
+    {
+      "album": {
         "name": "Samoloty",
         "url": "https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC"
       },
@@ -1510,7 +1582,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 161583,
       "name": "stalker",
       "url": "https://open.spotify.com/track/56BfZQpFbnXKMycKRys0x5"
@@ -1644,7 +1716,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 183716,
       "name": "TO JEST LOVEEE",
       "url": "https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR"
@@ -1698,7 +1770,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 152307,
       "name": "Za dobrze by zapomnie\u0107",
       "url": "https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD"
@@ -1734,7 +1806,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 144000,
       "name": "Zapomnieli",
       "url": "https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w"

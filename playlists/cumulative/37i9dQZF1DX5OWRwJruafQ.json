@@ -1897,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174986,
+      "name": "JOURNEY",
+      "url": "https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/14pOspmSYB2qjQ7FE2xMxd"
       },

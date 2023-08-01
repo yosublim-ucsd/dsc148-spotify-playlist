@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 121844,
+  "num_followers": 122004,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjNkODY5ZDRmNDU1MDFjNDhhMTg1NmRmMzljNzdkNDI0M2M1ODIx",
+  "snapshot_id": "MCwwMjI1YTcyYzJiZGZiZGE4Y2M0YThkNzQ4MzkzN2ZkODMxNzFmM2Rm",
   "tracks": [
     {
       "added_at": "2023-07-21 04:50:34",
@@ -127,6 +127,26 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
+        "name": "1000 Graus",
+        "url": "https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Melyssa Almeida",
+          "url": "https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "1000 Graus",
+      "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 339580,
       "name": "Rei da Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "1000 Graus",
-        "url": "https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        },
-        {
-          "name": "Melyssa Almeida",
-          "url": "https://open.spotify.com/artist/2kqKUICMbjxfslD1GkpLAq"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "1000 Graus",
-      "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
         "name": "Cordeiro e Le\u00e3o",
         "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
       },
@@ -355,42 +371,6 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "O Que Me Espera",
-        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Malta",
-          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
-        }
-      ],
-      "duration_ms": 221805,
-      "name": "O Que Me Espera",
-      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
         "name": "Te Seguirei",
         "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
@@ -427,6 +407,42 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
+        "name": "O Que Me Espera",
+        "url": "https://open.spotify.com/album/4EjrbsaksKz3F25AoZZ2rs"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Malta",
+          "url": "https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG"
+        }
+      ],
+      "duration_ms": 221805,
+      "name": "O Que Me Espera",
+      "url": "https://open.spotify.com/track/7CyBOf0w9Vd8YRIl9iRDoY"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
         "name": "ELE \u00c9 EXALTADO",
         "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 298342,
       "name": "ELE \u00c9 EXALTADO",
       "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
-      },
-      "artists": [
-        {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
-        }
-      ],
-      "duration_ms": 346917,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20"
+      },
+      "artists": [
+        {
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+        }
+      ],
+      "duration_ms": 346917,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
         "name": "Eu Vou Amanhecer (ao Vivo)",
         "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
       },
@@ -495,8 +511,8 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
+        "name": "Lembre-se 90's",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
       },
       "artists": [
         {
@@ -504,29 +520,9 @@
           "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
         }
       ],
-      "duration_ms": 304556,
-      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "NAVES IMPERIAIS",
-        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Walter Lopes",
-          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
-        }
-      ],
-      "duration_ms": 314137,
-      "name": "NAVES IMPERIAIS",
-      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -547,6 +543,42 @@
       "duration_ms": 241088,
       "name": "Me Fez Vivo (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Mauro",
+        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 250475,
+      "name": "Escolho Ser Fiel",
+      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "NAVES IMPERIAIS",
+        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Walter Lopes",
+          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
+        }
+      ],
+      "duration_ms": 314137,
+      "name": "NAVES IMPERIAIS",
+      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -579,38 +611,6 @@
       "duration_ms": 380250,
       "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
       "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Mauro",
-        "url": "https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 250475,
-      "name": "Escolho Ser Fiel",
-      "url": "https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Lembre-se 90's",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
+        "name": "Uma Carta de Amanh\u00e3",
+        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ramos",
+          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
+        }
+      ],
+      "duration_ms": 231874,
+      "name": "Uma Carta de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
         "name": "Descanso",
         "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
       },
@@ -735,54 +751,6 @@
       "duration_ms": 250600,
       "name": "Palavra Antiga - Ao Vivo",
       "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Uma Carta de Amanh\u00e3",
-        "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ramos",
-          "url": "https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX"
-        }
-      ],
-      "duration_ms": 231874,
-      "name": "Uma Carta de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -819,6 +787,38 @@
       "duration_ms": 288000,
       "name": "As Sepulturas Se Abrir\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Profundo",
-        "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 323440,
-      "name": "Simplesmente",
-      "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
         "name": "Caminho Sem Volta",
         "url": "https://open.spotify.com/album/7mzXUBD7si5aoKWckv7gJR"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 215064,
       "name": "Caminho Sem Volta",
       "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Profundo",
+        "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 323440,
+      "name": "Simplesmente",
+      "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
+        "name": "Ex\u00edlio",
+        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+      },
+      "artists": [
+        {
+          "name": "Hugo Santos",
+          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+        }
+      ],
+      "duration_ms": 279510,
+      "name": "Sobre as \u00c1guas",
+      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
         "name": "Cantem os Anjos",
         "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Ex\u00edlio",
-        "url": "https://open.spotify.com/album/46lSrHXtNUI1LtRe0C6Bed"
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
       "artists": [
         {
-          "name": "Hugo Santos",
-          "url": "https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb"
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
         }
       ],
-      "duration_ms": 279510,
-      "name": "Sobre as \u00c1guas",
-      "url": "https://open.spotify.com/track/7KmvG8syUkJueaI8IlHO1d"
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Deserto 2.0",
-        "url": "https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Deserto 2.0",
-      "url": "https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -1107,22 +1091,6 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Guerreiro",
-        "url": "https://open.spotify.com/album/2XNQurgWJc02kEChTOW8vb"
-      },
-      "artists": [
-        {
-          "name": "William Graziane",
-          "url": "https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip"
-        }
-      ],
-      "duration_ms": 267051,
-      "name": "Guerreiro",
-      "url": "https://open.spotify.com/track/0ZIrku5nIXgzRG3tW2Cc5L"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
         "name": "Mais Amor",
         "url": "https://open.spotify.com/album/4obYU290HHKYg15IaVTbuQ"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 268786,
       "name": "Mais Amor",
       "url": "https://open.spotify.com/track/10Edr8Dp1dkeKFe08t2VLm"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Deserto 2.0",
+        "url": "https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Deserto 2.0",
+      "url": "https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Guerreiro",
+        "url": "https://open.spotify.com/album/2XNQurgWJc02kEChTOW8vb"
+      },
+      "artists": [
+        {
+          "name": "William Graziane",
+          "url": "https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip"
+        }
+      ],
+      "duration_ms": 267051,
+      "name": "Guerreiro",
+      "url": "https://open.spotify.com/track/0ZIrku5nIXgzRG3tW2Cc5L"
     },
     {
       "added_at": "2023-07-21 04:50:34",

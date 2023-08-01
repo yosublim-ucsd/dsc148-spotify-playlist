@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 567240,
+  "num_followers": 567364,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTUyZDM5MTZlYzRkZjM1NDFjMzIzMDQ3OWMyNWJjNGU3Mzc2MmQ4",
+  "snapshot_id": "MCw3NTI0MmU4NDFjYmEzOGZlOWI4YTZkMDlhMjMxZWZhM2VlNTA2Nzg2",
   "tracks": [
     {
       "added_at": "2023-07-20 08:56:53",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Heartworks",
         "url": "https://open.spotify.com/album/0WBpc7PSDbgRZIHZ4mAY0q"
       },
@@ -163,18 +179,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+      "duration_ms": 182040,
+      "name": "All Of The Time",
+      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -199,22 +215,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "All Of The Time",
-      "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Bedroom Exile",
         "url": "https://open.spotify.com/album/10g160lZ4fimlOQKcKg0uY"
       },
@@ -227,6 +227,26 @@
       "duration_ms": 198970,
       "name": "Bedroom Exile",
       "url": "https://open.spotify.com/track/2VudXzMgyFNDLydViVrQ7e"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Unknown Song",
+        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Paulina Eisenberg",
+          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
+        }
+      ],
+      "duration_ms": 250521,
+      "name": "Unknown Song",
+      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -327,22 +347,34 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Unknown Song",
-        "url": "https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx"
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
       },
       "artists": [
         {
           "name": "Milky Chance",
           "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Paulina Eisenberg",
-          "url": "https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT"
         }
       ],
-      "duration_ms": 250521,
-      "name": "Unknown Song",
-      "url": "https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC"
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -359,22 +391,6 @@
       "duration_ms": 167333,
       "name": "Only For A Moment",
       "url": "https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -447,22 +463,6 @@
       "duration_ms": 198019,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Mister Burns",
-        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mister Burns",
-      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Tonight (feat. Ezra Koenig)",
         "url": "https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Home of Sanity (the playlist)",
         "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+        "name": "Mister Burns",
+        "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
       },
       "artists": [
         {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
         }
       ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+      "duration_ms": 155000,
+      "name": "Mister Burns",
+      "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -743,22 +743,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
       "artists": [
         {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         },
         {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -799,6 +799,26 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -903,26 +923,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "A-Train",
-        "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
+        "name": "ich mags",
+        "url": "https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS"
       },
       "artists": [
         {
-          "name": "COMA",
-          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 215307,
-      "name": "A-Train - Edit",
-      "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+      "duration_ms": 161960,
+      "name": "ich mags",
+      "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "ich mags",
-        "url": "https://open.spotify.com/album/5PB2mi2e4cq4HdBarm0sPS"
+        "name": "A-Train",
+        "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
         }
       ],
-      "duration_ms": 161960,
-      "name": "ich mags",
-      "url": "https://open.spotify.com/track/3S81BVFGfJZ0bpX3Fthr4P"
+      "duration_ms": 215307,
+      "name": "A-Train - Edit",
+      "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Kalif Onya",
+        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
+      },
+      "artists": [
+        {
+          "name": "Al Pride",
+          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
+        }
+      ],
+      "duration_ms": 238936,
+      "name": "Kalif Onya",
+      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Pleasure Centre",
         "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "Kalif Onya",
-        "url": "https://open.spotify.com/album/0CrAZ1bf2mckuZSGsLckDl"
-      },
-      "artists": [
-        {
-          "name": "Al Pride",
-          "url": "https://open.spotify.com/artist/2H348ORtPqCyeJllhI8ddB"
-        }
-      ],
-      "duration_ms": 238936,
-      "name": "Kalif Onya",
-      "url": "https://open.spotify.com/track/0mesXBMiwhSsFjUJNe9k1T"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 163327,
       "name": "Aloe Vera (Clear My Mind)",
       "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Get Up!",
-        "url": "https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao"
+        "name": "Mojito",
+        "url": "https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax"
       },
       "artists": [
         {
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
         }
       ],
-      "duration_ms": 195653,
-      "name": "Get Up!",
-      "url": "https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L"
+      "duration_ms": 184706,
+      "name": "Mojito",
+      "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
     },
     {
       "added_at": "2023-07-20 08:56:53",

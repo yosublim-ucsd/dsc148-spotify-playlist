@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of R&B in Canada in 2022\. Cover: dvsn \#SpotifyWrapped
 
-203 songs - 11 hr 35 min
+204 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,8 +91,9 @@
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 | 2021-12-09 | 2022-12-01 |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/4ZB2yAZyPHI6SHdFPPT9sa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/album/4hY1TaqQxOL2aBAWvAI111) | 2:41 | 2021-12-09 | 2022-07-29 |
 | [Insecure](https://open.spotify.com/track/03vOug8jjdItsg2Rp3bEpQ) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Certifeid Hits \- Hot Rhythmic](https://open.spotify.com/album/2EYEb8HdVfkaGWTLUuKlpK) | 3:08 | 2022-11-30 | 2023-01-03 |
+| [Insecure](https://open.spotify.com/track/4GjApd3aCNTdwqkS63M976) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 3:08 | 2022-11-30 |  |
 | [Insecure](https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9) | 3:08 | 2022-11-30 | 2023-01-01 |
-| [Insecure](https://open.spotify.com/track/5Em23r8xScz4ZOvig4AH0K) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/09rj2GYuO7YkeSfkfHN7Hn) | 3:08 | 2022-11-30 |  |
+| [Insecure](https://open.spotify.com/track/5Em23r8xScz4ZOvig4AH0K) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/09rj2GYuO7YkeSfkfHN7Hn) | 3:08 | 2022-11-30 | 2023-08-01 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2021-12-09 | 2022-12-01 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 | 2021-12-09 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/2TpOAYb6L51KteAfASpq16) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:34 | 2021-12-09 | 2022-10-15 |

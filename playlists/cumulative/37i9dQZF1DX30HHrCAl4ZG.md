@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music by spill tab.
 
-1,103 songs - 2 day 12 hr 0 min
+1,104 songs - 2 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Better Now](https://open.spotify.com/track/1YSNxaaqDvsIyBFakpf8PW) | [Celler Dwellers](https://open.spotify.com/artist/6JqJpTCoO1tmLR7mVhFmFx) | [Better Now](https://open.spotify.com/album/4NdmLssbqfFxVGiRTBksec) | 3:07 | 2023-04-07 | 2023-05-20 |
 | [Better Off](https://open.spotify.com/track/5bcAsvVeaZnTl2juM3HGYt) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Better Off](https://open.spotify.com/album/5BvFjDiY104SMhK7RRSzkc) | 2:37 | 2023-02-10 | 2023-04-09 |
 | [Better Than I Know Myself](https://open.spotify.com/track/0xg79a3ac7iAOILS1QQbPa) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Better Than I Know Myself](https://open.spotify.com/album/6UB2H0P4aSqExfV7GWvtKO) | 4:22 | 2021-07-23 | 2022-06-11 |
+| [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 | 2023-07-31 |  |
 | [Bike Ride](https://open.spotify.com/track/26FSZGVmztwje4htwcwQyv) | [DUDE, MY DUDE](https://open.spotify.com/artist/4v7JZCmpK8HUCeqadGBeuF) | [Bike Ride](https://open.spotify.com/album/1nDQaNNs7tCs3fZHiZU2GE) | 2:56 | 2021-11-19 | 2022-04-19 |
 | [biking to your house](https://open.spotify.com/track/1RgONUxcu6VC4ukbhgS6Nx) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [biking to your house](https://open.spotify.com/album/3hXJwZ60kLymEBGkWedUOO) | 3:42 | 2022-08-26 | 2022-11-12 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-30 | 2023-03-11 |

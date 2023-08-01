@@ -2,7 +2,7 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> DISKOTEK DISKOTEKA!!
+> TRUCKER MOTHERF\*CKER!!
 
 718 songs - 1 day 7 hr 4 min
 

@@ -4,7 +4,7 @@
 
 > 經得起時間考驗嘅歌曲，無論新版、舊歌一樣好聽！
 
-95 songs - 6 hr 19 min
+96 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [陪著你走 \- 劇集 "不懂撒嬌的女人" 插曲](https://open.spotify.com/track/6ZowYBoRWQaS7bPmmDuWpS) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [Lonely](https://open.spotify.com/album/7jtCtoHovPWMOmzpTNNvVO) | 3:32 | 2023-02-02 |  |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2022-03-10 | 2023-02-03 |
 | [難道喜歡處女座 \- J1M3 Remix](https://open.spotify.com/track/0ZWpQpsBL0aPRvSpxCPpnH) | [梁釗峰](https://open.spotify.com/artist/28ZDaobarpiyxFtfg11sS8), [J1M3](https://open.spotify.com/artist/4MKAuJc5O5O9en6ZZO5R5v) | [難道喜歡處女座 \(J1M3 Remix\)](https://open.spotify.com/album/1BI2KlhZY5Ba9hG68Syuj4) | 2:22 | 2023-02-02 |  |
-| [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2023-02-02 |  |
+| [青春頌](https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD) | [Terence Siufay 小肥](https://open.spotify.com/artist/14wCkmaUSQPkMjqo0MRhRv), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌](https://open.spotify.com/album/5C5s445G0OEd3OiRki54In) | 4:07 | 2023-02-02 | 2023-08-01 |
+| [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/track/3SFgidWdBgZNLcjy8ymzH0) | [小肥](https://open.spotify.com/artist/1IEuhKA77qmOfPSgrCaFCs), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [青春頌 \(小肥 Modern Classic 2010\-2020\)](https://open.spotify.com/album/3lic9Btq2yShkvJfC7YnvE) | 4:07 | 2023-03-16 |  |
 | [飛女正傳](https://open.spotify.com/track/5sj0UfCx4Wjs0epsmL45ZQ) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [金牌醇音樂](https://open.spotify.com/album/6jPQJnhNyqO49dcyJGBHcR) | 4:16 | 2023-02-02 |  |
 | [馬路天使](https://open.spotify.com/track/2qZx8ZAB4E24KX4bXXo86e) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [達明一代](https://open.spotify.com/album/512ilWYaatApFMRpBoohXl) | 3:31 | 2023-02-02 |  |
 | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/track/1Wste23dWh4oBK7MDV60EQ) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [黑暗中漫舞 \(音樂永續作品\)](https://open.spotify.com/album/7MA3Eu4JGjc9Ho1vee5xvg) | 4:01 | 2023-02-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Emma Hoet
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,732 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,863 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Le Summerlove](https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Le Summerlove](https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY) | 3:38 |
 | 50 | [Isn't It Something](https://open.spotify.com/track/02U7b1hwHNfU05Bsq7lvWD) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Isn't It Something](https://open.spotify.com/album/0xZww13tw6W4EkciFqMNrb) | 2:24 |
 
-Snapshot ID: `MCw4NTgwZjlmNmNmYjYxNGY5OTI5OGNkMzZjYTUzN2RmZTEyNTM2ZWZm`
+Snapshot ID: `MCxhNGEwMzJiNjg5MTc2YTZmODhiYTAwNWNiOWY4ZmUwYjk5ZWRjY2I3`

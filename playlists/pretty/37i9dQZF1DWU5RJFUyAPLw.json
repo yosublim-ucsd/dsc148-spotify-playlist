@@ -1,12 +1,12 @@
 {
   "description": "Island life vibes \u2728 Relajados y disfrutando la vida con musiquita linda de fondo.",
-  "num_followers": 8249,
+  "num_followers": 8351,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWM1ZTYzZThiZjA3ZmU5Njg5MWE4YzM0YTQ0ODhkYWRjMWU5ZDMy",
+  "snapshot_id": "MCw3NDA2YmQ3YzhmMmE2NGRmZTQ4M2RlMWU4ZjMwZTAxYzJhYWU3OGRi",
   "tracks": [
     {
       "added_at": "2023-07-28 05:29:51",
@@ -307,30 +307,6 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
-        "name": "Siento por Ciento",
-        "url": "https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Sebastian Jantos",
-          "url": "https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 174381,
-      "name": "Siento por Ciento",
-      "url": "https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 196614,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Siento por Ciento",
+        "url": "https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Sebastian Jantos",
+          "url": "https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 174381,
+      "name": "Siento por Ciento",
+      "url": "https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
         "name": "Todo contigo",
         "url": "https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt"
       },
@@ -631,6 +647,58 @@
       "duration_ms": 199636,
       "name": "Todo contigo",
       "url": "https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Curita",
+        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 206065,
+      "name": "Curita",
+      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Triste Pero Fresh",
+        "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Bolerito Sad",
+      "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 230076,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -659,74 +727,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
-        "name": "Cuando Te Encuentre",
-        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 176056,
-      "name": "Cuando Te Encuentre",
-      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
-        "name": "Triste Pero Fresh",
-        "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Bolerito Sad",
-      "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
-        "name": "Curita",
-        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 206065,
-      "name": "Curita",
-      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 230076,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
-        "name": "Camino al Sol",
-        "url": "https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Jugar a Vivir",
-      "url": "https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
         "name": "Anakena",
         "url": "https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 212133,
       "name": "Guayaba",
       "url": "https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Camino al Sol",
+        "url": "https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Jugar a Vivir",
+      "url": "https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
         "name": "Casi Algo",
         "url": "https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192913,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
         "name": "Despierta",
         "url": "https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 228162,
       "name": "Quiero Quedarme",
       "url": "https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
-        "name": "Quiero Enamorarte",
-        "url": "https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA"
-      },
-      "artists": [
-        {
-          "name": "Grecia Vallejo",
-          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Quiero Enamorarte",
-      "url": "https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 187666,
       "name": "tensi\u00f3n",
       "url": "https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Quiero Enamorarte",
+        "url": "https://open.spotify.com/album/0szu8Z1zY73sybd8CCyZdA"
+      },
+      "artists": [
+        {
+          "name": "Grecia Vallejo",
+          "url": "https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Quiero Enamorarte",
+      "url": "https://open.spotify.com/track/1piCERW239XDrsdsyXxXwd"
     },
     {
       "added_at": "2023-07-28 05:29:51",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-07-28 05:29:51",
       "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
-    },
-    {
-      "added_at": "2023-07-28 05:29:51",
-      "album": {
         "name": "Instantes y Aullidos",
         "url": "https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 300114,
       "name": "Instantes y Aullidos",
       "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
+    },
+    {
+      "added_at": "2023-07-28 05:29:51",
+      "album": {
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-07-28 05:29:51",

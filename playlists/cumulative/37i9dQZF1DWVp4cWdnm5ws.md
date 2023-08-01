@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-140 songs - 8 hr 49 min
+141 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [If](https://open.spotify.com/track/4Ji644TkVvAvuUbNYkmuMv) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [If](https://open.spotify.com/album/6venqEQk0VxnehajThSHrI) | 2:58 | 2023-04-13 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-09-01 | 2022-12-01 |
 | [Isa lang](https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Isa lang](https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF) | 4:29 | 2022-03-24 | 2023-04-14 |
+| [It's You](https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [It's You](https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo) | 2:27 | 2023-07-31 |  |
 | [Iyong Iyo](https://open.spotify.com/track/6RUEFRLol05iSCzQaCHNK5) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Iyong Iyo](https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR) | 3:22 | 2021-11-25 | 2022-03-25 |
 | [Kalimutan](https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Kalimutan](https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D) | 3:29 | 2022-08-25 | 2022-12-01 |
 | [kasmala](https://open.spotify.com/track/2BvybpTlqNdukJsQ6zKkmP) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kasmala](https://open.spotify.com/album/37PekLDyjr1AzDfJJaXwtR) | 3:01 | 2021-11-25 | 2022-03-25 |

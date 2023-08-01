@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-268 songs - 15 hr 16 min
+269 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
 | [Counting Stars](https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Counting Stars](https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw) | 3:38 | 2021-07-16 |  |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-07-16 |  |
-| [Crimen](https://open.spotify.com/track/0HXxqH6hMfDOgBiOb1gTsg) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/4fMwFoUAar0DKkWvjtYQeG) | 2:32 | 2021-07-16 |  |
+| [Crimen](https://open.spotify.com/track/0HXxqH6hMfDOgBiOb1gTsg) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/4fMwFoUAar0DKkWvjtYQeG) | 2:32 | 2021-07-16 | 2023-08-01 |
 | [Crimen](https://open.spotify.com/track/2BroLAFj3ALbcXmImu2ExP) | [I.M.H.O.](https://open.spotify.com/artist/0tEIoRVvUKu8xPu6fZQJZ6) | [Crimen](https://open.spotify.com/album/5aRa6XrojJ3vO65iHMT7dc) | 2:32 | 2021-07-16 | 2022-07-29 |
 | [Dancing With A Stranger](https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Dancing With A Stranger](https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd) | 3:08 | 2021-07-16 |  |
 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 | 2021-07-16 |  |
@@ -218,6 +218,7 @@
 | [Somos](https://open.spotify.com/track/48MdFin9PVpumCOlHsO0xZ) | [Garam Masala](https://open.spotify.com/artist/3JlX9Dlq4LVxmGvELFbqr3) | [Somos](https://open.spotify.com/album/0iUo9bQTSCSZapCcLS3rqF) | 3:43 | 2021-07-16 | 2022-07-29 |
 | [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2021-07-16 |  |
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2021-07-16 | 2023-07-29 |
+| [Sorry](https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U) | 2:45 | 2023-06-09 |  |
 | [South of the Border \(feat\. Camila Cabello\) \- Acoustic](https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [South of the Border \(feat\. Camila Cabello\) \[Acoustic\]](https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT) | 3:14 | 2021-07-16 |  |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2021-07-16 |  |
 | [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 | 2023-01-03 | 2023-04-20 |

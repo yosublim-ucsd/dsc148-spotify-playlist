@@ -3488,7 +3488,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 230292,
       "name": "Raataan Lambiyan (From \"Shershaah\")",
       "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 282391,
       "name": "Saanjh",
       "url": "https://open.spotify.com/track/5nrhIgDiO6TppbdLxUDqHs"
@@ -4223,6 +4223,28 @@
     },
     {
       "album": {
+        "name": "Tera Laptop Tera Wallet",
+        "url": "https://open.spotify.com/album/2R5M0zOp9fXCG5oYHjMiwZ"
+      },
+      "artists": [
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Tera Laptop Tera Wallet",
+      "url": "https://open.spotify.com/track/1pciBE3aSbJMt4784IHtf6"
+    },
+    {
+      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -4532,6 +4554,28 @@
       "duration_ms": 234091,
       "name": "Tumse Pyaar Karke",
       "url": "https://open.spotify.com/track/4Iyx3XvZwM0hYsLmeyjva3"
+    },
+    {
+      "album": {
+        "name": "Udh Di Phiran",
+        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Udh Di Phiran",
+      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
     },
     {
       "album": {

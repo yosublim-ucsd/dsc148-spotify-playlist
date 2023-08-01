@@ -4,7 +4,7 @@
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-164 songs - 10 hr 36 min
+165 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Quiet Waves](https://open.spotify.com/track/0HmGUT1lfiHEOMyW6HGsjJ) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Quiet Waves](https://open.spotify.com/album/6TRArfAl3OtpMg31atfjxT) | 3:24 | 2022-11-30 | 2023-03-01 |
 | [Rain](https://open.spotify.com/track/6yEdyZYuw1XfX2wVpcjhvk) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 2:45 | 2022-11-30 | 2023-03-01 |
 | [Rainbow](https://open.spotify.com/track/0C0p6ndJk5S6LdQyyqzfdJ) | [Mina Kubota](https://open.spotify.com/artist/4z1dMCmOJ6VHm8P7EP5qWf) | [ARIA\~ピアノ・コレクション\~ スタジオーネ\-季節\-](https://open.spotify.com/album/6AOubvJvCg6wAxeb1Glwhx) | 3:05 | 2022-11-30 | 2023-03-01 |
-| [Rainbow Rhythm: No\. 19, Summer Night Habanera](https://open.spotify.com/track/4zcKa37aS1Zz4899qtXwvj) | [平吉毅州](https://open.spotify.com/artist/0oKTZjmfkfpfyhsS1OC89B), [佐久間あすか](https://open.spotify.com/artist/61Tx3ZxjR9CAYzG8geNJtl) | [夏 Summer](https://open.spotify.com/album/20Qz4HInbnpnGX9TLix8Vm) | 3:19 | 2023-06-09 |  |
+| [Rainbow Rhythm: No\. 19, Summer Night Habanera](https://open.spotify.com/track/6H3JTn9qJi7mwX4BjqUXeG) | [Takekuni Hirayoshi](https://open.spotify.com/artist/5bgIwYj598CDQ82o6M7KJa), [Asuka Sakuma](https://open.spotify.com/artist/5Sa1kqomWS9VTagD3Tbq3B) | [Summer](https://open.spotify.com/album/5cjMzzhgSH3CkeSE9aazF5) | 3:19 | 2023-06-09 |  |
+| [Rainbow Rhythm: No\. 19, Summer Night Habanera](https://open.spotify.com/track/4zcKa37aS1Zz4899qtXwvj) | [平吉毅州](https://open.spotify.com/artist/0oKTZjmfkfpfyhsS1OC89B), [佐久間あすか](https://open.spotify.com/artist/61Tx3ZxjR9CAYzG8geNJtl) | [夏 Summer](https://open.spotify.com/album/20Qz4HInbnpnGX9TLix8Vm) | 3:19 | 2023-06-09 | 2023-08-01 |
 | [Raven](https://open.spotify.com/track/5UiH9u0WhHejEqDHZMsUbR) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Raven](https://open.spotify.com/album/6jO2BuANtYaSHJLMHuC2mT) | 2:54 | 2023-06-09 |  |
 | [reflection](https://open.spotify.com/track/3y3VLtIZsmjb5bTDrfZE5C) | [Masafumi Komatsu](https://open.spotify.com/artist/6EeYq4J3QdKusSaCarhC80) | [Life](https://open.spotify.com/album/2xgE7xh8Q9mMLYWaOuRgn2) | 5:18 | 2022-09-21 | 2022-12-01 |
 | [Reflection I](https://open.spotify.com/track/7vlHH3BTCIWRLQCeMEMrai) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reflections](https://open.spotify.com/album/5iRo9c8eR9NQdCG0HbR8pQ) | 2:14 | 2023-02-28 | 2023-06-10 |

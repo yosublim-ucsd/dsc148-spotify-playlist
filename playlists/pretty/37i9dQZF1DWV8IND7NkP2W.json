@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 428848,
+  "num_followers": 428867,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODIzYTIzNDRhYTQ0MzEzNjIwYzY3MzVmZThkN2FiY2JhMTg5ZmM2",
+  "snapshot_id": "MCw3MzNlYWFiOWQ2NzA1MjZiYzQ1YjBjY2FhMGE3YjlmMDkxNzNlNzYz",
   "tracks": [
     {
       "added_at": "2023-07-27 15:00:00",
@@ -47,18 +47,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "mugen",
-        "url": "https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO"
+        "name": "chill oil",
+        "url": "https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV"
       },
       "artists": [
         {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "Jr.TEA",
+          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
         }
       ],
-      "duration_ms": 168000,
-      "name": "mugen",
-      "url": "https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9"
+      "duration_ms": 155454,
+      "name": "chill oil",
+      "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -159,22 +163,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "chill oil",
-        "url": "https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV"
+        "name": "mugen",
+        "url": "https://open.spotify.com/album/1UnAHFGB608eZGpfHeGccO"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "Jr.TEA",
-          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
         }
       ],
-      "duration_ms": 155454,
-      "name": "chill oil",
-      "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
+      "duration_ms": 168000,
+      "name": "mugen",
+      "url": "https://open.spotify.com/track/7DrAmgM2KO3IglljmT7IC9"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "On Golden Pond",
-        "url": "https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw"
-      },
-      "artists": [
-        {
-          "name": "Zen Miyako",
-          "url": "https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "On Golden Pond",
-      "url": "https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "Napping",
         "url": "https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 115519,
       "name": "Napping",
       "url": "https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "On Golden Pond",
+        "url": "https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw"
+      },
+      "artists": [
+        {
+          "name": "Zen Miyako",
+          "url": "https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "On Golden Pond",
+      "url": "https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -403,18 +403,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "PROUD",
-        "url": "https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
       "artists": [
         {
-          "name": "gummy3000",
-          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
         }
       ],
-      "duration_ms": 118066,
-      "name": "PROUD",
-      "url": "https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs"
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -435,22 +439,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
+        "name": "PROUD",
+        "url": "https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj"
       },
       "artists": [
         {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
+      "duration_ms": 118066,
+      "name": "PROUD",
+      "url": "https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
+        "name": "ginza",
+        "url": "https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt"
       },
       "artists": [
         {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
         }
       ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
+      "duration_ms": 156000,
+      "name": "ginza",
+      "url": "https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ginza",
-        "url": "https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt"
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
       "artists": [
         {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         }
       ],
-      "duration_ms": 156000,
-      "name": "ginza",
-      "url": "https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD"
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
+        "name": "Origami Skizzen",
+        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
+      },
+      "artists": [
+        {
+          "name": "Midan",
+          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
+        },
+        {
+          "name": "AHNAMUSICA",
+          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
+        }
+      ],
+      "duration_ms": 152156,
+      "name": "Jazz Neko",
+      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/4MkRP9wJ457pLUwL4RIEo4"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 163875,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3KW9TEb7G6BZu3XWVR8caI"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "Origami Skizzen",
-        "url": "https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF"
-      },
-      "artists": [
-        {
-          "name": "Midan",
-          "url": "https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo"
-        },
-        {
-          "name": "AHNAMUSICA",
-          "url": "https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h"
-        }
-      ],
-      "duration_ms": 152156,
-      "name": "Jazz Neko",
-      "url": "https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "ode to N",
-        "url": "https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 134789,
-      "name": "ode to N",
-      "url": "https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "Cross the Bridge",
         "url": "https://open.spotify.com/album/0DHpTUlxOalqxiSoA6kbeH"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 138913,
       "name": "Cross the Bridge",
       "url": "https://open.spotify.com/track/51SfpLbD4dbPvNg4dGRRfs"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "ode to N",
+        "url": "https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 134789,
+      "name": "ode to N",
+      "url": "https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
         "name": "A Dream About Ice Skating",
         "url": "https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 96000,
       "name": "A Dream About Ice Skating",
       "url": "https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Legend (Instrumental)",
-        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Legend - Instrumental",
-      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "glow",
         "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
+        "name": "Legend (Instrumental)",
+        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Legend - Instrumental",
+      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
         "name": "In A Dream",
         "url": "https://open.spotify.com/album/2K0RE4gN9kZzlzrrQZZo4y"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 159370,
       "name": "In A Dream",
       "url": "https://open.spotify.com/track/6pURCbgUBnUcthAErdm0aM"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1431,26 +1447,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Little Bit Blues",
-        "url": "https://open.spotify.com/album/75VH43yE690hoaEvImFv5T"
-      },
-      "artists": [
-        {
-          "name": "TOSHIKI HAYASHI(%C)",
-          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
-        },
-        {
-          "name": "Linn Mori",
-          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "Slow Jam",
-      "url": "https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "work_1",
         "url": "https://open.spotify.com/album/6rtxQdAjGjKoBgVuzGZ4xs"
       },
@@ -1467,6 +1463,26 @@
       "duration_ms": 76549,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/5SUZg6W98l9ycWumNLKue3"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "Little Bit Blues",
+        "url": "https://open.spotify.com/album/75VH43yE690hoaEvImFv5T"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Linn Mori",
+          "url": "https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Slow Jam",
+      "url": "https://open.spotify.com/track/4Vobs6itOWf1ylmTfu1IMd"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Moon Prairie",
-        "url": "https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a"
-      },
-      "artists": [
-        {
-          "name": "Shimo",
-          "url": "https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum"
-        }
-      ],
-      "duration_ms": 91964,
-      "name": "Moon Prairie",
-      "url": "https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "afternoon shower",
         "url": "https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1"
       },
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+        "name": "Moon Prairie",
+        "url": "https://open.spotify.com/album/11eDwqkFL0KgMM3GMvc46a"
       },
       "artists": [
         {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+          "name": "Shimo",
+          "url": "https://open.spotify.com/artist/54yxEyTmJQaDLfTcICtvum"
         }
       ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+      "duration_ms": 91964,
+      "name": "Moon Prairie",
+      "url": "https://open.spotify.com/track/4kMctvfN5UZ3Krn8MZWIx0"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "michi",
-        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 158197,
-      "name": "michi",
-      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "Lamp2",
         "url": "https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi"
       },
@@ -1651,6 +1635,54 @@
       "duration_ms": 198259,
       "name": "Lamp2",
       "url": "https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "Gift of love",
+        "url": "https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD"
+      },
+      "artists": [
+        {
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+        }
+      ],
+      "duration_ms": 126826,
+      "name": "Gift of love",
+      "url": "https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "michi",
+        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "michi",
+      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1675,22 +1707,6 @@
       "duration_ms": 162857,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1743,22 +1759,6 @@
       "duration_ms": 191860,
       "name": "Cold Concrete",
       "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "Gift of love",
-        "url": "https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 126826,
-      "name": "Gift of love",
-      "url": "https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

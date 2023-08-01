@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 123927,
+  "num_followers": 123965,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWFjNGFhZTRmZmRjMjExMjViZDY2ZjA4OGFlZjVmZmFkZTRjODRh",
+  "snapshot_id": "MCw0MDBkMGQ4MjVjN2JhZjVjMTM2MDEwOGM4NWE1OTRiMTFiZDhhZTZm",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -111,38 +111,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Organs In Orbit",
-        "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
-      },
-      "artists": [
-        {
-          "name": "Sir Julian Gould",
-          "url": "https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "A Man And A Woman - Remastered",
-      "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
         "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
       },
@@ -155,6 +123,22 @@
       "duration_ms": 148133,
       "name": "Alika - Digitally Remastered 1996",
       "url": "https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Organs In Orbit",
+        "url": "https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU"
+      },
+      "artists": [
+        {
+          "name": "Sir Julian Gould",
+          "url": "https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "A Man And A Woman - Remastered",
+      "url": "https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -203,6 +187,22 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "The Home Recordings Vol. 1",
+        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
+      },
+      "artists": [
+        {
+          "name": "George de Fretes and his Royal Hawaiian Minstrels",
+          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Song Of Old Hawaii",
+      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Hana Hou! Vol. 1",
         "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Home Recordings Vol. 1",
-        "url": "https://open.spotify.com/album/4YvK4WVcx4sTClhZRvmST4"
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
       "artists": [
         {
-          "name": "George de Fretes and his Royal Hawaiian Minstrels",
-          "url": "https://open.spotify.com/artist/5wTJVqMDk8Cn9UccDs755M"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Song Of Old Hawaii",
-      "url": "https://open.spotify.com/track/5tToPiK5y6qwqTSZNUIds7"
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -367,22 +383,6 @@
       "duration_ms": 137706,
       "name": "So Nice (Samba De Verao) - Remastered",
       "url": "https://open.spotify.com/track/3xkNsybtI1tNUNhVyI99yO"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
-      "added_at": "2022-03-30 01:46:18",
-      "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 140721,
-      "name": "Palmeras",
-      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Voodoo!",
@@ -447,6 +431,22 @@
       "duration_ms": 165440,
       "name": "Enchantment",
       "url": "https://open.spotify.com/track/4RnOkSofv95IZMcuueEovA"
+    },
+    {
+      "added_at": "2022-03-30 01:46:18",
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 140721,
+      "name": "Palmeras",
+      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -487,18 +487,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+        "name": "The Dance Beat of Xavier Cugat",
+        "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Xavier Cugat",
+          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+      "duration_ms": 205893,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -519,18 +519,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Dance Beat of Xavier Cugat",
-        "url": "https://open.spotify.com/album/3fGARHzOLWrwfnyZSxt0L5"
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
       },
       "artists": [
         {
-          "name": "Xavier Cugat",
-          "url": "https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/7jvL2XQbyF5PzYu6X3X8da"
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Call of the Islands",
         "url": "https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 184718,
       "name": "Colors of Hawaiki",
       "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/0dCWH5s6UEeqsSGSVsdvCS"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Chill Out Hawaiian Music",
-        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
-      },
-      "artists": [
-        {
-          "name": "The Surfmen",
-          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
-        }
-      ],
-      "duration_ms": 103903,
-      "name": "Hawaiian Wedding Song",
-      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Ultra-Lounge/Mondo Exotica: Volume One",
@@ -863,6 +847,22 @@
       "duration_ms": 196226,
       "name": "Hana Maui - Digitally Remastered 1995",
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Chill Out Hawaiian Music",
+        "url": "https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ"
+      },
+      "artists": [
+        {
+          "name": "The Surfmen",
+          "url": "https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV"
+        }
+      ],
+      "duration_ms": 103903,
+      "name": "Hawaiian Wedding Song",
+      "url": "https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Infinity in Sound, Vol. 2",
-        "url": "https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Bai\u0301a",
-      "url": "https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "Eden's Island (Remastered)",
         "url": "https://open.spotify.com/album/1zEXjYvmffHT5H3YMnR88Q"
       },
@@ -1091,6 +1075,38 @@
       "duration_ms": 167264,
       "name": "Baia",
       "url": "https://open.spotify.com/track/1INMAZPPXvgdWjKuHqDU8P"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Infinity in Sound, Vol. 2",
+        "url": "https://open.spotify.com/album/5NYl6kCABFF9snRkzlamzc"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Bai\u0301a",
+      "url": "https://open.spotify.com/track/2132EtRYeOiZFhWitl7QHx"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
+        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 201263,
+      "name": "Xtabay - Remastered",
+      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1123,22 +1139,6 @@
       "duration_ms": 155333,
       "name": "Haleakala Hula",
       "url": "https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "The Best of Yma Sumac (All Tracks Remastered 2014)",
-        "url": "https://open.spotify.com/album/7rwOSPANcz14uwehdWCwsF"
-      },
-      "artists": [
-        {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
-        }
-      ],
-      "duration_ms": 201263,
-      "name": "Xtabay - Remastered",
-      "url": "https://open.spotify.com/track/2Zfjoj9ywSckX4682KRbWj"
     },
     {
       "added_at": "2021-01-20 03:50:53",

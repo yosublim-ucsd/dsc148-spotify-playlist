@@ -1,12 +1,12 @@
 {
   "description": "Great songs for your birthday! Let's celebrate! ",
-  "num_followers": 224027,
+  "num_followers": 224061,
   "original_name": "Happy Birthday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWNjMGZkZmNjMDc2ZjBmNzk4MWI2YzFkMThiNzJjZmQxNzhhMjNk",
+  "snapshot_id": "MCw0YTg5NmVlNDNhZTMwMWNhMGIyN2ZmODM3N2Y0OTg3Y2IyNGViMjA2",
   "tracks": [
     {
       "added_at": "2023-01-03 15:03:02",
@@ -535,6 +535,26 @@
       "duration_ms": 195426,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5L0AqUOKJmzDG3OAU5KZbE"
+    },
+    {
+      "added_at": "2023-01-03 15:03:02",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226198,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
       "added_at": "2023-01-03 15:03:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Offset & Cardi B\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,399 likes - 102 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,452 likes - 102 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 36 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 |
 | 37 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 |
 | 38 | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY) | 4:32 |
-| 39 | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/track/0hdRLYoqYwzw2sTlRem2EF) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [No Fake Love \(Gangsta Grillz Version\)](https://open.spotify.com/album/5zqaF2Nx9d5RbT16jkB4v9) | 2:26 |
+| 39 | [No Fake Love](https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV) | 2:26 |
 | 40 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 |
 | 41 | [Married with Millions](https://open.spotify.com/track/4D351lWRiY19nYceG5g5ZZ) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Married with Millions](https://open.spotify.com/album/1axgP2oTkXQDzQkwxx6dQ1) | 3:19 |
 | 42 | [Drill Fr 6 \- S.M.B](https://open.spotify.com/track/0UjjRIuiLhAiDXPtIu0tIo) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [LEVELSANTANA](https://open.spotify.com/artist/4KwWARbWitQT4aqpS23w9O) | [Drill Fr 6 \(S.M.B\)](https://open.spotify.com/album/19TPBKSQ0wdhNNaIT2cMyP) | 2:32 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 101 | [X](https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [\[ Rorschach \] Part 2](https://open.spotify.com/album/1NC8ddXkrZkHcmiuxT1sZX) | 4:00 |
 | 102 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 |
 
-Snapshot ID: `MCxlMGMzNDE0YWU5YzllMWY3NGZjODVkYzI4ODU5MWRiMDk0MjRiMjIx`
+Snapshot ID: `MCwzYzk0ZmYwZWIzNWU4ZTQzMTJiOWZjZDI1MDY2MGZkOTg4YjU1NGJh`

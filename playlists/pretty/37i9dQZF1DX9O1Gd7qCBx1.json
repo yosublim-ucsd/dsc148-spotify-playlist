@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 187747,
+  "num_followers": 187774,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWIzOTk0NTRlNGU5YWRjYThjMmIxMmYzMmVhYWRmNzU2YWVjOTZh",
+  "snapshot_id": "MCw4ZWE5Njc2MjE1MTJhZmUwMDBmYjg1NzE1NTQ3MmUzNmQ3MjVjMzZl",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -515,38 +515,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "El Ritmo De Chico Che Y La Crisis",
-        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 172643,
-      "name": "Uy que miedo",
-      "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 256058,
-      "name": "La Muerte",
-      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
@@ -563,18 +531,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+        "name": "El Ritmo De Chico Che Y La Crisis",
+        "url": "https://open.spotify.com/album/6oaUkOuzi3a61cT7hPnKKU"
       },
       "artists": [
         {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
         }
       ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
+      "duration_ms": 172643,
+      "name": "Uy que miedo",
+      "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -595,6 +563,38 @@
       "duration_ms": 193826,
       "name": "Te Vas \u00c1ngel M\u00edo - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/3a7sMVCjNMQ5B1cE3XXub8"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 256058,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Romance del Enamorado y la Muerte",
         "url": "https://open.spotify.com/album/1KkQO5xOhLvog2bR7hk2Js"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 264533,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Quema Quema Quema",
-        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 232386,
-      "name": "Si Te Mueres Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "A los 4 Vientos (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/6qSYt56lDGLyHMdWZUmHg7"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 225384,
       "name": "Mi Funeral",
       "url": "https://open.spotify.com/track/5JrNQsQ36HN25a6seNV9ye"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "God Save The Queers EP",
-        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
-      },
-      "artists": [
-        {
-          "name": "Kumbia Queers",
-          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Kumbia Zombie",
-      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Edge of the Sun (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QsOzuucw0uoH3cuLA0RLv"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 183200,
       "name": "Coyoac\u00e1n",
       "url": "https://open.spotify.com/track/58VDkDKmw5tLvS2HcxMAxw"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "God Save The Queers EP",
+        "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
+      },
+      "artists": [
+        {
+          "name": "Kumbia Queers",
+          "url": "https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Kumbia Zombie",
+      "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Mexihkateokwikameh, Sacred Songs Of The Aztecs",
         "url": "https://open.spotify.com/album/2AlrMT4U2E0P5MkeCz8oMt"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 131039,
       "name": "Vengan Abuelitos",
       "url": "https://open.spotify.com/track/7tIj0Jv4PUgfdWUSCfzfgh"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "El Enterrador",
+      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "La huesuda",
         "url": "https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 190106,
       "name": "La Reyna Del Inframundo",
       "url": "https://open.spotify.com/track/6JjEAA2fJVlQABflpkYzA1"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
-      },
-      "artists": [
-        {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "El Enterrador",
-      "url": "https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

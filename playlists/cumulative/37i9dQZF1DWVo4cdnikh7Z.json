@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 248892,
       "name": "Agila Ulaga",
       "url": "https://open.spotify.com/track/57cbDygPdFHaImAzfozHrz"
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 208099,
       "name": "Bangaarupetalona (From \"Mahaveerudu\")",
       "url": "https://open.spotify.com/track/7AfS3sw4qaSBvobpdPYalt"
@@ -4405,6 +4405,24 @@
     },
     {
       "album": {
+        "name": "DD Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
+      },
+      "artists": [
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230189,
+      "name": "French Kuthu",
+      "url": "https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj"
+    },
+    {
+      "album": {
         "name": "French Kuthu (From \"DD Returns\")",
         "url": "https://open.spotify.com/album/1rEDOGt8llu3tVPQBQLF4i"
       },
@@ -4454,6 +4472,28 @@
       "duration_ms": 201194,
       "name": "Gnazhal Gnazhal Malare (Tamil)",
       "url": "https://open.spotify.com/track/7zs4XW6KEy8Hvfcl2YyItE"
+    },
+    {
+      "album": {
+        "name": "DD Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
+      },
+      "artists": [
+        {
+          "name": "Gana Francis",
+          "url": "https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150761,
+      "name": "Goinda Goinda",
+      "url": "https://open.spotify.com/track/1xDX4EC5qG3uSj1FVdnkq9"
     },
     {
       "album": {
@@ -4791,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "Hi Nanna Glimpse Music (TAMIL)",
+        "url": "https://open.spotify.com/album/6PbP0IXgQcRYckQvAhfrNS"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80362,
+      "name": "Hi Nanna Glimpse Music (TAMIL)",
+      "url": "https://open.spotify.com/track/4tVQqB4xnIueaZPrb6SvZh"
+    },
+    {
+      "album": {
         "name": "His Name is John (From \"Dhruva Natchathiram\")",
         "url": "https://open.spotify.com/album/2z2azuxHIVQ0InUluVQFz5"
       },
@@ -4875,6 +4933,32 @@
     },
     {
       "album": {
+        "name": "DD Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
+      },
+      "artists": [
+        {
+          "name": "T. M. S. Selva Kumar",
+          "url": "https://open.spotify.com/artist/4qKUodfmLy0o7XGoL3Jj4I"
+        },
+        {
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "I'm So Prabalam",
+      "url": "https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA"
+    },
+    {
+      "album": {
         "name": "I'm So Prabalam (From \"Dd Returns\")",
         "url": "https://open.spotify.com/album/4g5lRRjaSfFserdFBnS1t8"
       },
@@ -4902,7 +4986,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 166956,
       "name": "I'm So Prabalam - From \"Dd Returns\"",
       "url": "https://open.spotify.com/track/7nkzm2D7knSeHFnGlszF8x"
@@ -7396,7 +7480,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 253526,
       "name": "Kodayin Vasalil - From \"Love\"",
       "url": "https://open.spotify.com/track/546BL8o3SZakWwS39bsVag"
@@ -7992,6 +8076,28 @@
       "duration_ms": 257439,
       "name": "Little Little",
       "url": "https://open.spotify.com/track/6Crs0KY6mHL9e1YEKNYUAl"
+    },
+    {
+      "album": {
+        "name": "Lockdown Diarie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yr44Nhdsi1upkUPqPgFh6"
+      },
+      "artists": [
+        {
+          "name": "Suresh Peters",
+          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+        },
+        {
+          "name": "Jolly Bastian",
+          "url": "https://open.spotify.com/artist/0ROMeWcMBAKYW9Fpp9NVep"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/1e0zLkPEItTQyRUk3Q0p6N"
     },
     {
       "album": {
@@ -10336,7 +10442,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 215489,
       "name": "Namma Satham (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1DUaZdBqnc18ja3DY6h0dS"
@@ -11280,7 +11386,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 315000,
       "name": "Onnoda Nadandhaa (From \"Viduthalai\")",
       "url": "https://open.spotify.com/track/1go9gWdOHiQIrLqTrAklti"
@@ -16234,7 +16340,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 252000,
       "name": "Ticky Ticky Taa",
       "url": "https://open.spotify.com/track/0l7ZhnZEgM3I0EQSBstV0a"
@@ -16628,7 +16734,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 234300,
       "name": "UN KANN AZHAGA (FROM \"YEEVAAL\")",
       "url": "https://open.spotify.com/track/0pw6OnQfgE2ozI80KwLjUW"
@@ -17707,6 +17813,28 @@
     },
     {
       "album": {
+        "name": "Vandha Edam (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1sFX6xAasGOFbjJIKpbrtC"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Vandha Edam (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q"
+    },
+    {
+      "album": {
         "name": "Vandhaale Vandhaale (From \"Irumban\") - Single",
         "url": "https://open.spotify.com/album/4tOK9xDdBKGgufdDi34kkY"
       },
@@ -17804,7 +17932,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 208099,
       "name": "Vannarapettayila (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/19pRrxOQCRg8j0uQxe2d0V"
@@ -18912,7 +19040,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 248554,
       "name": "Yengooru Kaathaayi - From \"Appatha\"",
       "url": "https://open.spotify.com/track/22DEp5HZWjTeZidPBvTNOF"

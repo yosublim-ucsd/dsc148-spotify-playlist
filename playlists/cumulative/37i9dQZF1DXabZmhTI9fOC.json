@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Dedication: The Finish",
+        "url": "https://open.spotify.com/album/2jwOfzG4WOA3y0BebW6uOb"
+      },
+      "artists": [
+        {
+          "name": "7kingZ",
+          "url": "https://open.spotify.com/artist/2lYNHrkuZrcJVgagIlyaTA"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "All Eyes On Us",
+      "url": "https://open.spotify.com/track/6cpYL48GLIJB00TLUhPIjR"
+    },
+    {
+      "album": {
         "name": "All of Me",
         "url": "https://open.spotify.com/album/593ZBEB7YbzmKOdJjaCbg9"
       },
@@ -1585,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -2404,7 +2440,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 184752,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1H0osKoTCeMscCQhjD0Mee"
@@ -3182,7 +3218,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 238620,
       "name": "I Take What I Want",
       "url": "https://open.spotify.com/track/2Q3hZl6kpZDvoMMsAfHnKd"
@@ -4887,6 +4923,24 @@
     },
     {
       "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186810,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc"
+    },
+    {
+      "album": {
         "name": "OK Not To Be OK",
         "url": "https://open.spotify.com/album/3wCtCJ8O6SlGBWYfzAlsb2"
       },
@@ -5330,7 +5384,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 190008,
       "name": "Run Wild",
       "url": "https://open.spotify.com/track/5cOG0SW6hwUYfenLpMMy5J"
@@ -7136,6 +7190,24 @@
       "duration_ms": 231217,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/6xKKlNfGjemkcoTCTpfq0C"
+    },
+    {
+      "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177841,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
     },
     {
       "album": {

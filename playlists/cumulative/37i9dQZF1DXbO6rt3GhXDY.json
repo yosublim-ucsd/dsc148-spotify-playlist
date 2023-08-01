@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "HUES.",
+        "url": "https://open.spotify.com/album/3BL9rMkgTK20yLu3zaeJGM"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211865,
+      "name": "AMBER",
+      "url": "https://open.spotify.com/track/3Gxu9gAd5rXsnSS0rUpRAs"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },

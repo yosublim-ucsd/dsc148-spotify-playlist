@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,590 likes - 86 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,779 likes - 86 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 85 | [Silly Walk](https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM) | [Nobodys Face](https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Silly Walk](https://open.spotify.com/album/6Xn6Y3yj1Q2z1LMApgvatr) | 3:21 |
 | 86 | [Maya Said](https://open.spotify.com/track/0wY785Vr2t5jLrg8KvKRYD) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Ghetto Carnival](https://open.spotify.com/album/2S0QSL0J60zQOKPoGg4dz5) | 4:17 |
 
-Snapshot ID: `MCw3YTUxYzI2ZWE5NjY4ZGI0MjBlOTBiYTFiYTE2N2NkYTU1ZjJhOTkx`
+Snapshot ID: `MCw0ZTllOWYzODQxNjNhMzljNTJjNDg2NDQ5NGEyYzZmNzAxNzE0OGQ0`

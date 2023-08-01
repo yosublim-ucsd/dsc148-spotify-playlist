@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Calvin Harris, Lil Tjay, Harry Styles &amp; more! Cover: Calvin Harris &amp; Sam Smith
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,678 likes - 30 songs - 1 hr 41 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,679 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

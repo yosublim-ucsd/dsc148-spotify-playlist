@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill",
+  "description": "The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma",
   "name": "Punjabi Pyar",
   "tracks": [
     {
@@ -7542,7 +7542,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 160046,
       "name": "Laung Laachi 2 (Title song from the movie 'Laung Laachi 2')",
       "url": "https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1"
@@ -14636,6 +14636,28 @@
       "duration_ms": 243946,
       "name": "Udd Gaya - From \"Lekh\"",
       "url": "https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw"
+    },
+    {
+      "album": {
+        "name": "Udh Di Phiran",
+        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Udh Di Phiran",
+      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-74 songs - 3 hr 38 min
+76 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [MoneyBag \(feat\. Emida\)](https://open.spotify.com/track/2UAYm3HBPNalktzCgWavda) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Emida](https://open.spotify.com/artist/5qRPvk1z9F31rWTmAN8tnL) | [MoneyBag \(feat\. Emida\)](https://open.spotify.com/album/3e5LragLBaOUUdACdtmxj2) | 4:20 | 2023-06-26 | 2023-07-21 |
 | [More Than A Stranger](https://open.spotify.com/track/7seOssIzCCzdbGdAfXJwE2) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [More Than A Stranger](https://open.spotify.com/album/3CtTMTP1NGNXVf6ZUBDAfa) | 2:22 | 2023-07-21 |  |
 | [MOVIN'](https://open.spotify.com/track/6n50RhUCJJq3Q3NAF11qyZ) | [Ricky West](https://open.spotify.com/artist/7oQmaTdhm1tysF3i4gJwog) | [MOVIN'](https://open.spotify.com/album/7vV3H0zMEEcT4kQOxwF708) | 3:12 | 2023-06-26 |  |
+| [NaNa Djon \(feat\. Victor Démé\)](https://open.spotify.com/track/3skLTalxT8tnSHC9qzKU9E) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [NaNa Djon \(feat\. Victor Démé\)](https://open.spotify.com/album/7KdQWUPPttUm3qza9X44AA) | 2:41 | 2023-07-31 |  |
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 |  |
 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 | 2023-07-21 | 2023-07-29 |
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-07-11 | 2023-07-15 |
@@ -56,6 +57,7 @@
 | [Party In Miami \- Patrick M Remix](https://open.spotify.com/track/4lJky5mHFjn4ruOEw7nUpH) | [Outgang](https://open.spotify.com/artist/6jod8FpuOsUlGbzfJmctD6), [Yanik Coen](https://open.spotify.com/artist/0MnQ8m1U8JT36ixxg2ObzN), [Eday](https://open.spotify.com/artist/1DajAF38R7F2KDAzv8ztSh), [Patrick M](https://open.spotify.com/artist/1RccHciK3Gx68Yj5mlMeRV) | [Party In Miami \(The Remixes\)](https://open.spotify.com/album/31Wg5Bhdr0xaLinxAjmjYj) | 3:10 | 2023-06-30 | 2023-07-15 |
 | [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-07-14 |  |
 | [Quick Highs](https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Quick Highs](https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf) | 3:14 | 2023-06-26 |  |
+| [RESTLESS](https://open.spotify.com/track/2RcQF00dQoxRabpapYaxrQ) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH) | [RESTLESS](https://open.spotify.com/album/1SYZV1VXKgMt3NB0ioHQXP) | 2:47 | 2023-07-31 |  |
 | [Rewind Reverse](https://open.spotify.com/track/7vkfildOmCojeBvfQ836Qi) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Rewind Reverse](https://open.spotify.com/album/61BkSaLZ89EJOzOtPkeeiE) | 4:07 | 2023-06-26 | 2023-07-22 |
 | [RUSH](https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [RUSH](https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4) | 2:43 | 2023-06-26 |  |
 | [Safari](https://open.spotify.com/track/25wmVH3ytIFnKBDSFUIdxu) | [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7) | [Safari](https://open.spotify.com/album/6vpMnQ5iOvdTH6oJqKo3aI) | 2:24 | 2023-07-13 |  |

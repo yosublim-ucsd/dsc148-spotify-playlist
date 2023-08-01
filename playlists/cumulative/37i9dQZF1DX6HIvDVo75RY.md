@@ -2,7 +2,7 @@
 
 ### [Spotify House at CMA Fest 2023](https://open.spotify.com/playlist/37i9dQZF1DX6HIvDVo75RY)
 
-> Coming to Nashville for CMA Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you!
+> Thanks to everyone who came out and enjoyed Spotify House at Ole Red during CMA Fest with us!
 
 233 songs - 12 hr 33 min
 

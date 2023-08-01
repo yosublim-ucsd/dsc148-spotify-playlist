@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,471 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,479 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Rip My Calendar](https://open.spotify.com/track/2iREiP77hQ4oR5eS3HpIMN) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Rip My Calendar](https://open.spotify.com/album/6Zpc6socD4ELy4hwiB6kac) | 2:30 |
 | 80 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
 
-Snapshot ID: `MCw2ZWE4NGJlYjMzYWQ5ZWM4NWY1MTIxYTI0ODM2Y2FiOGRiYmFjNmI3`
+Snapshot ID: `MCwyYmRiMmQzNzEwMTllMDk4OThiNmRmYWRlZTg5N2E4Y2VhYjkyOTBl`

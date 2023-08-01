@@ -4,7 +4,7 @@
 
 > New music from Travis Scott, Drake, Central Cee and Offset.
 
-1,713 songs - 3 day 16 hr 27 min
+1,714 songs - 3 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Favorite Ni\*\*a](https://open.spotify.com/track/3CtnIbw6ZDIDp3FL6ZQYe3) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [New Beginnings](https://open.spotify.com/album/3wzeXReoE5Ul6ZMLvkAnHw) | 2:04 | 2020-10-09 | 2020-10-16 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-02-27 | 2023-05-23 |
 | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 | 2023-05-21 | 2023-06-03 |
+| [FE!N](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-31 |  |
 | [Feelin' Like Tunechi](https://open.spotify.com/track/4HTY26kzdGCKJF1EqcRd2J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Trust Fund Babies](https://open.spotify.com/album/2gDny6NDG26azxuTbtNxgq) | 3:06 | 2021-10-01 | 2022-01-08 |
 | [Feelin' Peachy](https://open.spotify.com/track/2cv6XK6H0imQqD16uvHMOS) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Feelin' Peachy](https://open.spotify.com/album/4hmAVd9JpGlVurESrULRTh) | 3:11 | 2021-06-12 | 2021-09-18 |
 | [Feeling](https://open.spotify.com/track/2Jh3UqxnHJMyzMzku4uOtE) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love](https://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp) | 3:21 | 2019-05-26\* | 2019-08-16 |
@@ -1535,7 +1536,7 @@
 | [Tootsies \(feat\. Lil Baby\)](https://open.spotify.com/track/4MkMM6WUqkFeCLDJ4bhVpu) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Tootsies \(feat\. Lil Baby\)](https://open.spotify.com/album/6LphJF2mfzJZ2QezGHs4q2) | 3:09 | 2019-10-11 | 2019-10-18 |
 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 | 2021-04-03 | 2021-04-10 |
 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 | 2022-04-01 | 2022-04-09 |
-| [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-28 |  |
+| [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-28 | 2023-08-01 |
 | [Torpedo](https://open.spotify.com/track/5R5UNKWsmMPpFq5JHK93Fw) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Torpedo](https://open.spotify.com/album/11udbkutLAaM7XN3amRT9t) | 4:00 | 2022-12-30 | 2023-02-25 |
 | [Touchable](https://open.spotify.com/track/24iwskv8LDFMYRZ6Sr9iyw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [IT’S REMBLE](https://open.spotify.com/album/1neQLR34TeWpVhyBRmJ6gj) | 2:02 | 2021-08-28 | 2021-09-25 |
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2022-08-20 |

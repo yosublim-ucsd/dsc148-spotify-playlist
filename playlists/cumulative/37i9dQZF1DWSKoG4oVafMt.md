@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
+> The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma
 
-768 songs - 1 day 17 hr 44 min
+769 songs - 1 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Lambo \(Version Snappy\)](https://open.spotify.com/track/3nQZULgmcDRUFTLrY7yw03) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Alll Rounder](https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS) | 3:18 | 2022-01-17 | 2022-02-01 |
 | [Lambo Car](https://open.spotify.com/track/7hzjokqjgAolbg3xqeG21k) | [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf), [Simar Kaur](https://open.spotify.com/artist/0Y1YOEVDYNn3UjVuXljM2m), [Neha Sharma](https://open.spotify.com/artist/3XLZGHc3hdywEa50EiMrEt) | [Lambo Car](https://open.spotify.com/album/6tAGlCN5ToaR5o7hG4IBGL) | 3:15 | 2021-12-02 | 2022-04-06 |
 | [Last Love](https://open.spotify.com/track/5VfiTJFLB1wNrVy7bXhiso) | [Babbal Rai](https://open.spotify.com/artist/5LFXPuKD97Sp9qdkxYBfDn) | [Last Love](https://open.spotify.com/album/5RdGabhTm8Q4X2FNRaLKCg) | 0:59 | 2023-02-16 | 2023-05-06 |
-| [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 | 2022-08-12 |  |
+| [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/track/4mLjXblwZkzlkavY0Mnyr1) | [Simran Bhardwaj](https://open.spotify.com/artist/6A64CMEoGKDcGx0EdjjNol) | [Laung Laachi 2 \(Title song from the movie 'Laung Laachi 2'\)](https://open.spotify.com/album/01T0Et0DZK48mihOz6rkyE) | 2:40 | 2022-08-12 | 2023-08-01 |
 | [Lemme See](https://open.spotify.com/track/1HuS5LXJT6IitmeQrNPXlc) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [XOXO](https://open.spotify.com/album/4aOb3SgSUeMdF9TZndCZAM) | 3:20 | 2022-11-24 | 2022-11-26 |
 | [Lemme See](https://open.spotify.com/track/4dOUwxwiA3Bp2SQTjBPV1K) | [Jind Khan](https://open.spotify.com/artist/3c3rUC8IfafgQeT95Zpndz) | [Xoxo](https://open.spotify.com/album/3fnfvNoPqcVvxYW98vFgJo) | 3:20 | 2022-11-25 | 2022-12-16 |
 | [Lemonade](https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:46 | 2023-05-05 |  |
@@ -723,6 +723,7 @@
 | [Uche Uche Paunche](https://open.spotify.com/track/2GRerbOFlewgeat5rubxWk) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Uche Uche Paunche](https://open.spotify.com/album/4ZRHTGDeYYTgdVc2lAIN1d) | 3:22 | 2022-01-13 | 2022-02-01 |
 | [Uchiyaan Dewaraan](https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Uchiyaan Dewaraan](https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G) | 3:47 | 2021-12-02 | 2022-04-06 |
 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 | 2022-03-15 |  |
+| [Udh Di Phiran](https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Udh Di Phiran](https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e) | 3:41 | 2023-07-31 |  |
 | [Uff](https://open.spotify.com/track/2jzshbCwfE6aM9uhWQ2NjB) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Uff](https://open.spotify.com/album/3SgWMdnqxO5uPCvPDav4Wm) | 3:19 | 2022-01-14 | 2022-04-06 |
 | [Underdog](https://open.spotify.com/track/2g5eavuonSiNtugU8uvGZq) | [Simar Dorraha](https://open.spotify.com/artist/4jHC6uvANw9rlBKFyWpzat) | [Underdog](https://open.spotify.com/album/5YibraKvYlJzZTWAgLbXkl) | 3:00 | 2022-03-31 | 2022-04-06 |
 | [Untouchable](https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Untouchable](https://open.spotify.com/album/0Ib0QsGyuoGpVIPZaUwHL6) | 2:33 | 2022-01-21 | 2023-02-02 |

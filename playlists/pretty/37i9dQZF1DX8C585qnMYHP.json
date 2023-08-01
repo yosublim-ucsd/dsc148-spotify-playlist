@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with JJUUJJUU on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 110041,
+  "num_followers": 110092,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzFkZTIyMGUxM2Q4OGJkYWU1YmEwZGM4ZjM0MmZlMzFjOGI2ZGUz",
+  "snapshot_id": "MCw5NzQxYzg3OTA1ZmRhMTcxMWRjOGE0ZWE3NjU4ZjAwMDBiMmNiMjQy",
   "tracks": [
     {
       "added_at": "2023-06-28 01:00:55",
@@ -381,6 +381,22 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 277273,
+      "name": "hit",
+      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
+    },
+    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Latency at Villa Medici",
@@ -411,22 +427,6 @@
       "duration_ms": 292573,
       "name": "Blood Quantum",
       "url": "https://open.spotify.com/track/63T2H0pQvsxyVD1ou9xJuz"
-    },
-    {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 277273,
-      "name": "hit",
-      "url": "https://open.spotify.com/track/3hIaXXHvDNuc3CV5TPaMX4"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/0I3Lw6POSM0MAVDkwPqWMJ"
     },
     {
+      "added_at": "2023-06-28 01:00:55",
+      "album": {
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+      },
+      "artists": [
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+        }
+      ],
+      "duration_ms": 452207,
+      "name": "500 ascended",
+      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
+    },
+    {
       "added_at": "2023-05-17 15:25:53",
       "album": {
         "name": "Standers",
@@ -541,22 +557,6 @@
       "url": "https://open.spotify.com/track/6WpwLD1ybIjeb5xnoJlA5h"
     },
     {
-      "added_at": "2023-06-28 01:00:55",
-      "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
-      },
-      "artists": [
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
-        }
-      ],
-      "duration_ms": 452207,
-      "name": "500 ascended",
-      "url": "https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km"
-    },
-    {
       "added_at": "2023-05-24 14:03:48",
       "album": {
         "name": "Calamity",
@@ -571,22 +571,6 @@
       "duration_ms": 183272,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/5vbyaFx8JmNR3CNDe23dtL"
-    },
-    {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "\u4f4e\u7a7a",
-        "url": "https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp"
-      },
-      "artists": [
-        {
-          "name": "CRCK/LCKS",
-          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "\u4f4e\u7a7a",
-      "url": "https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -607,6 +591,22 @@
       "duration_ms": 306937,
       "name": "Serduszko",
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "\u4f4e\u7a7a",
+        "url": "https://open.spotify.com/album/5069TeKV6SsMxz4PQW9GEp"
+      },
+      "artists": [
+        {
+          "name": "CRCK/LCKS",
+          "url": "https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "\u4f4e\u7a7a",
+      "url": "https://open.spotify.com/track/6WVmWMn8ZknjbA70Xr93wc"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/4FOV0PYeUJ2uxrKysjZKsk"
     },
     {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Weird backwards path",
+        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
+      },
+      "artists": [
+        {
+          "name": "Tek lintowe",
+          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
+    },
+    {
       "added_at": "2023-04-12 14:55:04",
       "album": {
         "name": "The Sonic Lathe",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-05-10 16:29:51",
       "album": {
-        "name": "Weird backwards path",
-        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
-      },
-      "artists": [
-        {
-          "name": "Tek lintowe",
-          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/6l67hHSaUL7hvBUv8HqwuA"
-    },
-    {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
         "name": "Supply And Demand",
         "url": "https://open.spotify.com/album/4cd90meQCjt3s4RGjysTfC"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 376666,
       "name": "Digital Requiem",
       "url": "https://open.spotify.com/track/1YwbIMhNRGnmZus0kOMxyE"
+    },
+    {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "\u00d6ga for \u00d6ga",
+        "url": "https://open.spotify.com/album/2GlsG8Fp2byD9t4Nx3Xxw9"
+      },
+      "artists": [
+        {
+          "name": "Loopsel",
+          "url": "https://open.spotify.com/artist/3raMYGlRDfP5hIO5TPIIg3"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -725,22 +741,6 @@
       "url": "https://open.spotify.com/track/5u1nUScq8ZOKzOFT61pQAr"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
-        "name": "\u00d6ga for \u00d6ga",
-        "url": "https://open.spotify.com/album/2GlsG8Fp2byD9t4Nx3Xxw9"
-      },
-      "artists": [
-        {
-          "name": "Loopsel",
-          "url": "https://open.spotify.com/artist/3raMYGlRDfP5hIO5TPIIg3"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/3wG1cs7b0BQEZWNFPAkRaW"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Vandalized Statue To Be Replaced With Shrine",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Last Life on Earth",
-        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
-      },
-      "artists": [
-        {
-          "name": "Dimming",
-          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Boundless Baby",
-      "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Tinnitus",
@@ -803,6 +787,22 @@
       "duration_ms": 122368,
       "name": "Tinnitus Titles (Tinnitus OST)",
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Last Life on Earth",
+        "url": "https://open.spotify.com/album/0YIcp4aNEQ5RTstU20DSUr"
+      },
+      "artists": [
+        {
+          "name": "Dimming",
+          "url": "https://open.spotify.com/artist/3lrzKcVGLrWEbA5VFUMIsY"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "Boundless Baby",
+      "url": "https://open.spotify.com/track/6fKz14LGuJjBbkjX1neAg4"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-18 19:13:40",
       "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Real World",
+      "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+    },
+    {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
         "name": "WIREPULLER",
         "url": "https://open.spotify.com/album/7viJxU7RBGgNScHnDrLb6z"
       },
@@ -1029,20 +1045,20 @@
       "url": "https://open.spotify.com/track/5kHqQlsKIyOOIZcWIOSoSS"
     },
     {
-      "added_at": "2023-07-18 19:13:40",
+      "added_at": "2023-05-17 15:25:53",
       "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+        "name": "Weird backwards path",
+        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
       },
       "artists": [
         {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+          "name": "Tek lintowe",
+          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Real World",
-      "url": "https://open.spotify.com/track/6OQoynBENCLciCInK8T3YH"
+      "duration_ms": 161776,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/1MtQHHR98b9oq9yYcon0RB"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1059,22 +1075,6 @@
       "duration_ms": 267274,
       "name": "Telescopic",
       "url": "https://open.spotify.com/track/1flWZ6yw5R4KuFEimGusPx"
-    },
-    {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "Weird backwards path",
-        "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
-      },
-      "artists": [
-        {
-          "name": "Tek lintowe",
-          "url": "https://open.spotify.com/artist/1Cx17z7wDPieSSRovl6Etx"
-        }
-      ],
-      "duration_ms": 161776,
-      "name": "Look",
-      "url": "https://open.spotify.com/track/1MtQHHR98b9oq9yYcon0RB"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/4XtCKXGUib4poqNvfQTjoJ"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
-      "album": {
-        "name": "Catch The Wave",
-        "url": "https://open.spotify.com/album/2CxNHUHV4b6Isq3vuwlx5Y"
-      },
-      "artists": [
-        {
-          "name": "Halo Maud",
-          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
-        }
-      ],
-      "duration_ms": 117917,
-      "name": "After The Wave",
-      "url": "https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4"
-    },
-    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "The Room",
@@ -1155,6 +1139,22 @@
       "duration_ms": 280685,
       "name": "Dream of a Bee",
       "url": "https://open.spotify.com/track/385cALQGkPx2cN9zNufayd"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Catch The Wave",
+        "url": "https://open.spotify.com/album/2CxNHUHV4b6Isq3vuwlx5Y"
+      },
+      "artists": [
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "duration_ms": 117917,
+      "name": "After The Wave",
+      "url": "https://open.spotify.com/track/7HVSxP6bAKmQgwfYK23QR4"
     },
     {
       "added_at": "2023-06-07 04:04:27",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/1qjMM7qlmDnucsa5UoOCZ9"
     },
     {
-      "added_at": "2023-05-10 16:29:51",
-      "album": {
-        "name": "Field Tapes In Der Trash",
-        "url": "https://open.spotify.com/album/1ssthKo9vJdlfCx7zhflCB"
-      },
-      "artists": [
-        {
-          "name": "Me:You",
-          "url": "https://open.spotify.com/artist/4Dt5Y05MZ2p7LgGORPaeDG"
-        }
-      ],
-      "duration_ms": 64000,
-      "name": "Git Ready",
-      "url": "https://open.spotify.com/track/3x6dDdGOKJaVmydP3RZV2E"
-    },
-    {
       "added_at": "2023-05-17 15:25:53",
       "album": {
         "name": "Lone Memory",
@@ -1251,6 +1235,22 @@
       "duration_ms": 279375,
       "name": "Eternal Whisper",
       "url": "https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI"
+    },
+    {
+      "added_at": "2023-05-10 16:29:51",
+      "album": {
+        "name": "Field Tapes In Der Trash",
+        "url": "https://open.spotify.com/album/1ssthKo9vJdlfCx7zhflCB"
+      },
+      "artists": [
+        {
+          "name": "Me:You",
+          "url": "https://open.spotify.com/artist/4Dt5Y05MZ2p7LgGORPaeDG"
+        }
+      ],
+      "duration_ms": 64000,
+      "name": "Git Ready",
+      "url": "https://open.spotify.com/track/3x6dDdGOKJaVmydP3RZV2E"
     },
     {
       "added_at": "2023-05-10 16:29:51",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/4XI2kOrj1rHEO3GBjEkObS"
     },
     {
+      "added_at": "2023-05-17 15:25:53",
+      "album": {
+        "name": "On Garudan Wing",
+        "url": "https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6"
+      },
+      "artists": [
+        {
+          "name": "Matt LaJoie",
+          "url": "https://open.spotify.com/artist/56VvcTr0tIhh0jinmqK35j"
+        }
+      ],
+      "duration_ms": 384890,
+      "name": "Brushstroke",
+      "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
+    },
+    {
       "added_at": "2023-05-10 16:29:51",
       "album": {
         "name": "Passivity Trap",
@@ -1427,22 +1443,6 @@
       "duration_ms": 281076,
       "name": "Walkman",
       "url": "https://open.spotify.com/track/1gH5SBhS98bidrGo13gojP"
-    },
-    {
-      "added_at": "2023-05-17 15:25:53",
-      "album": {
-        "name": "On Garudan Wing",
-        "url": "https://open.spotify.com/album/4fwN78TBOSz6CkhXnVsEq6"
-      },
-      "artists": [
-        {
-          "name": "Matt LaJoie",
-          "url": "https://open.spotify.com/artist/56VvcTr0tIhh0jinmqK35j"
-        }
-      ],
-      "duration_ms": 384890,
-      "name": "Brushstroke",
-      "url": "https://open.spotify.com/track/6zpDAl2ljLUfUzb1zworYB"
     },
     {
       "added_at": "2023-05-24 14:03:48",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/0E1Z02zQckLjd4ZLyPEifh"
     },
     {
-      "added_at": "2023-05-24 14:03:48",
-      "album": {
-        "name": "fabric SELECTS II",
-        "url": "https://open.spotify.com/album/3hX7qAayJqtgrkVf8Rz00I"
-      },
-      "artists": [
-        {
-          "name": "Bluetoof",
-          "url": "https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x"
-        }
-      ],
-      "duration_ms": 270651,
-      "name": "Inverted",
-      "url": "https://open.spotify.com/track/0Yt7OVK0cS9IwyqTvoZTxu"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "Dogwood Variations",
@@ -1639,6 +1623,22 @@
       "duration_ms": 384727,
       "name": "Franklin, King of the Beers",
       "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
+    },
+    {
+      "added_at": "2023-05-24 14:03:48",
+      "album": {
+        "name": "fabric SELECTS II",
+        "url": "https://open.spotify.com/album/3hX7qAayJqtgrkVf8Rz00I"
+      },
+      "artists": [
+        {
+          "name": "Bluetoof",
+          "url": "https://open.spotify.com/artist/1DPheCuZwGAFUlM8H2jV6x"
+        }
+      ],
+      "duration_ms": 270651,
+      "name": "Inverted",
+      "url": "https://open.spotify.com/track/0Yt7OVK0cS9IwyqTvoZTxu"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -1,0 +1,42 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain](/playlists/plain/37i9dQZF1DXcZVKo4DZT9G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcZVKo4DZT9G)
+
+### [クレヨンしんちゃん\-Crayon Shinchan\-](https://open.spotify.com/playlist/37i9dQZF1DXcZVKo4DZT9G)
+
+> Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2022
+
+[Spotify](https://open.spotify.com/user/spotify) - 39,517 likes - 30 songs - 1 hr 59 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/track/2kKVUTLDGmE8l8Vn9tdQLq) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/album/20D0DFc7SZvfqyFG3h1Eu3) | 0:27 |
+| 2 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
+| 3 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 |
+| 4 | [はしりがき](https://open.spotify.com/track/4rVpueOWFM9jUjZSWt1eNu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [はしりがき](https://open.spotify.com/album/6SLw3pRwmLgrLywI5TEfdY) | 3:10 |
+| 5 | [スーパースター](https://open.spotify.com/track/7gArgBSGWsiFrcfZGVBGTg) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [スーパースター](https://open.spotify.com/album/4sxtaTQ2QeWnzgtvWiTOfd) | 3:42 |
+| 6 | [ギガアイシテル](https://open.spotify.com/track/51tqiwLXYtYvgO0da3Zx5L) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ) | [ギガアイシテル](https://open.spotify.com/album/77A8FNWXvzTmJk0IqbJXsS) | 4:04 |
+| 7 | [Harunohi](https://open.spotify.com/track/54iU9jU2ASDVTTxNG5Bhp1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heard that there's good pasta](https://open.spotify.com/album/4r59WawogtpQYeO8tcBBcA) | 5:26 |
+| 8 | [RPG](https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Tree](https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T) | 4:51 |
+| 9 | [SUPER SHIRO](https://open.spotify.com/track/4I06IqH4OPB6Ah1OXlBBZD) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [SUPER SHIRO](https://open.spotify.com/album/6EWm97Xd7mrZWSXFQ1dX02) | 2:23 |
+| 10 | [Muscat](https://open.spotify.com/track/4ggS1QHpxO6vOEp7Ihf59J) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Yuzutown](https://open.spotify.com/album/0ZHTPQEgxuRmbD9NSP62g4) | 3:23 |
+| 11 | [キミに100パーセント](https://open.spotify.com/track/3BPnFpAL02Bos8EoTLnO9R) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KPP BEST](https://open.spotify.com/album/5kyCkj26Vh8y8jne35hNR1) | 3:20 |
+| 12 | [友よ 〜 この先もずっと・・・](https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [KETSUNOPOLIS 10](https://open.spotify.com/album/3VTcoQOyIlYaxVI7gVg8uP) | 5:15 |
+| 13 | [ロードムービー](https://open.spotify.com/track/2Yzrge2w8tRF8dFhDaV8jZ) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [STARTING OVER](https://open.spotify.com/album/1eZeTTMA1g3cm79l0yYAwG) | 5:22 |
+| 14 | [笑一笑 \~シャオイーシャオ!\~](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 \~シャオイーシャオ!\~](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 |
+| 15 | [Kibou Sanmyaku](https://open.spotify.com/track/0aJO5l0R7fKJAbFFTrjz71) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [Kibou Sanmyaku \(Standard Edition\)](https://open.spotify.com/album/2h9Rqgto8Tx3Z68N9VApxv) | 3:55 |
+| 16 | [Ola!!](https://open.spotify.com/track/6FVJc3JnfLvtpEtQC9FuXX) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:27 |
+| 17 | [しんちゃん音頭\~オラといっしょにおどろうよ!\~](https://open.spotify.com/track/795IfuypNbgIGyiVLo3o62) | [Haruo Minami](https://open.spotify.com/artist/7sNPjkkxGTUvMWqrlgztni), [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [\~歌芸の軌跡\~ザッツ・エンターテインメント三波春夫ワールド全曲集](https://open.spotify.com/album/4OerlhTt40VYginvxSClDZ) | 3:58 |
+| 18 | [人気者で行こう!](https://open.spotify.com/track/4auG25VA18Aj5oFawzoek8) | [DJ OZMA](https://open.spotify.com/artist/20WW027E2lIhdDHif2m05y) | [人気者で行こう!](https://open.spotify.com/album/3zmks0kJsoElgRugdgeLK9) | 4:02 |
+| 19 | [ファミリーパーティー](https://open.spotify.com/track/46YA8ucG0EPrW4B1GcKDPk) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [ファミリーパーティー](https://open.spotify.com/album/194wYyrbMPknsdCDs1aKcM) | 3:35 |
+| 20 | [夢のENDはいつも目覚まし!](https://open.spotify.com/track/5xtog12CYKqANej2qR16Zo) | [B.B.Kamattechan\(B.B.QUEENS+ShinseiKamattechan\)](https://open.spotify.com/artist/76aIAthpIxYVJ7a90q1mRt) | [夢のENDはいつも目覚まし!](https://open.spotify.com/album/7MVID6NT4fSGigsf9rW38J) | 3:26 |
+| 21 | [うたをうたおう](https://open.spotify.com/track/4yM0EWM14ST6g7rmuOfWue) | [Daijiman Brothers Band](https://open.spotify.com/artist/3XA6oxaRzxYNoLwDeOTu36) | [ゴールデン★ベスト 大事MANブラザーズバンド](https://open.spotify.com/album/34uGoAPw10Krk7VV1sQ2Qt) | 4:40 |
+| 22 | [しんちゃんマ\-チ\~オラといっしょにあるこうよ!\~](https://open.spotify.com/track/5Yq3Y1VVejFxrBe1gmTa7F) | [Haruo Minami](https://open.spotify.com/artist/7sNPjkkxGTUvMWqrlgztni), [のはらしんのすけ](https://open.spotify.com/artist/6llUTHSSYBAyRZtZiwj0bm) | [\~歌芸の軌跡\~ザッツ・エンターテインメント三波春夫ワールド全曲集](https://open.spotify.com/album/4OerlhTt40VYginvxSClDZ) | 4:36 |
+| 23 | [Arinouta](https://open.spotify.com/track/21dR0nK449UwcpauaE6jcC) | [Yanawaraba](https://open.spotify.com/artist/26fgUj6cT6YrmPCc4Ey3e3) | [Yui \~Best&Collaboration\~](https://open.spotify.com/album/7dvUAmgU7dP5xkNbyTLQAN) | 2:27 |
+| 24 | [Shounen yo Uso wo Tsuke!](https://open.spotify.com/track/6N9HY8PRz2EUTBzpQiXLkL) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [Shounen yo Uso wo Tsuke! \(First Edition C\)](https://open.spotify.com/album/21QQWIp5xMyqMCh5kK59dG) | 4:38 |
+| 25 | [ハピハピ](https://open.spotify.com/track/4ecUBWw0u8FF7gB6JE53a0) | [Becky](https://open.spotify.com/artist/5zeStppuiuAdHTVpcH2o9C) | [心の星](https://open.spotify.com/album/6a6nqYDtUPQ6MIEsdAeYl9) | 3:16 |
+| 26 | [夜明けのMEW](https://open.spotify.com/track/41EaBnIuAQTEHjePnBQlk5) | [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [ザ・ベスト](https://open.spotify.com/album/0fMGKKYaZ1G0eIs5Nx6FmO) | 3:48 |
+| 27 | [Hey baby!](https://open.spotify.com/track/0MyB2GqSgFY5pK37jHSSH3) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Dejavu](https://open.spotify.com/album/1wEHnUyeTsnlJFXuh5dWBY) | 2:35 |
+| 28 | [やんちゃ道](https://open.spotify.com/track/4wje1xPBzeNSFiT3InlUbm) | [Jero](https://open.spotify.com/artist/3chLNFSDZkd5g9Fo43dxgJ) | [JERO BEST](https://open.spotify.com/album/2dU9gNNhhIXAtdCVUlGQFT) | 4:54 |
+| 29 | [Cry Baby](https://open.spotify.com/track/2xYjRSPVcNyF40XIqQKB4e) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [perfect seamo](https://open.spotify.com/album/245SebGanlsvp4qhnXgJY0) | 5:16 |
+| 30 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
+
+Snapshot ID: `MCw4YzY3NDlkNDk3NTE1ZDdjMDFhOGVhZjc2ZmExZjUzNmU3MmI0ZGI3`

@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 159157,
       "name": "Capo Di Tutti Capi",
       "url": "https://open.spotify.com/track/1nTivkmTADTOu1UJwghpXv"
@@ -4324,6 +4324,24 @@
       "duration_ms": 184800,
       "name": "Demeanor (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK"
+    },
+    {
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a"
     },
     {
       "album": {
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl"
@@ -9090,7 +9108,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 176115,
       "name": "Izrael i Palestina",
       "url": "https://open.spotify.com/track/5sTXwdL41dTDCTUoaJ1aV3"
@@ -10582,7 +10600,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 226715,
       "name": "LOOOVE",
       "url": "https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle"
@@ -10694,7 +10712,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 163071,
       "name": "LOST FOREVER",
       "url": "https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf"
@@ -12663,6 +12681,24 @@
     },
     {
       "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224512,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0E0kxko3i9b5JxxMoGH3At"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -12842,6 +12878,24 @@
       "duration_ms": 134400,
       "name": "Naivna",
       "url": "https://open.spotify.com/track/1bNDNDrJHctY1DMEfYvCqI"
+    },
+    {
+      "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
     },
     {
       "album": {
@@ -13864,7 +13918,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 154964,
       "name": "PARASAIL",
       "url": "https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6"
@@ -18100,7 +18154,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 353754,
       "name": "TELEKINESIS",
       "url": "https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq"
@@ -18720,6 +18774,24 @@
       "duration_ms": 167840,
       "name": "thought i was playing",
       "url": "https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
     },
     {
       "album": {
@@ -20281,6 +20353,24 @@
     },
     {
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -21680,7 +21770,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 185217,
       "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
@@ -22190,6 +22280,24 @@
       "duration_ms": 214743,
       "name": "\u0418\u0441\u043a\u0430\u0442 \u0414\u0430 \u041f\u0430\u0434\u043d\u0430",
       "url": "https://open.spotify.com/track/4P0FfsXHy77aIzR4HJCuZV"
+    },
+    {
+      "album": {
+        "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
+        "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
+      "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
     },
     {
       "album": {
@@ -23049,6 +23157,28 @@
     },
     {
       "album": {
+        "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
+        "url": "https://open.spotify.com/album/2YnlJgWFLWQcP5JMoNZG3C"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
+      "url": "https://open.spotify.com/track/6XJc1nK44MNSV2kK1IuyKU"
+    },
+    {
+      "album": {
         "name": "\u041e\u0442\u043f\u0443\u0441\u043d\u0438 \u0441\u0435",
         "url": "https://open.spotify.com/album/5VAxJLe04NbYzJYZhahGaD"
       },
@@ -23824,7 +23954,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 224301,
       "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
       "url": "https://open.spotify.com/track/5wzAdu3hiINC5egjffwlpA"

@@ -1806,10 +1806,32 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 247805,
       "name": "\u9752\u6625\u980c",
       "url": "https://open.spotify.com/track/3fxNCwlNPWXSaQy2Z5WqrD"
+    },
+    {
+      "album": {
+        "name": "\u9752\u6625\u980c (\u5c0f\u80a5 Modern Classic 2010-2020)",
+        "url": "https://open.spotify.com/album/3lic9Btq2yShkvJfC7YnvE"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u80a5",
+          "url": "https://open.spotify.com/artist/1IEuhKA77qmOfPSgrCaFCs"
+        },
+        {
+          "name": "Serrini",
+          "url": "https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247805,
+      "name": "\u9752\u6625\u980c (\u5c0f\u80a5 Modern Classic 2010-2020)",
+      "url": "https://open.spotify.com/track/3SFgidWdBgZNLcjy8ymzH0"
     },
     {
       "album": {

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 |  |
+| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 | 2023-08-01 |
 | [4am](https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 5:00 | 2022-01-21 |  |
 | [><⋃⊃⊃∑](https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [OTVR](https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u) | 8:41 | 2022-01-21 |  |
 | [A Collection Of Ceramic Vases \(Yves Saint Laurent Buried In The Garden Of His Marrakesh Home\)](https://open.spotify.com/track/1MwAwmw5LXeV2N5AtG9mYi) | [Body Sculptures](https://open.spotify.com/artist/71XkAfWI8OWbuXBrsdJnAt) | [A Body Turns To Eden](https://open.spotify.com/album/3gYajjdwhAWF8Pzbl0xKAm) | 3:22 | 2022-01-21 |  |
@@ -33,7 +33,7 @@
 | [Between Two Breaths](https://open.spotify.com/track/1ZAd0tz89HBJSo7vyHzGiW) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/1bdCUM3Vb48oetafSWkFna) | 5:48 | 2022-10-14 |  |
 | [Between Two Breaths](https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Between Two Breaths](https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx) | 5:48 | 2022-01-21 | 2022-11-02 |
 | [Beyond Entropia](https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea) | [Shunkan Idou](https://open.spotify.com/artist/5cIfhBA7Wabl7fAAnMvdJs) | [Beyond Entropia](https://open.spotify.com/album/3N6YfSTnZdzLfhrFL8BSdr) | 7:37 | 2022-01-28 |  |
-| [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 | 2023-07-31 |
+| [Blue Window](https://open.spotify.com/track/2pYUcvzuzdGc4joj0KYX84) | [The Reflectionist](https://open.spotify.com/artist/3FWqZF8m9XAImKhKHM4TLE) | [Blue Window](https://open.spotify.com/album/5zfa586cmW4HGRZFTtmbGu) | 2:34 | 2022-02-11 |  |
 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 | 2022-01-21 | 2023-01-24 |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2022-01-21 |  |
 | [Chasing Shadows, Pt\. 1](https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 5:04 | 2022-12-30 |  |

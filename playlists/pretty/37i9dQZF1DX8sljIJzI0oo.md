@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Bringing in the heat every Thursday\. 🔥 Cover: Tainy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,772 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,825 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [BELLAQUE?](https://open.spotify.com/track/7gYblpRDCSmrnY39PJBPYE) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [BELLAQUE?](https://open.spotify.com/album/4nbY0nHvLnl73klr2ZOaNo) | 2:17 |
 | 25 | [No Le Bajamos](https://open.spotify.com/track/5z9BueVXyoqHHFk4eFvlpU) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [No Le Bajamos](https://open.spotify.com/album/10UVmswEcMMI6UjL4oEufc) | 2:44 |
 
-Snapshot ID: `MCw2OTc3OTRlZDlmOThlMWQ3N2Q1YmM0ZTczOGQyODhhZDczMjJjYmIx`
+Snapshot ID: `MCw5YWE2YjJkMGE1YjM3M2U5YzJiZjg2Y2FiY2NkOTIxYTk4ODZkYzBj`

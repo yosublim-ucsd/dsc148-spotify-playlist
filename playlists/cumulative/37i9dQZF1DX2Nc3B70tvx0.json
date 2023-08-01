@@ -9116,7 +9116,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 239910,
       "name": "Flimsier",
       "url": "https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW"
@@ -11392,6 +11392,24 @@
       "duration_ms": 177073,
       "name": "Having a Good Time, Sometimes",
       "url": "https://open.spotify.com/track/1xNQ7UujtJn6OqaXwnWkIa"
+    },
+    {
+      "album": {
+        "name": "hawthorne81 / atoms",
+        "url": "https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225149,
+      "name": "hawthorne81",
+      "url": "https://open.spotify.com/track/4kynhOfWA8kbLYgbBKHRnD"
     },
     {
       "album": {
@@ -14542,7 +14560,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 295013,
       "name": "It Must Change",
       "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
@@ -15650,6 +15668,24 @@
       "duration_ms": 267831,
       "name": "Knuckleduster",
       "url": "https://open.spotify.com/track/31wEXja0JKtSNRtkine5lE"
+    },
+    {
+      "album": {
+        "name": "The Loveliest Time",
+        "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256528,
+      "name": "Kollage",
+      "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
     },
     {
       "album": {

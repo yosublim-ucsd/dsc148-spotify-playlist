@@ -1,32 +1,28 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 50432,
+  "num_followers": 50469,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDA4ZWU0YzVkODU5YTBjMTZiYWQ4NDdiOWYzZmZhNGI1ZTE3NmZl",
+  "snapshot_id": "MCxjMDJiZGNmY2QwNjNlMmVmN2QzOTI0ZmRmNmUzOGQ4OGY1NWNlNWQx",
   "tracks": [
     {
-      "added_at": "2023-07-21 06:52:36",
+      "added_at": "2023-07-27 13:11:20",
       "album": {
-        "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
-        "url": "https://open.spotify.com/album/4Ajr4NBEMzrfk9xECz8iD7"
+        "name": "Hostel Hudugaru Bekagiddare (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m5iJUD34mmXputNXIBwNl"
       },
       "artists": [
         {
           "name": "B. Ajaneesh Loknath",
           "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Trilok Trivikrama",
-          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
         }
       ],
-      "duration_ms": 180405,
-      "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
-      "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
+      "duration_ms": 247125,
+      "name": "Hostel Hudugaru Protest Song",
+      "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
     },
     {
       "added_at": "2023-07-21 06:52:36",
@@ -51,6 +47,30 @@
       "duration_ms": 188639,
       "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
+    },
+    {
+      "added_at": "2023-07-31 06:01:51",
+      "album": {
+        "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
+        "url": "https://open.spotify.com/album/1ezMzS05FfeDJegZveRy8X"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
+      "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
     },
     {
       "added_at": "2023-07-24 06:31:36",
@@ -141,6 +161,26 @@
       "url": "https://open.spotify.com/track/2grYgChOuQAzGW8fI5Ww9p"
     },
     {
+      "added_at": "2023-07-31 06:01:51",
+      "album": {
+        "name": "Dheera Samrat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AztlfeBI37rGDTpji6izU"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        },
+        {
+          "name": "Raghav Subhash",
+          "url": "https://open.spotify.com/artist/7G0A91tkDOhQmW5HbHJlpR"
+        }
+      ],
+      "duration_ms": 172907,
+      "name": "Don't Forget Ever Friendship For Ever (from \"Dheera Samrat\")",
+      "url": "https://open.spotify.com/track/4wE3PBpel4dzAKqom3ISjx"
+    },
+    {
       "added_at": "2023-07-24 06:31:36",
       "album": {
         "name": "Devara Kanassu (Original Motion Picture Soundtrack)",
@@ -165,20 +205,64 @@
       "url": "https://open.spotify.com/track/1Ywxy20GhIJOcusnKK2Z9d"
     },
     {
-      "added_at": "2023-07-27 13:11:20",
+      "added_at": "2023-07-31 06:01:51",
       "album": {
-        "name": "Hostel Hudugaru Bekagiddare (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m5iJUD34mmXputNXIBwNl"
+        "name": "Kaatera",
+        "url": "https://open.spotify.com/album/7pKlLKWRi9lkjGxH4KWbNU"
+      },
+      "artists": [
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        }
+      ],
+      "duration_ms": 294195,
+      "name": "Kaatera",
+      "url": "https://open.spotify.com/track/1bKs8AUXH88pBH7YNAOU7R"
+    },
+    {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
+        "url": "https://open.spotify.com/album/4Ajr4NBEMzrfk9xECz8iD7"
       },
       "artists": [
         {
           "name": "B. Ajaneesh Loknath",
           "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
         }
       ],
-      "duration_ms": 247125,
-      "name": "Hostel Hudugaru Protest Song",
-      "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+      "duration_ms": 180405,
+      "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
+      "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
+    },
+    {
+      "added_at": "2023-07-31 06:01:51",
+      "album": {
+        "name": "Va Va Va Vaamana (From \"Vaamana\")",
+        "url": "https://open.spotify.com/album/3bjzd222DOZwdrszmswx1u"
+      },
+      "artists": [
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 233130,
+      "name": "Va Va Va Vaamana - From \"Vaamana\"",
+      "url": "https://open.spotify.com/track/5P1Lhm2TO0XkNItCsOlzJD"
     },
     {
       "added_at": "2023-07-04 11:00:31",
@@ -205,6 +289,22 @@
       "url": "https://open.spotify.com/track/28wJVYrC30oHCncNURR2Ws"
     },
     {
+      "added_at": "2023-07-31 06:01:51",
+      "album": {
+        "name": "Hi Nanna Glimpse Music (KANNADA)",
+        "url": "https://open.spotify.com/album/4KAu0eyb0HdLT6zWcWkcxH"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 80202,
+      "name": "Hi Nanna Glimpse Music (KANNADA)",
+      "url": "https://open.spotify.com/track/1U9WFQddfpxlE7HSNFnjkc"
+    },
+    {
       "added_at": "2023-07-11 10:57:09",
       "album": {
         "name": "Modala Male (From \"Thothapuri 2\")",
@@ -223,6 +323,22 @@
       "duration_ms": 273962,
       "name": "Modala Male (From \"Thothapuri 2\")",
       "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
+    },
+    {
+      "added_at": "2023-07-31 06:01:51",
+      "album": {
+        "name": "Danka Dankaara (From \"Vikrant Rona\")",
+        "url": "https://open.spotify.com/album/3gMODnlgmTDeBBJAG9ORXc"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "duration_ms": 127140,
+      "name": "Danka Dankaara (From \"Vikrant Rona\")",
+      "url": "https://open.spotify.com/track/7qlwM6HDJpe80aGxmKIfCz"
     },
     {
       "added_at": "2023-07-25 11:15:09",
@@ -325,30 +441,6 @@
       "url": "https://open.spotify.com/track/5lJ9amDizjr5Z841zhFkeR"
     },
     {
-      "added_at": "2023-07-19 11:13:36",
-      "album": {
-        "name": "Bengaluru's Suprabhata (From \"Aachar & Co.\")",
-        "url": "https://open.spotify.com/album/4miUtJs1eVVXmGx8NmsXQv"
-      },
-      "artists": [
-        {
-          "name": "Bindhumalini Narayanaswamy",
-          "url": "https://open.spotify.com/artist/2pZFH5Fo5vnXVpjjHsB2Ct"
-        },
-        {
-          "name": "Trilok Trivikrama",
-          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
-        },
-        {
-          "name": "Rama Mani",
-          "url": "https://open.spotify.com/artist/1KZpMyxvBgMDJgDbs9Acps"
-        }
-      ],
-      "duration_ms": 164458,
-      "name": "Bengaluru's Suprabhata (From \"Aachar & Co.\")",
-      "url": "https://open.spotify.com/track/2Vw00Nw9SqkD0UxLfw3dy9"
-    },
-    {
       "added_at": "2023-07-24 06:31:36",
       "album": {
         "name": "Devara Kanassu (Original Motion Picture Soundtrack)",
@@ -395,78 +487,6 @@
       "duration_ms": 242490,
       "name": "Rakshaka - From \"Nimmellara Aashirvada \"",
       "url": "https://open.spotify.com/track/3NYuouBxWcYGgon6DqgCJV"
-    },
-    {
-      "added_at": "2023-07-21 06:52:36",
-      "album": {
-        "name": "Baalu Naraka Eega (From \"90 Bidi Manig Nadi \")",
-        "url": "https://open.spotify.com/album/0oXHvnsW8tyMGGmpDi3XKp"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Kiran Shankar",
-          "url": "https://open.spotify.com/artist/5MZ3lf2RXr5p6Lmeza5DXF"
-        },
-        {
-          "name": "DR. V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0YQkMxPEgpSEn9QX6XtGJ9"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Baalu Naraka Eega - From \"90 Bidi Manig Nadi \"",
-      "url": "https://open.spotify.com/track/3k18tsNqqqbIJRvcVa4Mt0"
-    },
-    {
-      "added_at": "2023-07-21 06:52:36",
-      "album": {
-        "name": "Racer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r4X7vBzV1vd2VcWiNc2Nm"
-      },
-      "artists": [
-        {
-          "name": "Nishan Rai",
-          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Hey Asurane (from \"Racer\")",
-      "url": "https://open.spotify.com/track/3OMt0rA9ZNLlMf72ppw02X"
-    },
-    {
-      "added_at": "2023-07-19 11:13:36",
-      "album": {
-        "name": "Dharaniye Daniyali (From \"Paramvah\")",
-        "url": "https://open.spotify.com/album/0LNcfuHfbAQQdKL68I8yNr"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Aparajith",
-          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
-        },
-        {
-          "name": "Jos Jossey",
-          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
-        },
-        {
-          "name": "Veeresh Shivamurthy",
-          "url": "https://open.spotify.com/artist/6lfRftP5Id63j85WRHjhTX"
-        }
-      ],
-      "duration_ms": 127540,
-      "name": "Dharaniye Daniyali (From \"Paramvah\")",
-      "url": "https://open.spotify.com/track/4c1OQoXJmwktgTNgPFQbVI"
     },
     {
       "added_at": "2023-05-20 08:05:14",
@@ -737,30 +757,6 @@
       "url": "https://open.spotify.com/track/2GLfs8otf8slSX9FAY965x"
     },
     {
-      "added_at": "2023-06-01 10:47:14",
-      "album": {
-        "name": "Matte Maduve",
-        "url": "https://open.spotify.com/album/5LwmLz8opc9Y52U3NT22gB"
-      },
-      "artists": [
-        {
-          "name": "Suresh Bobbili",
-          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Varadaraju Chikkaballapura",
-          "url": "https://open.spotify.com/artist/49xagSHCtnXc62Ifkj7bCI"
-        }
-      ],
-      "duration_ms": 178894,
-      "name": "Akashame",
-      "url": "https://open.spotify.com/track/14is2xUFlg6PqPltbmxsah"
-    },
-    {
       "added_at": "2023-05-20 08:05:14",
       "album": {
         "name": "Jai Shri Ram (From \"Adipurush\") [KANNADA]",
@@ -875,30 +871,6 @@
       "duration_ms": 231856,
       "name": "Kanasali",
       "url": "https://open.spotify.com/track/6Y65F48GSTT2d4ygzo6Ufc"
-    },
-    {
-      "added_at": "2023-05-24 12:20:30",
-      "album": {
-        "name": "Aaluva Mandiyu (From \"Bisilu Kudure\")",
-        "url": "https://open.spotify.com/album/5yG40AOWgDgnAcDqDYCziN"
-      },
-      "artists": [
-        {
-          "name": "Ravindra Soragavi",
-          "url": "https://open.spotify.com/artist/5Vw12AHNNQ8o4yZ4PzDKat"
-        },
-        {
-          "name": "Imtiyaz Sultan",
-          "url": "https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi"
-        },
-        {
-          "name": "Hridaya Shiva",
-          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
-        }
-      ],
-      "duration_ms": 135327,
-      "name": "Aaluva Mandiyu (From \"Bisilu Kudure\")",
-      "url": "https://open.spotify.com/track/6STQpK8q5OqYJG3kUKuYyL"
     },
     {
       "added_at": "2023-05-18 06:08:40",

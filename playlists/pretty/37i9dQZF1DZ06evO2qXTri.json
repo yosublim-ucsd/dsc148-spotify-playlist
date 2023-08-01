@@ -1,15 +1,15 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 19727,
+  "num_followers": 19746,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzg2NjgsMDAwMDAwMDA5MzczN2JmZTNiMDU4OTA5N2JiOGQ4N2Y5ZGQ1ZTVlYQ==",
+  "snapshot_id": "MjgxODAxNDEsMDAwMDAwMDA3NmM3OGQyMmUyN2Q3NWQ2YjgyZDcyNDQzOTUxMGJkZQ==",
   "tracks": [
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "TOGETHER",
         "url": "https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "All Things",
         "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/7kN3bGZtBKwWwYKSkE3RER"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/4t9q80lwmctzfRsJDLQAHg"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "The Nu Nation Project",
         "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
@@ -185,7 +185,23 @@
       "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 246560,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/7lXbmBVZsyhxsxBzodG1w3"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Bless Me",
         "url": "https://open.spotify.com/album/6f19JEkhgyhpGnwZjedANL"
@@ -205,23 +221,7 @@
       "url": "https://open.spotify.com/track/7lc2czeQDUCODiwbGQOA2o"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "Looking for You",
-      "url": "https://open.spotify.com/track/7lXbmBVZsyhxsxBzodG1w3"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/4UTJRQlIDvePxa6deMMk4j"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5TlSqF8DhwDLaUMFmV3APE"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kirk Franklin and the Family",
         "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/537bauuRZw1QMo3Ya4vZrz"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5TlSqF8DhwDLaUMFmV3APE"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
@@ -329,7 +329,23 @@
       "url": "https://open.spotify.com/track/0Mqb5jCtcctzWFGAT3jRZY"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "Kirk Franklin and the Family",
+        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 355160,
+      "name": "Why We Sing",
+      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Restoration",
         "url": "https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H"
@@ -349,23 +365,7 @@
       "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "Kirk Franklin and the Family",
-        "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 355160,
-      "name": "Why We Sing",
-      "url": "https://open.spotify.com/track/3NBygJfkCX6zbEUljzh2gv"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/7vF5RIx2jHtt9Y0OElOZKK"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
@@ -445,23 +445,7 @@
       "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
-        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/1mkLV53Mtcpl4XJOcBL5B4"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
@@ -489,7 +473,23 @@
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "He Reigns / Awesome God - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/1mkLV53Mtcpl4XJOcBL5B4"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kirk Franklin and the Family",
         "url": "https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
@@ -521,7 +521,23 @@
       "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "The Essential Kirk Franklin",
+        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Stomp (Remix)",
+      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/73HndhN1se7Bdmwl5o4vVz"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
@@ -561,23 +577,7 @@
       "url": "https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "The Essential Kirk Franklin",
-        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Stomp (Remix)",
-      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Portable Sounds (With Bonus Remixes)",
         "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
@@ -617,7 +617,23 @@
       "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
@@ -645,23 +661,7 @@
       "url": "https://open.spotify.com/track/26dEVHEewuaf2ZLTexVMvC"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "LONG LIVE LOVE",
         "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
@@ -693,7 +693,31 @@
       "url": "https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
+      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One",
         "url": "https://open.spotify.com/album/4GnwZNhOa65A097eBbo40f"
@@ -721,31 +745,7 @@
       "url": "https://open.spotify.com/track/6tucWz1MYMswwWmwoM3JGw"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "God's Property from Kirk Franklin's Nu Nation",
         "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
@@ -825,7 +825,67 @@
       "url": "https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "duration_ms": 309066,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
+    },
+    {
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Kingdom Book One (Deluxe)",
         "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
@@ -853,67 +913,7 @@
       "url": "https://open.spotify.com/track/6m2L8UyoRjOYDJZ4Hdjcvd"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "The Nu Nation Project",
-        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "The Family",
-          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
-        }
-      ],
-      "duration_ms": 309066,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/4IyemaA2yUElYlOiCV1vGC"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Mosby",
-          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 388586,
-      "name": "Give Me (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
-    },
-    {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Gospel According To PJ",
         "url": "https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "The Fight Of My Life",
         "url": "https://open.spotify.com/album/4jOZyxhGDWkhJ5xXZirKDW"
@@ -957,7 +957,7 @@
       "url": "https://open.spotify.com/track/01bQcX573Co0x8tfHIID56"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/57FntrbRuzrLpJOfayNbWk"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
@@ -1009,32 +1009,24 @@
       "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
     },
     {
-      "added_at": "2023-07-30 12:28:49",
+      "added_at": "2023-07-31 13:01:11",
       "album": {
-        "name": "Kingdom Book One (Deluxe)",
-        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
       },
       "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         },
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
         }
       ],
-      "duration_ms": 230590,
-      "name": "Hold Tight (feat. Ryan Ellis & Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5dovyGSRpHwz5YRJCOktO7"
+      "duration_ms": 209573,
+      "name": "Blessing In The Storm",
+      "url": "https://open.spotify.com/track/6pnl2K7y2aA8eMJjwMBigb"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

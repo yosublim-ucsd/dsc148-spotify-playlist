@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7B4HyZbWHdY.md) - [plain]
 
 ### [Pinay Voices](https://open.spotify.com/playlist/37i9dQZF1DX7B4HyZbWHdY)
 
-> Babae ka, hindi babae lang\. Celebrate Pinay power by listening here\. Updated weekly.
+> Babae ka, hindi babae lang\. Celebrate Pinay power by listening here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,580 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,581 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MCxlYjE0YjBhMDI2MThlNGVmNzNkY2ZmYzdmY2YyM2RiMmI4NmE5ZTc4`
+Snapshot ID: `MCw2NjAxN2JmZTcwNzZlZWY2Y2NkODRjMDdjNTcwMGE5ZTViZTlhNDY0`

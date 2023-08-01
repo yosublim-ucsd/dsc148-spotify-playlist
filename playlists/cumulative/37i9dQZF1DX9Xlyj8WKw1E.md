@@ -2,7 +2,7 @@
 
 ### [Ripple Effect:  Midwest](https://open.spotify.com/playlist/37i9dQZF1DX9Xlyj8WKw1E)
 
-> Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7?si=Dav0mu9LQQuNwBBb683dCw">Veeze</a>
+> Midwest music breaking waves\. Cover: <a href="https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA?si=sa1MczKmTbStHjRz0SIwNg">Babyface Ray</a>
 
 463 songs - 22 hr 32 min
 

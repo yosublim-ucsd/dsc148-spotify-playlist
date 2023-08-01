@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 186052,
       "name": "Journey",
       "url": "https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507"
@@ -4976,6 +4976,28 @@
       "duration_ms": 270000,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF"
+    },
+    {
+      "album": {
+        "name": "Elysian",
+        "url": "https://open.spotify.com/album/5EFVvcCvOQV89OnPkpkoD6"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Daye",
+          "url": "https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174935,
+      "name": "LLLove",
+      "url": "https://open.spotify.com/track/4SwGMoECJ7JqLtlMNZdvtL"
     },
     {
       "album": {

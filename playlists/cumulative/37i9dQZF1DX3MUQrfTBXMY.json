@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "Headbangers of Bangladesh. Cover - Chondropith",
+  "description": "Headbangers of Bangladesh. Cover - Aftermath",
   "name": "Bangla Rock",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 348480,
       "name": "Amar Dike Takiye Shey",
       "url": "https://open.spotify.com/track/3N3cy8OMbTZEsmhc3n5jAm"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 411239,
       "name": "Amon Chena",
       "url": "https://open.spotify.com/track/5NiFoTEJKJyeKnZASurNYd"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2023-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 274909,
       "name": "Beatles",
       "url": "https://open.spotify.com/track/7eNQLrONUBz1Ae2QkJpzI6"
@@ -630,6 +630,24 @@
       "duration_ms": 286550,
       "name": "Better Call Salt & The Walking Bread",
       "url": "https://open.spotify.com/track/0S88D4HoXcUhx0KU8OOXDv"
+    },
+    {
+      "album": {
+        "name": "Bhalo Theko - Recreated",
+        "url": "https://open.spotify.com/album/0TfZqKjCSiebe3GHzAms0Y"
+      },
+      "artists": [
+        {
+          "name": "Cactus",
+          "url": "https://open.spotify.com/artist/2bsXJQ9uD4zTdcW4ZXo8hG"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357323,
+      "name": "Bhalo Theko - Recreated",
+      "url": "https://open.spotify.com/track/6xUbP2Xc1iBjTWFgxeInIa"
     },
     {
       "album": {
@@ -728,7 +746,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 278709,
       "name": "Bhoboghure 2022",
       "url": "https://open.spotify.com/track/61g0LfYhsMLvrz6DXlLIek"
@@ -876,7 +894,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 471000,
       "name": "Biprotip",
       "url": "https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 428632,
       "name": "Bonobibi",
       "url": "https://open.spotify.com/track/46pfDFfuuRkeSKsNMKtZO9"
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 258324,
       "name": "Eden",
       "url": "https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 260573,
       "name": "Eto Kosto Keno",
       "url": "https://open.spotify.com/track/4tp8j4lPEbwaRxmcmIG0GU"
@@ -1656,6 +1674,24 @@
       "duration_ms": 422397,
       "name": "Fer Dekha",
       "url": "https://open.spotify.com/track/09HJFvjdy6VQSwt3X71bKZ"
+    },
+    {
+      "album": {
+        "name": "Defy Bangladesh",
+        "url": "https://open.spotify.com/album/7BWqKMwuPDgFNJo5lLgRjn"
+      },
+      "artists": [
+        {
+          "name": "Defy Bangladesh",
+          "url": "https://open.spotify.com/artist/6R7swV6IWianRmmcKLkvrV"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346084,
+      "name": "Gaan Gaibar Diney",
+      "url": "https://open.spotify.com/track/1lZq7G72aXb68qame7pnTb"
     },
     {
       "album": {
@@ -1796,7 +1832,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 228922,
       "name": "Godhulir Opare",
       "url": "https://open.spotify.com/track/0RA0vnBIXFtoC83Za1Cfoh"
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 239586,
       "name": "ISD",
       "url": "https://open.spotify.com/track/5NHklX2aJag4YCJndtjjci"
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 499188,
       "name": "Jaatra",
       "url": "https://open.spotify.com/track/2RjwDQkqVgV58C8qVNCpiE"
@@ -2124,7 +2160,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 357067,
       "name": "Joto Durey",
       "url": "https://open.spotify.com/track/3jHx5tU9xQhrnb4uIQAphs"
@@ -2546,7 +2582,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 399673,
       "name": "Mitther Agrashon",
       "url": "https://open.spotify.com/track/69Hg5HO5xhagCRBuzTH13D"
@@ -2679,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Shotto",
+        "url": "https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ"
+      },
+      "artists": [
+        {
+          "name": "Warfaze",
+          "url": "https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290109,
+      "name": "Na",
+      "url": "https://open.spotify.com/track/4i1j5lA3ZreDpPoFzY3CHg"
+    },
+    {
+      "album": {
         "name": "Na Bola Golpo",
         "url": "https://open.spotify.com/album/5gjP4D4VW4kcm5G23s2gvn"
       },
@@ -2744,7 +2798,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 297848,
       "name": "Neela",
       "url": "https://open.spotify.com/track/74tqO9DYcanO94MadLHFU9"
@@ -3617,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "PURBAPOR",
+        "url": "https://open.spotify.com/album/3FczU5hSZZ5QBCq4TqqFAN"
+      },
+      "artists": [
+        {
+          "name": "ADVERB BAND",
+          "url": "https://open.spotify.com/artist/3oSMdx3Zu8Mg77J9bLroOR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "PURBAPOR",
+      "url": "https://open.spotify.com/track/2JccX3rLZQi4f2IE9c7b7o"
+    },
+    {
+      "album": {
         "name": "Shotto",
         "url": "https://open.spotify.com/album/3OXzR6q3oubuiAm90kJAYI"
       },
@@ -3950,7 +4022,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 330398,
       "name": "Sheishob Din Raatri",
       "url": "https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb"
@@ -4170,7 +4242,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 220019,
       "name": "Shoto Asha",
       "url": "https://open.spotify.com/track/5mzRmPqR9zvr2QfS8pkHOW"
@@ -4195,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "Shudhu Tomake",
+        "url": "https://open.spotify.com/album/1f8TWNspvXbEx3KL7268eh"
+      },
+      "artists": [
+        {
+          "name": "FRANKLIN",
+          "url": "https://open.spotify.com/artist/73G8ACEQ6SOnQBTLEHBbBV"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "Shudhu Tomake",
+      "url": "https://open.spotify.com/track/3RWGr29hPAiagbNClOMnhI"
+    },
+    {
+      "album": {
         "name": "Shunnotar Gaan",
         "url": "https://open.spotify.com/album/30gPig90CPaXynDVw1Kie2"
       },
@@ -4210,7 +4300,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-18",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "Shunnotar Gaan",
       "url": "https://open.spotify.com/track/3rw1weqqFeFjSjWKTAmvzI"
@@ -4546,6 +4636,24 @@
       "duration_ms": 293235,
       "name": "Upashona",
       "url": "https://open.spotify.com/track/0C7rMypVyXtihS8lZ629av"
+    },
+    {
+      "album": {
+        "name": "Urey jawa pakhir chokhey",
+        "url": "https://open.spotify.com/album/4I6gHqpSAYoAMq6clmEjJI"
+      },
+      "artists": [
+        {
+          "name": "Ashes",
+          "url": "https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274993,
+      "name": "Urey jawa pakhir chokhey",
+      "url": "https://open.spotify.com/track/4ZAOG2yfRyq7M58saKwJb0"
     },
     {
       "album": {

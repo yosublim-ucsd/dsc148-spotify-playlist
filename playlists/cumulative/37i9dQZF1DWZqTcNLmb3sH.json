@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 135327,
       "name": "Aaluva Mandiyu (From \"Bisilu Kudure\")",
       "url": "https://open.spotify.com/track/6STQpK8q5OqYJG3kUKuYyL"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 178894,
       "name": "Akashame",
       "url": "https://open.spotify.com/track/14is2xUFlg6PqPltbmxsah"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 202000,
       "name": "Baalu Naraka Eega - From \"90 Bidi Manig Nadi \"",
       "url": "https://open.spotify.com/track/3k18tsNqqqbIJRvcVa4Mt0"
@@ -2620,7 +2620,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 164458,
       "name": "Bengaluru's Suprabhata (From \"Aachar & Co.\")",
       "url": "https://open.spotify.com/track/2Vw00Nw9SqkD0UxLfw3dy9"
@@ -3605,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Danka Dankaara (From \"Vikrant Rona\")",
+        "url": "https://open.spotify.com/album/3gMODnlgmTDeBBJAG9ORXc"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127140,
+      "name": "Danka Dankaara (From \"Vikrant Rona\")",
+      "url": "https://open.spotify.com/track/7qlwM6HDJpe80aGxmKIfCz"
+    },
+    {
+      "album": {
         "name": "Aggrasena",
         "url": "https://open.spotify.com/album/0BVt3hi6JfLEMFRPbO6d8r"
       },
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 127540,
       "name": "Dharaniye Daniyali (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/4c1OQoXJmwktgTNgPFQbVI"
@@ -4254,6 +4272,28 @@
       "duration_ms": 195135,
       "name": "Doddoru Hakida Ondu Gatti Sasi",
       "url": "https://open.spotify.com/track/6msQm2vDlZ4fkIqK096yvm"
+    },
+    {
+      "album": {
+        "name": "Dheera Samrat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6AztlfeBI37rGDTpji6izU"
+      },
+      "artists": [
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        },
+        {
+          "name": "Raghav Subhash",
+          "url": "https://open.spotify.com/artist/7G0A91tkDOhQmW5HbHJlpR"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172907,
+      "name": "Don't Forget Ever Friendship For Ever (from \"Dheera Samrat\")",
+      "url": "https://open.spotify.com/track/4wE3PBpel4dzAKqom3ISjx"
     },
     {
       "album": {
@@ -6302,7 +6342,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 182973,
       "name": "Hey Asurane (from \"Racer\")",
       "url": "https://open.spotify.com/track/3OMt0rA9ZNLlMf72ppw02X"
@@ -6376,6 +6416,24 @@
       "duration_ms": 240132,
       "name": "Hey Kuchu Kuchu",
       "url": "https://open.spotify.com/track/23OBQ4HUCqNp0tfqqUEKR1"
+    },
+    {
+      "album": {
+        "name": "Hi Nanna Glimpse Music (KANNADA)",
+        "url": "https://open.spotify.com/album/4KAu0eyb0HdLT6zWcWkcxH"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80202,
+      "name": "Hi Nanna Glimpse Music (KANNADA)",
+      "url": "https://open.spotify.com/track/1U9WFQddfpxlE7HSNFnjkc"
     },
     {
       "album": {
@@ -7855,6 +7913,24 @@
     },
     {
       "album": {
+        "name": "Kaatera",
+        "url": "https://open.spotify.com/album/7pKlLKWRi9lkjGxH4KWbNU"
+      },
+      "artists": [
+        {
+          "name": "Vyasraj Sosale",
+          "url": "https://open.spotify.com/artist/2kUH5PlbfTRfChKtfp6JCE"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294195,
+      "name": "Kaatera",
+      "url": "https://open.spotify.com/track/1bKs8AUXH88pBH7YNAOU7R"
+    },
+    {
+      "album": {
         "name": "Gandhada Gudi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5OeCQXMbHXjMDBv08ODXu7"
       },
@@ -9056,6 +9132,32 @@
       "duration_ms": 140666,
       "name": "Kurudu Kanchaana Kuniyuthalittu - From \"Koutilya\"",
       "url": "https://open.spotify.com/track/7n1465XacdiqskxK3sYZnU"
+    },
+    {
+      "album": {
+        "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
+        "url": "https://open.spotify.com/album/1ezMzS05FfeDJegZveRy8X"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
+      "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
     },
     {
       "album": {
@@ -17214,6 +17316,32 @@
       "duration_ms": 163285,
       "name": "Usire Usire - From \"Girinad Premi\"",
       "url": "https://open.spotify.com/track/14l2oxJ2SnKr3XPf5ERzpc"
+    },
+    {
+      "album": {
+        "name": "Va Va Va Vaamana (From \"Vaamana\")",
+        "url": "https://open.spotify.com/album/3bjzd222DOZwdrszmswx1u"
+      },
+      "artists": [
+        {
+          "name": "Shashank Sheshagiri",
+          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233130,
+      "name": "Va Va Va Vaamana - From \"Vaamana\"",
+      "url": "https://open.spotify.com/track/5P1Lhm2TO0XkNItCsOlzJD"
     },
     {
       "album": {

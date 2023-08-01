@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 89672,
+  "num_followers": 89724,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzNmMzE1NjFiNTY0NDEzMzBmNjI3MjIyNmQyMTA3NzE3ZjRjMDY4",
+  "snapshot_id": "MCw3YjJhMGQ1MTQ4NjUyYjgzNWU0MzRjMDJkNDgzZjUyMWM2YmM2ZmI1",
   "tracks": [
     {
       "added_at": "2023-04-12 09:27:22",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
         "name": "Efred",
         "url": "https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Sahrany",
-      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Rouhi",
         "url": "https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 253786,
       "name": "Ah Bahibbak",
       "url": "https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
-        "name": "Roh Alby",
-        "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Mohie",
-          "url": "https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Ahl El Malama",
-      "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -499,6 +483,22 @@
       "duration_ms": 368933,
       "name": "Didi",
       "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Roh Alby",
+        "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Mohie",
+          "url": "https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Ahl El Malama",
+      "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "\u0627\u062d\u0644\u0649 \u0627\u0644\u0639\u064a\u0648\u0646",
-        "url": "https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d"
-      },
-      "artists": [
-        {
-          "name": "Assi El Hallani",
-          "url": "https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT"
-        }
-      ],
-      "duration_ms": 322600,
-      "name": "\u0645\u0627\u0644\u064a \u0635\u0628\u0631",
-      "url": "https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Marasil",
         "url": "https://open.spotify.com/album/66jInZF8WwjMbWn2nuFZss"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
+        "name": "\u0627\u062d\u0644\u0649 \u0627\u0644\u0639\u064a\u0648\u0646",
+        "url": "https://open.spotify.com/album/5hdgejTa41BMFTZwcB1h6d"
+      },
+      "artists": [
+        {
+          "name": "Assi El Hallani",
+          "url": "https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT"
+        }
+      ],
+      "duration_ms": 322600,
+      "name": "\u0645\u0627\u0644\u064a \u0635\u0628\u0631",
+      "url": "https://open.spotify.com/track/65XBOq8w2igm2wqkMNSouA"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
         "name": "Oriental Party",
         "url": "https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 214573,
       "name": "Lola El Saher",
       "url": "https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Je Suis Malade",
+        "url": "https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN"
+      },
+      "artists": [
+        {
+          "name": "Alaa Zalzali",
+          "url": "https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11"
+        }
+      ],
+      "duration_ms": 248006,
+      "name": "Akli Tar",
+      "url": "https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -631,34 +647,18 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
       },
       "artists": [
         {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
         }
       ],
-      "duration_ms": 291383,
-      "name": "Layali El Shouq",
-      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
-        "name": "Je Suis Malade",
-        "url": "https://open.spotify.com/album/5RNaW8jDyrMC7llIQJximN"
-      },
-      "artists": [
-        {
-          "name": "Alaa Zalzali",
-          "url": "https://open.spotify.com/artist/0fGQD0MLEXWiZgMamVcC11"
-        }
-      ],
-      "duration_ms": 248006,
-      "name": "Akli Tar",
-      "url": "https://open.spotify.com/track/4FSa6KE2uao5dTcQJRaQQ5"
+      "duration_ms": 225346,
+      "name": "El Ayam El Helwa",
+      "url": "https://open.spotify.com/track/2tVmbxRx2W0SN3OVXZfIGL"
     }
   ],
   "unique_name": "90s Arabic Hits",

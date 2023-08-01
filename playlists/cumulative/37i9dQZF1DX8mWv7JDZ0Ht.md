@@ -2,7 +2,7 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve! Foto: YVISON, GUPE
+> Novidades e hits do pop nacional pra te deixar mais leve! Foto: IVYSON, GUPE
 
 384 songs - 19 hr 5 min
 

@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: Diferente Nivel
 
-467 songs - 1 day 0 hr 21 min
+469 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Don Ismael](https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Don Ismael](https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj) | 2:38 | 2023-02-24 | 2023-05-27 |
 | [Duele](https://open.spotify.com/track/04pD748qRQGh53S75ut9bb) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Duele](https://open.spotify.com/album/0pXAfz9U26LoBjam90YKTn) | 3:24 | 2023-04-21 | 2023-05-27 |
 | [Duplicar](https://open.spotify.com/track/0lm26HV7CMEKmzYf8CvRGo) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [Duplicar](https://open.spotify.com/album/1Uz3IYaVHXJQVKpKqOQSmq) | 2:25 | 2023-04-21 | 2023-05-27 |
+| [Días De Rose](https://open.spotify.com/track/3rof58ZLsWXv8qfu9HZy9i) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Días De Rose](https://open.spotify.com/album/2j9U19Dtq3yFmRGU2Xbnct) | 2:20 | 2023-07-31 |  |
 | [EBS](https://open.spotify.com/track/6vFJgA2tFdu2wg3aryAxOS) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [EBS](https://open.spotify.com/album/4d359UVB7evIlGbS7XFpdt) | 2:47 | 2023-05-26 | 2023-06-17 |
 | [El Belicon](https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [El Belicon](https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94) | 3:34 | 2022-05-14 | 2022-08-27 |
 | [El Buda](https://open.spotify.com/track/6mjZRYz56d4j1tMpcj6ysL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Buda](https://open.spotify.com/album/2sBSqEuw7BFMhMVjRt7hO0) | 5:05 | 2022-07-22 | 2022-09-09 |
@@ -218,6 +219,7 @@
 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 | 2023-01-27 | 2023-04-22 |
 | [La Cayenne](https://open.spotify.com/track/2EjsPNiSMXGSnTKPgdPe9Y) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl) | [La Cayenne](https://open.spotify.com/album/6UbqpR6Qmid3Du6UUOL1IL) | 2:18 | 2023-01-27 | 2023-04-22 |
 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 | 2022-08-05 | 2022-09-09 |
+| [La Fiesta de Mi Pueblo](https://open.spotify.com/track/0nJYeksZwqNPzcymMnIfN0) | [Julian Torres y Mariachi Cenzontle](https://open.spotify.com/artist/7FrH112fVeuvrzdwtztcUH) | [La Fiesta de Mi Pueblo](https://open.spotify.com/album/6mgwQb5mPL98Oah4vjTBk6) | 2:58 | 2023-07-31 |  |
 | [La Maria \- En Vivo](https://open.spotify.com/track/66gzSzhIJHzEMvsrKbFVZh) | [Cuarto Destino](https://open.spotify.com/artist/5eE8WgiycE2rcU5IJGlo1P) | [La Maria \(En Vivo\)](https://open.spotify.com/album/4kF7xv1zzpSaS5IGhZg8Cq) | 3:11 | 2022-07-22 | 2022-09-09 |
 | [La Mera Vena](https://open.spotify.com/track/6XZ1gKHtAHcXPYjVt3UBaz) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [La Mera Vena](https://open.spotify.com/album/3OSPVwIG8hA2G5Ltc3sfJg) | 2:30 | 2023-05-26 |  |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2023-02-25 |
@@ -324,7 +326,7 @@
 | [Nos Acoplamos Macizo](https://open.spotify.com/track/20f9YnNt8NzMhG4pk76z4r) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Nos Acoplamos Macizo](https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl) | 4:06 | 2023-01-13 | 2023-04-22 |
 | [Nuestra Canción](https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Nuestra Canción](https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4) | 3:21 | 2023-01-27 | 2023-05-27 |
 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 | 2022-05-14 | 2022-09-09 |
-| [Nuestro Amor](https://open.spotify.com/track/6GRFIpU9Yyae32zFFMoklW) | [Xavier Moreno](https://open.spotify.com/artist/2OmItRyzW8FUoxUECXMzWM) | [Nuestro Amor](https://open.spotify.com/album/56uGdoYiaHVm1TLqy6LMuo) | 2:57 | 2023-04-21 |  |
+| [Nuestro Amor](https://open.spotify.com/track/6GRFIpU9Yyae32zFFMoklW) | [Xavier Moreno](https://open.spotify.com/artist/2OmItRyzW8FUoxUECXMzWM) | [Nuestro Amor](https://open.spotify.com/album/56uGdoYiaHVm1TLqy6LMuo) | 2:57 | 2023-04-21 | 2023-08-01 |
 | [Nuestro Futuro](https://open.spotify.com/track/0hAdYzsakzvP0TDORQI5jE) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Nuestro Futuro](https://open.spotify.com/album/1VKC8wUoTSIwtkSjBMMDtB) | 3:10 | 2022-08-05 | 2022-09-09 |
 | [Nunca Termino](https://open.spotify.com/track/6rEX6cTWAMmSGAiQyqYYoK) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Conexión](https://open.spotify.com/album/0bUW77c5XNumR21FMcPq73) | 2:36 | 2023-07-22 |  |
 | [Odio](https://open.spotify.com/track/3lD9MZbyyl6fAirYEgmABl) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Odio](https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj) | 2:33 | 2022-09-09 | 2023-02-18 |
@@ -340,7 +342,7 @@
 | [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 | 2023-05-26 | 2023-07-29 |
 | [Perfección](https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Perfección](https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv) | 2:00 | 2023-03-17 | 2023-04-22 |
 | [Perfecta](https://open.spotify.com/track/1zRbhGdwBZVDTTvhB7OE0e) | [Eddy Barreno y Su Excelencia](https://open.spotify.com/artist/0e2Hwtj63vQDsOZsorJ91C) | [Perfecta](https://open.spotify.com/album/5QDVlCM7W0dhVwuY5d9PHj) | 4:01 | 2022-05-14 | 2022-09-09 |
-| [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 | 2023-06-23 |  |
+| [Perfecto](https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Perfecto](https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na) | 2:32 | 2023-06-23 | 2023-08-01 |
 | [Pero Yo No](https://open.spotify.com/track/4C6ng2PDu8ibYqrr3XteqJ) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY), [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [Pero Yo No](https://open.spotify.com/album/1hw9JbqbOxROPBhlxso6xc) | 2:32 | 2022-05-14 | 2022-06-04 |
 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 | 2022-05-14 | 2022-06-04 |
 | [Piensa](https://open.spotify.com/track/1u25yYhSNY1PFOoc9kh1my) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [Piensa](https://open.spotify.com/album/1muFFQvj6MF64ZyBGNOBSV) | 4:33 | 2022-07-15 | 2022-08-27 |

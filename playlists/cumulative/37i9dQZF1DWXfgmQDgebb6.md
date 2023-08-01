@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Blue.D\(블루디\)\)
 
-315 songs - 17 hr 36 min
+316 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Electric Animal](https://open.spotify.com/track/5WsxLJtXDWl5EfH5z7N05R) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Keyon Christ](https://open.spotify.com/artist/71p9YcOYtzkakGsABYYxKW) | [Electric Animal](https://open.spotify.com/album/6bMe66LMpqunGFxKcVJ2Sc) | 2:41 | 2022-05-27 |  |
 | [ELEVATOR FLOW](https://open.spotify.com/track/0OlADwDq7CuXr4vBRSe9Ii) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 2:40 | 2022-05-27 | 2022-08-30 |
 | [Elon Musk](https://open.spotify.com/track/7oih3KQUoOJImDfkrFs1ku) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Elon Musk](https://open.spotify.com/album/5hYLSv0CrAddV2sOXtKV7h) | 1:46 | 2023-01-10 | 2023-02-09 |
+| [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 | 2023-07-31 |  |
 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 | 2022-09-05 | 2022-12-20 |
 | [Espresso Build](https://open.spotify.com/track/3yfHXif4GgssiGkUTy8OIA) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 1:47 | 2022-05-27 | 2022-07-25 |
 | [Even When I Smile](https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq) | [blah](https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg) | [Even When I Smile](https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE) | 3:36 | 2022-11-24 | 2023-02-15 |
@@ -185,7 +186,7 @@
 | [monochrome](https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [monochrome](https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx) | 4:21 | 2022-09-05 | 2022-12-20 |
 | [Monster](https://open.spotify.com/track/4lzOzwomlLCzI2fuITPsEs) | [MIXXXD BY](https://open.spotify.com/artist/5TrpyeMunSR0tMqzxdvFVU) | [Monster](https://open.spotify.com/album/5xAfHVVvl1wbolDNpEk5h7) | 2:57 | 2022-06-09 | 2022-07-28 |
 | [Moon](https://open.spotify.com/track/1Fi5OIs8sB3WABpWZAYbJG) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 2:46 | 2022-05-27 | 2022-07-29 |
-| [Mr\. Mood](https://open.spotify.com/track/625V2w5OOIYwF9MQE3FrEG) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Mr\. Mood](https://open.spotify.com/album/42E7mSHab2epuAzNgrelpf) | 2:03 | 2023-07-17 |  |
+| [Mr\. Mood](https://open.spotify.com/track/625V2w5OOIYwF9MQE3FrEG) | [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [Mr\. Mood](https://open.spotify.com/album/42E7mSHab2epuAzNgrelpf) | 2:03 | 2023-07-17 | 2023-08-01 |
 | [Muse](https://open.spotify.com/track/4mt7tW8sKu4Ns0yMIVsrIn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 2:55 | 2022-11-03 | 2023-02-15 |
 | [MWAH](https://open.spotify.com/track/1mY0EZbeh4LB9XAoSgUklw) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [MWAH](https://open.spotify.com/album/51l27CHkRmZXBhIel6iCBz) | 3:06 | 2022-05-27 | 2022-07-29 |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2022-05-27 |  |

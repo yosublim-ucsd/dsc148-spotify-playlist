@@ -1,12 +1,12 @@
 {
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: <a href=\"https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=UPffg_DeSkSwTVHDIh5Vxg\"> Mohamed Hamaki </a>\n",
-  "num_followers": 104199,
+  "num_followers": 104259,
   "original_name": "Fresh Arabic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjMyYWRiZjUzNmY5YmMxYTU2OTJkZWQ3MWU5ZDM0MWQ3MmJlNGMw",
+  "snapshot_id": "MCxmZjE4ODgzNmJmZjU2MzZhOTRiMzZkZWIzMmMzMjQ2NGQyZTdkZjk4",
   "tracks": [
     {
       "added_at": "2023-07-25 06:50:10",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-07-25 06:50:10",
       "album": {
-        "name": "Qalbi",
-        "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
-      },
-      "artists": [
-        {
-          "name": "Yasser Abd Alwahab",
-          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
-        },
-        {
-          "name": "Zaid Al Habeb",
-          "url": "https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Qalbi",
-      "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
         "name": "Ya Layaly",
         "url": "https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 190714,
       "name": "Ya Layaly",
       "url": "https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
+        "name": "Qalbi",
+        "url": "https://open.spotify.com/album/1lfpfGCFc7pDdQO9H1Qa5L"
+      },
+      "artists": [
+        {
+          "name": "Yasser Abd Alwahab",
+          "url": "https://open.spotify.com/artist/6257KWddv5693NK51w7iXa"
+        },
+        {
+          "name": "Zaid Al Habeb",
+          "url": "https://open.spotify.com/artist/1fIXYnOvlxESOGPL3l10YK"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Qalbi",
+      "url": "https://open.spotify.com/track/2MPhoIfjDqqtcIpCoq61j7"
     },
     {
       "added_at": "2023-07-25 06:50:10",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-07-25 06:50:10",
       "album": {
-        "name": "Halef 3al Hob",
-        "url": "https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 169104,
-      "name": "Halef 3al Hob",
-      "url": "https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
         "name": "MAMA EH",
         "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 151499,
       "name": "MAMA EH",
       "url": "https://open.spotify.com/track/47VdymxL7CZSpfGDbvAxWK"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
+        "name": "Halef 3al Hob",
+        "url": "https://open.spotify.com/album/00K4NBpJVdqXZSOfTtXtXb"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 169104,
+      "name": "Halef 3al Hob",
+      "url": "https://open.spotify.com/track/07e7dSXY5Fqe2AUG9I4wLl"
     },
     {
       "added_at": "2023-07-25 06:50:10",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-07-25 06:50:10",
       "album": {
+        "name": "Bel Ahlam",
+        "url": "https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Bel Ahlam",
+      "url": "https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
         "name": "Al Oyoun Al Sod",
         "url": "https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 193859,
       "name": "Eftahli Albak",
       "url": "https://open.spotify.com/track/67gTcM9RkrJRyjvxNKWlxZ"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
-        "name": "Bel Ahlam",
-        "url": "https://open.spotify.com/album/6NqhRld7ho3Y5w40QKf9Dk"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Bel Ahlam",
-      "url": "https://open.spotify.com/track/4tqnXpS0wJcqkZMFx7reaY"
     },
     {
       "added_at": "2023-07-25 06:50:10",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-07-25 06:50:10",
       "album": {
-        "name": "Bas Bhebbak (\u0628\u0633 \u0628\u062d\u0628\u0643)",
-        "url": "https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
-        }
-      ],
-      "duration_ms": 188207,
-      "name": "Bas Bhebbak - \u0628\u0633 \u0628\u062d\u0628\u0643",
-      "url": "https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
         "name": "Miganinani",
         "url": "https://open.spotify.com/album/5QlJn2n6yvZGYT9uS3FYP1"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 167874,
       "name": "Miganinani",
       "url": "https://open.spotify.com/track/0cOmhBrTHMuiwvCNtx20Wd"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
+        "name": "Bas Bhebbak (\u0628\u0633 \u0628\u062d\u0628\u0643)",
+        "url": "https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "duration_ms": 188207,
+      "name": "Bas Bhebbak - \u0628\u0633 \u0628\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3"
     },
     {
       "added_at": "2023-07-25 06:50:10",
@@ -519,6 +519,22 @@
       "duration_ms": 200869,
       "name": "Zidini",
       "url": "https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
+        "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
+        "url": "https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
+      "url": "https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s"
     },
     {
       "added_at": "2023-07-25 06:50:10",
@@ -571,38 +587,6 @@
     {
       "added_at": "2023-07-25 06:50:10",
       "album": {
-        "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
-        "url": "https://open.spotify.com/album/5ANgOtkPz7JYyJ0h6F96pR"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "\u0645\u0634 \u0647\u062a\u063a\u064a\u0631 \u0639\u0634\u0627\u0646 \u062d\u062f",
-      "url": "https://open.spotify.com/track/7a4X1BSy2tvhkPIQlHjI4s"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
-        "name": "Hollela",
-        "url": "https://open.spotify.com/album/0iUnUZiFg6uHCNkgQXa21g"
-      },
-      "artists": [
-        {
-          "name": "Abu",
-          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
-        }
-      ],
-      "duration_ms": 231363,
-      "name": "Hollela",
-      "url": "https://open.spotify.com/track/1yIoskiVCvPljSNe1MWyMY"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
         "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
         "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 197941,
       "name": "GPS",
       "url": "https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
+        "name": "Hollela",
+        "url": "https://open.spotify.com/album/0iUnUZiFg6uHCNkgQXa21g"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "duration_ms": 231363,
+      "name": "Hollela",
+      "url": "https://open.spotify.com/track/1yIoskiVCvPljSNe1MWyMY"
     },
     {
       "added_at": "2023-07-25 06:50:10",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-07-25 06:50:10",
       "album": {
+        "name": "Bagheeb Bmzagy",
+        "url": "https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 200119,
+      "name": "Bagheeb Bmzagy",
+      "url": "https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT"
+    },
+    {
+      "added_at": "2023-07-25 06:50:10",
+      "album": {
         "name": "\u0627\u0644\u0641\u064a\u0646 \u0628\u0627\u0628",
         "url": "https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 204225,
       "name": "\u0627\u0644\u062d\u0628",
       "url": "https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP"
-    },
-    {
-      "added_at": "2023-07-25 06:50:10",
-      "album": {
-        "name": "Bagheeb Bmzagy",
-        "url": "https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 200119,
-      "name": "Bagheeb Bmzagy",
-      "url": "https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT"
     },
     {
       "added_at": "2023-07-25 06:50:10",

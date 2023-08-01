@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: YOSHI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,046 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,060 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 |
 | 50 | [Alolé](https://open.spotify.com/track/1tClHBdzSxPz65oM52y18i) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Alolé](https://open.spotify.com/album/6XeLrzomLxRJgrANwtP8F3) | 2:23 |
 
-Snapshot ID: `MCwxNGYyMTM2ODYwYzhkZTk4ZTRkN2FmZjRlZDIxYmExZmM3ZjRjMjE4`
+Snapshot ID: `MCxmNTI4MmZkMTExMGQzNzA0YTZiODAwODdjNjYxMDI3NTZiMjlkOGRm`

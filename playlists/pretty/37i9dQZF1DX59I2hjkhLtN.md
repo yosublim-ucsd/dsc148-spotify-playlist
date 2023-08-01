@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,530 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,532 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Horas Extra](https://open.spotify.com/track/2JnAYf8cKtS0V6ZIRa8LAY) | [Caixa Cartão Collective](https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk), [UEST.](https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5), [Rilha](https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ), [Big Jony](https://open.spotify.com/artist/6wrMJAqosSbDU8Zq0kt08M), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Pedra](https://open.spotify.com/artist/0pqtHEnbvxrph9Rg21qqBa) | [Horas Extra](https://open.spotify.com/album/7nrFtPvZjim9mzmCali9u1) | 2:07 |
 | 99 | [Momma Song](https://open.spotify.com/track/7lpuxNMONrQKAvwTAuzIBT) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Momma Song](https://open.spotify.com/album/6kgOyrUuu0kiqMnqW6ZWEF) | 3:30 |
 
-Snapshot ID: `MCxhOTMyYzYzNzEwMWQ2YTlkODEwOTk1MjJhZTg4OTM0ZTk2YmQxMzFk`
+Snapshot ID: `MCxjM2E3YzljNzE2YjdhMzhmY2Y0ZjVkNjEzMWE5MDE2MGQ0MjU0ODk0`

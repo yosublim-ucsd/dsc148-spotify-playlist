@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-404 songs - 1 day 11 hr 31 min
+405 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dilla 4 Life](https://open.spotify.com/track/7aUXv3MJYpYgcpVgJVbqaP) | [Byron the Aquarius](https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ) | [Dilla 4 Life](https://open.spotify.com/album/4PluePNnDFKZ4KrDZUJYze) | 4:26 | 2021-12-08 | 2022-07-26 |
 | [Dingane](https://open.spotify.com/track/1E66GmDYqz4CSEVDtFjcd3) | [Bantwanas](https://open.spotify.com/artist/4Ehizytd7yGJKj5ywFyj3E) | [Dingane](https://open.spotify.com/album/2OaJteERKDVN4vXW7JJ5B8) | 4:10 | 2021-12-08 | 2023-05-06 |
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-12-08 | 2022-02-22 |
+| [Do No More](https://open.spotify.com/track/21YVPtVHmvpodDiy7GyhUU) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Do No More](https://open.spotify.com/album/7lYVmgsxzp11ONTb9OynO0) | 2:42 | 2023-07-31 |  |
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 |  |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
@@ -371,7 +372,7 @@
 | [Trace](https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE) | [Tommy Tickle](https://open.spotify.com/artist/6fdPipPgwuSQrqDkAFpqu9) | [Trace](https://open.spotify.com/album/5eyT1hs1NEOkcSk6uyBDxT) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Tranquility](https://open.spotify.com/track/1FTbeseqg1XrgTnPjhChjn) | [Tommy Vercetti](https://open.spotify.com/artist/2noNB4p7pYhP4XfNcdDfJc) | [Tranquility EP](https://open.spotify.com/album/3sb10HqXfC7j3JXdp1j9Up) | 5:56 | 2021-12-08 | 2022-07-29 |
 | [Transience](https://open.spotify.com/track/0rWfxCowxTVuh4gLNGDcme) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Transience EP](https://open.spotify.com/album/0LmBlbVu1Q7UBs0x4aROWz) | 5:40 | 2023-01-06 |  |
-| [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 | 2021-12-08 |  |
+| [Transit of Venus](https://open.spotify.com/track/3hq2vQXYuiF5FVoCQZJbac) | [Processing Vessel](https://open.spotify.com/artist/5Lyrb1o3Ep95k5A3nhtiqz) | [Spacefaring](https://open.spotify.com/album/4LcRkEnfpQm4akG6q0gr4F) | 6:48 | 2021-12-08 | 2023-08-01 |
 | [Trilobit](https://open.spotify.com/track/3G6h7nE6eciZDrNVs6Mlov) | [Dabeat](https://open.spotify.com/artist/6iaILU3ksJDKbut3sJfIWS) | [Sarcophyton / Trilobit](https://open.spotify.com/album/1nIHLbnTwGfJXGVHW1SW0E) | 7:40 | 2021-12-08 | 2023-07-03 |
 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 | 2021-12-08 | 2022-07-22 |
 | [tu tienes mi corazón](https://open.spotify.com/track/2b4xMVXYYIIbWjDLSy1Wcv) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [tu tienes mi corazón](https://open.spotify.com/album/6JcbnYuwiJ1UYCAtlwSWlo) | 4:09 | 2021-12-08 |  |

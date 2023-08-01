@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-114 songs - 10 hr 10 min
+115 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Spectre At The Feast](https://open.spotify.com/track/6kxmj5XxH1AJV1NjBERhg9) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/0PdQurxGKXWlIlTseFO0ZF) | 4:18 | 2022-11-17 |  |
 | [Spectre At The Feast](https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Spectre At The Feast](https://open.spotify.com/album/1Px3a4tbFV1DUZJg6LfoML) | 4:18 | 2022-05-20 | 2023-05-04 |
 | [Suffering](https://open.spotify.com/track/3awtlr6uIsrUvZr1SCeQN0) | [pg.lost](https://open.spotify.com/artist/6YK58h9BCYpFNv10fsMwoS) | [Suffering](https://open.spotify.com/album/2N3vxBj5sxogFtGTUU5BIG) | 5:51 | 2022-05-20 |  |
-| [The Arsonist](https://open.spotify.com/track/3mw6eplGTzJIW62daXaoz6) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/7EqrrMcMnLF5LZy4tReToj) | 3:53 | 2022-05-20 |  |
+| [The Arsonist](https://open.spotify.com/track/0gM6r00FUsQ5HlxuIguPTr) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/4QAEcrM4zKTByiscO3eA90) | 3:53 | 2022-11-17 |  |
+| [The Arsonist](https://open.spotify.com/track/3mw6eplGTzJIW62daXaoz6) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/7EqrrMcMnLF5LZy4tReToj) | 3:53 | 2022-05-20 | 2023-08-01 |
 | [The Arsonist](https://open.spotify.com/track/6TRGAsJseHYaXl0xVHy97r) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [War Is Over](https://open.spotify.com/album/6qX9oUq4PTUBtVaczthHpY) | 3:53 | 2022-05-20 | 2022-07-29 |
 | [The Cynic](https://open.spotify.com/track/15Nl9URaaW0A3nQdzXZjxS) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/3KboReNemDz3MBYjWrgIWK) | 5:53 | 2022-05-20 |  |
 | [The Cynic](https://open.spotify.com/track/3cet6MhvWU3ztnQB55RHdK) | [Franklin Zoo](https://open.spotify.com/artist/78uVsW6GyF4JylRifvQtI3) | [The Dandelion Child](https://open.spotify.com/album/60M3UbywI2bpUHZ1USTL5E) | 5:53 | 2022-05-20 | 2022-08-10 |

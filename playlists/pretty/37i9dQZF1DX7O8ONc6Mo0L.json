@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Maria Mar\u00e7al",
-  "num_followers": 258342,
+  "num_followers": 258519,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDMyMTM0YTBkN2JlODEwNDZiYjQ0MGEyNzE0OWY0ODNmNzU2MDRi",
+  "snapshot_id": "MCwzYzBkMWNiYmFmZTFmODkzZDBmMzk2MGYzMzZkMzg3OGE0YWE1MDgy",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -187,54 +187,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "O Tamanho da Tua Dor",
-        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "O Tamanho da Tua Dor",
-      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 320361,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Algo Novo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Algo Novo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "O Dia Que Ser\u00e1 Pra Sempre",
         "url": "https://open.spotify.com/album/2KTRJyzvBRhjQpmMJ6m85C"
       },
@@ -287,6 +239,54 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 320361,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Algo Novo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Algo Novo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "O Tamanho da Tua Dor",
+        "url": "https://open.spotify.com/album/2mhTrOtvd1RBNPKamuICTg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "O Tamanho da Tua Dor",
+      "url": "https://open.spotify.com/track/2mDecxwnK1KzuDonVfYL90"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 3 (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L"
       },
@@ -299,54 +299,6 @@
       "duration_ms": 234016,
       "name": "Faz Chover - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Paz da Minha Alma",
-        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 278031,
-      "name": "Paz da Minha Alma",
-      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2VjaDxyEHiM8CoQMlvL9Em"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 208810,
-      "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5WOCuracx7DrET4eOVP2ZG"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -387,6 +339,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Paz da Minha Alma",
+        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 278031,
+      "name": "Paz da Minha Alma",
+      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
@@ -399,6 +367,86 @@
       "duration_ms": 314861,
       "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
+      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Ton Canta",
+        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 316055,
+      "name": "Algo Novo",
+      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Em Teus Bra\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2VjaDxyEHiM8CoQMlvL9Em"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 208810,
+      "name": "Eu N\u00e3o Sou Mais \u00d3rf\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5WOCuracx7DrET4eOVP2ZG"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -428,57 +476,9 @@
           "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
         }
       ],
-      "duration_ms": 280161,
-      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
-      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "N\u00e3o Mais Escravos - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Ton Canta",
-        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 316055,
-      "name": "Algo Novo",
-      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
+      "duration_ms": 342250,
+      "name": "A Casa \u00c9 Sua - Acoustic Session",
+      "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -535,38 +535,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "De Dentro Pra Fora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "De Dentro Pra Fora - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 342250,
-      "name": "A Casa \u00c9 Sua - Acoustic Session",
-      "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Eu e o Rei (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ"
       },
@@ -587,18 +555,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+        "name": "De Dentro Pra Fora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
       },
       "artists": [
         {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
+      "duration_ms": 257105,
+      "name": "De Dentro Pra Fora - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -623,6 +591,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "N\u00e3o Mais Escravos - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
       },
@@ -635,22 +619,6 @@
       "duration_ms": 277692,
       "name": "Me Deixe Aqui",
       "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -743,6 +711,58 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 256756,
+      "name": "Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Meu Barquinho",
         "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
       },
@@ -783,26 +803,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 256756,
-      "name": "Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
       },
@@ -819,26 +819,6 @@
       "duration_ms": 289638,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -907,6 +887,26 @@
       "duration_ms": 331250,
       "name": "Impressionante - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Formoso \u00c9s (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 278500,
       "name": "Formoso \u00c9s - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 271124,
-      "name": "Celebrate Your Life",
-      "url": "https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 271124,
+      "name": "Celebrate Your Life",
+      "url": "https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6"
     },
     {
       "added_at": "2023-07-28 03:00:00",

@@ -923,6 +923,32 @@
     },
     {
       "album": {
+        "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 10",
+        "url": "https://open.spotify.com/album/3frqYG5W01KlHASCd6iVzo"
+      },
+      "artists": [
+        {
+          "name": "RAP VI\u1ec6T",
+          "url": "https://open.spotify.com/artist/1cPpd989kghzlZqfpP4KwL"
+        },
+        {
+          "name": "Limitlxss",
+          "url": "https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7"
+        },
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255278,
+      "name": "Anh Kh\u00f4ng C\u1ed1 \u00dd (feat. Limitlxss & Ogenus)",
+      "url": "https://open.spotify.com/track/4ez3r3aXZMLzEiwixwqCT3"
+    },
+    {
+      "album": {
         "name": "Rap Vi\u1ec7t M\u00f9a 3 (2023) - T\u1eadp 8",
         "url": "https://open.spotify.com/album/6t6MpiPsDCgZutjx2BQF5Z"
       },
@@ -2790,7 +2816,7 @@
           "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
         },
         {
-          "name": "Phuong Ly",
+          "name": "Ph\u01b0\u01a1ng Ly",
           "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
         }
       ],
@@ -3154,7 +3180,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -9774,7 +9800,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 179668,
       "name": "N\u01a1i Ta S\u1ed1ng (feat. Long N\u00f3n L\u00e1 & Mikelodic)",
       "url": "https://open.spotify.com/track/67SnHLuHADZ2r5FkYbON0A"
@@ -10766,7 +10792,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -13346,7 +13372,7 @@
           "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
         },
         {
-          "name": "Phuong Ly",
+          "name": "Ph\u01b0\u01a1ng Ly",
           "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
         }
       ],

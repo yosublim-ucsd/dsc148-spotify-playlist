@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-406 songs - 1 day 0 hr 16 min
+407 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-02-10 | 2022-07-29 |
 | [Business](https://open.spotify.com/track/5oUwyrZSJbTNNA6FOHf9B5) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Duality](https://open.spotify.com/album/7dymUqV6SGyKeCvjoeG64e) | 2:56 | 2022-03-31 | 2022-04-16 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-01-26 |  |
-| [Calibrate](https://open.spotify.com/track/63V1rx4AkZTnykAz5um0qt) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Calibrate](https://open.spotify.com/album/5JM1jWIvJbEzrJKvBZhO6v) | 3:48 | 2023-07-06 |  |
+| [Calibrate](https://open.spotify.com/track/0coFHVhs0Oa8CJcikaQhMI) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:48 | 2023-07-27 |  |
+| [Calibrate](https://open.spotify.com/track/63V1rx4AkZTnykAz5um0qt) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Calibrate](https://open.spotify.com/album/5JM1jWIvJbEzrJKvBZhO6v) | 3:48 | 2023-07-06 | 2023-08-01 |
 | [Call on Me \- Knxwledge Remix](https://open.spotify.com/track/5Nhw180obum91f6beXfweg) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Call on Me \(Knxwledge Remix\)](https://open.spotify.com/album/1P84iDclPoEG2p3AGlKJWI) | 2:29 | 2022-01-06 | 2022-07-21 |
 | [Can't Believe It](https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Can't Believe It](https://open.spotify.com/album/2iwGkNuvY89nmsTlAGZ22r) | 4:39 | 2021-12-23 | 2022-07-29 |
 | [Capsule](https://open.spotify.com/track/7n5quXV8nb108gmlx5hJQR) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Daigo Sakuragi](https://open.spotify.com/artist/6BF6Gk8IqAmYS9QqefDi6j) | [Capsule](https://open.spotify.com/album/6V8jaLhSIrT0vT2SJhV2q4) | 3:31 | 2022-03-24 | 2022-05-26 |

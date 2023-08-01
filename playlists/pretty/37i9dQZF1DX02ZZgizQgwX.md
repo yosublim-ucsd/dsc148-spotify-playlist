@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02ZZgizQgwX.md) - [plain]
 
 > Painting a beautiful palette of Melodic House, <a href="spotify:artist:1ikID9RZZMvkuBGDWrqajq">Kasbo</a> delivers sultry tonalities in his latest mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 20 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,139 likes - 20 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02ZZgizQgwX.md) - [plain]
 | 19 | [From Me \- Mixed](https://open.spotify.com/track/7kRVGFyq8Z89KV0L3qWTee) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Bernache](https://open.spotify.com/artist/3hK7zrlyCSC3oKnpVL6g5L) | [From Me \(Mixed\)](https://open.spotify.com/album/6hI4YEKsgBHo0gCsAUddj8) | 1:20 |
 | 20 | [From Me \- CRi Remix \- Mixed](https://open.spotify.com/track/2wqUWOWTI9oD6PYnwKgUzN) | [Bernache](https://open.spotify.com/artist/3hK7zrlyCSC3oKnpVL6g5L), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [From Me \- CRi Remix \(Mixed\)](https://open.spotify.com/album/5h2HllXinVFPaIGBpfsmcg) | 2:08 |
 
-Snapshot ID: `MCw5ZTM1ODNkM2I5MzRkOTM5NDE2NjE5MDBhOWYyZWZlYzIxMWIzM2Q5`
+Snapshot ID: `MCw3YWFiMTU0YWRlNDE5NzRkY2NiNjkwZmFjNzg4MTc4Y2I3ZGE4NDY3`

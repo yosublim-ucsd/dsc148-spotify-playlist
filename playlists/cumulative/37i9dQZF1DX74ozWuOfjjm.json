@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of Au & NZ at full volume! Cover: Blusher",
+  "description": "Listen to the women of Au & NZ at full volume! Cover: Angie McMahon",
   "name": "EQUAL AU & NZ",
   "tracks": [
     {
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 198044,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs"
@@ -4472,7 +4472,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 170554,
       "name": "LOLA",
       "url": "https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds"
@@ -5791,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "rats in my walls",
+        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312459,
+      "name": "rats in my walls",
+      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
+    {
+      "album": {
         "name": "READ",
         "url": "https://open.spotify.com/album/7uMlhSlAXQWMfrgcnJ7Xxi"
       },
@@ -5860,6 +5878,24 @@
       "duration_ms": 201421,
       "name": "Rerun",
       "url": "https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e"
+    },
+    {
+      "album": {
+        "name": "Ring-a-Ling",
+        "url": "https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178240,
+      "name": "Ring-a-Ling",
+      "url": "https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns"
     },
     {
       "album": {
@@ -6484,6 +6520,24 @@
       "duration_ms": 202169,
       "name": "Someone's Gonna Die Tonight",
       "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
+    },
+    {
+      "album": {
+        "name": "Something Familiar",
+        "url": "https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186560,
+      "name": "Something Familiar",
+      "url": "https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt"
     },
     {
       "album": {
@@ -7514,6 +7568,24 @@
       "duration_ms": 176128,
       "name": "Unforgivingly Me",
       "url": "https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9"
+    },
+    {
+      "album": {
+        "name": "Up in My Head",
+        "url": "https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq"
+      },
+      "artists": [
+        {
+          "name": "ASHWARYA",
+          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212595,
+      "name": "Up in My Head",
+      "url": "https://open.spotify.com/track/3fCq01smXb4MnNSydn1Uem"
     },
     {
       "album": {

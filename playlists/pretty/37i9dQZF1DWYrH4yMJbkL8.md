@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Teigen Gayse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,180 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,184 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 29 | [Homemaker](https://open.spotify.com/track/38R4JCmuR3bxnRcHqRhOun) | [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Homemaker](https://open.spotify.com/album/2SLatd6p3fGt6Jt5X5XI2p) | 3:00 |
 | 30 | [When You Miss Someone](https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:05 |
 
-Snapshot ID: `MCwzNWVjNDgxNmYwMmVkM2UxMGJmNTQ2MWIyNDFlNzI2ZWQyMjE1OWU3`
+Snapshot ID: `MCw2YzkwNzQzODQxMmI5OWY0MWE3N2MwMjA1ZmMyZDJjNzZhYjRkOThi`

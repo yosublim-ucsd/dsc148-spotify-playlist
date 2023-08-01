@@ -1,12 +1,12 @@
 {
   "description": "The <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels. Cover: Debbii Dawson. Artwork by Isu Kim. Updates every Wednesday.",
-  "num_followers": 1159263,
+  "num_followers": 1159260,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTI5YmE1M2U0NjU1YzUzYjExMDEwMGM2NTE0MmFjOTJmMGY2ZmMy",
+  "snapshot_id": "MCw5MmM4MTExNDhhNGRjYzM5ODBjNTQ5Y2Q4ZDExNTQ1YTA1MjUzYzI2",
   "tracks": [
     {
       "added_at": "2023-07-26 14:33:45",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-26 14:43:17",
       "album": {
-        "name": "Nuclear Reactor",
-        "url": "https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx"
-      },
-      "artists": [
-        {
-          "name": "OSA",
-          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
-        }
-      ],
-      "duration_ms": 195498,
-      "name": "Nuclear Reactor",
-      "url": "https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq"
-    },
-    {
-      "added_at": "2023-07-26 14:43:17",
-      "album": {
         "name": "Strawberry Skies",
         "url": "https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 186130,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
+    },
+    {
+      "added_at": "2023-07-26 14:43:17",
+      "album": {
+        "name": "Nuclear Reactor",
+        "url": "https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx"
+      },
+      "artists": [
+        {
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+        }
+      ],
+      "duration_ms": 195498,
+      "name": "Nuclear Reactor",
+      "url": "https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"
     },
     {
-      "added_at": "2023-07-27 17:21:03",
-      "album": {
-        "name": "ASB2",
-        "url": "https://open.spotify.com/album/6fvOLyk3E5slggn3a0R7YW"
-      },
-      "artists": [
-        {
-          "name": "Matthew Ali",
-          "url": "https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "iwannaknow",
-      "url": "https://open.spotify.com/track/1cFtl5Anb4WK4OkTVJwMrh"
-    },
-    {
       "added_at": "2023-07-26 14:43:17",
       "album": {
         "name": "Presence",
@@ -401,6 +385,22 @@
       "url": "https://open.spotify.com/track/0nqYSy8jZOARJs42mbQwI1"
     },
     {
+      "added_at": "2023-07-27 17:21:03",
+      "album": {
+        "name": "ASB2",
+        "url": "https://open.spotify.com/album/6fvOLyk3E5slggn3a0R7YW"
+      },
+      "artists": [
+        {
+          "name": "Matthew Ali",
+          "url": "https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "iwannaknow",
+      "url": "https://open.spotify.com/track/1cFtl5Anb4WK4OkTVJwMrh"
+    },
+    {
       "added_at": "2023-07-26 14:33:45",
       "album": {
         "name": "Summer",
@@ -431,6 +431,22 @@
       "duration_ms": 226066,
       "name": "Perdimos El Control",
       "url": "https://open.spotify.com/track/5RWydx8ulboL4kAT0XjfC7"
+    },
+    {
+      "added_at": "2023-07-26 14:33:45",
+      "album": {
+        "name": "The Sailor's Compilation, Pt. 1",
+        "url": "https://open.spotify.com/album/4o38yhz8rXxZvPHs20Vuyz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere",
+          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Baby from Atlanta",
+      "url": "https://open.spotify.com/track/0L9eGPj0Meabb1SML6kD1A"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
-        "name": "The Sailor's Compilation, Pt. 1",
-        "url": "https://open.spotify.com/album/4o38yhz8rXxZvPHs20Vuyz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Somewhere",
-          "url": "https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Baby from Atlanta",
-      "url": "https://open.spotify.com/track/0L9eGPj0Meabb1SML6kD1A"
-    },
-    {
-      "added_at": "2023-07-26 14:33:45",
-      "album": {
         "name": "I Keep My Feet on the Fragile Plane",
         "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
-        "name": "Slow Puncture",
-        "url": "https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk"
+        "name": "Someway Somehow",
+        "url": "https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo"
       },
       "artists": [
         {
-          "name": "Symbol Soup",
-          "url": "https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal"
+          "name": "Party Nails",
+          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
         }
       ],
-      "duration_ms": 171053,
-      "name": "Saddle",
-      "url": "https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a"
+      "duration_ms": 208677,
+      "name": "Someway Somehow",
+      "url": "https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
-        "name": "Someway Somehow",
-        "url": "https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo"
+        "name": "Slow Puncture",
+        "url": "https://open.spotify.com/album/20JCvbAdAKeQIvj97M8Ayk"
       },
       "artists": [
         {
-          "name": "Party Nails",
-          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
+          "name": "Symbol Soup",
+          "url": "https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal"
         }
       ],
-      "duration_ms": 208677,
-      "name": "Someway Somehow",
-      "url": "https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D"
+      "duration_ms": 171053,
+      "name": "Saddle",
+      "url": "https://open.spotify.com/track/6qtCLNxE5pkbVDoFP2yf4a"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
+        "name": "I Saw U",
+        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
+      },
+      "artists": [
+        {
+          "name": "Swank Mami",
+          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
+        }
+      ],
+      "duration_ms": 137506,
+      "name": "I Saw U",
+      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
+    },
+    {
+      "added_at": "2023-07-26 14:33:45",
+      "album": {
         "name": "Pick up",
         "url": "https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 123192,
       "name": "Pick up",
       "url": "https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME"
+    },
+    {
+      "added_at": "2023-07-26 14:43:17",
+      "album": {
+        "name": "Bad Gurl",
+        "url": "https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp"
+      },
+      "artists": [
+        {
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        }
+      ],
+      "duration_ms": 195405,
+      "name": "Bad Gurl",
+      "url": "https://open.spotify.com/track/0mlJb5Qes5bQcshDA9FXmX"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -651,22 +683,6 @@
       "duration_ms": 230431,
       "name": "Callus",
       "url": "https://open.spotify.com/track/6OJfjKUPww50wSdDNNO67g"
-    },
-    {
-      "added_at": "2023-07-26 14:33:45",
-      "album": {
-        "name": "I Saw U",
-        "url": "https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo"
-      },
-      "artists": [
-        {
-          "name": "Swank Mami",
-          "url": "https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr"
-        }
-      ],
-      "duration_ms": 137506,
-      "name": "I Saw U",
-      "url": "https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -699,22 +715,6 @@
       "duration_ms": 183902,
       "name": "Selfmade $lick",
       "url": "https://open.spotify.com/track/379ldnzfmpVV1aaXQQVVOC"
-    },
-    {
-      "added_at": "2023-07-26 14:43:17",
-      "album": {
-        "name": "Bad Gurl",
-        "url": "https://open.spotify.com/album/6TYx8F8NIEDd7jqnyCuAxp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        }
-      ],
-      "duration_ms": 195405,
-      "name": "Bad Gurl",
-      "url": "https://open.spotify.com/track/0mlJb5Qes5bQcshDA9FXmX"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
-        "name": "Penny Lane",
-        "url": "https://open.spotify.com/album/7mJFBFIG3no9Rn0QhC554e"
-      },
-      "artists": [
-        {
-          "name": "Ellis Melillo",
-          "url": "https://open.spotify.com/artist/5cp7NFyTQxMKiX9XzGJ0Hz"
-        }
-      ],
-      "duration_ms": 216638,
-      "name": "Penny Lane",
-      "url": "https://open.spotify.com/track/4YBRmFHRVInPN8GlmAyVuO"
-    },
-    {
-      "added_at": "2023-07-26 14:33:45",
-      "album": {
         "name": "Everything I Was, Burning Slow",
         "url": "https://open.spotify.com/album/7thudeuUtOVk6jjP3yv94l"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 120528,
       "name": "Gnawed",
       "url": "https://open.spotify.com/track/36zunLr76WzSOqwq48up3b"
+    },
+    {
+      "added_at": "2023-07-26 14:33:45",
+      "album": {
+        "name": "Penny Lane",
+        "url": "https://open.spotify.com/album/7mJFBFIG3no9Rn0QhC554e"
+      },
+      "artists": [
+        {
+          "name": "Ellis Melillo",
+          "url": "https://open.spotify.com/artist/5cp7NFyTQxMKiX9XzGJ0Hz"
+        }
+      ],
+      "duration_ms": 216638,
+      "name": "Penny Lane",
+      "url": "https://open.spotify.com/track/4YBRmFHRVInPN8GlmAyVuO"
     },
     {
       "added_at": "2023-07-26 14:43:17",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz"
+      },
+      "artists": [
+        {
+          "name": "LULU.",
+          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
+        }
+      ],
+      "duration_ms": 131375,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U"
+    },
+    {
+      "added_at": "2023-07-26 14:33:45",
+      "album": {
         "name": "A Track In Orbit",
         "url": "https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 224459,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6p3xOyNftx7p3bOkI5LZOI"
-    },
-    {
-      "added_at": "2023-07-26 14:33:45",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/1F3kt5iKKT2u1OJcmM4fLz"
-      },
-      "artists": [
-        {
-          "name": "LULU.",
-          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
-        }
-      ],
-      "duration_ms": 131375,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/50wWoGIVul75NoQi0bnl9U"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/2W4oDrX8MwBed4MypPoUEa"
     },
     {
+      "added_at": "2023-07-26 14:33:45",
+      "album": {
+        "name": "LovesaDrug",
+        "url": "https://open.spotify.com/album/70Yv6nyyWXaTevbhYtQK30"
+      },
+      "artists": [
+        {
+          "name": "Chase Woods",
+          "url": "https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "LovesaDrug",
+      "url": "https://open.spotify.com/track/3O5vd3sSb1QPTjqy9JNIn0"
+    },
+    {
       "added_at": "2023-07-26 14:43:17",
       "album": {
         "name": "Just We (feat. Jordan Occasionally)",
@@ -991,22 +1007,6 @@
       "duration_ms": 268446,
       "name": "Just We (feat. Jordan Occasionally)",
       "url": "https://open.spotify.com/track/0PYA2tNT7WNyfHnROyvzz4"
-    },
-    {
-      "added_at": "2023-07-26 14:33:45",
-      "album": {
-        "name": "LovesaDrug",
-        "url": "https://open.spotify.com/album/70Yv6nyyWXaTevbhYtQK30"
-      },
-      "artists": [
-        {
-          "name": "Chase Woods",
-          "url": "https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "LovesaDrug",
-      "url": "https://open.spotify.com/track/3O5vd3sSb1QPTjqy9JNIn0"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
+        "name": "bonsoir",
+        "url": "https://open.spotify.com/album/0aXaessdrfjYNyESOdzLvs"
+      },
+      "artists": [
+        {
+          "name": "caaaaseyyyy",
+          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "bonsoir",
+      "url": "https://open.spotify.com/track/1BkQFNXjuEuzusFRPrLjC6"
+    },
+    {
+      "added_at": "2023-07-26 14:33:45",
+      "album": {
         "name": "LADRIDOS FREESTYLE",
         "url": "https://open.spotify.com/album/2INxYZyyvUpEpQbaGQLU1y"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-07-26 14:33:45",
       "album": {
-        "name": "bonsoir",
-        "url": "https://open.spotify.com/album/0aXaessdrfjYNyESOdzLvs"
+        "name": "Come and Find Me",
+        "url": "https://open.spotify.com/album/09Y5SYZwjELRNJZuixwfqe"
       },
       "artists": [
         {
-          "name": "caaaaseyyyy",
-          "url": "https://open.spotify.com/artist/5H3d73o1RCWNsGE9SrT57c"
+          "name": "OK Hotel",
+          "url": "https://open.spotify.com/artist/69k6dSfpmioqxODAkHK3Ll"
         }
       ],
-      "duration_ms": 220000,
-      "name": "bonsoir",
-      "url": "https://open.spotify.com/track/1BkQFNXjuEuzusFRPrLjC6"
+      "duration_ms": 193421,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4CFavFmugH4uNyDpnq2Xk9"
     },
     {
       "added_at": "2023-07-26 14:33:45",
@@ -1199,22 +1215,6 @@
       "duration_ms": 154338,
       "name": "Noche Celestial",
       "url": "https://open.spotify.com/track/2f9V9iphuVqae3MUR1I1kp"
-    },
-    {
-      "added_at": "2023-07-26 14:33:45",
-      "album": {
-        "name": "Come and Find Me",
-        "url": "https://open.spotify.com/album/09Y5SYZwjELRNJZuixwfqe"
-      },
-      "artists": [
-        {
-          "name": "OK Hotel",
-          "url": "https://open.spotify.com/artist/69k6dSfpmioqxODAkHK3Ll"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/4CFavFmugH4uNyDpnq2Xk9"
     },
     {
       "added_at": "2023-07-26 14:33:45",

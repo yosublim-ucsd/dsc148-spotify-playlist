@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Post Malone, 宇多田ヒカル, Calvin Harris & Sam Smith, Diplo and more! cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,696 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,713 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 74 | [Solanin](https://open.spotify.com/track/75Odhq0RiGsOmTiVU908c2) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Days In The Desert](https://open.spotify.com/album/026ZtHxTuX1iu6mjlOjmG9) | 3:54 |
 | 75 | [Flowing](https://open.spotify.com/track/0HLCzCW6ja01PiywKAgX6V) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Flowing](https://open.spotify.com/album/2gWO71K4dQhPqMbYK4MN2D) | 5:53 |
 
-Snapshot ID: `MCw4MmExYWVlNThiZDgxZDAxOGM1NTRjMzFhNTEyOWNiZGQ4YmZiN2Fh`
+Snapshot ID: `MCw1MmI1ZmE0MjZmNmI2N2EwY2JjNWRlZDYxZjAxMTc0OTcyYTJiNTA2`

@@ -140,7 +140,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "About My Dreams",
       "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 384000,
       "name": "Bird",
       "url": "https://open.spotify.com/track/0FGG8uB6cqwDxI1LzIGLZ6"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 178131,
       "name": "Boom Boom (feat. CHRSTPHR)",
       "url": "https://open.spotify.com/track/41Fq0oWTtuGes9RR6UhMw1"
@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 232320,
       "name": "Borderline (Carlita Remix) - Edit",
       "url": "https://open.spotify.com/track/5QcXSYnBLQxRaF14u8vrcr"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 325121,
       "name": "Can't Fix A Broken Heart",
       "url": "https://open.spotify.com/track/4UgstCyrgpaPLVVsf64sez"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 390000,
       "name": "Daka - Original Mix",
       "url": "https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 375865,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/0WhwH8se1uvdwktL3buvlg"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 243125,
       "name": "Ego Death",
       "url": "https://open.spotify.com/track/68vou4lxyWNaaODWxNeVeE"
@@ -3574,7 +3574,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 220166,
       "name": "Fuck what u heard",
       "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
@@ -3680,6 +3680,24 @@
       "duration_ms": 503073,
       "name": "Gator",
       "url": "https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg"
+    },
+    {
+      "album": {
+        "name": "Gershwin",
+        "url": "https://open.spotify.com/album/6qTrbmdkz9DOxfFRGmKWGw"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253338,
+      "name": "Gershwin",
+      "url": "https://open.spotify.com/track/5YYUwGeR0uVKLeHr4vjuo3"
     },
     {
       "album": {
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 225000,
       "name": "Guru",
       "url": "https://open.spotify.com/track/3h7Puhs0ZRMq470id6WYxo"
@@ -4814,7 +4832,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 289171,
       "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
       "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
@@ -5520,7 +5538,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 245806,
       "name": "Let's Dance - Honey Dijon Moonlight Remix",
       "url": "https://open.spotify.com/track/34Jr2hq5GW13cw8KbUUMy9"
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 280000,
       "name": "Light For Me",
       "url": "https://open.spotify.com/track/7eHwRUMCk1dR8jk6DOMBTD"
@@ -6604,7 +6622,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 288780,
       "name": "Moonlight - Radio Edit",
       "url": "https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0"
@@ -7772,7 +7790,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 302439,
       "name": "Pink",
       "url": "https://open.spotify.com/track/7jC1ym6zymckGeBH5FlwXq"
@@ -7924,7 +7942,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 264378,
       "name": "Raining Again - Eli & Fur Remix",
       "url": "https://open.spotify.com/track/4irQGJnGuNM3CsqBZg6nEX"
@@ -7982,7 +8000,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 488920,
       "name": "Rej",
       "url": "https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW"
@@ -8096,7 +8114,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 333658,
       "name": "Renegade - Adam Ten & Mita Gami Remix",
       "url": "https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz"
@@ -8366,7 +8384,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 291840,
       "name": "Rush - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
@@ -9256,7 +9274,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 402593,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub"
@@ -9774,7 +9792,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
@@ -10182,7 +10200,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 199044,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa"
@@ -10248,7 +10266,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 215714,
       "name": "The Time Is Now",
       "url": "https://open.spotify.com/track/0qt0ZSiqKipDjdhBMFZDvP"

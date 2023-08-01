@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 157446,
+  "num_followers": 157612,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDI1YjZhNjY5MGNkOWRjMWU5MDRlYmE4NTExOGMwYWQ5MzA1M2I3",
+  "snapshot_id": "MCxkNjU0ZjgxNzI1MTkzMTgwNmIxZDUxMzZkNzFkYjUyMGU0ZmZlMGI2",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Fences",
-        "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
       },
       "artists": [
         {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Fences",
+        "url": "https://open.spotify.com/album/64b3SlMzVbSWqcPTvBxWLW"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/5BzxNPsMQhrRnwNRKyMNXB"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Standing in the Way of Control",
         "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 256398,
       "name": "Standing In the Way of Control",
       "url": "https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Get Awkward",
-        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 131226,
-      "name": "Heart Throb - Album Version (Edited)",
-      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Pity Boy",
         "url": "https://open.spotify.com/album/4YGMJS0WLOU318ITYqpYo5"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/3NTvYh8PojyC68r2cnU398"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 131226,
+      "name": "Heart Throb - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/4Pmf5TmEIHkhCt2rfFeLLC"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 196942,
-      "name": "the kids aren't alright",
-      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Mayo Supreme",
         "url": "https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172432,
       "name": "Fuck the Cistem",
       "url": "https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 196942,
+      "name": "the kids aren't alright",
+      "url": "https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Birth",
-        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
-      },
-      "artists": [
-        {
-          "name": "Witch Fever",
-          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
-        }
-      ],
-      "duration_ms": 176794,
-      "name": "In Birth",
-      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Intractable",
         "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 124653,
       "name": "So-Called Str8 Grrrl",
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Birth",
+        "url": "https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV"
+      },
+      "artists": [
+        {
+          "name": "Witch Fever",
+          "url": "https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1"
+        }
+      ],
+      "duration_ms": 176794,
+      "name": "In Birth",
+      "url": "https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "In Search of Lost Time",
-        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
-      },
-      "artists": [
-        {
-          "name": "Partner",
-          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Play the Field",
-      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "babyface",
         "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 74437,
       "name": "I Saw Jesus Hanging on a Basketball Hoop",
       "url": "https://open.spotify.com/track/7jlEgdvIgNWO4dLXzqufoz"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "In Search of Lost Time",
+        "url": "https://open.spotify.com/album/43q6kUOk6TRY9m343H9cLf"
+      },
+      "artists": [
+        {
+          "name": "Partner",
+          "url": "https://open.spotify.com/artist/15rbZYMoW9AYb3zcuFUNOU"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Play the Field",
+      "url": "https://open.spotify.com/track/5bLvqbeBT72cnJ53BQ3XHk"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Zombie Terrorist",
-        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
-      },
-      "artists": [
-        {
-          "name": "Partyline",
-          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Trophy Wifey",
-      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Home Recordings 2020 - 2021",
         "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 188374,
       "name": "Girlracer",
       "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Zombie Terrorist",
+        "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
+      },
+      "artists": [
+        {
+          "name": "Partyline",
+          "url": "https://open.spotify.com/artist/5LqNtBKweePwvXgJ4BWWuA"
+        }
+      ],
+      "duration_ms": 127773,
+      "name": "Trophy Wifey",
+      "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Fuck, Marry, Kill",
-        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
       },
       "artists": [
         {
-          "name": "Thelma and the Sleaze",
-          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
+      "duration_ms": 86842,
+      "name": "Eden on Acid",
+      "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Fuck, Marry, Kill",
+        "url": "https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT"
+      },
+      "artists": [
+        {
+          "name": "Thelma and the Sleaze",
+          "url": "https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Every Now and Then",
         "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 154618,
       "name": "Dream Partner",
       "url": "https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Home Recordings 2020 - 2021",
-        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
-      },
-      "artists": [
-        {
-          "name": "Tokky Horror",
-          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
-        }
-      ],
-      "duration_ms": 86842,
-      "name": "Eden on Acid",
-      "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
     },
     {
       "added_at": "2023-05-25 14:38:53",

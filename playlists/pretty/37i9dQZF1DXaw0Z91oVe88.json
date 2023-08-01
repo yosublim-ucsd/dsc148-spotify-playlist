@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2624,
+  "num_followers": 2630,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2FjNWZkMmYxMmNiNjIzMWJiMzQ2ZTZjNmQ5OTI2MjZlOWJjMzc5",
+  "snapshot_id": "MCwwOTY0YjIwY2Q5OGE2ODI4OWY3ZTgwMGExMmZmODBiYzg4ZTg0N2Vk",
   "tracks": [
     {
       "added_at": "2023-07-17 06:14:28",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "EXIT : E",
-        "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
-      },
-      "artists": [
-        {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
-        }
-      ],
-      "duration_ms": 209281,
-      "name": "SENTIMENTAL",
-      "url": "https://open.spotify.com/track/7000FosyVc1UpvN2Sckidx"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "FLOWER ROAD",
         "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 228631,
       "name": "FLOWER ROAD",
       "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "EXIT : E",
+        "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
+      },
+      "artists": [
+        {
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+        }
+      ],
+      "duration_ms": 209281,
+      "name": "SENTIMENTAL",
+      "url": "https://open.spotify.com/track/7000FosyVc1UpvN2Sckidx"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
-      },
-      "artists": [
-        {
-          "name": "SEOLA",
-          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "fallin (feat.Liss)",
         "url": "https://open.spotify.com/album/4fU4TPacCYGyZqwt4wkYkU"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 167698,
       "name": "fallin (feat.Liss)",
       "url": "https://open.spotify.com/track/1joLvqSBVz1UeCX2CjfPuM"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Summer Strike, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW"
+      },
+      "artists": [
+        {
+          "name": "SEOLA",
+          "url": "https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 254661,
+      "name": "365",
+      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "How To Love (Feat.Paul Kim)",
         "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+        "name": "Spring to Spring",
+        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
       },
       "artists": [
         {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+          "name": "Hoppipolla",
+          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
         }
       ],
-      "duration_ms": 254661,
-      "name": "365",
-      "url": "https://open.spotify.com/track/02hojXLuubRkvxm6jcD0No"
+      "duration_ms": 328226,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Spring to Spring",
-        "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
-      },
-      "artists": [
-        {
-          "name": "Hoppipolla",
-          "url": "https://open.spotify.com/artist/1S80vOcrnT9UD9zgLeyfx2"
-        }
-      ],
-      "duration_ms": 328226,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/2jCReozD8Vuwfl8QwY1Au9"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Beautiful Night - The 4th Mini Album",
         "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 267426,
       "name": "A Letter in The Wind",
       "url": "https://open.spotify.com/track/5fk9FvsE57Ai8lHLuICJFx"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
-        "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
-        "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
-      },
-      "artists": [
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
-        }
-      ],
-      "duration_ms": 161334,
-      "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
-      "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
+        "url": "https://open.spotify.com/album/6WHcLvLRbZoSJuGFOzzHnq"
+      },
+      "artists": [
+        {
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+        }
+      ],
+      "duration_ms": 161334,
+      "name": "Repeat (Original Soundtrack from the Webtoon \"The returned duke\") [prod. PATEKO]",
+      "url": "https://open.spotify.com/track/7kfXPBhBOHNu5AHjFS0Iug"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "PAGE",
         "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
-      },
-      "artists": [
-        {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 251653,
       "name": "Fuzzy peach",
       "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+      },
+      "artists": [
+        {
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
         "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 186493,
       "name": "I Love You Enough to Die Now",
       "url": "https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/7sYsnmmEZ0vpNVoz9V7h3E"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2023-07-17 06:14:28",

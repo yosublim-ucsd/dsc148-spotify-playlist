@@ -1,0 +1,34 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Sq1EGirxpV.md) - [plain](/playlists/plain/37i9dQZF1DX1Sq1EGirxpV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1Sq1EGirxpV)
+
+### [남남 \(Not Others\)](https://open.spotify.com/playlist/37i9dQZF1DX1Sq1EGirxpV)
+
+> Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
+
+[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 22 songs - 1 hr 29 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Want to be Free](https://open.spotify.com/track/1kA5iI1SNM7xVM8EMY7mrr) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [Not Others, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3CbMJIBQyNDwJLzQcWAYEE) | 2:43 |
+| 2 | [Kisss](https://open.spotify.com/track/3Bjb398kFNsNP0fwegVx1X) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Not Others, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6uMIdVmTVqPzJaBeknl48S) | 3:49 |
+| 3 | [3!4!](https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [All System Go](https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk) | 4:09 |
+| 4 | [Very longtime Lovers](https://open.spotify.com/track/0Nyz7f9ZtqizCUJ6qYXkW1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [The Third Wave](https://open.spotify.com/album/74ZCjSnvCX7J68TAXxpfcg) | 4:13 |
+| 5 | [Come Back Home](https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys IV](https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva) | 3:55 |
+| 6 | [나를 돌아봐](https://open.spotify.com/track/3T92e7pbfXFmeOmuGRUneg) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deux](https://open.spotify.com/album/7t9nZIRd4j53LjRx8opcx3) | 3:45 |
+| 7 | [흩어진 나날들](https://open.spotify.com/track/2RjN0mgjbH0F93YiVONFlM) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 4:22 |
+| 8 | [Don't stay angry](https://open.spotify.com/track/5r4XV1UDXSwI3rZk8NzN2c) | [Solid](https://open.spotify.com/artist/2BDUxHuRu6XWVBmeRnbNcN) | [Light Camera Action!](https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M) | 4:28 |
+| 9 | [Yanghwa BRDG](https://open.spotify.com/track/7saJl9V0kRYGWuyeURHYNU) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Yanghwa BRDG](https://open.spotify.com/album/3g3lXFXBEo6u3xbfzYNcd4) | 3:49 |
+| 10 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 |
+| 11 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
+| 12 | [Dandelion \- full ver.](https://open.spotify.com/track/64KOSEJ9ZlV75JPxro5Chp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Dandelion](https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk) | 5:48 |
+| 13 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
+| 14 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 |
+| 15 | [Deviation](https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Purple Heart](https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS) | 4:02 |
+| 16 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 |
+| 17 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 |
+| 18 | [Try](https://open.spotify.com/track/221PQiYwFVxVWvY1kpYhtN) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [1/24](https://open.spotify.com/album/5gcChxYyrOXbI27SVjreej) | 4:23 |
+| 19 | [출국](https://open.spotify.com/track/2VSFXn3CvX3ZJXeJEkalHC) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [다중인격자](https://open.spotify.com/album/3AYmdPL0hv4zDfVj1uZ55t) | 4:34 |
+| 20 | [Starting Over](https://open.spotify.com/track/3ix0pg2CqztyynmigM72se) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Someone's playlist \#5](https://open.spotify.com/album/26twLmpKO6M8Yo5rytkHlk) | 4:52 |
+| 21 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 |
+| 22 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 |
+
+Snapshot ID: `MCxmOTcwOTk5ZjJhNTdiNDliZjBlMmRmOTBmNTczYjk4YzlkNWEwYjU5`

@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-216 songs - 16 hr 51 min
+217 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Lights Up \- Myd Remix](https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(Myd Remix\)](https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR) | 3:35 | 2023-04-13 |  |
 | [Like The Old Days](https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3) | 4:00 | 2023-04-13 |  |
 | [Lonely Raver](https://open.spotify.com/track/7cmnxZinUFs7jyjdHh9vY8) | [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Lonely Raver](https://open.spotify.com/album/7lCA9TtuM4nFdjsnpN1dBB) | 7:09 | 2023-06-30 |  |
+| [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 | 2023-07-31 |  |
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-06-29 |  |
 | [Love](https://open.spotify.com/track/5k8XGEzhljUnTorL5xN04x) | [Band&dos](https://open.spotify.com/artist/68OOyVnaUOq7m4cxQmZslI) | [Love](https://open.spotify.com/album/4nxPGYSxjwQLmGob9jFHlR) | 5:47 | 2023-06-29 |  |
 | [Love Boat](https://open.spotify.com/track/5YncqodZTqrslQgBaRUUnb) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Love Boat](https://open.spotify.com/album/4D6DgqfNoWXq93g3MTKOyG) | 2:57 | 2023-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,022 likes - 92 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,037 likes - 92 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 91 | [Light Ahead](https://open.spotify.com/track/4pGnFrXGSwh41BJwUE9oZD) | [Mega Fäuna](https://open.spotify.com/artist/3iqpnLfw9ZHGpf5f2skfwb) | [Light Ahead](https://open.spotify.com/album/6NiRG782njDMm3dw4eUGBP) | 3:51 |
 | 92 | [Make It Better](https://open.spotify.com/track/3connDcNKjtkAKZRQSsafM) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Make It Better](https://open.spotify.com/album/4RZ5miDR5pj3UGLtEkzQFd) | 3:36 |
 
-Snapshot ID: `MCw1NGQ1ZjJkYTU1NzE2YjRmNmFmNDc2OTE5MDNmMjgzMDU4MmIwN2I1`
+Snapshot ID: `MCw0NzA1NjZmMmE3NmMwODNlY2M4ZDY4ZDkzMjgxNjIzOWM5YzFiNzEx`

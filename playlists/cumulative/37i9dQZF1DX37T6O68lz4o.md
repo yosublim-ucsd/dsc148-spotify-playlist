@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: New England](https://open.spotify.com/playlist/37i9dQZF1DX37T6O68lz4o)
 
-> New England music breaking waves\. Cover: BoriRock
+> New England music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5and6mMu319HtYPWAacsju?si=h1ZEBxcITVGdqGQT6p6Fxg">Nay $peaks</a>
 
 384 songs - 17 hr 27 min
 

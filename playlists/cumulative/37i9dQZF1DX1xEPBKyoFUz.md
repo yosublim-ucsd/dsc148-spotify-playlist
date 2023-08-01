@@ -2,7 +2,7 @@
 
 ### [StartSelect: Twisted Metal](https://open.spotify.com/playlist/37i9dQZF1DX1xEPBKyoFUz)
 
-> Put your pedal to the metal with an exclusive playlist co\-curated by the cast of Twisted Metal, streaming now on<br/> <a href="https://www.peacocktv.com/stream\-tv/twisted\-metal?cid=2307spotifypkerndwbjny376&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_redir&utm\_term=spotifyusers&utm\_content=NA">Peacock</a>.
+> Put your pedal to the metal with an exclusive playlist co\-curated by the cast of Twisted Metal, streaming now on <a href="https://www.peacocktv.com/stream\-tv/twisted\-metal?cid=2307spotifypkerndwbjny376&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_redir&utm\_term=spotifyusers&utm\_content=NA">Peacock</a>.
 
 478 songs - 1 day 4 hr 25 min
 

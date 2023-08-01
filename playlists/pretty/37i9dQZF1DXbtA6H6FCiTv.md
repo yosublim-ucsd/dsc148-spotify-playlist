@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 
 > Enjoy the SEVENTEEN's best hits for the upcoming concerts! \(다가오는 세븐틴의 콘서트를 준비하며 히트곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,912 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,658 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 19 | [Fear](https://open.spotify.com/track/1SgRnIFTs39lSkQJACYDoY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 |
 | 20 | [HIT](https://open.spotify.com/track/45jemzjdLd7OQFaDAqKNTD) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HIT](https://open.spotify.com/album/5IIk4i6IkmsnF8UtRBMAeI) | 3:23 |
 | 21 | [Happy Ending](https://open.spotify.com/track/29RpFeHrgO7cXLzAtXu51e) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Happy Ending](https://open.spotify.com/album/2SrJI9UCeYzVXYripQVnbi) | 3:30 |
-| 22 | [Home](https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:23 |
+| 22 | [Home](https://open.spotify.com/track/2Zp4i8aIXc1dGoP7m1wOpa) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 3:23 |
 | 23 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 |
 | 24 | [CALL CALL CALL!](https://open.spotify.com/track/6TWCOczft8rK1LiHfVPuRN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [WE MAKE YOU](https://open.spotify.com/album/21mnRCzvXqfiY0uRePOEav) | 3:19 |
 | 25 | [Just do it](https://open.spotify.com/track/57ITlzpnOMkSE6oHGbvTqi) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS Digital Single 'Just do it'](https://open.spotify.com/album/7cL58mAH0Cs8giOqRNEjQP) | 3:21 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 52 | [I can't run away](https://open.spotify.com/track/0bFiLUmBmFX0aWyhVqIwiN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:30 |
 | 53 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 |
 
-Snapshot ID: `MCw5Zjc0ZTA5M2RjNWRlNzBlZjA5OTBjOWRmZWEwOWJlOTI0ODFiY2Nm`
+Snapshot ID: `MCxhMDFiOTIwMmE3N2JmYzllYWJjZGYxMTJhZGY5Y2E2NjJmNTZlZDll`

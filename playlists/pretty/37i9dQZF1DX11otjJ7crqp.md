@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Tori Kelly
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,683 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,733 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Paradise Calling](https://open.spotify.com/track/6FDPJaI8UySXCTSWKMsXZj) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Paradise Calling](https://open.spotify.com/album/4eO6jrqvUJMfIGOQV6HmmB) | 3:06 |
 | 100 | [Can't Tie Me Down](https://open.spotify.com/track/0PrKAN0joEj7bN2bnTJRDk) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Can't Tie Me Down](https://open.spotify.com/album/3PFP6wzrD5AgtHb74OEx5c) | 2:37 |
 
-Snapshot ID: `MCw4MTlkYzQ2Yjc5ZTBjZDJkYjM5MGMzMjE5N2UzNTIyZWQwZTg4ZWFj`
+Snapshot ID: `MCwwNmVkYjhlOGQzMzViY2VkYjg0OGFmMTY1MDE3YzlhOTg2MDdkMmQ5`

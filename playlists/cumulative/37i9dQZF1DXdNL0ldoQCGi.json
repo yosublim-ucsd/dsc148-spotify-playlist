@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 160075,
       "name": "Barbie De Chap\u00e9u",
       "url": "https://open.spotify.com/track/66sx8aUdhRlj4VAdjDOoUJ"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 144285,
       "name": "Faz completo chefe",
       "url": "https://open.spotify.com/track/2U6m5xkQRzwU1Z9FJRyPVJ"
@@ -3010,6 +3010,28 @@
       "duration_ms": 273417,
       "name": "Foco & Marcha",
       "url": "https://open.spotify.com/track/1bAX5F8mAbyD7Jauj3tm2b"
+    },
+    {
+      "album": {
+        "name": "Cad\u00ea o After? Pt. 1",
+        "url": "https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Mc Mika",
+          "url": "https://open.spotify.com/artist/6exBFuevXZvHrbP3oKtfWe"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Fode Bem",
+      "url": "https://open.spotify.com/track/3Zgs8GjLi5hArtyLQhZ06Y"
     },
     {
       "album": {

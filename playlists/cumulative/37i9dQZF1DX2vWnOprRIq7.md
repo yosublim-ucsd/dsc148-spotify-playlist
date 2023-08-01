@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Rubio.
 
-162 songs - 9 hr 45 min
+163 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Cómplices](https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Cómplices](https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE) | 3:48 | 2023-05-19 |  |
 | [Cómplices](https://open.spotify.com/track/6wvNTAFZfn1OcFGGmZZ1bP) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cómplices](https://open.spotify.com/album/5SCpzZp5C2kdu9i3pAScfE) | 3:39 | 2023-04-14 |  |
 | [De Nada Sirve](https://open.spotify.com/track/17lgXGSt1GJ8M4Thl9dodV) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [De Nada Sirve](https://open.spotify.com/album/7a0I2kC5zlbuLb11m1gsdE) | 6:45 | 2023-03-17 | 2023-03-25 |
-| [Debilidad](https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Debilidad](https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP) | 4:23 | 2023-06-02 |  |
+| [Debilidad](https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Debilidad](https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP) | 4:23 | 2023-06-02 | 2023-08-01 |
 | [Del Tiempo \- Original Mix](https://open.spotify.com/track/0gDKVCXvgaJj0tbf5TgyQ6) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Manu Ela](https://open.spotify.com/artist/0HelIc5UNdohCdMZY6fxWT) | [Les disques du bord de l'eau: Winter EP 2021](https://open.spotify.com/album/6PdsZ0lXptJ1cwutsHk7KL) | 5:10 | 2023-03-17 | 2023-06-04 |
 | [Desorden](https://open.spotify.com/track/52EmSXkdJ2wvrfu4aUAfoY) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Desorden](https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ) | 3:56 | 2023-03-17 |  |
 | [Desvelado](https://open.spotify.com/track/3pBq1csYqJNKdN6pejHFqY) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Desvelado](https://open.spotify.com/album/0upQNva6VzLG68XrIDJMS1) | 3:17 | 2023-05-05 |  |
@@ -87,6 +87,7 @@
 | [LA FRONTERA](https://open.spotify.com/track/2aZpaFuO2txJDVvCaUu1JR) | [DAKOTA](https://open.spotify.com/artist/0JXcIdg7oVzUP6F0FeH4BG) | [LA FRONTERA](https://open.spotify.com/album/00BWRA3o2GvUXX5mlhpth1) | 2:43 | 2023-06-23 |  |
 | [La Luna de Madrid](https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76) | [DouleurDolor](https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T) | [La Luna de Madrid](https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu) | 3:39 | 2023-03-17 | 2023-07-22 |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2023-03-17 |  |
+| [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-07-28 |  |
 | [Lento](https://open.spotify.com/track/4DnVYaILlOP8hmakfhihoq) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lento](https://open.spotify.com/album/5qV1Lre7WqcT9UJCDMZyed) | 3:12 | 2023-04-21 |  |
 | [Libre](https://open.spotify.com/track/7iiErQtUNjJgpKlMlAIEsF) | [Nina Vais](https://open.spotify.com/artist/0qVAQKgjUfw82KTe43p1tF) | [Libre](https://open.spotify.com/album/4etlu4cg4TYpsjpbFEht1e) | 3:57 | 2023-05-12 | 2023-06-10 |
 | [Lineas del Cielo](https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [MaisonMusic](https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9) | [Lineas del Cielo](https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc) | 2:40 | 2023-07-21 |  |

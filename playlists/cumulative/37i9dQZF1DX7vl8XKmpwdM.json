@@ -2469,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "Vandha Edam (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1sFX6xAasGOFbjJIKpbrtC"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Vandha Edam (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q"
+    },
+    {
+      "album": {
         "name": "DSP (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8"
       },

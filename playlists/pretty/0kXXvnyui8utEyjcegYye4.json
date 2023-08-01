@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "Nzk4LDcxYjQzNjUxZWMxYTQzYmIwODc2OGM4NTk4YzUyNTk3OWFiODE0MDU=",
+  "snapshot_id": "Nzk5LGI4ZGFhODQ4MWRmNDY1M2UzZDZjMDNlZTExMjRmYzYxMmE0MDE4ZmY=",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -4891,6 +4891,30 @@
       "duration_ms": 184258,
       "name": "No Auto Durk",
       "url": "https://open.spotify.com/track/4VcPtoOpK3oBMDZJ9Ptp9f"
+    },
+    {
+      "added_at": "2023-07-31 21:31:44",
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Private Landing (feat. Justin Bieber & Future)",
+      "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
     }
   ],
   "unique_name": "driving",

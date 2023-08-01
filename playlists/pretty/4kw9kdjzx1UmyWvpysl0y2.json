@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127244,
+  "num_followers": 127240,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMzMSw1MTc1YmZkMTYyOWUyOTA3Njk3MmU0NjgxMjY2Yjk0YjZkYjg4Y2E4",
+  "snapshot_id": "NDMzNCw4MTc4ODIwNmFiZjExNGQ5NjBjMDZmYTE1ODljYTNhMzU4NDU5NDJk",
   "tracks": [
+    {
+      "added_at": "2023-07-31 18:57:42",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        },
+        {
+          "name": "Matt Sky",
+          "url": "https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP"
+    },
+    {
+      "added_at": "2023-07-31 18:57:08",
+      "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh"
+      },
+      "artists": [
+        {
+          "name": "Topi",
+          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj"
+    },
     {
       "added_at": "2023-07-27 19:15:12",
       "album": {
@@ -1099,26 +1143,6 @@
       "duration_ms": 183500,
       "name": "In Loving Memories",
       "url": "https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ"
-    },
-    {
-      "added_at": "2023-05-08 15:42:19",
-      "album": {
-        "name": "Quantum Level",
-        "url": "https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        },
-        {
-          "name": "Prismatic",
-          "url": "https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Quantum Level",
-      "url": "https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -11267,24 +11267,6 @@
     },
     {
       "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/7KeimTcdAArbY28hNhhCYr"
-      },
-      "artists": [
-        {
-          "name": "Pressure Drop",
-          "url": "https://open.spotify.com/artist/3RWRlV5ZZpIVFYdqHutuqo"
-        }
-      ],
-      "date_added": "2023-05-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 330269,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/0PtWwCYJ9Uz6WjMJs6WxsB"
-    },
-    {
-      "album": {
         "name": "1000 Watts",
         "url": "https://open.spotify.com/album/1MJPr8WRsmKslDood4yJIS"
       },
@@ -11304,6 +11286,24 @@
       "duration_ms": 223063,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/2FrpmzJunH9Au3UBJbHtvZ"
+    },
+    {
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/7KeimTcdAArbY28hNhhCYr"
+      },
+      "artists": [
+        {
+          "name": "Pressure Drop",
+          "url": "https://open.spotify.com/artist/3RWRlV5ZZpIVFYdqHutuqo"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330269,
+      "name": "Dusk - Instrumental Edit",
+      "url": "https://open.spotify.com/track/0PtWwCYJ9Uz6WjMJs6WxsB"
     },
     {
       "album": {

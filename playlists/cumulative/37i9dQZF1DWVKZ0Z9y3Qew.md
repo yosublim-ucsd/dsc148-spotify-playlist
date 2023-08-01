@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: PNW](https://open.spotify.com/playlist/37i9dQZF1DWVKZ0Z9y3Qew)
 
-> Pacific Northwest music breaking waves\. Cover: lophiile
+> Pacific Northwest music breaking waves\.  Cover: <a href="https://open.spotify.com/artist/1sAKNLVFmAmxaurWLdmu1u?si=edb18f0406944953">Jarv Dee</a>
 
 620 songs - 1 day 4 hr 47 min
 

@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 179225,
+  "num_followers": 179430,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy",
+  "snapshot_id": "MCwyYzI0YmE5NjAwYjQ2YTVjZDFiZDRjNGYxN2RlMTFjMDE1Yzk1MWIx",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Las No. 1 Instrumentales",
         "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Paul Mauriat. Grandes Exitos",
-        "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
-      },
-      "artists": [
-        {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
-        }
-      ],
-      "duration_ms": 156519,
-      "name": "Love is Blue",
-      "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "A Swingin' Safari (Remastered)",
         "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 146133,
       "name": "Afrikaan Beat",
       "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Paul Mauriat. Grandes Exitos",
+        "url": "https://open.spotify.com/album/6iQAXag0ioZ8VDguSYvyvP"
+      },
+      "artists": [
+        {
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+        }
+      ],
+      "duration_ms": 156519,
+      "name": "Love is Blue",
+      "url": "https://open.spotify.com/track/0tS7Mli5NtOcpeCqC25GWd"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -339,22 +339,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Volume Secondo",
-        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 151092,
-      "name": "Sleepwalk",
-      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "!!Going Places!!",
         "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 306146,
       "name": "Chi Mai",
       "url": "https://open.spotify.com/track/4D0ofpU1f402qd1t6ZK0Xr"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Volume Secondo",
+        "url": "https://open.spotify.com/album/0EgtsDw1Yc9umsqXTXGbq8"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 151092,
+      "name": "Sleepwalk",
+      "url": "https://open.spotify.com/track/1u1PzGnsWKjAwSZ9Rg1kjD"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 221174,
-      "name": "Fandango",
-      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "100 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
         }
       ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
+      "duration_ms": 221174,
+      "name": "Fandango",
+      "url": "https://open.spotify.com/track/4aOBQruqZeHFGNjJ1F83Qw"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -575,6 +559,22 @@
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "El Condor Pasa",
         "url": "https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Duotones",
         "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La m\u00e9lodie du lac d'amour",
         "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 172266,
       "name": "Dolannes m\u00e9lodie",
       "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Orange Blossom Special And Wheels",
-        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 128785,
-      "name": "Wheels",
-      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
         "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
       },
@@ -871,22 +855,6 @@
       "duration_ms": 198387,
       "name": "Flauta de Pan",
       "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -911,18 +879,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "La Fiesta Mexicana de Pepe Jaramillo",
-        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
+        "name": "Orange Blossom Special And Wheels",
+        "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
       },
       "artists": [
         {
-          "name": "Pepe Jaramillo",
-          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 111200,
-      "name": "Capullito de Alel\u00ed",
-      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
+      "duration_ms": 128785,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -939,6 +907,38 @@
       "duration_ms": 234962,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7kemw7c5YI6j1riypUAWQ3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "La Fiesta Mexicana de Pepe Jaramillo",
+        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Jaramillo",
+          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "Capullito de Alel\u00ed",
+      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Somewhere In Time - Main Theme",
-      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Nadia's Theme (Theme from the Young and Restless)",
         "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 182266,
       "name": "Nadia's Theme (Theme from the Young and Restless)",
       "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Somewhere In Time (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Somewhere In Time - Main Theme",
+      "url": "https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "The Girl from Ipanema",
-      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Blue Navajo",
         "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202805,
       "name": "Chariots Of Fire",
       "url": "https://open.spotify.com/track/3zmXCcrMKpGho2sTRZG1Ux"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Wonderland By Night (Remastered)",
         "url": "https://open.spotify.com/album/1CbLm2NzirrgPh2UcoSITF"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 158973,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
+      },
+      "artists": [
+        {
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol. 4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
-      },
-      "artists": [
-        {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
       },
@@ -1619,38 +1619,6 @@
       "duration_ms": 116400,
       "name": "Java",
       "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA"
-      },
-      "artists": [
-        {
-          "name": "Satellite Orchestra",
-          "url": "https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Celebration: A Musical Journey",
-        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '77",
-          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Promise Of A Fisherman (Promessa De Pescador)",
-      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1671,6 +1639,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1fpwIpDPPXrNNPbHckzwbA"
+      },
+      "artists": [
+        {
+          "name": "Satellite Orchestra",
+          "url": "https://open.spotify.com/artist/3WUPVm3JL0g6uXMfnDRtZw"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2I3iX9yeYYzK6ebFhaxPLp"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "A Swingin' Safari",
         "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 135666,
       "name": "A Swingin' Safari",
       "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Celebration: A Musical Journey",
+        "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '77",
+          "url": "https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Promise Of A Fisherman (Promessa De Pescador)",
+      "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 161773,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/77LRyr9vn47HVc0PhBcIMj"
     }
   ],
   "unique_name": "Golden Instrumentals",

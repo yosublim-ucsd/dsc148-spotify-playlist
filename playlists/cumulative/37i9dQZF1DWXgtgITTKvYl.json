@@ -1632,6 +1632,24 @@
     {
       "album": {
         "name": "War Is Over",
+        "url": "https://open.spotify.com/album/4QAEcrM4zKTByiscO3eA90"
+      },
+      "artists": [
+        {
+          "name": "Von Hertzen Brothers",
+          "url": "https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "The Arsonist",
+      "url": "https://open.spotify.com/track/0gM6r00FUsQ5HlxuIguPTr"
+    },
+    {
+      "album": {
+        "name": "War Is Over",
         "url": "https://open.spotify.com/album/7EqrrMcMnLF5LZy4tReToj"
       },
       "artists": [
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 233280,
       "name": "The Arsonist",
       "url": "https://open.spotify.com/track/3mw6eplGTzJIW62daXaoz6"

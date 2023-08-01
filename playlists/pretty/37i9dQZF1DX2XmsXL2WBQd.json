@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 353161,
+  "num_followers": 353243,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmYxMzdiMTZhY2Y1NTM5YzhkNzE3MDU4NjY0ZmRiZDg4ZTMzZGUy",
+  "snapshot_id": "MCw5ZGQwNzhiMzYxNjRiYTJjMWYzM2MzMmNlODk4NTZiMDczZmY5OWEx",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:01",
@@ -139,6 +139,38 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
+        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 198253,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "N.W.A. Greatest Hits",
+        "url": "https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 261399,
+      "name": "Express Yourself - Remix",
+      "url": "https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -171,22 +203,6 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "N.W.A. Greatest Hits",
-        "url": "https://open.spotify.com/album/2k4SKTM0a5FVN37VvFbxpr"
-      },
-      "artists": [
-        {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
-        }
-      ],
-      "duration_ms": 261399,
-      "name": "Express Yourself - Remix",
-      "url": "https://open.spotify.com/track/6NLLIPKjqFRnbCorRNTEHe"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
         "name": "Profilin': The Hits",
         "url": "https://open.spotify.com/album/6a6h1DRImqxSsXfn3bk6XU"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 301893,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
-        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-        "url": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/2qq0RYYIuQxXcOxQKN0drC"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "I Ain't No Joke",
-      "url": "https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
         "name": "Long Live The Kane",
         "url": "https://open.spotify.com/album/5STvD2F7IQ51f4Cd2y5r3z"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 319906,
       "name": "Ain't No Half-Steppin'",
       "url": "https://open.spotify.com/track/0dNiLb9FEHrRK7VFDJctiR"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "I Ain't No Joke",
+      "url": "https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 325133,
       "name": "Rockit",
       "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -511,6 +511,38 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -543,34 +575,18 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
       },
       "artists": [
         {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+          "name": "The Sugarhill Gang",
+          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+      "duration_ms": 234453,
+      "name": "Rapper's Delight",
+      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -607,6 +623,22 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
         "name": "Planet Rock: The Album",
         "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
       },
@@ -639,22 +671,6 @@
       "duration_ms": 257223,
       "name": "9mm Goes Bang",
       "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/4UmBYGdgCkDiTFtlMwlHi8"
-      },
-      "artists": [
-        {
-          "name": "The Sugarhill Gang",
-          "url": "https://open.spotify.com/artist/7zliF6Q946WznVk3ZMYhZX"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Rapper's Delight",
-      "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
         "name": "In Full Gear",
         "url": "https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 288053,
       "name": "Talkin' All That Jazz",
       "url": "https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
-      },
-      "artists": [
-        {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
-        }
-      ],
-      "duration_ms": 422493,
-      "name": "Looking for the Perfect Beat - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -787,6 +767,42 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+        }
+      ],
+      "duration_ms": 422493,
+      "name": "Looking for the Perfect Beat - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 266026,
       "name": "Colors - 2014 Remaster",
       "url": "https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
-        "name": "By All Means Necessary (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "My Philosophy",
-      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
     },
     {
       "added_at": "2023-07-13 12:12:01",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
+        "name": "By All Means Necessary (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "My Philosophy",
+      "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
         "name": "The Very Best Of MC Lyte",
         "url": "https://open.spotify.com/album/7jH3YOFDeqA9kN4P4kHtx4"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 308558,
-      "name": "South Bronx",
-      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/36F8dqIQunGUWbsOPWQSjz"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 289293,
       "name": "Girls Ain't Nothing But Trouble - 1988 Extended Remix",
       "url": "https://open.spotify.com/track/2hdORQrsFcE0nm3rzLcfg9"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 308558,
+      "name": "South Bronx",
+      "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
     },
     {
       "added_at": "2023-07-13 12:12:01",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3?si=0dUBGLxSRbeUy2tKCJB3Aw">Lebza TheVillain</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,384 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,769 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wena Wethu \(feat\. Sino Msolo & Chley\)](https://open.spotify.com/track/5VWHXYu6nuV1aMzBt1Wp9R) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Netha](https://open.spotify.com/album/4PHeWglPwWKRiuZTbpjUPx) | 6:14 |
+| 1 | [Wena Wethu \(feat\. Musa Keys\)](https://open.spotify.com/track/5VWHXYu6nuV1aMzBt1Wp9R) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Netha](https://open.spotify.com/album/4PHeWglPwWKRiuZTbpjUPx) | 6:14 |
 | 2 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 |
 | 3 | [Sgudi Snyc](https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Sgudi Snyc](https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe) | 5:31 |
 | 4 | [Awukhuzeki](https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr) | [DJ Stokie](https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Sobzeen](https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw), [Zee\_nhle](https://open.spotify.com/artist/2zCe5zvuLDUr9BfD4NMDQc) | [My Journey Continues](https://open.spotify.com/album/6w8xkQa7VVqWynKA1jfpVI) | 8:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Valentines \(feat\. Kabza De Small\)](https://open.spotify.com/track/4GMKUNUvrS8xkaKBgEdAcB) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Uthingo Le Nkosazana](https://open.spotify.com/album/3uJs8ecQGgEsACraT8ucQ7) | 6:22 |
 | 50 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 |
 
-Snapshot ID: `MCxhMjQ3YzY5NWJmNGMyNGJjZDU3NjI1MmIxMmJiYTg0YTc3Zjk3ZWEw`
+Snapshot ID: `MCwzNmUyOTY5MWYyZThkNDViZDA2YzI2OWI5NmZhMTVjYTNmZjhlZWM3`

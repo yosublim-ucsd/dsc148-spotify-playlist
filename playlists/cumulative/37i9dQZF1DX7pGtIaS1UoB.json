@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 206669,
       "name": "All Day",
       "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 273950,
       "name": "You Are My Only One (\u96fb\u8996\u5287\u201c\u6211\u548c\u5169\u500b\u4ed6\u201d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/71O9WhK2KDKAeD6ZigPIuB"
@@ -2003,6 +2003,28 @@
     },
     {
       "album": {
+        "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
+        "url": "https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk"
+      },
+      "artists": [
+        {
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+        },
+        {
+          "name": "Alfred Sim",
+          "url": "https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "\u53d6\u6696 (\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u53ea\u6b64\u4e00\u5bb6\u300b\u4e3b\u9898\u66f2)",
+      "url": "https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq"
+    },
+    {
+      "album": {
         "name": "\u98db\u8f2a\u6d77\u9996\u5f35\u540c\u540d\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/0gFZClQ1u36BTMamo4kX2F"
       },
@@ -2468,6 +2490,24 @@
       "duration_ms": 229176,
       "name": "\u5b54\u96c0\u9c7c",
       "url": "https://open.spotify.com/track/1KvBUNDawviLSW1UoO6JKF"
+    },
+    {
+      "album": {
+        "name": "\u5bf6\u85cf\u7537\u5b69",
+        "url": "https://open.spotify.com/album/34g5tiDSPmDY8LOYKFJm2g"
+      },
+      "artists": [
+        {
+          "name": "\u5289\u5b78\u752b",
+          "url": "https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201211,
+      "name": "\u5bf6\u85cf\u7537\u5b69",
+      "url": "https://open.spotify.com/track/0IrXd9WPd91uRJ4huLFU7e"
     },
     {
       "album": {
@@ -3106,7 +3146,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 228965,
       "name": "\u5fc3\u8df3\u7684\u8bc1\u660e",
       "url": "https://open.spotify.com/track/6bw3pxp4Pb5LYdRhpVKp6g"
@@ -4662,6 +4702,28 @@
       "duration_ms": 208711,
       "name": "\u76f8\u898b\u4e0d\u6068\u665a",
       "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
+    },
+    {
+      "album": {
+        "name": "\u7a81\u7136\u60f3\u898b\u4f60\uff08\u300a\u9b3c\u4e4b\u57f7\u884c\u9577\u300b\u96fb\u8996\u5287\u63d2\u66f2\uff09",
+        "url": "https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J"
+      },
+      "artists": [
+        {
+          "name": "\u5289\u5955\u5152",
+          "url": "https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42"
+        },
+        {
+          "name": "Marcus Chang",
+          "url": "https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230916,
+      "name": "\u7a81\u7136\u60f3\u898b\u4f60\uff08\u300a\u9b3c\u4e4b\u57f7\u884c\u9577\u300b\u96fb\u8996\u5287\u63d2\u66f2\uff09",
+      "url": "https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: MOONY\(무니\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-591 songs - 1 day 12 hr 14 min
+592 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Earth](https://open.spotify.com/track/5UqUMoymWBJD3bAKK7rGb2) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [Earth](https://open.spotify.com/album/72W91ap1swKyQxPxhWIHgJ) | 4:35 | 2022-07-08 | 2022-08-05 |
 | [Eden](https://open.spotify.com/track/0o7DpobP2DG9TCCPlcnloZ) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Eden](https://open.spotify.com/album/7DKWTFyONUmqYSyDFA2D7V) | 3:08 | 2022-03-31 | 2022-04-09 |
 | [Elena Coda \(feat\. Elaine\)](https://open.spotify.com/track/2f7C47RCGc10UHfK1dsgun) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Elaine](https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel) | [New Edition 34](https://open.spotify.com/album/6V3qsD3AcGwyXtDxcG9fAj) | 4:23 | 2021-12-21 | 2022-07-27 |
+| [Ending Fairy](https://open.spotify.com/track/66uWx5UFjIR7VmnqQ2YX0x) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Ending Fairy](https://open.spotify.com/album/2LOL3OgncHJQCLYubXQrAB) | 3:19 | 2023-07-31 |  |
 | [Endless Dance](https://open.spotify.com/track/6ufG57VUdOTV9OBh7Uvs0v) | [FauloCity](https://open.spotify.com/artist/78A7VxduMrrBV0cj6ImHCU) | [Falling](https://open.spotify.com/album/0dJPpSDTcdzFcqs0tO2Nu2) | 4:58 | 2022-12-29 | 2023-01-11 |
 | [endsummer](https://open.spotify.com/track/3STdvJi38wE4nWklIaZ34l) | [quinn\_](https://open.spotify.com/artist/6Q7cg6qByDmYzJ6Xs4oTXC) | [0\-GRAVITY](https://open.spotify.com/album/6XMVNrf9lSdJTDsN8pS1p7) | 3:16 | 2022-09-05 | 2022-09-21 |
 | [Enough](https://open.spotify.com/track/0lLvhwKky1WGu6jYJ1vUgV) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [silence](https://open.spotify.com/album/0JLXXdA1ENNyfyj6oKGbsq) | 4:38 | 2021-12-12 | 2022-07-29 |
@@ -492,7 +493,7 @@
 | [Thanks and Thank you](https://open.spotify.com/track/5yrpZNk10TtSgQGKuVzAlB) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Thanks and Thank you](https://open.spotify.com/album/0uPBWBnUkF07lorP1GZMbJ) | 3:53 | 2022-12-13 | 2022-12-30 |
 | [That Day](https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 | 2022-05-11 | 2022-08-07 |
 | [That Night](https://open.spotify.com/track/2vRmqij0eJYLtJou6WBBpC) | [WooIn](https://open.spotify.com/artist/501q5RPEA8jjnFENWErgNc) | [That Night](https://open.spotify.com/album/608jPnA1ATWX7DNs0qsX7s) | 4:01 | 2022-03-31 | 2022-04-12 |
-| [That you came to me](https://open.spotify.com/track/48Dk5wZQNXMmxqE8B2Glt4) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [That you came to me](https://open.spotify.com/album/16WDt0NESttjZfkHLdLPDd) | 2:56 | 2023-07-17 |  |
+| [That you came to me](https://open.spotify.com/track/48Dk5wZQNXMmxqE8B2Glt4) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [That you came to me](https://open.spotify.com/album/16WDt0NESttjZfkHLdLPDd) | 2:56 | 2023-07-17 | 2023-08-01 |
 | [THE](https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [JIAN](https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb) | [ARE YOU THERE](https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU) | 3:37 | 2021-12-12 | 2022-07-29 |
 | [The Best Days](https://open.spotify.com/track/5c6hk38nrbJBRsEUfq7lpH) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [The Best Days](https://open.spotify.com/album/6wOER8VYJcmahoUs4jVNCV) | 4:48 | 2022-03-31 | 2022-04-20 |
 | [The Cat House 고양이 집](https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [The Cat House 고양이 집](https://open.spotify.com/album/1Dx5d7CPHRQ7228ZCT4aLT) | 3:51 | 2022-03-31 | 2022-04-15 |

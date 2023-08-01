@@ -1,12 +1,12 @@
 {
   "description": "The dancefloor is the place to be \ud83e\udea9\u200a",
-  "num_followers": 837382,
+  "num_followers": 837566,
   "original_name": "Electronic Circus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWQ5NDE0NjFkYzgyOWNiZGJlMTI5NjQxOTJlYzZjOTk1MjZlZDMy",
+  "snapshot_id": "MCw0OWEzYzI3NWZlMmRiN2QwZDdhYTdiMjE0YTc2MTE4ODE3NmFmYjg5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:11:31",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
-        "name": "Captain Nemo",
-        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 243840,
-      "name": "Captain Nemo - Edit",
-      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
         "name": "Set My Mind Free",
         "url": "https://open.spotify.com/album/3ecx2vhbNcocjrQ0M74TnO"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 180461,
       "name": "Set My Mind Free",
       "url": "https://open.spotify.com/track/6YG9ny9p9PmMjIyJ0B1pVw"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
+        "name": "Captain Nemo",
+        "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 243840,
+      "name": "Captain Nemo - Edit",
+      "url": "https://open.spotify.com/track/0vwwoC3JkR0Cinl4i3DqU6"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
         "name": "You Can Dance Now",
         "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 244802,
       "name": "You Can Dance Now",
       "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
-        "name": "Pont de la Caille",
-        "url": "https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M"
-      },
-      "artists": [
-        {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        }
-      ],
-      "duration_ms": 313809,
-      "name": "Pont de la Caille",
-      "url": "https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
+        "name": "Pont de la Caille",
+        "url": "https://open.spotify.com/album/64dSfNdAExAwPFtjPmXm4M"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        }
+      ],
+      "duration_ms": 313809,
+      "name": "Pont de la Caille",
+      "url": "https://open.spotify.com/track/3jAPlfftOtKBgrJ722luE3"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
         "name": "Change This Pain For Ecstasy",
         "url": "https://open.spotify.com/album/08xHiG90YhACt4w637oTqn"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 207012,
       "name": "Change This Pain For Ecstasy",
       "url": "https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5k27SCv9uikB2YqlMB9Ub2"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4yaXiOi0fml3ehTPOovp5K"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 447066,
       "name": "Petit Matin",
       "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
-      },
-      "artists": [
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
-        }
-      ],
-      "duration_ms": 261903,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
         "name": "Back In The Taxi (AM\u00c9M\u00c9 Remix)",
         "url": "https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3"
       },
@@ -1007,6 +991,38 @@
       "duration_ms": 266507,
       "name": "Back In The Taxi - AM\u00c9M\u00c9 Midnight Remix",
       "url": "https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
+        "name": "Never Stop Dancing",
+        "url": "https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 493440,
+      "name": "Himmelblau",
+      "url": "https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
+      },
+      "artists": [
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
+        }
+      ],
+      "duration_ms": 261903,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -1047,22 +1063,6 @@
       "duration_ms": 324362,
       "name": "Der Mond - 1980 Version",
       "url": "https://open.spotify.com/track/0mTq8qD7jCebFoN5HP7NqY"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
-        "name": "Never Stop Dancing",
-        "url": "https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 493440,
-      "name": "Himmelblau",
-      "url": "https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
-        "name": "Monolith",
-        "url": "https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD"
-      },
-      "artists": [
-        {
-          "name": "Stella Bossi",
-          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
-        }
-      ],
-      "duration_ms": 391875,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
-    },
-    {
-      "added_at": "2023-06-30 15:11:31",
-      "album": {
         "name": "Nova Two",
         "url": "https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2023-06-30 15:11:31",
       "album": {
-        "name": "Reboot",
-        "url": "https://open.spotify.com/album/42WxQOxuDjHgogVzGxw5b0"
+        "name": "Monolith",
+        "url": "https://open.spotify.com/album/3fpazL83dR1sdhVixTXarD"
       },
       "artists": [
         {
-          "name": "Stereo Express",
-          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+          "name": "Stella Bossi",
+          "url": "https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz"
         }
       ],
-      "duration_ms": 418536,
-      "name": "Reboot",
-      "url": "https://open.spotify.com/track/6zHxVa7DdiFqmS4M2ihAdH"
+      "duration_ms": 391875,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/2TBCjgsbpGpf664aA0V5B2"
     },
     {
       "added_at": "2023-06-30 15:11:31",
@@ -1243,6 +1227,22 @@
       "duration_ms": 196662,
       "name": "Beide alleine - Radio Edit",
       "url": "https://open.spotify.com/track/4rW2mF4NZX5BrhMQP62kun"
+    },
+    {
+      "added_at": "2023-06-30 15:11:31",
+      "album": {
+        "name": "Reboot",
+        "url": "https://open.spotify.com/album/42WxQOxuDjHgogVzGxw5b0"
+      },
+      "artists": [
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "duration_ms": 418536,
+      "name": "Reboot",
+      "url": "https://open.spotify.com/track/6zHxVa7DdiFqmS4M2ihAdH"
     },
     {
       "added_at": "2023-06-30 15:11:31",

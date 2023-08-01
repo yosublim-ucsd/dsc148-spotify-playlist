@@ -1,12 +1,12 @@
 {
   "description": "For the hopeless romantic daydreamers. Cover: Laufey",
-  "num_followers": 26340,
+  "num_followers": 26683,
   "original_name": "blush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjIyYzc5YTY2ZjQ4NGIzOTJlMjgxZDQyMDhjNDdiMWQwZjhkYTgx",
+  "snapshot_id": "MCwxMmE0MzExYTU0YWFiZjViYzYyOTg4ODQ2MGMwZDg1YTk3YWVmNDcx",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -71,6 +71,26 @@
       "duration_ms": 270720,
       "name": "Hopeless Romantic",
       "url": "https://open.spotify.com/track/6MVMbS5zwts8wgC1Re1VKF"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "When We Were Younger (feat. Cavetown)",
+        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 234736,
+      "name": "When We Were Younger (feat. Cavetown)",
+      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -435,26 +455,6 @@
       "duration_ms": 177469,
       "name": "Embrasse Moi",
       "url": "https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "When We Were Younger (feat. Cavetown)",
-        "url": "https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 234736,
-      "name": "When We Were Younger (feat. Cavetown)",
-      "url": "https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm"
     },
     {
       "added_at": "2023-07-28 04:01:00",

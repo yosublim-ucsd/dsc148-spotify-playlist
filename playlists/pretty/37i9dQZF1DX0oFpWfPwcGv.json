@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 46298,
+  "num_followers": 46379,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmZiN2I2OWM5YjIzMGZhZDI4MGIzMGVlZWRkZjNkZjUyN2RlZjY3",
+  "snapshot_id": "MCw0NGFlMDNiMDgzNGVjYjFkNTZhOThiOTA5MjkyZGUyYmQ1OGQ0OTNl",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Love is Back",
         "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Odyssey (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
-      },
-      "artists": [
-        {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
-        }
-      ],
-      "duration_ms": 336466,
-      "name": "Native New Yorker - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
         "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 423003,
       "name": "Take Me to the Bridge",
       "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Odyssey (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 336466,
+      "name": "Native New Yorker - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Ready To Roll",
-        "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Saturday Night, Sunday Morning",
-      "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Come to Me",
         "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 590986,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "Ready To Roll",
+        "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
+      },
+      "artists": [
+        {
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "Saturday Night, Sunday Morning",
+      "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 274960,
       "name": "My Forbidden Lover - 2018 Remaster",
       "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Slippin' and Dippin' (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4LvH1pQ8ysoBXLicmLdifO"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+        "name": "Go West",
+        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+      "duration_ms": 340493,
+      "name": "In The Navy - Single Version",
+      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1039,22 +1055,6 @@
       "duration_ms": 473240,
       "name": "Love Is You - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/4YjD6Gd0IjMIchfTOOPEgS"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Go West",
-        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 340493,
-      "name": "In The Navy - Single Version",
-      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L"
+        "name": "II",
+        "url": "https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b"
       },
       "artists": [
         {
-          "name": "Viola Wills",
-          "url": "https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8"
+          "name": "Inner Life",
+          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
         }
       ],
-      "duration_ms": 723573,
-      "name": "If You Could Read My Mind - The Disconet Re-Edit",
-      "url": "https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696"
+      "duration_ms": 392066,
+      "name": "Moment Of My Life - 12\" Version",
+      "url": "https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC"
     }
   ],
   "unique_name": "Disco Decadence",

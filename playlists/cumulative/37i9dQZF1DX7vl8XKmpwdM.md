@@ -4,7 +4,7 @@
 
 > Dance Machi Dance<br/>Cover : Leo
 
-106 songs - 6 hr 21 min
+107 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/track/4dJrjWtAhEkW7VdPYSL1Ip) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Gana Balachandar](https://open.spotify.com/artist/1GH0DojDQJeEKQ4BDMShAL) | [Vaathi Coming \(From "Master"\)](https://open.spotify.com/album/0SOw7gw33kUZHgyZpLY1Jh) | 3:48 | 2021-12-01 |  |
 | [Vaathi Kabaddi \(From "Master"\)](https://open.spotify.com/track/7uMf1DQzEMqgJOSQgc5K2Y) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Vaathi Kabaddi \(From "Master"\)](https://open.spotify.com/album/5wLGZYZn31hwzP5CI6M8z0) | 3:26 | 2021-12-01 |  |
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-12-01 |  |
+| [Vandha Edam \(From "Jawan"\)](https://open.spotify.com/track/1qiTVMkwHOy7bD8DCU460Q) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Vandha Edam \(From "Jawan"\)](https://open.spotify.com/album/1sFX6xAasGOFbjJIKpbrtC) | 4:12 | 2023-07-31 |  |
 | [Venaam Thalaiva Adviceu](https://open.spotify.com/track/5oSFIFYf3vdzi2pkAIgk7I) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [DSP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8) | 4:19 | 2022-11-28 | 2023-03-29 |
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |
 | [Whistle Song](https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/3EwO4dSwucabYpmiSgVDjJ) | 3:22 | 2022-06-22 | 2022-08-08 |

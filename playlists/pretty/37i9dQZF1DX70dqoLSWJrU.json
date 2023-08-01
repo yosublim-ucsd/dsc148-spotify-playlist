@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 61229,
+  "num_followers": 61303,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGVkMGFmNzJjM2QyNjNmMGU3MzRmODQ4NjA5NTgyYTliNDdjMDY2",
+  "snapshot_id": "MCxiYzNjZThiMWNkMWRlYTM0NmNkZmNhMWYxMGY3MDEyZTFkMWVmNWFl",
   "tracks": [
     {
       "added_at": "2023-06-21 13:25:39",
@@ -119,6 +119,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/78MIFwIW5oUNdaL6Sj8hTB"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -195,6 +195,22 @@
       "duration_ms": 164933,
       "name": "In The Wee Small Hours Of The Morning",
       "url": "https://open.spotify.com/track/4wGYHJ2Mcvb2QvHinDVGEC"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "An Evening With Billie Holiday",
+        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -263,8 +279,24 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "An Evening With Billie Holiday",
-        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+        "name": "The End Of The World",
+        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "The End Of The World",
+      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Lady In Satin",
+        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
       },
       "artists": [
         {
@@ -272,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 221280,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/3mwIoHzwnTnGWjAUVqajLr"
+      "duration_ms": 203266,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -311,22 +343,6 @@
       "duration_ms": 222866,
       "name": "I Got It Bad (And That Ain't Good)",
       "url": "https://open.spotify.com/track/49iKGaiTvv4ewjYPhvimxu"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "The End Of The World",
-        "url": "https://open.spotify.com/album/5auWOjG5DsSccVLD9qqjd0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "The End Of The World",
-      "url": "https://open.spotify.com/track/3esK0w6IPlcvCa27sqUYeg"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -383,22 +399,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Lady In Satin",
-        "url": "https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/6Rvz1jM5eUqzNs2Pi8RMTG"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "The Ultimate",
         "url": "https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl"
       },
@@ -435,6 +435,74 @@
       "duration_ms": 172186,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/599FkdQJIhJfZYOSvFrJ35"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 197173,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "The Boulevard of Broken Dreams (with Sting)",
+      "url": "https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -483,54 +551,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
       },
       "artists": [
         {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
         }
       ],
-      "duration_ms": 197173,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7EKUOlysNuLlfgoH5oySA6"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/4DkOOLxg4p72UZzoUwV95W"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Duets An American Classic",
-        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "The Boulevard of Broken Dreams (with Sting)",
-      "url": "https://open.spotify.com/track/5bG5GUKVJztKR5nff1CwUp"
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -551,54 +583,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
-      },
-      "artists": [
-        {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
-        }
-      ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Lonely And Blue",
-        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "I Miss You So",
-      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Lonely And Blue",
+        "url": "https://open.spotify.com/album/5aMysOzmRwAQArAcRegasS"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "I Miss You So",
+      "url": "https://open.spotify.com/track/0G3WxfqXCkCq9AGgqLINg9"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "April Fooled Me",
-        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "April Fooled Me",
-      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -799,18 +779,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+        "name": "April Fooled Me",
+        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Everything Happens To Me - Complete Take 2",
-      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+      "duration_ms": 231400,
+      "name": "April Fooled Me",
+      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -827,22 +811,6 @@
       "duration_ms": 188560,
       "name": "There Must Be A Way",
       "url": "https://open.spotify.com/track/7BFNrhD0hSlJwP4GYmxrU6"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Something Nice",
-        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Maybe You'll Be There",
-      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -867,6 +835,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Maybe You'll Be There",
+      "url": "https://open.spotify.com/track/3lzTDiidk78yOW2UUX1r4a"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Social Call",
         "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
       },
@@ -883,6 +867,38 @@
       "duration_ms": 251680,
       "name": "Gone With the Wind",
       "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -915,22 +931,6 @@
       "duration_ms": 196120,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Beware My Heart",
+      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Gentle Is My Love",
         "url": "https://open.spotify.com/album/4R0LaX0MM3yiIPARgFypaA"
       },
@@ -1011,38 +1027,6 @@
       "duration_ms": 148560,
       "name": "That Old Feeling",
       "url": "https://open.spotify.com/track/4gxqeb52ocvxNTNwHquFsW"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "All For You (A Dedication To The Nat King Cole Trio)",
-        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Beware My Heart",
-      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "All For You (A Dedication To The Nat King Cole Trio)",
+        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Songs from the Heart (Remastered 2013)",
         "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Blues, Soul & Ballads",
+        "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 127626,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Helen Merill",
         "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Blues, Soul & Ballads",
-        "url": "https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp"
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
         }
       ],
-      "duration_ms": 127626,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q"
+      "duration_ms": 154760,
+      "name": "Baby, Don't You Cry",
+      "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1203,22 +1219,6 @@
       "duration_ms": 211906,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Baby, Don't You Cry",
-      "url": "https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Somewhere over the Rainbow",
-        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Say It Isn't So",
-      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 280093,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Somewhere over the Rainbow",
+        "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Say It Isn't So",
+      "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "The Rockin' Chair Lady",
         "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 225000,
       "name": "He Was Too Good To Me",
       "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2023-06-21 13:25:39",

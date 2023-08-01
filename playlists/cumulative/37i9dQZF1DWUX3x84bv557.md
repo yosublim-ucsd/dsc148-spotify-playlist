@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: LAUF
 
-276 songs - 13 hr 18 min
+277 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Onbegrepen](https://open.spotify.com/track/2a2p471YjXXiCvpQtl8IHV) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Onbegrepen](https://open.spotify.com/album/0WNtBZDPbvqQue2UyLoTrL) | 2:29 | 2023-02-23 | 2023-03-31 |
 | [Onder Invloed](https://open.spotify.com/track/4hqxHQKbpDxh6lRmw6w2xR) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Onder Invloed](https://open.spotify.com/album/3qtu1t30eeSgoA0cgBTteg) | 2:57 | 2023-03-23 | 2023-06-16 |
 | [Onderweg](https://open.spotify.com/track/0gekZRV95IfIVeJTtJHa2v) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Onderweg](https://open.spotify.com/album/44KUJqwC7TJcUcQNqhMRAX) | 2:37 | 2023-02-23 | 2023-06-02 |
+| [Ongezien](https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Ongezien](https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM) | 2:29 | 2023-07-31 |  |
 | [Online](https://open.spotify.com/track/64r0yTL6Tinak5LjCOUpxG) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online](https://open.spotify.com/album/2aTr3xBo8zgf7Ya845DypK) | 2:50 | 2023-02-23 | 2023-03-18 |
 | [Op Een Dag](https://open.spotify.com/track/4JcYIvTfE9UhHJS94vFuoQ) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Op Een Dag](https://open.spotify.com/album/2p41O5ojTgxLFRNlmJNjJp) | 2:16 | 2023-02-23 | 2023-03-25 |
 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 | 2023-05-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Back to the golden age of the scene. Cover: Thrice",
-  "num_followers": 417775,
+  "num_followers": 418125,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODM0ZGFiZWUwMDVkODhjNTYxMGEyMWNjZjNkZDQ3YzM1ODQ5YmVj",
+  "snapshot_id": "MCw3YWQyZGNjYzBjNjkzNzA1OTI2MDFhZjg0YWZjOTM0NTJlNjdiOGQx",
   "tracks": [
     {
       "added_at": "2023-03-28 16:00:32",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "What Separates Me From You",
-        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Selfish Machines",
         "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 268480,
       "name": "Caraphernelia",
       "url": "https://open.spotify.com/track/2G8PweZBBwTpyP8vpNQJK2"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "What Separates Me From You",
+        "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 170893,
+      "name": "Give It All",
+      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "Dying Is Your Latest Fashion",
         "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
       },
@@ -383,18 +399,18 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 170893,
-      "name": "Give It All",
-      "url": "https://open.spotify.com/track/6TTBhxnb9NYT7cz6aLOkBy"
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -427,22 +443,6 @@
       "duration_ms": 366560,
       "name": "Demolition Lovers",
       "url": "https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "Reinventing Your Exit",
+      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 231096,
       "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
       "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Reinventing Your Exit",
-      "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -751,38 +751,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Wildlife",
-        "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 414925,
-      "name": "King Park",
-      "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 239520,
-      "name": "Niki Fm",
-      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -831,6 +799,38 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Wildlife",
+        "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
+      },
+      "artists": [
+        {
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
+        }
+      ],
+      "duration_ms": 414925,
+      "name": "King Park",
+      "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 239520,
+      "name": "Niki Fm",
+      "url": "https://open.spotify.com/track/3eFx554nKpVNe4otynSsK0"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "On Letting Go",
         "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Downtown Battle Mountain",
-        "url": "https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz"
-      },
-      "artists": [
-        {
-          "name": "Dance Gavin Dance",
-          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
-        }
-      ],
-      "duration_ms": 288093,
-      "name": "And I Told Them I Invented Times New Roman",
-      "url": "https://open.spotify.com/track/7CR0CfMEC6BZBuYLaKSbu9"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 179986,
       "name": "Buried a Lie",
       "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Downtown Battle Mountain",
+        "url": "https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz"
+      },
+      "artists": [
+        {
+          "name": "Dance Gavin Dance",
+          "url": "https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k"
+        }
+      ],
+      "duration_ms": 288093,
+      "name": "And I Told Them I Invented Times New Roman",
+      "url": "https://open.spotify.com/track/7CR0CfMEC6BZBuYLaKSbu9"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The City Sleeps in Flames",
-        "url": "https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "My Darkest Hour",
-      "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Illusion of Safety",
         "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 180026,
       "name": "Deadbolt",
       "url": "https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The City Sleeps in Flames",
+        "url": "https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "My Darkest Hour",
+      "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
+        "name": "Try This With Your Eyes Closed",
+        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 249613,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
         "name": "The Sufferer & The Witness",
         "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
@@ -1035,6 +1051,22 @@
       "duration_ms": 227706,
       "name": "Ready To Fall",
       "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Scary Kids Scaring Kids",
+        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1071,38 +1103,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Scary Kids Scaring Kids",
-        "url": "https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar"
-      },
-      "artists": [
-        {
-          "name": "Scary Kids Scaring Kids",
-          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
-        "name": "Try This With Your Eyes Closed",
-        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 249613,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Emarosa",
         "url": "https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "After The Eulogy",
-        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
-      },
-      "artists": [
-        {
-          "name": "Boysetsfire",
-          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 201986,
       "name": "Tree Village",
       "url": "https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
+      },
+      "artists": [
+        {
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
     },
     {
       "added_at": "2023-03-28 16:00:32",

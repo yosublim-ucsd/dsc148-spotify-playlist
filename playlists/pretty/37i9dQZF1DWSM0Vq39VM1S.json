@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 145378,
+  "num_followers": 145478,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjE3NzdkMjRjNWMxNDQ3OGQ0NTUzYmIxNzAzNTMzMGUxNzE1N2Mx",
+  "snapshot_id": "MCwwZWI5ZTUxYTJlYjUxZTYwNjY1NTBiYjQ2YjBkNzY3OGZkOGU0NWMw",
   "tracks": [
     {
       "added_at": "2023-07-27 12:00:43",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Process (Bonus Edition)",
-        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Laissez-moi danser",
         "url": "https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 172360,
       "name": "Laissez-moi danser",
       "url": "https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
     },
     {
       "added_at": "2023-07-27 12:00:43",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "On the Road",
-        "url": "https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d"
-      },
-      "artists": [
-        {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
-        }
-      ],
-      "duration_ms": 192189,
-      "name": "On the Road - Radio Edit",
-      "url": "https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Beautiful Sunrise",
         "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "All We've Known",
-        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
+        "name": "On the Road",
+        "url": "https://open.spotify.com/album/1jT4VO02QoRVb1IDubFm2d"
       },
       "artists": [
         {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Homegrown",
-      "url": "https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv"
+      "duration_ms": 192189,
+      "name": "On the Road - Radio Edit",
+      "url": "https://open.spotify.com/track/7KbfRU8ToJ6PEu1rkiggzw"
     },
     {
       "added_at": "2023-07-27 12:00:43",
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
+        "name": "All We've Known",
+        "url": "https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Homegrown",
+      "url": "https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 199400,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/2OYfo8xz9nCqXVXqibLq2G"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Like A Million Dreams (Live)",
         "url": "https://open.spotify.com/album/5QRgGWs8fZvzqvcHbIQqey"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 229464,
       "name": "Talk to Me - Live",
       "url": "https://open.spotify.com/track/07XDzVJcwPqKoDqUjUNJ6V"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "The Sweet Sound of You",
+        "url": "https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 297720,
+      "name": "The Sweet Sound of You",
+      "url": "https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

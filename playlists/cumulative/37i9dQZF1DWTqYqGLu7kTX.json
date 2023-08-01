@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168178,
+      "name": "HOBBIES",
+      "url": "https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6"
+    },
+    {
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/5RUFZa2yj47Co6rMWEJzwQ"
       },
@@ -1610,6 +1632,28 @@
       "duration_ms": 188181,
       "name": "Pind Da Riwaaz",
       "url": "https://open.spotify.com/track/0OvC1QkWdBI3ORrp2lEhNO"
+    },
+    {
+      "album": {
+        "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Mad Mix",
+          "url": "https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158901,
+      "name": "PROCESS",
+      "url": "https://open.spotify.com/track/3AaFwooS6oMDJZfHqnL9aX"
     },
     {
       "album": {

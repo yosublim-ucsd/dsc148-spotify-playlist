@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Tri\-State](https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX)
 
-> New York, Jersey, and Connecticut music breaking waves\. Cover: Coco & Breezy
+> New York, Jersey, and Connecticut music breaking waves\. Cover:  <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca?si=7ae4a4be344f447f">A$AP Rocky<a>
 
 113 songs - 5 hr 18 min
 

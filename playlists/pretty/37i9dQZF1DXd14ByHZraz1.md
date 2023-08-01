@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,008 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,010 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Don't Wake Me Up](https://open.spotify.com/track/3edsNcYEr1eufTkadK09MF) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv), [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1) | [Don't Wake Me Up](https://open.spotify.com/album/07UqcOSS4JQ1Si9TwomEHw) | 3:32 |
 | 50 | [Good Good](https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Good Good](https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc) | 2:22 |
 
-Snapshot ID: `MCw4Y2Q1YjUzZWY3Yzk2ZWUyZGYyYmNjMTFhODNlYWI3ZGJlZDM0ZTUx`
+Snapshot ID: `MCw1OWRmMGM4MzkwMDFlN2ViZTI3ZmFlN2I3MTVmY2Y0ZGE5ZDZiYmE0`

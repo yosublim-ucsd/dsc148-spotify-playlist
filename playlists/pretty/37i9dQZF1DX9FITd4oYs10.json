@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 16653,
+  "num_followers": 16656,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTkzYTMwODE4YTA0MmY4OWNlYWE5NzAzNTBhNDJmOWIxMTNmYzI3",
+  "snapshot_id": "MCw0YmNkMjM0NmM0ZDlkMDI1ZTJkZWRiMDZiMWFkYmI1OWM0ZTc0YmJl",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -199,6 +199,54 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Negro Drama",
+      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Desorientado Sem Cortes",
+        "url": "https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Vida Longa, Mundo Pequeno",
+      "url": "https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Contra N\u00f3s Ningu\u00e9m Ser\u00e1",
         "url": "https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa"
       },
@@ -227,38 +275,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Desorientado Sem Cortes",
-        "url": "https://open.spotify.com/album/43dcRDmbqfUWdrrmUUl5G1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Vida Longa, Mundo Pequeno",
-      "url": "https://open.spotify.com/track/2mZDpgyFfPYGZoS4gr7ku1"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "Negro Drama",
-      "url": "https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Com os Neur\u00f4nios Evoluidos",
         "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 258742,
       "name": "Rainha da Pista",
       "url": "https://open.spotify.com/track/6pSS3wWysnciJRFMcK14R7"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sorrisos (feat. Lourena)",
-      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 220171,
       "name": "Neur\u00f3tico de Guerra",
       "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sorrisos (feat. Lourena)",
+      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Com os Neur\u00f4nios Evoluidos",
+        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 353532,
+      "name": "Chama os Mulekes",
+      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "\u00caxito",
         "url": "https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 204693,
       "name": "Nipsey do Azul",
       "url": "https://open.spotify.com/track/7oOZ6CmKSUUgTtVIYPJiNk"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Com os Neur\u00f4nios Evoluidos",
-        "url": "https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 353532,
-      "name": "Chama os Mulekes",
-      "url": "https://open.spotify.com/track/5p3umkh1j1x1lL9IW8DbSZ"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Mandona (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Mandona - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Irm\u00e3o Dqbrada!",
         "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
       },
@@ -607,6 +587,42 @@
       "duration_ms": 237065,
       "name": "Olhares",
       "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Bonde da Madrugada pt. 2",
+        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
+      },
+      "artists": [
+        {
+          "name": "ConeCrewDiretoria",
+          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Rap, Cerva, Erva e Muita Larica",
+      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Mandona (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Mandona - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -679,38 +695,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Bonde da Madrugada pt. 2",
-        "url": "https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW"
-      },
-      "artists": [
-        {
-          "name": "ConeCrewDiretoria",
-          "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
-        }
-      ],
-      "duration_ms": 251050,
-      "name": "Rap, Cerva, Erva e Muita Larica",
-      "url": "https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Relic\u00e1rio",
         "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 329920,
       "name": "Respeito \u00c9 pra Quem Tem",
       "url": "https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
+        "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
+        "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "Nego Gallo",
+          "url": "https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq"
+        }
+      ],
+      "duration_ms": 368024,
+      "name": "Aquela F\u00e9",
+      "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -987,26 +1007,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Roteiro Pra A\u00efnouz (Vol. 3)",
-        "url": "https://open.spotify.com/album/7hUHxgR9xS4sDrnsfPTtQW"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "Nego Gallo",
-          "url": "https://open.spotify.com/artist/4nOrR26qgm2LzspkdRPdpq"
-        }
-      ],
-      "duration_ms": 368024,
-      "name": "Aquela F\u00e9",
-      "url": "https://open.spotify.com/track/2HunnLQdWqDFTTKXd8PP5r"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Estilo Coyote",
         "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
       },
@@ -1019,38 +1019,6 @@
       "duration_ms": 174211,
       "name": "Estilo Coyote",
       "url": "https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
-        "name": "Poesia Ac\u00fastica Ep. Acabou",
-        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Poesia Ac\u00fastica Ep. Acabou",
-      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1103,6 +1071,38 @@
       "duration_ms": 270188,
       "name": "Mente do Vil\u00e3o",
       "url": "https://open.spotify.com/track/1qx0ns6ZErHD6pZgRLw2zT"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Poesia Ac\u00fastica Ep. Acabou",
+        "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Poesia Ac\u00fastica Ep. Acabou",
+      "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
     },
     {
       "added_at": "2023-03-10 03:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Perfil",
-        "url": "https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe"
-      },
-      "artists": [
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 250044,
-      "name": "Filosofia de Boteco",
-      "url": "https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Eletrocardiograma",
         "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
       },
@@ -1331,26 +1315,50 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
-        "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
+        "name": "Perfil",
+        "url": "https://open.spotify.com/album/5NXJgS9adRvK9mhnAF9XHe"
       },
       "artists": [
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 250044,
+      "name": "Filosofia de Boteco",
+      "url": "https://open.spotify.com/track/3nXCaYDeKPeUiUyGThNSEs"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/1OtjO72XdEOLXSEKlgEP7y"
+      },
+      "artists": [
+        {
+          "name": "Yung Buda",
+          "url": "https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "OG L",
+          "url": "https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6"
+        },
         {
           "name": "Froid",
           "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Santzu",
-          "url": "https://open.spotify.com/artist/7vIhwLkRibT4hBjpBAPwZP"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
         }
       ],
-      "duration_ms": 294913,
-      "name": "Vem Tranquilo",
-      "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
+      "duration_ms": 186666,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/6iIN2VXurWz90YBHXOIziD"
     }
   ],
   "unique_name": "Cole\u00e7\u00e3o Hip Hop",

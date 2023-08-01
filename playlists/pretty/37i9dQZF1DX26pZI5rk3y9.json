@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5966,
+  "num_followers": 5980,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
+  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Sea of Cowards",
         "url": "https://open.spotify.com/album/5QaEJj1wEqIePsjVtMzReu"
       },
@@ -123,38 +139,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "What Goes Around (Comes Around)",
-        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 216845,
-      "name": "What Goes Around (Comes Around)",
-      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 159007,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "What Goes Around (Comes Around)",
+        "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 216845,
+      "name": "What Goes Around (Comes Around)",
+      "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -243,6 +243,26 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Death Wish Blues",
+        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 261064,
+      "name": "Rippin' And Runnin'",
+      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "FLorida Man",
         "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
       },
@@ -291,42 +311,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Hey God",
-        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Hey God",
-      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/1DPfF5V0qhOJXWlmUjCdL5"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 172520,
       "name": "Rise",
       "url": "https://open.spotify.com/track/34PJD8wnaZoBORxGnsOmwu"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Hey God",
+        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Hey God",
+      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Exorcist",
+        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
+      },
+      "artists": [
+        {
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Done Cryin'",
+      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Exorcist",
-        "url": "https://open.spotify.com/album/0E9KZiGYBEod3NZj4TZHFL"
-      },
-      "artists": [
-        {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Done Cryin'",
-      "url": "https://open.spotify.com/track/7vuUuasGI5m6R9yVGZLlJP"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Chrysomallousa",
         "url": "https://open.spotify.com/album/2PGWByXz7U5pmyzxPyoO8m"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219954,
       "name": "Chrysomallousa",
       "url": "https://open.spotify.com/track/1DX9QKh6zH0BR4DVI7aRjq"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "For the Love of Blues",
-        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
-      },
-      "artists": [
-        {
-          "name": "Pontillo And The Vintage Crew",
-          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
-        }
-      ],
-      "duration_ms": 353226,
-      "name": "Sing the Blues",
-      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 294327,
       "name": "Hazel Eyes",
       "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "For the Love of Blues",
+        "url": "https://open.spotify.com/album/0GyLFCvuyOhZcyalRpERUs"
+      },
+      "artists": [
+        {
+          "name": "Pontillo And The Vintage Crew",
+          "url": "https://open.spotify.com/artist/5JglpISaD6UPzanSyiPVKv"
+        }
+      ],
+      "duration_ms": 353226,
+      "name": "Sing the Blues",
+      "url": "https://open.spotify.com/track/78NK5hdKykgTCLnLWy7rTg"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Ain't Nobody (Pain)",
+        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Flood of 2019",
         "url": "https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv"
       },
@@ -975,6 +991,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Cassanova Kirk Daniel",
         "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
       },
@@ -987,6 +1019,22 @@
       "duration_ms": 203599,
       "name": "Cassanova Kirk Daniel",
       "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Wayward Son",
+        "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
+      },
+      "artists": [
+        {
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Wayward Son",
+      "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -1011,38 +1059,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
-      },
-      "artists": [
-        {
-          "name": "Arthur Terembula",
-          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Wayward Son",
-        "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 223500,
-      "name": "Wayward Son",
-      "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Make It Easy",
         "url": "https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 204862,
       "name": "Make It Easy",
       "url": "https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Ain't Nobody (Pain)",
-        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     }
   ],
   "unique_name": "Blues BBQ",

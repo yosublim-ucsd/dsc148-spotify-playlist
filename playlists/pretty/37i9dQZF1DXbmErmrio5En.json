@@ -1,12 +1,12 @@
 {
   "description": "-8 LUFS if you can. Ft. mykel online",
-  "num_followers": 22328,
+  "num_followers": 22411,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmM0MjJhMjc2OTVkYmFjNzhmMWU4M2MxZjQ0YWNmN2UzNzAwNjE5",
+  "snapshot_id": "MCwwMzE3YTRhNmE1Yjc3M2FkYjQ1Nzg1MmJmYjgzZjU5MDIxMmM2NjEw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -371,6 +371,26 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "gluttony",
+        "url": "https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Voda Fuji",
+          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
+        }
+      ],
+      "duration_ms": 117440,
+      "name": "gluttony",
+      "url": "https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Tea Parties With Dale Earnhardt",
         "url": "https://open.spotify.com/album/5cAvGgIqa9qtQE2IYocQSl"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 161500,
       "name": "the world is big",
       "url": "https://open.spotify.com/track/0M3jtTVHW0iK9mkQsqQc93"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "gluttony",
-        "url": "https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7"
-      },
-      "artists": [
-        {
-          "name": "aldrch",
-          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
-        },
-        {
-          "name": "Voda Fuji",
-          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
-        }
-      ],
-      "duration_ms": 117440,
-      "name": "gluttony",
-      "url": "https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg"
     },
     {
       "added_at": "2023-05-31 17:22:45",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq"
     },
     {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Bloom To Death",
+        "url": "https://open.spotify.com/album/6ct86pPO357pAhxA3SrA3x"
+      },
+      "artists": [
+        {
+          "name": "forest",
+          "url": "https://open.spotify.com/artist/4OekPdF1oZS9OlbCQuwTlz"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "losin' it",
+      "url": "https://open.spotify.com/track/3izUvtPn0LV3ncLaALAjjh"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "difficult",
@@ -551,22 +567,6 @@
       "duration_ms": 114461,
       "name": "The Industry (don't care)",
       "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Bloom To Death",
-        "url": "https://open.spotify.com/album/6ct86pPO357pAhxA3SrA3x"
-      },
-      "artists": [
-        {
-          "name": "forest",
-          "url": "https://open.spotify.com/artist/4OekPdF1oZS9OlbCQuwTlz"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "losin' it",
-      "url": "https://open.spotify.com/track/3izUvtPn0LV3ncLaALAjjh"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "draugr",
-        "url": "https://open.spotify.com/album/1qjHzeZTSh58Embu8NuSrf"
-      },
-      "artists": [
-        {
-          "name": "Numl6ck",
-          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
-        }
-      ],
-      "duration_ms": 117394,
-      "name": "draugr",
-      "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "anything u want",
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "BABYBOY",
-        "url": "https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E"
+        "name": "draugr",
+        "url": "https://open.spotify.com/album/1qjHzeZTSh58Embu8NuSrf"
       },
       "artists": [
         {
-          "name": "Cybertrash",
-          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+          "name": "Numl6ck",
+          "url": "https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx"
         }
       ],
-      "duration_ms": 121600,
-      "name": "BABYBOY",
-      "url": "https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H"
+      "duration_ms": 117394,
+      "name": "draugr",
+      "url": "https://open.spotify.com/track/1UrZ6imOCcIUuENbqhbTjS"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 166500,
       "name": "ready set go",
       "url": "https://open.spotify.com/track/5tnlIXsXfQTTEptv129Swp"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "BABYBOY",
+        "url": "https://open.spotify.com/album/24x0SeAnpIRPEsKK3IuV9E"
+      },
+      "artists": [
+        {
+          "name": "Cybertrash",
+          "url": "https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW"
+        }
+      ],
+      "duration_ms": 121600,
+      "name": "BABYBOY",
+      "url": "https://open.spotify.com/track/0f4iY83d7HGIljumcbKb8H"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/0Fn5lBgRWCxZUM1NI5Qvp7"
     },
     {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "Count of three (You can eat $#@!)",
+        "url": "https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 159110,
+      "name": "Count of three (You can eat $#@!)",
+      "url": "https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "red",
@@ -875,22 +891,6 @@
       "duration_ms": 388186,
       "name": "red",
       "url": "https://open.spotify.com/track/5xjCG1XNmz5eWkYMLrGFZl"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "Count of three (You can eat $#@!)",
-        "url": "https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 159110,
-      "name": "Count of three (You can eat $#@!)",
-      "url": "https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Nothin",
+        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "duration_ms": 167112,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+    },
+    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "punch back",
@@ -979,18 +995,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Nothin",
-        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+        "name": "Started With",
+        "url": "https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte"
       },
       "artists": [
         {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
         }
       ],
-      "duration_ms": 167112,
-      "name": "Nothin",
-      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+      "duration_ms": 125647,
+      "name": "Started With",
+      "url": "https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv"
     },
     {
       "added_at": "2023-05-19 12:36:59",
@@ -1007,22 +1023,6 @@
       "duration_ms": 151978,
       "name": "Ughh Parents Evening",
       "url": "https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Started With",
-        "url": "https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        }
-      ],
-      "duration_ms": 125647,
-      "name": "Started With",
-      "url": "https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/24fjBTuoJgg4u3gwJX5sgY"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "remorse",
+        "url": "https://open.spotify.com/album/7vQHzlfqHYVoQepDOQkkhl"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 121445,
+      "name": "fell in love with a ghost",
+      "url": "https://open.spotify.com/track/1ihqfU2ejlabQ1nV5XWcXj"
+    },
+    {
       "added_at": "2023-06-09 04:01:00",
       "album": {
         "name": "bones",
@@ -1263,22 +1279,6 @@
       "duration_ms": 142080,
       "name": "bones",
       "url": "https://open.spotify.com/track/0fwYe53RLfXtqJzjvzfTn4"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "remorse",
-        "url": "https://open.spotify.com/album/7vQHzlfqHYVoQepDOQkkhl"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 121445,
-      "name": "fell in love with a ghost",
-      "url": "https://open.spotify.com/track/1ihqfU2ejlabQ1nV5XWcXj"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/52dEwKfcbFB1d0Qxnm1RGY"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Birds Fly",
+        "url": "https://open.spotify.com/album/4N0VLGbDm2Bmmxm19qlg88"
+      },
+      "artists": [
+        {
+          "name": "Deep October",
+          "url": "https://open.spotify.com/artist/0nYshUSXrbGoxvSDo03JMc"
+        }
+      ],
+      "duration_ms": 181578,
+      "name": "Birds Fly",
+      "url": "https://open.spotify.com/track/5D0F0NUf3nhgAZPiVIdwRq"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Gossip Team",
@@ -1363,22 +1379,6 @@
       "duration_ms": 183414,
       "name": "wow!",
       "url": "https://open.spotify.com/track/5SF29ZGgnigCJvpzdIZkJU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Birds Fly",
-        "url": "https://open.spotify.com/album/4N0VLGbDm2Bmmxm19qlg88"
-      },
-      "artists": [
-        {
-          "name": "Deep October",
-          "url": "https://open.spotify.com/artist/0nYshUSXrbGoxvSDo03JMc"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "Birds Fly",
-      "url": "https://open.spotify.com/track/5D0F0NUf3nhgAZPiVIdwRq"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
+        "name": "the world is ending and i can't stop crying over these frog boots",
+        "url": "https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7"
+      },
+      "artists": [
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "the world is ending and i can't stop crying over these frog boots",
+      "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
         "name": "losemymind",
         "url": "https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 118235,
       "name": "Burning Angel",
       "url": "https://open.spotify.com/track/0y3yMEAlP3S11L4oSuR3uq"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "the world is ending and i can't stop crying over these frog boots",
-        "url": "https://open.spotify.com/album/5codoSDdPKtxmIXHMLEjN7"
-      },
-      "artists": [
-        {
-          "name": "Vaeo",
-          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
-        }
-      ],
-      "duration_ms": 157674,
-      "name": "the world is ending and i can't stop crying over these frog boots",
-      "url": "https://open.spotify.com/track/4MQ48t5e8dXrmOWKpJtnIT"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/6dYoZuKHoSBiSHeGIDNPXn"
     },
     {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "metamorphine",
-        "url": "https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM"
-      },
-      "artists": [
-        {
-          "name": "Scro",
-          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "metamorphine",
-      "url": "https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "No One But You",
@@ -1577,20 +1561,20 @@
       "url": "https://open.spotify.com/track/7kiM75ze8pvLiutHPstEnO"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-03-15 19:57:27",
       "album": {
-        "name": "sleepwalking",
-        "url": "https://open.spotify.com/album/5U1PPbk08yy2im5jYtCZD7"
+        "name": "metamorphine",
+        "url": "https://open.spotify.com/album/6MJDZQIqj1KZdoWa0lSQfM"
       },
       "artists": [
         {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+          "name": "Scro",
+          "url": "https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW"
         }
       ],
-      "duration_ms": 124743,
-      "name": "sleepwalking",
-      "url": "https://open.spotify.com/track/1lKfJNwi0MmvBhDqkefait"
+      "duration_ms": 190458,
+      "name": "metamorphine",
+      "url": "https://open.spotify.com/track/2YhdFV7oaYJ5r7Aga6YGUt"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -1607,6 +1591,38 @@
       "duration_ms": 163266,
       "name": "Go!",
       "url": "https://open.spotify.com/track/6UcEK9qZjNnHLnkZRiKWLk"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "House",
+        "url": "https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q"
+      },
+      "artists": [
+        {
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Where I Met U",
+      "url": "https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "sleepwalking",
+        "url": "https://open.spotify.com/album/5U1PPbk08yy2im5jYtCZD7"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 124743,
+      "name": "sleepwalking",
+      "url": "https://open.spotify.com/track/1lKfJNwi0MmvBhDqkefait"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 158173,
       "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
       "url": "https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "House",
-        "url": "https://open.spotify.com/album/5fSePu9nCtehVU2U2IBb2q"
-      },
-      "artists": [
-        {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Where I Met U",
-      "url": "https://open.spotify.com/track/2LQfCcWNrClF8BMujEK4de"
     },
     {
       "added_at": "2023-06-23 04:00:00",

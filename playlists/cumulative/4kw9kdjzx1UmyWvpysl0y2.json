@@ -1511,6 +1511,32 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N"
+      },
+      "artists": [
+        {
+          "name": "Mango",
+          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
+        },
+        {
+          "name": "Cloudcage",
+          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
+        },
+        {
+          "name": "Matt Sky",
+          "url": "https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP"
+    },
+    {
+      "album": {
         "name": "Calling Us",
         "url": "https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019"
       },
@@ -3696,6 +3722,28 @@
       "duration_ms": 164409,
       "name": "FULL ASSAULT",
       "url": "https://open.spotify.com/track/3cfaX2K9Jv3Aj8joDU1Iz0"
+    },
+    {
+      "album": {
+        "name": "Full Speed",
+        "url": "https://open.spotify.com/album/6Uy49ZyfFwVoV6sFM9eiHh"
+      },
+      "artists": [
+        {
+          "name": "Topi",
+          "url": "https://open.spotify.com/artist/6WP0h3qR0awvIWPMvE72F8"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Full Speed",
+      "url": "https://open.spotify.com/track/22efJ20TrKDfYaawh85fNj"
     },
     {
       "album": {
@@ -7466,7 +7514,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 218709,
       "name": "Quantum Level",
       "url": "https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU"

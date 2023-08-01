@@ -1318,6 +1318,24 @@
           "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
         }
       ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60750,
+      "name": "Azure - Alternate Cello Version",
+      "url": "https://open.spotify.com/track/20bguEBiEW8ZB4YWwfLuwz"
+    },
+    {
+      "album": {
+        "name": "Azure Revisited",
+        "url": "https://open.spotify.com/album/1yFVtt9VVWlFTBhdBGgKKR"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -4904,7 +4922,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 118047,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4kx6sM6M0y4diavB8rCEEm"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 159196,
       "name": "Everything I Lost",
       "url": "https://open.spotify.com/track/7aKEitPskoIINo32WUd7cq"
@@ -8329,6 +8347,24 @@
     },
     {
       "album": {
+        "name": "Three Versions Of In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/0r3mieIaQSPzG4QwCYKLPL"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64647,
+      "name": "In The Bleak Midwinter Arr. For Cello",
+      "url": "https://open.spotify.com/track/3BWbrGdcfql4I5VlevwuBF"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8"
       },
@@ -8524,6 +8560,42 @@
       "duration_ms": 62463,
       "name": "January - Cello Version",
       "url": "https://open.spotify.com/track/1jyUZF5c3qDO0p8Rfb2aYR"
+    },
+    {
+      "album": {
+        "name": "July Nights (Alternate Cello Version)",
+        "url": "https://open.spotify.com/album/71E5p4B7TW56h86z2XMlEU"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60573,
+      "name": "July Nights - Alternate Cello Version",
+      "url": "https://open.spotify.com/track/7y5UUYqHH7v8wwbkQ8BzqF"
+    },
+    {
+      "album": {
+        "name": "July Nights",
+        "url": "https://open.spotify.com/album/2k8OAFHF1RkGJgSgj8bnWd"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60379,
+      "name": "July Nights Arr. For Cello",
+      "url": "https://open.spotify.com/track/1a9tyhGGcNwqmzUZK0pXHK"
     },
     {
       "album": {
@@ -10088,12 +10160,48 @@
           "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
         }
       ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61353,
+      "name": "Mountain Walk Arr. For Cello",
+      "url": "https://open.spotify.com/track/0iXOIuErB0K7uV3dTA3TaU"
+    },
+    {
+      "album": {
+        "name": "Mountain Walk",
+        "url": "https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 61007,
       "name": "Mountain Walk Arr. For Piano",
       "url": "https://open.spotify.com/track/3p8ywA1wFev1fUsbyu6nt3"
+    },
+    {
+      "album": {
+        "name": "Mountain Walk",
+        "url": "https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60899,
+      "name": "Mountain Walk Arr. For Strings",
+      "url": "https://open.spotify.com/track/34Wl9HqIqp9Qc3cxzAsYMr"
     },
     {
       "album": {
@@ -11250,7 +11358,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 166973,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6Gh4KSfytX5vGYeSPY0nhf"
@@ -12284,6 +12392,24 @@
       "duration_ms": 62272,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/1IWvJ4eSzu9hEE6Rlirqu8"
+    },
+    {
+      "album": {
+        "name": "Raining In The Evening",
+        "url": "https://open.spotify.com/album/54sBbLjB3MG9lKsYPCnazP"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60899,
+      "name": "Raining In The Evening",
+      "url": "https://open.spotify.com/track/2GXAXmLmpMEJnLbbOtGPge"
     },
     {
       "album": {
@@ -15813,6 +15939,24 @@
     },
     {
       "album": {
+        "name": "The End Of The Day Again",
+        "url": "https://open.spotify.com/album/01ARHi5kCSc5mSzHmTmLxB"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60899,
+      "name": "The End Of The Day Again",
+      "url": "https://open.spotify.com/track/1NKXXriruRdA9JQF8xFw58"
+    },
+    {
+      "album": {
         "name": "The End Of The Day Arr. For Cello",
         "url": "https://open.spotify.com/album/3QAM6VpqVaTGeYGMf6o1qJ"
       },
@@ -18086,6 +18230,24 @@
       "duration_ms": 61057,
       "name": "Wish Me Well Arr. For Cello",
       "url": "https://open.spotify.com/track/6QLM2awcrALis6qalmZcWk"
+    },
+    {
+      "album": {
+        "name": "Wishful Thinking Arr. For Strings",
+        "url": "https://open.spotify.com/album/1sepyY20Bf3tMGcuEsLRZQ"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62385,
+      "name": "Wishful Thinking Arr. For Strings",
+      "url": "https://open.spotify.com/track/1776aBLsaZC9jh1NtMeese"
     },
     {
       "album": {

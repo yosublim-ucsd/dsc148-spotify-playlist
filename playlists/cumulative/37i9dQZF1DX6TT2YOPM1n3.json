@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Trending Pakistani tracks under one roof. Cover: Asim Azhar, Shae Gill",
+  "description": "Trending Pakistani tracks under one roof. Cover: Atif Aslam",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 203432,
       "name": "Faaslay",
       "url": "https://open.spotify.com/track/0T9F7LqksEkxsDyHfqACv8"
@@ -902,6 +902,28 @@
       "duration_ms": 205714,
       "name": "Kyun",
       "url": "https://open.spotify.com/track/4lDmFJg35YoU7GDDRMSHdA"
+    },
+    {
+      "album": {
+        "name": "Lagda Nahi",
+        "url": "https://open.spotify.com/album/5AO0SVvnvElqp8ofy2FLKP"
+      },
+      "artists": [
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv"
+        },
+        {
+          "name": "Ammy Gill",
+          "url": "https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190526,
+      "name": "Lagda Nahi",
+      "url": "https://open.spotify.com/track/3Kyi9o0PACXBCiwbZ4t65u"
     },
     {
       "album": {
@@ -1370,6 +1392,24 @@
       "duration_ms": 225120,
       "name": "Udh Chaliye",
       "url": "https://open.spotify.com/track/0TzvYA85b1yc7cQYPV6ydI"
+    },
+    {
+      "album": {
+        "name": "Under The Stars",
+        "url": "https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1"
+      },
+      "artists": [
+        {
+          "name": "Jawad",
+          "url": "https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140730,
+      "name": "Under The Stars",
+      "url": "https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5"
     },
     {
       "album": {

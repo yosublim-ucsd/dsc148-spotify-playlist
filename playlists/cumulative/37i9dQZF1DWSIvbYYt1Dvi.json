@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 253150,
       "name": "Deixa Baixo",
       "url": "https://open.spotify.com/track/2Vo6Qal0SmLAR48FehTkRv"
@@ -2639,6 +2639,32 @@
     },
     {
       "album": {
+        "name": "Mun R\u00e1",
+        "url": "https://open.spotify.com/album/0txbns1JErYP5FQTiLijyl"
+      },
+      "artists": [
+        {
+          "name": "Sabotage",
+          "url": "https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208817,
+      "name": "Mun R\u00e1",
+      "url": "https://open.spotify.com/track/1SXLxcC5SBjYWfN94jIDOc"
+    },
+    {
+      "album": {
         "name": "O inquilino",
         "url": "https://open.spotify.com/album/0w5CdIH3n8venOuphx13yZ"
       },
@@ -2950,7 +2976,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 75924,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/0W83VMySLkajzYiYhSs3eX"
@@ -3032,6 +3058,36 @@
       "duration_ms": 238654,
       "name": "O Retorno do Boom Bap",
       "url": "https://open.spotify.com/track/4lxQLYOpjDDBIcX0MBmyaa"
+    },
+    {
+      "album": {
+        "name": "ERREJOTACULTDRILL, Vol. 2 - Esquema Novo",
+        "url": "https://open.spotify.com/album/0PwwCnbPX0A6AiiRolXUJm"
+      },
+      "artists": [
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "MG CDD",
+          "url": "https://open.spotify.com/artist/2zjzZE2PUwitmtRDFgrABn"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134831,
+      "name": "O Retorno do Boombap - B\u00f4nus",
+      "url": "https://open.spotify.com/track/6kSQTkWxLhDUbfVCBU8NSc"
     },
     {
       "album": {
@@ -4046,7 +4102,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 234090,
       "name": "Respeito \u00c9 Pra Quem Tem",
       "url": "https://open.spotify.com/track/7yR749AmdqgnIrl393nYIo"
@@ -5158,6 +5214,28 @@
       "duration_ms": 202000,
       "name": "V\u00e9inho de Virtude",
       "url": "https://open.spotify.com/track/0oFlsBCVASjwqcGFIzhZtC"
+    },
+    {
+      "album": {
+        "name": "Autodom\u00ednio",
+        "url": "https://open.spotify.com/album/3kPsjo393B9b4BQ8HDEaTc"
+      },
+      "artists": [
+        {
+          "name": "pumapjl",
+          "url": "https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM"
+        },
+        {
+          "name": "SonoTWS",
+          "url": "https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121379,
+      "name": "Zona Sul",
+      "url": "https://open.spotify.com/track/2ZcZ4qYoqAeYgynTdfhWue"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSIvbYYt1Dvi"

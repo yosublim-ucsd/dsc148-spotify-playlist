@@ -2,9 +2,9 @@
 
 ### [RADAR Polska](https://open.spotify.com/playlist/37i9dQZF1DX1aXwAOtpwvU)
 
-> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:4ccurDUZ48cXNrcrLsA9ub">IGNACY</a>
+> Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>
 
-95 songs - 4 hr 47 min
+99 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,8 @@
 | [Balans](https://open.spotify.com/track/4hU7OPVaMxkhOYYPkV7LwL) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Balans](https://open.spotify.com/album/5nOi3r1tgBDSISc9KiBNDw) | 3:02 | 2022-08-26 | 2023-02-07 |
 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 | 2023-05-16 |  |
 | [California Boy \(jjjerk\)](https://open.spotify.com/track/1c7pvFD8j9li7nmJwbAfr2) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [California Boy \(jjjerk\)](https://open.spotify.com/album/5V1dFAKY2wxhJajPfBItjz) | 2:21 | 2023-05-16 |  |
+| [Carrie](https://open.spotify.com/track/4dg06owZapY09INYbaFH0j) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Carrie](https://open.spotify.com/album/2jTw2ZkjGsIAIRJtS4UaDe) | 2:46 | 2023-07-31 |  |
+| [Chardonnay](https://open.spotify.com/track/2V0fdohnsYJyiLWHyByJRj) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Chardonnay](https://open.spotify.com/album/716XoQ3W64WJxMH8L7Bney) | 2:40 | 2023-07-31 |  |
 | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/track/76jCSzHssCZuaQ1rEyi8Df) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs) | [Chcę Być Jak Oliwka Brazil](https://open.spotify.com/album/6baYZ2q3O6NqAjB6FZ0lhX) | 2:13 | 2022-08-26 |  |
 | [Chemistry](https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Chemistry](https://open.spotify.com/album/6LcvpXRe8CBUuQW1oBPJsX) | 3:36 | 2022-08-26 |  |
 | [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 | 2023-05-16 |  |
@@ -27,6 +29,7 @@
 | [Cztery Pory Roku](https://open.spotify.com/track/1Ie1oqzSIc7YVOG0Pa6qAI) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [CHOC](https://open.spotify.com/album/3Zaf7f6IaqIBUKufLFuwRb) | 3:05 | 2022-09-23 | 2023-03-14 |
 | [Dinozaury](https://open.spotify.com/track/5XAFPMqtAlO4uKKAwgdw7z) | [Szczyl](https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm) | [Polska Floryda](https://open.spotify.com/album/76Tg6vW5sCt2x6vLawvHsc) | 3:44 | 2022-08-26 |  |
 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 | 2023-05-16 |  |
+| [Dobra Albo Zła](https://open.spotify.com/track/24FUYnBbb1WVYn7ScrEyff) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [Dobra Albo Zła](https://open.spotify.com/album/5sepbyaEmhzsNPG5oCqHtJ) | 3:13 | 2023-07-31 |  |
 | [Duch](https://open.spotify.com/track/6YHsgC9zWTgjuqVgc1IIH5) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Duch](https://open.spotify.com/album/2AU8LM1soAwmbearqrb60K) | 4:01 | 2022-08-26 | 2023-03-14 |
 | [Egoistka](https://open.spotify.com/track/5qVME9yp5IFWYfK2n3irxL) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/0Liumm2scg9ecS9Gqnva96) | 2:48 | 2022-08-26 |  |
 | [Everybody’s Lonely](https://open.spotify.com/track/11Oz14NCrbx7sOLNoGEEa9) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Everybody’s Lonely](https://open.spotify.com/album/3R70FcNveS6yOfxvOpa0TX) | 2:16 | 2023-05-16 |  |
@@ -81,25 +84,26 @@
 | [Płonę, płonę](https://open.spotify.com/track/2F71Q213wMg4uDNRg3IGiz) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Płonę, płonę](https://open.spotify.com/album/7ewkjpkeJEnVFuLVSOmmEq) | 3:46 | 2023-05-16 |  |
 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 | 2023-05-16 |  |
 | [Rossa](https://open.spotify.com/track/2eOAf2wRndC9cYZPfwdDtU) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Rossa](https://open.spotify.com/album/2hEQuIoHJYKqr5DRlktH2M) | 2:54 | 2022-08-26 |  |
+| [Sam](https://open.spotify.com/track/2JHhMVU7urxhuxF7IMF6Hw) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Sam](https://open.spotify.com/album/6FiasC1yEdNf0IwHoYuXag) | 2:34 | 2023-07-31 |  |
 | [Samoloty](https://open.spotify.com/track/5NOUC4XsX99wm90BGQtjwO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Samoloty](https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC) | 2:34 | 2023-05-16 |  |
 | [Sativa](https://open.spotify.com/track/5lxG78ZXyQnRmowBAl7d4B) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Filipek](https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ) | [Sativa](https://open.spotify.com/album/6LynwZYCuQUNZhLFCCziL2) | 3:09 | 2022-08-26 |  |
 | [See what’s on my mind](https://open.spotify.com/track/4x0MqIsF04NeNRwAs88O9M) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [See what’s on my mind](https://open.spotify.com/album/60b0Ivf6wfZFx6TLzj5Npy) | 3:05 | 2022-08-26 | 2022-09-24 |
 | [Się poznali](https://open.spotify.com/track/55vYFMLlZfoX7pPXT0Hzza) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Się poznali](https://open.spotify.com/album/6VDSUr36e7KSLRIc2vIY2K) | 3:13 | 2022-08-26 |  |
 | [Smile](https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Smile](https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS) | 3:04 | 2022-08-26 | 2023-04-15 |
 | [Spotlight](https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Spotlight](https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV) | 2:39 | 2023-02-06 | 2023-03-14 |
-| [stalker](https://open.spotify.com/track/56BfZQpFbnXKMycKRys0x5) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [stalker](https://open.spotify.com/album/5DqJdlVhSsVFhMGJZpQZEb) | 2:41 | 2023-04-14 |  |
+| [stalker](https://open.spotify.com/track/56BfZQpFbnXKMycKRys0x5) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [stalker](https://open.spotify.com/album/5DqJdlVhSsVFhMGJZpQZEb) | 2:41 | 2023-04-14 | 2023-08-01 |
 | [Stracone](https://open.spotify.com/track/4JvfItaC78WeKsBPOuSGzh) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Stracone](https://open.spotify.com/album/0U3Tdmx3mIhvaXYNPmk8tg) | 4:24 | 2022-08-26 | 2023-05-17 |
 | [Stranger](https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby) | 2:08 | 2022-08-26 | 2023-04-15 |
 | [Słoneczniki](https://open.spotify.com/track/2ila27UsX8EzLvTy6CcOAE) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Słoneczniki](https://open.spotify.com/album/0udfrdwqGWI0kWUJ7YtxOk) | 3:31 | 2022-08-26 |  |
 | [Telepatia](https://open.spotify.com/track/4h2yewSuMOWwq1g7aCyxz4) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Telepatia](https://open.spotify.com/album/4XEiTQY8ofH27NzRS8XVS9) | 2:27 | 2023-04-14 |  |
 | [to był fajny rok](https://open.spotify.com/track/0bkvnHawQ97qJjSKZkaK1a) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [to był fajny rok](https://open.spotify.com/album/0wMngZrtJ0pC4Z73u61bu2) | 2:51 | 2023-02-06 | 2023-04-15 |
 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 | 2023-05-16 |  |
-| [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 | 2023-05-16 |  |
+| [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 | 2023-05-16 | 2023-08-01 |
 | [Wczoraj](https://open.spotify.com/track/4QcVRPBOWIL42nod3cGn0u) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj](https://open.spotify.com/album/3C5tWyJxsBxnKHmUuyATe6) | 2:51 | 2022-08-26 | 2022-09-24 |
 | [Wczoraj \(Ale To Smutna Ballada\)](https://open.spotify.com/track/0Vclll7YLAuvyFaNicQBb0) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj \(Ale To Smutna Ballada\)](https://open.spotify.com/album/26kJtglfgbqnIQQl8923f2) | 2:59 | 2022-09-23 | 2023-02-07 |
-| [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 | 2023-05-16 |  |
+| [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 | 2023-05-16 | 2023-08-01 |
 | [Zapachy](https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Zapachy](https://open.spotify.com/album/1WQ1CYkJxqh1EWABbTG33j) | 2:25 | 2022-09-23 | 2023-02-07 |
-| [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 |  |
+| [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 | 2023-08-01 |
 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-08-26 |  |
 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 | 2023-05-16 |  |
 | [Łezki](https://open.spotify.com/track/1wZ6X3kcv5tm7IQ1DbducM) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Łezki](https://open.spotify.com/album/27be3kNoeONlByK8LPKwCk) | 3:14 | 2022-08-26 | 2023-02-07 |

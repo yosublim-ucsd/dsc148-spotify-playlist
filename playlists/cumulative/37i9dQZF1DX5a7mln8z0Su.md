@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-224 songs - 12 hr 40 min
+226 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 | 2023-03-23 |  |
 | [Because It's You](https://open.spotify.com/track/6iCTKW1p8y1NPtwQ1bJaxH) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:52 | 2022-05-11 | 2022-07-13 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-05-11 | 2022-07-24 |
-| [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2022-05-11 |  |
+| [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 | 2022-05-11 | 2023-08-01 |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-11-26 |  |
 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 | 2022-05-11 |  |
 | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [BOKE \(Remix\) \(feat\. kojikoji\)](https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV) | 3:04 | 2022-05-11 |  |
@@ -159,6 +159,7 @@
 | [Running to You](https://open.spotify.com/track/3UoHkXZkIZz7Lna8rwzYiy) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Running to You](https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2) | 3:31 | 2022-05-11 | 2022-07-24 |
 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-04 |  |
 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 | 2023-01-11 |
+| [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-31 |  |
 | [Save Me](https://open.spotify.com/track/0t4DNbCMIoTRRUZCGDR3lw) | [NeD](https://open.spotify.com/artist/5bho5EcZQVfGYfyH5rOJug) | [Save Me](https://open.spotify.com/album/6r00ntwX5oil16qo9NpTRd) | 3:06 | 2022-06-09 | 2022-07-28 |
 | [Saying Goodbye](https://open.spotify.com/track/2HAXwK6Zgh8ZWRnGidKd2m) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Saying Goodbye](https://open.spotify.com/album/0MnhrWm9MVLySsFSEKYfVz) | 3:04 | 2022-05-11 | 2022-07-28 |
 | [SESAME](https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0), [Bell the blu](https://open.spotify.com/artist/4OHNwCbAI5UPSb2gMZljAO) | [SESAME](https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv) | 3:24 | 2022-08-12 | 2022-09-10 |
@@ -220,10 +221,11 @@
 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 | 2022-05-11 |  |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-29 |
 | [Wouldn't have \(Feat\. pH\-1, Hash Swan\)](https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Wouldn't have](https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj) | 4:00 | 2023-03-11 | 2023-04-15 |
-| [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 |  |
+| [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 | 2023-08-01 |
 | [Y \(feat\. Trade L\)](https://open.spotify.com/track/3X75yUy7C49NiFR936iml2) | [LONELEE](https://open.spotify.com/artist/3SX3uZa37fVUE6P3qq6y3X), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [SHOWER](https://open.spotify.com/album/7logqYXPokIQOBrmNXdrQW) | 4:40 | 2022-12-26 | 2023-01-13 |
 | [You don't know anything](https://open.spotify.com/track/2ggAuBMFt8d1fpyZiI8co8) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [You don't know anything](https://open.spotify.com/album/6rc9L3chfLEEwuB4cYGhpV) | 2:17 | 2022-05-11 | 2022-06-22 |
 | [YOUNG BOY](https://open.spotify.com/track/6dklP83kIZRmUYawxj7sqr) | [HELLO GLOOM](https://open.spotify.com/artist/7so3OJPxoYvfHVSeYDMdCQ) | [Because I Was Young Boy](https://open.spotify.com/album/74vHOExJIUhBqW6oQgL3BZ) | 2:56 | 2022-07-08 | 2022-07-19 |
+| [妳在哪裡 \(WYA\)](https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [妳在哪裡 \(WYA\)](https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt) | 3:43 | 2023-07-31 |  |
 | [그리워해볼까 해](https://open.spotify.com/track/78P9d5a7XWAqTYrHImBWt8) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [겨울밤](https://open.spotify.com/album/5QOgLJm5qWxhjBlywukFg4) | 2:48 | 2022-05-11 | 2022-06-12 |
 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 | 2022-07-08 | 2022-08-13 |
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-20 | 2022-07-29 |

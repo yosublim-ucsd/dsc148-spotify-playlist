@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Don Diablo",
-  "num_followers": 121460,
+  "num_followers": 121469,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjY5NSxmYmQ0NWU2ZjIwNDJiNmQzY2U0YmQ2YWRjMWYxYTAwODAwYzNmMGNh",
+  "snapshot_id": "NjY5OCw5YTc0N2I5ZDEyZDllMzBkZjk3YWE0MTkyNzM2NDQ0MmZhNTdiYWIy",
   "tracks": [
     {
       "added_at": "2023-07-27 22:05:01",
@@ -127,6 +127,30 @@
       "duration_ms": 151170,
       "name": "I'll Do My Best (feat. The Ritchie Family)",
       "url": "https://open.spotify.com/track/48aNzYVnVdz5DtNvTJwXZk"
+    },
+    {
+      "added_at": "2023-07-28 08:29:10",
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/0GwSuyQUM4M5CGMIyABIz7"
+      },
+      "artists": [
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "SGNLS",
+          "url": "https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3HplmxBl2jdMwG7pKiwzUU"
     },
     {
       "added_at": "2023-07-28 07:09:56",
@@ -559,30 +583,6 @@
       "duration_ms": 178095,
       "name": "Do The Talk",
       "url": "https://open.spotify.com/track/0P5upD4YarWz0T1vAn9vxr"
-    },
-    {
-      "added_at": "2023-07-28 08:29:10",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/0GwSuyQUM4M5CGMIyABIz7"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "KDH",
-          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
-        },
-        {
-          "name": "SGNLS",
-          "url": "https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3HplmxBl2jdMwG7pKiwzUU"
     },
     {
       "added_at": "2023-07-20 22:05:01",

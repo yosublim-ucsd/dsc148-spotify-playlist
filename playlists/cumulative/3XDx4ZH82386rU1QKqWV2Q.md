@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-257 songs - 11 hr 23 min
+258 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [PARALLAX](https://open.spotify.com/track/2C9PO9JCj3phRCPAJjTV1j) | [bckrøøm$](https://open.spotify.com/artist/5umOc7U00gyTlobZXuQe0o) | [PARALLAX](https://open.spotify.com/album/2hajDZQmywBqWRYeUT50q6) | 2:48 | 2023-06-12 | 2023-07-21 |
 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 | 2023-06-12 |  |
 | [PHONK DA FAVELA](https://open.spotify.com/track/50S50LytHPrWpEBjxK22Of) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [PHONK DA FAVELA](https://open.spotify.com/album/2ysA7pw5gIH0GVZauYZB1N) | 2:26 | 2023-06-12 |  |
+| [PHONK DA FAVELADA](https://open.spotify.com/track/18qzn4XoVwC5lnwv1EBpxX) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PHONK DE FAVELADA](https://open.spotify.com/album/6o4gGogHB1Z90bM3JL6I0Z) | 2:24 | 2023-07-31 |  |
 | [Phonk Nation](https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [Phonk Nation](https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg) | 2:43 | 2023-06-18 | 2023-07-21 |
 | [PHONKY TOWN](https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [PHONKY TOWN](https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw) | 2:21 | 2023-06-12 |  |
 | [Please Leave](https://open.spotify.com/track/2isrUMb1HgRyruhVpecl8l) | [Ryan Morrissette](https://open.spotify.com/artist/4kXkSWe5yixpvcgzekRCO6), [David July](https://open.spotify.com/artist/3q40bLJsFjDFF8o5FE0vRJ) | [Please Leave](https://open.spotify.com/album/7FDxH7FXfdM50cEWtis4Pc) | 2:55 | 2023-06-26 | 2023-07-21 |

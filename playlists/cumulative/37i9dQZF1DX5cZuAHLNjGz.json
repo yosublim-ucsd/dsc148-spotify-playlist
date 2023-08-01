@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Shubh",
+  "description": "Ultimate 101 Punjabi Hits with Karan Aujla",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -176,6 +176,32 @@
       "duration_ms": 177397,
       "name": "Adhiya",
       "url": "https://open.spotify.com/track/5LEjxlKCcYH8irGpRtjbj0"
+    },
+    {
+      "album": {
+        "name": "Admirin' You (feat. Preston Pablo)",
+        "url": "https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214750,
+      "name": "Admirin' You (feat. Preston Pablo)",
+      "url": "https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq"
     },
     {
       "album": {
@@ -406,7 +432,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 207000,
       "name": "Bhalwani Gedi",
       "url": "https://open.spotify.com/track/6v1eVFNX8VmZQHY4woM9R6"
@@ -1996,7 +2022,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 194019,
       "name": "Jealousy (feat. Gurlez Akhtar)",
       "url": "https://open.spotify.com/track/0GnqC8ZVxrZPULa5EQGWbW"
@@ -2116,6 +2142,28 @@
       "duration_ms": 216026,
       "name": "Kina Chir",
       "url": "https://open.spotify.com/track/6XPmY4hIb1RGRyNuq0UBsl"
+    },
+    {
+      "album": {
+        "name": "GLOBAL WARNING",
+        "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Deep Jandu",
+          "url": "https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156391,
+      "name": "KNOWN FACE",
+      "url": "https://open.spotify.com/track/2tKPYF2Pmpn0s3saQfUo6g"
     },
     {
       "album": {
@@ -2356,7 +2404,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 175187,
       "name": "Majhail",
       "url": "https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm"
@@ -3530,7 +3578,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 195699,
       "name": "Shinin'",
       "url": "https://open.spotify.com/track/1qrAgbcxQpeaDv4ptgjl9e"
@@ -4099,6 +4147,28 @@
     },
     {
       "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117972,
+      "name": "True Stories",
+      "url": "https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z"
+    },
+    {
+      "album": {
         "name": "Tu Hi Das De",
         "url": "https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW"
       },
@@ -4122,6 +4192,28 @@
       "duration_ms": 172831,
       "name": "Tu Hi Das De",
       "url": "https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy"
+    },
+    {
+      "album": {
+        "name": "Udh Di Phiran",
+        "url": "https://open.spotify.com/album/1uvy9ZXnUqwEvvDHcWJK8e"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY"
+        },
+        {
+          "name": "Bilal Saeed",
+          "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Udh Di Phiran",
+      "url": "https://open.spotify.com/track/4sTY5k1xidkZWbtvVZrft3"
     },
     {
       "album": {

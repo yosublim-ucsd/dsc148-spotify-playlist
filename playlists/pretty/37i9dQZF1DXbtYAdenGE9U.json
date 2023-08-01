@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 442335,
+  "num_followers": 442841,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDVjNmFiODMwZGFmNGU4ZjQ5Yjc4ODIzZjZlNjY3NGM3ZWRmZDI4",
+  "snapshot_id": "MCw5YTk2NzQ5NmQ3NzdmZDc5ZWE0MjYwNWUyZjY5YWZiMDU2NTdmY2Zi",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
         "name": "On The Beach",
         "url": "https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9"
       },
@@ -315,34 +299,6 @@
       "duration_ms": 197160,
       "name": "On The Beach - Mauro Picotto's CRW Remix",
       "url": "https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "Rollo Armstrong",
-          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
-        },
-        {
-          "name": "Sister Bliss",
-          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
-        },
-        {
-          "name": "Goetz",
-          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
-        }
-      ],
-      "duration_ms": 518221,
-      "name": "Insomnia - Monster Mix",
-      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -395,6 +351,50 @@
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        },
+        {
+          "name": "Sister Bliss",
+          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
+        },
+        {
+          "name": "Goetz",
+          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+        }
+      ],
+      "duration_ms": 518221,
+      "name": "Insomnia - Monster Mix",
+      "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
     },
     {
       "added_at": "2023-03-10 22:36:17",

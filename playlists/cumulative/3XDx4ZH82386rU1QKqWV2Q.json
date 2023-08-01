@@ -3209,6 +3209,24 @@
     },
     {
       "album": {
+        "name": "PHONK DE FAVELADA",
+        "url": "https://open.spotify.com/album/6o4gGogHB1Z90bM3JL6I0Z"
+      },
+      "artists": [
+        {
+          "name": "2KE",
+          "url": "https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144039,
+      "name": "PHONK DA FAVELADA",
+      "url": "https://open.spotify.com/track/18qzn4XoVwC5lnwv1EBpxX"
+    },
+    {
+      "album": {
         "name": "Phonk Nation",
         "url": "https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg"
       },

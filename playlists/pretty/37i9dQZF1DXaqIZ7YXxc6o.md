@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Calvin Harris & Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,764 likes - 104 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,785 likes - 104 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 103 | [I Wish I Was In Ibiza](https://open.spotify.com/track/2nGQhIedkKopZFnUeP5QMe) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [I Wish I Was In Ibiza](https://open.spotify.com/album/5HV4Vd94d1ofIupXX4sKko) | 3:08 |
 | 104 | [Make It Right \(Matt Nugent Remix\)](https://open.spotify.com/track/73lqadUDvkR4646rIF9ty1) | [Avon Stringer](https://open.spotify.com/artist/4N82cZ2qHHDQYXIM7Af8sU), [Matt Nugent](https://open.spotify.com/artist/5ig7cMHdw8M9NdREUMTtme) | [Make It Right \(Matt Nugent Remix\)](https://open.spotify.com/album/03Ui4jdf5WSScMqrxuR8sb) | 2:49 |
 
-Snapshot ID: `MCxjMDlmZTNjNDg4OTAzYzNlZWRkYWIwNGRjM2U4NGYyOTFjOTc2MDIz`
+Snapshot ID: `MCw3NjU4YjIzYWE5MDAyZjg1YTA0MzQ3YTEzMDA5MzFjZTg5YjgwZTIy`

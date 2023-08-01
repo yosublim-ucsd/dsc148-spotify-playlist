@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=BEkpM7ZITmuFksyFi7qa1A\">Tyla</a> ",
-  "num_followers": 66028,
+  "num_followers": 66061,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDA4MzFkYmZjNDIxOGQwM2YxOGNkNmJjMTgyZTkxMGI4OTEzNzdj",
+  "snapshot_id": "MCwwMWI5MWE1MDlmZjQxYzBlNjY2YmQzNTJkYzc5NDY0MmVkNjM5MmFh",
   "tracks": [
     {
       "added_at": "2023-07-28 15:37:47",
@@ -140,20 +140,20 @@
           "url": "https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3"
         },
         {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
           "name": "Sino Msolo",
           "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
         },
         {
           "name": "Chley",
           "url": "https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
         }
       ],
       "duration_ms": 374368,
-      "name": "Wena Wethu (feat. Sino Msolo & Chley)",
+      "name": "Wena Wethu (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/5VWHXYu6nuV1aMzBt1Wp9R"
     },
     {

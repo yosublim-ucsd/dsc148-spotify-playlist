@@ -1,12 +1,12 @@
 {
   "description": "\u300c\u3064\u307e\u3089\u306a\u3044\u3001\u304f\u3060\u3089\u306a\u3044\u9000\u5c48\u3060\u3051\u3092\u611b\u3057\u629c\u3051 \u9752\u6625\u3068\u4e00\u77ac\u306f\u30bb\u30c3\u30c8\u306a\u3093\u3060\u305c\u300d\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Playlist Title inspired by \u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064",
-  "num_followers": 6795,
+  "num_followers": 6817,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2E0NDA5YTZjYjk3ZGY4Yzc0MDE0NjJjODUzMjIyNDY2ZTJlMjhi",
+  "snapshot_id": "MCxjMTVkNzVlN2UwMjQwZGM1MmJjZTBkYjNiN2E0MzkyNGM3OWI2OGFi",
   "tracks": [
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
-        "url": "https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f"
-      },
-      "artists": [
-        {
-          "name": "Teikokukissa",
-          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
-        }
-      ],
-      "duration_ms": 193329,
-      "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
-      "url": "https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "\u5fc3\u62cd\u6570\u3068\u30e9\u30f4\u30ec\u30bf\u30fc\u3001\u305d\u308c\u3068\u512a\u3057\u3055",
         "url": "https://open.spotify.com/album/2TWDeXLRDpzEFpo76LSiMM"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "Dancer in the Dark",
-        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+        "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
+        "url": "https://open.spotify.com/album/1gAHpVKkoX5GPmKHwOsx7f"
       },
       "artists": [
         {
-          "name": "age",
-          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
         }
       ],
-      "duration_ms": 175532,
-      "name": "Dancer in the Dark",
-      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
+      "duration_ms": 193329,
+      "name": "\u5b63\u7bc0\u3059\u3089\u8ffd\u3044\u629c\u3044\u3066",
+      "url": "https://open.spotify.com/track/4P0Gq52E5FmBp4IAcJa2eh"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 175959,
       "name": "hedonist.",
       "url": "https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "Dancer in the Dark",
+        "url": "https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh"
+      },
+      "artists": [
+        {
+          "name": "age",
+          "url": "https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg"
+        }
+      ],
+      "duration_ms": 175532,
+      "name": "Dancer in the Dark",
+      "url": "https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "FICTION",
-        "url": "https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE"
-      },
-      "artists": [
-        {
-          "name": "BREIMEN",
-          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
-        }
-      ],
-      "duration_ms": 248378,
-      "name": "MUSICA",
-      "url": "https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
         "name": "ROMANTIC LOVE",
         "url": "https://open.spotify.com/album/7E0ksEexysVceoijCZfooz"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 315164,
       "name": "\u3042\u3093\u306a\u3064\u3041",
       "url": "https://open.spotify.com/track/4uHm18zMsbT9e8vukQUlEd"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "FICTION",
+        "url": "https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "duration_ms": 248378,
+      "name": "MUSICA",
+      "url": "https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "CHIKAMATSU SAMPLER 2022",
-        "url": "https://open.spotify.com/album/0wDseUOW320G0im7GAz4GM"
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
       "artists": [
         {
-          "name": "\u30a6\u30de\u30b7\u30ab\u3066",
-          "url": "https://open.spotify.com/artist/3e0khuUb1w9brMVzrprDah"
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
         }
       ],
-      "duration_ms": 179118,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/58ZOm6WoUHnEfUtw5IZQEW"
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1527,6 +1527,22 @@
       "duration_ms": 268535,
       "name": "\u76f4\u611fway",
       "url": "https://open.spotify.com/track/1xtF0TQdneGOGeRIhmcr1v"
+    },
+    {
+      "added_at": "2023-07-27 15:00:00",
+      "album": {
+        "name": "CHIKAMATSU SAMPLER 2022",
+        "url": "https://open.spotify.com/album/0wDseUOW320G0im7GAz4GM"
+      },
+      "artists": [
+        {
+          "name": "\u30a6\u30de\u30b7\u30ab\u3066",
+          "url": "https://open.spotify.com/artist/3e0khuUb1w9brMVzrprDah"
+        }
+      ],
+      "duration_ms": 179118,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/58ZOm6WoUHnEfUtw5IZQEW"
     },
     {
       "added_at": "2023-07-27 15:00:00",
@@ -1579,34 +1595,18 @@
     {
       "added_at": "2023-07-27 15:00:00",
       "album": {
-        "name": "\u30e6\u30a8\u30cb",
-        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/1CuGJcwvmYfj7yFWTurt13"
       },
       "artists": [
         {
-          "name": "Mr.FanTastiC",
-          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+          "name": "Monthly Mu & New Caledonia",
+          "url": "https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN"
         }
       ],
-      "duration_ms": 240550,
-      "name": "\u30e6\u30a8\u30cb",
-      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
-    },
-    {
-      "added_at": "2023-07-27 15:00:00",
-      "album": {
-        "name": "\u7a93",
-        "url": "https://open.spotify.com/album/6YPj1GIWzuiDIoQnFaUyYP"
-      },
-      "artists": [
-        {
-          "name": "Gestalt Girl",
-          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
-        }
-      ],
-      "duration_ms": 256250,
-      "name": "\u7a93",
-      "url": "https://open.spotify.com/track/4Z3RZPhUHiIm0l1Ik5FsTv"
+      "duration_ms": 234375,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/7fqFrsnOKSqgv5pGLhaHk0"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

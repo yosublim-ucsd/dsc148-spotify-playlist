@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Pretty as a Peach",
+        "url": "https://open.spotify.com/album/1Mqv4rah3GosAfHfXGce5p"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150821,
+      "name": "Pretty as a Peach",
+      "url": "https://open.spotify.com/track/54RYn17az87d1ZbuJpAc3l"
+    },
+    {
+      "album": {
         "name": "Quarter Past You",
         "url": "https://open.spotify.com/album/36qGgSBdZA0ecipgqjhs0f"
       },

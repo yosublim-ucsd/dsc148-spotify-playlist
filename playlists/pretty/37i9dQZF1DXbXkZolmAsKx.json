@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 5058,
+  "num_followers": 5075,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTgwZGJjZTkwODRmNGQyYTA2NzY0MmZmYmFmN2U5NThiOTExZjk2",
+  "snapshot_id": "MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 458906,
+      "name": "Weightless Part 3",
+      "url": "https://open.spotify.com/track/70FfytITXJOz0s2xY3rOzz"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "EARS",
         "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 260834,
       "name": "Reflection - Excerpt",
       "url": "https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Weightless (Ambient Transmission Vol. 2)",
-        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 458906,
-      "name": "Weightless Part 3",
-      "url": "https://open.spotify.com/track/70FfytITXJOz0s2xY3rOzz"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -207,26 +207,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 162793,
-      "name": "Time, Being",
-      "url": "https://open.spotify.com/track/6CSQGGObzhr6rRmYsatoSq"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "For Those Of You Who Have Never (And Also Those Who Have)",
         "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
       },
@@ -243,18 +223,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Weightless (Ambient Transmission Vol. 2)",
-        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
       "artists": [
         {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
         }
       ],
-      "duration_ms": 310146,
-      "name": "Weightless Part 6",
-      "url": "https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel"
+      "duration_ms": 162793,
+      "name": "Time, Being",
+      "url": "https://open.spotify.com/track/6CSQGGObzhr6rRmYsatoSq"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -291,18 +275,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Void VIII",
-        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
+        "name": "Weightless (Ambient Transmission Vol. 2)",
+        "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
       },
       "artists": [
         {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
         }
       ],
-      "duration_ms": 244973,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
+      "duration_ms": 310146,
+      "name": "Weightless Part 6",
+      "url": "https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -319,6 +303,22 @@
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Void VIII",
+        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "A I A: Alien Observer",
+        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 367933,
+      "name": "Mary, On the Wall - Second Heart Tone",
+      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/7c0qc4Gv3MI1Ope0sF7d0a"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 158680,
       "name": "Low Sudden",
       "url": "https://open.spotify.com/track/5chILOuzYBXDLLcZTjJ1ti"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "A I A: Alien Observer",
-        "url": "https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 367933,
-      "name": "Mary, On the Wall - Second Heart Tone",
-      "url": "https://open.spotify.com/track/00omBVEASwCIMq5vXHD2ie"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 98946,
-      "name": "Made of Metal",
-      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 98946,
+      "name": "Made of Metal",
+      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 220800,
       "name": "Terrazzo",
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Virgins",
+        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 157369,
+      "name": "Live Room Out",
+      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -731,18 +747,38 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Virgins",
-        "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
       "artists": [
         {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
         }
       ],
-      "duration_ms": 157369,
-      "name": "Live Room Out",
-      "url": "https://open.spotify.com/track/16tcBvtiZHoWfjzTyL4wOx"
+      "duration_ms": 287786,
+      "name": "Space 21 (petrichor)",
+      "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -811,38 +847,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "From Sleep",
-        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
       },
       "artists": [
         {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Ben Russell",
-          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
-        },
-        {
-          "name": "Yuki Numata Resnick",
-          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
-        },
-        {
-          "name": "Caleb Burhans",
-          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
-        },
-        {
-          "name": "Brian Snow",
-          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
         }
       ],
-      "duration_ms": 287786,
-      "name": "Space 21 (petrichor)",
-      "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
+      "duration_ms": 422613,
+      "name": "Convex",
+      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -863,22 +879,6 @@
       "duration_ms": 158992,
       "name": "You Mean More to Me Than Any Scientific Truth",
       "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 422613,
-      "name": "Convex",
-      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "The Magic Place",
+        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Cloak",
+      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "The Magic Place",
-        "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Cloak",
-      "url": "https://open.spotify.com/track/0ba6auWc3836ta3iuS06H7"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 362609,
-      "name": "To All It",
-      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Best Driving Music in the World Ever",
         "url": "https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 250341,
       "name": "We Search for the Lights",
       "url": "https://open.spotify.com/track/0z30jZ574qEpAiqWRmE9y4"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 362609,
+      "name": "To All It",
+      "url": "https://open.spotify.com/track/3iHLnn2XiItvL0PD9x87Sp"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Distant and Spirals",
-        "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
-      },
-      "artists": [
-        {
-          "name": "Hilyard",
-          "url": "https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0"
-        }
-      ],
-      "duration_ms": 404210,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Music For Installations",
         "url": "https://open.spotify.com/album/3z6IlwN9dnSMNXDI2nMbfq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 249700,
       "name": "Narkopop 4",
       "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Distant and Spirals",
+        "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
+      },
+      "artists": [
+        {
+          "name": "Hilyard",
+          "url": "https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0"
+        }
+      ],
+      "duration_ms": 404210,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 212839,
-      "name": "LUX 1.4",
-      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "American Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 134382,
       "name": "Bridgets' Theme",
       "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 212839,
+      "name": "LUX 1.4",
+      "url": "https://open.spotify.com/track/7u566Fxjg5xInRCNBuTlO2"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Bring Me The Head of Kyle Bobby Dunn",
         "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 464874,
       "name": "Without Motion - Leandro Fresco Remix",
       "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "American Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 106643,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Collected Dust",
         "url": "https://open.spotify.com/album/5f2LBm23k0MEjO1eZV9Pno"
       },
@@ -1635,6 +1619,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Vantaa",
+        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
+      },
+      "artists": [
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 490500,
+      "name": "Luotasi",
+      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "It All Falls Apart",
         "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
       },
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Vantaa",
-        "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
+        "name": "American Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
       "artists": [
         {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
         }
       ],
-      "duration_ms": 490500,
-      "name": "Luotasi",
-      "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
+      "duration_ms": 106643,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/1DrPfngDvjmj1JPh9BtfGP"
     },
     {
       "added_at": "2023-06-07 15:21:34",

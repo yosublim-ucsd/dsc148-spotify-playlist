@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Balqees\n\n",
+  "description": "Listen to Arab women, at full volume. Cover: Asmaa lmnawar\n\n",
   "name": "EQUAL Arabia ",
   "tracks": [
     {
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 260164,
       "name": "Baaet Aada",
       "url": "https://open.spotify.com/track/3Ec2Y6dxVB49jbIhaZM5sh"
@@ -1346,7 +1346,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 230500,
       "name": "Bab ElTayaba",
       "url": "https://open.spotify.com/track/6va9QvsB4ERREtqlYlZ1kA"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 256652,
       "name": "Baghanny",
       "url": "https://open.spotify.com/track/6268FVFOesGcamWngDzyqv"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 168000,
       "name": "Feena",
       "url": "https://open.spotify.com/track/6lB92ejTjNk0jFZQpIXCcJ"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 207642,
       "name": "Hkayat",
       "url": "https://open.spotify.com/track/2i4oVynWtzKOTc8fq9xiyq"
@@ -9152,6 +9152,24 @@
       "duration_ms": 405577,
       "name": "\u0647\u0627\u062c\u0631 \u0646\u0639\u0645\u0627\u0646 - \u0645\u0633\u0639\u0648\u062f \u0647\u062c\u0631",
       "url": "https://open.spotify.com/track/7jA6AqFb0h95bne8OAFQyj"
+    },
+    {
+      "album": {
+        "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
+        "url": "https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo"
+      },
+      "artists": [
+        {
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190769,
+      "name": "\u0647\u0630\u0627 \u062d\u0627\u0644\u064a \u0645\u0646 \u0628\u0639\u062f\u0643",
+      "url": "https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr"
     },
     {
       "album": {

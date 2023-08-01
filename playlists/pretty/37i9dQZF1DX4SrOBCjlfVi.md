@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Travis Scott, BIA, and more\. Cover: Offset & Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,927 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,088 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [C'mon](https://open.spotify.com/track/4zZEI1gBrPWpdYrPZWJHDM) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SJR](https://open.spotify.com/artist/2RRjr5GZ4WbrXcz9ySV4gY), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [YUHEAME](https://open.spotify.com/album/4uyOCYd8FfdEmpEecnmtVr) | 2:15 |
 | 50 | [On Time \(feat\. Toosii & Kiya Alexius\)](https://open.spotify.com/track/7iQel3LUsDF1M3O1j1ieVJ) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Kiya Alexius](https://open.spotify.com/artist/0MlycchPFXTw4Hicx2Ag1d) | [On Time](https://open.spotify.com/album/4aQqbYSW4fbCWDJLsTC2n8) | 2:52 |
 
-Snapshot ID: `MCxmOGIzOTQ1NDE3ZjcxMTliOWZlYzZmZWU2YTllYzhhMjg0OWU5OTg3`
+Snapshot ID: `MCw1MzRkYzBkZmM0YjY4NTYxYjUzNmIxYjBlNTNiMWRmNTZiNWY3Nzkz`

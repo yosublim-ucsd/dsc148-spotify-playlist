@@ -2,7 +2,7 @@
 
 ### [CMA Fest](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
 
-> Relive the fun of CMA Fest on July 19th at 8/7c on ABC! Cover: Luke Combs
+> Check out all of these artists and more performing live in Nashville at the CMA Fest 2023! Cover: Luke Combs
 
 243 songs - 13 hr 19 min
 

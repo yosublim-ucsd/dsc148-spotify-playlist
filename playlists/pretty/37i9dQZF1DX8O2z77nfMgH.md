@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Wisin, Darell, Luar La L, Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 937,355 likes - 66 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 937,414 likes - 66 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 65 | [Beyoncé 2](https://open.spotify.com/track/48yfdCj8t8WuoITwpSXRcQ) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [EVDC DELUXE](https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4) | 3:08 |
 | 66 | [Oi Vida \- Ao Vivo](https://open.spotify.com/track/4lL0M9HzNFspnIwj2WfU6c) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Oi Vida \(Ao Vivo\)](https://open.spotify.com/album/7lxRjlrkKb1dn5kgtAY09M) | 2:12 |
 
-Snapshot ID: `MCw1ZWVkY2E2Yjk1MDIzYmVkYjliOGI5MDE2MTVjOTc4ZTYxMTFlNTQ0`
+Snapshot ID: `MCxlOTQ4YzkxNmE0MmE2MWVjNDFiZTg5NGM1NzI5MGJjNTM1ODI2N2M0`

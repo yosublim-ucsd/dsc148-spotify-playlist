@@ -2,9 +2,9 @@
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to the women of Au & NZ at full volume! Cover: Blusher
+> Listen to the women of Au & NZ at full volume! Cover: Angie McMahon
 
-439 songs - 23 hr 40 min
+443 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [gold star](https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [gold star](https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G) | 3:06 | 2022-10-31 | 2023-07-25 |
 | [Golden Hours](https://open.spotify.com/track/2j5M6lRvFyXLBKyb8CbJCq) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Golden Hours](https://open.spotify.com/album/2s0YQ7W9iUi3MfAeq8NKyJ) | 2:20 | 2022-02-03 | 2022-05-28 |
 | [Good For A Girl](https://open.spotify.com/track/7pQdxhXAq1UuogbmbNeuIk) | [Germein](https://open.spotify.com/artist/1fOL2BMtY8LrtytFUGGfC7) | [Good For A Girl](https://open.spotify.com/album/4vpHnbFKlOHfVA4H2tlVLJ) | 2:50 | 2022-02-03 | 2022-04-06 |
-| [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 | 2022-11-30 |  |
+| [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 | 2022-11-30 | 2023-08-01 |
 | [Goodbye To The Old Me](https://open.spotify.com/track/2KBUsMSWnegzswLEMxkLc8) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Goodbye To The Old Me](https://open.spotify.com/album/7oKmz2jlpMf6WIw2oOA4vt) | 3:27 | 2023-04-30 |  |
 | [Gravity](https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi) | [Ahlei](https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq) | [Gravity](https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP) | 3:02 | 2022-07-03 | 2023-03-01 |
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-28 | 2023-07-01 |
@@ -250,7 +250,7 @@
 | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay) | 3:15 | 2023-05-31 |  |
 | [LITTLE FIRES](https://open.spotify.com/track/3rZbiEFem2bm8zYUIA9ecd) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [LITTLE FIRES](https://open.spotify.com/album/1vVD2Jm1xVWk3TGhdQ6z97) | 2:59 | 2022-02-03 | 2022-09-06 |
 | [Locked On You \(feat\. BROODS\)](https://open.spotify.com/track/1NYvcIsc3jNAalKiyC4ywL) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Blossom](https://open.spotify.com/album/4CdFQ4boNTxFzjm9rFbL8d) | 2:41 | 2022-02-03 | 2022-07-04 |
-| [LOLA](https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [LOLA](https://open.spotify.com/album/6p8cW6vKfjkC9U1drMRipN) | 2:50 | 2023-06-30 |  |
+| [LOLA](https://open.spotify.com/track/1BJ2lgopO4eoBZfLNep6Ds) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [LOLA](https://open.spotify.com/album/6p8cW6vKfjkC9U1drMRipN) | 2:50 | 2023-06-30 | 2023-08-01 |
 | [Look Me In The Eyes](https://open.spotify.com/track/1kCKOjFILLIu0tlYJjBnPM) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [Look Me In The Eyes](https://open.spotify.com/album/7jdepYJ7EiTGVtrwtqz1mb) | 3:16 | 2022-04-05 | 2022-05-03 |
 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 | 2022-02-03 | 2022-08-01 |
 | [Loser](https://open.spotify.com/track/0JGXmt0UISP8sttvwFvT76) | [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Loser](https://open.spotify.com/album/1O1J9ZCRpjUfTVATGWoYUw) | 2:24 | 2022-02-03 | 2022-10-03 |
@@ -323,10 +323,12 @@
 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 | 2023-04-30 | 2023-07-01 |
 | [Quicksand](https://open.spotify.com/track/6LhSsOUN9BRqiXKfGBkNp6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:11 | 2022-07-03 | 2022-10-03 |
 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 | 2022-02-03 | 2022-07-29 |
+| [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-07-31 |  |
 | [READ](https://open.spotify.com/track/1o2SurUyAJFFkf0kjSMKo1) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [READ](https://open.spotify.com/album/7uMlhSlAXQWMfrgcnJ7Xxi) | 2:48 | 2022-03-06 | 2022-10-03 |
 | [Red Earth Dirt](https://open.spotify.com/track/3Ymvh9FUXL6sjDG3A1R1NP) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Red Earth Dirt](https://open.spotify.com/album/6hpjwCa1aIihRixuYzQOC2) | 3:50 | 2022-02-03 | 2022-08-01 |
 | [reel](https://open.spotify.com/track/6Z53T7w8pY8MM8HxKMOvLO) | [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [reel](https://open.spotify.com/album/2kpAgM8bcOmEy61adSUmm9) | 2:56 | 2022-04-05 | 2023-02-01 |
 | [Rerun](https://open.spotify.com/track/09MWtKckcVk01jzxZjjc3e) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Rerun](https://open.spotify.com/album/6Izi5vqlILx2FOE4AolRoD) | 3:21 | 2022-04-05 | 2022-09-06 |
+| [Ring\-a\-Ling](https://open.spotify.com/track/0CAisIL2Tjy47oEkzQUMns) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ring\-a\-Ling](https://open.spotify.com/album/1OnUNliWg1BbNsuEmGDB2n) | 2:58 | 2023-07-31 |  |
 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 | 2022-10-02 | 2023-05-01 |
 | [Rock Bottom](https://open.spotify.com/track/3CTDZULHrabIo5ANOg2mV3) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/5lrE3gB0O2774Qn0WcnAPd) | 2:42 | 2022-02-03 | 2022-03-07 |
 | [Rockstar \- Spotify Singles](https://open.spotify.com/track/1vhlo7Ra1stG1lZvG0TuZH) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Spotify Singles](https://open.spotify.com/album/0Fi9ygxrr6Q6Th3DjKgVjS) | 3:23 | 2023-04-30 |  |
@@ -361,6 +363,7 @@
 | [Softly](https://open.spotify.com/track/367oCfrxb0IK5XlIuKfRBS) | [Stellie](https://open.spotify.com/artist/0WGMPhb6ipresPQfFcIxwH) | [Softly](https://open.spotify.com/album/5g8VzPxIug7EZfxHNe3ciy) | 3:19 | 2023-03-31 |  |
 | [Some of Mine](https://open.spotify.com/track/5Qnf1JSBuMy9UBPCSccoA0) | [Sally](https://open.spotify.com/artist/7wPjckumX8BvSDLx7ay6hD) | [Some of Mine](https://open.spotify.com/album/4beC9RHWFS5jQGBlW4cR6U) | 3:34 | 2023-04-30 |  |
 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 | 2023-02-28 | 2023-05-01 |
+| [Something Familiar](https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Something Familiar](https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn) | 3:06 | 2023-07-31 |  |
 | [Something New](https://open.spotify.com/track/1TWBsQA0pQqV5dPEu83yv9) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Something New](https://open.spotify.com/album/1F3OffAbOInLUHAmFYBCNY) | 2:46 | 2023-01-31 | 2023-05-01 |
 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 | 2022-10-02 | 2023-07-01 |
 | [Something Real](https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Something Real](https://open.spotify.com/album/2UDAM6b2FOsuHyhdNSRCrT) | 3:49 | 2022-05-02 | 2022-07-29 |
@@ -418,6 +421,7 @@
 | [Understand](https://open.spotify.com/track/4JkRISoAHFRP40FGzNymNp) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 2:57 | 2022-09-05 | 2023-03-01 |
 | [Understand](https://open.spotify.com/track/7qbF7t9vmBaAVS7VJ6gP82) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Understand](https://open.spotify.com/album/5QxQ9fuQFnYqqRfF3oyLXg) | 2:57 | 2022-09-05 | 2022-09-21 |
 | [Unforgivingly Me](https://open.spotify.com/track/3AhDEZJSqachAClLXNfSx9) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Unforgivingly Me](https://open.spotify.com/album/01hoYJaRqNuMi06xhfvcLF) | 2:56 | 2023-03-31 |  |
+| [Up in My Head](https://open.spotify.com/track/3fCq01smXb4MnNSydn1Uem) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Up in My Head](https://open.spotify.com/album/1ITFtENz4S2SXWRykPhiPq) | 3:32 | 2023-07-31 |  |
 | [UP!](https://open.spotify.com/track/6pxSZ1zNjsrAQRBvVk5H5f) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [NEVER AGAIN!](https://open.spotify.com/album/1faeXEYCz0R4mExwxspGy6) | 3:01 | 2023-07-03 |  |
 | [Ur So Annoying](https://open.spotify.com/track/0qwsNyrQFx5hXt9mxmOHzw) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Ur So Annoying](https://open.spotify.com/album/3ameCWDwidBX4sVAmbahMc) | 2:38 | 2022-07-31 | 2023-05-01 |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2022-02-03 | 2022-08-01 |

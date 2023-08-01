@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,084 songs - 2 day 18 hr 12 min
+1,086 songs - 2 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6zXpmOXNuWMZG8RYcSmtH4) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/0SsFgST749MQC6oN9PLHLf) | 3:59 | 2022-01-19 | 2022-07-29 |
 | [KIDZ \- Spotify Singles](https://open.spotify.com/track/2Fc0wy51lDMnxcEcli7UNK) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [KIDZ \- Spotify Singles](https://open.spotify.com/album/7BrgeOGDEUsE0QDk9m75Zv) | 3:24 | 2022-09-14 |  |
 | [Kiss \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7Kfpow0FQwvw3xxrRdXgf9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Spotify Singles](https://open.spotify.com/album/3NSkcqmYRTEb2sPICYWT1T) | 4:03 | 2022-01-19 |  |
+| [Kiss from a Rose](https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 5:04 | 2023-07-31 |  |
 | [Kiss from God \- mint Singles](https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV) | 3:48 | 2022-01-19 | 2022-12-01 |
 | [Kiss from God \- mint Singles](https://open.spotify.com/track/5XFTW0rJnYwicp5Db3YRCf) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Kiss from God \(mint Singles\)](https://open.spotify.com/album/3luU3JrWxKBSf71MbpYiAu) | 3:48 | 2022-10-26 |  |
 | [Kiwi \- Spotify Singles](https://open.spotify.com/track/1b1rfsxSu3LqIVZjTWxZol) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Spotify Singles](https://open.spotify.com/album/5T0dKiFf28USkwX1hGFzT8) | 2:57 | 2022-07-05 |  |
@@ -555,6 +556,7 @@
 | [Let Somebody Go \- Spotify Singles](https://open.spotify.com/track/4KiWjFLX5A3oUY40OL0FAh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:03 | 2022-02-23 |  |
 | [LET YOU BE RIGHT \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6Xj6AtBraaa7CrQs6fRAQQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Spotify Singles](https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41) | 3:01 | 2022-01-19 |  |
 | [Letter 2 U \- Acoustic](https://open.spotify.com/track/6ssTulOUZbWKE3Kr1Cj8pM) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Spotify Singles](https://open.spotify.com/album/6oiAFUTlAXAA1hjpnQsK2M) | 3:26 | 2022-01-19 |  |
+| [Level Remix](https://open.spotify.com/track/4b8wvyeJqEEzuVkXmwkB8k) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Spotify Singles](https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf) | 4:15 | 2023-07-31 |  |
 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 | 2022-01-19 |  |
 | [Lie To Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47DHoEPxnSkT4f626qo5Mw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Spotify Singles](https://open.spotify.com/album/0VGvGFpQhkexY9GMSih3Jv) | 2:40 | 2022-01-19 |  |
 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 | 2023-06-07 |  |

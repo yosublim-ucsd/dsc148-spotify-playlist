@@ -1,64 +1,44 @@
 {
   "description": "songs that break bones",
-  "num_followers": 200353,
+  "num_followers": 200412,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTczY2QxZjAyNjA1YjU4NTE2YmMyYjA3OWYyZGU3Zjg1YjdhN2Y3",
+  "snapshot_id": "MCw2YzE5NThjNzU4ZDI2NWQ1ZWYyNjJkZDc2YzFmZjAxZjhmOTRkYzI3",
   "tracks": [
     {
-      "added_at": "2023-07-21 15:33:00",
+      "added_at": "2023-07-31 15:22:49",
       "album": {
-        "name": "backseat",
-        "url": "https://open.spotify.com/album/0I9TeRVzfA9LXJ7lt9XESr"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "jungle bobby",
-          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
-        },
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 144000,
-      "name": "backseat",
-      "url": "https://open.spotify.com/track/20PawGmohv8qxIpi04ElQu"
+      "duration_ms": 255412,
+      "name": "MODERN JAM",
+      "url": "https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw"
     },
     {
-      "added_at": "2023-07-21 15:33:00",
+      "added_at": "2023-06-01 18:45:33",
       "album": {
-        "name": "MID AIR",
-        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
       "artists": [
         {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 157501,
-      "name": "Sean-Jared",
-      "url": "https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "PANIC!!!",
-        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 140579,
-      "name": "PANIC!!!",
-      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
+      "duration_ms": 136572,
+      "name": "vent",
+      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -81,20 +61,60 @@
       "url": "https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC"
     },
     {
-      "added_at": "2023-06-01 18:45:33",
+      "added_at": "2023-06-16 14:18:34",
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+        "name": "RUFFS",
+        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        },
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
         }
       ],
-      "duration_ms": 136572,
-      "name": "vent",
-      "url": "https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn"
+      "duration_ms": 203533,
+      "name": "NOSEDIVE (feat. Jean Dawson)",
+      "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
+    },
+    {
+      "added_at": "2023-07-31 15:23:31",
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
+    },
+    {
+      "added_at": "2023-07-31 15:22:49",
+      "album": {
+        "name": "MID AIR",
+        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "PANIC!!!",
+      "url": "https://open.spotify.com/track/4rQctW9wwme9H2Fyq5bFMq"
     },
     {
       "added_at": "2023-06-01 18:45:33",
@@ -119,26 +139,6 @@
     {
       "added_at": "2023-06-16 14:18:34",
       "album": {
-        "name": "RUFFS",
-        "url": "https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        },
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 203533,
-      "name": "NOSEDIVE (feat. Jean Dawson)",
-      "url": "https://open.spotify.com/track/5gDlJ4UOC7QHOm3X1rqPYk"
-    },
-    {
-      "added_at": "2023-06-16 14:18:34",
-      "album": {
         "name": "GENERATIONAL CURSE",
         "url": "https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs"
       },
@@ -153,20 +153,24 @@
       "url": "https://open.spotify.com/track/4XAqaTyqxBrfR1Bj5Lz7gf"
     },
     {
-      "added_at": "2023-04-27 20:36:18",
+      "added_at": "2023-07-21 15:33:00",
       "album": {
-        "name": "Turn It Up",
-        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+        "name": "backseat",
+        "url": "https://open.spotify.com/album/0I9TeRVzfA9LXJ7lt9XESr"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "jungle bobby",
+          "url": "https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl"
+        },
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
         }
       ],
-      "duration_ms": 122699,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
+      "duration_ms": 144000,
+      "name": "backseat",
+      "url": "https://open.spotify.com/track/20PawGmohv8qxIpi04ElQu"
     },
     {
       "added_at": "2023-04-11 14:55:07",
@@ -203,6 +207,38 @@
       "duration_ms": 173279,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+    },
+    {
+      "added_at": "2023-04-27 20:36:18",
+      "album": {
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/6A0KCC9AaG4ZTK8KhfxRVE"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 122699,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
+    },
+    {
+      "added_at": "2023-07-21 15:33:00",
+      "album": {
+        "name": "MID AIR",
+        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 157501,
+      "name": "Sean-Jared",
+      "url": "https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB"
     },
     {
       "added_at": "2023-06-16 14:18:34",
@@ -293,6 +329,22 @@
       "url": "https://open.spotify.com/track/0LKCYdFKSwCtRsw7yd1u3h"
     },
     {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "Fuck Your Expectations PT. 1",
+        "url": "https://open.spotify.com/album/4S3IEAIvXDTi4zjFGeL3mW"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 187896,
+      "name": "COLUMBIA",
+      "url": "https://open.spotify.com/track/1IFPahnCrbKR7QXE6aePa0"
+    },
+    {
       "added_at": "2023-04-27 20:36:18",
       "album": {
         "name": "FUNKFEST",
@@ -319,38 +371,6 @@
       "duration_ms": 219733,
       "name": "FUNKFEST",
       "url": "https://open.spotify.com/track/4qUQeGpgw3Gz1w4Ace91bJ"
-    },
-    {
-      "added_at": "2023-06-01 18:45:33",
-      "album": {
-        "name": "Fuck Your Expectations PT. 1",
-        "url": "https://open.spotify.com/album/4S3IEAIvXDTi4zjFGeL3mW"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        }
-      ],
-      "duration_ms": 187896,
-      "name": "COLUMBIA",
-      "url": "https://open.spotify.com/track/1IFPahnCrbKR7QXE6aePa0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "BULLET MAN",
-        "url": "https://open.spotify.com/album/1B9eLnJh3huaPRziWXWliK"
-      },
-      "artists": [
-        {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        }
-      ],
-      "duration_ms": 178195,
-      "name": "BULLET MAN",
-      "url": "https://open.spotify.com/track/1xscJ2dRvxgJhB8V10EqZn"
     },
     {
       "added_at": "2023-06-01 18:45:33",
@@ -403,6 +423,22 @@
       "duration_ms": 138299,
       "name": "You Make Me Sick!",
       "url": "https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq"
+    },
+    {
+      "added_at": "2023-06-01 18:45:33",
+      "album": {
+        "name": "Hot Gum",
+        "url": "https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Hot Gum",
+      "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
     },
     {
       "added_at": "2023-06-16 14:18:34",
@@ -493,24 +529,20 @@
       "url": "https://open.spotify.com/track/4EY4SV2BSfJKs6CWwArmhk"
     },
     {
-      "added_at": "2023-03-27 19:11:13",
+      "added_at": "2023-07-31 15:23:31",
       "album": {
-        "name": "i'm bored",
-        "url": "https://open.spotify.com/album/2OwbS1Pizs6Lu8Edd7BKEk"
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
       "artists": [
         {
-          "name": "Hadji Gaviota",
-          "url": "https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7"
-        },
-        {
-          "name": "Gao the Arsonist",
-          "url": "https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 136174,
-      "name": "i'm bored",
-      "url": "https://open.spotify.com/track/5tbUOswPFOzdji3HmJ8qTx"
+      "duration_ms": 126960,
+      "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
+      "url": "https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -531,22 +563,6 @@
       "duration_ms": 141089,
       "name": "Burfict!",
       "url": "https://open.spotify.com/track/5IZpEuLMO5lEmN1Rr008p8"
-    },
-    {
-      "added_at": "2023-06-01 18:45:33",
-      "album": {
-        "name": "Hot Gum",
-        "url": "https://open.spotify.com/album/2OajtROrr8awCu9utpvGFz"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "Hot Gum",
-      "url": "https://open.spotify.com/track/3ENzDf9yNtgQ3NPSOfVhN8"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -619,6 +635,22 @@
       "duration_ms": 126962,
       "name": "HANDSOME",
       "url": "https://open.spotify.com/track/58z1hY9hrwliXRIvQe8UOX"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "PANIC!!!",
+        "url": "https://open.spotify.com/album/3OcrlZ2Eo6iiFQQ84Nh81p"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 140579,
+      "name": "PANIC!!!",
+      "url": "https://open.spotify.com/track/2PWNYSaygLVCe2ZwGbIWjV"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -707,6 +739,22 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
+        "name": "the actor",
+        "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
+      },
+      "artists": [
+        {
+          "name": "dynastic",
+          "url": "https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "seeker missile",
+      "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
         "name": "10,000 gecs",
         "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
@@ -735,6 +783,30 @@
       "duration_ms": 140726,
       "name": "Watch Yo Step",
       "url": "https://open.spotify.com/track/7rjjSiMQvTlDcrE5J84F8N"
+    },
+    {
+      "added_at": "2023-03-27 19:11:13",
+      "album": {
+        "name": "Bed Time (feat. Monaleo & Gloss Up)",
+        "url": "https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "duration_ms": 220443,
+      "name": "Bed Time (feat. Monaleo & Gloss Up)",
+      "url": "https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -775,46 +847,6 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "Bed Time (feat. Monaleo & Gloss Up)",
-        "url": "https://open.spotify.com/album/4c5Sf3ULy1kAbqD0DGIFFy"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        }
-      ],
-      "duration_ms": 220443,
-      "name": "Bed Time (feat. Monaleo & Gloss Up)",
-      "url": "https://open.spotify.com/track/5H7IzRvSCGY2p7jjuCu6g1"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "Green Honda",
-        "url": "https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 166981,
-      "name": "Green Honda",
-      "url": "https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
       },
@@ -827,38 +859,6 @@
       "duration_ms": 134116,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "BACKSTAB",
-        "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
-      },
-      "artists": [
-        {
-          "name": "SLOE JACK",
-          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "PARADE",
-      "url": "https://open.spotify.com/track/476tBI8BW8t0y3vvAfjB6r"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "SUPERCALAFRAGIVICIOUS",
-        "url": "https://open.spotify.com/album/6FIAYIGvA008E0d4l6wvDx"
-      },
-      "artists": [
-        {
-          "name": "steve breaux",
-          "url": "https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g"
-        }
-      ],
-      "duration_ms": 106046,
-      "name": "SUPERCALAFRAGIVICIOUS",
-      "url": "https://open.spotify.com/track/5nU2Hi0QCmbtf1PgFfgw6c"
     },
     {
       "added_at": "2023-03-27 19:11:13",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-27 19:11:13",
       "album": {
-        "name": "the actor",
-        "url": "https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC"
-      },
-      "artists": [
-        {
-          "name": "dynastic",
-          "url": "https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "seeker missile",
-      "url": "https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
         "name": "OMG BRITT",
         "url": "https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx"
       },
@@ -907,22 +891,6 @@
       "duration_ms": 172266,
       "name": "OMG BRITT",
       "url": "https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE"
-    },
-    {
-      "added_at": "2023-03-27 19:11:13",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/3qBxCPF6tXFzBrCGAioasB"
-      },
-      "artists": [
-        {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
-        }
-      ],
-      "duration_ms": 154458,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/223AWrYBuPJwm3oy9phMiS"
     }
   ],
   "unique_name": "LOCKJAW",

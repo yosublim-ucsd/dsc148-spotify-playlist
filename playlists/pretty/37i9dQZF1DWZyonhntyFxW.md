@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM?si=OCLHw6D2TB\-ZZLoBlHkZzA"> زياد ظاظا </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,480 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,671 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [سمع اخينا](https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [ظاظا الوسيم](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 2:08 |
+| 1 | [SAM3 AKHINA](https://open.spotify.com/track/55mj9EYItGVGjrvyiY9rlw) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [ZAZA ELWASEEM](https://open.spotify.com/album/4gYfyZHNfpZdI4ebAybyUD) | 2:08 |
 | 2 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
 | 3 | [الدنيا ايه](https://open.spotify.com/track/6SBv0Z2UG5lkdJPWIarKj0) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [الدنيا ايه](https://open.spotify.com/album/3JqkIHvNZMoWe06n3oQKza) | 3:38 |
 | 4 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 49 | [Kitkat \- Freestyle](https://open.spotify.com/track/7BDmhU0TnKMATUSNeiSB83) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 2:37 |
 | 50 | [خالصة معايا](https://open.spotify.com/track/0XG6VRiFwF74vnEuMfr6hB) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz), [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn) | [خالصة معايا](https://open.spotify.com/album/1ZqcAeqFDFXhNZilGrnEqv) | 3:23 |
 
-Snapshot ID: `MCw2YWNjMzE1NWUyNTAwZGZjZDFiZWY4Yzg3NDU0OTc0NmU5MmE2NTVm`
+Snapshot ID: `MCw2MjJhMDc4Y2Q0NmZhMzNjNjIzNjljODJiNWU3MjkxOTBkZThjZTVi`

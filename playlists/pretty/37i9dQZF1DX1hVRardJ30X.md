@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Blessd & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,836 likes - 61 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,089 likes - 61 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 60 | [A.S.D.A.](https://open.spotify.com/track/1VbcjQ14V7ORdYGKOyuzS7) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [A.S.D.A.](https://open.spotify.com/album/2QKZ1oNbiQUzBYxvtggJBX) | 2:53 |
 | 61 | [I <3 NY](https://open.spotify.com/track/0BEFvYzuO6DMUYXWk9cUAi) | [Leisley](https://open.spotify.com/artist/5aRtrcGhtNrjVmmGihilvt) | [I <3 NY](https://open.spotify.com/album/4K8IgmWP9f6R217sHOjuB7) | 3:46 |
 
-Snapshot ID: `MCxkOTZiNTNlODVkYzE0YWFmN2YyMzRlNjJhNzg4YjQ4ZDkwY2YzZDkz`
+Snapshot ID: `MCxjYjdiMDdiNWQ2ZWFmNTc2ODdiZWU2MWIxZjVlY2E5NWI5OTdlYzAw`

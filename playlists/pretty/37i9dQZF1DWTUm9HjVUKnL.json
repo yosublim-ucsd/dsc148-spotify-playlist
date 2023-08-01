@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Bad Snacks.\nFeeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=\u201chttps://www.soundtrap.com/\u201d>Soundtrap, </a>  Spotify\u2019s online music studio for songwriters and beat makers. \n",
-  "num_followers": 217561,
+  "num_followers": 217571,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjJlZTg2Mjk0NjQ2OTI0ZDg1NDU1OWZiZDdhM2Y5OGE1ODlkNGI3",
+  "snapshot_id": "MCw0MTI1MGJlOTU3NzgwMTZlZTJiY2JlYWVhMmYxZjY3YzNkMWQ1ODZl",
   "tracks": [
+    {
+      "added_at": "2023-07-31 12:47:55",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 255510,
+      "name": "Level Remix",
+      "url": "https://open.spotify.com/track/4b8wvyeJqEEzuVkXmwkB8k"
+    },
+    {
+      "added_at": "2023-07-31 12:47:55",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 304875,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V"
+    },
     {
       "added_at": "2023-07-25 16:53:00",
       "album": {

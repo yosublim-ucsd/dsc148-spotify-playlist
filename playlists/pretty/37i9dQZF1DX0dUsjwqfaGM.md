@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 59 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,205 likes - 59 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 43 | [Thế Giới Của Em](https://open.spotify.com/track/24DVKr1495WzRv1lNOlvRz) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [Thế Giới Của Em](https://open.spotify.com/album/0SkClw8Gjjd9EotloigIVT) | 3:36 |
 | 44 | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi) | 2:36 |
 | 45 | [tỉnh thức sau giấc ngủ đông](https://open.spotify.com/track/4Xai78OB5OKQI9EFYcCzxD) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [dự báo thời tiết hôm nay mưa – Maxi Single](https://open.spotify.com/album/7q2bB2NNFlNbtqadbn55pL) | 3:47 |
-| 46 | [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 |
+| 46 | [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vũ Cát Tường](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 |
 | 47 | [GIACMO](https://open.spotify.com/track/7knkeDyA5a7Dhb42JBJxdn) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA) | [thế giới của LINK](https://open.spotify.com/album/1OaAlMSShs70cXGBldgYDp) | 2:35 |
 | 48 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 |
 | 49 | [Crowd](https://open.spotify.com/track/2yXywsQ4lgBRyrk4ey5gCQ) | [RPT TC](https://open.spotify.com/artist/620SGhgUsNYFnVULyiGCeL), [TDO Kwan](https://open.spotify.com/artist/1TXjcDbR8xtShzu08N5j0x), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Crowd](https://open.spotify.com/album/2HrXbMtw6gcxn2adzRvNlN) | 3:40 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 58 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 |
 | 59 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 |
 
-Snapshot ID: `MCwwNDQ0NmM2MzhjZTAzMDY2Y2M0NTA1MmMwZWM1M2Y1OWU1NDQzZmFm`
+Snapshot ID: `MCwzNTQxYjM0MTc5Mzk3ZWU4YzFiOWVlZjI5NThiMWZmYmY1MjE2Y2Zh`

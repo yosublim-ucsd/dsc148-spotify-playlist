@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 187508,
+  "num_followers": 188194,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
+  "snapshot_id": "MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Alle meine Raver",
-        "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        },
-        {
-          "name": "Ben Dust",
-          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "Alle meine Raver",
-      "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "The Seduction EP",
         "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Alle meine Raver",
+        "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        },
+        {
+          "name": "Ben Dust",
+          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+        }
+      ],
+      "duration_ms": 314666,
+      "name": "Alle meine Raver",
+      "url": "https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK"
     },
     {
       "added_at": "2023-06-02 14:30:00",

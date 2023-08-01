@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Agris en portada.",
-  "num_followers": 96463,
+  "num_followers": 96459,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTJjOTg3YzVkZjI2MWI5Zjg5ZjJlOTMwNDEwMTJjZTE4Mjk2NDYx",
+  "snapshot_id": "MCwyMjk5Yjg0MjNmYTlkOWNhYWFhOGE1YzM1MTE0NjE2NDk5Mzk4NGUz",
   "tracks": [
     {
       "added_at": "2023-07-07 16:56:50",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Est\u00e1 Da\u00f1ada (Remix)",
         "url": "https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 185806,
       "name": "Amapolas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
-        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "duration_ms": 156610,
-      "name": "Atardeci\u00f3 sin vos",
-      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+      "duration_ms": 179094,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
+        "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "Atardeci\u00f3 sin vos",
+      "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 134470,
       "name": "Ya Casi Te Olvido",
       "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 179094,
-      "name": "V\u00e1monos a Marte",
-      "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+        "name": "Amor Con Filo",
+        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Anthr\u00e9s",
+          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
         }
       ],
-      "duration_ms": 211680,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43"
+      "duration_ms": 178000,
+      "name": "Amor Con Filo",
+      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -603,18 +619,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Amor Con Filo",
-        "url": "https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj"
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
       },
       "artists": [
         {
-          "name": "Anthr\u00e9s",
-          "url": "https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Amor Con Filo",
-      "url": "https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X"
+      "duration_ms": 185058,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -651,22 +667,6 @@
       "duration_ms": 159333,
       "name": "Es Tan Bonita",
       "url": "https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 185058,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Pasado y Olvido",
-        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
-      },
-      "artists": [
-        {
-          "name": "Pehuenche",
-          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
-        }
-      ],
-      "duration_ms": 255155,
-      "name": "Pasado y Olvido",
-      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Tan Bien Que Estaba",
         "url": "https://open.spotify.com/album/6agvAr3BILtwOWJfO6i2gg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 214960,
       "name": "Tan Bien Que Estaba",
       "url": "https://open.spotify.com/track/3ozEF7ejFaLouclqb7khai"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Pasado y Olvido",
+        "url": "https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs"
+      },
+      "artists": [
+        {
+          "name": "Pehuenche",
+          "url": "https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk"
+        }
+      ],
+      "duration_ms": 255155,
+      "name": "Pasado y Olvido",
+      "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
         "name": "HSN",
         "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 207784,
       "name": "A Simple Vista",
       "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Tu Despedida",
-        "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Botello y El Sonoro Rugir",
-          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Tu Despedida",
-      "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Al Amor",
         "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208177,
       "name": "Dime",
       "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Tu Despedida",
+        "url": "https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Botello y El Sonoro Rugir",
+          "url": "https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Tu Despedida",
+      "url": "https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "M\u00edstico Desierto",
-        "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "M\u00edstico Desierto",
-      "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Siente Lo Que Siento",
-        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
+        "name": "M\u00edstico Desierto",
+        "url": "https://open.spotify.com/album/4OUAnAu3mmXKsMSD7X0sCa"
       },
       "artists": [
         {
-          "name": "Carolina en Llamas",
-          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Siente Lo Que Siento",
-      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
+      "duration_ms": 225692,
+      "name": "M\u00edstico Desierto",
+      "url": "https://open.spotify.com/track/5AnG5RoXwxs16RlIprIzHA"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "P\u00e1ramo M\u00edstico",
-        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+        "name": "Siente Lo Que Siento",
+        "url": "https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Carolina en Llamas",
+          "url": "https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo"
         }
       ],
-      "duration_ms": 203532,
-      "name": "Arena Blanca",
-      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
+      "duration_ms": 244000,
+      "name": "Siente Lo Que Siento",
+      "url": "https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1307,6 +1291,22 @@
       "duration_ms": 211456,
       "name": "Antes de Partir - Cap.1",
       "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
     },
     {
       "added_at": "2023-07-07 16:56:50",

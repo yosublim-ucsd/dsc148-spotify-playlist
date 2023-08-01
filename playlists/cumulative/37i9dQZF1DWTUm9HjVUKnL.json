@@ -9555,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304875,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/7sz7Ux2pAuM5V5RdjbaH6V"
+    },
+    {
+      "album": {
         "name": "Kiss from God (mint Singles)",
         "url": "https://open.spotify.com/album/3YP0uoO3xoPEVCPX7b3CbV"
       },
@@ -10176,6 +10194,24 @@
       "duration_ms": 206354,
       "name": "Letter 2 U - Acoustic",
       "url": "https://open.spotify.com/track/6ssTulOUZbWKE3Kr1Cj8pM"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0cG8Sv80ABlYVGf20D0AAf"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255510,
+      "name": "Level Remix",
+      "url": "https://open.spotify.com/track/4b8wvyeJqEEzuVkXmwkB8k"
     },
     {
       "album": {

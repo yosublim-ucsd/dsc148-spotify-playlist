@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-1,548 songs - 3 day 7 hr 43 min
+1,549 songs - 3 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Bye Bye Baby](https://open.spotify.com/track/3dRBt1tWkgDbXWzc75enkX) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6) | [Oasis](https://open.spotify.com/album/5sGahW0VVLSetTjypnMOy1) | 3:23 | 2022-10-28 | 2022-12-01 |
 | [Bé Bé](https://open.spotify.com/track/3oz2KZeJsrqHpEpcroZs9e) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Why Not?](https://open.spotify.com/album/0RhPi7Bz28OoKKJnnOndPe) | 2:50 | 2022-05-26 | 2022-07-02 |
 | [C.L.O.U.D.S](https://open.spotify.com/track/080R3EkXAvys9GD2aLf3wB) | [CAMP](https://open.spotify.com/artist/5WlBS3np27mk4KGGU0mONt) | [Process](https://open.spotify.com/album/3CRUA1fGG4vUqOOfdrNoDe) | 2:59 | 2022-03-11 | 2022-05-12 |
-| [Calibrate](https://open.spotify.com/track/63V1rx4AkZTnykAz5um0qt) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Calibrate](https://open.spotify.com/album/5JM1jWIvJbEzrJKvBZhO6v) | 3:48 | 2023-07-14 |  |
+| [Calibrate](https://open.spotify.com/track/0coFHVhs0Oa8CJcikaQhMI) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:48 | 2023-07-14 |  |
+| [Calibrate](https://open.spotify.com/track/63V1rx4AkZTnykAz5um0qt) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Calibrate](https://open.spotify.com/album/5JM1jWIvJbEzrJKvBZhO6v) | 3:48 | 2023-07-14 | 2023-08-01 |
 | [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-02 | 2022-08-25 |
 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-06-02 | 2023-02-11 |
 | [Call Me](https://open.spotify.com/track/4diHXjd10aF8maVYh9qR6Y) | [Boatism](https://open.spotify.com/artist/0NMyKCLCxrMr51gcA0FDIp) | [Call Me](https://open.spotify.com/album/66s99E7xyy4tvJQRHkCtzW) | 3:03 | 2022-10-14 | 2022-12-01 |

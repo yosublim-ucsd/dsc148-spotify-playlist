@@ -4,7 +4,7 @@
 
 > Craving that crisp country air? These low\-key country songs will take you there.
 
-84 songs - 4 hr 57 min
+85 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Over To Me](https://open.spotify.com/track/5Jb9ouPHgMhT8gjS3rpX2I) | [Ashleigh Dallas](https://open.spotify.com/artist/4Jbn3jYmhnsJbnEhIZiEx2) | [Over To Me](https://open.spotify.com/album/02DqhwwGwCjAAsOiuullo6) | 3:15 | 2023-06-15 |  |
 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 | 2023-06-15 |  |
 | [Poor Boy](https://open.spotify.com/track/1Ru1gxjH8MkNfjP0owMa1X) | [Jamie McDell](https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH), [Tom Busby](https://open.spotify.com/artist/0lwMijmTI46U8XkAzdsozY) | [Jamie McDell](https://open.spotify.com/album/6cDTr6ROfRdPeSqT0T54se) | 4:01 | 2023-06-15 |  |
+| [Pretty as a Peach](https://open.spotify.com/track/54RYn17az87d1ZbuJpAc3l) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Pretty as a Peach](https://open.spotify.com/album/1Mqv4rah3GosAfHfXGce5p) | 2:30 | 2023-07-31 |  |
 | [Quarter Past You](https://open.spotify.com/track/3T5AQhGZqjBqhwCBPHEHDr) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Quarter Past You](https://open.spotify.com/album/36qGgSBdZA0ecipgqjhs0f) | 3:35 | 2023-06-15 |  |
 | [Rainy Day](https://open.spotify.com/track/0BMV5YD79S0OBwZZ8b8ML2) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wreck Me](https://open.spotify.com/album/0CQbnXgNwRg3noHVFn4Rn0) | 3:21 | 2023-06-15 |  |
 | [Real Life](https://open.spotify.com/track/5Aei6kEJraIFh79f14P6NB) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Real Life](https://open.spotify.com/album/2WOAQbWNRLRlWq3c5fIgB8) | 4:14 | 2023-07-07 |  |

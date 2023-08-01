@@ -1,12 +1,12 @@
 {
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
-  "num_followers": 19150,
+  "num_followers": 19149,
   "original_name": "CODING FOCUS",
   "owner": {
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "ODY4MSxhZDljZTNlMmJmMDk1ZjRkNGVkNmI1MTgwMTEwMzVkZTczNGU2MDM4",
+  "snapshot_id": "ODY5OCwxNmJkOTRkZTQ0YjQ1NjkwMmQxZTUzNDI4ZDU5Yzc3YjQ2OTUyY2Rj",
   "tracks": [
     {
       "added_at": "2022-01-12 04:14:54",
@@ -2713,6 +2713,22 @@
       "url": "https://open.spotify.com/track/7LU14DQyXruYc1YqmzBkVl"
     },
     {
+      "added_at": "2022-06-20 02:51:35",
+      "album": {
+        "name": "Grey Clouds",
+        "url": "https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "duration_ms": 60263,
+      "name": "Grey Clouds - Piano Version",
+      "url": "https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm"
+    },
+    {
       "added_at": "2022-05-15 15:07:56",
       "album": {
         "name": "Calming Moments",
@@ -3625,6 +3641,22 @@
       "url": "https://open.spotify.com/track/05e4dIya5cpnJv7IYJ9BRE"
     },
     {
+      "added_at": "2023-07-31 04:12:20",
+      "album": {
+        "name": "July Nights",
+        "url": "https://open.spotify.com/album/2k8OAFHF1RkGJgSgj8bnWd"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "duration_ms": 60379,
+      "name": "July Nights Arr. For Cello",
+      "url": "https://open.spotify.com/track/1a9tyhGGcNwqmzUZK0pXHK"
+    },
+    {
       "added_at": "2022-05-11 14:45:38",
       "album": {
         "name": "Deep Inspiration",
@@ -3639,6 +3671,70 @@
       "duration_ms": 62812,
       "name": "Between Worlds",
       "url": "https://open.spotify.com/track/4BQkXk9WghkrFuY9wS2Jw5"
+    },
+    {
+      "added_at": "2022-05-15 15:07:56",
+      "album": {
+        "name": "Calming Moments",
+        "url": "https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "duration_ms": 61475,
+      "name": "Gliding In Spring",
+      "url": "https://open.spotify.com/track/1PilpHZcm9by6JlyEUr6NN"
+    },
+    {
+      "added_at": "2022-08-25 04:05:55",
+      "album": {
+        "name": "Distant Lands",
+        "url": "https://open.spotify.com/album/0AoKBXSnhjaWSlg07h6RBC"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "duration_ms": 61374,
+      "name": "Velvet Melody",
+      "url": "https://open.spotify.com/track/5h3VE6nX6foQpEEjMn6z9C"
+    },
+    {
+      "added_at": "2023-04-19 05:04:21",
+      "album": {
+        "name": "Beige Sky Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/4uquIClJ9D5fxjIOp4SL7x"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "duration_ms": 60270,
+      "name": "Beige Sky Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/33UDvFEg5ulqlodZgc1yvB"
+    },
+    {
+      "added_at": "2022-02-24 19:27:59",
+      "album": {
+        "name": "Nostalgic Echoes",
+        "url": "https://open.spotify.com/album/0qB3myuWrSK1W6rXHwYX3k"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "duration_ms": 61219,
+      "name": "Beyond The Forested Path",
+      "url": "https://open.spotify.com/track/7fE0RaRbH6Nmf7eHQTyNLV"
     },
     {
       "added_at": "2023-04-19 05:03:52",
@@ -3703,6 +3799,38 @@
       "duration_ms": 61621,
       "name": "Before You",
       "url": "https://open.spotify.com/track/2rrlqbftCvgDjXk5viCUZC"
+    },
+    {
+      "added_at": "2023-07-31 04:12:20",
+      "album": {
+        "name": "Mountain Walk",
+        "url": "https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "duration_ms": 60899,
+      "name": "Mountain Walk Arr. For Strings",
+      "url": "https://open.spotify.com/track/34Wl9HqIqp9Qc3cxzAsYMr"
+    },
+    {
+      "added_at": "2023-07-31 04:12:20",
+      "album": {
+        "name": "Three Versions Of In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/0r3mieIaQSPzG4QwCYKLPL"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "duration_ms": 64647,
+      "name": "In The Bleak Midwinter Arr. For Cello",
+      "url": "https://open.spotify.com/track/3BWbrGdcfql4I5VlevwuBF"
     },
     {
       "added_at": "2022-03-02 15:44:04",
@@ -3785,6 +3913,38 @@
       "url": "https://open.spotify.com/track/1t962fbBLINcGNhvMS5YHW"
     },
     {
+      "added_at": "2023-07-31 04:12:20",
+      "album": {
+        "name": "July Nights (Alternate Cello Version)",
+        "url": "https://open.spotify.com/album/71E5p4B7TW56h86z2XMlEU"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "duration_ms": 60573,
+      "name": "July Nights - Alternate Cello Version",
+      "url": "https://open.spotify.com/track/7y5UUYqHH7v8wwbkQ8BzqF"
+    },
+    {
+      "added_at": "2023-07-31 04:12:20",
+      "album": {
+        "name": "Azure Revisited",
+        "url": "https://open.spotify.com/album/1yFVtt9VVWlFTBhdBGgKKR"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "duration_ms": 60750,
+      "name": "Azure - Alternate Cello Version",
+      "url": "https://open.spotify.com/track/20bguEBiEW8ZB4YWwfLuwz"
+    },
+    {
       "added_at": "2023-04-19 05:07:24",
       "album": {
         "name": "Mountain Dreaming",
@@ -3799,6 +3959,22 @@
       "duration_ms": 61263,
       "name": "Mountain Dreaming Arr. For Cello",
       "url": "https://open.spotify.com/track/5ICw6zequAvVp3wiEu1APj"
+    },
+    {
+      "added_at": "2023-07-31 04:12:20",
+      "album": {
+        "name": "The End Of The Day Again",
+        "url": "https://open.spotify.com/album/01ARHi5kCSc5mSzHmTmLxB"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "duration_ms": 60899,
+      "name": "The End Of The Day Again",
+      "url": "https://open.spotify.com/track/1NKXXriruRdA9JQF8xFw58"
     },
     {
       "added_at": "2023-05-14 05:42:30",
@@ -3817,36 +3993,20 @@
       "url": "https://open.spotify.com/track/0Yz35KBM6ots6PhZ9qGfQt"
     },
     {
-      "added_at": "2023-05-14 05:42:30",
+      "added_at": "2023-07-31 04:12:20",
       "album": {
-        "name": "Orange Flowers",
-        "url": "https://open.spotify.com/album/76jrprjJCFRNPyOO58Fdit"
+        "name": "Wishful Thinking Arr. For Strings",
+        "url": "https://open.spotify.com/album/1sepyY20Bf3tMGcuEsLRZQ"
       },
       "artists": [
         {
-          "name": "Harmony Night",
-          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
         }
       ],
       "duration_ms": 62385,
-      "name": "Orange Flowers - Cello Version",
-      "url": "https://open.spotify.com/track/45ni7c0q8D3yliJGIB0JnR"
-    },
-    {
-      "added_at": "2022-10-12 13:33:04",
-      "album": {
-        "name": "Fall Moon",
-        "url": "https://open.spotify.com/album/1TKxRTwKcA4KDQ27upbdKe"
-      },
-      "artists": [
-        {
-          "name": "Harmony Night",
-          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
-        }
-      ],
-      "duration_ms": 62619,
-      "name": "Fall Moon",
-      "url": "https://open.spotify.com/track/0AdQOxtRyMwMKOxS32RDhj"
+      "name": "Wishful Thinking Arr. For Strings",
+      "url": "https://open.spotify.com/track/1776aBLsaZC9jh1NtMeese"
     },
     {
       "added_at": "2022-03-02 15:44:04",
@@ -3865,36 +4025,36 @@
       "url": "https://open.spotify.com/track/2a4Q4Kp1teV3anzRCibIFm"
     },
     {
-      "added_at": "2022-03-24 15:39:09",
+      "added_at": "2023-07-31 04:12:20",
       "album": {
-        "name": "Sublime Peace",
-        "url": "https://open.spotify.com/album/7tSYyxx3MVNrafguhlTTMB"
+        "name": "Mountain Walk",
+        "url": "https://open.spotify.com/album/4TyDZP1DesZ0dtUVBvo7Li"
       },
       "artists": [
         {
-          "name": "Eternal Spring",
-          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
         }
       ],
-      "duration_ms": 62260,
-      "name": "Weekend Daylight",
-      "url": "https://open.spotify.com/track/6yGSMxrC8MB5mmsaKH3QaY"
+      "duration_ms": 61353,
+      "name": "Mountain Walk Arr. For Cello",
+      "url": "https://open.spotify.com/track/0iXOIuErB0K7uV3dTA3TaU"
     },
     {
-      "added_at": "2023-04-19 05:07:24",
+      "added_at": "2023-07-31 04:12:20",
       "album": {
-        "name": "Adrift Again Arr. For Cello And Harp",
-        "url": "https://open.spotify.com/album/76NDq2bsTsasCeWl7B0F9j"
+        "name": "Raining In The Evening",
+        "url": "https://open.spotify.com/album/54sBbLjB3MG9lKsYPCnazP"
       },
       "artists": [
         {
-          "name": "Harp Flow",
-          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
         }
       ],
-      "duration_ms": 61088,
-      "name": "Adrift Again Arr. For Cello And Harp",
-      "url": "https://open.spotify.com/track/41a0CU0Mx2ueFmuyEc2EFb"
+      "duration_ms": 60899,
+      "name": "Raining In The Evening",
+      "url": "https://open.spotify.com/track/2GXAXmLmpMEJnLbbOtGPge"
     },
     {
       "added_at": "2022-08-25 04:05:55",
@@ -3929,6 +4089,70 @@
       "url": "https://open.spotify.com/track/77hSDP9cLsu45qYRDl1IKQ"
     },
     {
+      "added_at": "2023-04-19 05:07:24",
+      "album": {
+        "name": "Adrift Again Arr. For Cello And Harp",
+        "url": "https://open.spotify.com/album/76NDq2bsTsasCeWl7B0F9j"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "duration_ms": 61088,
+      "name": "Adrift Again Arr. For Cello And Harp",
+      "url": "https://open.spotify.com/track/41a0CU0Mx2ueFmuyEc2EFb"
+    },
+    {
+      "added_at": "2023-05-14 05:42:30",
+      "album": {
+        "name": "Orange Flowers",
+        "url": "https://open.spotify.com/album/76jrprjJCFRNPyOO58Fdit"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "duration_ms": 62385,
+      "name": "Orange Flowers - Cello Version",
+      "url": "https://open.spotify.com/track/45ni7c0q8D3yliJGIB0JnR"
+    },
+    {
+      "added_at": "2022-10-12 13:33:04",
+      "album": {
+        "name": "Fall Moon",
+        "url": "https://open.spotify.com/album/1TKxRTwKcA4KDQ27upbdKe"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "duration_ms": 62619,
+      "name": "Fall Moon",
+      "url": "https://open.spotify.com/track/0AdQOxtRyMwMKOxS32RDhj"
+    },
+    {
+      "added_at": "2022-03-24 15:39:09",
+      "album": {
+        "name": "Sublime Peace",
+        "url": "https://open.spotify.com/album/7tSYyxx3MVNrafguhlTTMB"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "duration_ms": 62260,
+      "name": "Weekend Daylight",
+      "url": "https://open.spotify.com/track/6yGSMxrC8MB5mmsaKH3QaY"
+    },
+    {
       "added_at": "2022-08-04 13:52:54",
       "album": {
         "name": "Harp In My Dreams",
@@ -3959,70 +4183,6 @@
       "duration_ms": 61567,
       "name": "Summer Gratitude",
       "url": "https://open.spotify.com/track/4mXLufP5eOpNdihDYm44Zv"
-    },
-    {
-      "added_at": "2022-05-15 15:07:56",
-      "album": {
-        "name": "Calming Moments",
-        "url": "https://open.spotify.com/album/4yz3qOY8SkpbzyUarrx00Z"
-      },
-      "artists": [
-        {
-          "name": "Melody Lake",
-          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
-        }
-      ],
-      "duration_ms": 61475,
-      "name": "Gliding In Spring",
-      "url": "https://open.spotify.com/track/1PilpHZcm9by6JlyEUr6NN"
-    },
-    {
-      "added_at": "2022-08-25 04:05:55",
-      "album": {
-        "name": "Distant Lands",
-        "url": "https://open.spotify.com/album/0AoKBXSnhjaWSlg07h6RBC"
-      },
-      "artists": [
-        {
-          "name": "Slow Rising Hope",
-          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
-        }
-      ],
-      "duration_ms": 61374,
-      "name": "Velvet Melody",
-      "url": "https://open.spotify.com/track/5h3VE6nX6foQpEEjMn6z9C"
-    },
-    {
-      "added_at": "2023-04-19 05:04:21",
-      "album": {
-        "name": "Beige Sky Arr. For Cello And Felt Piano",
-        "url": "https://open.spotify.com/album/4uquIClJ9D5fxjIOp4SL7x"
-      },
-      "artists": [
-        {
-          "name": "Nature Dreams",
-          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
-        }
-      ],
-      "duration_ms": 60270,
-      "name": "Beige Sky Arr. For Cello And Felt Piano",
-      "url": "https://open.spotify.com/track/33UDvFEg5ulqlodZgc1yvB"
-    },
-    {
-      "added_at": "2022-02-24 19:27:59",
-      "album": {
-        "name": "Nostalgic Echoes",
-        "url": "https://open.spotify.com/album/0qB3myuWrSK1W6rXHwYX3k"
-      },
-      "artists": [
-        {
-          "name": "Open Blue Sky",
-          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
-        }
-      ],
-      "duration_ms": 61219,
-      "name": "Beyond The Forested Path",
-      "url": "https://open.spotify.com/track/7fE0RaRbH6Nmf7eHQTyNLV"
     },
     {
       "added_at": "2022-02-26 16:11:37",
@@ -4295,22 +4455,6 @@
       "duration_ms": 63059,
       "name": "Towards The Horizon",
       "url": "https://open.spotify.com/track/1cSEtnMkmpEF9fevZf7OXS"
-    },
-    {
-      "added_at": "2022-06-20 02:51:35",
-      "album": {
-        "name": "Grey Clouds",
-        "url": "https://open.spotify.com/album/6GilC9y7sgEg4tQFu8Gag6"
-      },
-      "artists": [
-        {
-          "name": "Cello Soul",
-          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
-        }
-      ],
-      "duration_ms": 60263,
-      "name": "Grey Clouds - Piano Version",
-      "url": "https://open.spotify.com/track/7g67iqreB5QMcEqss06Nfm"
     },
     {
       "added_at": "2023-04-19 05:06:04",
@@ -15535,22 +15679,6 @@
     {
       "added_at": "2022-01-12 04:14:54",
       "album": {
-        "name": "Europe",
-        "url": "https://open.spotify.com/album/5CS4a885mlqSehkHBnhIEq"
-      },
-      "artists": [
-        {
-          "name": "Eyolf",
-          "url": "https://open.spotify.com/artist/4Gdv2m4NbCrIt4j6zasrx8"
-        }
-      ],
-      "duration_ms": 166973,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/6Gh4KSfytX5vGYeSPY0nhf"
-    },
-    {
-      "added_at": "2022-01-12 04:14:54",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5lbmZfRNgnfIQAROgiqAkL"
       },
@@ -15631,26 +15759,6 @@
     {
       "added_at": "2022-01-12 04:14:54",
       "album": {
-        "name": "Memoir Collections II - Dream Journal",
-        "url": "https://open.spotify.com/album/7uEPmMVoqbXy8JJ6GTDHFM"
-      },
-      "artists": [
-        {
-          "name": "Kyle McEvoy",
-          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
-        },
-        {
-          "name": "Sunshine Recorder",
-          "url": "https://open.spotify.com/artist/0C7vbfD3UtshkAi5BjrpA8"
-        }
-      ],
-      "duration_ms": 159196,
-      "name": "Everything I Lost",
-      "url": "https://open.spotify.com/track/7aKEitPskoIINo32WUd7cq"
-    },
-    {
-      "added_at": "2022-01-12 04:14:54",
-      "album": {
         "name": "In the Dreaming Hour",
         "url": "https://open.spotify.com/album/5ek8x8VqwdnxHjuvEZqlP7"
       },
@@ -15695,22 +15803,6 @@
       "duration_ms": 94494,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/2MXxsq4Wb6g8Apn5ghzWvA"
-    },
-    {
-      "added_at": "2022-01-12 04:14:54",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2wsQBSfWogyFPyoVKhaGLv"
-      },
-      "artists": [
-        {
-          "name": "Sarah Watson",
-          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
-        }
-      ],
-      "duration_ms": 118047,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/4kx6sM6M0y4diavB8rCEEm"
     },
     {
       "added_at": "2022-01-12 04:14:54",

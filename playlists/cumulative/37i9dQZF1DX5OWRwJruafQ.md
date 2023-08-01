@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Nseeb
 
-176 songs - 8 hr 31 min
+177 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/track/1KmyApvwFh2hlka9tRtOAQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Jeona Maurh Te Saathi \(From "Maurh"\)](https://open.spotify.com/album/4EiQxvP9hSNKZOv77dJetJ) | 3:22 | 2023-06-13 |  |
 | [Jhoonte](https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Jhoonte](https://open.spotify.com/album/0MXIzksYo12EZKYQiGC8KT) | 2:30 | 2023-04-03 | 2023-04-21 |
 | [Jithon Marji Puchli](https://open.spotify.com/track/3CUCtrH1gxtvdlHVBoS2A2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Luxury](https://open.spotify.com/album/2FyyQsfCgLxlWK2etDRUle) | 4:23 | 2023-06-13 |  |
+| [JOURNEY](https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:54 | 2023-07-31 |  |
 | [Jungle](https://open.spotify.com/track/5PBoyMck1mdc6zKeHQjeBS) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Jungle](https://open.spotify.com/album/14pOspmSYB2qjQ7FE2xMxd) | 3:00 | 2023-05-26 | 2023-06-10 |
 | [Kalakaar](https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Kalakaar](https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Kheti](https://open.spotify.com/track/1hMyjH2oMJFxvSCCrPZZJu) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Kheti](https://open.spotify.com/album/3e3Q7c1GmicU3kxmU9WWg8) | 2:15 | 2023-06-09 | 2023-07-13 |

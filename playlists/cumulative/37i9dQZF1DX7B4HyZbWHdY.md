@@ -2,7 +2,7 @@
 
 ### [Pinay Voices](https://open.spotify.com/playlist/37i9dQZF1DX7B4HyZbWHdY)
 
-> Babae ka, hindi babae lang\. Celebrate Pinay power by listening here\. Updated weekly.
+> Babae ka, hindi babae lang\. Celebrate Pinay power by listening here.
 
 0 song - 0 sec
 

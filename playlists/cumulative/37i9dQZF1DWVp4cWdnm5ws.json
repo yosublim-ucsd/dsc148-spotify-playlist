@@ -1155,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft"
+    },
+    {
+      "album": {
         "name": "Iyong Iyo",
         "url": "https://open.spotify.com/album/6Pa87VouOnvJGvSLYdAevR"
       },

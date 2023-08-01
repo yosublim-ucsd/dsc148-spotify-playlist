@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ?si=odFUv1B\-S3a0z\_Tz\_8gQbg">Bla$ta</a>
+> California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et?si=1e43029707cf49e2">Caleborate</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,621 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,631 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 53 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
 | 54 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 |
 
-Snapshot ID: `MCwzZmZmOTdjZGRlMjMxYmI2NGQyMGE3NDYzMzg5NmMzMTE5MTY1Yjhi`
+Snapshot ID: `MCxiMTRjODA0NGNiNzFiM2ZkYzAxYTkyYzNiNmY1MWY4NDg2NDc0MWRh`

@@ -1591,6 +1591,28 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/5cjMzzhgSH3CkeSE9aazF5"
+      },
+      "artists": [
+        {
+          "name": "Takekuni Hirayoshi",
+          "url": "https://open.spotify.com/artist/5bgIwYj598CDQ82o6M7KJa"
+        },
+        {
+          "name": "Asuka Sakuma",
+          "url": "https://open.spotify.com/artist/5Sa1kqomWS9VTagD3Tbq3B"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Rainbow Rhythm: No. 19, Summer Night Habanera",
+      "url": "https://open.spotify.com/track/6H3JTn9qJi7mwX4BjqUXeG"
+    },
+    {
+      "album": {
         "name": "\u590f Summer",
         "url": "https://open.spotify.com/album/20Qz4HInbnpnGX9TLix8Vm"
       },
@@ -1606,7 +1628,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-01",
       "duration_ms": 199800,
       "name": "Rainbow Rhythm: No. 19, Summer Night Habanera",
       "url": "https://open.spotify.com/track/4zcKa37aS1Zz4899qtXwvj"

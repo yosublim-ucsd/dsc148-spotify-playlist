@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: LANA + Awich + JP THE WAVY \*👉 <a href="https://spice.eplus.jp/articles/320527?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,042 likes - 81 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,068 likes - 81 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 80 | [ボクらの夏休み戦争](https://open.spotify.com/track/0xbD8MeCmUqSzHPGsOi2gw) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ボクらの夏休み戦争](https://open.spotify.com/album/6pM7HAMeTlwCgq9AVEwF28) | 3:28 |
 | 81 | [DURARA](https://open.spotify.com/track/5sjMYTyQnrDixy5R19SYjN) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [ハッピーエンドを始めたい](https://open.spotify.com/album/1jGRkHKkoYkHjxt3cBWD9C) | 3:13 |
 
-Snapshot ID: `MCxlOTQwNWRjOGNmYzBjYzVlYzJmNjM0OWQ4ZmJlYTYzMjMyNWIzNDIw`
+Snapshot ID: `MCxiYjcyOTVmNTQ0NWU1NjE5NzhhYWQ1ZGRkNDAzNTk3YjFlMzA0YWVl`
