@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 63232,
+  "num_followers": 63262,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQxZGNmOTdmNTJmNWM1Y2E1YjAwZmE5NDgzOWRlZjRlOTc5NzVl",
+  "snapshot_id": "MCxjNjhjOWRkY2VkOGRlYWZkYmI1OTA5ZTc4ODk3ODQ0Mjc2YmUzNTRm",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -127,18 +127,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mientras quede aliento",
-        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
+        "name": "Monumentos",
+        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
       },
       "artists": [
         {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
         }
       ],
-      "duration_ms": 193086,
-      "name": "Mientras quede aliento",
-      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
+      "duration_ms": 187860,
+      "name": "Cien Inviernos",
+      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -159,18 +159,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Monumentos",
-        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+        "name": "Mientras quede aliento",
+        "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
         }
       ],
-      "duration_ms": 187860,
-      "name": "Cien Inviernos",
-      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
+      "duration_ms": 193086,
+      "name": "Mientras quede aliento",
+      "url": "https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Te Vale Madre",
-        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Te Vale Madre",
-      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 223960,
       "name": "La B\u00fasqueda del Tiempo Perdido",
       "url": "https://open.spotify.com/track/7FNXiAE7xZEKiuD8yirrrG"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Te Vale Madre",
+        "url": "https://open.spotify.com/album/34d0ddHeC8SVYkgTXiqbP7"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Te Vale Madre",
+      "url": "https://open.spotify.com/track/1GNmyCGNu4SYBzaHoJvxkz"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Entre La Guerra Y El Amor",
-        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
-      },
-      "artists": [
-        {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Quemando Cartas",
-      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Nadie Me Entiende",
         "url": "https://open.spotify.com/album/0WF1FMpsCqNmW2zJyzmLDY"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 180000,
       "name": "Nadie Me Entiende",
       "url": "https://open.spotify.com/track/33RTbvUoM6smHeTI2v6PrI"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Entre La Guerra Y El Amor",
+        "url": "https://open.spotify.com/album/23iVqZRtuSKBHAfqtT8lCV"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Quemando Cartas",
+      "url": "https://open.spotify.com/track/2cv6qKNrkTFNVHuzzOH5wg"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mejores Tiempos",
-        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
-      },
-      "artists": [
-        {
-          "name": "Say Ocean",
-          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
-        }
-      ],
-      "duration_ms": 252782,
-      "name": "Tennessecito",
-      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Rompe Mi Mente",
-        "url": "https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT"
+        "name": "Mejores Tiempos",
+        "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
       },
       "artists": [
         {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Rompe Mi Mente",
-      "url": "https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI"
+      "duration_ms": 252782,
+      "name": "Tennessecito",
+      "url": "https://open.spotify.com/track/2BPwqGaBZd9gYb8KKGzvNR"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -563,6 +547,22 @@
       "duration_ms": 216296,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Rompe Mi Mente",
+        "url": "https://open.spotify.com/album/0lvOw8x8KvSgARM5U8ZtLT"
+      },
+      "artists": [
+        {
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Rompe Mi Mente",
+      "url": "https://open.spotify.com/track/08FsQrACvV8m6qot7Uv2wI"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Chacach\u00e1 del Tren",
-        "url": "https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Chacach\u00e1 del Tren",
-      "url": "https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Lugar Especial",
         "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 204168,
       "name": "Lugar Especial",
       "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Chacach\u00e1 del Tren",
+        "url": "https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Chacach\u00e1 del Tren",
+      "url": "https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Nunca Me Voy a Ir",
         "url": "https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 151829,
       "name": "Nunca Me Voy a Ir",
       "url": "https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2023-07-28 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,389 likes - 175 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,525 likes - 175 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 150 | [Why Can't I .](https://open.spotify.com/track/0QYRYJfHIDbRUiJE5R1X41) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.two](https://open.spotify.com/album/6JMCMfH2YGYMphPt3jUxEt) | 2:47 |
 | 151 | [Thinking About You](https://open.spotify.com/track/3PARwjWtDcHivLn4CMDtLc) | [Joël Lobban](https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik) | [Thinking About You](https://open.spotify.com/album/4NelTCJY28m6T3AVPXWJ5G) | 3:30 |
 | 152 | [PUSHING BUTTONS](https://open.spotify.com/track/1kz6btgXpNRIYYGxHcSjHq) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [PUSHING BUTTONS](https://open.spotify.com/album/4VrcREGPUFiJxOjyJqaYGT) | 2:52 |
-| 153 | [Trap Smarter](https://open.spotify.com/track/2ijWuJRQXSJBhceabkVaN5) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/0HIkH4CAMzpCtIpQ6LtvvM) | 1:34 |
+| 153 | [Trap Smarter](https://open.spotify.com/track/1EV6tUI8rtDYgszgnDVLRc) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/2FhgHXnunQ49NV0Ikf0sEB) | 1:34 |
 | 154 | [Man on Fire](https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Man on Fire](https://open.spotify.com/album/14f7KXWYCNHaOMVOdrMRAp) | 2:24 |
 | 155 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 | 156 | [PINK MARMALADE](https://open.spotify.com/track/4OP62iYt8lQJTn09BpKJnv) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:21 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Body Language](https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Body Language](https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3) | 3:23 |
 | 175 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 
-Snapshot ID: `MCwzOTdiMjI0OWFiYTI5OTkwM2U0Mjc5YzdmZjQ0MDgyNmMwMTYxNzkx`
+Snapshot ID: `MCxlZTcxMDNkYjQ4YmQ3YzM3ZmUyZDVkNDVjZGNiNmRkMDc3NGU3OTA5`

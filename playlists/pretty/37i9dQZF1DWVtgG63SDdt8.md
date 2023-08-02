@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,915 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,079 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 80 | [The Joy \- Live](https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [The Joy \(Live\)](https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO) | 7:23 |
 | 81 | [Worthy Of It All \- Live](https://open.spotify.com/track/4u0U5cqivkUYd4CvtfNJMo) | [Village Lights](https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Ike Ndolo](https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W), [Ricky Vazquez](https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb) | [Worthy Of It All \(Live\)](https://open.spotify.com/album/4ifFOfWSQeV4rtPkGi2JGk) | 6:33 |
 | 82 | [Satisfied \- Live](https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Sing As One \(Live\)](https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6) | 7:43 |
-| 83 | [Hidden \- Live](https://open.spotify.com/track/6hGGURGblcres1uOODPgct) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hidden \(Live\)](https://open.spotify.com/album/281wBwWnqnlOVGFIzEFJDD) | 5:36 |
+| 83 | [Hidden \- Live](https://open.spotify.com/track/69PASKo3OEw3JngHIYNKBi) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Life Laid Down \(Live\)](https://open.spotify.com/album/149pPKRjcXR4QPgHIkYvqL) | 5:36 |
 | 84 | [Faithful Through It All](https://open.spotify.com/track/2wSjAfeUQUq0WqiBPOXKj0) | [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5), [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq), [Hailey Hibbard](https://open.spotify.com/artist/0ESMvOE8xepPgfkYXhCgVU) | [Faithful Through It All](https://open.spotify.com/album/2UM3NyAwlNrpJziYPeVpiq) | 4:57 |
 | 85 | [Wherever You Are / Better is One Day \- Live](https://open.spotify.com/track/3gocubxTbnhg2LknDqksYi) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Wherever You Are / Better is One Day \(Live\)](https://open.spotify.com/album/6fpVDH860aHfnmjLcNCmGh) | 7:27 |
 | 86 | [Oh My Soul](https://open.spotify.com/track/75vqj6ICaWK9nSPpEyh6Sp) | [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Harley Rowell](https://open.spotify.com/artist/5OhHnCKkkRB39Qhh8JRyPB) | [Oh My Soul](https://open.spotify.com/album/1x2rEMjKKVNynwbgfLTm4R) | 4:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [YOU'RE MINE](https://open.spotify.com/track/0ika43Bh4ZerhBKWqJGi0Y) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [YOU'RE MINE](https://open.spotify.com/album/2Va2mNp8nQ5GWBqQSN9yO9) | 2:40 |
 | 100 | [boys don't cry.](https://open.spotify.com/track/1LgWU5tcPIc9prUvouAL7k) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [boys don't cry.](https://open.spotify.com/album/17Unz9MVuW4hYOoriIzvoy) | 2:30 |
 
-Snapshot ID: `MCwzNmY5M2I4ODI5MzNlNGNlNWZhNjBmNTRlZmVlYjUzZjI4ODU3NjMz`
+Snapshot ID: `MCwzYmIxMTBhOTE2MmJlZTAyMjdmZmU5ZjZiYjc1MDU1OGI3OGIzYzBl`

@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 704760,
       "name": "4 Impromptus, Op. 142, D. 935: No. 1 in F Minor: Allegro moderato",
       "url": "https://open.spotify.com/track/6R5k9X8LwE1A5N8ZvjKHCW"
@@ -2232,6 +2232,24 @@
       "duration_ms": 161219,
       "name": "Family Photograph - \u300e\u685c\u8272\u306e\u98a8\u304c\u54b2\u304f\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a",
       "url": "https://open.spotify.com/track/0zQ4P8EjgI41B1vXgE1wQp"
+    },
+    {
+      "album": {
+        "name": "Pablo Haiku",
+        "url": "https://open.spotify.com/album/6EgN9TDbeDlf3wN5um9P4r"
+      },
+      "artists": [
+        {
+          "name": "Pablo Haiku",
+          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "far away place",
+      "url": "https://open.spotify.com/track/164DPhlZ73VjdlU68zFxzJ"
     },
     {
       "album": {
@@ -5271,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/3e941zH5ytkUXptWZfqysB"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210108,
+      "name": "Parallel",
+      "url": "https://open.spotify.com/track/1k60VESPMHQdbYYf8xNJ3x"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/3HwldKeTaesvpyA8V56f4b"
       },
@@ -5864,7 +5900,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 177635,
       "name": "Reflexion",
       "url": "https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn"
@@ -6678,6 +6714,24 @@
       "duration_ms": 277462,
       "name": "Sou",
       "url": "https://open.spotify.com/track/53Rfq2NlPCkfi25SrnjZFq"
+    },
+    {
+      "album": {
+        "name": "Soul Capturer",
+        "url": "https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344318,
+      "name": "Soul Capturer - Single Version",
+      "url": "https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3"
     },
     {
       "album": {
@@ -8072,7 +8126,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 238746,
       "name": "\u300c\u7518\u304d\u6b7b\u3088\u3001\u6765\u305f\u308c\u300d\u30cf\u77ed\u8abf BWV478 (\u30d0\u30a6\u30a2\u30fc\u7de8)",
       "url": "https://open.spotify.com/track/3D5p7JaRDVjBTF11oWd1Pl"
@@ -8430,7 +8484,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 206453,
       "name": "\u30b0\u30ce\u30b7\u30a8\u30f3\u30cc \u7b2c1\u756a",
       "url": "https://open.spotify.com/track/4T34d1GrClJBKvSFSDiULv"
@@ -9406,6 +9460,36 @@
       "duration_ms": 329159,
       "name": "\u77f3\u306e\u6559\u4f1a - \u96e8\u97f3\u306e\u4e8c\u91cd\u594f",
       "url": "https://open.spotify.com/track/65SWWSNv8prKy3UCF4oJLX"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u547c\u3093\u3060 \u590f\u306e\u7a7a\u306e\u3088\u3046\u306a (feat. \u517c\u677e\u8846, \u9808\u539f\u674f, \u95a2\u53e3\u5c06\u53f2)",
+        "url": "https://open.spotify.com/album/7k9LWhjXNPB6g2Q1cRU2Im"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u6728\u5927\u4e08\u592b",
+          "url": "https://open.spotify.com/artist/4tkM95cPiJfdqAfWfvxU60"
+        },
+        {
+          "name": "\u517c\u677e\u8846",
+          "url": "https://open.spotify.com/artist/6I0MFT1X63HMJuIEDedAdf"
+        },
+        {
+          "name": "\u9808\u539f\u674f",
+          "url": "https://open.spotify.com/artist/0ekqoA1GGFwC9lalszdIJR"
+        },
+        {
+          "name": "\u95a2\u53e3\u5c06\u53f2",
+          "url": "https://open.spotify.com/artist/5Q5qAs7kOYA3gloFl5gAzs"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279487,
+      "name": "\u79c1\u3092\u547c\u3093\u3060 \u590f\u306e\u7a7a\u306e\u3088\u3046\u306a - feat. \u517c\u677e\u8846, \u9808\u539f\u674f, \u95a2\u53e3\u5c06\u53f2",
+      "url": "https://open.spotify.com/track/5dQ8lzqlmJedzovrH8WsLq"
     },
     {
       "album": {

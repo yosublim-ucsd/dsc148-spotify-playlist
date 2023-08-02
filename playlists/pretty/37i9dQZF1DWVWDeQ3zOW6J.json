@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 36446,
+  "num_followers": 36478,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDZmNmY2YmM1ZGU5OGUwYzgyNDNlYWE3MGNmMzE4MmM3YTZkYTFh",
+  "snapshot_id": "MCw5YWRjMTBiOGVlOWYzYmNlYzM3ZTk2ZGNlNDNlNWIxMWRlNTU1OWU3",
   "tracks": [
     {
       "added_at": "2023-02-13 22:55:50",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2023-02-13 22:55:50",
       "album": {
-        "name": "Az\u00facar pa' Ti",
-        "url": "https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT"
+        "name": "La Verdad de Joe Arroyo",
+        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 569240,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM"
+      "duration_ms": 270626,
+      "name": "Yamulemau",
+      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
     }
   ],
   "unique_name": "Cocina con Salsa",

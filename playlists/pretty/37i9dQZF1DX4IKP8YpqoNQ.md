@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,573 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,582 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 36 | [Save Room \- Live from Spotify Milan](https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 3:25 |
 | 37 | [Apple Tree](https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 4:04 |
 | 38 | [The Sweetest Taboo \- Live](https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF) | 6:01 |
-| 39 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:44 |
-| 40 | [You Are The Sunshine Of My Life \- Live/1995](https://open.spotify.com/track/6KVDNjUSJc035LgkrPaGSD) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 2:21 |
+| 39 | [You Are The Sunshine Of My Life \- Live/1995](https://open.spotify.com/track/6KVDNjUSJc035LgkrPaGSD) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 2:21 |
+| 40 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:44 |
 | 41 | [I Remember \- Live](https://open.spotify.com/track/7vXnfKmzcCXJgRei61vmIc) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 3:46 |
 | 42 | [For My Friend \- Live at Carnegie Hall, New York, NY \- October 1972](https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Bill Withers Live At Carnegie Hall](https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx) | 3:01 |
 | 43 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 61 | [Street Life \- Live](https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 6:06 |
 | 62 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 |
 | 63 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
-| 64 | [I Wish \- Live/1995](https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 4:06 |
-| 65 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
+| 64 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 |
+| 65 | [I Wish \- Live/1995](https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Natural Wonder](https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl) | 4:06 |
 | 66 | [Little Ghetto Boy \(Radio Edit\)](https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 3:56 |
 | 67 | [Ex\-Factor \- BBC 1Xtra Live Lounge Recording](https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Ex\-Factor \(BBC 1Xtra Live Lounge Recording\)](https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu) | 4:13 |
 | 68 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 |
 | 100 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
 
-Snapshot ID: `MCw1ZGM2YzI5YmY4ZDAwMGUyOTIwZDBlNzdiZWMzYjJhMWViMGExMTMx`
+Snapshot ID: `MCw5MWEzZTEyNDRlMjBkNmNiNzQ3MmRlZGRjZDM5YTA3ZWUxZDEwMmRh`

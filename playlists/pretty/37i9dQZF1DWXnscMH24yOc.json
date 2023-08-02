@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 438794,
+  "num_followers": 438882,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGU0NTg0NDMzM2E1YTAwY2I2NGY0NjgwODQ5MzAwMmMwNDRjMjFj",
+  "snapshot_id": "MCwxOTNlZTY5MjIxYWM0YjY5Yjc3ZmZjNmNiMDRjM2VhNDRlMWJkZmYy",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "duration_ms": 176497,
+      "name": "It's Not Living (If It's Not with You)",
+      "url": "https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Jillette Johnson | OurVinyl Sessions",
         "url": "https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 254640,
       "name": "Champagne Supernova (OurVinyl Sessions)",
       "url": "https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        }
-      ],
-      "duration_ms": 176497,
-      "name": "It's Not Living (If It's Not with You)",
-      "url": "https://open.spotify.com/track/0rZLcXPM6ozJK7BF28F9mK"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 163342,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Siamese Dream",
-        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 255633,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
+      "duration_ms": 163342,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1119,6 +1103,22 @@
       "duration_ms": 170399,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/7KqIH50NWpcqdZ2768gxiy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Siamese Dream",
+        "url": "https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 255633,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Cats On Trees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
-      },
-      "artists": [
-        {
-          "name": "Cats On Trees",
-          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Love You Like a Love Song",
-      "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "The Fifth",
         "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 236710,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Cats On Trees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
+      },
+      "artists": [
+        {
+          "name": "Cats On Trees",
+          "url": "https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Love You Like a Love Song",
+      "url": "https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Black Hole Sun",
-        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
-      },
-      "artists": [
-        {
-          "name": "Nouela",
-          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
-        }
-      ],
-      "duration_ms": 275966,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "It Must Have Been Love",
         "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 247426,
       "name": "It Must Have Been Love",
       "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Black Hole Sun",
+        "url": "https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm"
+      },
+      "artists": [
+        {
+          "name": "Nouela",
+          "url": "https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30"
+        }
+      ],
+      "duration_ms": 275966,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 282744,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 282744,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
     },
     {
       "added_at": "2022-03-22 14:40:29",

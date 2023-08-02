@@ -4,7 +4,7 @@
 
 > Home is where the main stage is\. 💗
 
-474 songs - 1 day 0 hr 43 min
+475 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 | 2022-06-21 | 2022-08-06 |
 | [Believer](https://open.spotify.com/track/7IiLh65OUiHNWTFXpsAzY1) | [Jac & Harri](https://open.spotify.com/artist/3o2JkvV32a6n4Xwf585pmT), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Sander Nijbroek](https://open.spotify.com/artist/6zakne0mu9dWkzLZI34YWR) | [Believer](https://open.spotify.com/album/0ce9P1lX3Pm4FwiZhP7YrA) | 2:49 | 2021-07-23 | 2022-04-05 |
 | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/track/2gZwBmkSmsVfEPFWGuWTDk) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Best Is Yet To Come \(with Kyle Reynolds\)](https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx) | 3:35 | 2021-06-04 | 2023-03-11 |
+| [Best Of Me](https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Best Of Me](https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v) | 2:26 | 2023-07-28 |  |
 | [Better Now](https://open.spotify.com/track/0iF6QJbS6FRPokpyVHVkKt) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Better Now](https://open.spotify.com/album/1sxLfxxH97kfONHW76WRgL) | 3:01 | 2022-10-28 | 2023-02-04 |
 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 | 2023-02-24 |  |
 | [Bifrost](https://open.spotify.com/track/4B930MKVgJdW93LVq5xeBl) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Bifrost](https://open.spotify.com/album/0Phjy3NVF9RjzqPBA59y31) | 2:35 | 2022-10-07 | 2022-12-06 |
@@ -106,7 +107,7 @@
 | [Dreams Come True](https://open.spotify.com/track/6OgK0QV9SlIIrzykt39S49) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Dreams Come True](https://open.spotify.com/album/6aR6l10Qlm7WjEfoQgEVV3) | 2:39 | 2023-01-13 | 2023-03-04 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-23 |  |
 | [Drop That Low \(When I Dip\)](https://open.spotify.com/track/1PuzhB7VJ2ubpmAEvQj7C6) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Drop That Low \(When I Dip\)](https://open.spotify.com/album/4yA89lAUXPc2KiWXHEfHNj) | 2:33 | 2023-02-17 |  |
-| [Dumb](https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Dumb](https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz) | 2:29 | 2023-07-28 |  |
+| [Dumb](https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Dumb](https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz) | 2:29 | 2023-07-28 | 2023-08-02 |
 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-02 |  |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-03-18 | 2022-04-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Fridayy",
-  "num_followers": 42258,
+  "num_followers": 42275,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJkMTgyMjU4OGM2Yjk4MmY4ODQ4MmI1ZWZhMTllOWFkMTEwNGJh",
+  "snapshot_id": "MCw3ZDViZWY1YjJmZGM1ZGYyMjFiMGY4ZDU4ZTY3NWIxNjllNDM5OGQy",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Out The Way",
-        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 155414,
-      "name": "Out The Way",
-      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Outside Freestyle",
@@ -843,6 +827,22 @@
       "duration_ms": 170181,
       "name": "Outside Freestyle",
       "url": "https://open.spotify.com/track/19fuiBJWyDl0vC2SZcxVXt"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Out The Way",
+        "url": "https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 155414,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3"
     },
     {
       "added_at": "2023-06-16 05:24:07",
@@ -973,38 +973,6 @@
       "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
-      },
-      "artists": [
-        {
-          "name": "Liyah Katana",
-          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
-        }
-      ],
-      "duration_ms": 153386,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Spin Again",
-        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
-      },
-      "artists": [
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        }
-      ],
-      "duration_ms": 248872,
-      "name": "Spin Again",
-      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Spin the Block",
@@ -1035,6 +1003,38 @@
       "duration_ms": 195498,
       "name": "Nuclear Reactor",
       "url": "https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Spin Again",
+        "url": "https://open.spotify.com/album/4gZVLOdSn4kqeJ8fInPZdh"
+      },
+      "artists": [
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "duration_ms": 248872,
+      "name": "Spin Again",
+      "url": "https://open.spotify.com/track/6HiEe3hSKazKZOscOZjcyN"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/2ZibN1oYDxhohvvdKuhb93"
+      },
+      "artists": [
+        {
+          "name": "Liyah Katana",
+          "url": "https://open.spotify.com/artist/4NoMOvHrwo6D39dNV6ntzu"
+        }
+      ],
+      "duration_ms": 153386,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2KbtgZpqmeAbjBDuW5HtDM"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1281,26 +1281,6 @@
       "url": "https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj"
     },
     {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Indecisive (feat. Eric Bellinger)",
-        "url": "https://open.spotify.com/album/6BoP06yDsAaqNqiQwBbkcp"
-      },
-      "artists": [
-        {
-          "name": "Nieman J",
-          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 219259,
-      "name": "Indecisive (feat. Eric Bellinger)",
-      "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Right My Wrongs",
@@ -1331,6 +1311,26 @@
       "duration_ms": 201802,
       "name": "Sock It 2 Me",
       "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Indecisive (feat. Eric Bellinger)",
+        "url": "https://open.spotify.com/album/6BoP06yDsAaqNqiQwBbkcp"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "Indecisive (feat. Eric Bellinger)",
+      "url": "https://open.spotify.com/track/4LjbpDmui3Br0VDsL1oRuH"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1425,6 +1425,22 @@
       "url": "https://open.spotify.com/track/6KkeXDWP0gvoJkouKmF6De"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Sin on Purpose",
+        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Sin on Purpose",
+      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "212",
@@ -1463,22 +1479,6 @@
       "duration_ms": 205161,
       "name": "Gotta Have Faith",
       "url": "https://open.spotify.com/track/13i0JmpLVk1mzj8lGAkOOo"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Sin on Purpose",
-        "url": "https://open.spotify.com/album/0pX2PQOd7EWLwLvFYMuR9G"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Sin on Purpose",
-      "url": "https://open.spotify.com/track/49kfmYktbmzmjrZ6dhiVo8"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3"
     },
     {
-      "added_at": "2023-06-16 06:01:57",
-      "album": {
-        "name": "DO BAD",
-        "url": "https://open.spotify.com/album/4jZ3g9IaxnPQEaiBmlHzZh"
-      },
-      "artists": [
-        {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
-        }
-      ],
-      "duration_ms": 239230,
-      "name": "DO BAD",
-      "url": "https://open.spotify.com/track/56yqjeadB7CbECmSXWIXKw"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "Thanks 4 Nothing",
@@ -1631,6 +1615,22 @@
       "duration_ms": 149020,
       "name": "New Nigga",
       "url": "https://open.spotify.com/track/03sBdwtbA0t5mGOcqHxBXB"
+    },
+    {
+      "added_at": "2023-06-16 06:01:57",
+      "album": {
+        "name": "DO BAD",
+        "url": "https://open.spotify.com/album/4jZ3g9IaxnPQEaiBmlHzZh"
+      },
+      "artists": [
+        {
+          "name": "Asiahn",
+          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+        }
+      ],
+      "duration_ms": 239230,
+      "name": "DO BAD",
+      "url": "https://open.spotify.com/track/56yqjeadB7CbECmSXWIXKw"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1685,6 +1685,22 @@
       "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/4LLnPRmrfGfHRCkXzsWDJL"
+      },
+      "artists": [
+        {
+          "name": "Buto",
+          "url": "https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/7buqGYXBMa9fO7st8ITboc"
+    },
+    {
       "added_at": "2023-05-05 04:18:58",
       "album": {
         "name": "Maddest Hoes",
@@ -1735,22 +1751,6 @@
       "duration_ms": 177371,
       "name": "Scorpio Moon",
       "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
-    },
-    {
-      "added_at": "2023-06-16 05:24:07",
-      "album": {
-        "name": "SAFE & Sound",
-        "url": "https://open.spotify.com/album/0HIkH4CAMzpCtIpQ6LtvvM"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 94891,
-      "name": "Trap Smarter",
-      "url": "https://open.spotify.com/track/2ijWuJRQXSJBhceabkVaN5"
     }
   ],
   "unique_name": "Some Kinda Way",

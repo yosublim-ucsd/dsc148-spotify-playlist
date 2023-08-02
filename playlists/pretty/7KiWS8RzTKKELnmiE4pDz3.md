@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 212 songs - 9 hr 45 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 213 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,5 +220,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 210 | [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 |
 | 211 | [4GSELLER!](https://open.spotify.com/track/1kUqWeF4LWFS2yKXUPxOr8) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [4GSELLER!](https://open.spotify.com/album/3hkPn4MduPqqldE5adcmHA) | 2:33 |
 | 212 | [Nine Nine](https://open.spotify.com/track/6dIcZXPPB4shRDs0Wp7LGG) | [cwthegoat](https://open.spotify.com/artist/65AQe4TnExHTN7oLAuIMQu) | [Nine Nine](https://open.spotify.com/album/4ozndrtOgBu4ixCdF8PcWm) | 2:33 |
+| 213 | [Die Trying](https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:33 |
 
-Snapshot ID: `NzA3MixjMGFkNmZhNzI5MTM0N2ZjMDYxOGJiZjk2MzcyOWIzMDczZGNkNmMz`
+Snapshot ID: `NzA3MyxiNDMyODBlZjExODNhNThiOWExNDA1OGQyOGJhMTc2MGYxZGFiODIx`

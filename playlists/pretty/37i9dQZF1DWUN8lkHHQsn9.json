@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Zamilska",
-  "num_followers": 5276,
+  "num_followers": 5277,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5",
+  "snapshot_id": "MCxlMDY2NzczYjBlYzIzNGY4OTAwMGU3Nzg2MTVkMzNkNDE5MGYzNTU5",
   "tracks": [
     {
       "added_at": "2023-07-10 22:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "\u015awi\u0119ta Betsy",
-        "url": "https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B"
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
         }
       ],
-      "duration_ms": 169122,
-      "name": "\u015awi\u0119ta Betsy",
-      "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"
+      "duration_ms": 181823,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+        "name": "\u015awi\u0119ta Betsy",
+        "url": "https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B"
       },
       "artists": [
         {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+      "duration_ms": 169122,
+      "name": "\u015awi\u0119ta Betsy",
+      "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -455,18 +455,26 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "49 Groszy",
-        "url": "https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66"
+        "name": "Poczuj Moj\u0105 Magi\u0119",
+        "url": "https://open.spotify.com/album/7DhvmxSAbN3vJuddh0V0o2"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+        },
+        {
+          "name": "H8",
+          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
         }
       ],
-      "duration_ms": 140000,
-      "name": "49 Groszy",
-      "url": "https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q"
+      "duration_ms": 199593,
+      "name": "Poczuj Moj\u0105 Magi\u0119",
+      "url": "https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -507,6 +515,22 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
+        "name": "49 Groszy",
+        "url": "https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "49 Groszy",
+      "url": "https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
         "name": "Spina",
         "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 213921,
       "name": "Spina",
       "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
-        "name": "Poczuj Moj\u0105 Magi\u0119",
-        "url": "https://open.spotify.com/album/7DhvmxSAbN3vJuddh0V0o2"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
-        },
-        {
-          "name": "H8",
-          "url": "https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO"
-        }
-      ],
-      "duration_ms": 199593,
-      "name": "Poczuj Moj\u0105 Magi\u0119",
-      "url": "https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "OLIMP",
-        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 192557,
-      "name": "Tamto Lato",
-      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "Dziewczynka Tatusia",
         "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Le$bijka",
-        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+        "name": "OLIMP",
+        "url": "https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 169759,
-      "name": "Le$bijka",
-      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
+      "duration_ms": 192557,
+      "name": "Tamto Lato",
+      "url": "https://open.spotify.com/track/6EEZGOaQrpIA8ItnjkxfFc"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 211555,
       "name": "Mi\u0142o Ci\u0119 Pozna\u0107",
       "url": "https://open.spotify.com/track/4ayliH4aYbnJf4MpXvsmlT"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Le$bijka",
+        "url": "https://open.spotify.com/album/291wHa3fGrPsf32C8edkM2"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169759,
+      "name": "Le$bijka",
+      "url": "https://open.spotify.com/track/4YYk0IrDqrlEse7TB1RP8D"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Ch\u0142opaki z BMW",
-        "url": "https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 170603,
-      "name": "Ch\u0142opaki z BMW",
-      "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "OH WOW",
         "url": "https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 174000,
       "name": "OH WOW",
       "url": "https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Ch\u0142opaki z BMW",
+        "url": "https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 170603,
+      "name": "Ch\u0142opaki z BMW",
+      "url": "https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Jeszcze mam serce",
-        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "Jeszcze mam serce",
-      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "Glitterball",
         "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
       },
@@ -899,50 +883,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+        "name": "Jeszcze mam serce",
+        "url": "https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
-        "name": "BSoD (Bluescreen)",
-        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "BSoD (Bluescreen)",
-      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
-        "name": "Magister",
-        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 160712,
-      "name": "Evangelion",
-      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
+      "duration_ms": 251216,
+      "name": "Jeszcze mam serce",
+      "url": "https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -959,6 +911,22 @@
       "duration_ms": 186468,
       "name": "J\u0119zyk",
       "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "BSoD (Bluescreen)",
+        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "BSoD (Bluescreen)",
+      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -983,6 +951,38 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Magister",
+        "url": "https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 160712,
+      "name": "Evangelion",
+      "url": "https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
-      },
-      "artists": [
-        {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
-        }
-      ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "Ulubione miejsce",
         "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175200,
       "name": "Ulubione miejsce",
       "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+      },
+      "artists": [
+        {
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     }
   ],
   "unique_name": "GLOW Polska",

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-294 songs - 23 hr 20 min
+295 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Marrakesh with a Hint of the Sea \(Ambient Cello\)](https://open.spotify.com/track/4SbM9lxA56daZ23t1f0mJ5) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [Ambient Cabin Sessions](https://open.spotify.com/album/6SvVbc2gGHiC9a4XmkojAZ) | 3:52 | 2023-01-20 |  |
 | [mawarito](https://open.spotify.com/track/7q31ApGXYbCjMVNewuiWq4) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Forget](https://open.spotify.com/album/4ylMWwyyUpdWl3PIqoBOyK) | 2:33 | 2023-07-14 |  |
 | [Melt](https://open.spotify.com/track/7FHrGr96veyiK4WtdohNTv) | [MLO](https://open.spotify.com/artist/5tdfcn1EwWqTKoxHyv9G6g) | [Oumuamua](https://open.spotify.com/album/7bfDO9ymlhD1LaTxShxHwJ) | 4:22 | 2022-05-18 | 2023-07-22 |
+| [Memories](https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [memories](https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ) | 2:59 | 2023-07-21 |  |
 | [Minami](https://open.spotify.com/track/3JTNLPLZV4uB8cOSsFRoXl) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Minami](https://open.spotify.com/album/4rQO9aY0tHRfdCHu5K93wX) | 4:41 | 2023-01-27 |  |
 | [Miocene](https://open.spotify.com/track/0aPnmWMriv7aORMdc0PQQI) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Kasper Bjørke Quartet: Miocene](https://open.spotify.com/album/5vwrG91MohIuhJGNgU3EUk) | 11:44 | 2022-09-12 |  |
 | [Moon Road](https://open.spotify.com/track/6HIXHWmCdv0ZBLE0vmeh7P) | [Yumiko Morioka](https://open.spotify.com/artist/65qxdUIxnh54KIpE7zfS4o) | [Resonance](https://open.spotify.com/album/51wuR1THuIkmMQONEN7ztk) | 5:19 | 2022-03-17 | 2023-01-07 |
@@ -260,7 +261,7 @@
 | [The Signals From the Abyss](https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Aquarealm](https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS) | 7:48 | 2023-03-16 |  |
 | [Then](https://open.spotify.com/track/5Ij5ddGh0JCn6i6yGoC6Tf) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Then](https://open.spotify.com/album/6Yj7uh3SXxi4OCpy9qTymc) | 3:27 | 2022-09-12 |  |
 | [They Being Dead Yet Speaketh \- Pt.3 \- From „The Miners’ Hymns” Soundtrack](https://open.spotify.com/track/0EVfcXz7EgfOHjniBA8nqy) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Miners’ Hymns \(Original Soundtrack\)](https://open.spotify.com/album/02mbXjMS4qDuZjPXKOLNTA) | 3:44 | 2022-03-17 | 2022-05-31 |
-| [This Comfort](https://open.spotify.com/track/4kTSH9bXzfz6honMCEfNXF) | [Grant Chapman](https://open.spotify.com/artist/4ovf5n6upZQN6Mr77VpOML) | [Indentations](https://open.spotify.com/album/4DM9J26xKqEdMWyLJjPEKf) | 2:22 | 2023-07-21 |  |
+| [This Comfort](https://open.spotify.com/track/4kTSH9bXzfz6honMCEfNXF) | [Grant Chapman](https://open.spotify.com/artist/4ovf5n6upZQN6Mr77VpOML) | [Indentations](https://open.spotify.com/album/4DM9J26xKqEdMWyLJjPEKf) | 2:22 | 2023-07-21 | 2023-08-02 |
 | [This Is What I Wanted to Tell You \- Group Listening Remix](https://open.spotify.com/track/2CtX0WqmREcZvi09m9awBx) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78), [Group Listening](https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe) | [Basement Tapes](https://open.spotify.com/album/0mVdQU5dMnhqxwdlMDoOGc) | 8:54 | 2022-03-30 | 2022-04-21 |
 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-19 | 2023-06-06 |
 | [Time Takes A While](https://open.spotify.com/track/7gUPgFwdlHQuWlEFbdMPrR) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [More Truth](https://open.spotify.com/album/2H5XQJwbsobcJLp1eeuhCg) | 4:39 | 2023-05-19 | 2023-06-06 |

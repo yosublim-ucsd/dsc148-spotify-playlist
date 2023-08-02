@@ -1,13 +1,29 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Dilated Peoples",
-  "num_followers": 412472,
+  "num_followers": 412768,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWM1NzNkZDhhMTU4MTZkZTNiN2FkZTk5ZmY2ZTk2ZmVjMGEzNWYx",
+  "snapshot_id": "MCw3MGIyNzU2YWMyOGY4NjNkZWNmZjY4ZDVmYTQyNjVhYjk0ZDQ0NWJm",
   "tracks": [
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+    },
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
@@ -63,22 +79,6 @@
       "duration_ms": 177666,
       "name": "Work",
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Just Don't Give A Fuck",
-      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Just Don't Give A Fuck",
+      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "The Grind Date",
         "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
       },
@@ -163,22 +179,6 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "J5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
-      },
-      "artists": [
-        {
-          "name": "Jurassic 5",
-          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Concrete Schoolyard",
-      "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
         "name": "The Listening",
         "url": "https://open.spotify.com/album/3TCtnxxB0OSY5sRtYzpYGG"
       },
@@ -191,38 +191,6 @@
       "duration_ms": 237893,
       "name": "Speed",
       "url": "https://open.spotify.com/track/75JlUgJb8uwmDnASQpZfvY"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "The Platform",
-        "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "The Platform",
-      "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -243,6 +211,38 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
+        "name": "The Platform",
+        "url": "https://open.spotify.com/album/4FLIb7KILAeKlllF1SeRTy"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "The Platform",
+      "url": "https://open.spotify.com/track/1BbYPTXP9VwBWm44MqLyHK"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "J5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Lj4qWG2xATA2XNz3l6BZT"
+      },
+      "artists": [
+        {
+          "name": "Jurassic 5",
+          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
+        }
+      ],
+      "duration_ms": 321293,
+      "name": "Concrete Schoolyard",
+      "url": "https://open.spotify.com/track/37pnnS4zO9s6xzeblq9Jrd"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
         "name": "Acid Raindrops",
         "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
-      },
-      "artists": [
-        {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
         "name": "The LP",
         "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
@@ -287,6 +271,26 @@
       "duration_ms": 208866,
       "name": "I Juswanna Chill",
       "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -311,26 +315,6 @@
       "duration_ms": 336813,
       "name": "So Far to Go",
       "url": "https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY"
-    },
-    {
-      "added_at": "2023-07-10 23:45:52",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -375,6 +359,22 @@
       "duration_ms": 318573,
       "name": "Travellin' Man (Remastered)",
       "url": "https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG"
+    },
+    {
+      "added_at": "2023-07-10 23:45:52",
+      "album": {
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -539,8 +539,8 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "J-88",
-        "url": "https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta"
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 218079,
-      "name": "The Look of Love, Pt. 1",
-      "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
     },
     {
       "added_at": "2023-07-10 23:45:52",
@@ -727,8 +727,8 @@
     {
       "added_at": "2023-07-10 23:45:52",
       "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+        "name": "J-88",
+        "url": "https://open.spotify.com/album/50235H1xQYRg7OaeEUc4ta"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+      "duration_ms": 218079,
+      "name": "The Look of Love, Pt. 1",
+      "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
     },
     {
       "added_at": "2023-07-10 23:45:52",

@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 209706,
       "name": "5g",
       "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "BENDER",
       "url": "https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 122184,
       "name": "biteback",
       "url": "https://open.spotify.com/track/1wG8jqQHtUWP22YaUIZNnS"
@@ -745,6 +745,28 @@
     },
     {
       "album": {
+        "name": "chronically online bitch",
+        "url": "https://open.spotify.com/album/1BjkuSizpVWZuZqNtYcbFM"
+      },
+      "artists": [
+        {
+          "name": "Stevyn",
+          "url": "https://open.spotify.com/artist/72xvR0gA7IoOaPP5pX5nGQ"
+        },
+        {
+          "name": "CThruRio",
+          "url": "https://open.spotify.com/artist/0zQSlXfHpiKFcQNf9izlvA"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129743,
+      "name": "chronically online bitch",
+      "url": "https://open.spotify.com/track/4p25lyI6HiIdLrjaBVdJoU"
+    },
+    {
+      "album": {
         "name": "CONSUMED",
         "url": "https://open.spotify.com/album/0RfdjQvgnPvOJNYc74ukAX"
       },
@@ -774,7 +796,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 265959,
       "name": "Cops and robbers",
       "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
@@ -1307,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "falling in love",
+        "url": "https://open.spotify.com/album/2axdiCN3Kgxye5vqt6G6xq"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200148,
+      "name": "falling in love",
+      "url": "https://open.spotify.com/track/7314sXDsnHyAPYbUutwoGo"
+    },
+    {
+      "album": {
         "name": "remorse",
         "url": "https://open.spotify.com/album/7vQHzlfqHYVoQepDOQkkhl"
       },
@@ -1732,7 +1772,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 153495,
       "name": "hold it love it",
       "url": "https://open.spotify.com/track/7pKwKqGnRjLJNFbbP7kBbI"
@@ -1909,6 +1949,24 @@
     },
     {
       "album": {
+        "name": "i love you",
+        "url": "https://open.spotify.com/album/5RQXXDwHJOA4kyjLJHkjzP"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155150,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/2ghAWfeAvA3DaybuOQhcX0"
+    },
+    {
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/0y7QaN0r8zsiD9R7ikFdo3"
       },
@@ -2082,7 +2140,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 374546,
       "name": "introvert",
       "url": "https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER"
@@ -2148,6 +2206,24 @@
       "duration_ms": 168774,
       "name": "jealousy",
       "url": "https://open.spotify.com/track/1moK2L5Y2bftYzpGrcOU5X"
+    },
+    {
+      "album": {
+        "name": "Sick Sad Obsession",
+        "url": "https://open.spotify.com/album/2i5cPdBPvsRMfml8bhKqZb"
+      },
+      "artists": [
+        {
+          "name": "heffy",
+          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131422,
+      "name": "JUNKLOVER",
+      "url": "https://open.spotify.com/track/5j4Q63V3VQQ9DtwJu1U0GP"
     },
     {
       "album": {
@@ -2350,7 +2426,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 203294,
       "name": "life imitates life",
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
@@ -2951,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "popstar (with angelus)",
+        "url": "https://open.spotify.com/album/7jgjzargChNK3HCW3A2SYk"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "angelus",
+          "url": "https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "popstar (with angelus)",
+      "url": "https://open.spotify.com/track/3Yb3Z1HRrMrBh886cayujG"
+    },
+    {
+      "album": {
         "name": "pretty girls",
         "url": "https://open.spotify.com/album/71HSjUSrkwWSrQRQJswmyI"
       },
@@ -3125,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "recluse",
+        "url": "https://open.spotify.com/album/4ccT27wMZSMNivrI0L2IJz"
+      },
+      "artists": [
+        {
+          "name": "kaido",
+          "url": "https://open.spotify.com/artist/0UENogXhLeGTZjub4eejjX"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93719,
+      "name": "recluse",
+      "url": "https://open.spotify.com/track/2Vgp8Ah9NuTTKDfQykl0f8"
+    },
+    {
+      "album": {
         "name": "red",
         "url": "https://open.spotify.com/album/0iagP7baVunZbTqg0ike7I"
       },
@@ -3256,7 +3372,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 147945,
       "name": "sad robots don't cry",
       "url": "https://open.spotify.com/track/6x2F4nkIWUUMk6srvRY18j"
@@ -3296,7 +3412,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 127477,
       "name": "SECRETS",
       "url": "https://open.spotify.com/track/2ygzRCfZKc4fySuSzIXsfW"
@@ -3842,7 +3958,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 121624,
       "name": "teeth (you)",
       "url": "https://open.spotify.com/track/21NGjx3wUcaeo9XaVxvZAP"
@@ -3976,10 +4092,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 109090,
       "name": "TM2TB",
       "url": "https://open.spotify.com/track/5e5auPZ8BxQHdNKqu2FsWe"
+    },
+    {
+      "album": {
+        "name": "tongues",
+        "url": "https://open.spotify.com/album/4We7nxOuoxs57oz6pbEFx2"
+      },
+      "artists": [
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        },
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181005,
+      "name": "tongues",
+      "url": "https://open.spotify.com/track/3jbivGLXf7sguAk3P7SyOR"
     },
     {
       "album": {
@@ -4146,7 +4284,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 141782,
       "name": "Vexed",
       "url": "https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij"
@@ -4476,7 +4614,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 227439,
       "name": "Your face",
       "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"

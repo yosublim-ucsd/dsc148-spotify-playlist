@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 60651,
+  "num_followers": 60713,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjM4MWNkNGI3MDI3YWIxMmEyODY1MmRkNDdiM2ZkODYzZDczYzBk",
+  "snapshot_id": "MCw5MDgxNTJkYWMxYjE2MmE3ZThlYTYxOTdlNmU4ZTVmZDk1YWE0ODU0",
   "tracks": [
     {
       "added_at": "2023-06-30 03:01:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-06-30 03:01:00",
       "album": {
+        "name": "Calma, Beb\u00ea!",
+        "url": "https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "Calma, Beb\u00ea!",
+      "url": "https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ"
+    },
+    {
+      "added_at": "2023-06-30 03:01:00",
+      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": "2023-06-30 03:01:00",
-      "album": {
-        "name": "Calma, Beb\u00ea!",
-        "url": "https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1"
-      },
-      "artists": [
-        {
-          "name": "Magr\u00e3o AllFavela",
-          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 159529,
-      "name": "Calma, Beb\u00ea!",
-      "url": "https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ"
     },
     {
       "added_at": "2023-06-30 03:01:00",

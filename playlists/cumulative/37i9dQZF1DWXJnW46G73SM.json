@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 177606,
       "name": "Bada'ay Kol Yoom Ala'eeh",
       "url": "https://open.spotify.com/track/0vGbKViJA6J79xBuMU4bGQ"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 166671,
       "name": "Balbata",
       "url": "https://open.spotify.com/track/5NHOHEmOIGysPGy895thVt"
@@ -1568,6 +1568,24 @@
       "duration_ms": 145486,
       "name": "Come Baby Come",
       "url": "https://open.spotify.com/track/2FtwA6cVlrYeJzN8lCiwHS"
+    },
+    {
+      "album": {
+        "name": "Daghdagha",
+        "url": "https://open.spotify.com/album/4y2axhAvecdq2BGYnNRS7r"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181638,
+      "name": "Daghdagha",
+      "url": "https://open.spotify.com/track/6Wz8i5kN8XCNSCflz6cXk7"
     },
     {
       "album": {
@@ -4114,6 +4132,24 @@
       "duration_ms": 228853,
       "name": "La Malama (Bonus Track)",
       "url": "https://open.spotify.com/track/0A7OGFaJTpBL9a8XfABHXw"
+    },
+    {
+      "album": {
+        "name": "Lama El Waat Yekhlas - \u0644\u0645\u0627 \u0627\u0644\u0648\u0642\u062a \u064a\u062e\u0644\u0635",
+        "url": "https://open.spotify.com/album/0PDM2uTkZjylHhBcCuG0Zs"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0645\u0632",
+          "url": "https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "Lama El Waat Yekhlas - \u0644\u0645\u0627 \u0627\u0644\u0648\u0642\u062a \u064a\u062e\u0644\u0635",
+      "url": "https://open.spotify.com/track/71hKEpvELYUmzgMWXuv18Q"
     },
     {
       "album": {
@@ -7245,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "Ya Tayar",
+        "url": "https://open.spotify.com/album/4TgabhACfeYjXuaefflF5f"
+      },
+      "artists": [
+        {
+          "name": "Diana Haddad",
+          "url": "https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195576,
+      "name": "Ya Tayar",
+      "url": "https://open.spotify.com/track/3lxUL4F9yaYupuTu3g9Byg"
+    },
+    {
+      "album": {
         "name": "Baad Montasaf Al Leil",
         "url": "https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH"
       },
@@ -7458,7 +7512,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 150303,
       "name": "\u0623\u0648\u0648\u0648\u0648\u0647",
       "url": "https://open.spotify.com/track/4tHH28eKHx2B5k7jjbcTGQ"
@@ -8024,6 +8078,32 @@
       "duration_ms": 177560,
       "name": "\u0627\u0646\u062a \u0627\u0644\u0623\u0635\u0644",
       "url": "https://open.spotify.com/track/35wZyDR2zaKlPRhT0x3sdt"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u062a\u0631\u0646\u062f (\u0644\u0641\u064a\u062a \u0627\u0644\u0639\u0627\u0644\u0645)",
+        "url": "https://open.spotify.com/album/45ntcfARG4ULK6k5zLuaMC"
+      },
+      "artists": [
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        },
+        {
+          "name": "Omar Kamal",
+          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        },
+        {
+          "name": "Eslam Saso",
+          "url": "https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180571,
+      "name": "\u0627\u0646\u062a\u064a \u0627\u0644\u062a\u0631\u0646\u062f (\u0644\u0641\u064a\u062a \u0627\u0644\u0639\u0627\u0644\u0645)",
+      "url": "https://open.spotify.com/track/2ao1kZ8oROe0y6HtdDN6OO"
     },
     {
       "album": {
@@ -9304,7 +9384,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 200046,
       "name": "\u0644\u0641\u064a\u0646\u0627 \u0627\u0644\u062f\u0646\u064a\u0627",
       "url": "https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9"

@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 27426,
+  "num_followers": 27442,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODM0MGZhNTJjNWJmZGVhZmE0MTk0Nzg5MDMzZjE4NWU2OTQwNTgx",
+  "snapshot_id": "MCw2NGY4YjVjNmU2ZDBmNjRmNjI1ZDIxNmY2ZTdkMDRjYTY3ZmQ2MzBk",
   "tracks": [
     {
       "added_at": "2020-06-03 18:17:45",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Rotary International Abidjan",
-        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
-      },
-      "artists": [
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Chokola",
-      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Turbulan's Kompa, Vol. 2 (Special Gouyad Mixed by DJ Mayass)",
         "url": "https://open.spotify.com/album/1yVAa5VNI8NFNLlWE0hZhn"
       },
@@ -251,22 +251,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
-      },
-      "artists": [
-        {
-          "name": "T-Vice",
-          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
-        }
-      ],
-      "duration_ms": 307493,
-      "name": "Ma Cherie Je T'aime",
-      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "Nan Building Nan",
         "url": "https://open.spotify.com/album/73IxgcLusQRQ8JWuHivGyu"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 323268,
       "name": "Pa Leve Main Ou Sou Li",
       "url": "https://open.spotify.com/track/7ckfJx3iy4IilztPg0q56V"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
+      },
+      "artists": [
+        {
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "Ma Cherie Je T'aime",
+      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -315,22 +315,6 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "L\u00f2d Nan Dez\u00f2d",
-        "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 395226,
-      "name": "Libre D'aimer",
-      "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
         "name": "The Very Best Of Jackito (Pou ti moun yo)",
         "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 292362,
       "name": "Je l'aime \u00e0 mourir",
       "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
+        "name": "L\u00f2d Nan Dez\u00f2d",
+        "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 395226,
+      "name": "Libre D'aimer",
+      "url": "https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
-        "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
+        "name": "She's a Freak",
+        "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
       },
       "artists": [
         {
-          "name": "Black Parents",
-          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
         }
       ],
-      "duration_ms": 268480,
-      "name": "Sonia",
-      "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
+      "duration_ms": 414024,
+      "name": "She's a Freak",
+      "url": "https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -655,18 +655,18 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "She's a Freak",
-        "url": "https://open.spotify.com/album/6weHkn20iKsmXfJeD8QpfJ"
+        "name": "L'ann\u00e9e du Kompa 2001 (Ayiti Konpa)",
+        "url": "https://open.spotify.com/album/5wgDhWtXVweawspXDh1je9"
       },
       "artists": [
         {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+          "name": "Black Parents",
+          "url": "https://open.spotify.com/artist/4sJwSh8yGNJU0WB6VSepG9"
         }
       ],
-      "duration_ms": 414024,
-      "name": "She's a Freak",
-      "url": "https://open.spotify.com/track/0emPt8vmtR7wKYKr0TKajD"
+      "duration_ms": 268480,
+      "name": "Sonia",
+      "url": "https://open.spotify.com/track/6fRP9uqtzh7VNTrtkSfXs0"
     },
     {
       "added_at": "2020-06-03 18:17:45",

@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-471 songs - 1 day 14 hr 43 min
+472 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Hosanna](https://open.spotify.com/track/4Hiea47bfdih7R1mpm1t5a) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [African Spirit](https://open.spotify.com/album/0cjcBeESYGN182QmJCsmY3) | 2:38 | 2021-04-04 | 2022-07-12 |
 | [Hosanna \- Live](https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 6:29 | 2021-04-04 |  |
 | [Hosanna \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/2TkXzFSgJrQAo6kREm9z8f) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:07 | 2023-04-09 | 2023-07-22 |
+| [Hosanna \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:07 | 2023-04-09 |  |
 | [How Can It Be](https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 4:19 | 2022-04-17 |  |
 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 | 2021-04-04 | 2022-07-29 |
 | [How Deep](https://open.spotify.com/track/2PfmI8ZUdHg62iDWnUUX7t) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [A Fire Making Holy Ground](https://open.spotify.com/album/6iUh531E906yjbEyIa6oKL) | 5:02 | 2022-04-17 | 2022-07-29 |
@@ -324,7 +325,7 @@
 | [Power In The Cross \- Live](https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 5:28 | 2022-04-02 | 2022-04-20 |
 | [Power To Redeem](https://open.spotify.com/track/0znz7UzwqZolzAixWdghiY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/0QQQSMb4DmaIwqcvK3N8iR) | 3:45 | 2021-04-04 | 2022-04-20 |
 | [Power to Redeem \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:45 | 2022-04-17 |  |
-| [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 | 2021-04-04 |  |
+| [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 | 2021-04-04 | 2023-08-02 |
 | [Praise The Lord \(Evermore\)](https://open.spotify.com/track/6WcsemtdQ28Zv0BgyNMlqf) | [Worship Central](https://open.spotify.com/artist/3i0j8jwJKHchZU40nbd2Xt) | [Mercy Road](https://open.spotify.com/album/1F4VHbkuzttYQWTH1aUckk) | 4:44 | 2022-04-02 | 2022-04-19 |
 | [Precious Blood](https://open.spotify.com/track/4EjoSOfFN7HQVzwl5txinM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Come Up Here](https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03) | 4:41 | 2023-04-02 |  |
 | [Rain / Reign](https://open.spotify.com/track/2pYthXNB2BrOeqtd5bwPym) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:34 | 2022-04-02 | 2022-04-21 |

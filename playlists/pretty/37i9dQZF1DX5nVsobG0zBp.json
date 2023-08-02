@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 48935,
+  "num_followers": 48981,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGEzMzhlNDA3Yzk0ZTFjNDIyYzQ1M2MzNzMyOWUyYTU3ZDRhYzcy",
+  "snapshot_id": "MCwxNTI2NzM3YmJmOWViMWRiMGE4NmY5YzgyOGFkYzRkMjhlZmRhYjA4",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Mechelas",
+        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
+      },
+      "artists": [
+        {
+          "name": "Sam The Kid",
+          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Sendo Assim",
+      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/5rRtrYZiRhOcj6WDD4BhuT"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Mechelas",
-        "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
+        "name": "Fato treino do City",
+        "url": "https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q"
       },
       "artists": [
         {
-          "name": "Sam The Kid",
-          "url": "https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE"
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
         }
       ],
-      "duration_ms": 314133,
-      "name": "Sendo Assim",
-      "url": "https://open.spotify.com/track/1PioBX3KlN13IXB014CFF6"
+      "duration_ms": 216488,
+      "name": "Fato treino do City",
+      "url": "https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -815,22 +831,6 @@
       "duration_ms": 145100,
       "name": "Louca Life",
       "url": "https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "Fato treino do City",
-        "url": "https://open.spotify.com/album/4fcBL2OWo3Gpw2Jg1GHE1Q"
-      },
-      "artists": [
-        {
-          "name": "Sippinpurpp",
-          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
-        }
-      ],
-      "duration_ms": 216488,
-      "name": "Fato treino do City",
-      "url": "https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB"
     },
     {
       "added_at": "2023-07-27 23:00:00",

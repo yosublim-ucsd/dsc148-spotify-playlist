@@ -1483,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/7j5SBvMC4LhO7RRX9ougXS"
+      },
+      "artists": [
+        {
+          "name": "Raey",
+          "url": "https://open.spotify.com/artist/4pW4QOegJrHkkjZGkGTbqS"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/2a8JdPKX4tKHsbWgjNHB5H"
+    },
+    {
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
       },
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 183076,
       "name": "Como Ella Baila As\u00ed",
       "url": "https://open.spotify.com/track/4RKV9cellpKyHcNIIWnkKX"
@@ -6896,7 +6918,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 132000,
       "name": "Gemelo",
       "url": "https://open.spotify.com/track/7lRoOdRCLZfE5rbSQ9wQz0"
@@ -14659,6 +14681,28 @@
     },
     {
       "album": {
+        "name": "Por Que Te Niegas",
+        "url": "https://open.spotify.com/album/7zLEJEnyS2GBvIhmcds16F"
+      },
+      "artists": [
+        {
+          "name": "Mickey Then",
+          "url": "https://open.spotify.com/artist/6Xu0RsSkyZCkBUXDiRvyMT"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/3XH9HjOmomIwvkGpYRKIGl"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Por Que Te Niegas",
+      "url": "https://open.spotify.com/track/1DAwpBU2JANIwrT5xT6K3U"
+    },
+    {
+      "album": {
         "name": "Colapso",
         "url": "https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX"
       },
@@ -14918,7 +14962,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 207626,
       "name": "PROVENZA",
       "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
@@ -19354,7 +19398,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 123141,
       "name": "Ubicacion y Foto",
       "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"

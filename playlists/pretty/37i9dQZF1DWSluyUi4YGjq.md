@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,286 likes - 99 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,698 likes - 99 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 98 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
 | 99 | [All That I've Wasted](https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [All That I've Wasted](https://open.spotify.com/album/76O4Nw778B7Xa34TASnvA8) | 3:22 |
 
-Snapshot ID: `MCw4MjBlYTkyZGU5MmIwYTgxYzZhZjg0MzEwOTAzZGFiZTRhMTZmY2I0`
+Snapshot ID: `MCwyM2ZiYjA0M2M5ZTlkZjM5NGU4MzMzMmUxNGZmZTZhMTg5YWVhOGVl`

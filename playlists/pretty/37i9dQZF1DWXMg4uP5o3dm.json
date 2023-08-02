@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 454930,
+  "num_followers": 455065,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTE1M2YwNTNkMzY3MzFiNmNmZTg2N2NhZWIwNTk5YTBlMWY0MDY0",
+  "snapshot_id": "MCxiNDRmNjEzYjhmOTMwYTVkMzdkMTcxOGI3YWRmMTJkYTU3NmQ5YTM3",
   "tracks": [
     {
       "added_at": "2023-07-27 22:18:39",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "A R I Z O N A",
-        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 195735,
-      "name": "Die For A Night",
-      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
-    },
-    {
-      "added_at": "2023-07-27 22:18:39",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 138946,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH"
+    },
+    {
+      "added_at": "2023-07-27 22:18:39",
+      "album": {
+        "name": "A R I Z O N A",
+        "url": "https://open.spotify.com/album/0aDCNIuXvrllaGsSddeXED"
+      },
+      "artists": [
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 195735,
+      "name": "Die For A Night",
+      "url": "https://open.spotify.com/track/45FbHGdx0Xxmp1zMFvzF01"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1163,26 +1163,18 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "COMPLICATED (feat. aldn & 8485)",
-        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
       },
       "artists": [
         {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        },
-        {
-          "name": "8485",
-          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         }
       ],
-      "duration_ms": 180923,
-      "name": "COMPLICATED (feat. aldn & 8485)",
-      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1207,18 +1199,26 @@
     {
       "added_at": "2023-07-27 22:18:39",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+        "name": "COMPLICATED (feat. aldn & 8485)",
+        "url": "https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        },
+        {
+          "name": "8485",
+          "url": "https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo"
         }
       ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+      "duration_ms": 180923,
+      "name": "COMPLICATED (feat. aldn & 8485)",
+      "url": "https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1"
     },
     {
       "added_at": "2023-07-27 22:18:39",
@@ -1613,7 +1613,7 @@
         },
         {
           "name": "P!X!E",
-          "url": "https://open.spotify.com/artist/16LJXEmFyhxPb6WGI4955o"
+          "url": "https://open.spotify.com/artist/4tThMJlJVcKRl4cJoB4aLq"
         }
       ],
       "duration_ms": 166000,

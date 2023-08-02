@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the United States. Cover: Ice Spice & Nicki Minaj",
-  "num_followers": 1185424,
+  "num_followers": 1186195,
   "original_name": "Hot Hits USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTk1Yjc4YjcxNDZhNTA0N2U2YTU2ZDc2NTc5ZWZmOWVhNjM4MGY1",
+  "snapshot_id": "MCwxYzU0NTM0NmFmNWMzMWVmMWJmNTM3YTZlNjJmMDE4MDViMzJjM2Y1",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -42,10 +42,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES)",
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {

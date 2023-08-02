@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 ### [Ripple Effect: Tri\-State](https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX)
 
-> New York, Jersey, and Connecticut music breaking waves\. Cover:  <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca?si=7ae4a4be344f447f">A$AP Rocky<a>
+> New York, Jersey, and Connecticut music breaking waves\. Cover:  Cover:  <a href="https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca?si=7fe08d8aa51e4821">A$AP Rocky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,849 likes - 69 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,864 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 68 | [SWEET DISEASE](https://open.spotify.com/track/1Mkmfkox2uJmb29RdF7OF7) | [Tekowa Lakica](https://open.spotify.com/artist/26HeoqIprMyFI8AQZMjqJJ) | [SWEET DISEASE](https://open.spotify.com/album/18lDvKH0U0q4VPAGy3yWRM) | 2:15 |
 | 69 | [WYA](https://open.spotify.com/track/4K7pG4OeQ3LRDlPFB2ht2Y) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [WYA](https://open.spotify.com/album/43nmGMEscmLqW5MGa6Sy04) | 1:41 |
 
-Snapshot ID: `MCwxZjI4MmFjOGMzNzUxZTEzMGYzN2Q2OWQ4Y2Y5MDQ5OTY0M2RkM2Nl`
+Snapshot ID: `MCw1NDZjNzY1YzI1M2ExOWQwZTk4ZDI2MDM4YjQ1ODg0NGZmNDMwNzBk`

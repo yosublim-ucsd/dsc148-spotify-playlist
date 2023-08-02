@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Samira Koppikar
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,738 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,757 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |
 | 50 | [Tu Bataa](https://open.spotify.com/track/4tXOXLvzUcoLGpgxsRHezj) | [Hitesh Rikki Madan](https://open.spotify.com/artist/2AGjKaADJvVp3jiHNAHIuq), [Arriv Madan](https://open.spotify.com/artist/5PUMXPoCbHwk0BxM7rGA8J), [Advay Madan](https://open.spotify.com/artist/3TnlOnmHsQBzbgfBiLifwP) | [Tu Bataa](https://open.spotify.com/album/1xoXSeXJLTtNMWkO4ToTUp) | 3:24 |
 
-Snapshot ID: `MCw3NTYxMWExYjBmYWYxYzFmNTY2ZDAzZWZiNTA3NzE3MTUwZDBmYmQw`
+Snapshot ID: `MCw2N2VmOTY0NjFiNTM4Mjk0MmQ3MGRiNDRjYjFhYzAxMzBjYTczNDZl`

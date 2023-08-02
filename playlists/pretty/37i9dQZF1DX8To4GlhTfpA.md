@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 
 > SHINee's back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,929 likes - 98 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,969 likes - 98 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To4GlhTfpA.md) - [plain]
 | 97 | [WANT \~Outro\~](https://open.spotify.com/track/4oPi8MvS4CMLO7DMEefb32) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [WANT \- The 2nd Mini Album](https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq) | 0:59 |
 | 98 | [The SHINee World \(Doo\-Bop\)](https://open.spotify.com/track/3zwMB1JyTzgOLo6rDnAVJ4) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 3:55 |
 
-Snapshot ID: `MCwxZDZjYTRkYzA4ZDVkYWUxNGUxODY0OTIyZjM5MGM5ZGRlMWYwM2U1`
+Snapshot ID: `MCxjYTgwZmY0MWQ5Njg0YmNlMThkM2Y3MzM3ZjVjYWM0NjJlMWVjNmI5`

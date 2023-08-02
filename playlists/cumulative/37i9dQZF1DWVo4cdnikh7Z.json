@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 273186,
       "name": "Ammaadi Ammaadi (From \u201cKadapuraa Kalaikuzhu\u201d)",
       "url": "https://open.spotify.com/track/5u06hHQbWOlcTqdpnOywPO"
@@ -4410,8 +4410,8 @@
       },
       "artists": [
         {
-          "name": "Gana Muthu",
-          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+          "name": "ofRO,Gana Muthu",
+          "url": "https://open.spotify.com/artist/5LTgrp8cYZxxhBCZQLL5Lw"
         }
       ],
       "date_added": "2023-07-31",
@@ -4480,8 +4480,8 @@
       },
       "artists": [
         {
-          "name": "Gana Francis",
-          "url": "https://open.spotify.com/artist/4266Hzvg3Laf0fNQSqNJA4"
+          "name": "ofRO,Gana Francis",
+          "url": "https://open.spotify.com/artist/03PhrL3XW9dsRJtEyBx4gB"
         },
         {
           "name": "Urban Thozha",
@@ -4938,8 +4938,8 @@
       },
       "artists": [
         {
-          "name": "T. M. S. Selva Kumar",
-          "url": "https://open.spotify.com/artist/4qKUodfmLy0o7XGoL3Jj4I"
+          "name": "ofRO,T.M.S. Selva Kumar",
+          "url": "https://open.spotify.com/artist/5Nb1iQx1HYLpCXUneyz4df"
         },
         {
           "name": "Susha",
@@ -7931,6 +7931,28 @@
     },
     {
       "album": {
+        "name": "Kushi Title Song (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/0v4KjnCMa3ZURbn9qJ0W8o"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Kushi Title Song (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/1SuFZNCwocZu6lIp40GPmv"
+    },
+    {
+      "album": {
         "name": "Kushi Title Song (From \"Kushi\") (Tamil)",
         "url": "https://open.spotify.com/album/3E3xI0C9DXiMKr6LJsJqtZ"
       },
@@ -7950,7 +7972,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 210000,
       "name": "Kushi Title Song (From \"Kushi\") (Tamil)",
       "url": "https://open.spotify.com/track/4a0SCd5iq23JqRBZO8j3ao"
@@ -14996,6 +15018,24 @@
       "duration_ms": 175365,
       "name": "Swasamae - From \"O2\"",
       "url": "https://open.spotify.com/track/4HcfZtzCyUpSHiFSab9oU2"
+    },
+    {
+      "album": {
+        "name": "Tata Tata [From \"Dinosaurs (DieNoSirs)\"] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1FHipndBYK3W50mEOH9o5h"
+      },
+      "artists": [
+        {
+          "name": "Bobo Sasii",
+          "url": "https://open.spotify.com/artist/4qyItosGZOjxZc6OsA2o7G"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284313,
+      "name": "Tata Tata [From \"Dinosaurs (DieNoSirs)\"]",
+      "url": "https://open.spotify.com/track/2XElT5AtNY1U7GonW39MSz"
     },
     {
       "album": {

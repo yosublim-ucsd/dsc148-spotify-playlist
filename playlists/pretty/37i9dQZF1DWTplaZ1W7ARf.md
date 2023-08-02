@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Rylo Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,208 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,220 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Chief](https://open.spotify.com/track/7LlRMZRiBP0kcLifaOhH2v) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 2:49 |
 | 50 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv) | 2:56 |
 
-Snapshot ID: `MCxmNGY2ZGY3Nzg0Y2JmZTA2ODkzN2E1ZTE2YmVjZWZhZTMyNjNkNjFj`
+Snapshot ID: `MCwxNDk3ZjQyYTU1Yzc3YWZkOWMxYzc1ZGNhZTU4MTVmN2M4MjU2ZTI0`

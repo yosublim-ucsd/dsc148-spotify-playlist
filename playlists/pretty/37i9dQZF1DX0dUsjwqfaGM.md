@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,205 likes - 59 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,206 likes - 58 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 29 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 |
 | 30 | [Cánh Cửa](https://open.spotify.com/track/6dvh8dpUCNvKRoJt8m2eMM) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Door To Nowhere](https://open.spotify.com/album/5l7m3Ck0FMb0nDgzZfOBr3) | 3:41 |
 | 31 | [Rót Tiếp](https://open.spotify.com/track/5U61WeETed0vWK3HUf8Xr6) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3), [Steji](https://open.spotify.com/artist/5AnW83Ip0xPJ3Pgn0YWDhd) | [Rót Tiếp](https://open.spotify.com/album/4c4l3zyMSwsDjajgrhJ5dq) | 3:10 |
-| 32 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Manh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 |
+| 32 | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/track/489cWPdS6lbpdBHmd9duxp) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj), [Duy Mạnh](https://open.spotify.com/artist/0MDeZ8vIkpFX3QkvY0el6B) | [Đến Đón Em Đi Chơi Đi Anh](https://open.spotify.com/album/0bRkXFokx3dtwJst6rcLCN) | 3:02 |
 | 33 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 |
 | 34 | [Bad Performance](https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Bad Performance](https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S) | 3:42 |
 | 35 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian \- Acoustic Version](https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:51 |
@@ -63,9 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 53 | [IYA.](https://open.spotify.com/track/3SBP53NRX6Rik4ufPlfrV8) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [IYA.](https://open.spotify.com/album/67nTFHJgJjVvQ73BLUjXhJ) | 4:08 |
 | 54 | [Got You](https://open.spotify.com/track/28mj6cmfJWSxOCdeNRbyWw) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i) | [Got You](https://open.spotify.com/album/3UjnX1grSaDSrfGG4NWaM2) | 4:25 |
 | 55 | [Congratz to Me \(feat\. SOI\)](https://open.spotify.com/track/3jJOt4nfIGU9WzhdBm1TaR) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:18 |
-| 56 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 |
-| 57 | [Hướng Dương](https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Hướng Dương](https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc) | 3:39 |
-| 58 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 |
-| 59 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 |
+| 56 | [Hướng Dương](https://open.spotify.com/track/65uxT4ZGe6eOABj1g5V2Fj) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Hướng Dương](https://open.spotify.com/album/6sUgmtdrcZRJxRsfbxUxqc) | 3:39 |
+| 57 | [Your Reflection](https://open.spotify.com/track/2lRcZxRB4xQLEBhyzTauC9) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [Words You Want](https://open.spotify.com/album/4NbdLnwTinHtXolBnSYmNG) | 2:29 |
+| 58 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 |
 
-Snapshot ID: `MCwzNTQxYjM0MTc5Mzk3ZWU4YzFiOWVlZjI5NThiMWZmYmY1MjE2Y2Zh`
+Snapshot ID: `MCw5NjhiNGI0MjUwNzc3NjM2YTU2MGQxMWQ0ZjAxMjI2NDE2Njg0N2Vj`

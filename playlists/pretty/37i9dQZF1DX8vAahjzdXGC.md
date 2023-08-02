@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Calvin Harris, Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,733 likes - 111 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,751 likes - 111 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
 | 2 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 3 | [Mengudara](https://open.spotify.com/track/43bIT4qDSCB6K1PJ314Azp) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 3:07 |
-| 4 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
+| 4 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
 | 5 | [Tak Apa \(feat\. Nosstress\)](https://open.spotify.com/track/3iZ6I95xY5YXNSinAuXgl8) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI), [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Tak Apa \(feat\. Nosstress\)](https://open.spotify.com/album/0z1bZJUqQIGVghcHJs4d7b) | 3:59 |
 | 6 | [Tak Mungkin](https://open.spotify.com/track/4HOlRwnMgTjB9SHo6FC0j1) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp) | [Tak Mungkin](https://open.spotify.com/album/6W72whTj0horCle4i9YxwG) | 4:02 |
 | 7 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Take Me To Another World](https://open.spotify.com/track/0tXD5XbjdsdaMuxwU0Z4mC) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Take Me To Another World](https://open.spotify.com/album/0NQVvQatEhV09qkiibkm8I) | 3:39 |
 | 111 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 |
 
-Snapshot ID: `MCxmNzliZWM3MGMxY2EzYzJlOGNjNWZmNGYyZDcxNzFjZDJhMDk5ZTdj`
+Snapshot ID: `MCw5NTUwMTdkOTc4NjY5ZDE2ZDhmNTI4YzY4MDMzY2JjZGFhYWFmNWNm`

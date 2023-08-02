@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,769 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,794 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 26 | [Odd Eye](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:04 |
 | 27 | [바람아 \(Wind Blows\)](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 |
 | 28 | [Poison Love](https://open.spotify.com/track/4ZEGLJC0LZUJGoTB6UU2QX) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:57 |
-| 29 | [4 Memory](https://open.spotify.com/track/1MKzNSIoxSgkHeFCBr4sYV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:08 |
+| 29 | [4 Memory](https://open.spotify.com/track/0j7ER3WEUPsrj46nSk8KV3) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:08 |
 | 30 | [시간의 틈 \(New days\)](https://open.spotify.com/track/6SPEL89GtDGf1LoZaYLnUr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:31 |
 | 31 | [Eclipse TV Size](https://open.spotify.com/track/1HFaXNYtalbRl8Mc1HBC3Q) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Eclipse TV Size](https://open.spotify.com/album/6eFO2694wosa4kJvgzZ4qG) | 1:32 |
 | 32 | [No More](https://open.spotify.com/track/2hlLKf7meSIz1q7N303Gz8) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [No More](https://open.spotify.com/album/2E7Bi4jNUfcaqe2zJn1Wxw) | 3:15 |
 | 33 | [Intro](https://open.spotify.com/track/4JPuvw4mxhmiaSWWiVOifG) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 1:39 |
-| 34 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 |
-| 35 | [Break The Wall](https://open.spotify.com/track/6JwdtdGwxtPGbhYnsv9jsj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:46 |
+| 34 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 |
+| 35 | [Break The Wall](https://open.spotify.com/track/10Jnl1L9oVkT6rE25QrbwM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:46 |
 | 36 | [Can't get you out of my mind](https://open.spotify.com/track/5xEeszGWv4FqRpRNB8767t) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:43 |
 | 37 | [Dear](https://open.spotify.com/track/4mUqS7z7yXZQRtejdRB3cR) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:48 |
 | 38 | [Intro](https://open.spotify.com/track/2eyghmDSU53WlQA19zE4Qy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 1:19 |
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 52 | [Endless Night](https://open.spotify.com/track/1KeMyc0QKlKZ3Ju7DLYodR) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:18 |
 | 53 | [Over The Sky \- Japanese Ver.](https://open.spotify.com/track/1EeSSWMUesMn0OPMc6KMEP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:19 |
 | 54 | [Silent Night \- Japanese Ver.](https://open.spotify.com/track/2lHeCDCvUXDVi0jm61WanJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:20 |
-| 55 | [Intro](https://open.spotify.com/track/5b6AQeJrwLOlXJwTgMTQFL) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 1:31 |
+| 55 | [Intro](https://open.spotify.com/track/7MDEEeDMmVUqk9gPDGghzH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 1:31 |
 | 56 | [데자부 \(Deja Vu\)](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 |
 | 57 | [거미의 저주 \(The curse of the Spider\)](https://open.spotify.com/track/3HkColMqZTyFoSENauFqBk) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:10 |
-| 58 | [Silent Night](https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:18 |
+| 58 | [Silent Night](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:18 |
 | 59 | [북극성 \(Polaris\)](https://open.spotify.com/track/33cXBJLWBnVdHRAaODd8LI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:53 |
 | 60 | [Piri \~ Fue wo Fuke \~ \- Japanese Ver.](https://open.spotify.com/track/4EmKUn4A6Bnq0QWepjCknK) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:28 |
 | 61 | [Good Night \- Japanese Ver.](https://open.spotify.com/track/2RbvTZo49bidUJhRmG8ZtQ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 2:58 |
 | 62 | [Wonderland \- Japanese Ver.](https://open.spotify.com/track/3kxBe92NOw3FnVfvLcHnRh) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:13 |
-| 63 | [Intro](https://open.spotify.com/track/565cuthqR4yBw1sVj9wgsj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 1:06 |
-| 64 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 |
+| 63 | [Intro](https://open.spotify.com/track/2U2fd8W8mApZsWtCFIYR3Z) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 1:06 |
+| 64 | [PIRI](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:26 |
 | 65 | [Diamond](https://open.spotify.com/track/1QvO3e8hAARNbCQUZ3prPL) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:21 |
 | 66 | [그리고 아무도 없었다](https://open.spotify.com/track/584e17zySNmvOd1iG57zxF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 2:52 |
 | 67 | [Daydream](https://open.spotify.com/track/6MuYZSWPFpeGCW6rJdffOi) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:32 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 81 | [Mata Hitori ni Natta \- Japanese Ver.](https://open.spotify.com/track/1gillZ7xFN21NHgkS4EQaP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 2:54 |
 | 82 | [You and I \- Japanese Ver.](https://open.spotify.com/track/3lvzNG9YpIvD6uK2yBnNI1) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:16 |
 | 83 | [Outro](https://open.spotify.com/track/7AV7ja8QtbBPWU2svOwxNV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 1:44 |
-| 84 | [Intro](https://open.spotify.com/track/22yEgly0RJKdILZrGh62jb) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 1:06 |
-| 85 | [What](https://open.spotify.com/track/4BdpM8bR0nifsaqSz3qphQ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:25 |
+| 84 | [Intro](https://open.spotify.com/track/3FpiOQMZCQ1oUVPoJv7aMf) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 1:06 |
+| 85 | [What](https://open.spotify.com/track/2U92BoBpLyWchwa224B6pg) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:25 |
 | 86 | [Wonderland](https://open.spotify.com/track/7vWPcuZIoxiL9YhCzI99Ai) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:11 |
-| 87 | [Trap](https://open.spotify.com/track/7m34MVNzFsVnPiuJSdZIC4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:10 |
+| 87 | [Trap](https://open.spotify.com/track/1IsvB443RMP3WvnlKfvKec) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e) | 3:10 |
 | 88 | [약속해 우리 \(July 7th\)](https://open.spotify.com/track/5NK2NHvmKLOn8V3eBYDaKm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:14 |
 | 89 | [INSIDE \- OUTSIDE \- Intro](https://open.spotify.com/track/1bEvy601StaBjSoHWRu8Ft) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 1:23 |
 | 90 | [YOU AND I](https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:15 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 104 | [Chase Me](https://open.spotify.com/track/2KH7ZhZs01rJOIVvuUNFbo) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:09 |
 | 105 | [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 |
 
-Snapshot ID: `MCw4MzJiMzNmOWY2YzE2YzQwOTI4YzU3MmQ4Y2E0NzNkZTM3ZmFkOGQ2`
+Snapshot ID: `MCxiODgxZjkxYWM4NTQxNmZkZDRiZTMwMWE2MDA3ZDQ2ZGVjNzEyYTEz`

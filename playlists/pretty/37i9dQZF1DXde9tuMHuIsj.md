@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Eladio Carrión
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,359 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,418 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 49 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 |
 | 50 | [STK](https://open.spotify.com/track/7LjWg30pfLnp31pXulL8z1) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [STK](https://open.spotify.com/album/0r7C2pui7Zs41PN0G62R4u) | 2:27 |
 
-Snapshot ID: `MCxhYjc3ODJiNTQyNDc1ZDZlYjc1NmNlZmEzNDU3Mzg4ODY1ODFmMTEx`
+Snapshot ID: `MCwwYWE3YzA4OTA3NTEyMGVlNGNiNjY2M2MyNTAyNTk4ZjljYTY1Njcy`

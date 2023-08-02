@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 229 songs - 14 hr 46 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 230 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,6 +236,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 226 | [Moonshine](https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Wasteland](https://open.spotify.com/album/6A6M2w1PVPOPY8Jp8aV0Ao) | 4:00 |
 | 227 | [Searchin'](https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W) | [Acid Dad](https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm) | [Take It From The Dead](https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48) | 3:23 |
 | 228 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 |
-| 229 | [Drake Era](https://open.spotify.com/track/3gKtBvLJwuh2dg6x1dLDah) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Black Ben Carson](https://open.spotify.com/album/6Y7UjxYGvWGxY5KZDafQKi) | 3:57 |
+| 229 | [Start Together](https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 2:38 |
+| 230 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 |
 
-Snapshot ID: `OTU5LDQ1ZDE0MDExNTU3ZTM4ZDI1NGFhZjQ0ODBhYzM2MzE3ZGJjMTJhZDg=`
+Snapshot ID: `OTYyLGE0MWNmNWFiYjg5NDdkNjg4OGI1ZGNlZGY5ZWE0MDM3YjQzMTdiYWI=`

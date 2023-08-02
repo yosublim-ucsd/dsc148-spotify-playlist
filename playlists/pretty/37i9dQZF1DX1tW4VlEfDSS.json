@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 345773,
+  "num_followers": 345822,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGMzMjVhMTBiNjJmNzFlNWMwMDBiMzczYTg2OTdjMzlhNzEwMDZi",
+  "snapshot_id": "MCw3YTdiYTM4OWQyNDlhOWRjOGI4NmRmZGYxZmRkNDJlYWFkNjQ4NjNm",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 204132,
       "name": "Second Chance (feat. Kimberly Davis)",
       "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
     },
     {
       "added_at": "2023-07-14 04:01:00",

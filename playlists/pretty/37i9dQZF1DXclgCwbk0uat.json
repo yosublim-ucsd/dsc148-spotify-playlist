@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: El Jordan 23.",
-  "num_followers": 1847160,
+  "num_followers": 1847316,
   "original_name": "\u00c9xitos Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWE1ODM0MjZhMzA5NjU5NWM2ODBhYmVhMDA2MDc1MDk2ZjZhMjNm",
+  "snapshot_id": "MCxlY2I3NDRiNjQ5Y2FkZTNhNGI3N2Y0NzEyYjU4ZTg5ZTQwOWIxM2U4",
   "tracks": [
     {
       "added_at": "2023-07-27 13:36:03",
@@ -20,8 +20,12 @@
           "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
         },
         {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/3TxnlrNBvTPlWBq4rGHMtd"
+          "name": "Los Patos Feos Inc",
+          "url": "https://open.spotify.com/artist/5ys86BAZteP8RpVCDmT4p5"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
         }
       ],
       "duration_ms": 178836,

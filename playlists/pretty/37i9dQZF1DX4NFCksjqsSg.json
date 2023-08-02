@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26767,
+  "num_followers": 26774,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODI1ZDU0ZmU4YTU0OTg2NWFkNzEzNDZjNTEyZjc5NGRhMjk2N2Nk",
+  "snapshot_id": "MCw0YzExNWM3NzE4ZWM3YzdlN2M1NDQ3YjAyOTFhY2U1YTMxMThiMjBj",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
+        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
+      },
+      "artists": [
+        {
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
+        }
+      ],
+      "duration_ms": 287253,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Volume un",
         "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 285333,
       "name": "Vivre dans la nuit - Version Microsillon",
       "url": "https://open.spotify.com/track/6dP8GoWxIQtRDJptpgPtkh"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
-        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
-      },
-      "artists": [
-        {
-          "name": "Diane Tell",
-          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
-        }
-      ],
-      "duration_ms": 287253,
-      "name": "Si j'\u00e9tais un homme",
-      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Pied De Poule",
-        "url": "https://open.spotify.com/album/0lcQiR9XjcrzXQGRCYQnha"
+        "name": "Marie-\u00c9laine Thibert",
+        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
       },
       "artists": [
         {
-          "name": "Genevi\u00e8ve Lapointe",
-          "url": "https://open.spotify.com/artist/0tTy0BCNGPog9pkYZuqpey"
+          "name": "Marie-\u00c9laine Thibert",
+          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Pied De Poule",
-      "url": "https://open.spotify.com/track/3stGdvzWseLYJllraGNwg2"
+      "duration_ms": 275266,
+      "name": "Le ciel est \u00e0 moi",
+      "url": "https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k"
     }
   ],
   "unique_name": "Fromage",

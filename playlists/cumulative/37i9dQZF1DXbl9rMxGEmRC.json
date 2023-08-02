@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 199203,
       "name": "Decade of Therion",
       "url": "https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h"
@@ -3352,6 +3352,24 @@
       "duration_ms": 646986,
       "name": "Homewards",
       "url": "https://open.spotify.com/track/3V1CdKynl6M9lhpMWtRSwW"
+    },
+    {
+      "album": {
+        "name": "Homunculus (Spirit Made Flesh) IX",
+        "url": "https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN"
+      },
+      "artists": [
+        {
+          "name": "Incantation",
+          "url": "https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277053,
+      "name": "Homunculus (Spirit Made Flesh) IX",
+      "url": "https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5"
     },
     {
       "album": {

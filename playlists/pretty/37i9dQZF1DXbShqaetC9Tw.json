@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 90501,
+  "num_followers": 90555,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2JjZWJhYTZhYmIzMDRiNDA1MTk5NGFkMjMwM2JjZjMyNmUxZDIw",
+  "snapshot_id": "MCxjMGIzOTExMGU1NGVjNDkwYzZmYWFlOGU4ZTZmMWQyNDMwMzU3Zjhk",
   "tracks": [
     {
       "added_at": "2023-07-21 03:24:44",
@@ -771,22 +771,26 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+        "name": "Seoul Vibes Pt.1",
+        "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
         },
         {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        },
+        {
+          "name": "Rheehab",
+          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
         }
       ],
-      "duration_ms": 212840,
-      "name": "Poker (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
+      "duration_ms": 182062,
+      "name": "Sad Love Song (feat. slchld & Rheehab)",
+      "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -811,26 +815,22 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "Seoul Vibes Pt.1",
-        "url": "https://open.spotify.com/album/6Vr9ohrwbRRG2YiZOqtOqY"
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
       "artists": [
         {
-          "name": "KozyPop",
-          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        },
-        {
-          "name": "Rheehab",
-          "url": "https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu"
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
         }
       ],
-      "duration_ms": 182062,
-      "name": "Sad Love Song (feat. slchld & Rheehab)",
-      "url": "https://open.spotify.com/track/23A5k0zdbGThnBIu1lanyr"
+      "duration_ms": 212840,
+      "name": "Poker (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
     },
     {
       "added_at": "2023-07-21 03:24:44",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-07-21 03:24:44",
       "album": {
-        "name": "Marigold Tapes",
-        "url": "https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6"
       },
       "artists": [
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "imzoo",
+          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
         }
       ],
-      "duration_ms": 209685,
-      "name": "flight",
-      "url": "https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt"
+      "duration_ms": 188749,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

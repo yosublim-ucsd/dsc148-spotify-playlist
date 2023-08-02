@@ -4,7 +4,7 @@
 
 > ¡Lo más fresco del hip\-hop en español! El Dee en portada.
 
-199 songs - 11 hr 18 min
+200 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Hierba Mala](https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Hierba Mala](https://open.spotify.com/album/3OS70FhPdphV5p6ii238CE) | 3:54 | 2023-06-30 |  |
 | [Hombre \(One Shot\) \- Remix](https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl) | [Mime 871](https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI), [Discan](https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY) | [Hombre \(One Shot\) \[Remix\]](https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY) | 3:04 | 2023-06-16 |  |
 | [Home Run](https://open.spotify.com/track/2G6mHbDVHHYYoPfnvTux8u) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Home Run](https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi) | 2:36 | 2023-07-21 |  |
-| [Honey](https://open.spotify.com/track/1Vc7ukcLACRqHlgwquGsi5) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [K.I.D](https://open.spotify.com/album/5j6EzeHbudRSBcPKdXvjx1) | 2:30 | 2023-06-30 |  |
+| [Honey](https://open.spotify.com/track/1Vc7ukcLACRqHlgwquGsi5) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [K.I.D](https://open.spotify.com/album/5j6EzeHbudRSBcPKdXvjx1) | 2:30 | 2023-06-30 | 2023-08-02 |
+| [Honey](https://open.spotify.com/track/5chFbDyXra8th7jLtjTjgL) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [K.I.D](https://open.spotify.com/album/3mosYXGwQ9camfOb1maH7s) | 2:30 | 2023-07-28 |  |
 | [Husein](https://open.spotify.com/track/4U7cmDHz5utZCRW1s1LoF7) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Husein](https://open.spotify.com/album/1DFMXfMfH7zQj1b7lhLJrP) | 3:41 | 2023-06-13 | 2023-06-24 |
 | [Indeleble](https://open.spotify.com/track/4DnmXoRZYZBItLe4Gt1JBD) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW) | [Indeleble](https://open.spotify.com/album/4w2N2EHQP7GuIdgAcU6wtN) | 3:14 | 2023-06-13 | 2023-07-15 |
 | [INESTABLE](https://open.spotify.com/track/7oZU0WfiYy81ezw6tnSpH7) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [INESTABLE](https://open.spotify.com/album/7u83atv1sRDpcLZTx60sfV) | 2:54 | 2023-06-30 |  |

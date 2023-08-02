@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy rockers\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,420 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,426 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 79 | [START AGAIN](https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [START AGAIN](https://open.spotify.com/album/2blJUAX8ujjwOHR657iEXP) | 2:43 |
 | 80 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
 
-Snapshot ID: `MCw3ZDU0NTU0MTA2MmE1MWU4OGMzYzhjZjNlYjBmNzg2MDM2Nzg4Y2Yy`
+Snapshot ID: `MCxjZGY4ZmE5ZTU2YWUwMGE3NjZhNmQ3YTVmZTM1YWQ3MjZkZWFkY2Uy`

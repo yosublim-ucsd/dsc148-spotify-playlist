@@ -3545,7 +3545,7 @@
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 136956,
+      "duration_ms": 136185,
       "name": "Baguettes",
       "url": "https://open.spotify.com/track/5A1pmiQSDetw2cFs4lcbgd"
     },
@@ -4625,7 +4625,7 @@
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 188500,
+      "duration_ms": 189456,
       "name": "Big Stacks",
       "url": "https://open.spotify.com/track/2nQbgg9sKokyd7o99xMpbQ"
     },
@@ -9800,13 +9800,17 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES)",
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {
@@ -16080,10 +16084,6 @@
       },
       "artists": [
         {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        },
-        {
           "name": "Tim Beumers",
           "url": "https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x"
         },
@@ -16094,6 +16094,10 @@
         {
           "name": "Mike Tibbert",
           "url": "https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75"
+        },
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
         }
       ],
       "date_added": "2023-07-27",

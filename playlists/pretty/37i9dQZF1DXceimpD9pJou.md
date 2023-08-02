@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5?si=538gXNdBThOxPyUqPC0elQ">Gocho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,728 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,799 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Mi Prioridad](https://open.spotify.com/track/3rgpZycMxLz0S7gb1irJVk) | [Grupo Hesed](https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA) | [Mi Prioridad](https://open.spotify.com/album/05e64dpw82UmZGuGeJwgqb) | 3:09 |
 | 100 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \[En Vivo\]](https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F) | 4:31 |
 
-Snapshot ID: `MCw1Zjc3ZTc2YzA3ZGZkYTg4MDQzMzU3ODNkZGIwNzhhNWQ5NjcxMDg5`
+Snapshot ID: `MCxiZTc3ZDMwMmI0ZjMwNzIzZWQ0NzQ0ZDUzODlmMDE3M2I2Yzk5Mzlh`

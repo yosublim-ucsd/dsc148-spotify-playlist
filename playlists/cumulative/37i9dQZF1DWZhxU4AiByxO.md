@@ -4,7 +4,7 @@
 
 > Enjoy some kid\-friendly pop tunes.
 
-288 songs - 14 hr 30 min
+289 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Sucker](https://open.spotify.com/track/3mR9m0eFdErCrq0UUPA1uF) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Sucker](https://open.spotify.com/album/1498yTafVDyZjvr7UCr3j2) | 3:02 | 2021-10-22 | 2022-07-29 |
 | [Sucker](https://open.spotify.com/track/4Sp3N8m40eXdLTrJsCcY6F) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 17](https://open.spotify.com/album/4RucFi1MogLkft52GQPS0S) | 3:02 | 2022-07-28 |  |
 | [Sunflower](https://open.spotify.com/track/6Mh1JHzFXhO2j6FDFrTkJ0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sunflower](https://open.spotify.com/album/7xeLaqRjeRvZtrsXPY3tob) | 2:42 | 2021-10-22 |  |
-| [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-07-28 |  |
+| [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-07-28 | 2023-08-02 |
+| [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-06-21 |  |
 | [Supalonely](https://open.spotify.com/track/3T509PFxP648elTwOoA5mj) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Supalonely / Midnight Sky \- EP](https://open.spotify.com/album/1cnXdPm39Kxe35EyeKP0hP) | 3:00 | 2021-10-22 |  |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-01-06 |  |
 | [Thank U, Next](https://open.spotify.com/track/40kdi1ZHChaIkQOXHp3CxB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Thank U, Next](https://open.spotify.com/album/5jg9380FKFqI7iexIOEYbv) | 3:22 | 2021-10-22 |  |

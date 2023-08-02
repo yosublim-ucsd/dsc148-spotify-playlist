@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Caloncho en portada.",
-  "num_followers": 57370,
+  "num_followers": 57406,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTRkZWEwNzYyYWMyZjEwMmZjOTU5ZWExYWZmZTkxNWE1MzkzNWI5",
+  "snapshot_id": "MCxiNGNjZDFlMzhlZDg2MDkyYzljYWE4YzQxYmJjZjg4MzdhMGQ5MWEx",
   "tracks": [
     {
       "added_at": "2023-07-28 18:38:54",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+        "name": "El Cielo A\u00fan Espera",
+        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+      "duration_ms": 233200,
+      "name": "El Cielo A\u00fan Espera",
+      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -559,22 +563,18 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "El Cielo A\u00fan Espera",
-        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 233200,
-      "name": "El Cielo A\u00fan Espera",
-      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Ahora S\u00e9",
-        "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Ahora S\u00e9",
-      "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 199080,
       "name": "Respirar",
       "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
+        "name": "Ahora S\u00e9",
+        "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 220161,
+      "name": "Ahora S\u00e9",
+      "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Ella Qu\u00e9 Te Dio",
-        "url": "https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Ella Qu\u00e9 Te Dio",
-      "url": "https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "Luna y Marea (feat. KURT)",
         "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
       },
@@ -1075,6 +1055,26 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
+        "name": "Ella Qu\u00e9 Te Dio",
+        "url": "https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/3Ot2GARqAwZfEX4JMZkkq8"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Nada Te Pido",
-        "url": "https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO"
+        "name": "Hola, Me Llamo Mar\u00eda",
+        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
         }
       ],
-      "duration_ms": 179459,
-      "name": "Nada Te Pido",
-      "url": "https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo"
+      "duration_ms": 156000,
+      "name": "Hola, Me Llamo Mar\u00eda",
+      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
+        "name": "Nada Te Pido",
+        "url": "https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 179459,
+      "name": "Nada Te Pido",
+      "url": "https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
         "name": "Mis No Lugares",
         "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 193443,
       "name": "Todo el Ruido del Mundo",
       "url": "https://open.spotify.com/track/3pILIhM9jDZ94GsyB7r82u"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
-        "name": "Hola, Me Llamo Mar\u00eda",
-        "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Hola, Me Llamo Mar\u00eda",
-      "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Hubo Algo",
-        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 311618,
-      "name": "Hubo Algo",
-      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "Coraz\u00f3n de Ave",
         "url": "https://open.spotify.com/album/1a9dGqVOjgXvjm1T18iEOI"
       },
@@ -1259,6 +1239,22 @@
       "duration_ms": 252306,
       "name": "Coraz\u00f3n de Ave",
       "url": "https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
+        "name": "Qu\u00e9 Es Amor? My Love",
+        "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
+      },
+      "artists": [
+        {
+          "name": "CoolestAndie",
+          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
+        }
+      ],
+      "duration_ms": 214114,
+      "name": "Qu\u00e9 Es Amor? My Love",
+      "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Qu\u00e9 Es Amor? My Love",
-        "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
+        "name": "Hubo Algo",
+        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
       },
       "artists": [
         {
-          "name": "CoolestAndie",
-          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 214114,
-      "name": "Qu\u00e9 Es Amor? My Love",
-      "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
     },
     {
       "added_at": "2023-07-28 18:38:54",

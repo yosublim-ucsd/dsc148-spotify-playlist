@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Big Bllakk",
-  "num_followers": 31534,
+  "num_followers": 31563,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjM1YjMxMjE0ZWUyNDhkYzZmMjdjMzZjNDk1MGRkZGEzNjljMGZh",
+  "snapshot_id": "MCwxMzk0ZTM5OWFmNTFiNTNhZDcyYTU0NGYwNTRiNjc5ZmNjZjZlZmRm",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -491,8 +491,8 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Concreto",
-        "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
+        "name": "Sirenes",
+        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
       },
       "artists": [
         {
@@ -500,17 +500,17 @@
           "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
         },
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Concreto",
-      "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
+      "duration_ms": 230000,
+      "name": "Sirenes",
+      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -643,8 +643,8 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Sirenes",
-        "url": "https://open.spotify.com/album/4NOFtN3gwD6OaHTjfDpIeo"
+        "name": "Concreto",
+        "url": "https://open.spotify.com/album/0484Oh2IFxPJEyEQfdxg5g"
       },
       "artists": [
         {
@@ -652,17 +652,17 @@
           "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         },
         {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Sirenes",
-      "url": "https://open.spotify.com/track/65pLuhvAvq0tPijFTpqKBP"
+      "duration_ms": 136666,
+      "name": "Concreto",
+      "url": "https://open.spotify.com/track/0j3wFKPtHef1d6ode3mzKk"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -875,18 +875,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Hip Hop Rare",
-        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
+        "name": "Perverso",
+        "url": "https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Shifu",
+          "url": "https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2"
+        },
+        {
+          "name": "Beats by GorJah",
+          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
         }
       ],
-      "duration_ms": 123802,
-      "name": "Hip Hop Rare",
-      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
+      "duration_ms": 149292,
+      "name": "Perverso",
+      "url": "https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -911,22 +915,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Perverso",
-        "url": "https://open.spotify.com/album/46mCUza6EREU7YAjCMllFL"
+        "name": "Hip Hop Rare",
+        "url": "https://open.spotify.com/album/41cCM6GZyRz1WtpE7WBxjB"
       },
       "artists": [
         {
-          "name": "Shifu",
-          "url": "https://open.spotify.com/artist/0P7qtYjwHyjSPrkVW8QBJ2"
-        },
-        {
-          "name": "Beats by GorJah",
-          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         }
       ],
-      "duration_ms": 149292,
-      "name": "Perverso",
-      "url": "https://open.spotify.com/track/6WbDPOpaBc4rPvxWBO9xVE"
+      "duration_ms": 123802,
+      "name": "Hip Hop Rare",
+      "url": "https://open.spotify.com/track/1a2H78ZsONNYxfv9EuODnR"
     },
     {
       "added_at": "2023-07-28 03:01:00",

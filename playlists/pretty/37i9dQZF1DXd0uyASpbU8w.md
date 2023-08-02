@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=BEkpM7ZITmuFksyFi7qa1A">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,061 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,114 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
+| 1 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
 | 2 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 3 | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [JEALOUSY \(feat\. Cardi B\)](https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL) | 2:54 |
 | 4 | [Crazy Crazy](https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Crazy Crazy](https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9) | 2:32 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 59 | [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 |
 | 60 | [The Real Thing](https://open.spotify.com/track/5yPEgsIa9x4BkMsBJaF2cM) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT) | [The Real Thing](https://open.spotify.com/album/7t3nIj86bm0IwI9ReX6Ye3) | 2:55 |
 | 61 | [Higher](https://open.spotify.com/track/4hOQL5UxCIBB6IkmgTcrC5) | [Kila G](https://open.spotify.com/artist/2yfTGcoehiKZZnAM6mWU2E) | [Higher](https://open.spotify.com/album/21wQpdYvUS9KML6EqQwH8q) | 4:37 |
-| 62 | [Sondela](https://open.spotify.com/track/3tm2q3yZgMMDG9RroCKvyW) | [Piano City](https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28), [TBO & SjavasDaDeejay](https://open.spotify.com/artist/4ceIyg90elyGcdi0tN6GAl), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [Senjay](https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26) | [Sondela](https://open.spotify.com/album/6SmimdcULZZJ7vsPbl6Zgb) | 6:58 |
+| 62 | [Sondela](https://open.spotify.com/track/3tm2q3yZgMMDG9RroCKvyW) | [Piano City](https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Boontle RSA](https://open.spotify.com/artist/47krblknOhmovlOAbneemK), [Senjay](https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26) | [Sondela](https://open.spotify.com/album/6SmimdcULZZJ7vsPbl6Zgb) | 6:58 |
 | 63 | [MABOKO](https://open.spotify.com/track/6Uf3SisTTTGdsosUXVxzox) | [Tumisho](https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d), [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio) | [MABOKO](https://open.spotify.com/album/2Vhp7dctvU0kiL55jdoTOL) | 5:42 |
 | 64 | [Impendulo](https://open.spotify.com/track/3iBQ5Gg4tO3TGtiIk0tZBh) | [Deepson HD](https://open.spotify.com/artist/5l30GjJ3nO4fLVQiQPE5FL), [Nhlonipho](https://open.spotify.com/artist/2pia1bbhmqFUxZvJzsulRW) | [Impendulo](https://open.spotify.com/album/6Z4bFD2YZBdlqU0nNrC2Nu) | 7:08 |
 | 65 | [Spirit of Durban](https://open.spotify.com/track/6u1uNrZZNT3oagT0OXxumT) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S) | [Spirit of Durban](https://open.spotify.com/album/2RPJTcmhfCbS16Vs7PiUsZ) | 8:06 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 71 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 |
 | 72 | [Lock It Down](https://open.spotify.com/track/7EBsJZyt5DKvIsgEsIz6Gb) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Lock It Down](https://open.spotify.com/album/101dDvYka9Q459BvinL7Ih) | 2:57 |
 
-Snapshot ID: `MCwwMWI5MWE1MDlmZjQxYzBlNjY2YmQzNTJkYzc5NDY0MmVkNjM5MmFh`
+Snapshot ID: `MCxjMDA4MzFkYmZjNDIxOGQwM2YxOGNkNmJjMTgyZTkxMGI4OTEzNzdj`

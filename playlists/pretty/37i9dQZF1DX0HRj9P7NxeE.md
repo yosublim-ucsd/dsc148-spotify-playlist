@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775,753 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,775,583 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 46 | [Super Freaky Girl \(with JT & BIA feat\. Katie Got Bandz, Akbar V & Maliibu Mitch\) \- Queen Mix](https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Katie Got Bandz](https://open.spotify.com/artist/48ObYO3GM7R76nRcfyvnM9), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw), [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [Super Freaky Girl \(Queen Mix\)](https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6) | 3:54 |
 | 47 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
 | 48 | [Get It](https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [RESILIENCE](https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx) | 2:53 |
-| 49 | [Move It](https://open.spotify.com/track/2wfsZraYJMgUE8Rg6JuzqM) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Move It](https://open.spotify.com/album/3GCMoYx54rVyRSxQFqntuR) | 2:26 |
+| 49 | [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 |
 | 50 | [Sneaky Link](https://open.spotify.com/track/4dPaEnjUaBjG3ukUHMeNDl) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [NyNy](https://open.spotify.com/artist/37ANmItcvVWbBEROrO5g33) | [Sneaky Link](https://open.spotify.com/album/66q0tnzglsn6fHdeDHF8T8) | 2:26 |
 
-Snapshot ID: `MCxjM2I2NGY4ZGE4MTgyODBlN2IyZTMzZGFjM2Q1ZWMwMGM1NmQ4ZWE5`
+Snapshot ID: `MCxjMzRkYWIxZmY3YzVmYzJjMGFhMTI4MjVkYmU1NmRiMTVjNzhhY2Iz`

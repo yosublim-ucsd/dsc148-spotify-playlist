@@ -4,7 +4,7 @@
 
 > 
 
-481 songs - 21 hr 38 min
+482 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Demon](https://open.spotify.com/track/3m2r08Ylrjz6BdL735auPh) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs) | [Rich slime](https://open.spotify.com/album/2Oe8Vc7miZMoHiB6pr1SXX) | 2:27 | 2022-10-18 |  |
 | [Did It Again](https://open.spotify.com/track/07z3x7UhAHhuBNzAlZ4olU) | [Lunchbox](https://open.spotify.com/artist/4yBk76oymBKTd7fs3XpbId) | [New Jazz](https://open.spotify.com/album/4KIdIkyXLJ73H0ddKVJSl2) | 1:52 | 2023-06-02 | 2023-07-17 |
 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 | 2023-07-10 |  |
+| [Die Trying](https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:33 | 2023-07-31 |  |
 | [Dingaling \(Lil Keed\)](https://open.spotify.com/track/2s4FCo9qPtI621UZ8PalQP) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Final Fantasy: The Finale](https://open.spotify.com/album/3rnPVqGku0hTlNwNGeIqJM) | 1:40 | 2022-10-16 | 2023-04-12 |
 | [Dirty Demon](https://open.spotify.com/track/0d2qg6CfYsWJZy0csJiNuZ) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Freewave 2](https://open.spotify.com/album/0nQtPHNSiy2I151G4YmOwU) | 3:09 | 2022-09-01 | 2023-05-09 |
 | [Dirty Money](https://open.spotify.com/track/5N9oDpshl2kfazjIwjNpCQ) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Dirty Money](https://open.spotify.com/album/6MZeTxU57UIgJmKOfqftb8) | 1:48 | 2022-10-21 | 2023-05-09 |

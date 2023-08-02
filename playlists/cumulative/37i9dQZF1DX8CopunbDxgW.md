@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: ODESZA & Yellow House
 
-861 songs - 2 day 8 hr 21 min
+862 songs - 2 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [So U Kno](https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [BMW Track / So U Kno](https://open.spotify.com/album/08Vp7WDcv1r8dVMjyJaVOt) | 5:43 | 2022-01-28 | 2022-12-22 |
 | [So U Kno](https://open.spotify.com/track/2oduSSwaKsqkOJssJo9Gxd) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [So U Kno](https://open.spotify.com/album/34ULOXYoSyHVdJI5u9tlTy) | 5:43 | 2022-09-09 | 2023-01-21 |
 | [Social Suicide](https://open.spotify.com/track/6Bob8aMfpzpEHjmzS1ToEO) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Social Suicide](https://open.spotify.com/album/73jmV69w0lGAk3xaTlF8Bx) | 3:58 | 2022-01-14 | 2022-07-07 |
+| [Some Things You’ll Never Know](https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 2:49 | 2023-08-02 |  |
 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 | 2022-06-24 | 2023-07-29 |
 | [Sorry Sorry Song](https://open.spotify.com/track/52jOLSP4sxdyLVn3cAczWn) | [swim good now](https://open.spotify.com/artist/0nfObbo5nqn9iWe0cy7Zvt) | [Sorry Sorry Song](https://open.spotify.com/album/4Wq0yR5fC9mmo89PCG1ql7) | 2:55 | 2021-10-08 | 2022-01-04 |
 | [soshy](https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [soshy](https://open.spotify.com/album/0It6cwMGugiHHtmLTjmoju) | 2:56 | 2021-08-06 | 2022-05-10 |
@@ -711,7 +712,7 @@
 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 | 2021-03-12 | 2022-01-03 |
 | [Strictly Business](https://open.spotify.com/track/1vfQTvWpBCwRPyYU5mZMfs) | [Clive From Accounts](https://open.spotify.com/artist/0HoKhZszlKG94i5rhyeL3n) | [Strictly Business EP](https://open.spotify.com/album/2lHljDHXgQa0d8oxLMGCG6) | 5:26 | 2021-10-29 | 2022-04-17 |
 | [Strike](https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Strike](https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz) | 2:53 | 2021-06-25 | 2023-01-06 |
-| [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-26 |  |
+| [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-26 | 2023-08-02 |
 | [Suenos Bravos](https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Suenos Bravos](https://open.spotify.com/album/0qkdLopwwuWRoX4U4FpXL0) | 3:30 | 2021-09-10 | 2022-08-18 |
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-11 | 2022-07-02 |
 | [summer on the inside](https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD) | 3:25 | 2021-07-30 | 2022-02-12 |

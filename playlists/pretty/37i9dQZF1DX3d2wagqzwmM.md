@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,236 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,741 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 37 | [Hardcore Vibes \- Radio Edit](https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Hardcore Vibes](https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2) | 2:41 |
 | 38 | [Techno Party](https://open.spotify.com/track/4GT1NVYkxsN3grh7zclyLa) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Murotani](https://open.spotify.com/artist/3fTYN3plW2oMZXGZf7JQWX) | [Techno Party](https://open.spotify.com/album/3e6xQP58Y5f2VHOpxNpsYh) | 3:17 |
 | 39 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 |
-| 40 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 |
-| 41 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 |
+| 40 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 |
+| 41 | [Synergy](https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Synergy](https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4) | 3:29 |
 | 42 | [Liang](https://open.spotify.com/track/3IJbDajiJ4EUu1iGsNzrqU) | [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Liang](https://open.spotify.com/album/46nV6goAp3URwXLErMs13s) | 2:30 |
 | 43 | [Blow Your Mind](https://open.spotify.com/track/2hUdC7KJF8hkBgfykpGz1z) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Blow Your Mind](https://open.spotify.com/album/3FNaV3PpvNblwUfe5sOhU2) | 4:45 |
 | 44 | [Take Me Away Again](https://open.spotify.com/track/2meQ2wSIBU8OQDKlJcJk5j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away Again](https://open.spotify.com/album/3FOqjkgC6qqes6K3Ejly3B) | 3:25 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 72 | [La Bomba](https://open.spotify.com/track/2iVNnBKIRIvl7VtA5iAZhr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [La Bomba](https://open.spotify.com/album/3GKYwf96BVfZIOBswK69Sc) | 2:59 |
 | 73 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 |
 | 74 | [We Go Out](https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [We Go Out](https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg) | 2:50 |
-| 75 | [SICK](https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [SICK](https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc) | 3:03 |
-| 76 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 |
+| 75 | [Forget You](https://open.spotify.com/track/5yo9aAVvgiINP2lowSXP5Y) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Jimmy Clash](https://open.spotify.com/artist/0Aa2FUc7MciV28GazFTWJb) | [Forget You](https://open.spotify.com/album/52ZSrn0YqEzPtIlzpQjhv3) | 2:45 |
+| 76 | [SICK](https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [SICK](https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc) | 3:03 |
 | 77 | [Lowrider](https://open.spotify.com/track/4QmrKRhtR8r16U0rDEVCvr) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Lowrider](https://open.spotify.com/album/26R1i4mklMHdNGF83QxaP0) | 2:31 |
 | 78 | [Apex](https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Apex](https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J) | 4:21 |
 | 79 | [Activating](https://open.spotify.com/track/0paBCCeeoquqN6sKrD3ocr) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Activating](https://open.spotify.com/album/7H8uxwCVQlJEaBMkwgGwde) | 2:43 |
-| 80 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 |
+| 80 | [Silence \- KAAZE Mix](https://open.spotify.com/track/3b4YKOb5I16PneRNGiy5bR) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Silence \(KAAZE Mix\)](https://open.spotify.com/album/3UxLfS40JbI3AFB3btzlz7) | 2:54 |
 
-Snapshot ID: `MCw2Nzk2OTA3OGUyODFkMzFjMmZmMGVlMDNmNmM1N2FmMTY1YmM3YzFk`
+Snapshot ID: `MCxmYzA3NTQ0ODZmMDhlYmQxYTJlZjY2ZmRhNTNhYzc2MThjMTRiZTdi`

@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "As light as the air",
+        "url": "https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178358,
+      "name": "As light as the air",
+      "url": "https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX"
+    },
+    {
+      "album": {
         "name": "As You Close Your Eyes",
         "url": "https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa"
       },
@@ -1464,6 +1482,24 @@
       "duration_ms": 127236,
       "name": "Calm Skies",
       "url": "https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3"
+    },
+    {
+      "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/0ZDf5tT8xNOjb7NkdQB8lH"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156136,
+      "name": "Calm Waves",
+      "url": "https://open.spotify.com/track/2eN6gy29Emm7MRbQrcJs7d"
     },
     {
       "album": {
@@ -2584,6 +2620,24 @@
       "duration_ms": 154000,
       "name": "D\u00e9routant",
       "url": "https://open.spotify.com/track/0KS4fyufVM7bNkyTKnL07p"
+    },
+    {
+      "album": {
+        "name": "D\u00e9vouement",
+        "url": "https://open.spotify.com/album/0UBhbhhh9HC0cJaLtFhNel"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136624,
+      "name": "D\u00e9vouement",
+      "url": "https://open.spotify.com/track/1IxqOTOmyJh9f8gSO9YbK2"
     },
     {
       "album": {
@@ -9336,6 +9390,24 @@
       "duration_ms": 156014,
       "name": "Silverfog",
       "url": "https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC"
+    },
+    {
+      "album": {
+        "name": "Simple Plans",
+        "url": "https://open.spotify.com/album/0PGgBVaKuVwpZVP5bI6aiN"
+      },
+      "artists": [
+        {
+          "name": "Junie Oakes",
+          "url": "https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193131,
+      "name": "Simple Plans",
+      "url": "https://open.spotify.com/track/5CZDntcdKNfGLxbeCkGei5"
     },
     {
       "album": {

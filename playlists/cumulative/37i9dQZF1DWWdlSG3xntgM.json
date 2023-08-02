@@ -50,11 +50,11 @@
       },
       "artists": [
         {
-          "name": "Ngoc Han",
+          "name": "Ng\u1ecdc H\u00e2n",
           "url": "https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER"
         },
         {
-          "name": "An Thien Vy",
+          "name": "\u00c2n Thi\u00ean V\u1ef9",
           "url": "https://open.spotify.com/artist/3vOlsWEBsGvKcNMBlGBUe7"
         }
       ],
@@ -754,11 +754,11 @@
       },
       "artists": [
         {
-          "name": "Mai Thien Van",
+          "name": "Mai Thi\u00ean V\u00e2n",
           "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
         },
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],
@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 254499,
       "name": "Hoa S\u1ee9 Nh\u00e0 N\u00e0ng",
       "url": "https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI"
@@ -1040,7 +1040,7 @@
       },
       "artists": [
         {
-          "name": "Luu Anh Loan",
+          "name": "L\u01b0u \u00c1nh Loan",
           "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
         }
       ],
@@ -1098,11 +1098,11 @@
       },
       "artists": [
         {
-          "name": "Nhu Quynh",
-          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         },
         {
-          "name": "Truong Vu",
+          "name": "Tr\u01b0\u1eddng V\u0169",
           "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
         }
       ],
@@ -1138,7 +1138,7 @@
       },
       "artists": [
         {
-          "name": "Truong Vu",
+          "name": "Tr\u01b0\u1eddng V\u0169",
           "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
         },
         {
@@ -1302,7 +1302,7 @@
       },
       "artists": [
         {
-          "name": "Thien Quang",
+          "name": "Thi\u00ean Quang",
           "url": "https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H"
         },
         {
@@ -1432,8 +1432,8 @@
       },
       "artists": [
         {
-          "name": "Nhu Quynh",
-          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         },
         {
           "name": "The Son",
@@ -1678,8 +1678,8 @@
       },
       "artists": [
         {
-          "name": "Nhu Quynh",
-          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         }
       ],
       "date_added": "2022-03-11",
@@ -1896,11 +1896,11 @@
       },
       "artists": [
         {
-          "name": "Truong Vu",
+          "name": "Tr\u01b0\u1eddng V\u0169",
           "url": "https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo"
         },
         {
-          "name": "Mai Thien Van",
+          "name": "Mai Thi\u00ean V\u00e2n",
           "url": "https://open.spotify.com/artist/6DKJX322RvZsWhz0Xn2myz"
         }
       ],
@@ -1962,7 +1962,7 @@
       },
       "artists": [
         {
-          "name": "Thien Quang",
+          "name": "Thi\u00ean Quang",
           "url": "https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H"
         },
         {
@@ -2114,7 +2114,7 @@
       },
       "artists": [
         {
-          "name": "Phuong My Chi",
+          "name": "Ph\u01b0\u01a1ng M\u1ef9 Chi",
           "url": "https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF"
         }
       ],
@@ -2360,7 +2360,7 @@
       },
       "artists": [
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         },
         {
@@ -2450,6 +2450,24 @@
     {
       "album": {
         "name": "Kh\u00fac T\u00ecnh X\u01b0a",
+        "url": "https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318600,
+      "name": "S\u1ea7u L\u1ebb B\u00f3ng",
+      "url": "https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi"
+    },
+    {
+      "album": {
+        "name": "Kh\u00fac T\u00ecnh X\u01b0a",
         "url": "https://open.spotify.com/album/1zbN3JwSe3zu6NHMgeDNnq"
       },
       "artists": [
@@ -2472,7 +2490,7 @@
       },
       "artists": [
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         },
         {
@@ -2924,8 +2942,8 @@
       },
       "artists": [
         {
-          "name": "Nhu Quynh",
-          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         }
       ],
       "date_added": "2022-03-11",
@@ -3092,8 +3110,8 @@
       },
       "artists": [
         {
-          "name": "Nhu Quynh",
-          "url": "https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe"
+          "name": "Nh\u01b0 Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw"
         }
       ],
       "date_added": "2022-03-11",
@@ -3146,7 +3164,7 @@
       },
       "artists": [
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],
@@ -3204,7 +3222,7 @@
           "url": "https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya"
         },
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         },
         {
@@ -3338,7 +3356,7 @@
       },
       "artists": [
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],
@@ -3374,7 +3392,7 @@
       },
       "artists": [
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],
@@ -3534,7 +3552,7 @@
           "url": "https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya"
         },
         {
-          "name": "Quang Le",
+          "name": "Quang L\u00ea",
           "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         }
       ],

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 32 songs - 46 min 24 sec
+[Spotify](https://open.spotify.com/user/spotify) - 521 likes - 32 songs - 46 min 24 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,14 +31,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 21 | [Antonio's Voice](https://open.spotify.com/track/3iYknzsuP2M4ggDyCthGTg) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:14 |
 | 22 | [Helicopter to Reunions](https://open.spotify.com/track/6SpjiHht08N1jfKzsqfWuJ) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:01 |
 | 23 | [Masks And Mirrors](https://open.spotify.com/track/6xdlu35n0Vd1LpQqKBnfW0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:27 |
-| 24 | [Wolf Watcher](https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:24 |
+| 24 | [Whatever The Question](https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:18 |
 | 25 | [Cowboy Frank](https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:23 |
 | 26 | [Summer Passes Into Autumn](https://open.spotify.com/track/4XuC1b3xLK3O2zmFppHRwc) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:01 |
 | 27 | [Bathtime For George](https://open.spotify.com/track/5gC6iFS2NwrnVDL5L6rToz) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:23 |
-| 28 | [Whatever The Question](https://open.spotify.com/track/7zZjge9X7LZqPByrM80HTd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:18 |
+| 28 | [Wolf Watcher](https://open.spotify.com/track/7r4d49W9ireRX7TAY8FRus) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:24 |
 | 29 | [Ginny Sees the Light](https://open.spotify.com/track/1CfFQW5d5waaNcEJzuhXLJ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:09 |
 | 30 | [Buscando Trabajo](https://open.spotify.com/track/0MjgwZTsMxJ79gsD10Fll2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 1:28 |
 | 31 | [Zoe's Snow Globes](https://open.spotify.com/track/3y73rn8sjA8c0aPKMkC2nk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:21 |
 | 32 | [Arriving to Ginny's Farm](https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:24 |
 
-Snapshot ID: `MjgxODAxNDEsMDAwMDAwMDA1NmI0NDAzYzZmYjFmMmIxMDNmY2NkNGY0MWFjNmE5Yw==`
+Snapshot ID: `MjgxODE2NDMsMDAwMDAwMDA0NjZiMDk0YzAxMjE4YjRjNzE5YjE5OTI4Mjk0MTc2MA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 
 > Enjoy the SEVENTEEN's best hits for the upcoming concerts! \(다가오는 세븐틴의 콘서트를 준비하며 히트곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,658 likes - 53 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,289 likes - 53 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 35 | [Circles](https://open.spotify.com/track/6rurduYegrf5XSZrphuyF2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 3:59 |
 | 36 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 |
 | 37 | [Run to you](https://open.spotify.com/track/7MhirYiYlbhN8L1y6VwbBu) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:14 |
-| 38 | [Good to Me](https://open.spotify.com/track/2ujZatFh8uZMkiBTu2z7AH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:09 |
+| 38 | [Good to Me](https://open.spotify.com/track/4RWbyug0n12hOVHDxRAj5y) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 3:09 |
 | 39 | [Anyone](https://open.spotify.com/track/12jngD7Hu6if6sIzPkO2k4) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 2:56 |
 | 40 | [A\-TEEN](https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN Part.3](https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb) | 3:16 |
 | 41 | [Campfire](https://open.spotify.com/track/3p1J2lefXYI4mMQqXUez75) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:27 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtA6H6FCiTv.md) - [plain]
 | 52 | [I can't run away](https://open.spotify.com/track/0bFiLUmBmFX0aWyhVqIwiN) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:30 |
 | 53 | [CHANGE UP](https://open.spotify.com/track/6j6wUN8whCYTwxCg9R240U) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:07 |
 
-Snapshot ID: `MCxhMDFiOTIwMmE3N2JmYzllYWJjZGYxMTJhZGY5Y2E2NjJmNTZlZDll`
+Snapshot ID: `MCw5Zjc0ZTA5M2RjNWRlNzBlZjA5OTBjOWRmZWEwOWJlOTI0ODFiY2Nm`

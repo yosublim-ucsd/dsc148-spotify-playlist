@@ -4274,10 +4274,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
       "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
+    },
+    {
+      "album": {
+        "name": "The Magic of Moonlight",
+        "url": "https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N"
+      },
+      "artists": [
+        {
+          "name": "Brian Bromberg",
+          "url": "https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417363,
+      "name": "Nico\u2019s Groove",
+      "url": "https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h"
     },
     {
       "album": {

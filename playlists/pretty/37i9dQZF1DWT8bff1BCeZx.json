@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 3703,
+  "num_followers": 3734,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2E3ODIwYmMxZjNmNTAyYTFkMzA0YzY2YWFlY2E4NTA4ZTUwZmM3",
+  "snapshot_id": "MCxmZGJiZDRhMGQxYTI4M2NhNzkxYTBkMzcwNDM2NTk3ZjcwZmY2ZGRj",
   "tracks": [
     {
       "added_at": "2023-07-28 00:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "African Praise",
-        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
-      },
-      "artists": [
-        {
-          "name": "Kayode Akojenu",
-          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
-        }
-      ],
-      "duration_ms": 91760,
-      "name": "We Praise You Lord",
-      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 237479,
       "name": "Regular (feat. Fiokee)",
       "url": "https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "African Praise",
+        "url": "https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn"
+      },
+      "artists": [
+        {
+          "name": "Kayode Akojenu",
+          "url": "https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj"
+        }
+      ],
+      "duration_ms": 91760,
+      "name": "We Praise You Lord",
+      "url": "https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q"
     },
     {
       "added_at": "2023-07-28 00:01:00",

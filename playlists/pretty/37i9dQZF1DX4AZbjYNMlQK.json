@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 286328,
+  "num_followers": 286322,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzJiMGRiZmM0ODcyNDYxNjA3ODhkZjFhYWUxN2I3OTBmNWI5ODNk",
+  "snapshot_id": "MCw0NGU4NTNiMDE4N2I4Yjg3YzFhNmQzMjU5ZTQ5NzdiYzFjYmUxZTgy",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Otro a\u00f1o +",
-        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 100231,
-      "name": "Otro a\u00f1o +",
-      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "Ven a Mi Casa Esta Navidad",
         "url": "https://open.spotify.com/album/4uastmbjHgxrGP65Gigd4y"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 206768,
       "name": "Ven a Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/5ISMjtLXxtXa5mWRQDaZK6"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Otro a\u00f1o +",
+        "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 100231,
+      "name": "Otro a\u00f1o +",
+      "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
     },
     {
       "added_at": "2022-12-22 18:37:48",

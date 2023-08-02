@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-4,075 songs - 11 day 9 hr 13 min
+4,076 songs - 11 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1417,7 +1417,8 @@
 | [Hey You](https://open.spotify.com/track/4ic7zZbONHQ8KuIvJnWxiK) | [Trampolines](https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hey You](https://open.spotify.com/album/1vYhE0WyIrAHjMvFUiewCb) | 2:56 | 2023-01-27 | 2023-02-11 |
 | [Hidden](https://open.spotify.com/track/2fiv9AaU6t7OacZRcnrINn) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Hidden](https://open.spotify.com/album/6m3tT6yod44lBPnu9DWoqM) | 2:38 | 2022-09-23 | 2022-10-01 |
 | [Hidden](https://open.spotify.com/track/3PP9L1bxt0FbwEgSJEznSZ) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Hidden](https://open.spotify.com/album/4IYq1OYcC5WsRytK1AR2HP) | 2:48 | 2022-08-12 | 2022-08-27 |
-| [Hidden \- Live](https://open.spotify.com/track/6hGGURGblcres1uOODPgct) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hidden \(Live\)](https://open.spotify.com/album/281wBwWnqnlOVGFIzEFJDD) | 5:36 | 2023-07-21 |  |
+| [Hidden \- Live](https://open.spotify.com/track/69PASKo3OEw3JngHIYNKBi) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Life Laid Down \(Live\)](https://open.spotify.com/album/149pPKRjcXR4QPgHIkYvqL) | 5:36 | 2023-07-28 |  |
+| [Hidden \- Live](https://open.spotify.com/track/6hGGURGblcres1uOODPgct) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Hidden \(Live\)](https://open.spotify.com/album/281wBwWnqnlOVGFIzEFJDD) | 5:36 | 2023-07-21 | 2023-08-02 |
 | [Hidden \- Live](https://open.spotify.com/track/6Au4WyVE7kbDJ8mSYlqfVy) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Hidden \(Live\)](https://open.spotify.com/album/4NZpS5QKSNxa9B4PgMRLaU) | 8:53 | 2023-04-07 | 2023-04-22 |
 | [Hidden from Sight](https://open.spotify.com/track/1dzsAKiXbxprg0vupGS1vf) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [ben haydn](https://open.spotify.com/artist/6hhSMFSre2tzsoKtm3slxB) | [Hidden From Sight](https://open.spotify.com/album/4cryOm6MtstgKTOihtmfGv) | 3:45 | 2023-06-30 | 2023-07-15 |
 | [Hidden Here](https://open.spotify.com/track/6R6owafbjuXsvtWPD39tDH) | [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Hidden Here](https://open.spotify.com/album/0endysgU1C5wo2Lvmq9kPt) | 3:41 | 2023-06-24 | 2023-07-09 |

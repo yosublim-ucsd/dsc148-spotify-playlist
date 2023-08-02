@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 ### [Country Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX9nWj0Ba73K5)
 
-> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Brandy Clark
+> Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,553 likes - 217 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,559 likes - 217 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 |
-| 2 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 |
-| 3 | [Lonely Ain't So Lonely](https://open.spotify.com/track/6HydPGV0coZ4LIyFSzitXE) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [I Am Now](https://open.spotify.com/album/6ajKwHKtUDhGI4Wnh8Ezx9) | 3:32 |
-| 4 | [Tell Your Mother I’m Fine](https://open.spotify.com/track/5PM67sXQVdZIJfX86JgwcM) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Tell Your Mother I’m Fine](https://open.spotify.com/album/5gdxk0YHrfX9HCsGh6QNaP) | 3:08 |
-| 5 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
-| 6 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 |
-| 7 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 |
-| 8 | [Happy Children](https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Happy Children](https://open.spotify.com/album/4ZexsPQNXsn1b8Pwg4HO1o) | 4:11 |
-| 9 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 |
+| 1 | [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 |
+| 2 | [Lonely Ain't So Lonely](https://open.spotify.com/track/6HydPGV0coZ4LIyFSzitXE) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [I Am Now](https://open.spotify.com/album/6ajKwHKtUDhGI4Wnh8Ezx9) | 3:32 |
+| 3 | [Tell Your Mother I’m Fine](https://open.spotify.com/track/5PM67sXQVdZIJfX86JgwcM) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Tell Your Mother I’m Fine](https://open.spotify.com/album/5gdxk0YHrfX9HCsGh6QNaP) | 3:08 |
+| 4 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
+| 5 | [T\-Shirt](https://open.spotify.com/track/5AAHiCmdVSl83vJVXRCbf0) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C) | [2016 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/2rfAtTubp83YShEfKUBrKb) | 3:21 |
+| 6 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 |
+| 7 | [Happy Children](https://open.spotify.com/track/4Fn2Ijd0qvHgXZNX2fkvXb) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Happy Children](https://open.spotify.com/album/4ZexsPQNXsn1b8Pwg4HO1o) | 4:11 |
+| 8 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 |
+| 9 | [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 |
 | 10 | [self care.](https://open.spotify.com/track/6RgUCaT2kLxy6o1XCOWQjQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [self care.](https://open.spotify.com/album/7eG9QRz0CNpz8Y1fzKJYzB) | 2:19 |
 | 11 | [Heaven](https://open.spotify.com/track/3vrbDNAVcVKOW2tukIpjho) | [AIMP Nashville](https://open.spotify.com/artist/1ZErafHGtMZeSem9789LMo), [Matt McGinn](https://open.spotify.com/artist/3AtUVMxegxVeWrYSD7nMOa) | [2018 Nominees \- Original Songwriter Demos](https://open.spotify.com/album/5AOIvPlIqtlrBCjuDYTGOf) | 2:58 |
 | 12 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 | 216 | [Wild Thing](https://open.spotify.com/track/0DS8J8nibBxG6Ky2VhMhH1) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:42 |
 | 217 | [Play Ball](https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:27 |
 
-Snapshot ID: `MCxiNmJjNmZmNTk5YzVjNWI0ZDhlNTRlZmJjMTIwYmQ1YjcyZDEzNGZm`
+Snapshot ID: `MCwxMjBjZGVhMDhiYTFlZjUyNTYzMGYyODczNmIyNTMxZTBjYzcwZjVi`

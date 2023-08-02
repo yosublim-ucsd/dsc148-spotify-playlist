@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
-  "num_followers": 703537,
+  "num_followers": 703528,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGI5MmNlOGU1NTgwMzJlNDI3ZWIwY2Y2MWY2Y2IwYmMyZTEzMDg4",
+  "snapshot_id": "MCw1ODk0ZDMyMjcyYWMzMzA0OTU4ODBiYzkyZTExY2IyNmJiNDc2ZmE1",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Bad Friend",
         "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 217537,
-      "name": "Heartbreak Feels So Good",
-      "url": "https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 178318,
       "name": "Take the Ride",
       "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK"
     },
     {
       "added_at": "2023-07-28 03:01:00",

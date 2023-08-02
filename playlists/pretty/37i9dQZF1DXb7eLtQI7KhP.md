@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,504 likes - 129 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,521 likes - 129 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Clementine](https://open.spotify.com/track/5mumYQLVn62eJyxR8wAb0v) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Clementine](https://open.spotify.com/album/1RgeZMJzrEjOu2maoK7YOa) | 2:40 |
-| 2 | [Winter solstice](https://open.spotify.com/track/5ahM6oAPik0WB6sEN8Oep6) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Winter solstice](https://open.spotify.com/album/0aUUS04W5TOsnBGxsE8A18) | 3:01 |
-| 3 | [Quiet Respite](https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Quiet Respite](https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p) | 2:43 |
-| 4 | [Stolen moment](https://open.spotify.com/track/0yDZ5ON2b1XVWDnQ8rMhXk) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Stolen moment](https://open.spotify.com/album/63bNR2NDPNqh7tM6Y7ZzVJ) | 2:52 |
-| 5 | [Paracosm](https://open.spotify.com/track/50u27CJ2G7hJnVzlW5yOQa) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Paracosm](https://open.spotify.com/album/7A2SrK0PkccqXKTmFHA6xF) | 3:36 |
-| 6 | [Huzun](https://open.spotify.com/track/4blYPxx1iXyaKZht0Kglsn) | [Karlis Volt](https://open.spotify.com/artist/55DNIiMoYD4awuH7e1gZiT) | [Huzun](https://open.spotify.com/album/1lSLot5QUPX02o3PZr7XIy) | 2:38 |
-| 7 | [Calmoria](https://open.spotify.com/track/28wbWhaO3c84k4TTsZYjnk) | [Dreamsource](https://open.spotify.com/artist/1UC20wRjauXc9VJvn7GqCc) | [Calmoria](https://open.spotify.com/album/3VuU9ovZQrhRfeQl8LXn6W) | 3:05 |
-| 8 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 |
-| 9 | [Astre Azuré](https://open.spotify.com/track/4trDEyDLEUebecnun5Iqp5) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Astre Azuré](https://open.spotify.com/album/059cxiXDnCF9c4OxuSuNNW) | 3:08 |
-| 10 | [Vigil Morae](https://open.spotify.com/track/2clU9GgUfOFefl7pHByTfu) | [Gabriel Meyknecht](https://open.spotify.com/artist/6TlcLLp7ynJ1B2GydcbGMv) | [Vigil Morae](https://open.spotify.com/album/7FCQyxCNkEInUR0hWS9yv3) | 3:18 |
-| 11 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 |
-| 12 | [Ciel Émerveillé](https://open.spotify.com/track/0kZT7fviP2mtbOQ9dd43sd) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Ciel Émerveillé](https://open.spotify.com/album/6V32voIY6xE3NxZ3YxN0c3) | 2:25 |
+| 1 | [Quiet Respite](https://open.spotify.com/track/6rRC89OHKbpXVraHgnZ7MI) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Quiet Respite](https://open.spotify.com/album/29obYtqcaVQlkJ95FwcT9p) | 2:43 |
+| 2 | [Ciel Émerveillé](https://open.spotify.com/track/0kZT7fviP2mtbOQ9dd43sd) | [Adeline Verver](https://open.spotify.com/artist/7i31XXbPM6vD4MDc5RlR7A) | [Ciel Émerveillé](https://open.spotify.com/album/6V32voIY6xE3NxZ3YxN0c3) | 2:25 |
+| 3 | [Stolen moment](https://open.spotify.com/track/0yDZ5ON2b1XVWDnQ8rMhXk) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Stolen moment](https://open.spotify.com/album/63bNR2NDPNqh7tM6Y7ZzVJ) | 2:52 |
+| 4 | [Clementine](https://open.spotify.com/track/5mumYQLVn62eJyxR8wAb0v) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Clementine](https://open.spotify.com/album/1RgeZMJzrEjOu2maoK7YOa) | 2:40 |
+| 5 | [Winter solstice](https://open.spotify.com/track/5ahM6oAPik0WB6sEN8Oep6) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Winter solstice](https://open.spotify.com/album/0aUUS04W5TOsnBGxsE8A18) | 3:01 |
+| 6 | [Astre Azuré](https://open.spotify.com/track/4trDEyDLEUebecnun5Iqp5) | [Enormousness](https://open.spotify.com/artist/7H1K6r71caJTKrd0oFLYN2) | [Astre Azuré](https://open.spotify.com/album/059cxiXDnCF9c4OxuSuNNW) | 3:08 |
+| 7 | [Paracosm](https://open.spotify.com/track/50u27CJ2G7hJnVzlW5yOQa) | [Albin Urías](https://open.spotify.com/artist/5phmOQdhQEBnfAev0uSbX6) | [Paracosm](https://open.spotify.com/album/7A2SrK0PkccqXKTmFHA6xF) | 3:36 |
+| 8 | [Huzun](https://open.spotify.com/track/4blYPxx1iXyaKZht0Kglsn) | [Karlis Volt](https://open.spotify.com/artist/55DNIiMoYD4awuH7e1gZiT) | [Huzun](https://open.spotify.com/album/1lSLot5QUPX02o3PZr7XIy) | 2:38 |
+| 9 | [Calmoria](https://open.spotify.com/track/28wbWhaO3c84k4TTsZYjnk) | [Dreamsource](https://open.spotify.com/artist/1UC20wRjauXc9VJvn7GqCc) | [Calmoria](https://open.spotify.com/album/3VuU9ovZQrhRfeQl8LXn6W) | 3:05 |
+| 10 | [Nephology](https://open.spotify.com/track/2RXxXoJ6b42rQWpHrkIqRB) | [Ceylan Aydem Project](https://open.spotify.com/artist/6EDn2Y3RQU5ilTmJ9sxSS1) | [Nephology](https://open.spotify.com/album/6TKRYgP9nOBCnfa2V8LKW8) | 2:25 |
+| 11 | [Vigil Morae](https://open.spotify.com/track/2clU9GgUfOFefl7pHByTfu) | [Gabriel Meyknecht](https://open.spotify.com/artist/6TlcLLp7ynJ1B2GydcbGMv) | [Vigil Morae](https://open.spotify.com/album/7FCQyxCNkEInUR0hWS9yv3) | 3:18 |
+| 12 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 |
 | 13 | [bacio gelato](https://open.spotify.com/track/62cxOsRZ7bUhDA64Rbhtcm) | [ambi pino](https://open.spotify.com/artist/70QpPcftSqRLCpdbzjBPIP) | [ricette de dolci](https://open.spotify.com/album/0h8S8rVorWb93CMm1U1SxC) | 1:36 |
 | 14 | [Tripolar](https://open.spotify.com/track/5MU0F5Wnotxq3Z59IQ98rw) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Tripolar](https://open.spotify.com/album/2q8Bxi5AuYzRqUF7mwE5mG) | 3:05 |
 | 15 | [Upwards](https://open.spotify.com/track/5l3eFTPbL0a4XkGH9c6Th4) | [Adriana Ferreira](https://open.spotify.com/artist/5qMdhPixXWa5PKUlMQZoH2) | [Upwards](https://open.spotify.com/album/4IHdGqtq6WyPbaEyqqVS4i) | 2:37 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 128 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 |
 | 129 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 |
 
-Snapshot ID: `MCw5MzFiNzcwM2Y2ZjcyOTM5ZmQxMTYxNmNiYmJkMmI0MzdkNmJlNzU0`
+Snapshot ID: `MCw4YjU4NGFlYTJhNjI4YjUxYmU5YzU0NTQzMzAyY2FmMTJjMDYyNmY3`

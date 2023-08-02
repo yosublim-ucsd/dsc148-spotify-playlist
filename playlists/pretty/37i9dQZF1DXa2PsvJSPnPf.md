@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,108 likes - 140 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,167 likes - 140 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 55 | [Bluebird](https://open.spotify.com/track/6LHeyArdyep2T0hOvhjNM1) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Bluebird](https://open.spotify.com/album/55TYAmboq3yiEa8XtdfECF) | 3:04 |
 | 56 | [Wishing I Was Wrong](https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Wishing I Was Wrong](https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY) | 3:08 |
 | 57 | [Joke’s On Me](https://open.spotify.com/track/4PrwTOyFdEzYaYoTDaLuIG) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Cycles](https://open.spotify.com/album/39YBVSJcX1YP53p3CiEOTB) | 2:46 |
-| 58 | [No Aphrodisiac \- \(Black Stump\)](https://open.spotify.com/track/7xynFxkJJqzol41dmFgtPn) | [Black Stump Band](https://open.spotify.com/artist/0Ux8LHEmbC9PVL86FlgH1p), [The Whitlams](https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6) | [No Aphrodisiac \(Black Stump\)](https://open.spotify.com/album/5kWKaC2h5CaRZgFqtFDF3V) | 2:58 |
+| 58 | [No Aphrodisiac \- \(Black Stump\)](https://open.spotify.com/track/7xynFxkJJqzol41dmFgtPn) | [The Whitlams](https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6), [Black Stump Band](https://open.spotify.com/artist/0Ux8LHEmbC9PVL86FlgH1p) | [No Aphrodisiac \(Black Stump\)](https://open.spotify.com/album/5kWKaC2h5CaRZgFqtFDF3V) | 2:58 |
 | 59 | [Paducah](https://open.spotify.com/track/5V8WG4Tk5xDRh08qQNcqBn) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx) | [Different Shade of Blue](https://open.spotify.com/album/1bS9rbTyVx0N0stPOkXyYo) | 3:30 |
 | 60 | [Six Years Come September](https://open.spotify.com/track/1oSS7iqgjZgyh2jxRv9Zb8) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Six Years Come September](https://open.spotify.com/album/7mmY7flG0gSxo50WhaDta4) | 3:51 |
 | 61 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 139 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 |
 | 140 | [Shadrach](https://open.spotify.com/track/0ksfRvHljT8MW9dlhmQMia) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Axis Mundi](https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY) | 2:51 |
 
-Snapshot ID: `MCw1NGMxMjVjMzJmMTRhZTM0ODRlMDlkYjcwZTI4YmJhZWU5NWM5MTA3`
+Snapshot ID: `MCw0MzUxYzg2MTFmZGJjMzU2ZjE5OGQ3NmNiY2M3MDIyYTQyOTA5MDdi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,915 likes - 68 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,990 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 67 | [Alpha Blanket 85Hz \- 92Hz](https://open.spotify.com/track/69yGC4d8YCc0YdgRndEUha) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Alpha Blanket](https://open.spotify.com/album/4ytgWTRAzT1OCcfCZefm6J) | 3:57 |
 | 68 | [Eventi Alpha SInus 88\-94 Hz](https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:40 |
 
-Snapshot ID: `MCwwMGI0OWQ2Y2E4NjBiYzI4MzVhOWU5NzIwNGZhY2EyZjQzMTVlYzJk`
+Snapshot ID: `MCxhYmViNmQwM2E3ZTJkOWE4MTlmMGQ5YmE1NTk1MzU2MTg1MmQ5NzQz`

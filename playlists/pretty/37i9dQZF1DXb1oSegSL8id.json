@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 797316,
+  "num_followers": 797476,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWM2NzdiOTJkOTIyNjNjNDQ5NjA5Y2RmNzFhZWU2MDdlNmYyYzA3",
+  "snapshot_id": "MCwzNTRmMWEwY2NkODM0ZjI5ZDJjMWI1Yzg3YjM1ODUwNjM2MDgxZjVh",
   "tracks": [
     {
       "added_at": "2023-01-03 19:20:11",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Sua M\u00e3e Vai Me Amar",
+        "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 183758,
+      "name": "Sua M\u00e3e Vai Me Amar",
+      "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Sua M\u00e3e Vai Me Amar",
-        "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 183758,
-      "name": "Sua M\u00e3e Vai Me Amar",
-      "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -415,6 +415,26 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Piseiro Sofr\u00eancia",
         "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 181930,
       "name": "Cheirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5A4DlgM68SnFSKImnMeiUH"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "A Nova Cara das Vaquejadas",
-        "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
-      },
-      "artists": [
-        {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
-        },
-        {
-          "name": "Vitor Fernandes",
-          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
-        }
-      ],
-      "duration_ms": 258220,
-      "name": "N\u00eaga",
-      "url": "https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Made In Studio",
         "url": "https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "A Nova Cara das Vaquejadas",
+        "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
+      },
+      "artists": [
+        {
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+        },
+        {
+          "name": "Vitor Fernandes",
+          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
+        }
+      ],
+      "duration_ms": 258220,
+      "name": "N\u00eaga",
+      "url": "https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Debaixo Do Meu Telhado",
-        "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Foi P\u00e1 Pum",
-      "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Open House (Ao Vivo)",
         "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 177067,
       "name": "Sogra - Ao Vivo",
       "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Debaixo Do Meu Telhado",
+        "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Foi P\u00e1 Pum",
+      "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 187141,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 179624,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
+      },
+      "artists": [
+        {
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        }
+      ],
+      "duration_ms": 187141,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1431,22 +1431,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
-        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
+        "name": "Figurinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
       },
       "artists": [
         {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
         },
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
         }
       ],
-      "duration_ms": 381011,
-      "name": "Carona do Amor / Shortinho Saint-Tropez / Novos Tempos",
-      "url": "https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB"
+      "duration_ms": 206001,
+      "name": "Figurinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Figurinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
+        "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
+        "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
       "artists": [
         {
-          "name": "Douglas & Vinicius",
-          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         },
         {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 206001,
-      "name": "Figurinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
+      "duration_ms": 381011,
+      "name": "Carona do Amor / Shortinho Saint-Tropez / Novos Tempos",
+      "url": "https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB"
     },
     {
       "added_at": "2023-01-03 19:20:11",

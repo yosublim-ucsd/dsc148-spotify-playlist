@@ -4,7 +4,7 @@
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER?si=aa07e4f23640494a">BIA</a>
 
-2,350 songs - 4 day 20 hr 49 min
+2,351 songs - 4 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [Deep Conversations](https://open.spotify.com/track/00Ja20eonXSXD5vB3Qgqmo) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [Deep Conversations](https://open.spotify.com/album/4NExICdPBjSJZg8Tx0xyKm) | 2:26 | 2022-08-19 | 2022-09-10 |
 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 |  |
 | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Dominique Sanders](https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL) | 3:46 | 2023-06-30 |  |
-| [DELRESTO \(ECHOES\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-28 |  |
+| [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 | 2023-07-28 |  |
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-03-17 | 2023-04-09 |
 | [DEPOSIT](https://open.spotify.com/track/5T8VhrbLkoo21l6JEWoyle) | [VIBE$](https://open.spotify.com/artist/5Sv4VpMLfhsN7T0Xd38IAs), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [DEPOSIT](https://open.spotify.com/album/4TvTSmP0PhPIaD8B57X7pl) | 1:53 | 2023-02-17 | 2023-03-04 |
 | [Deserve It](https://open.spotify.com/track/0rLfMI04PHRfoaGLcCh816) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Deserve It](https://open.spotify.com/album/3nWY1AeTNK5WvAhVcQYvSO) | 3:13 | 2022-03-04 | 2022-03-12 |
@@ -1825,7 +1825,8 @@
 | [Siddhi Agenda](https://open.spotify.com/track/0YSk0QsEKgXM2cEt86HEsS) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [G4ost 2](https://open.spotify.com/album/7xg2hqZuqwItr8hDEg8Avn) | 2:09 | 2023-01-20 | 2023-02-11 |
 | [sidelines](https://open.spotify.com/track/1fbcwjzzLTQKlMYxL3kNGb) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [sidelines](https://open.spotify.com/album/5VBEvVidTlMK2zdLUwZnny) | 2:03 | 2022-06-07 | 2022-06-25 |
 | [Sidetracked \| Perfect Lover \(Sped Up\)](https://open.spotify.com/track/1gGj10SG6NfeuOEWluQlvC) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [82 Moons \(Sped Up\)](https://open.spotify.com/album/556ZIdbeCUevOlImwOxdZj) | 3:00 | 2023-02-03 | 2023-02-18 |
-| [Siempre](https://open.spotify.com/track/0Dqmom7WoaeIAox1YLISs8) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Siempre](https://open.spotify.com/album/2ZxiQBQ8qj3bKVJwikvuwv) | 3:12 | 2023-05-12 |  |
+| [Siempre](https://open.spotify.com/track/0Dqmom7WoaeIAox1YLISs8) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Siempre](https://open.spotify.com/album/2ZxiQBQ8qj3bKVJwikvuwv) | 3:12 | 2023-05-12 | 2023-08-02 |
+| [Siempre](https://open.spotify.com/track/5U0gacGJ6jUJjrJM0m4aCV) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/2FhgHXnunQ49NV0Ikf0sEB) | 3:12 | 2023-07-28 |  |
 | [Sign Me Up](https://open.spotify.com/track/7LlsYneQOn5InbKipq6qUO) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Deaf Heff](https://open.spotify.com/artist/5yxNTNGqpVWW0PJfjbEHMm) | [Sign Me Up](https://open.spotify.com/album/3mnEK9JCcfqbwoWLntCaQP) | 2:31 | 2022-09-30 | 2022-10-15 |
 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 | 2022-12-23 | 2023-01-14 |
 | [Silver Platter \(From Barbie The Album\)](https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silver Platter \(From Barbie The Album\)](https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn) | 2:45 | 2023-07-21 |  |

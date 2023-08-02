@@ -1,12 +1,12 @@
 {
   "description": "Keep up with the latest pop hits. Cover: elijah woods",
-  "num_followers": 503548,
+  "num_followers": 503566,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGZiZmMwMzgxZmEwYmM0NmYxYjQzYmY2YTI5YjVkZTJlYjg0MWVl",
+  "snapshot_id": "MCxkZjY4ZWI5YjgzM2VhODRjZDA3ZWI0OTFiMTE3OWE3YzliYWE4YWI5",
   "tracks": [
     {
       "added_at": "2023-07-28 15:13:18",
@@ -178,10 +178,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES)",
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {

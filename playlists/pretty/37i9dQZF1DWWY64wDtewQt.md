@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,081,755 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,091,232 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 46 | [SUICIDE YEAR](https://open.spotify.com/track/6hRvewF5MRAsqqxnNs3z2b) | [WEEDMANE](https://open.spotify.com/artist/6agBXAcUugzO8DQTChZZrx), [Suicideyear](https://open.spotify.com/artist/3WaNZnwUPrpOIS5ZcIyjTO) | [SUICIDE YEAR](https://open.spotify.com/album/6y0bYi0XTNsGQzbKMYNxg1) | 1:31 |
 | 47 | [PHONKGASKAR](https://open.spotify.com/track/7FoanMQjdrrecBH8YiIti2) | [Rushex](https://open.spotify.com/artist/55TpSGABb9xsmXHkqbv3ti), [Jolixwery](https://open.spotify.com/artist/1OZskXcIcGU2L0RamW7Xa0) | [PHONKGASKAR](https://open.spotify.com/album/2B6eFuLza7i5gwzzWgASFI) | 1:22 |
 | 48 | [One Chance](https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [One Chance](https://open.spotify.com/album/60MO7zUtQgy8pFxyDD43yY) | 2:11 |
-| 49 | [SMOKE IT OFF!](https://open.spotify.com/track/0mRaXMf9wwtkcW62t7zPm7) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/6LG5dTlYLzmgC6RRiGvsl1) | 1:57 |
+| 49 | [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 |
 | 50 | [KAMI](https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu) | [DR MØB](https://open.spotify.com/artist/3BxW2wyYPKUAlvmbOWxiDe) | [KAMI](https://open.spotify.com/album/2nOfcdpOxzJpXKe1YzEQL6) | 1:27 |
 | 51 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 52 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 |
 | 100 | [Hurt](https://open.spotify.com/track/7ANKWDStVvxzYfxLrtmKYw) | [Maikubi](https://open.spotify.com/artist/3UZVRPW86Nc2DemMsNtESB), [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K) | [Hurt](https://open.spotify.com/album/6WYCXDmpxqOAAMK3AZXkRQ) | 2:07 |
 
-Snapshot ID: `MCxlNGIzNzBjNTMzNjZmOGQ0OTc2YmY2Y2JiYjNkNDRiZDE5N2Q1ZGMz`
+Snapshot ID: `MCw4ZWVjNTNhNDI4MTRjY2ViNDIxNTJmYTdkMzVlOTk3NzJmNjg2ZDY2`

@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "Better On My Own / Darling",
+        "url": "https://open.spotify.com/album/18zAr9OwZKslHj7ZHF38LH"
+      },
+      "artists": [
+        {
+          "name": "En:vy",
+          "url": "https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU"
+        },
+        {
+          "name": "Verbz",
+          "url": "https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w"
+        },
+        {
+          "name": "SHEIVA",
+          "url": "https://open.spotify.com/artist/7gQPNN7t0vF7LjfCdXrCzA"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "Better On My Own",
+      "url": "https://open.spotify.com/track/6ivAkCIVv986W98MiE7xB1"
+    },
+    {
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3bti1dr6JCjaYudAsjH09S"
       },

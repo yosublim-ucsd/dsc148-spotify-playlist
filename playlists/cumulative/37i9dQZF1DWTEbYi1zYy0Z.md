@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-359 songs - 1 day 1 hr 17 min
+360 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 |  |
 | [Newfound Treasure](https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [Newfound Treasure](https://open.spotify.com/album/6W9eRTZ5LmNEOD9mW8LHc0) | 3:04 | 2022-06-17 | 2023-06-24 |
 | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 | 2023-06-02 |  |
-| [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 |  |
+| [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 | 2023-08-02 |
+| [Nico’s Groove](https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:57 | 2023-06-09 |  |
 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 | 2022-04-15 | 2023-04-29 |
 | [Nine 2 Five](https://open.spotify.com/track/1zZ0JFlkidMKUBsnwpR3Tb) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Cool Shades](https://open.spotify.com/album/5g5y73FahNJx8mjSBvFNcz) | 4:00 | 2022-09-02 |  |
 | [No Céu no Mar na Terra](https://open.spotify.com/track/3scFhmdxV1lHm8fKxlj4Ov) | [Daniele Comoglio](https://open.spotify.com/artist/2h53aRp15E05NqATel572r), [Luca Meneghello](https://open.spotify.com/artist/7Fnw2ce2SwPPHtSsbNa2rL), [Andrea Pollione](https://open.spotify.com/artist/4GG9A1eeVMnReDDoqrG8ok), [Carmelo Isgrò](https://open.spotify.com/artist/3j9qtYvpUyRndyTiox900b), [Rino Dipace](https://open.spotify.com/artist/5zaaBurdB0C1m3UMe4nZoB) | [Traveling](https://open.spotify.com/album/0GBvgAL1K5e02CdXPbOhcS) | 5:18 | 2020-11-27 | 2021-12-28 |

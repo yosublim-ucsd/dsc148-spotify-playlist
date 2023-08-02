@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Rebeca Carvalho",
-  "num_followers": 970973,
+  "num_followers": 971473,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjY1NGI4NWFjOTM3NmE0Zjg5ZDQ4NDdiYzZmMTdmMzExZGU2MzQ0",
+  "snapshot_id": "MCw5N2FiZGI1ZjkwMzc4OTc2Mzc1OWUzNzg2ZmJjOGU5Yjk1ZWE3MjNm",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1267,18 +1267,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+        "name": "Para Ti Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        },
+        {
+          "name": "Gabriela Maganete",
+          "url": "https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb"
+        },
+        {
+          "name": "Rapha Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
         }
       ],
-      "duration_ms": 366461,
-      "name": "Yeshua (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+      "duration_ms": 601544,
+      "name": "Para Ti Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1319,26 +1327,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Para Ti Eu Vou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
       },
       "artists": [
         {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        },
-        {
-          "name": "Gabriela Maganete",
-          "url": "https://open.spotify.com/artist/0rFSAnwgnOHH3uq73fYoSb"
-        },
-        {
-          "name": "Rapha Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui"
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 601544,
-      "name": "Para Ti Eu Vou - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Tu \u00e9s Fiel Senhor / Sou Feliz / Meu Tributo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0372gytPSbw0SKdWnHU11P"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 316994,
+      "name": "Tu \u00e9s Fiel Senhor / Sou Feliz / Meu Tributo",
+      "url": "https://open.spotify.com/track/3GPG1S2vY1ptyCM9VjxrXR"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Tu E\u0301s Fiel",
         "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 301276,
       "name": "Tu E\u0301s Fiel",
       "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Tu \u00e9s Fiel Senhor / Sou Feliz / Meu Tributo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0372gytPSbw0SKdWnHU11P"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 316994,
-      "name": "Tu \u00e9s Fiel Senhor / Sou Feliz / Meu Tributo",
-      "url": "https://open.spotify.com/track/3GPG1S2vY1ptyCM9VjxrXR"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Noite de Adora\u00e7\u00e3o II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 417680,
-      "name": "Saudai o Rei Jesus (All Hail King Jesus) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5gZIS1GbJxNgc0rTzzM6Lq"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Ele Vir\u00e1",
         "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 296865,
       "name": "Ele Vir\u00e1",
       "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Noite de Adora\u00e7\u00e3o II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 417680,
+      "name": "Saudai o Rei Jesus (All Hail King Jesus) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5gZIS1GbJxNgc0rTzzM6Lq"
     },
     {
       "added_at": "2023-07-28 03:00:00",

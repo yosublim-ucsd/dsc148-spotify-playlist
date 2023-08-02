@@ -1,12 +1,12 @@
 {
   "description": "Some of Barack Obama&#x27;s favorite summer songs. Includes 22, 21 &amp; 20 editions + bonus tracks.",
-  "num_followers": 107745,
+  "num_followers": 107771,
   "original_name": "Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NTM1Niw0MzdiOTQwZDE2N2VmMzFiMDllYzNhMTBiNTZkN2ViM2EyZDdhZGIw",
+  "snapshot_id": "NTM2NSxkZjkzYzIwNDg0ZTFjNWM4NjJlY2Q2N2U0NWQxMWY4NjUxN2Y3Njdl",
   "tracks": [
     {
       "added_at": "2023-07-20 21:11:20",
@@ -3193,6 +3193,22 @@
       "url": "https://open.spotify.com/track/4KCyhL2UbGFrL0rgKbbFYI"
     },
     {
+      "added_at": "2023-08-01 17:31:07",
+      "album": {
+        "name": "Dandy",
+        "url": "https://open.spotify.com/album/12ltn3SIfnfo3uU7NSUeRu"
+      },
+      "artists": [
+        {
+          "name": "Dandy",
+          "url": "https://open.spotify.com/artist/2UTLp5oCUAH25hLq8yGZXN"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Algo de Mi",
+      "url": "https://open.spotify.com/track/7i0cPcwZxHkr48xW8R3UGe"
+    },
+    {
       "added_at": "2023-07-24 13:14:12",
       "album": {
         "name": "She",
@@ -3305,34 +3321,6 @@
       "url": "https://open.spotify.com/track/0qkX3QY9sllMRXdr4RTx3w"
     },
     {
-      "added_at": "2023-07-14 23:51:33",
-      "album": {
-        "name": "Don't Walk Away",
-        "url": "https://open.spotify.com/album/4Efsth889W0V4adLUrrDR7"
-      },
-      "artists": [
-        {
-          "name": "Henry Aberson",
-          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
-        },
-        {
-          "name": "Jae Franklin",
-          "url": "https://open.spotify.com/artist/4h4QCr7F35RDl59EbzfvY6"
-        },
-        {
-          "name": "Chris Campbell",
-          "url": "https://open.spotify.com/artist/2F1lLjPmaF7n9zIYNvfF0f"
-        },
-        {
-          "name": "Cortez Johnson",
-          "url": "https://open.spotify.com/artist/422UcSw4Z8Cqxyt24vGqTI"
-        }
-      ],
-      "duration_ms": 145554,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/3blXEcEhVdb5k1tU8vIRol"
-    },
-    {
       "added_at": "2023-07-24 13:07:49",
       "album": {
         "name": "Faceless Man",
@@ -3401,6 +3389,22 @@
       "url": "https://open.spotify.com/track/0geAd6Fvya79ASiQaI5jVj"
     },
     {
+      "added_at": "2023-08-01 11:26:01",
+      "album": {
+        "name": "Abre La Ventana",
+        "url": "https://open.spotify.com/album/3AmgHVZl22MpY3JKrQGQDm"
+      },
+      "artists": [
+        {
+          "name": "Felipe Alonso",
+          "url": "https://open.spotify.com/artist/6LnPhnIpJ0i6nVPPlLhWbL"
+        }
+      ],
+      "duration_ms": 237073,
+      "name": "Abre La Ventana",
+      "url": "https://open.spotify.com/track/5dJ3zRp2mb0qvI3ucKbl5Q"
+    },
+    {
       "added_at": "2023-07-31 12:23:22",
       "album": {
         "name": "Break Up With Your Ex",
@@ -3451,26 +3455,6 @@
       "duration_ms": 197538,
       "name": "Notice",
       "url": "https://open.spotify.com/track/5maZfDOsFzdbW3mZYflgjT"
-    },
-    {
-      "added_at": "2023-07-24 19:31:37",
-      "album": {
-        "name": "Me Levantare",
-        "url": "https://open.spotify.com/album/6tRVgAwWKeXOv1JpzN1zdF"
-      },
-      "artists": [
-        {
-          "name": "Pablo Pastor",
-          "url": "https://open.spotify.com/artist/22LX0GIeZSiIMBpOJB29TG"
-        },
-        {
-          "name": "Cristian Elias Anderson",
-          "url": "https://open.spotify.com/artist/0IOeA85IZipqcsCi6kAObI"
-        }
-      ],
-      "duration_ms": 243176,
-      "name": "Me Levantare",
-      "url": "https://open.spotify.com/track/5dxEwHuC4TO8zoenQGJLHB"
     },
     {
       "added_at": "2023-07-15 13:07:19",
@@ -3671,22 +3655,6 @@
       "duration_ms": 168750,
       "name": "Go Away - Ruff Loaderz Remix",
       "url": "https://open.spotify.com/track/6gUF7Ttrzw6Ac5h5nqS9qr"
-    },
-    {
-      "added_at": "2023-07-14 23:31:02",
-      "album": {
-        "name": "Im Still Here",
-        "url": "https://open.spotify.com/album/2bWFOdFDapH3jmNoj9SWEd"
-      },
-      "artists": [
-        {
-          "name": "Joel Holden",
-          "url": "https://open.spotify.com/artist/3GfaEbEIiHBPWa3YpKQhbd"
-        }
-      ],
-      "duration_ms": 228982,
-      "name": "Im Still Here",
-      "url": "https://open.spotify.com/track/6TDRCi7ozok7BgiL2y0AUI"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2023",

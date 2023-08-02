@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: CLAUDIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,097 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,072 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 18 | [CANIJO](https://open.spotify.com/track/0tHzUXLKk7p0wzMZMMEl8y) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [CANIJO](https://open.spotify.com/album/4KeCreoUpLYm5XXICKwntN) | 2:21 |
 | 19 | [Overgrown](https://open.spotify.com/track/4PMBUGXTeOWoijCdDSL95q) | [Nadine Lustre](https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Overgrown](https://open.spotify.com/album/33hJ1zrvOkRCB0DF0ECySw) | 3:32 |
 | 20 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 |
-| 21 | [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 |
-| 22 | [Forever Young](https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH) | [Forever Young](https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb) | 2:58 |
+| 21 | [Forever Young](https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH) | [Forever Young](https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb) | 2:58 |
+| 22 | [Ngỏ Lời](https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Ngỏ Lời](https://open.spotify.com/album/0h0szlurfJ36hJCI5HtupK) | 3:55 |
 | 23 | [SOLO](https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [SOLO](https://open.spotify.com/album/6tUdt4hvQmNtO0gh5fG8ce) | 3:02 |
 | 24 | [Dil Khanjar](https://open.spotify.com/track/4EP0ThaLieQ06qEpPWSUe6) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Dil Khanjar](https://open.spotify.com/album/0XnagSUuTh5EqmVykyKgEM) | 3:09 |
 | 25 | [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 44 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 |
 | 45 | [Brisa 22](https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:03 |
 | 46 | [PEREMOHA](https://open.spotify.com/track/7BMub0LBIUHXXIjPaxdWp0) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [PEREMOHA](https://open.spotify.com/album/5rVK0feEfRTEqqOQF03jiW) | 3:49 |
-| 47 | [Bobo](https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bobo](https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa) | 2:17 |
-| 48 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
+| 47 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 |
+| 48 | [Bobo](https://open.spotify.com/track/6ZSvjIq5LqK5NGCFgeFOwX) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Bobo](https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa) | 2:17 |
 | 49 | [In Motion](https://open.spotify.com/track/4whaHDdbdE8WASOGb9a4Se) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [In Motion](https://open.spotify.com/album/5Ozg1nOhk1KuRxXZjpA9p1) | 3:41 |
 | 50 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
 | 51 | [Taxi](https://open.spotify.com/track/6D0fx8HHiA8vXiyvNGDZRf) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Taxi](https://open.spotify.com/album/7viLr1VxgLKU31I4cX0Gia) | 2:56 |
@@ -69,19 +69,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 59 | [4 Myself](https://open.spotify.com/track/3hz7TSr45o3hRqS9Ytmj4c) | [AC Bonifacio](https://open.spotify.com/artist/7jAivDaYgMBbooE4fykUPb) | [4 Myself](https://open.spotify.com/album/6OpOb5oXp9L2uVZEUP6Pbx) | 3:04 |
 | 60 | [Dame Tiempo](https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Dame Tiempo](https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q) | 3:25 |
 | 61 | [Lugar I](https://open.spotify.com/track/3vr8cHRHlN4mUD6zgy5rJd) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 3:00 |
-| 62 | [Günah Keçisi](https://open.spotify.com/track/4V3daPACwtk8SsaruDUpNw) | [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Günah Keçisi](https://open.spotify.com/album/3HegniVm8mkM6YhkXHE5H3) | 4:41 |
-| 63 | [Hamburguesa](https://open.spotify.com/track/6gm61ctlsKeiyPRIgdyR2p) | [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4) | [Hamburguesa](https://open.spotify.com/album/0opyW8r8noqcuW32vAeI4t) | 2:29 |
-| 64 | [Pink Matter \- Live](https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F), [Champion Sound](https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx) | [LIVE ARCHIVE](https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6) | 4:02 |
-| 65 | [Béke](https://open.spotify.com/track/0iyBUe05749MyNgIEexPz1) | [Nági](https://open.spotify.com/artist/7f4sTDZpNPgr2nF0iIVal0), [Betti](https://open.spotify.com/artist/4EJ5HKJcRtrRL1Kgax9Syo) | [Béke](https://open.spotify.com/album/4ESkJhJcYqanENHq7udhiY) | 2:49 |
+| 62 | [Hamburguesa](https://open.spotify.com/track/6gm61ctlsKeiyPRIgdyR2p) | [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4) | [Hamburguesa](https://open.spotify.com/album/0opyW8r8noqcuW32vAeI4t) | 2:29 |
+| 63 | [Günah Keçisi](https://open.spotify.com/track/4V3daPACwtk8SsaruDUpNw) | [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Günah Keçisi](https://open.spotify.com/album/3HegniVm8mkM6YhkXHE5H3) | 4:41 |
+| 64 | [Béke](https://open.spotify.com/track/0iyBUe05749MyNgIEexPz1) | [Nági](https://open.spotify.com/artist/7f4sTDZpNPgr2nF0iIVal0), [Betti](https://open.spotify.com/artist/4EJ5HKJcRtrRL1Kgax9Syo) | [Béke](https://open.spotify.com/album/4ESkJhJcYqanENHq7udhiY) | 2:49 |
+| 65 | [Pink Matter \- Live](https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY) | [Annet X](https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F), [Champion Sound](https://open.spotify.com/artist/5dhObqVu8dAvxklbfr3SJx) | [LIVE ARCHIVE](https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6) | 4:02 |
 | 66 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 |
 | 67 | [Canción de Amor](https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:52 |
 | 68 | [Lourdes](https://open.spotify.com/track/24hRsmQ5wftbfAbWu3sQUN) | [Ana De Llor](https://open.spotify.com/artist/61DENukGlPQstYvSeroMfG) | [Not Your Holy Ghost](https://open.spotify.com/album/26F3OQWRgnUPQWjTmYFtsW) | 3:49 |
 | 69 | [No me arrepiento de nada](https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [No me arrepiento de nada](https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk) | 2:38 |
-| 70 | [Baddie In The Passenger Seat](https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa) | [Farah Sakhi](https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi) | [Baddie In The Passenger Seat](https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph) | 2:50 |
-| 71 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 |
+| 70 | [back to me](https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [back to me](https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf) | 3:10 |
+| 71 | [Baddie In The Passenger Seat](https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa) | [Farah Sakhi](https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi) | [Baddie In The Passenger Seat](https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph) | 2:50 |
 | 72 | [El Muro](https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [El Muro](https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw) | 3:13 |
 | 73 | [FARÄGH](https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [FARÄGH](https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ) | 1:53 |
-| 74 | [blank](https://open.spotify.com/track/7dhNbI7JqdUvdqVY8uCmHV) | [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [blank](https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz) | 3:35 |
-| 75 | [Brilla](https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Brilla](https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ) | 3:54 |
+| 74 | [Brilla](https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Brilla](https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ) | 3:54 |
+| 75 | [blank](https://open.spotify.com/track/7dhNbI7JqdUvdqVY8uCmHV) | [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [blank](https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz) | 3:35 |
 
-Snapshot ID: `MCw0ZmNlN2Q4YTc0YWEwZTQwYjczMDVlMDZmZTBhZGJmZTYzZDVhOTRi`
+Snapshot ID: `MCwwNGRkNDAzNjkxZWUwYjA2ZTMxMTNmMzM3M2JjYjRhMmM3NmIzYjFm`

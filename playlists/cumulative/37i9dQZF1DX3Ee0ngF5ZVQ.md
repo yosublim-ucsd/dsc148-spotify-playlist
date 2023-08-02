@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Turnpike Troubadours
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
 485 songs - 1 day 4 hr 50 min
 

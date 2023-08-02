@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, Rvfv, AVA e tanti altri.
 
-2,158 songs - 4 day 2 hr 21 min
+2,159 songs - 4 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [4MEGA SHOO](https://open.spotify.com/track/6EAXjYmgFCglbpKBZWVtjj) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [4MEGA SHOO](https://open.spotify.com/album/3AcNR7fuUArlpLBYuHukBn) | 2:02 | 2022-06-16 | 2022-07-08 |
 | [4Z](https://open.spotify.com/track/5NFRippZpe3fS8Eei8CoBT) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:35 | 2023-05-04 | 2023-05-26 |
 | [5 testimoni](https://open.spotify.com/track/4FKCQOfnGV5tU2bhuccarh) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [5 testimoni](https://open.spotify.com/album/4Xhv0WOKfjZkmMXSgbjByB) | 2:24 | 2022-05-10 | 2022-05-20 |
-| [5 ÉTOILES](https://open.spotify.com/track/3TrbrxpQCs6dS0CD4HpynF) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [5 ÉTOILES](https://open.spotify.com/album/0V26R9IVEXerTCnQk1djnB) | 2:27 | 2023-07-13 |  |
+| [5 ÉTOILES](https://open.spotify.com/track/3TrbrxpQCs6dS0CD4HpynF) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [5 ÉTOILES](https://open.spotify.com/album/0V26R9IVEXerTCnQk1djnB) | 2:27 | 2023-07-13 | 2023-08-02 |
 | [6 MESI \(feat\. Franco126, Guè, J Lord\)](https://open.spotify.com/track/6kBfE7hZna3oEpHpAIh1Li) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [DJUNGLE UNCHAINED](https://open.spotify.com/album/79Oed24d4hksRxWfyNtZbO) | 3:01 | 2022-12-15 | 2023-01-20 |
 | [6 UNICA](https://open.spotify.com/track/3i0N8eKBY6lE7Iwz4NyRFR) | [FLACKO](https://open.spotify.com/artist/0VLCDCsQPmRcAIQfeqSxkU) | [6 UNICA](https://open.spotify.com/album/54o4OJxKx05KaGiTxHm02J) | 2:34 | 2023-06-08 | 2023-06-16 |
 | [60 anni di niente](https://open.spotify.com/track/1fJH5anJC6CanTH2CEPqhf) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Zic](https://open.spotify.com/artist/3dcOYhtRRNJTCljnDmf3JV) | [60 anni di niente](https://open.spotify.com/album/1PQxJv0CHrLUbDCHyRbsNU) | 2:43 | 2022-11-04 | 2022-11-11 |
@@ -1933,6 +1933,7 @@
 | [TEN TEN](https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0), [Manny Troublez](https://open.spotify.com/artist/4zy1P09QNWgC7LvrAbYaDN) | [TEN TEN](https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp) | 3:03 | 2023-03-03 | 2023-04-07 |
 | [Tenco](https://open.spotify.com/track/0vNNLqPu3h5AB16PlKzcx1) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [Tenco](https://open.spotify.com/album/63oum2X53IuNs5nd28lfjF) | 3:31 | 2022-12-01 | 2022-12-09 |
 | [Tenere conto](https://open.spotify.com/track/4N7LPsWFruYR8bGLM96grV) | [Nex Cassel](https://open.spotify.com/artist/3xaOS4EuhPKa2wV01mH7oe), [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa) | [Tenere conto](https://open.spotify.com/album/4muUoDu0KQrEqdLqezozvh) | 3:00 | 2022-09-29 | 2022-10-14 |
+| [Tennis Club](https://open.spotify.com/track/3rV4Ua58IkgiGQjsywxckx) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Tennis Club](https://open.spotify.com/album/6MFUD5C7RZlANVsGdOmDZI) | 2:46 | 2023-08-01 |  |
 | [Tergicristalli](https://open.spotify.com/track/1HpJOgQzkHBa4l8Ct6oLGB) | [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [Duna](https://open.spotify.com/artist/1eZx75fGVjN3BvdzMT92k6), [KD\-ONE](https://open.spotify.com/artist/0bXzQ96tE5uWMDUnw6xeQr) | [Tergicristalli](https://open.spotify.com/album/7wSYzyI4vKbsU4DGfzxXH3) | 3:17 | 2022-05-19 | 2022-06-03 |
 | [Tergicristalli](https://open.spotify.com/track/0PooqfBPgOQeqL7dfw9UPN) | [MURWI](https://open.spotify.com/artist/74Xc17AXn5iG9hWakDfZ4d), [JWar](https://open.spotify.com/artist/0qAbbuu4T1Kq9r3gweW2ZC) | [Tergicristalli](https://open.spotify.com/album/0fi3kUG3826wCN7bjq1qXE) | 2:40 | 2022-05-19 | 2022-05-31 |
 | [TERMINI](https://open.spotify.com/track/6IvGZcECDzAlugaWVYlson) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [TERMINI](https://open.spotify.com/album/2H93JZmKo2mRd2Z56EaqQ3) | 2:29 | 2023-07-20 |  |

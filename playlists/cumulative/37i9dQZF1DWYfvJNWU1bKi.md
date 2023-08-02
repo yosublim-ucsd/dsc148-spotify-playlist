@@ -4,7 +4,7 @@
 
 > The best in romantic tunes from Tamil cinema.
 
-121 songs - 8 hr 59 min
+122 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Takkunu Takkunu \- From "Mr\. Local"](https://open.spotify.com/track/4FL8i7miD18FuMN08XGKcM) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Takkunu Takkunu \(From "Mr\. Local"\)](https://open.spotify.com/album/6X9im2EjoC80L7GXPV2tdj) | 3:32 | 2021-08-16 | 2022-12-24 |
 | [Thaarame Thaarame](https://open.spotify.com/track/1hhLL2eWsnPtYCdDjbiRIU) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Kadaram Kondan](https://open.spotify.com/album/3kb1aQFDtAbPoGqf6X8jh9) | 3:48 | 2022-03-11 |  |
 | [Thaarame Thaarame \- From "Kadaram Kondan"](https://open.spotify.com/track/2x1R5G71p2UsLEQtH6gtdL) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Thaarame Thaarame \(From "Kadaram Kondan"\)](https://open.spotify.com/album/7gDlZBWd8cyUXL3qqqTQNc) | 3:48 | 2021-08-16 | 2022-07-29 |
-| [Thalli Pogathey](https://open.spotify.com/track/6wBXSf1chpnyXGOSvANs0a) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8) | [Achcham Yenbadhu Madamaiyada \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aqLIJUbfDODyEmvpi5Fni) | 4:28 | 2022-01-03 |  |
+| [Thalli Pogathey](https://open.spotify.com/track/6wBXSf1chpnyXGOSvANs0a) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8) | [Achcham Yenbadhu Madamaiyada \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aqLIJUbfDODyEmvpi5Fni) | 4:28 | 2022-01-03 | 2023-08-02 |
+| [Thalli Pogathey \(From "Achcham Yenbadhu Madamaiyada"\)](https://open.spotify.com/track/28LSC2LSJc4HGktpb2O1S0) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aaryan Dinesh Kanagaratnam](https://open.spotify.com/artist/5T3oFf8Gan8D2MuD5va0I8), [Aparna Narayanan](https://open.spotify.com/artist/03CYaapmrQbh1xpKdn0c1t) | [A.R\. Rahman Hits Vol.1](https://open.spotify.com/album/4L9emzda6toloFbMHaUHo7) | 4:26 | 2022-03-11 |  |
 | [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 | 2022-01-03 |  |
 | [Thooriga \- From "Navarasa"](https://open.spotify.com/track/19O4hCGGm95UhvIyhwnNT5) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Thooriga \(From "Navarasa"\)](https://open.spotify.com/album/21xzjyEysKTj6xEdceEa2E) | 3:22 | 2021-09-13 |  |
 | [Thumbi Thullal \(From "Cobra"\)](https://open.spotify.com/track/6RxPsQFgCHmjibKGS1QiRU) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Thumbi Thullal \(From "Cobra"\)](https://open.spotify.com/album/5y44O8p8DJC9dcZTBlIsoV) | 4:43 | 2021-12-01 | 2022-01-04 |

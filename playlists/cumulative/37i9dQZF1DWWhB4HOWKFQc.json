@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Reality Club Presents\u2026",
+        "url": "https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225108,
+      "name": "Am I Bothering You?",
+      "url": "https://open.spotify.com/track/4XEJR0jb29elGda86cL0IK"
+    },
+    {
+      "album": {
         "name": "Berhati",
         "url": "https://open.spotify.com/album/4gwRdhyoIngNRgbeP0C7Id"
       },
@@ -2514,10 +2532,28 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 240746,
       "name": "Right Now (Na Na Na)",
       "url": "https://open.spotify.com/track/1ARJhjuI6TNYZCxYygFQ4F"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw"
     },
     {
       "album": {
@@ -3136,6 +3172,24 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
+        "name": "Krisis Seperempat Dewasa",
+        "url": "https://open.spotify.com/album/3KI6xFkUSU1nXf5eBeniYG"
+      },
+      "artists": [
+        {
+          "name": "Refo Dan Fauna",
+          "url": "https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Teman Teman Ku Udah Nikah Aku Masih Nonton Spongebob",
+      "url": "https://open.spotify.com/track/0NONHlrayFnoTefgMLmq5D"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Suni H\u1ea1 Linh",
+  "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: Charmy pham",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 259245,
       "name": "Ch\u1eafc N\u00ean Th\u00f4i",
       "url": "https://open.spotify.com/track/0uaZKqtQxvVXoCCV4hAbBN"
+    },
+    {
+      "album": {
+        "name": "The Nomad",
+        "url": "https://open.spotify.com/album/6ukEkH7GIFu5JaSV8tNBry"
+      },
+      "artists": [
+        {
+          "name": "Charmy pham",
+          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328240,
+      "name": "Ch\u1ec9 C\u00f2n Nh\u1eefng M\u00f9a Nh\u1edb",
+      "url": "https://open.spotify.com/track/2jy0ZXCLtBBKqwmUjY0Rdq"
     },
     {
       "album": {
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 225048,
       "name": "Like This Like That (feat. tlinh)",
       "url": "https://open.spotify.com/track/2sN4QQDFXMzqyfsm97iu9F"
@@ -2032,6 +2050,24 @@
       "duration_ms": 208571,
       "name": "Qu\u00e1 Non",
       "url": "https://open.spotify.com/track/54ALpltRItn7C0DWJNjLAb"
+    },
+    {
+      "album": {
+        "name": "Ra L\u00e0 Em \u0110\u00e2u Qu\u00e1 Mong Manh",
+        "url": "https://open.spotify.com/album/202hOG3XMicPSsM983t21w"
+      },
+      "artists": [
+        {
+          "name": "Charmy pham",
+          "url": "https://open.spotify.com/artist/6jFvKq4gMkQ50joURHPGXO"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261800,
+      "name": "Ra L\u00e0 Em \u0110\u00e2u Qu\u00e1 Mong Manh",
+      "url": "https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH"
     },
     {
       "album": {

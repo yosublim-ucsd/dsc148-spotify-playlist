@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,753 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,776 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 6 | [Say No More \- Visages Remix](https://open.spotify.com/track/5jQ2sMkNSnwZaV59U4EJ9P) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Say No More \(Visages Remix\)](https://open.spotify.com/album/0zmLgwK8ybqDZaR6AUyYTc) | 5:18 |
 | 7 | [Daydreaming](https://open.spotify.com/track/0h6s8N4dwDIazXGIECX7Bh) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [Daydreaming](https://open.spotify.com/album/1RubtkrLtdx1N3oNJx5tUm) | 4:15 |
 | 8 | [Badness](https://open.spotify.com/track/4Ckz0TYl1SlRgmEfUvM9lN) | [Zoro](https://open.spotify.com/artist/5xUBYbDSo3lix43sKEzhW7), [Addicted](https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy) | [Badness](https://open.spotify.com/album/01iaNvcIM2Nxx6wd1yaAHT) | 4:27 |
-| 9 | [Yagga Yagga](https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y) | 4:17 |
+| 9 | [Yagga Yagga](https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5cQjxfc0PLl9FZ6g8blq8A) | 4:17 |
 | 10 | [That's Tha Way Life Goes \- Breakage Remix](https://open.spotify.com/track/7FnkXCmeI6hAUcPCWRLpv3) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Sunrise Bang Ur Head Against Tha Wall \(Remixes\)](https://open.spotify.com/album/3PNutQB5BAWMKQKaxHp4Qk) | 3:05 |
 | 11 | [Bongolian Belt Roller](https://open.spotify.com/track/2rVlgDArW7maMLtYnVZVv6) | [T>I](https://open.spotify.com/artist/0MDSr2KF63ydZmcqIvSPR3) | [The Locksmith EP](https://open.spotify.com/album/0QfPlN0yjGVG5R2bvyVpuy) | 4:24 |
 | 12 | [Most High](https://open.spotify.com/track/64jTJkHxynSQO2nBfnjBfP) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Deadly Rhythms B/W Most High](https://open.spotify.com/album/0Vt2iBFIGeN9imMb2YnAHk) | 3:27 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 31 | [I Don't Care](https://open.spotify.com/track/0kTQg6X1szFsmpIR4g2afq) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [I Don't Care](https://open.spotify.com/album/0CySJAOAlPq1rbFrh1VcME) | 4:59 |
 | 32 | [Bite the Bone](https://open.spotify.com/track/3bpyE7y5gez1wLyHTfVPB5) | [Level 2](https://open.spotify.com/artist/3fzgpQkpRDdOw4DZTQgpYY) | [Bite the Bone / Hot Foot](https://open.spotify.com/album/0w6dZHjPiDBCy6jxsuGsQs) | 4:35 |
 | 33 | [Dub Dogs](https://open.spotify.com/track/3sbTPXsDPA7rBgLYDkUljJ) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [Dub Dogs](https://open.spotify.com/album/4srQGKMB8aE6RO5Maby6l6) | 3:55 |
-| 34 | [Ill Vibe](https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre) | 4:28 |
+| 34 | [Ill Vibe](https://open.spotify.com/track/1gRE5q4XmrVtt42cF2VkIg) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/2iIVZsS8USgB8QNvHWNwth) | 4:28 |
 | 35 | [Flex](https://open.spotify.com/track/6N5MR52g6XJux9xHX1Mu1D) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Flex](https://open.spotify.com/album/33Ji2Nmizspw8QVwreorfm) | 4:34 |
 | 36 | [Desanka](https://open.spotify.com/track/0OSL6KTjG9FUgLMp9ireDR) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Evermore](https://open.spotify.com/album/3EisS0sdpA3z1wNbDyYT2a) | 4:24 |
 | 37 | [Don't You Ever Stop](https://open.spotify.com/track/4dyTWliWdbX8S3HtLWVWf2) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 49 | [Down 4](https://open.spotify.com/track/4wdqjXxcM5sis1fv4ureKR) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Down 4](https://open.spotify.com/album/2FTh5EtCIuyrXX3pjzCOcd) | 2:18 |
 | 50 | [I Don't Care Wot U Say](https://open.spotify.com/track/2UrS8i3MWFFRcxVoTX835R) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:36 |
 
-Snapshot ID: `MCxlZWU5MmI1YTk0ZDI1MzNjZTY5ODYzOGNjMzFmNTdmNGJhODNkYmZm`
+Snapshot ID: `MCxhMTJmZjEyZjhlNDI0ZjUxNTFmZWU4ODg3NGM5ZjM2YzQyZDNmYjRm`

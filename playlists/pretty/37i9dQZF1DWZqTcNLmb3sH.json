@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Hostel Hudugaru Bekagiddare",
-  "num_followers": 50469,
+  "num_followers": 50490,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDJiZGNmY2QwNjNlMmVmN2QzOTI0ZmRmNmUzOGQ4OGY1NWNlNWQx",
+  "snapshot_id": "MCw5N2Y0ZWY4MTY3MDhjOGVmMWFjNjRiNjI2Y2QwMmM3YmUyOGJjN2Qw",
   "tracks": [
     {
       "added_at": "2023-07-27 13:11:20",
@@ -23,6 +23,38 @@
       "duration_ms": 247125,
       "name": "Hostel Hudugaru Protest Song",
       "url": "https://open.spotify.com/track/0EmwGgP7UAyWjtalVLdciE"
+    },
+    {
+      "added_at": "2023-08-01 11:02:43",
+      "album": {
+        "name": "Pickle Song (From \"Aachar & Co.\")",
+        "url": "https://open.spotify.com/album/4yTFOUFVGw4kB5MP5beWOz"
+      },
+      "artists": [
+        {
+          "name": "Bindhumalini Narayanaswamy",
+          "url": "https://open.spotify.com/artist/2pZFH5Fo5vnXVpjjHsB2Ct"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
+        },
+        {
+          "name": "EmmJee",
+          "url": "https://open.spotify.com/artist/2fI6CmR06cNDnymgwcIbwg"
+        },
+        {
+          "name": "Deepika Kumar",
+          "url": "https://open.spotify.com/artist/3gCh38gNO1aAZTRrgPyJdn"
+        },
+        {
+          "name": "Preethi Bharadwaj",
+          "url": "https://open.spotify.com/artist/3Hyu5mRwsRs9nGjorawnC0"
+        }
+      ],
+      "duration_ms": 183057,
+      "name": "Pickle Song (From \"Aachar & Co.\")",
+      "url": "https://open.spotify.com/track/7nOV1s0tvcnFwSnwjXMA9a"
     },
     {
       "added_at": "2023-07-21 06:52:36",
@@ -51,26 +83,22 @@
     {
       "added_at": "2023-07-31 06:01:51",
       "album": {
-        "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
-        "url": "https://open.spotify.com/album/1ezMzS05FfeDJegZveRy8X"
+        "name": "Kushi Title Song (From \"Kushi\")",
+        "url": "https://open.spotify.com/album/0v4KjnCMa3ZURbn9qJ0W8o"
       },
       "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
         {
           "name": "Hesham Abdul Wahab",
           "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
         },
         {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+          "name": "Shiva Nirvana",
+          "url": "https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Kushi Title Song (From \"Kushi\") (Kannada)",
-      "url": "https://open.spotify.com/track/6L4iCUZgIHf6OcxA32cMdz"
+      "duration_ms": 210000,
+      "name": "Kushi Title Song (From \"Kushi\")",
+      "url": "https://open.spotify.com/track/1SuFZNCwocZu6lIp40GPmv"
     },
     {
       "added_at": "2023-07-24 06:31:36",
@@ -111,6 +139,34 @@
       "duration_ms": 208291,
       "name": "Single Sundara (From \"Raghavendra Stores\")",
       "url": "https://open.spotify.com/track/171etuRcF92SOVIuHnDm4u"
+    },
+    {
+      "added_at": "2023-08-01 11:02:43",
+      "album": {
+        "name": "Panchali (From \" Kandor Mane Kathe \")",
+        "url": "https://open.spotify.com/album/6I7CMAQO82MQJHfjEVkB9f"
+      },
+      "artists": [
+        {
+          "name": "Kiran D'Souza",
+          "url": "https://open.spotify.com/artist/1Iffi4r22kDXstNGpkrzwx"
+        },
+        {
+          "name": "Varsha B Suresh",
+          "url": "https://open.spotify.com/artist/2s8PQOvFwO1u3V38n85U5W"
+        },
+        {
+          "name": "John Kennady",
+          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
+        },
+        {
+          "name": "Gowtham Yashodhara",
+          "url": "https://open.spotify.com/artist/5SJuQhyuTlyRVcTfcQQK5E"
+        }
+      ],
+      "duration_ms": 221612,
+      "name": "Panchali - From \" Kandor Mane Kathe \"",
+      "url": "https://open.spotify.com/track/0gJw0vFsSs3oxuoDB5N6cO"
     },
     {
       "added_at": "2023-05-29 08:32:58",
@@ -260,7 +316,7 @@
           "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
         }
       ],
-      "duration_ms": 233130,
+      "duration_ms": 224404,
       "name": "Va Va Va Vaamana - From \"Vaamana\"",
       "url": "https://open.spotify.com/track/5P1Lhm2TO0XkNItCsOlzJD"
     },
@@ -1325,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5ojvEoold5NRu7Y3iPv1le"
     },
     {
-      "added_at": "2023-03-22 11:13:26",
-      "album": {
-        "name": "Kabzaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6kZ9RkbyvZbupGRYmd3Mmm"
-      },
-      "artists": [
-        {
-          "name": "Vijayalaxmi Mettinahole",
-          "url": "https://open.spotify.com/artist/3kKaH5mm0rjBdDxLOr0rPs"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Radha Radha",
-      "url": "https://open.spotify.com/track/59LWEobpciyd5ASN9SO25U"
-    },
-    {
       "added_at": "2023-04-10 07:12:35",
       "album": {
         "name": "Hanuman Chalisa (From \"HanuMan\") [Kannada] [Original Motion Picture Soundtrack]",
@@ -1567,22 +1607,6 @@
       "duration_ms": 238494,
       "name": "Kaala chakradalli (From \"Raaghu\")",
       "url": "https://open.spotify.com/track/4THIggpmX3z8TldtJN8GYw"
-    },
-    {
-      "added_at": "2023-03-28 05:05:16",
-      "album": {
-        "name": "Risk (Kannada)",
-        "url": "https://open.spotify.com/album/7gjhFahEgBZ33XZnDehrwY"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha Belmannu",
-          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Sogasige Merugu",
-      "url": "https://open.spotify.com/track/4K6qOh39HYQcHaoXVM2lbm"
     },
     {
       "added_at": "2023-03-28 05:05:16",

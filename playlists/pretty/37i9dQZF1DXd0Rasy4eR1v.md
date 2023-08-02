@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- Zouqan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,174 likes - 54 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,182 likes - 54 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 53 | [Azmaish](https://open.spotify.com/track/6RokAww44FrQZLzO9cvT4M) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [Azmaish](https://open.spotify.com/album/0xBry5VG4SBomqPRpGTdf3) | 3:24 |
 | 54 | [haaray](https://open.spotify.com/track/6HlvOvKDzPufgj9dhnlEkI) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [haaray](https://open.spotify.com/album/6LJG4mMK5Ahw94MrMvucx5) | 2:40 |
 
-Snapshot ID: `MCwxMzkzYTdhNjU2MmE2OWFmZTc4MGMwZmFmMWMzNGE4NTcyYTJhYWFh`
+Snapshot ID: `MCxiMmM3ZWEyYjliMWI2YzhmOTVmMWIxOTQ1M2VlMGYyN2MwMjYxYzc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover: <a href="https://open.spotify.com/artist/5and6mMu319HtYPWAacsju?si=h1ZEBxcITVGdqGQT6p6Fxg">Nay $peaks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,905 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,914 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 33 | [Thanksgiving](https://open.spotify.com/track/7HuwYobl8Z5ur2stmf2FrX) | [Grubby Pawz](https://open.spotify.com/artist/4kmovQMQ9hZIvJSyivXQAP), [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL) | [WAVY BULLET](https://open.spotify.com/album/4cT5zvT4mBLlWOLIuy2vAX) | 2:55 |
 | 34 | [For The Coupes](https://open.spotify.com/track/1iysU599hA1AeEBLDVfxIa) | [Hil Holla](https://open.spotify.com/artist/3CxR5r0rfx3xPxIswkgm0p), [Sport](https://open.spotify.com/artist/2xSG5PXJ1XJ8xIpnE1hXiV) | [For The Coupes](https://open.spotify.com/album/2rhBC2jyEdJAKnYeQ49Rm5) | 1:59 |
 | 35 | [SCORING TITLES](https://open.spotify.com/track/6kqbZ4w3oFkdyTBDsWIuLL) | [AVENUEBLVD](https://open.spotify.com/artist/1xFULLYYCAW7v1ZdMib5AZ) | [SCORING TITLES](https://open.spotify.com/album/2r0BczoRDEb8Iftw4cje0L) | 2:26 |
-| 36 | [Real Life](https://open.spotify.com/track/1XdHnugpii5A7RhvnL5lcf) | [Gio Dee](https://open.spotify.com/artist/6vDlSGgBjcYbC08baIEW46) | [Real Life](https://open.spotify.com/album/7GLQnY0KGjaFm1UjkKc7Me) | 2:38 |
-| 37 | [I Got Rich](https://open.spotify.com/track/1PErKSZAgoR5qUHj6rv5vl) | [JuS CODE](https://open.spotify.com/artist/433OVAzQuqubUN9KFvLTDB) | [Sold A Dream](https://open.spotify.com/album/4bWhQW5lBJvIiN5vlJaSiD) | 2:03 |
-| 38 | [HIDDEN SCARS](https://open.spotify.com/track/5LSVWTKI8IWeOkcJhYaJjv) | [Prince Smooth](https://open.spotify.com/artist/6ntkqOZH69AtJzDRVUqIXt) | [HIDDEN SCARS](https://open.spotify.com/album/7xobTN6xLNAgDDRGPA0dKz) | 2:14 |
-| 39 | [Get Busy](https://open.spotify.com/track/1iD3BVu99j6VnI5oZHX0k1) | [Y Gizzle](https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT) | [My Life](https://open.spotify.com/album/3OFvWR3tbuwpW5Nei5faJH) | 2:17 |
-| 40 | [Classy](https://open.spotify.com/track/3hi4HwkcA3na4w6LHzHFhs) | [B.B Tony](https://open.spotify.com/artist/5ObWnQrLIt0mW5lbCAvqyj) | [Classy](https://open.spotify.com/album/3DCEJYblucl1P2b0MLCeMo) | 2:13 |
-| 41 | [Ride Or Die](https://open.spotify.com/track/6aamOhjqPCF4nHVkUyjiNy) | [$ean Wire](https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb) | [Ride Or Die](https://open.spotify.com/album/1FBmqvbsc2P25rl1E9MEYD) | 2:32 |
-| 42 | [21 \(rushed\)](https://open.spotify.com/track/4eYCtzuYSoe70Wu9u4lsNc) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [21 \(rushed\)](https://open.spotify.com/album/4zeD7Bmtq6sCiAhyiYOkop) | 1:46 |
-| 43 | [UNAVAILABLE](https://open.spotify.com/track/3DarMm5krwrazgoAceLSyb) | [Don Zio P](https://open.spotify.com/artist/3RBmwSWiwn0mL9j8dXHKTV) | [UNAVAILABLE](https://open.spotify.com/album/2kXoTmChN2yNj9DAT60Ii8) | 1:47 |
-| 44 | [Made It Out](https://open.spotify.com/track/0lb2MQ0p7mIXgi50Omdw9U) | [Jaalid](https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg) | [Made It Out](https://open.spotify.com/album/2c561ylLCUJbDlBTSgMS1X) | 2:52 |
-| 45 | [ding](https://open.spotify.com/track/0kYfU9UtazGEeWZIw74pdL) | [snowsa](https://open.spotify.com/artist/1CjeZeV3TnH5XUlUGMqedu) | [EVE](https://open.spotify.com/album/6ldzOXMEvlBKiDJpoOxe61) | 1:16 |
-| 46 | [Temptation](https://open.spotify.com/track/2nPNF9EBN0Lg2GXw7M9Kq2) | [Donald Grunge](https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH) | [Temptation](https://open.spotify.com/album/5rF7sW5ds1ZbV3686lTgvc) | 2:56 |
-| 47 | [After Life](https://open.spotify.com/track/36UCQkdr0UO7YtF3jRAUAv) | [Gogo.](https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp) | [After Life](https://open.spotify.com/album/2pmN9CUGtz2ws2xzB95ofU) | 3:37 |
-| 48 | [WK](https://open.spotify.com/track/27tAN7i2rDioRsKIi0U8ze) | [Uche Malik](https://open.spotify.com/artist/2X4iiazskAL90U3e1QHVsG), [Jaey London](https://open.spotify.com/artist/4pOIfGaOomMfhsdni39IpL) | [WK](https://open.spotify.com/album/6u62QnlXBHRDrEQvnQS46l) | 2:43 |
-| 49 | [Flavor](https://open.spotify.com/track/6Cz0ZeKQyq723rpUePycbd) | [JOBANNY](https://open.spotify.com/artist/4FLNvTxyvcl8ZWUfLFZec6), [Cuphasol](https://open.spotify.com/artist/0FLCcc9af7R66QW8NDOhq3), [Kairo Saint](https://open.spotify.com/artist/6SPMyUJXpLR8wHQiyhHbzX), [Bucket Boheme](https://open.spotify.com/artist/1oZS00Gd1vU7SAMYmQwV7O) | [CABRERA](https://open.spotify.com/album/3i2POekDsSzdXkP4nDM7oA) | 2:56 |
-| 50 | [think too much \- remix](https://open.spotify.com/track/6pR7coknYHuj0GNky1uXAe) | [Oompa](https://open.spotify.com/artist/0D6EgsOVm2DMuE2X36uDwU), [Teysin B](https://open.spotify.com/artist/4VYECZYRGjfnopriDWVNvD) | [think too much \- remix](https://open.spotify.com/album/3rsVEe0uRRO8317WtXkIkI) | 3:13 |
+| 36 | [I Got Rich](https://open.spotify.com/track/1PErKSZAgoR5qUHj6rv5vl) | [JuS CODE](https://open.spotify.com/artist/433OVAzQuqubUN9KFvLTDB) | [Sold A Dream](https://open.spotify.com/album/4bWhQW5lBJvIiN5vlJaSiD) | 2:03 |
+| 37 | [HIDDEN SCARS](https://open.spotify.com/track/5LSVWTKI8IWeOkcJhYaJjv) | [Prince Smooth](https://open.spotify.com/artist/6ntkqOZH69AtJzDRVUqIXt) | [HIDDEN SCARS](https://open.spotify.com/album/7xobTN6xLNAgDDRGPA0dKz) | 2:14 |
+| 38 | [Get Busy](https://open.spotify.com/track/1iD3BVu99j6VnI5oZHX0k1) | [Y Gizzle](https://open.spotify.com/artist/2NrmxpPJ1YPMkidYYckQVT) | [My Life](https://open.spotify.com/album/3OFvWR3tbuwpW5Nei5faJH) | 2:17 |
+| 39 | [Classy](https://open.spotify.com/track/3hi4HwkcA3na4w6LHzHFhs) | [B.B Tony](https://open.spotify.com/artist/5ObWnQrLIt0mW5lbCAvqyj) | [Classy](https://open.spotify.com/album/3DCEJYblucl1P2b0MLCeMo) | 2:13 |
+| 40 | [Ride Or Die](https://open.spotify.com/track/6aamOhjqPCF4nHVkUyjiNy) | [$ean Wire](https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb) | [Ride Or Die](https://open.spotify.com/album/1FBmqvbsc2P25rl1E9MEYD) | 2:32 |
+| 41 | [21 \(rushed\)](https://open.spotify.com/track/4eYCtzuYSoe70Wu9u4lsNc) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [21 \(rushed\)](https://open.spotify.com/album/4zeD7Bmtq6sCiAhyiYOkop) | 1:46 |
+| 42 | [UNAVAILABLE](https://open.spotify.com/track/3DarMm5krwrazgoAceLSyb) | [Don Zio P](https://open.spotify.com/artist/3RBmwSWiwn0mL9j8dXHKTV) | [UNAVAILABLE](https://open.spotify.com/album/2kXoTmChN2yNj9DAT60Ii8) | 1:47 |
+| 43 | [Made It Out](https://open.spotify.com/track/0lb2MQ0p7mIXgi50Omdw9U) | [Jaalid](https://open.spotify.com/artist/4QQoaNNSe8oYAxjCsB59fg) | [Made It Out](https://open.spotify.com/album/2c561ylLCUJbDlBTSgMS1X) | 2:52 |
+| 44 | [ding](https://open.spotify.com/track/0kYfU9UtazGEeWZIw74pdL) | [snowsa](https://open.spotify.com/artist/1CjeZeV3TnH5XUlUGMqedu) | [EVE](https://open.spotify.com/album/6ldzOXMEvlBKiDJpoOxe61) | 1:16 |
+| 45 | [Temptation](https://open.spotify.com/track/2nPNF9EBN0Lg2GXw7M9Kq2) | [Donald Grunge](https://open.spotify.com/artist/0OYdOAg5NBuS47KdnJF4lH) | [Temptation](https://open.spotify.com/album/5rF7sW5ds1ZbV3686lTgvc) | 2:56 |
+| 46 | [After Life](https://open.spotify.com/track/36UCQkdr0UO7YtF3jRAUAv) | [Gogo.](https://open.spotify.com/artist/2ZjHsrsF4aC1SpaVf9ZEhp) | [After Life](https://open.spotify.com/album/2pmN9CUGtz2ws2xzB95ofU) | 3:37 |
+| 47 | [WK](https://open.spotify.com/track/27tAN7i2rDioRsKIi0U8ze) | [Uche Malik](https://open.spotify.com/artist/2X4iiazskAL90U3e1QHVsG), [Jaey London](https://open.spotify.com/artist/4pOIfGaOomMfhsdni39IpL) | [WK](https://open.spotify.com/album/6u62QnlXBHRDrEQvnQS46l) | 2:43 |
+| 48 | [Flavor](https://open.spotify.com/track/6Cz0ZeKQyq723rpUePycbd) | [JOBANNY](https://open.spotify.com/artist/4FLNvTxyvcl8ZWUfLFZec6), [Cuphasol](https://open.spotify.com/artist/0FLCcc9af7R66QW8NDOhq3), [Kairo Saint](https://open.spotify.com/artist/6SPMyUJXpLR8wHQiyhHbzX), [Bucket Boheme](https://open.spotify.com/artist/1oZS00Gd1vU7SAMYmQwV7O) | [CABRERA](https://open.spotify.com/album/3i2POekDsSzdXkP4nDM7oA) | 2:56 |
+| 49 | [think too much \- remix](https://open.spotify.com/track/6pR7coknYHuj0GNky1uXAe) | [Oompa](https://open.spotify.com/artist/0D6EgsOVm2DMuE2X36uDwU), [Teysin B](https://open.spotify.com/artist/4VYECZYRGjfnopriDWVNvD) | [think too much \- remix](https://open.spotify.com/album/3rsVEe0uRRO8317WtXkIkI) | 3:13 |
 
-Snapshot ID: `MCxhNmNiMWI4ZDA0MTdiOWIxOGJjNDRjZmJkYjhhMWVkYTBiN2EyZGYy`
+Snapshot ID: `MCwxZTU2YmE0ZjYzZTc4YzNjYmE3MzMwMWU5ZGU0ZGE5YTZkYWNjYjBh`

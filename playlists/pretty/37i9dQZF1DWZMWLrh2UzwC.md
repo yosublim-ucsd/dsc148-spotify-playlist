@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,762 likes - 89 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,768 likes - 89 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 4 | [Settle 4 Less](https://open.spotify.com/track/55TqRwJoKEh7b7ZzNFh1sR) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Settle 4 Less](https://open.spotify.com/album/7eApwkHooJ3YKCfAOaROXq) | 2:36 |
 | 5 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 6 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
-| 7 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
+| 7 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
 | 8 | [Sedih Hati](https://open.spotify.com/track/5wBFuNcO53iv8y1yA96Dqx) | [Malique](https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk) | [Sedih Hati](https://open.spotify.com/album/7s9myWNOZ5RWQbmR4e0lr4) | 3:23 |
 | 9 | [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/track/0WVmVKdoKnDr3xSpZLZjWC) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Rock Bottom Blues \(feat\. James Reid\)](https://open.spotify.com/album/7pd0Md4wVcAysaxgmNeKPV) | 2:20 |
 | 10 | [BUTTONS](https://open.spotify.com/track/63KqHfBRWTWo7PkQj5t947) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD), [Kidmeddling](https://open.spotify.com/artist/1Wtp5gxsbuzXJnFOgd3uXZ) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 2:47 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 88 | [Take Me To Another World](https://open.spotify.com/track/0tXD5XbjdsdaMuxwU0Z4mC) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Take Me To Another World](https://open.spotify.com/album/0NQVvQatEhV09qkiibkm8I) | 3:39 |
 | 89 | [Dope Dance](https://open.spotify.com/track/3wLOypLdLw1SGdbEUmivEj) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Radeckt](https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL) | [Dope Dance](https://open.spotify.com/album/7ARyH7O9xLfYm2CT0yWc7k) | 3:37 |
 
-Snapshot ID: `MCxkMzk2Y2M3MGQ0MzUzM2UzNmZlMGIyMzliODM1MmYyMDk2OTEwMDkx`
+Snapshot ID: `MCwzMTQ0NzQ3Njk4NTE5N2Q0MjIzN2YxYzdhMWZhYTkzZjRlZjEwZGRk`

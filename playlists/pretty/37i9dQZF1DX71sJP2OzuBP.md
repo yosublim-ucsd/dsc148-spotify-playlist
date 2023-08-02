@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,353 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,360 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [能量觀測中心](https://open.spotify.com/track/16neiOAcplrSyfxIM8ULGy) | [縉 Jin](https://open.spotify.com/artist/6JfXcHzBOntsXu0MojxAXJ) | [能量觀測中心](https://open.spotify.com/album/4SiBJOG1rWj90Nn5hgmUDw) | 3:20 |
 | 100 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 |
 
-Snapshot ID: `MCw4Yzg5ZGU3YzMxMmMzYmM4Y2ZhYTVmODc4YTNiY2Q4NzExMTI4NDI0`
+Snapshot ID: `MCwzMWFiZTNkYzdjYmU5NDExNzJlNWY0NDcyZWQzZTkxYjNjMGZkZDI3`

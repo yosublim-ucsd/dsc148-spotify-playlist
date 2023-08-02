@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 551937,
+  "num_followers": 552070,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjFmOGRhYmJmYWZhOGM3NGE4YzZlNGE4Y2U3MGRkOTcxYTVjZGY1",
+  "snapshot_id": "MCxhYmFlYTQ5YmEwNjBjMTA0YzgzM2VmYTJlNzU5NzY3ZDY4ZTAyNzAw",
   "tracks": [
     {
       "added_at": "2023-07-25 20:43:15",
@@ -703,22 +703,18 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "ROMPE",
-        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 193989,
-      "name": "ROMPE",
-      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -767,22 +763,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
-      },
-      "artists": [
-        {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "TRUCHO",
         "url": "https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 188720,
       "name": "No voy a llorar",
       "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "ROMPE",
+        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 193989,
+      "name": "ROMPE",
+      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
         "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 171434,
       "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
       "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Ritmo Sabroson",
-      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "M\u00e1s Duros que Nunca",
         "url": "https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 238933,
       "name": "La Jarra Loca",
       "url": "https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Ritmo Sabroson",
+      "url": "https://open.spotify.com/track/4NyLrceESCSUGDhIt8DhBk"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "El Marginal",
+        "url": "https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3"
+      },
+      "artists": [
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
+        }
+      ],
+      "duration_ms": 189567,
+      "name": "El Marginal",
+      "url": "https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "Adentro del Party",
         "url": "https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 180000,
       "name": "Adentro del Party",
       "url": "https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "El Marginal",
-        "url": "https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3"
-      },
-      "artists": [
-        {
-          "name": "Sara Hebe",
-          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
-        }
-      ],
-      "duration_ms": 189567,
-      "name": "El Marginal",
-      "url": "https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -2343,6 +2343,26 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "El Mas Piola",
+        "url": "https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "El Mas Piola",
+      "url": "https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "Sabado Picado",
         "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
       },
@@ -2363,22 +2383,6 @@
       "duration_ms": 137608,
       "name": "Sabado Picado",
       "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "Lona, Cart\u00f3n y Chapa",
-        "url": "https://open.spotify.com/album/6ChioFR0zr61jvyH1F7WA5"
-      },
-      "artists": [
-        {
-          "name": "Meta Guacha",
-          "url": "https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Para la Gilada",
-      "url": "https://open.spotify.com/track/3BCfo3eZ1AhKeVj4D9GGKL"
     }
   ],
   "unique_name": "Cumbia de Barrio",

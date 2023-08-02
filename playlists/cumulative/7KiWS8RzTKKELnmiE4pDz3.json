@@ -2113,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "PRE5L",
+        "url": "https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153106,
+      "name": "Die Trying",
+      "url": "https://open.spotify.com/track/4qNYl4NkngYRqf6DtTyD9I"
+    },
+    {
+      "album": {
         "name": "Final Fantasy: The Finale",
         "url": "https://open.spotify.com/album/3rnPVqGku0hTlNwNGeIqJM"
       },

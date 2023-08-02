@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks in the North. Cover: Travis Scott",
-  "num_followers": 851737,
+  "num_followers": 851856,
   "original_name": "Hot Hits Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWQ5OThjM2Y5MGIwNzhlYTUyNmMyNWQ2MDZjMDMzYTc0NTllYzE1",
+  "snapshot_id": "MCw5ZWMzNmFiY2FlMjA5N2IxOGJmZmM4Mzc3ZWNmYmNhNDkwNTI3ZWEz",
   "tracks": [
     {
       "added_at": "2023-07-28 11:11:26",
@@ -18,10 +18,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
       "duration_ms": 246133,
-      "name": "MELTDOWN",
+      "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {

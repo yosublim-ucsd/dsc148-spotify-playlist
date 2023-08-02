@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-755 songs - 1 day 12 hr 18 min
+756 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [25TH HR](https://open.spotify.com/track/4Uy8ZqtYOq0H1ix0YCtWxb) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF), [Demrick](https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR) | [25TH HR](https://open.spotify.com/album/4WGzRgBLgDXuL136umjr6t) | 3:03 | 2022-04-08 | 2022-04-17 |
 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 | 2022-07-08 | 2022-08-15 |
 | [3 Headed Goat \(feat\. Lil Baby & Polo G\)](https://open.spotify.com/track/6Tguhaf2uAe6OjRLsR2Tql) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:49 | 2021-10-18 | 2022-06-11 |
+| [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/track/00a6BqGzSkW1fXz39aJpEO) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [3AM in the Yams \(feat\. Luh Tyler\)](https://open.spotify.com/album/2j01RMLBK6DTtGpGAl50Ah) | 2:49 | 2023-07-14 |  |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2022-04-01 | 2022-08-13 |
 | [4148 \(feat\. Edot Babyy\)](https://open.spotify.com/track/4LqfNIRWW0MrIvLS5UbASS) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Edot Babyy](https://open.spotify.com/artist/3bOV7IH0Lb13ifOUrwACa7), [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [4148 \(feat\. Edot Babyy\)](https://open.spotify.com/album/1qJk9YuaI0GBx9kYm8o5li) | 1:48 | 2023-04-14 | 2023-04-29 |
 | [4186 Freestyle](https://open.spotify.com/track/3R2t4fasRN0ZgL8HkJCPSP) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [4186 Freestyle](https://open.spotify.com/album/2lX5sQhpsf4mtVN0j4BxAt) | 2:43 | 2022-03-25 | 2022-04-21 |
@@ -530,7 +531,7 @@
 | [Powered Up](https://open.spotify.com/track/5yh54SEOyyEeif8EGZg03m) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Powered Up](https://open.spotify.com/album/5m7wgkmscpoQxCgZMBp9ad) | 2:59 | 2022-03-25 | 2022-04-20 |
 | [PradadaBang](https://open.spotify.com/track/7zg97q1UQyQgIhhrAEke45) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [PradadaBang](https://open.spotify.com/album/7Gm8THb5g2e7vx8ZhOjWR3) | 2:25 | 2021-09-03 | 2022-07-27 |
 | [Presidential Rolex](https://open.spotify.com/track/23L1gQJjtlZMrZPZvluyQe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Presidential Rolex](https://open.spotify.com/album/6cUKCvxOv3BrBRTeU5Qygx) | 2:28 | 2023-06-23 |  |
-| [Primetime](https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Primetime](https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5) | 3:33 | 2023-01-27 |  |
+| [Primetime](https://open.spotify.com/track/5qNxLvbr8yRnbDsNrZT6Bi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Primetime](https://open.spotify.com/album/4mc498S47KkQYsgXpK5HK5) | 3:33 | 2023-01-27 | 2023-08-02 |
 | [Princess Diana](https://open.spotify.com/track/4y0bx3TIbkpd6IKfN0yrLC) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:34 | 2023-01-27 | 2023-02-03 |
 | [Princess Diana](https://open.spotify.com/track/4yzDNpEa75MSTypGg7tCAx) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:34 | 2023-01-27 | 2023-02-18 |
 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 | 2023-04-14 | 2023-07-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 567364,
+  "num_followers": 567478,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTI0MmU4NDFjYmEzOGZlOWI4YTZkMDlhMjMxZWZhM2VlNTA2Nzg2",
+  "snapshot_id": "MCwyMTUyZDM5MTZlYzRkZjM1NDFjMzIzMDQ3OWMyNWJjNGU3Mzc2MmQ4",
   "tracks": [
     {
       "added_at": "2023-07-20 08:56:53",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+      "duration_ms": 247493,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
         }
       ],
-      "duration_ms": 247493,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Acting My Age",
-        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
+        "name": "life goes by",
+        "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
       },
       "artists": [
         {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 222312,
-      "name": "Acting My Age",
-      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
+      "duration_ms": 153984,
+      "name": "life goes by",
+      "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "life goes by",
-        "url": "https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY"
+        "name": "Acting My Age",
+        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
         }
       ],
-      "duration_ms": 153984,
-      "name": "life goes by",
-      "url": "https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz"
+      "duration_ms": 222312,
+      "name": "Acting My Age",
+      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 226103,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Terra Firma",
         "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
@@ -651,22 +671,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Home of Sanity (the playlist)",
-        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "ophelie",
-      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Mister Burns",
         "url": "https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi"
       },
@@ -679,6 +683,22 @@
       "duration_ms": 155000,
       "name": "Mister Burns",
       "url": "https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "Home of Sanity (the playlist)",
+        "url": "https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "ophelie",
+      "url": "https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -743,26 +763,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 226103,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/3osxMWTR97vYigGuiqVhxM"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 203828,
       "name": "Someone You Love",
       "url": "https://open.spotify.com/track/2JUXU13VveY6JMvPgpRJJZ"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "minuit",
+        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
+      },
+      "artists": [
+        {
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
+        },
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "minuit",
+      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -799,26 +819,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
-        "name": "minuit",
-        "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
-      },
-      "artists": [
-        {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx"
-        },
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "minuit",
-      "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Seeking Thrills (The Ultimate Thrills Edition)",
         "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 188694,
       "name": "Running Up That Hill",
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Complex Happenings Reduced To A Simple Design",
         "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
       },
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
         "name": "Can't Stop Your Lovin'",
         "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
-        }
-      ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
-    },
-    {
-      "added_at": "2023-07-20 08:56:53",
-      "album": {
         "name": "Here, Right Now",
         "url": "https://open.spotify.com/album/0pz6QxOt98LbnryystoGza"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 175560,
       "name": "Going with You",
       "url": "https://open.spotify.com/track/6QKC7DcD9RcR3coic9d2oD"
+    },
+    {
+      "added_at": "2023-07-20 08:56:53",
+      "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1367,18 +1367,22 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "beautiful day",
-        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
+        "name": "Pleasure Centre",
+        "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
       },
       "artists": [
         {
-          "name": "Henri Purnell",
-          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "IVAR",
+          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
         }
       ],
-      "duration_ms": 183836,
-      "name": "beautiful day",
-      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
+      "duration_ms": 228092,
+      "name": "In Plain Sight",
+      "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
     },
     {
       "added_at": "2023-07-20 08:56:53",
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2023-07-20 08:56:53",
       "album": {
-        "name": "Pleasure Centre",
-        "url": "https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4"
+        "name": "beautiful day",
+        "url": "https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq"
       },
       "artists": [
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "IVAR",
-          "url": "https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk"
+          "name": "Henri Purnell",
+          "url": "https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr"
         }
       ],
-      "duration_ms": 228092,
-      "name": "In Plain Sight",
-      "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+      "duration_ms": 183836,
+      "name": "beautiful day",
+      "url": "https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ"
     },
     {
       "added_at": "2023-07-20 08:56:53",

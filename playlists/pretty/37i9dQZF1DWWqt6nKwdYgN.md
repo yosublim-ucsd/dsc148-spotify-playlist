@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! El Dee en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,359 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,362 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 65 | [Pa 2 Componente 1](https://open.spotify.com/track/4i86dzTV62NUbpJECoLhGW) | [El Shick](https://open.spotify.com/artist/2H2Xg5FjQEIeEEPh8lDRae) | [Pa 2 Componente 1](https://open.spotify.com/album/3leOMsf16yMtzibLeljC9C) | 2:53 |
 | 66 | [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 |
 | 67 | [Baddie](https://open.spotify.com/track/3f4F947OK390ug1C4igSLp) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Erreflexx](https://open.spotify.com/artist/3Wck1E7AcfrcW3beEPtPaU) | [Baddie](https://open.spotify.com/album/64Jb1qRcbl2wulfNvE6uel) | 2:26 |
-| 68 | [Honey](https://open.spotify.com/track/1Vc7ukcLACRqHlgwquGsi5) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [K.I.D](https://open.spotify.com/album/5j6EzeHbudRSBcPKdXvjx1) | 2:30 |
+| 68 | [Honey](https://open.spotify.com/track/5chFbDyXra8th7jLtjTjgL) | [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [K.I.D](https://open.spotify.com/album/3mosYXGwQ9camfOb1maH7s) | 2:30 |
 | 69 | [Delito](https://open.spotify.com/track/4MxWixHcIkejr1QDNIGI3u) | [BAD PAPAYA](https://open.spotify.com/artist/3Z8qk8QsY2kkkFuJ40b5rY), [Yil2](https://open.spotify.com/artist/0KKXuDXfDl8p0HSSrUpsb4), [Moi Tuning](https://open.spotify.com/artist/2IdkZOiEL3tQxFlylCzuUW) | [Delito](https://open.spotify.com/album/5JXZQPz9I6UrEScARJiuKL) | 3:09 |
 | 70 | [OBSE](https://open.spotify.com/track/6CaBTkH7z2VrHUd1cXu4Xa) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [OBSE](https://open.spotify.com/album/6CyFAWeoHWHCcJaTLDaXwZ) | 2:29 |
 | 71 | [Rap y Calle No\. 14](https://open.spotify.com/track/41QHY6HvR3ChL3rfrevxPo) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Ziferk Rap Wasay](https://open.spotify.com/artist/0jSOHCemmrJvrmEfYpbkI5), [Joes Yawar Cru](https://open.spotify.com/artist/1g3olTTEwu0Dn2kVBpZ6oK), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI) | [Rap y Calle No\. 14](https://open.spotify.com/album/0dskqXcaAzwq8R3uVcobcU) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 |
 | 100 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 |
 
-Snapshot ID: `MCxkMjEwYjljYzI5ZmI0NGQ5OGE3MThjMWVhMzQxZGU3YjIwNTAwOGIx`
+Snapshot ID: `MCxjZDIxNzkyNTZmOGQwNDBmZThjMDQ3OGRlZjc2NDUzN2ViODk1ZDFk`

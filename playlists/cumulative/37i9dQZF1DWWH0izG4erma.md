@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS! Cover: Bryan Martin
+> Country Music that ROCKS! Cover: Chris Stapleton
 
 278 songs - 16 hr 2 min
 

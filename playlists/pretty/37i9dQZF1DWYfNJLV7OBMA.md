@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \-  Anushka Udana
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,681 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,718 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Unuhuma](https://open.spotify.com/track/1xgwtehcIrJmltXphW9cEd) | [Tehan Perera](https://open.spotify.com/artist/1iH07mFEjrWomKuOTLzfWQ) | [Unuhuma](https://open.spotify.com/album/3K2YCxI0RRNLhYZj6K54Kq) | 2:12 |
 | 100 | [Hith Ochcham](https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW) | [Lashan Herath](https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC) | [Hith Ochcham](https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH) | 3:30 |
 
-Snapshot ID: `MCxmOTljZjY3MmJkMzllODg5OTZjNjBmYzYyMGM5YzM3NjNiODI0N2Q0`
+Snapshot ID: `MCwyM2JhZTZjMTkzY2Y2ZjIxZjA4MjMxY2U0OTYyYjQwNjkzMjQxYWY5`

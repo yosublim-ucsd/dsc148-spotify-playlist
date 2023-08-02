@@ -4,7 +4,7 @@
 
 > tranquilo e calmo, no flow\. Foto: VK Mac
 
-427 songs - 20 hr 26 min
+427 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Um Cara de Sorte](https://open.spotify.com/track/0szMpKx4qjLbcRt9kRKXMh) | [Levi](https://open.spotify.com/artist/0XYQf3kQubzm7Ztvmnukka), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [Um Cara de Sorte](https://open.spotify.com/album/0xvxFUnzXoQgDQqAoXFNi7) | 2:56 | 2022-03-25 | 2022-04-23 |
 | [Um Pecado](https://open.spotify.com/track/398gHzUHjCkLPVAXRdT152) | [Kalu MC](https://open.spotify.com/artist/4j7SWDWLgn5Ko2HubcGHfh), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p), [Rucinni](https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj) | [Um Pecado](https://open.spotify.com/album/3d73zNgo4zrP6LEi9FQmnS) | 2:13 | 2023-04-21 | 2023-04-29 |
 | [Uma que toque](https://open.spotify.com/track/16YVNX9m6nRaaUixdGupxi) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [Pakau](https://open.spotify.com/artist/111jpJz8XiWltrlZwZPioK), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Uma que toque](https://open.spotify.com/album/4PY2zzAovoHDgKWbQocPES) | 2:21 | 2022-09-02 | 2022-10-08 |
-| [UNFOLLOW](https://open.spotify.com/track/7cGtaRsbQ8YABO3BTD4fIt) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [R\. Guerra](https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id), [guto!](https://open.spotify.com/artist/741LMJSj3qtdJlDxhjmQep), [Cout1nho](https://open.spotify.com/artist/2AVRzXrir2Gfb7QUNxijTv), [BINGZERA](https://open.spotify.com/artist/2yhXLM615ocvFeGfLsjGn9) | [UNFOLLOW](https://open.spotify.com/album/6nKa2EjqmNgrWfGhnK7y7F) | 4:51 | 2023-07-28 |  |
+| [UNFOLLOW](https://open.spotify.com/track/7cGtaRsbQ8YABO3BTD4fIt) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [R\. Guerra](https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id), [guto!](https://open.spotify.com/artist/741LMJSj3qtdJlDxhjmQep), [Cout1nho](https://open.spotify.com/artist/2AVRzXrir2Gfb7QUNxijTv), [BINGZERA](https://open.spotify.com/artist/2yhXLM615ocvFeGfLsjGn9) | [UNFOLLOW](https://open.spotify.com/album/6nKa2EjqmNgrWfGhnK7y7F) | 4:32 | 2023-07-28 |  |
 | [Uva](https://open.spotify.com/track/4r4vZuM0uoQTAK9C5hrDcI) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:30 | 2022-03-18 | 2023-03-18 |
 | [Uzi E Abuse](https://open.spotify.com/track/2ExxuGFGjXMuwSYMfsP9Fy) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Uzi E Abuse](https://open.spotify.com/album/3TKnFeFxNE0vjpz0GYFfz3) | 2:28 | 2022-09-23 | 2023-03-03 |
 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu) | [Mazzan](https://open.spotify.com/artist/4Z0ol0b5b8tpxDZpT2BMyL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/1r8JVPiGk7fR69p96xjeBG) | 3:15 | 2023-02-17 | 2023-07-22 |

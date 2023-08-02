@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 170560,
       "name": "As You Lay Sleeping",
       "url": "https://open.spotify.com/track/2uRYWpRboWnVCnyICEDXuO"
@@ -166,7 +166,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 233177,
       "name": "Breaking Your Heart Again",
       "url": "https://open.spotify.com/track/0xTkMv6wQtQkhBbRvLfd6t"
@@ -202,7 +202,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 230706,
       "name": "Cartwheel and Climb",
       "url": "https://open.spotify.com/track/1F1kB8gBN9iguuckBQLWnj"
@@ -580,12 +580,12 @@
       },
       "artists": [
         {
-          "name": "Black Stump Band",
-          "url": "https://open.spotify.com/artist/0Ux8LHEmbC9PVL86FlgH1p"
-        },
-        {
           "name": "The Whitlams",
           "url": "https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6"
+        },
+        {
+          "name": "Black Stump Band",
+          "url": "https://open.spotify.com/artist/0Ux8LHEmbC9PVL86FlgH1p"
         },
         {
           "name": "Felicity Urquhart",
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 202546,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 253976,
       "name": "Tears",
       "url": "https://open.spotify.com/track/0mGFlZSt2YDZ6EaZkdBL3C"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 220866,
       "name": "That Boy Sure Can Jump a Train",
       "url": "https://open.spotify.com/track/2wjpcNq46nxOdhjKJwWUT9"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 228066,
       "name": "We'll Never Get Along",
       "url": "https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6"

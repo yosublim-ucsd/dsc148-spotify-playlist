@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "7abib Kol Shi Feeki",
+        "url": "https://open.spotify.com/album/3mPcTn12aUCxPDunDfkbfc"
+      },
+      "artists": [
+        {
+          "name": "Idreesi",
+          "url": "https://open.spotify.com/artist/0C1T4aT8Wsli5bji343Nye"
+        },
+        {
+          "name": "Ahmed Diaa",
+          "url": "https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194004,
+      "name": "7abib Kol Shi Feeki",
+      "url": "https://open.spotify.com/track/4QUjiqukl47CkKHwZoResA"
+    },
+    {
+      "album": {
         "name": "Afkarik",
         "url": "https://open.spotify.com/album/4aATb7Kb0iTifiMphvFpbW"
       },

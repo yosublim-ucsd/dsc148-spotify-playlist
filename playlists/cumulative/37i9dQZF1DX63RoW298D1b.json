@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Del Mar",
+        "url": "https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160064,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4"
+    },
+    {
+      "album": {
         "name": "Dulcian",
         "url": "https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT"
       },

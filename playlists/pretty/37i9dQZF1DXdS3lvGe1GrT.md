@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,859 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,893 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 100 | [Ten Hands](https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Ten Hands](https://open.spotify.com/album/3OwUW7eo0X90XQQlTirb9z) | 2:27 |
 | 101 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
 
-Snapshot ID: `MCwzMGVmNGQ0MjUzYzRmNjYwZDI3MzYwMDhkMTc3YzA3MDg2Yzg1MDBh`
+Snapshot ID: `MCwzYzQ1MjBjMzhjN2Y3OTBmNWJlM2Y0ZTkwZDAzM2JhYWNiNGNlMDQz`

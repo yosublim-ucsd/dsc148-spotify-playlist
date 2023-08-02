@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MD Chefe, L7NNON, 4Genesis, Lotta
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,151 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,323 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 4 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 5 | [Ironicamente](https://open.spotify.com/track/2OYviBda4XbDw8VaFMCv1T) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [No Cutty](https://open.spotify.com/artist/1Z3YNZcUqXypOajb1Y7naJ) | [Ironicamente](https://open.spotify.com/album/0q0t9DKcVtn2UGIGQMaA3I) | 2:44 |
 | 6 | [Alma](https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Alma](https://open.spotify.com/album/5IiJASPjEyjHrZK2YSldu9) | 3:36 |
-| 7 | [Yeezy Slide "FREESTYLE 01"](https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd) | [Yeezy Slide "FREESTYLE 01"](https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe) | 3:16 |
+| 7 | [Yeezy Slide "FREESTYLE 01"](https://open.spotify.com/track/6bBnV1J4thy0w6v8b5qXP4) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Yeezy Slide "FREESTYLE 01"](https://open.spotify.com/album/4bJbDWMhQ5vmWhISmnsKQe) | 3:16 |
 | 8 | [Feridas Abertas](https://open.spotify.com/track/6S00iFG7VSum4SgXoNXha8) | [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Feridas Abertas](https://open.spotify.com/album/4bxhpFYA9ixhMcSj7Ahx2D) | 3:35 |
 | 9 | [Frozone](https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Frozone](https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs) | 2:58 |
 | 10 | [Playboy Preto](https://open.spotify.com/track/6h78CkYMNpGolZwhjBz3i9) | [Jorge Bask](https://open.spotify.com/artist/5tqwly8nT5UgSI4HHIAPxy), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR) | [Playboy Preto](https://open.spotify.com/album/2v09Ch9OOBo8m6Ou4j62FV) | 2:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 | 75 | [Vida Cara](https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 5:07 |
 
-Snapshot ID: `MCwwOWI3NDVmZWRjOTg1Y2MxNjNkNTBiYTc1MjhhMjI1YWRlZGM2NmYz`
+Snapshot ID: `MCxiNzY3ZTc3NWYzOTQ1NmFjOTI2YmE3ZWI1NmVkZDNmYThhNjEzNzAz`

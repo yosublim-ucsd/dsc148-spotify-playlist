@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,671 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,708 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 10 | [Dilruba](https://open.spotify.com/track/3wOKU4CW3SYQkroOkDaYKD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ), [Rakesh Pandit](https://open.spotify.com/artist/34qWfkLW2mSlqts5iQHQlC), [Pradeep Pandit](https://open.spotify.com/artist/1ZenKqRlw6lmjXqK0kJQhU) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 3:58 |
 | 11 | [Mitho Laage \- The Dewarists, Season 5](https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Mitho Laage \(The Dewarists, Season 5\)](https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp) | 4:40 |
 | 12 | [Chanda Jhaanke](https://open.spotify.com/track/6dimVWFSWOrJ7MjwJL2Z26) | [Baba Hansraj Raghuwanshi](https://open.spotify.com/artist/58dEyoXedmI4PZAWWnnQSJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Chanda Jhaanke](https://open.spotify.com/album/78XzPufvH4XnpzstGoutVt) | 3:38 |
-| 13 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 |
+| 13 | [Madano](https://open.spotify.com/track/2zTNlHeGIOgRqyYCsVopHc) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Madano](https://open.spotify.com/album/1tNOP6LpEgSR3fVuwYU6A1) | 4:28 |
 | 14 | [Ek Nazar](https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Ek Nazar](https://open.spotify.com/album/0uvgwyjq1H0PyJh9OSHzwc) | 7:24 |
-| 15 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
+| 15 | [Kesariya Balam](https://open.spotify.com/track/2ThKcMBfuQilrlCkGlCdgM) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Desert Sessions](https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU) | 4:11 |
 | 16 | [Moti Veraana \(From Songs of Faith\)](https://open.spotify.com/track/6qhTVtHIsK8WVf7biagk7O) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Osman Mir](https://open.spotify.com/artist/20w1cujlzVI3LA0dItmMg1) | [Moti Veraana \(From Songs of Faith\)](https://open.spotify.com/album/0nRRqy5mEGsEudNBHfCXvu) | 4:16 |
-| 17 | [Madano](https://open.spotify.com/track/2zTNlHeGIOgRqyYCsVopHc) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Madano](https://open.spotify.com/album/1tNOP6LpEgSR3fVuwYU6A1) | 4:28 |
+| 17 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika](https://open.spotify.com/artist/1KZeYPaNqTM9aDUU7b56jF) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 |
 | 18 | [Railgaadi](https://open.spotify.com/track/0usYBbHAMyaUXQWt6MPgRb) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Achint & The Khan Brothers](https://open.spotify.com/album/74HxujfdLSnWWMLUjI2393) | 3:41 |
 | 19 | [Maye Ni Meriye](https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD) | [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Maye Ni Meriye](https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW) | 4:25 |
 | 20 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 49 | [Ghat Ghat](https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Kabir Cafe Live](https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq) | 4:20 |
 | 50 | [Banna](https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Banna](https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu) | 5:36 |
 
-Snapshot ID: `MCw3OTEyMmVjYTA4MmNhMThjNmFmMDkyMjdkOThlYWQ4NTgxOGFiZDI2`
+Snapshot ID: `MCwzODFlMTNhMDViZTVmZWI1ZjFjMjRhM2E1MjMxNjkzYWM3ZTY1NWEz`

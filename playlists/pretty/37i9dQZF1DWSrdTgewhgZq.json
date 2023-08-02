@@ -1,12 +1,12 @@
 {
   "description": "Only the best Hip-hop, only non-stop hits. Travis Scott on Cover \n",
-  "num_followers": 1038154,
+  "num_followers": 1038481,
   "original_name": "DOPE.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjFkZTA4MzMwMzM0YzBjNDc3MmI4NGZjZjg2ODgyYjY5Mzg2ZmM5",
+  "snapshot_id": "MCw5MDQ0ZWJjYTU0ODE5NDAyOWQ4NDE0ZjMzNzk4ZDE2N2MzZWI5N2I3",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -18,10 +18,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
       "duration_ms": 246133,
-      "name": "MELTDOWN",
+      "name": "MELTDOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {
@@ -34,10 +38,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 191700,
-      "name": "FE!N",
+      "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {

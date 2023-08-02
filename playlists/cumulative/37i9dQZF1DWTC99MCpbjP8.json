@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9vouement",
+        "url": "https://open.spotify.com/album/0UBhbhhh9HC0cJaLtFhNel"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136624,
+      "name": "D\u00e9vouement",
+      "url": "https://open.spotify.com/track/1IxqOTOmyJh9f8gSO9YbK2"
+    },
+    {
+      "album": {
         "name": "Early Memories",
         "url": "https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g"
       },

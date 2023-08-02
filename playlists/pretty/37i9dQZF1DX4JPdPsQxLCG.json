@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 58637,
+  "num_followers": 58715,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWRhY2Q2YTE3YTI1ZDYwODYyZjk2NDI1ZTNhN2I5ODQ4NDcyNTQ0",
+  "snapshot_id": "MCxlNTRhODUwMGNhOTY3YTE2ODQwNzZmNTM0MjFmZjc0MTM1ZTI1MmRh",
   "tracks": [
     {
       "added_at": "2023-07-28 12:59:49",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-07-28 12:59:49",
       "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
       },
       "artists": [
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
         }
       ],
-      "duration_ms": 247306,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
+      "duration_ms": 180000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
     },
     {
       "added_at": "2023-07-28 12:59:49",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-07-28 12:59:49",
       "album": {
-        "name": "Driving",
-        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
       },
       "artists": [
         {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
+      "duration_ms": 247306,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
     },
     {
       "added_at": "2023-07-28 12:59:49",

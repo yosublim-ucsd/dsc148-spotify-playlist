@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters\. Cover: Dipper
+> Music from Nashville's emerging Singers and Songwriters\. Cover: King Calaway
 
-288 songs - 15 hr 16 min
+290 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [I Still Do](https://open.spotify.com/track/3F9EapDhISD4RPbJRNCcnd) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [I Still Do](https://open.spotify.com/album/7hbSZShyCn9RikSyFfSb5R) | 3:02 | 2021-12-31 | 2022-01-08 |
 | [I Still Think About You](https://open.spotify.com/track/3DeGzDk6bWzl4OH0LSbZrr) | [Rackley](https://open.spotify.com/artist/0GufVCqBIQMgGorRAeIMda) | [I Still Think About You](https://open.spotify.com/album/4dyAHZVVrCTN8CW2wXzZFq) | 3:38 | 2022-04-01 |  |
 | [I Think About You](https://open.spotify.com/track/3YCXRpU918lO8lKZMOtR0Z) | [Harper Grae](https://open.spotify.com/artist/0DLNCN6QeRGiexrWwYUnMr) | [I Think About You](https://open.spotify.com/album/2uF5SkbBCH2GFnBLUGNYMr) | 3:31 | 2021-12-31 |  |
+| [I'm Feelin' Good \(Steve Miller Band\)](https://open.spotify.com/track/4N4HucJ3hNKQq1fOy1uH1B) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 2:40 | 2023-08-01 |  |
 | [I'm Not There Yet](https://open.spotify.com/track/2kPNQECMXwnYZdpkp77YWf) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [I'm Not There Yet](https://open.spotify.com/album/4tQgfgItam1kvIwRNuJm3s) | 3:24 | 2022-04-01 | 2022-08-02 |
 | [If It Weren't For You](https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb) | [FINMAR](https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge) | [If It Weren't For You](https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t) | 3:16 | 2021-12-31 | 2022-02-12 |
 | [If We Ever Break Up](https://open.spotify.com/track/1cCB9LEPx68LUmMV86P9Js) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [If We Ever Break Up](https://open.spotify.com/album/5wIsBD8oAgYtwozFInMeIy) | 2:33 | 2022-03-25 |  |
@@ -247,6 +248,7 @@
 | [Take Me Home](https://open.spotify.com/track/6pZ989rZpUdbJaIa7zGMnl) | [Lexie Hayden](https://open.spotify.com/artist/6zYd6Vq5ssXgIhxm1DTGWh) | [Take Me Home](https://open.spotify.com/album/5EENz2lpRG7vQChSZR7RIn) | 3:26 | 2021-12-31 | 2022-01-22 |
 | [Take Me Home](https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [Take Me Home](https://open.spotify.com/album/1s5YEE17J1ZqCkcSnpxO9A) | 3:25 | 2021-12-31 |  |
 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 | 2022-07-01 |  |
+| [Tennessee's Waiting](https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [The Other Half](https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE) | 3:09 | 2023-08-01 |  |
 | [Thank You Card](https://open.spotify.com/track/363sJuHog5UqucY0D15ggq) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Thank You Card](https://open.spotify.com/album/69RR8FI3KIdVizuPF6Bf36) | 3:10 | 2022-02-25 |  |
 | [That Summer](https://open.spotify.com/track/00oJcls7l9XuLAroemBLy8) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Silver Linings](https://open.spotify.com/album/3sJZ4bPGiUVmgHUC02frvL) | 3:04 | 2022-10-14 | 2023-01-14 |
 | [That Summer](https://open.spotify.com/track/4eb7VLZEQhNo10TnJDQmCx) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [That Summer](https://open.spotify.com/album/37fZJrMmfyGdPgBupuXKLo) | 3:04 | 2021-12-31 | 2022-10-28 |

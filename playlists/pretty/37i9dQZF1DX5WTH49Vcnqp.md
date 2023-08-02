@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,009 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,062 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Find A Way](https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Find A Way](https://open.spotify.com/album/1VWrKBjlH6OfQNxTdjJaYP) | 3:47 |
 | 80 | [Queen](https://open.spotify.com/track/3yEkUjJOqBIORKxOLK80jS) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Queen](https://open.spotify.com/album/4P86lJFzKu0krcnGlvoIuH) | 3:27 |
 
-Snapshot ID: `MCxlZjNlNThkMzY3YzE0MTM5Zjc2MmU2Yjk3N2Q1ZDU2ZGM5ZGJkNDU4`
+Snapshot ID: `MCw1MjU4MTg2N2I5YTQ3OGUzODBmZTQ0MjNkZTg5MGIxZTQ1YTg5OTRi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJ5ASfvLOo.md) - [plain]
 
 > Listen to the soundtracks of the show Bro and Marble\. \(브로 앤 마블의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 '여행 갈 때 듣기 좋은 노래'들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34 likes - 48 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 48 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJ5ASfvLOo.md) - [plain]
 | 47 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 |
 | 48 | [Play the Summer](https://open.spotify.com/track/3DbJBVdTQb4fFcVnSgirer) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [LINDA.G](https://open.spotify.com/artist/0LYQpXDY8mPnFOvyiJGMqh), [B.RYONG](https://open.spotify.com/artist/1nq6zilJc5BG9rRpYQ2Ojo) | [Play the Summer](https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e) | 3:24 |
 
-Snapshot ID: `MCw3ZTA5ODdmOWM3OWM5NzdkY2JkZDE5NThlNjU5ZWY4YmEzY2M1NTE5`
+Snapshot ID: `MCwyZGVhMzMwOTcyMGY5MzhkOGE1NDZlZGI3ZDgwMjRiZDZiYmE2OTcz`

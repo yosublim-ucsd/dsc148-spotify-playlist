@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Philip ed LJK in cover.
 
-680 songs - 1 day 5 hr 36 min
+681 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [GUAP](https://open.spotify.com/track/6SsDsEklz3j7hWCLv7pGyG) | [Luchetto](https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [GUAP](https://open.spotify.com/album/1DWB7jQzzAUYjZAfWBStun) | 2:56 | 2023-04-06 | 2023-05-05 |
 | [Guardo la moon](https://open.spotify.com/track/2sg0JDiZ4w6aqkuCgC8UvX) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [Guardo la moon](https://open.spotify.com/album/0S4ADNwKbyzj42x2IvSS2w) | 2:39 | 2023-05-18 | 2023-05-26 |
 | [GUERRA](https://open.spotify.com/track/3jsnqaZI1liYePMnHyhZF4) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn) | [DRILL LIFE 2 DELUXE](https://open.spotify.com/album/7kC5FpnIJf6y6ZqlNzZ81V) | 1:54 | 2023-07-27 |  |
-| [Guess](https://open.spotify.com/track/0e4Dqn2igrNelqflegUa0N) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [247 \- EP](https://open.spotify.com/album/0DC5Ny65xEF66F00OiTsnR) | 3:01 | 2023-07-06 |  |
+| [Guess](https://open.spotify.com/track/0e4Dqn2igrNelqflegUa0N) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [247 \- EP](https://open.spotify.com/album/0DC5Ny65xEF66F00OiTsnR) | 3:01 | 2023-07-06 | 2023-08-02 |
 | [Guérrilla](https://open.spotify.com/track/5NUTv7iUQY77PyEqyqlgRw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Guérrilla](https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe) | 2:25 | 2022-05-10 | 2022-09-30 |
 | [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 | 2023-06-21 |  |
 | [HAHA](https://open.spotify.com/track/4eYUoNStca0EVkLhFYlO3b) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [HAHA](https://open.spotify.com/album/0tjYg0AfX7eplMuykznGGV) | 2:57 | 2023-07-13 |  |
@@ -616,6 +616,7 @@
 | [TE STESSO](https://open.spotify.com/track/6ldbvvvkwxZ1Y6TE0hZToS) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [TE STESSO](https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ) | 2:39 | 2022-10-06 | 2022-12-16 |
 | [Team](https://open.spotify.com/track/1itpLyF990nYUbNbdt3Ha2) | [Fuck Pop](https://open.spotify.com/artist/2EOQo8wyiH2Td1VVXgTKGW), [cinquantasettanta](https://open.spotify.com/artist/6QOv4gfAQMIqGoG5LIjg2h), [Ciko](https://open.spotify.com/artist/1avlWZZBKsFFxfgRENccBn), [The ego](https://open.spotify.com/artist/7CUwMTIN5PXXb2AAzAdJQj) | [Team](https://open.spotify.com/album/5C7hkoUeVxXC3hntHOwLqq) | 2:22 | 2022-11-30 | 2022-12-16 |
 | [TEN TEN](https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0), [Manny Troublez](https://open.spotify.com/artist/4zy1P09QNWgC7LvrAbYaDN) | [TEN TEN](https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp) | 3:03 | 2023-03-02 | 2023-04-21 |
+| [Tennis Club](https://open.spotify.com/track/3rV4Ua58IkgiGQjsywxckx) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Tennis Club](https://open.spotify.com/album/6MFUD5C7RZlANVsGdOmDZI) | 2:46 | 2023-08-01 |  |
 | [The Cold Room \- S3\-E4](https://open.spotify.com/track/1wTxYesY68QgBFYpP41v3p) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Tweeko](https://open.spotify.com/artist/22wD142FUVQatdB5g8mxTF), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [The Cold Room \- S3\-E4](https://open.spotify.com/album/6pPBT9fijDHszK1WWmG3Lv) | 2:14 | 2023-05-04 | 2023-05-12 |
 | [The Man \(Come 50\) \(feat\. Kid Yugi\)](https://open.spotify.com/track/7LgGQyEXv1vXS6gxgfbe14) | [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC), [Depha Beat](https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Lock & Stock](https://open.spotify.com/album/4xOptIENTe5ry3paBoj2Jq) | 2:30 | 2023-01-26 | 2023-02-17 |
 | [Tiger](https://open.spotify.com/track/2hgEpXDvLCtcTUmF00Mxjw) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Tiger](https://open.spotify.com/album/3JN5Q4TNhG2lZCExpOWjUu) | 2:39 | 2023-06-15 | 2023-07-05 |

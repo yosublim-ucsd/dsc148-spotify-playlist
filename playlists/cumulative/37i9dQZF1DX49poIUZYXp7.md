@@ -2,9 +2,9 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Kylie Morgan
+> The extraordinary women making great country music today\. Cover: Hailey Whitters
 
-333 songs - 18 hr 14 min
+334 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Catch & Release](https://open.spotify.com/track/0PmPRgYrBfsr3yae519HvU) | [The Heels](https://open.spotify.com/artist/6RVPa0femL24thwjQe0yr1), [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Catch & Release](https://open.spotify.com/album/7y1ThjTK11mckdmoQ9tNVh) | 3:20 | 2022-03-25 | 2022-04-20 |
 | [Cheap Thrills](https://open.spotify.com/track/7hmNm4msXbykTrRw7YOJgu) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Cheap Thrills](https://open.spotify.com/album/6nLWRaQyv7SbwUTC1n3Lmg) | 2:35 | 2021-12-01 | 2022-07-28 |
 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 | 2022-03-25 |  |
-| [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-02-11 |  |
+| [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-02-11 | 2023-08-02 |
 | [Clean](https://open.spotify.com/track/4Cs2SaQLxF1FXbMnfJLlfy) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Clean](https://open.spotify.com/album/5Y9g9o0gBrN1FiAc9xDF6i) | 3:03 | 2021-12-01 | 2022-04-20 |
 | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/track/6W8ip4419k9qTlOAkAU4uN) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Come In \(But Don't Make Yourself Comfortable\)](https://open.spotify.com/album/2dA4e6yg8TumkbOWZJYunN) | 3:07 | 2021-12-01 | 2022-07-29 |
 | [Cool](https://open.spotify.com/track/44USwYuZ2eckQTYqkoeJEC) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Hollywood Gypsy](https://open.spotify.com/album/0IuKHnuroKmBnaPqIRuxnh) | 3:48 | 2022-03-25 | 2022-04-21 |
@@ -151,6 +151,7 @@
 | [It Didn't](https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd) | 2:58 | 2022-07-22 | 2023-07-01 |
 | [It Was Me](https://open.spotify.com/track/0FatYaF4WxO3cZllChfhzM) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [It Was Me](https://open.spotify.com/album/303CQclcn1Doj54LcUQz4B) | 4:43 | 2021-12-01 | 2022-07-29 |
 | [It’s ‘Cause I Am](https://open.spotify.com/track/7JjymfuNMxQgOQJ4mGOdbg) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me](https://open.spotify.com/album/5DyBJlrOGNzxvGPkKAS8b4) | 2:46 | 2021-12-01 | 2022-08-12 |
+| [I’m In Love](https://open.spotify.com/track/2fuB0L4hR9NtI7RMr631Pk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [I'm In Love](https://open.spotify.com/album/3sWOOSPfJ4q7BatTQOgHtL) | 2:26 | 2023-08-01 |  |
 | [Joyride](https://open.spotify.com/track/56WqFKgyrRZd6CugD7Adjh) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Joyride](https://open.spotify.com/album/4GtZQ2uTWGcd40naFI7vYF) | 3:36 | 2021-12-01 | 2022-05-17 |
 | [Just About Over You \- Radio Edit](https://open.spotify.com/track/4JFPLiaWIP5xqV1DCbSqeh) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Radio Edit\)](https://open.spotify.com/album/4dIQM906ytb1uhErDtkGJg) | 3:08 | 2021-12-01 | 2022-07-28 |
 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 | 2021-12-01 | 2022-07-29 |

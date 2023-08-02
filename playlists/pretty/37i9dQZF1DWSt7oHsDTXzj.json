@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 161047,
+  "num_followers": 161037,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjdjMDg0NmFkNDI1M2MwOTcyMTdjODk3YWUxMTE1NzZkYjM0Y2Fi",
+  "snapshot_id": "MCw3OWI4M2NhODFhMjI5MGMyODU5MjJhODM0ZjA3MTcyZmRlZDQyODc2",
   "tracks": [
     {
       "added_at": "2022-12-23 02:36:32",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
-      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 219093,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
+      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
         "name": "Spotify Singles - Holiday",
         "url": "https://open.spotify.com/album/4NeHkZmteGriA9lEoa9Brp"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 203767,
       "name": "Christmas (Baby Please Come Home) - Recorded at Electric Lady Studios in NYC",
       "url": "https://open.spotify.com/track/4l6HpFFpPcJ3M5N1PuG7We"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
     },
     {
       "added_at": "2022-12-23 02:36:32",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-12-23 02:36:32",
       "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 296673,
+      "name": "Mama It's Christmas",
+      "url": "https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI"
+    },
+    {
+      "added_at": "2022-12-23 02:36:32",
+      "album": {
         "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
         "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 380480,
       "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
       "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
-    },
-    {
-      "added_at": "2022-12-23 02:36:32",
-      "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 296673,
-      "name": "Mama It's Christmas",
-      "url": "https://open.spotify.com/track/2r3zWJ1sWux8Fix5MODSGI"
     },
     {
       "added_at": "2022-12-23 02:36:32",

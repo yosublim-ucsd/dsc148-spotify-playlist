@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: IVYSON, GUPE",
-  "num_followers": 429048,
+  "num_followers": 429122,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTUyMWE1NDFlNzM3NDczOGU1YmQzZmFhMGEwNTRlNTVmMmY2OWZl",
+  "snapshot_id": "MCxjYmQ4ZjgwZDIyMjBmYmEyZjYwM2U1OTBlODEwMDE1M2U1Zjg4Mzk1",
   "tracks": [
     {
       "added_at": "2023-08-01 00:01:03",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "Resolvi Seguir",
-        "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Candido",
-          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
-        }
-      ],
-      "duration_ms": 161144,
-      "name": "Resolvi Seguir",
-      "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
-    },
-    {
-      "added_at": "2023-08-01 00:01:03",
-      "album": {
         "name": "Dias Claros",
         "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "Te dizer que sim.",
-        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
+        "name": "Resolvi Seguir",
+        "url": "https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Nicolas Candido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
         }
       ],
-      "duration_ms": 150036,
-      "name": "Te dizer que sim.",
-      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
+      "duration_ms": 161144,
+      "name": "Resolvi Seguir",
+      "url": "https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -759,22 +743,18 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
-        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+        "name": "Te dizer que sim.",
+        "url": "https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 133806,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
+      "duration_ms": 150036,
+      "name": "Te dizer que sim.",
+      "url": "https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -795,6 +775,26 @@
       "duration_ms": 158861,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
+    },
+    {
+      "added_at": "2023-08-01 00:01:03",
+      "album": {
+        "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
+        "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 133806,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 145131,
+      "name": "O Que Eu Devia Ter Vivido",
+      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-08-01 00:01:03",
+      "album": {
         "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 167424,
       "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-08-01 00:01:03",
-      "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 145131,
-      "name": "O Que Eu Devia Ter Vivido",
-      "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "\u00e1guas do futuro",
-        "url": "https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg"
+        "name": "Se eu n\u00e3o te amasse tanto assim",
+        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
       },
       "artists": [
         {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 242726,
-      "name": "\u00e1guas do futuro",
-      "url": "https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW"
+      "duration_ms": 137000,
+      "name": "Se eu n\u00e3o te amasse tanto assim",
+      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -1159,34 +1159,18 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "Se eu n\u00e3o te amasse tanto assim",
-        "url": "https://open.spotify.com/album/2julBYVtALWBQRawCHmIjH"
+        "name": "\u00e1guas do futuro",
+        "url": "https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Se eu n\u00e3o te amasse tanto assim",
-      "url": "https://open.spotify.com/track/3gKdUWrJRLRLQWpN95KXfU"
-    },
-    {
-      "added_at": "2023-08-01 00:01:03",
-      "album": {
-        "name": "My Loco",
-        "url": "https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        }
-      ],
-      "duration_ms": 150779,
-      "name": "My Loco",
-      "url": "https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq"
+      "duration_ms": 242726,
+      "name": "\u00e1guas do futuro",
+      "url": "https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -1203,6 +1187,22 @@
       "duration_ms": 205374,
       "name": "Tua Voz",
       "url": "https://open.spotify.com/track/5teR1I7ubg9WQKzLys3rJz"
+    },
+    {
+      "added_at": "2023-08-01 00:01:03",
+      "album": {
+        "name": "My Loco",
+        "url": "https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        }
+      ],
+      "duration_ms": 150779,
+      "name": "My Loco",
+      "url": "https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "GRA\u00c7AS A DEUS",
-        "url": "https://open.spotify.com/album/2ZIi7Xi8gPWO2FSdL5yiEE"
+        "name": "Sustentar",
+        "url": "https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF"
       },
       "artists": [
         {
-          "name": "zawa",
-          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
+          "name": "Sophia Stedile",
+          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
+        },
+        {
+          "name": "Jo\u00e3o Klein",
+          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
         }
       ],
-      "duration_ms": 126588,
-      "name": "GRA\u00c7AS A DEUS",
-      "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
+      "duration_ms": 147600,
+      "name": "Sustentar",
+      "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
     },
     {
       "added_at": "2023-08-01 00:01:03",
@@ -1347,22 +1351,18 @@
     {
       "added_at": "2023-08-01 00:01:03",
       "album": {
-        "name": "Sustentar",
-        "url": "https://open.spotify.com/album/4x3tqq8eCMgPfTtQjRl4eF"
+        "name": "GRA\u00c7AS A DEUS",
+        "url": "https://open.spotify.com/album/2ZIi7Xi8gPWO2FSdL5yiEE"
       },
       "artists": [
         {
-          "name": "Sophia Stedile",
-          "url": "https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi"
-        },
-        {
-          "name": "Jo\u00e3o Klein",
-          "url": "https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1"
+          "name": "zawa",
+          "url": "https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Sustentar",
-      "url": "https://open.spotify.com/track/3T0qWI1v8N7ZuxA61MTH4i"
+      "duration_ms": 126588,
+      "name": "GRA\u00c7AS A DEUS",
+      "url": "https://open.spotify.com/track/6QCUaIe6e7Sovbk8Zd1Hez"
     },
     {
       "added_at": "2023-08-01 00:01:03",

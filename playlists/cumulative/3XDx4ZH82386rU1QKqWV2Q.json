@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "BORED (Remixes)",
+        "url": "https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146759,
+      "name": "BORED (Ariis Remix)",
+      "url": "https://open.spotify.com/track/5qF4F8c0DR6zDHwlwf7Hn2"
+    },
+    {
+      "album": {
         "name": "BOTTLE GIRLS",
         "url": "https://open.spotify.com/album/73pb1XS2sIfO94mva5OZro"
       },
@@ -3184,6 +3206,24 @@
       "duration_ms": 153170,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb"
+    },
+    {
+      "album": {
+        "name": "PHANTASM",
+        "url": "https://open.spotify.com/album/5c11x6i2g58ilcmZp7wdU7"
+      },
+      "artists": [
+        {
+          "name": "Lorean",
+          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171696,
+      "name": "PHANTASM",
+      "url": "https://open.spotify.com/track/1HWrWjd92Fd6V4o2VGkvhQ"
     },
     {
       "album": {

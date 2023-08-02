@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228196,
+  "num_followers": 228198,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
+  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -367,6 +367,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "Quien Va a Frontiar (Remix)",
         "url": "https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 317000,
       "name": "Quien Va a Frontiar - Remix",
       "url": "https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "CONXSI\u00d3N",
-        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Piratas",
         "url": "https://open.spotify.com/album/6stZMmfRE8VlPWDXUBTKe6"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 199120,
       "name": "Piratas",
       "url": "https://open.spotify.com/track/0a3UB6hOlLPlgv1GIhWsed"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/5H67cNp6Qd44ozdgupssXB"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/3GHHqeqPmU7Aggw8yT9O3P"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "SHISHI",
-        "url": "https://open.spotify.com/album/3qBsliHciopWBbZf1BA6tJ"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "SHISHI",
-      "url": "https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "TRAPPHONE",
         "url": "https://open.spotify.com/album/2r8t3xBrocshJ1XeFOZLvk"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 107984,
       "name": "TRAPPHONE",
       "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "SHISHI",
+        "url": "https://open.spotify.com/album/3qBsliHciopWBbZf1BA6tJ"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "SHISHI",
+      "url": "https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Tengo Un Draco",
-        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Tengo Un Draco",
-      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Tengo Un Draco",
+        "url": "https://open.spotify.com/album/13V0uce9WplVFQDnTts0Gj"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Tengo Un Draco",
+      "url": "https://open.spotify.com/track/5jALUQUWa52HXvDmA5NFOE"
     },
     {
       "added_at": "2023-06-09 20:20:12",

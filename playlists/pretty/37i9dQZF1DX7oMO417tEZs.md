@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. Cover: Jesse Mac Cormack, Gabrielle Shonk
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,212 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,216 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 2 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 |
 | 3 | [Estrogen](https://open.spotify.com/track/2ysmGZWE33tgH9uWUse085) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Estrogen](https://open.spotify.com/album/0qPh5Xy3MnB213BYGmKCwE) | 3:38 |
 | 4 | [Slip Slide](https://open.spotify.com/track/7q3Ur8hlX5x35dyzQbdNJP) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Slip Slide](https://open.spotify.com/album/452wHpG8AT64V8dKhduC45) | 2:19 |
-| 5 | [MODERN JAM](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 |
+| 5 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 |
 | 6 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
 | 7 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 |
 | 8 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Phantom](https://open.spotify.com/track/4xfk99hBLqPwiTvY7BnSyH) | [Pacoussa](https://open.spotify.com/artist/65qRZyXgZqOtnGIW4WRGtL), [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Phantom](https://open.spotify.com/album/6bYa0DYAxFWjG26ZOp4rDE) | 2:30 |
 | 100 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 
-Snapshot ID: `MCw4MDBiZGFlMzZhYmE2MDgxMjVhYmUxYjU0NzlhYzJhM2NmODFhNGE1`
+Snapshot ID: `MCwxMDcyYzRjYTJlN2QwNDE2NmUzNjZkNDIxY2ZlZTZlODYxMDczNDI4`

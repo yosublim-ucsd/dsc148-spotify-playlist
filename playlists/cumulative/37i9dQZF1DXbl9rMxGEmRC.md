@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-453 songs - 1 day 14 hr 55 min
+454 songs - 1 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
 | [Death Walks Among Us \- Single Edit](https://open.spotify.com/track/005yHsz6xGZubdhG8ghJdY) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Death Walks Among Us](https://open.spotify.com/album/3UuzBA3t6Krm96ydpYXaei) | 4:38 | 2022-01-14 | 2022-04-02 |
 | [Deathcrush](https://open.spotify.com/track/5wWRdIjndDOh1j4OXAPpdD) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Deathcrush](https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz) | 3:32 | 2022-07-13 | 2023-03-01 |
-| [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 |  |
+| [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 | 2023-08-02 |
 | [Demonon Vrosis](https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Aealo](https://open.spotify.com/album/16ywSYjE1gvCU1GtlYVXgV) | 4:56 | 2022-07-13 |  |
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
@@ -193,6 +193,7 @@
 | [His Masters Voice](https://open.spotify.com/track/7IQjBiSjclkJlwGW1RbOpn) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Eternal Hails......](https://open.spotify.com/album/0ktSEj7BjykHXm9NJkIrtL) | 7:17 | 2021-12-17 | 2022-03-11 |
 | [Holy Mountain](https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ), [Lars Nedland](https://open.spotify.com/artist/2ed4HnBvIrLITZkNsmVRgd) | [Holy Mountain](https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL) | 5:13 | 2022-04-22 |  |
 | [Homewards](https://open.spotify.com/track/3V1CdKynl6M9lhpMWtRSwW) | [Groza](https://open.spotify.com/artist/5PC1B9qDXhyin3ZgyRcio7) | [The Redemptive End](https://open.spotify.com/album/1aJDrBCHQrhSQwDxVQ7f3I) | 10:46 | 2021-12-17 | 2022-04-02 |
+| [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN) | 4:37 | 2023-07-28 |  |
 | [Hopeless Endeavor](https://open.spotify.com/track/7cSJIf1yDgcGLj9VI4DLmg) | [Gomorran](https://open.spotify.com/artist/2gYZWsir5p6qtSkTDF7Qkt) | [Hopeless Endeavor](https://open.spotify.com/album/4iURRVj0MVYD4lt75ehOqk) | 4:15 | 2021-12-17 | 2022-01-15 |
 | [Hordalands Doedskvad part I](https://open.spotify.com/track/1iOCpO6tlqnrgMOG9epX8z) | [Taake](https://open.spotify.com/artist/2CofVEvqc6hhyKwYsLiuN9) | [Doedskvad](https://open.spotify.com/album/3wyfS8HzHXxD3QuC74eqr4) | 7:43 | 2022-07-13 | 2022-07-28 |
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |

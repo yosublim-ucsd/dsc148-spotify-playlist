@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDBhNDBlZDAyZDIyOWQ0ODRiYWMwYTM2YWE0Nzc2YjJiNg==",
+  "snapshot_id": "MjgxNzUyODAsMDAwMDAwMDA3NWU4N2IzMDIzMDU1NWQwYzdkYThlMmZlOGE0MzVkNA==",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -79,22 +79,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+        "name": "Where The Shadows Fall (Live 1985)",
+        "url": "https://open.spotify.com/album/641Ptxo4mPGxsSu12hFiM3"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+      "duration_ms": 251521,
+      "name": "Barracuda - Live 1985",
+      "url": "https://open.spotify.com/track/0PB5asiVnUI2n9Uf1CasUy"
     },
     {
       "added_at": "2023-07-28 04:00:00",

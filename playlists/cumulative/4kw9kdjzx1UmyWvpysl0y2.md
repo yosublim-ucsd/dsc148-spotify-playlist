@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-531 songs - 1 day 7 hr 1 min
+532 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 | 2023-07-22 |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 | 2023-07-06 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
-| [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 |  |
+| [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 | 2023-08-02 |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |
 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 | 2022-08-04 | 2022-10-19 |
@@ -336,6 +336,7 @@
 | [Nirvana](https://open.spotify.com/track/7detTFsv31gyHyCTeMTMi8) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq) | [Nirvana](https://open.spotify.com/album/3xfdjH3nHygrPDO1TlVIOK) | 3:15 | 2022-03-18 | 2022-06-01 |
 | [Nirvana \- Tisoki Remix](https://open.spotify.com/track/3xxKLNhN0uADJtSF53kULp) | [Candyland](https://open.spotify.com/artist/3wzxasxU7kQxHPr0ky5rJq), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Nirvana \(Tisoki Remix\)](https://open.spotify.com/album/0Kz8iQFEkPIyqgxBspHPzL) | 2:58 | 2022-12-01 | 2023-03-02 |
 | [No Control](https://open.spotify.com/track/57OlQTDHonsUTAAC75H76e) | [Ghost](https://open.spotify.com/artist/53b5NwFZLCZySuNmbRvR0l), [MADREX](https://open.spotify.com/artist/4hI1zpze5eNa4V2MwkpLAr), [DAINA](https://open.spotify.com/artist/1dS4Jq6et9it9hW9Xj1QRX) | [No Control](https://open.spotify.com/album/1tfTOFgCNCObyeKhlyHatu) | 2:58 | 2021-11-26 | 2022-03-03 |
+| [NO FEAR](https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [NO FEAR](https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D) | 2:54 | 2023-08-01 |  |
 | [No Rules](https://open.spotify.com/track/57nFbEPX1CRI2jdnfuXEM1) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [No Rules](https://open.spotify.com/album/4u1rgicxUL8QDXsz6kandx) | 9:07 | 2023-06-21 |  |
 | [No Service](https://open.spotify.com/track/1R2g5R7ckiCczur5kd3BfI) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [No Service](https://open.spotify.com/album/5XvkGrC973JZubUWp20vYD) | 3:00 | 2023-02-16 | 2023-05-05 |
 | [Nobody Knows](https://open.spotify.com/track/3Rf0QthnKw45CyaZmyAK4N) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Nobody Knows](https://open.spotify.com/album/1QspXe5CfdcrFQOBW1ystX) | 2:57 | 2022-11-11 | 2022-11-20 |

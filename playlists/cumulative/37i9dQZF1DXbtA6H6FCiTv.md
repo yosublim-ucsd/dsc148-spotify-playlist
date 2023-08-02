@@ -4,7 +4,7 @@
 
 > Enjoy the SEVENTEEN's best hits for the upcoming concerts! \(다가오는 세븐틴의 콘서트를 준비하며 히트곡들을 즐겨보세요!\)
 
-54 songs - 2 hr 52 min
+55 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [F\*ck My Life](https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:22 | 2023-07-14 |  |
 | [Fear](https://open.spotify.com/track/1SgRnIFTs39lSkQJACYDoY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 | 2023-07-14 |  |
 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-07-14 |  |
-| [Good to Me](https://open.spotify.com/track/2ujZatFh8uZMkiBTu2z7AH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:09 | 2023-07-14 |  |
+| [Good to Me](https://open.spotify.com/track/4RWbyug0n12hOVHDxRAj5y) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6th Mini Album 'YOU MADE MY DAWN'](https://open.spotify.com/album/2Ng7FzZoNzpj4z8VRDHyb5) | 3:09 | 2023-07-14 |  |
+| [Good to Me](https://open.spotify.com/track/2ujZatFh8uZMkiBTu2z7AH) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'](https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT) | 3:09 | 2023-07-14 | 2023-08-02 |
 | [Happy Ending](https://open.spotify.com/track/29RpFeHrgO7cXLzAtXu51e) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Happy Ending](https://open.spotify.com/album/2SrJI9UCeYzVXYripQVnbi) | 3:30 | 2023-07-14 |  |
 | [Heaven's Cloud](https://open.spotify.com/track/2Q4D2Pz1HDt1x4NukBID5Q) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:52 | 2023-07-14 |  |
 | [HIGHLIGHT](https://open.spotify.com/track/6FdIEgj8ErhkOHbtB6aqFF) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:45 | 2023-07-14 |  |

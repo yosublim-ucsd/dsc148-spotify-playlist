@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 306375,
+  "num_followers": 306569,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGExYjM2MTdlYTc3MDNkNDVjYjVhYjFjYjg5NGFhOWEyNzliYmNj",
+  "snapshot_id": "MCxhNGUxY2NiMTU2ODk5OTViZDBiNTJkNmFjNGVkZGNkZjgxZDYwNjJm",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "N\u00e3o H\u00e1 Deus Maior",
+        "url": "https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 341818,
+      "name": "N\u00e3o H\u00e1 Deus Maior - Ao Vivo",
+      "url": "https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -303,38 +319,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "N\u00e3o H\u00e1 Deus Maior",
-        "url": "https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 341818,
-      "name": "N\u00e3o H\u00e1 Deus Maior - Ao Vivo",
-      "url": "https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
         "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
       },
@@ -351,6 +335,26 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
+        "url": "https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        },
+        {
+          "name": "Katholika Music",
+          "url": "https://open.spotify.com/artist/0grtBW6nOD3qjL2S8xNqo2"
+        }
+      ],
+      "duration_ms": 225487,
+      "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
+      "url": "https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
       },
@@ -363,22 +367,6 @@
       "duration_ms": 429900,
       "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
-      },
-      "artists": [
-        {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
-        }
-      ],
-      "duration_ms": 262232,
-      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -403,22 +391,34 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
-        "url": "https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw"
+        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
       },
       "artists": [
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        },
-        {
-          "name": "Katholika Music",
-          "url": "https://open.spotify.com/artist/0grtBW6nOD3qjL2S8xNqo2"
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
         }
       ],
-      "duration_ms": 225487,
-      "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
-      "url": "https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC"
+      "duration_ms": 262232,
+      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Resili\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 569032,
-      "name": "Eis-Me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Quero Nascer de Novo",
         "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 370000,
       "name": "Quero Nascer de Novo",
       "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Resili\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 569032,
+      "name": "Eis-Me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -543,42 +543,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Hosana, Pt. 01",
-        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 214327,
-      "name": "Can\u00e7\u00e3o de Madalena",
-      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -615,6 +579,42 @@
       "duration_ms": 286000,
       "name": "Nada Temerei",
       "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Hosana, Pt. 01",
+        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 214327,
+      "name": "Can\u00e7\u00e3o de Madalena",
+      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Quero Ouvir Tua Voz",
-        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
       "artists": [
         {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
         }
       ],
-      "duration_ms": 264891,
-      "name": "Quero Ouvir Tua Voz",
-      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -771,6 +751,26 @@
       "duration_ms": 283384,
       "name": "Que Amor \u00c9 Esse?",
       "url": "https://open.spotify.com/track/0r4pRsYnIIjoscIkoGe9dQ"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Quero Ouvir Tua Voz",
+        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "Quero Ouvir Tua Voz",
+      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
     },
     {
       "added_at": "2023-07-28 03:00:00",

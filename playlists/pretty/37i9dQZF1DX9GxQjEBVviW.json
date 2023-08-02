@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 211428,
+  "num_followers": 211480,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTNhY2Q2Njk4ZjJkMzNhOTgyNzAwZDIwODA4M2ZjZDlkNzY4YWYw",
+  "snapshot_id": "MCwyY2UwODY3ODE4MjQyMzkxZjkwMTgwYTdkNmM4YjAyOTEzMjA1MTI5",
   "tracks": [
     {
       "added_at": "2021-02-12 10:06:47",
@@ -315,22 +315,18 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Four Aces' Greatest Hits",
-        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
+        "name": "The Magic Touch: An Anthology",
+        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
       },
       "artists": [
         {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        },
-        {
-          "name": "Al Alberts",
-          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
         }
       ],
-      "duration_ms": 137493,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
+      "duration_ms": 157760,
+      "name": "Smoke Gets In Your Eyes",
+      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
     },
     {
       "added_at": "2021-02-12 10:06:47",
@@ -351,18 +347,22 @@
     {
       "added_at": "2021-02-12 10:06:47",
       "album": {
-        "name": "The Magic Touch: An Anthology",
-        "url": "https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC"
+        "name": "The Four Aces' Greatest Hits",
+        "url": "https://open.spotify.com/album/6GfLyMNLMpMayW8kqBDUaL"
       },
       "artists": [
         {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        },
+        {
+          "name": "Al Alberts",
+          "url": "https://open.spotify.com/artist/4WDWA8qWhjKvr40baPlxsq"
         }
       ],
-      "duration_ms": 157760,
-      "name": "Smoke Gets In Your Eyes",
-      "url": "https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW"
+      "duration_ms": 137493,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/6UVPuIgNTVNpqyX3YGoj1T"
     },
     {
       "added_at": "2021-02-12 10:06:47",

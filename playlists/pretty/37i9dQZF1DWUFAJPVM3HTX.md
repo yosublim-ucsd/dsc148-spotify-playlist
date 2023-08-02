@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,336 likes - 450 songs - 22 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,430 likes - 450 songs - 22 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 20 | [Nuclear Reactor](https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx) | 3:15 |
 | 21 | [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 |
 | 22 | [No More Love](https://open.spotify.com/track/6HocrzGQCqy3IEBTGmVRW4) | [Ivy Lo](https://open.spotify.com/artist/4yMX8oQmCFFmIGgloKdJLY) | [Keep It Off My Mind](https://open.spotify.com/album/7cA3REAbnoMn1SR46EcFsD) | 2:47 |
-| 23 | [Just We \(feat\. Jordan Occasionally\)](https://open.spotify.com/track/0PYA2tNT7WNyfHnROyvzz4) | [Mak Ro](https://open.spotify.com/artist/7Ie2n0Gp5cz6gueIXPxpwa), [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [Just We \(feat\. Jordan Occasionally\)](https://open.spotify.com/album/4JA5K4p6XtAK6Sqv1wqakG) | 4:28 |
+| 23 | [Just We](https://open.spotify.com/track/0PYA2tNT7WNyfHnROyvzz4) | [Mak Ro](https://open.spotify.com/artist/7Ie2n0Gp5cz6gueIXPxpwa), [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [Just We](https://open.spotify.com/album/4JA5K4p6XtAK6Sqv1wqakG) | 4:28 |
 | 24 | [URSNMINE](https://open.spotify.com/track/58alD6rpgshyrcpsFOjFZ4) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh) | [URSNMINE](https://open.spotify.com/album/4kU1112QrVmMVOTwPDeWna) | 4:17 |
 | 25 | [make it sweet](https://open.spotify.com/track/6v1pldREMquWewApEBNDwh) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [make it sweet](https://open.spotify.com/album/7dz122rk1ZPkQmt8fW8JEE) | 2:41 |
 | 26 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 |
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 449 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 | 450 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 
-Snapshot ID: `MCxhN2VlNWFlZGJkNzljODZlN2I4MzMxOGVjOTcxZjQ0YjI4YjZiYmU5`
+Snapshot ID: `MCwyZTg0YjFmYjc1Yzg2YjM5NmRjZTAzY2M4NGFjYjUyMzJlNDBkODMz`

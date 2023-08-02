@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 56835,
+  "num_followers": 56865,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm",
+  "snapshot_id": "MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk",
   "tracks": [
     {
       "added_at": "2023-05-29 14:34:48",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Por una Yegua No Se para la Trilla",
-        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "La Mesa 20",
-      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 252651,
       "name": "Deja de Llorar",
       "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Por una Yegua No Se para la Trilla",
+        "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
+      },
+      "artists": [
+        {
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "La Mesa 20",
+      "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
+        "name": "Lo Mejor 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
+      },
+      "artists": [
+        {
+          "name": "Rene Inostroza",
+          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
+        }
+      ],
+      "duration_ms": 154746,
+      "name": "La Guaracha del Fay Fay",
+      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
         "name": "Voy a Ser",
         "url": "https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 237840,
       "name": "Voy a Ser",
       "url": "https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
-        "name": "Una Hora para Bailar",
-        "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
-      },
-      "artists": [
-        {
-          "name": "Los Perros del Monte",
-          "url": "https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "All\u00e1 Va la Liebre",
-      "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Lo Mejor 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
+        "name": "Una Hora para Bailar",
+        "url": "https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B"
       },
       "artists": [
         {
-          "name": "Rene Inostroza",
-          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
+          "name": "Los Perros del Monte",
+          "url": "https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs"
         }
       ],
-      "duration_ms": 154746,
-      "name": "La Guaracha del Fay Fay",
-      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
+      "duration_ms": 201627,
+      "name": "All\u00e1 Va la Liebre",
+      "url": "https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Rancheras Populares 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos Negros",
-          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Te Lavaste la Cara y el Mono No",
-      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Guarachas Rancheras",
         "url": "https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 188156,
       "name": "Dame Tu Pelo Ni\u00f1a",
       "url": "https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Rancheras Populares 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/79FB6kLs7REYbGEYFew3Xr"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Negros",
+          "url": "https://open.spotify.com/artist/65F6OtLWx2jRUCjEgjj9D6"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "Te Lavaste la Cara y el Mono No",
+      "url": "https://open.spotify.com/track/4NSeSrdpLhJd0Q6RL4fVn8"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
-        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
-      },
-      "artists": [
-        {
-          "name": "Los Diamantes de Purapel",
-          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "La Chupilca",
         "url": "https://open.spotify.com/album/5bpY8kbK4mZiosA1UKI8x2"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 175205,
       "name": "La Chupilca",
       "url": "https://open.spotify.com/track/75N9uODWcbYhwYoayo7879"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
+        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
+      },
+      "artists": [
+        {
+          "name": "Los Diamantes de Purapel",
+          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Para Mi Gente Campesina",
-        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
-      },
-      "artists": [
-        {
-          "name": "Rel\u00e1mpagos de Chile",
-          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
-        }
-      ],
-      "duration_ms": 192776,
-      "name": "Vivo la Vida",
-      "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Palomita de Alas Blancas",
         "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 115466,
       "name": "Palomita de Alas Blancas",
       "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Para Mi Gente Campesina",
+        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
+      },
+      "artists": [
+        {
+          "name": "Rel\u00e1mpagos de Chile",
+          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
+        }
+      ],
+      "duration_ms": 192776,
+      "name": "Vivo la Vida",
+      "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
     },
     {
       "added_at": "2023-05-29 14:34:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-29 14:34:48",
       "album": {
-        "name": "Cumbias Campesinas",
-        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        }
-      ],
-      "duration_ms": 237975,
-      "name": "Guaijirito",
-      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
-    },
-    {
-      "added_at": "2023-05-29 14:34:48",
-      "album": {
         "name": "Tu Amor Barato",
         "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 224328,
       "name": "Tarjetita de Invitacion",
       "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
+    },
+    {
+      "added_at": "2023-05-29 14:34:48",
+      "album": {
+        "name": "Cumbias Campesinas",
+        "url": "https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        }
+      ],
+      "duration_ms": 237975,
+      "name": "Guaijirito",
+      "url": "https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW"
     },
     {
       "added_at": "2023-05-29 14:34:48",

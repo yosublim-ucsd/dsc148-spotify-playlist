@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Dylan Scott
+> Top trending country tracks from the last few months\. Cover: Brian Kelley
 
 321 songs - 17 hr 2 min
 

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,315 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,398 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
+| 1 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
 | 2 | [Gunda Tera Yaar](https://open.spotify.com/track/6LUcNhzw90fgkNfGIng6Y8) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Gunda Tera Yaar](https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61) | 2:38 |
 | 3 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 |
 | 4 | [Binde](https://open.spotify.com/track/3dduicyXRRc56JhQyWvNPj) | [Sapna Choudhary](https://open.spotify.com/artist/5WYVZzKOZMUn4pNY9gy2BM), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Binde](https://open.spotify.com/album/3GLVHpysgsLtisASRLPmWt) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [Salute](https://open.spotify.com/track/6kk3T6M88cunWGspzNqlVr) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Salute](https://open.spotify.com/album/2jIIGk955mGc9fMIDuBa7I) | 3:07 |
 | 50 | [Haryanvi Swag](https://open.spotify.com/track/3pnigHrG7LXFjnH3lbUcTz) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Haryanvi Swag](https://open.spotify.com/album/3PslA9S2V2vUDqRJo8z23C) | 2:23 |
 
-Snapshot ID: `MCxmZWMwYTYwNWY5OTE3Nzc4MDgyZjczNTE3NjM4YWEzMDYxMDk2ZGM5`
+Snapshot ID: `MCxmZGFhMDc1YWI3M2E3YjlhZDBkNjE5ZmQ5ODM0Njc0NWI1YmRjZDY3`

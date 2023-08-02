@@ -1,13 +1,33 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 113130,
+  "num_followers": 113317,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDhlMGZlNGJkNTliNWI1ODE2ZDM2NjkwNGE2MGUxMTNjZjhjNTk4",
+  "snapshot_id": "MCxmYWQzNjA3YWNiNDYwMDNiOWMxNWFlYWI2MWNlNzM3MDk2MDdiYjk1",
   "tracks": [
+    {
+      "added_at": "2023-08-01 03:25:18",
+      "album": {
+        "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
+        "url": "https://open.spotify.com/album/6ynjwmYfzxcX8HmRnxyqLt"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "NINGNING",
+          "url": "https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM"
+        }
+      ],
+      "duration_ms": 223728,
+      "name": "\u59b3\u5728\u54ea\u88e1 (WYA)",
+      "url": "https://open.spotify.com/track/4WOBcLq8VFP4xWLyNMAotu"
+    },
     {
       "added_at": "2023-05-08 09:56:13",
       "album": {

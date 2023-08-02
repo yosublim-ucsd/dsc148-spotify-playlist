@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 469703,
+  "num_followers": 469819,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTVjMjBlOWMzODRiMjAwZTQ4YTZhYmY0NjRkYTY1ZDg0OGJkNDEw",
+  "snapshot_id": "MCw2ODRjY2RjYTk1Mjk0Nzc2OTQ5MzRlYTg1MDAxMzBiYTZmOGFlZjAx",
   "tracks": [
     {
       "added_at": "2023-07-31 15:49:25",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-07-31 15:49:25",
       "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2023-07-31 15:49:25",
+      "album": {
         "name": "Fxxxnds",
         "url": "https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
-    },
-    {
-      "added_at": "2023-07-31 15:49:25",
-      "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     },
     {
       "added_at": "2023-07-31 15:49:25",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-07-31 15:49:25",
       "album": {
+        "name": "Paint",
+        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
+      },
+      "artists": [
+        {
+          "name": "MoonMoon",
+          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
+        }
+      ],
+      "duration_ms": 188196,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
+    },
+    {
+      "added_at": "2023-07-31 15:49:25",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2023-07-31 15:49:25",
-      "album": {
-        "name": "Paint",
-        "url": "https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A"
-      },
-      "artists": [
-        {
-          "name": "MoonMoon",
-          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
-        }
-      ],
-      "duration_ms": 188196,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4"
     },
     {
       "added_at": "2023-07-31 15:49:25",

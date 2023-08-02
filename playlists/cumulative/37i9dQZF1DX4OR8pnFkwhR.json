@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: DURDN",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 111417,
       "name": "Changes",
       "url": "https://open.spotify.com/track/113UB7uQKcwpRkxu1B3d5A"
@@ -3134,6 +3134,42 @@
       "duration_ms": 172000,
       "name": "Florida",
       "url": "https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg"
+    },
+    {
+      "album": {
+        "name": "Flower Garden",
+        "url": "https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Flower Garden",
+      "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
+    },
+    {
+      "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260199,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ"
     },
     {
       "album": {
@@ -5555,6 +5591,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187157,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
+    },
+    {
+      "album": {
         "name": "MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO",
         "url": "https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI"
       },
@@ -5674,7 +5728,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 234761,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/5O3lSXaXBNGIatqk0DRAoU"
@@ -6032,6 +6086,28 @@
       "duration_ms": 192115,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "album": {
+        "name": "More Bitter, Mocha Better",
+        "url": "https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD"
+      },
+      "artists": [
+        {
+          "name": "The Burning Deadwoods",
+          "url": "https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k"
+        },
+        {
+          "name": "Mashiro Shirakami",
+          "url": "https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230633,
+      "name": "More Bitter, Mocha Better",
+      "url": "https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh"
     },
     {
       "album": {
@@ -7844,7 +7920,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 295000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2"
@@ -14208,7 +14284,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 212608,
       "name": "\u4e03\u7b49\u661f",
       "url": "https://open.spotify.com/track/6Hhm0xkX1GWjKOzsLoPoso"
@@ -15856,6 +15932,24 @@
       "duration_ms": 279017,
       "name": "\u611b\u306f\u3044\u3064\u3082",
       "url": "https://open.spotify.com/track/3jP8dzUFw0rP3QyE2AdBRC"
+    },
+    {
+      "album": {
+        "name": "\u611b\u307e\u304b\u305b",
+        "url": "https://open.spotify.com/album/2Kx4VTnUwuXPAyQlGFq8Yf"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/4ysOWJmw7tPDTUwxcbzQ78"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202252,
+      "name": "\u611b\u307e\u304b\u305b",
+      "url": "https://open.spotify.com/track/2sxYZMU4VjrnoSwQnhZKgZ"
     },
     {
       "album": {
@@ -18036,7 +18130,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 239813,
       "name": "\u96e2\u308c\u3066",
       "url": "https://open.spotify.com/track/60wOdJK0GfXnsx1TASmHIq"

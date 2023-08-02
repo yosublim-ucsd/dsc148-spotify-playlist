@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-235 songs - 11 hr 39 min
+236 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Inadaptado](https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1) | 2:16 | 2021-09-03 | 2022-11-01 |
 | [Introducción](https://open.spotify.com/track/2aMG9YYvvHojwf7Dg7UAm6) | [Los Supersónicos](https://open.spotify.com/artist/4RFAwiTOsIV30Ef4A13gnE) | [Introducción](https://open.spotify.com/album/0NGc64udtT4FL26C0Cffxp) | 3:08 | 2021-09-03 | 2022-07-29 |
 | [Intruder](https://open.spotify.com/track/0WyAiymmsxOqoujctf8MrB) | [The Madeira](https://open.spotify.com/artist/0onb2OjHiGTxu5kylK1CXp) | [Ruins](https://open.spotify.com/album/3GYgCKeM5X33IflH762MAO) | 3:55 | 2021-09-03 | 2022-07-11 |
-| [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 | 2021-09-03 |  |
+| [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 | 2021-09-03 | 2023-08-02 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/60xQKEF7PVW14ITUCVC8ip) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 2:11 | 2021-09-03 | 2022-07-27 |
 | [It's Monster Surfing Time](https://open.spotify.com/track/70FzFTP41ewLArLpyO8YKZ) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3SkPMcfyCGA9T9DB30XbL6) | 2:11 | 2021-09-03 | 2023-04-25 |
 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 | 2021-09-03 |  |
@@ -226,6 +226,7 @@
 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 | 2021-09-03 |  |
 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 | 2021-09-03 |  |
 | [There But for the Grace of God Go I](https://open.spotify.com/track/0pDMnocBxXOPjBiTfYr8bl) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [Outta Here](https://open.spotify.com/album/0lmtSiRNAX5QXkQm4IuWHb) | 3:07 | 2021-09-03 |  |
+| [Third Stone from the Sun](https://open.spotify.com/track/5aqZp6mHibX1qaPFabgDe2) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Calling Up Spirits](https://open.spotify.com/album/51KwH3TBjlgo5JE7FK6Fux) | 6:32 | 2023-07-28 |  |
 | [Third Stone From The Sun](https://open.spotify.com/track/7exSUyB5lLDAtrXN0FqIS1) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Guitar Legend: The Very Best Of Dick Dale](https://open.spotify.com/album/3K9OepIUQhdzIK298ljEol) | 6:34 | 2021-09-03 | 2023-07-29 |
 | [Thompson & Richardson](https://open.spotify.com/track/5V6IpJRwPcddIgBtRkWdMl) | [Los Oxidados](https://open.spotify.com/artist/3OlKkG7n2HiLZieo4p8AFS) | [Death Man](https://open.spotify.com/album/5QRcivcTEBxWURU97CLdEL) | 2:11 | 2021-09-03 | 2022-07-09 |
 | [Tierra del Fuego](https://open.spotify.com/track/1RXRAgFZxwgfodanVexAfO) | [Langhorns](https://open.spotify.com/artist/1iReuG3AVPCkrxBtXEeUhV) | [Langhorns](https://open.spotify.com/album/5kQLgTlaXTkcq27zaGTSk4) | 2:40 | 2021-09-03 | 2022-10-08 |

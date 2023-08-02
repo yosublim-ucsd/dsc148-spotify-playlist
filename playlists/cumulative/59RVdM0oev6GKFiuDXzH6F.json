@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1, 2 Step (DJ HEARTSTRING Remix)",
+        "url": "https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185953,
+      "name": "1, 2 Step - DJ HEARTSTRING Remix",
+      "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
+    },
+    {
+      "album": {
         "name": "123 Round Again",
         "url": "https://open.spotify.com/album/0vEbniv3VNZ8wMPSRHUcdm"
       },
@@ -16,7 +38,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 123809,
       "name": "123 Round Again",
       "url": "https://open.spotify.com/track/79uPlIsoReDVUWIH9aB0YA"
@@ -130,7 +152,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 149760,
       "name": "After Midnight (feat. Xoro) [TELYKast Remix]",
       "url": "https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk"
@@ -166,7 +188,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 154560,
       "name": "Ain't No Other Man - Rework",
       "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
@@ -184,7 +206,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 151904,
       "name": "Al Perreo - Mixed",
       "url": "https://open.spotify.com/track/0BN9P0UYB4PUWpRrAG9wXt"
@@ -282,7 +304,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 204959,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/5VBaWgcLreU0ETw9ZWKume"
@@ -424,7 +446,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 190750,
       "name": "Aturdido",
       "url": "https://open.spotify.com/track/3eVlbKvvYfEhQsF1KbUGoN"
@@ -664,7 +686,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 155624,
       "name": "BOX",
       "url": "https://open.spotify.com/track/0qeKXYXo96hfhfqqfuyyFX"
@@ -766,7 +788,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 181333,
       "name": "BT1",
       "url": "https://open.spotify.com/track/59gxVInWEnShtkIrNGUhaE"
@@ -850,7 +872,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 185002,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/1ixxJ2bVeIpDs2hiQTCVSf"
@@ -1236,7 +1258,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 180937,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/4zpyxFmD2glLYnHku883Ek"
@@ -1276,7 +1298,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 139139,
       "name": "Don't Need To Love",
       "url": "https://open.spotify.com/track/6wjB9AKWoXIE5sgER1C1Z8"
@@ -1294,7 +1316,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 188160,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/1euzapXhpTXNIqDWyWOLqz"
@@ -1722,7 +1744,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 157617,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/6tj1oCWq8QkShD7Vuy32jA"
@@ -1850,7 +1872,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 173538,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/5rZicx0JZLZR233YKcA4ok"
@@ -2044,7 +2066,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 128437,
       "name": "Home",
       "url": "https://open.spotify.com/track/01XG7WAJo7Zh4hAKIsXYPA"
@@ -2070,7 +2092,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 137982,
       "name": "Hot Models",
       "url": "https://open.spotify.com/track/6WlZwbR8W2QpE0y2Ea2zeV"
@@ -2106,7 +2128,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 180565,
       "name": "House Your Body",
       "url": "https://open.spotify.com/track/1MNPJDbFmTLZ2eD5jGipad"
@@ -2300,7 +2322,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 169920,
       "name": "IFLDM (feat. GLASGOW KI$$)",
       "url": "https://open.spotify.com/track/4xvPS7JJXlHiIAKJuXHRwW"
@@ -2434,7 +2456,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 142790,
       "name": "Kanpai",
       "url": "https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy"
@@ -2876,7 +2898,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 142500,
       "name": "Love Finds A Way - Radio Edit",
       "url": "https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj"
@@ -2994,7 +3016,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 181983,
       "name": "Lulo - Radio Edit",
       "url": "https://open.spotify.com/track/1lpdkcCiyRAK7te9lqNRTW"
@@ -3030,7 +3052,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 213353,
       "name": "Make Love",
       "url": "https://open.spotify.com/track/4ayNdb4ucumpb3qVzxdM85"
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 192250,
       "name": "Maserati",
       "url": "https://open.spotify.com/track/0ILPuwbmJaQwO7Lou3HMVS"
@@ -3312,7 +3334,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 171250,
       "name": "Miss Me",
       "url": "https://open.spotify.com/track/234EvBEkWgXtQhJOi9HSyp"
@@ -3626,7 +3648,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 222857,
       "name": "Oiga Morena - VIP Edit",
       "url": "https://open.spotify.com/track/0YDhL0LdZHluEHthOA6L3D"
@@ -3706,7 +3728,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 128160,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M"
@@ -3980,7 +4002,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 160476,
       "name": "Paralyzed By Your Eyes",
       "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
@@ -3998,7 +4020,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 144374,
       "name": "Paris To Berlin",
       "url": "https://open.spotify.com/track/2Ks189PRfXXnNH3FAT0Jnc"
@@ -4388,7 +4410,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 158709,
       "name": "RUN IT UP - Radio Edit",
       "url": "https://open.spotify.com/track/65k04sstcmS7nX2DsbOTgT"
@@ -4462,7 +4484,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 170670,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/2NzPRuDzDp2Kff1t1mKHse"
@@ -4546,7 +4568,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 131428,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4U89t1EEap9oPaqz0p9z08"
@@ -4710,7 +4732,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 173333,
       "name": "Soy Candela",
       "url": "https://open.spotify.com/track/287RKyJTSkikoHJnM24eFq"
@@ -4746,7 +4768,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 216555,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/4IFGiauDkB9nOiPrEw97F1"
@@ -4830,7 +4852,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 150000,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/4pYlVv7kVRH8CmU9pefdsE"
@@ -5060,7 +5082,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 180005,
       "name": "Te Marchar",
       "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
@@ -5100,7 +5122,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 210476,
       "name": "Techno On My Mind",
       "url": "https://open.spotify.com/track/1cpLiXSGO89iE7d0hkhxZT"
@@ -5122,7 +5144,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 166641,
       "name": "That Accordion Song",
       "url": "https://open.spotify.com/track/2qKWCzfMycj8TB6zGEjF31"
@@ -5202,7 +5224,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 206785,
       "name": "THE CARAVAN",
       "url": "https://open.spotify.com/track/6JdqSacEaOod0eWzOSmYaW"
@@ -5272,7 +5294,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 139218,
       "name": "The Drill",
       "url": "https://open.spotify.com/track/0vOOiBEAu9rzPW3xVB5TbN"
@@ -5458,7 +5480,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 120000,
       "name": "Trujillana",
       "url": "https://open.spotify.com/track/47zvDIWnlhZWcWhZEDauTA"
@@ -5702,7 +5724,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 166451,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/5c1BO1GEud7rLfbd2Cx2U1"
@@ -5812,7 +5834,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 165164,
       "name": "Work My Body",
       "url": "https://open.spotify.com/track/6QgPOjTFlKoNQkZK2gYYjY"

@@ -246,10 +246,28 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 205659,
       "name": "Boom Party",
       "url": "https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F"
+    },
+    {
+      "album": {
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206471,
+      "name": "Boom Party",
+      "url": "https://open.spotify.com/track/147olVVx5fVRdmuFU3bzqS"
     },
     {
       "album": {

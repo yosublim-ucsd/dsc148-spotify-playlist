@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,622 likes - 52 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,634 likes - 52 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 51 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 | 52 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 
-Snapshot ID: `MCw5Y2IwMTUzMmJmZTQ5Y2Q2MjQ1ZmJmOWM4NTM3ZTc4ZjQ0ZjEyYmVl`
+Snapshot ID: `MCwxMjg0OTlmMmIxMDVjYzIzM2Q1M2I4ZTNmOWZlOWRiMDVhYWFmMWZm`

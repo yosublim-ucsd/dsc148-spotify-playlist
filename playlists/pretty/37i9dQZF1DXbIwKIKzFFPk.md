@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 
 > Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。Ⓒ久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,642 likes - 82 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,828 likes - 82 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 28 | [Life is Like a Boat](https://open.spotify.com/track/02cIqYTYys4M1RBFiBKIEt) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Rie fu](https://open.spotify.com/album/0S694gFuCOGeIjxFTxIuKD) | 5:00 |
 | 29 | [Principio de lucha](https://open.spotify.com/track/2L5qMBCehiabKLwRs2Cp8b) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:29 |
 | 30 | [Love is waiting \(999\)](https://open.spotify.com/track/0Rnng5KiuJ68YZ8Sb5hPi9) | [Shiro SAGISU](https://open.spotify.com/artist/1XlLGTvfKLH0eFSDGjrZUl), [Hazel Fernandes](https://open.spotify.com/artist/0jJoYMlLSaGXfH5cU93YF0) | [SHIRO’S SONGBOOK BLEACH盤解!](https://open.spotify.com/album/51FzDMXWGUyVUUmsFKaLs2) | 4:04 |
-| 31 | [サンキュー!!](https://open.spotify.com/track/1gfuwVIBY117gPgpmsLUiy) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [サンキュー!!](https://open.spotify.com/album/0Koe1vDstYuSZXtI8yDlPy) | 4:13 |
+| 31 | [サンキュー！！](https://open.spotify.com/track/1gfuwVIBY117gPgpmsLUiy) | [Home Made Kazoku](https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI) | [サンキュー！！](https://open.spotify.com/album/0Koe1vDstYuSZXtI8yDlPy) | 4:13 |
 | 32 | [ほうき星](https://open.spotify.com/track/3nfZrNSXZfonDEA9RuzTOq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星 / タッチ BESTタッグ](https://open.spotify.com/album/5lBe0TGgWsuJlM9eOYNOcD) | 3:17 |
 | 33 | [happypeople](https://open.spotify.com/track/4K8eSyKrx3KyS4GltSZkyT) | [Skoop On Somebody](https://open.spotify.com/artist/0h4DzoOz1OlX7uJ8itsBIw) | [Singles 2002\-2006](https://open.spotify.com/album/4EAib6okgPvzlgs3kCLrTo) | 3:43 |
 | 34 | [LIFE](https://open.spotify.com/track/1BFTK2ODlocCHKGKGwcJNr) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [LIFE](https://open.spotify.com/album/1zvQbIQuOKyAe6wxJM7TjA) | 4:03 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIwKIKzFFPk.md) - [plain]
 | 81 | ["Lucifers Dance" Pt\. C\_Opus1](https://open.spotify.com/track/38Xuwj65wMbRQ1o9vod1vc) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [劇場版BLEACH 地獄篇 Original Soundtrack](https://open.spotify.com/album/2amXaDYmaBRSsWGhfRGEqZ) | 1:25 |
 | 82 | [La distancia para un duelo](https://open.spotify.com/track/3c391J2d1gnfL0qbjqbPA6) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [TV Animation BLEACH Original Soundtrack 3](https://open.spotify.com/album/7m0ZA9T4Uk5y6FOdLvj5sL) | 2:57 |
 
-Snapshot ID: `MCwwNGJjNjgyNWNmZGMzYjg1NzNhZmRjODhjMWMwYWRkNDc3NjE4MWE5`
+Snapshot ID: `MCxkZGMxMDY3MTkwMzE5MDRkNDNlNTEwNGUyNGVjZTlkMTg2Nzg5NzNj`

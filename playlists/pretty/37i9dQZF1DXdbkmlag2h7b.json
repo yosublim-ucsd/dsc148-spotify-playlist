@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 634142,
+  "num_followers": 634181,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjE0NTk4MjNmM2ZiY2JhMDZjNTJiZTE4MGYzZDI1NGVkNmNkNWMy",
+  "snapshot_id": "MCxkZWQzYTJlZWNlZTFmN2RmNmQwYTM2MzJhY2ZlMWI4ZTIxZGIzOWJk",
   "tracks": [
     {
       "added_at": "2023-07-28 15:54:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2023-07-28 15:54:49",
-      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 140000,
       "name": "Even Silence",
       "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "added_at": "2023-07-28 15:54:49",
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Theta Sleep",
-        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
-      },
-      "artists": [
-        {
-          "name": "Zonyoh",
-          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Clear-Headed",
-      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
-    },
-    {
-      "added_at": "2023-07-28 15:54:49",
-      "album": {
         "name": "Dramatique Musique Classique",
         "url": "https://open.spotify.com/album/77tCQQ2AjoNlye3AgO7jV4"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 170344,
       "name": "Sonata Path\u00e9tique",
       "url": "https://open.spotify.com/track/2NCG0u2NT7KceLxCjseW3A"
+    },
+    {
+      "added_at": "2023-07-28 15:54:49",
+      "album": {
+        "name": "Theta Sleep",
+        "url": "https://open.spotify.com/album/1GWlZiCArOCVoqDTju5sDZ"
+      },
+      "artists": [
+        {
+          "name": "Zonyoh",
+          "url": "https://open.spotify.com/artist/7o9aQXbCxoLm0QqpQX5TZx"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Clear-Headed",
+      "url": "https://open.spotify.com/track/3WDUmsJxKRJTItEH8MSjzu"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Luminescent",
-        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
+        "name": "Tao of Flow",
+        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
       },
       "artists": [
         {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Luminescent",
-      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
+      "duration_ms": 121538,
+      "name": "Bodh Gaya",
+      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Tao of Flow",
-        "url": "https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr"
+        "name": "Luminescent",
+        "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
       },
       "artists": [
         {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
         }
       ],
-      "duration_ms": 121538,
-      "name": "Bodh Gaya",
-      "url": "https://open.spotify.com/track/3GbPTU2jQ4eIhWtYUxo7mv"
+      "duration_ms": 264000,
+      "name": "Luminescent",
+      "url": "https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1115,22 +1115,6 @@
       "duration_ms": 199831,
       "name": "Svalbard",
       "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
-    },
-    {
-      "added_at": "2023-07-28 15:54:49",
-      "album": {
-        "name": "Dreams of Mercury",
-        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
-      },
-      "artists": [
-        {
-          "name": "Chim Suri",
-          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Dreams of Mercury",
-      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1163,6 +1147,22 @@
       "duration_ms": 172589,
       "name": "Headroom",
       "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+    },
+    {
+      "added_at": "2023-07-28 15:54:49",
+      "album": {
+        "name": "Dreams of Mercury",
+        "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
+      },
+      "artists": [
+        {
+          "name": "Chim Suri",
+          "url": "https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Dreams of Mercury",
+      "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Inch Of You",
-        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
+        "name": "Winter Night Mist",
+        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
       },
       "artists": [
         {
-          "name": "Andri Hart",
-          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
         }
       ],
-      "duration_ms": 147299,
-      "name": "Backwaters",
-      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
+      "duration_ms": 193095,
+      "name": "Winter Night Mist",
+      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Winter Night Mist",
-        "url": "https://open.spotify.com/album/1t2PwqMBXxJ1d66lhwcd4s"
+        "name": "Inch Of You",
+        "url": "https://open.spotify.com/album/7mlwuYnEP7FegVtSM5A4MQ"
       },
       "artists": [
         {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+          "name": "Andri Hart",
+          "url": "https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL"
         }
       ],
-      "duration_ms": 193095,
-      "name": "Winter Night Mist",
-      "url": "https://open.spotify.com/track/1pxZO8xPvLlx3vrfFBt6CY"
+      "duration_ms": 147299,
+      "name": "Backwaters",
+      "url": "https://open.spotify.com/track/6RlmoIqcWkSrIEjCW4Co13"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Caleufu",
-        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
-      },
-      "artists": [
-        {
-          "name": "Caleufu",
-          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
-        }
-      ],
-      "duration_ms": 127693,
-      "name": "Ali",
-      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
-    },
-    {
-      "added_at": "2023-07-28 15:54:49",
-      "album": {
         "name": "Ver Weg",
         "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 194000,
       "name": "Ver Weg",
       "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
+    },
+    {
+      "added_at": "2023-07-28 15:54:49",
+      "album": {
+        "name": "Caleufu",
+        "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
+      },
+      "artists": [
+        {
+          "name": "Caleufu",
+          "url": "https://open.spotify.com/artist/3S1GBpX6ISQxquoBHONhs4"
+        }
+      ],
+      "duration_ms": 127693,
+      "name": "Ali",
+      "url": "https://open.spotify.com/track/3IhX6v7o2PmZJ3t5v3lI8p"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
-        "name": "Mysterium",
-        "url": "https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT"
-      },
-      "artists": [
-        {
-          "name": "Auguste Henrique",
-          "url": "https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL"
-        }
-      ],
-      "duration_ms": 167522,
-      "name": "Mysterium",
-      "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
-    },
-    {
-      "added_at": "2023-07-28 15:54:49",
-      "album": {
         "name": "Into Gratitude",
         "url": "https://open.spotify.com/album/6PKLRW3Gg22sTzpPcm6rDS"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
+    },
+    {
+      "added_at": "2023-07-28 15:54:49",
+      "album": {
+        "name": "Mysterium",
+        "url": "https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT"
+      },
+      "artists": [
+        {
+          "name": "Auguste Henrique",
+          "url": "https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL"
+        }
+      ],
+      "duration_ms": 167522,
+      "name": "Mysterium",
+      "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"
     },
     {
       "added_at": "2023-07-28 15:54:49",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-07-28 15:54:49",
       "album": {
+        "name": "Purity 432hz",
+        "url": "https://open.spotify.com/album/5OSOyRZDMMgLu8vjaS2gyh"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Purity 432hz",
+      "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
+    },
+    {
+      "added_at": "2023-07-28 15:54:49",
+      "album": {
         "name": "Gotham",
         "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
       },
@@ -1599,26 +1615,6 @@
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
-    },
-    {
-      "added_at": "2023-07-28 15:54:49",
-      "album": {
-        "name": "Ascending Journey",
-        "url": "https://open.spotify.com/album/0MGjvTelcOSXHZ7RhIQzWW"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Ascending Journy",
-      "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
     }
   ],
   "unique_name": "DayDreamer",

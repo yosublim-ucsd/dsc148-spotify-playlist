@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72879,
+  "num_followers": 72877,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTdiN2YzMzg5NjRlMWU0NDIyNDliZGU2NmUxYWMzZmRlYmJjNjUw",
+  "snapshot_id": "MCxhMjhhMzc3NDdlZjRlMDc1ZTFiYjA4YzcyOGEyZmFhOGJhNGFmYzBk",
   "tracks": [
     {
       "added_at": "2023-03-08 13:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Palomar Parade",
         "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 215516,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
+      },
+      "artists": [
+        {
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "this is how you fall in love",
-        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
-      },
-      "artists": [
-        {
-          "name": "Parker Rose",
-          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Outside Kinda Kids",
         "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Love Shack",
-        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
       },
       "artists": [
         {
-          "name": "Luke Morris",
-          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
+          "name": "Parker Rose",
+          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
         }
       ],
-      "duration_ms": 249489,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
+      "duration_ms": 161632,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -959,6 +943,22 @@
       "duration_ms": 188004,
       "name": "Feel Like Clarity",
       "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Love Shack",
+        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
+      },
+      "artists": [
+        {
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     },
     {
       "added_at": "2023-03-08 13:00:00",

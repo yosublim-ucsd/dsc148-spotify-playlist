@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,384 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,812 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 59 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
 | 60 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
 | 61 | [Blah Blah Blah \- Zany Remix](https://open.spotify.com/track/6Q9tqkD827DTEsAySwW0og) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Zany](https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO) | [Blah Blah Blah \(Remixes\)](https://open.spotify.com/album/2JMGLki9XYrFTCJEBM6VoG) | 2:32 |
-| 62 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
-| 63 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
+| 62 | [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 |
+| 63 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
 | 64 | [Ferrari](https://open.spotify.com/track/57DABWKwZDGqx7KrDafvqq) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Ferrari](https://open.spotify.com/album/3tFbOsLArvDC4rStTFSoQ3) | 2:10 |
 | 65 | [Superstring \- Aftershock Remix](https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j) | [Superstring \(Aftershock Remix\)](https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y) | 2:24 |
-| 66 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
-| 67 | [California Dreamin'](https://open.spotify.com/track/2wKMG0nUoMoc8YVVUkmJFo) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [California Dreamin'](https://open.spotify.com/album/6XUfC0YrtiuXkQdrjvukHC) | 2:28 |
+| 66 | [California Dreamin'](https://open.spotify.com/track/2wKMG0nUoMoc8YVVUkmJFo) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [California Dreamin'](https://open.spotify.com/album/6XUfC0YrtiuXkQdrjvukHC) | 2:28 |
+| 67 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 |
 | 68 | [Cotton Eye Joe](https://open.spotify.com/track/6drFg3M61Ed3puJCcQ44XI) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej) | 2:26 |
 | 69 | [Gangsta's Paradise](https://open.spotify.com/track/571VWSyuIpAB7HqrbbfGBO) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Gangsta's Paradise](https://open.spotify.com/album/6Ycm7LjOFQOzM0BpmynbmX) | 2:55 |
 | 70 | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Drift Away \(Numa Numa Yay\)](https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2) | 2:52 |
 
-Snapshot ID: `MCxlMzQyMTYxMzM2NGZhYTg0YTkxMGMxZWM4Y2RhZjhkN2E1NDgyODk1`
+Snapshot ID: `MCw0YTUzMDYwNWMyZTJiYTM0NDUxMGIzMDI4ZWE3MjNiMWQ2MWVjYjA5`

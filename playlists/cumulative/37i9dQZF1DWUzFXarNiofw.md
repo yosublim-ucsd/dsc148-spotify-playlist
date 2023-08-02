@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Leon Thomas
 
-1,311 songs - 2 day 21 hr 59 min
+1,312 songs - 2 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1177,7 +1177,8 @@
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-05-06 | 2022-06-11 |
 | [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2021-12-17 | 2022-02-19 |
 | [Toxic](https://open.spotify.com/track/1ztwxwoGCnAxNPoDMBPn4u) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Toxic](https://open.spotify.com/album/62KnAoQ8IZmHJuXELKalqu) | 2:15 | 2023-02-03 | 2023-03-04 |
-| [Trap Smarter](https://open.spotify.com/track/2ijWuJRQXSJBhceabkVaN5) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/0HIkH4CAMzpCtIpQ6LtvvM) | 1:34 | 2023-06-16 |  |
+| [Trap Smarter](https://open.spotify.com/track/1EV6tUI8rtDYgszgnDVLRc) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/2FhgHXnunQ49NV0Ikf0sEB) | 1:34 | 2023-06-16 |  |
+| [Trap Smarter](https://open.spotify.com/track/2ijWuJRQXSJBhceabkVaN5) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [SAFE & Sound](https://open.spotify.com/album/0HIkH4CAMzpCtIpQ6LtvvM) | 1:34 | 2023-06-16 | 2023-08-02 |
 | [Trash](https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Trash](https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb) | 3:29 | 2023-04-21 | 2023-05-27 |
 | [TRAUMA](https://open.spotify.com/track/2haYbo0fqAAZDRkUXVxAUu) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [TRAUMA](https://open.spotify.com/album/1ZY0ZWzRCax2vSbLQHZ6Dx) | 3:44 | 2023-01-06 | 2023-01-21 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-10 | 2022-08-06 |

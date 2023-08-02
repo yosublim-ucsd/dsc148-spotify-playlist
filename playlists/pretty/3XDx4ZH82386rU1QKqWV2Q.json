@@ -1,12 +1,12 @@
 {
   "description": "Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!",
-  "num_followers": 966825,
+  "num_followers": 967813,
   "original_name": "SIGMA MALE TIKTOK MUSIC",
   "owner": {
     "name": "CRD",
     "url": "https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u"
   },
-  "snapshot_id": "MjAyNyxiY2VjNzI1ZjFkMDI3Mjc3MzJjOGQ3ZjY0YzQwMGIyODUxODQ1MTQy",
+  "snapshot_id": "MjAzMSwwNjg3NjdiNWQ3OTU2NzE3NmNkMGRlMDZhYWNjNWY5MmUzNWU5MzJi",
   "tracks": [
     {
       "added_at": "2023-06-12 05:59:49",
@@ -785,6 +785,26 @@
       "url": "https://open.spotify.com/track/68m3oQr33jFQQSzTlf5Qhl"
     },
     {
+      "added_at": "2023-08-01 14:38:49",
+      "album": {
+        "name": "BORED (Remixes)",
+        "url": "https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 146759,
+      "name": "BORED (Ariis Remix)",
+      "url": "https://open.spotify.com/track/5qF4F8c0DR6zDHwlwf7Hn2"
+    },
+    {
       "added_at": "2023-07-07 21:31:10",
       "album": {
         "name": "One Chance",
@@ -799,6 +819,22 @@
       "duration_ms": 131368,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/1RDxavHcARHSsw46Mz2hbJ"
+    },
+    {
+      "added_at": "2023-08-01 14:43:29",
+      "album": {
+        "name": "PHANTASM",
+        "url": "https://open.spotify.com/album/5c11x6i2g58ilcmZp7wdU7"
+      },
+      "artists": [
+        {
+          "name": "Lorean",
+          "url": "https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "PHANTASM",
+      "url": "https://open.spotify.com/track/1HWrWjd92Fd6V4o2VGkvhQ"
     },
     {
       "added_at": "2023-07-14 12:50:28",

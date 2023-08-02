@@ -2,7 +2,7 @@
 
 ### [Best Electronic Songs of 2022](https://open.spotify.com/playlist/37i9dQZF1DXdXliePGSvEb)
 
-> Our favorite electronic songs from around the world this year\. Cover: Miss Monique
+> Our favorite electronic songs from around the world this year\. Cover: Boris Brejcha
 
 200 songs - 14 hr 17 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Dennis Dies Das
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,252 likes - 101 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,471 likes - 101 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 20 | [Go Solo](https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/30dSlleSaT1dEaK39OM5B4) | 2:22 |
 | 21 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
 | 22 | [Weak \- Nicolas Julian Remix](https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/album/4Yhf7ybeRFrhCX6a8NsVha) | 2:56 |
-| 23 | [FE!N](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
+| 23 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 | 24 | [augen blau](https://open.spotify.com/track/4MVAPypWexk1uVmeHZAcf1) | [AyVe](https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ) | [augen blau](https://open.spotify.com/album/5pi6l5MRnrQwLV0mOjvInw) | 2:20 |
 | 25 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 |
 | 26 | [Dorfkinder](https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av) | [Finnel](https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU) | [Dorfkinder](https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV) | 2:27 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 100 | [BadBitchSide](https://open.spotify.com/track/3pWY06wwVs7i74skzmLcse) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [BadBitchSide](https://open.spotify.com/album/0HtKuHesys8Y2KtY41F6RT) | 2:17 |
 | 101 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 |
 
-Snapshot ID: `MCxlODAyNjVmYmY1Yjg1MTJjZGQyZDg4ZDhlM2FjYzNhMWM1OTdkNGMx`
+Snapshot ID: `MCxjZTkwOWMzMzExZTQzYmU4MTY4OTVjMGM2ZDQwNGVlMzU5ZjMzYjA4`

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Calvin Harris + Sam Smith (pictured), Anne-Marie, Burna Boy and more!",
-  "num_followers": 835871,
+  "num_followers": 835883,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWQyNjRmODc5OWEzZjE1NjBhMjNkMTMxMWY5OWNlYmUzYjJlNzA2",
+  "snapshot_id": "MCw1Mzg2MWZkZDEyYTYzYTMwYmM4NDEwNGM4ZmNjYmRhODFiYTQyMTlm",
   "tracks": [
     {
       "added_at": "2023-07-28 07:09:49",
@@ -146,10 +146,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES)",
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 334437,
+  "num_followers": 334485,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDk4NThmZjQyZWNiNzEyMDYzYzk1MWU2OGEwZmY1OTVkM2QyODVk",
+  "snapshot_id": "MCxkM2UwZWI4NDFmN2Q5ZGYzODlhNDY3MjYyNjFlOGE2Y2I0YTNiMDM4",
   "tracks": [
     {
       "added_at": "2023-07-24 14:46:29",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Poesia",
-        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
-      },
-      "artists": [
-        {
-          "name": "Fernando Alegre",
-          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
-        }
-      ],
-      "duration_ms": 125248,
-      "name": "Poesia",
-      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "A tale to tell",
         "url": "https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 130132,
       "name": "A tale to tell",
       "url": "https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "Poesia",
+        "url": "https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "duration_ms": 125248,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Chichiro",
-        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
-      },
-      "artists": [
-        {
-          "name": "Kye Wood",
-          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
-        }
-      ],
-      "duration_ms": 109000,
-      "name": "Chichiro",
-      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1xC1Nz2RtGe97gtewvGSxX"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 110868,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "Chichiro",
+        "url": "https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx"
+      },
+      "artists": [
+        {
+          "name": "Kye Wood",
+          "url": "https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II"
+        }
+      ],
+      "duration_ms": 109000,
+      "name": "Chichiro",
+      "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
+        "name": "campfire",
+        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 186701,
+      "name": "campfire",
+      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
         "name": "Veluwe Suite",
         "url": "https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 195840,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/4DE4fXnXftKMyl6IQEYWnp"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
-        "name": "campfire",
-        "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 186701,
-      "name": "campfire",
-      "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "how we sleep",
-        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
-      },
-      "artists": [
-        {
-          "name": "Moux",
-          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
-        }
-      ],
-      "duration_ms": 130459,
-      "name": "poetry in touch",
-      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "In Breath",
         "url": "https://open.spotify.com/album/65QYFsOZcqTgiOc1q6G7C6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 174000,
       "name": "Ephemera",
       "url": "https://open.spotify.com/track/6xrL9SlFIr2tIuYjRqKSm2"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "how we sleep",
+        "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
+      },
+      "artists": [
+        {
+          "name": "Moux",
+          "url": "https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ"
+        }
+      ],
+      "duration_ms": 130459,
+      "name": "poetry in touch",
+      "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
     },
     {
       "added_at": "2023-07-24 14:46:29",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-24 14:46:29",
       "album": {
-        "name": "Beyond Dreams",
-        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Beyond Dreams",
-      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
-    },
-    {
-      "added_at": "2023-07-24 14:46:29",
-      "album": {
         "name": "Pr\u00e9lude",
         "url": "https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 171608,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
+    },
+    {
+      "added_at": "2023-07-24 14:46:29",
+      "album": {
+        "name": "Beyond Dreams",
+        "url": "https://open.spotify.com/album/4kbLlofFWoUBxW101hmayM"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Beyond Dreams",
+      "url": "https://open.spotify.com/track/2jOaUHiQ0XCpSrlNHGO8Hf"
     },
     {
       "added_at": "2023-07-24 14:46:29",

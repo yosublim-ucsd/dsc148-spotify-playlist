@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
-  "num_followers": 124061,
+  "num_followers": 124132,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmMxZDAzOTRkNzQ2NzEwOTViMjYzNWVlNTdiM2Y2NTc1YjYyYTcw",
+  "snapshot_id": "MCxhNDNjZWNjMmQwNDcwMzYzY2VmMjljOWM1ZjYyMDNmOTkyNzQyYWVm",
   "tracks": [
     {
       "added_at": "2023-07-28 00:01:00",
@@ -523,26 +523,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Lemons (Lemonade)",
-        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 259591,
-      "name": "Lemons (Lemonade)",
-      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "ROLL THE DICE (Prod. Gesaffelstein)",
         "url": "https://open.spotify.com/album/6P4c5OMZZQZVJLQJrYgjbd"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 164946,
       "name": "ROLL THE DICE (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Lemons (Lemonade)",
+        "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 259591,
+      "name": "Lemons (Lemonade)",
+      "url": "https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/29rxfdTVf1LiDLwAF1qW8u"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 202886,
       "name": "Bigger (feat. Olamide & Nas)",
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1103,6 +1103,30 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "Speak N Vrostaan",
+        "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
+      },
+      "artists": [
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Papta Mancane",
+          "url": "https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "Is'pantsula (feat. Papta Mancane)",
+      "url": "https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
         "url": "https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR"
       },
@@ -1131,30 +1155,6 @@
       "duration_ms": 209148,
       "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
       "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Speak N Vrostaan",
-        "url": "https://open.spotify.com/album/1CN3l9whlGJ4JdkJbSDoV1"
-      },
-      "artists": [
-        {
-          "name": "Kwesta",
-          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Papta Mancane",
-          "url": "https://open.spotify.com/artist/6DoMDqCMf3ye9lGDsAm23D"
-        }
-      ],
-      "duration_ms": 282857,
-      "name": "Is'pantsula (feat. Papta Mancane)",
-      "url": "https://open.spotify.com/track/79OhS9g3iIGJSjf8OxbiVB"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
+        "name": "Son Of Jacob",
+        "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
       },
       "artists": [
         {
@@ -1284,13 +1284,13 @@
           "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
         }
       ],
-      "duration_ms": 194606,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
+      "duration_ms": 173980,
+      "name": "Jungle Music, Pt. 2",
+      "url": "https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Son Of Jacob",
-        "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
       },
       "artists": [
         {
@@ -1376,13 +1376,13 @@
           "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         },
         {
-          "name": "M Huncho",
-          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 173980,
-      "name": "Jungle Music, Pt. 2",
-      "url": "https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1"
+      "duration_ms": 194606,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
     },
     {
       "added_at": "2023-07-28 00:01:00",

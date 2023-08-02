@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Burna Boy, Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,915 likes - 87 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,942 likes - 87 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 31 | [Loju \(feat\. Wizkid\)](https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Loju \(feat\. Wizkid\)](https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8) | 2:54 |
 | 32 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 33 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 |
-| 34 | [Follow My Lead](https://open.spotify.com/track/605eX5LGO9GsrFExDc0De7) | [Mazbou Q](https://open.spotify.com/artist/4ohC67TQuhtpWYNtcUgrYZ), [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [The Sum of Unfinished Businesses](https://open.spotify.com/album/61WUxpncidPvEHJa8CCwtU) | 2:55 |
+| 34 | [Follow My Lead](https://open.spotify.com/track/5WjgmpPuNMeraChfbFnBKa) | [Mazbou Q](https://open.spotify.com/artist/4ohC67TQuhtpWYNtcUgrYZ), [Magugu](https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL) | [The Sum of Unfinished Businesses](https://open.spotify.com/album/03UOncsm9xA788y5AcEuak) | 2:55 |
 | 35 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 36 | [Falling in Love](https://open.spotify.com/track/4YZdQqnGxSI7tShUxDJBau) | [Morgan, G & Machines](https://open.spotify.com/artist/1B3PvJlIgpMRmJxCqkv0oS) | [Falling in Love](https://open.spotify.com/album/4pHUXRXJiI0B5vcLD8HsUB) | 2:06 |
 | 37 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 86 | [Red Flags](https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Red Flags](https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz) | 2:55 |
 | 87 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 
-Snapshot ID: `MCwzZjM0NTNhN2Q5YzljNmYyNGI0ZmZmNTUxMWIzMmMxZTg3OGM0MGQy`
+Snapshot ID: `MCxkOWU4OWRkMjA5ZTEyMWQ5MTg1NWZhMTdmYTE3ODRjYzliNjE5YWNi`

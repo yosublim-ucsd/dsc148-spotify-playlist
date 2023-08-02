@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: AMARNI
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,672 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,688 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 18 | [mudboy](https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [mudboy](https://open.spotify.com/album/0YLwlxIkAliUiTlfdpb5a2) | 1:53 |
 | 19 | [STILL KNOCKING](https://open.spotify.com/track/0yn3t8ZRS50r8arNu6kH1b) | [Nice Flaco](https://open.spotify.com/artist/0iHJfju2zMmRbXBnVryn65) | [STILL KNOCKING](https://open.spotify.com/album/7Erw2XLKHGkM2lgTRZ6Mmb) | 3:02 |
 | 20 | [Midnight Sun](https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Midnight Sun](https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4) | 2:04 |
-| 21 | [Tramp](https://open.spotify.com/track/1gZNaS8fF7yaDFWAXfNEIl) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Tramp](https://open.spotify.com/album/194FegwGaDpCqaL42S9lbG) | 3:33 |
+| 21 | [Tramp](https://open.spotify.com/track/1gZNaS8fF7yaDFWAXfNEIl) | [Miko Mal](https://open.spotify.com/artist/1Eb4Yx0nxEYO46IwWAqLM7), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Tramp](https://open.spotify.com/album/194FegwGaDpCqaL42S9lbG) | 3:33 |
 | 22 | [On Me](https://open.spotify.com/track/0UEFangrAqa2TpQI6VIK3I) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [On Me](https://open.spotify.com/album/1nfbrWZAkBG4VuKztrBcSg) | 2:45 |
 | 23 | [Seen It All](https://open.spotify.com/track/26RrUQL98FDB1MnNFYxLx7) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [A Gift & A Kers](https://open.spotify.com/album/50NMkihJxtR4jaTddZKqkS) | 2:30 |
 | 24 | [Top](https://open.spotify.com/track/3XriXSvc41mFf0Nt4KBZc5) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Rico Tonga](https://open.spotify.com/artist/5LApBZfdlukIonWGLzB3Gz) | [Top](https://open.spotify.com/album/0apZvQNi0IfninYMAfAMe7) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Locked In Freestyle \(S1:E3\)](https://open.spotify.com/track/2OV6tNYDF3sNOrEKwz5FXc) | [CT24](https://open.spotify.com/artist/2sEZ5hpPkQP6kLqTS1i9IJ), [A9ine](https://open.spotify.com/artist/78vPCTB2rVA4KTCOYGwZ9Q) | [Locked In Freestyle \(S1:E3\)](https://open.spotify.com/album/1oQxFL8J8WC4yrjqAGVotF) | 2:03 |
 | 100 | [WE HERE NOW](https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [WE HERE NOW](https://open.spotify.com/album/67CEXT1GE4V9iK1jNmaNta) | 3:28 |
 
-Snapshot ID: `MCw5ZjU5NWQyNjZjZDA4NTY4ODgzMjliZjdjNGZiYmRjNDY4ZTBlMDlm`
+Snapshot ID: `MCw2ZjNiNDE0Yjk2MjA4NmQ4MGI2MmY3NjUxMzljNTIxMDJhZDU4MTFm`

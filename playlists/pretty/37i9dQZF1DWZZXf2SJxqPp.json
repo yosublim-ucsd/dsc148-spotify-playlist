@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 123940,
+  "num_followers": 123971,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTM3OWFmMWVlNmNmNmU3OGYzZTk1NzhiNDZmZmE3MzdkZTIyZmNm",
+  "snapshot_id": "MCwwOTIxZmY2MzJmM2I2OTAwNWU5ZWMwZDkxYzI0N2M0Yjc3NDU0MWEz",
   "tracks": [
     {
       "added_at": "2023-03-20 20:23:15",
@@ -131,6 +131,30 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Shika Shika / Botanas Series",
+        "url": "https://open.spotify.com/album/4B6o0gnr78p6pOuswmStUP"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        },
+        {
+          "name": "Hajna",
+          "url": "https://open.spotify.com/artist/1MnOJH0oJTVBlVn1sEycC7"
+        },
+        {
+          "name": "Mina Shankha",
+          "url": "https://open.spotify.com/artist/6FY4fjcnaBJccjv6HG2Ba6"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Miniyamba",
+      "url": "https://open.spotify.com/track/1h6i0ETE1wdClYTi8ppsu6"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Profite (Remixes)",
         "url": "https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 198688,
       "name": "Profite - Kazy Lambist Remix",
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Shika Shika / Botanas Series",
-        "url": "https://open.spotify.com/album/4B6o0gnr78p6pOuswmStUP"
-      },
-      "artists": [
-        {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
-        },
-        {
-          "name": "Hajna",
-          "url": "https://open.spotify.com/artist/1MnOJH0oJTVBlVn1sEycC7"
-        },
-        {
-          "name": "Mina Shankha",
-          "url": "https://open.spotify.com/artist/6FY4fjcnaBJccjv6HG2Ba6"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Miniyamba",
-      "url": "https://open.spotify.com/track/1h6i0ETE1wdClYTi8ppsu6"
     },
     {
       "added_at": "2023-07-21 19:50:27",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Marechi\u00e0",
         "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -761,26 +761,6 @@
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Fatnotronic",
-          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Esperar Pra Ver",
-      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
-    },
-    {
       "added_at": "2023-05-25 22:18:07",
       "album": {
         "name": "froge.mp3",
@@ -803,6 +783,26 @@
       "duration_ms": 195226,
       "name": "beachin",
       "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Fatnotronic",
+          "url": "https://open.spotify.com/artist/5evxKull73cP7iadarMC99"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Esperar Pra Ver",
+      "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
+      },
+      "artists": [
+        {
+          "name": "Cameo Culture",
+          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
+        }
+      ],
+      "duration_ms": 304654,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
-      },
-      "artists": [
-        {
-          "name": "Cameo Culture",
-          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
-        }
-      ],
-      "duration_ms": 304654,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1015,42 +1015,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        }
-      ],
-      "duration_ms": 205948,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Can't Stop Your Lovin'",
-        "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Can't Stop Your Lovin'",
-      "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -1083,6 +1047,42 @@
       "duration_ms": 218040,
       "name": "A la plage",
       "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Can't Stop Your Lovin'",
+        "url": "https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 237533,
+      "name": "Can't Stop Your Lovin'",
+      "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/5hJkvGCEQA7dZiroxM43gF"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        }
+      ],
+      "duration_ms": 205948,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/4IFRlX2QFsEYC3mxrZECUd"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1133,6 +1133,26 @@
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
+      "added_at": "2023-05-24 02:13:20",
+      "album": {
+        "name": "Akousmatikous",
+        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 152691,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
+    },
+    {
       "added_at": "2023-03-20 20:23:15",
       "album": {
         "name": "How can I",
@@ -1163,26 +1183,6 @@
       "duration_ms": 152631,
       "name": "Cabrioli",
       "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
-    },
-    {
-      "added_at": "2023-05-24 02:13:20",
-      "album": {
-        "name": "Akousmatikous",
-        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 152691,
-      "name": "Propaganda",
-      "url": "https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Rain Check",
+        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 136618,
+      "name": "Rain Check",
+      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Kitsun\u00e9 Parisien 4",
         "url": "https://open.spotify.com/album/4s5nuGCwXlTwmWuP5wlsoE"
       },
@@ -1271,18 +1287,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Rain Check",
-        "url": "https://open.spotify.com/album/48N0TU0by4ICq7n8UFn7q8"
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE"
       },
       "artists": [
         {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+          "name": "Ambala",
+          "url": "https://open.spotify.com/artist/2z0mgUBpRGfMpV39n7sLXw"
+        },
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
         }
       ],
-      "duration_ms": 136618,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/0qSAag81S96PZ38BBQlk7B"
+      "duration_ms": 297857,
+      "name": "Walk with the Dreamers",
+      "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1303,26 +1323,6 @@
       "duration_ms": 181106,
       "name": "\u00c7a fait du bien - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Volume 1",
-        "url": "https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE"
-      },
-      "artists": [
-        {
-          "name": "Ambala",
-          "url": "https://open.spotify.com/artist/2z0mgUBpRGfMpV39n7sLXw"
-        },
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 297857,
-      "name": "Walk with the Dreamers",
-      "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
+      },
+      "artists": [
+        {
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Voodoo? (Lazywax Remix)",
         "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
     },
     {
-      "added_at": "2023-05-22 20:29:58",
-      "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
-    },
-    {
       "added_at": "2023-03-20 20:23:15",
       "album": {
         "name": "Feel The Heat",
@@ -1627,6 +1611,22 @@
       "duration_ms": 319677,
       "name": "Feel The Heat",
       "url": "https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i"
+    },
+    {
+      "added_at": "2023-05-22 20:29:58",
+      "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2023-03-20 20:23:15",

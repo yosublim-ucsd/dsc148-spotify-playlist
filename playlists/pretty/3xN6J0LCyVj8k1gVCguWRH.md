@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Some of Barack Obama&\#x27;s favorite summer songs\. Includes 22, 21 &amp; 20 editions + bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,745 likes - 212 songs - 13 hr 15 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,771 likes - 211 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,22 +191,22 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 181 | [YOU AND ME](https://open.spotify.com/track/7M3aUBCjzYesKw48OpodZp) | [BIG STEPPA DREW](https://open.spotify.com/artist/31MG765lNhM0TvM5xVR4qp) | [YOU AND ME](https://open.spotify.com/album/4Uw4tNp4dHkOamBlOgZmlZ) | 3:00 |
 | 182 | [These Times Are No Fun](https://open.spotify.com/track/3P72CEJWYmBudPzcULAlER) | [Curly Brown](https://open.spotify.com/artist/5PejSwdwgRlT4qYFcgWDHN) | [Nothing Matters](https://open.spotify.com/album/5EXXChwVXBxKgNms7EobzU) | 3:37 |
 | 183 | [If I Ever](https://open.spotify.com/track/4KCyhL2UbGFrL0rgKbbFYI) | [VDO](https://open.spotify.com/artist/6hypoWswEp1IwqNUdergI0) | [Right There and Then](https://open.spotify.com/album/1mctQHy6cgPoz1JPw89EVI) | 2:43 |
-| 184 | [Pretty](https://open.spotify.com/track/5YE5SdtdLIvIf4mLxXDuoD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:58 |
-| 185 | [enemy](https://open.spotify.com/track/5Gc5SQSxFRaiNRxQZrWqMF) | [Apricot](https://open.spotify.com/artist/6wbfl1NX87No6q9ILzIfbC) | [enemy](https://open.spotify.com/album/3iuBPvQsmbuAo7IsrlpfHN) | 2:31 |
-| 186 | [texto](https://open.spotify.com/track/7hFSOnhtbLMdDjMXBPqz48) | [Yojance](https://open.spotify.com/artist/2KdqkXzw9GeTVHlgXw6VSe) | [texto](https://open.spotify.com/album/72qappwrhJH2UGBHmGQw87) | 2:51 |
-| 187 | [A Place For Me At Home \- Radio Edit](https://open.spotify.com/track/1LFqgeykMpjhKn38NPxMHS) | [The Real Doug Lane](https://open.spotify.com/artist/2Ziza1qqIu4SaDoyxMivkd) | [A Place For Me At Home \(Radio Edit\)](https://open.spotify.com/album/605eOP0Y25BSD2SDCM2D58) | 4:25 |
-| 188 | [Can't Have It](https://open.spotify.com/track/3US2LEWarlWjL5rdpJDNNn) | [Malpa](https://open.spotify.com/artist/4OXLC1g1hr8sYgvy5JkLXe) | [Can't Have It](https://open.spotify.com/album/5NLuVuZJ9ZoTgocHGSf0t2) | 2:36 |
-| 189 | [Want U Bad](https://open.spotify.com/track/1Vq25HokcSYuXpco02Fcb0) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Want U Bad](https://open.spotify.com/album/24S7dNJGZ9m58oPkqGqpTa) | 2:35 |
-| 190 | [Everlasting](https://open.spotify.com/track/0qkX3QY9sllMRXdr4RTx3w) | [Raianaa](https://open.spotify.com/artist/7sELM1YhLGsX1yksSNJqet) | [Everlasting](https://open.spotify.com/album/3uJIs3hmLju0z4ZCz7doH0) | 4:24 |
-| 191 | [Don't Walk Away](https://open.spotify.com/track/3blXEcEhVdb5k1tU8vIRol) | [Henry Aberson](https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G), [Jae Franklin](https://open.spotify.com/artist/4h4QCr7F35RDl59EbzfvY6), [Chris Campbell](https://open.spotify.com/artist/2F1lLjPmaF7n9zIYNvfF0f), [Cortez Johnson](https://open.spotify.com/artist/422UcSw4Z8Cqxyt24vGqTI) | [Don't Walk Away](https://open.spotify.com/album/4Efsth889W0V4adLUrrDR7) | 2:25 |
+| 184 | [Algo de Mi](https://open.spotify.com/track/7i0cPcwZxHkr48xW8R3UGe) | [Dandy](https://open.spotify.com/artist/2UTLp5oCUAH25hLq8yGZXN) | [Dandy](https://open.spotify.com/album/12ltn3SIfnfo3uU7NSUeRu) | 3:06 |
+| 185 | [Pretty](https://open.spotify.com/track/5YE5SdtdLIvIf4mLxXDuoD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 2:58 |
+| 186 | [enemy](https://open.spotify.com/track/5Gc5SQSxFRaiNRxQZrWqMF) | [Apricot](https://open.spotify.com/artist/6wbfl1NX87No6q9ILzIfbC) | [enemy](https://open.spotify.com/album/3iuBPvQsmbuAo7IsrlpfHN) | 2:31 |
+| 187 | [texto](https://open.spotify.com/track/7hFSOnhtbLMdDjMXBPqz48) | [Yojance](https://open.spotify.com/artist/2KdqkXzw9GeTVHlgXw6VSe) | [texto](https://open.spotify.com/album/72qappwrhJH2UGBHmGQw87) | 2:51 |
+| 188 | [A Place For Me At Home \- Radio Edit](https://open.spotify.com/track/1LFqgeykMpjhKn38NPxMHS) | [The Real Doug Lane](https://open.spotify.com/artist/2Ziza1qqIu4SaDoyxMivkd) | [A Place For Me At Home \(Radio Edit\)](https://open.spotify.com/album/605eOP0Y25BSD2SDCM2D58) | 4:25 |
+| 189 | [Can't Have It](https://open.spotify.com/track/3US2LEWarlWjL5rdpJDNNn) | [Malpa](https://open.spotify.com/artist/4OXLC1g1hr8sYgvy5JkLXe) | [Can't Have It](https://open.spotify.com/album/5NLuVuZJ9ZoTgocHGSf0t2) | 2:36 |
+| 190 | [Want U Bad](https://open.spotify.com/track/1Vq25HokcSYuXpco02Fcb0) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Want U Bad](https://open.spotify.com/album/24S7dNJGZ9m58oPkqGqpTa) | 2:35 |
+| 191 | [Everlasting](https://open.spotify.com/track/0qkX3QY9sllMRXdr4RTx3w) | [Raianaa](https://open.spotify.com/artist/7sELM1YhLGsX1yksSNJqet) | [Everlasting](https://open.spotify.com/album/3uJIs3hmLju0z4ZCz7doH0) | 4:24 |
 | 192 | [Faceless Man](https://open.spotify.com/track/6nJUrPRhR3WIP6Qh3ocYZC) | [The Intemperate Sons](https://open.spotify.com/artist/5LwJGC0Cr6YQBAMmvoQqEY), [Amir Derakh](https://open.spotify.com/artist/28S3sWvgX9BbOln45EHc2f) | [Faceless Man](https://open.spotify.com/album/3pZcGKLmPsfTREovO812J6) | 3:38 |
 | 193 | [My Love](https://open.spotify.com/track/5MWROLaEEcQgWGZ16QuyI6) | [Bella Delle](https://open.spotify.com/artist/2Ss9z0SG3FQwFJVpWoyafk) | [My Love](https://open.spotify.com/album/62GJz4BTrOuEGYPLPtL672) | 3:03 |
 | 194 | [Azules](https://open.spotify.com/track/5ZWpidWRGBeMCtL5k5mRwc) | [Marta Luque](https://open.spotify.com/artist/5p986xumU59cCDxFAfmqbv) | [Azules](https://open.spotify.com/album/2cvVW3I0Wub3ppZQ59UlXE) | 1:42 |
 | 195 | [Need to Know](https://open.spotify.com/track/0geAd6Fvya79ASiQaI5jVj) | [Venture Still](https://open.spotify.com/artist/0zsujzHYce9p5WcD5Dd3ze) | [Need to Know](https://open.spotify.com/album/4ZrJiGArHXvXOBbl2E7TZO) | 4:27 |
-| 196 | [Break Up With Your Ex](https://open.spotify.com/track/6FoAudc1OAGexmEz6Bz4Ez) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Break Up With Your Ex](https://open.spotify.com/album/2o0fHKsEZJSJuAad1tLlLt) | 2:45 |
-| 197 | [2AM](https://open.spotify.com/track/3gymeH4hZ9OjkqBiJqq09I) | [Richard Tyler Epperson](https://open.spotify.com/artist/62WLjZANFdMQwldIiVnNFF) | [A Wandering Mind](https://open.spotify.com/album/2KD8Y5CsQmGNH8GmLSLUnw) | 4:04 |
-| 198 | [Notice](https://open.spotify.com/track/5maZfDOsFzdbW3mZYflgjT) | [DMT beats](https://open.spotify.com/artist/4aJf5R9nxf7pczt9wobUTK), [Aiitee](https://open.spotify.com/artist/4GhW4AQoDwme5T37OlpMAM) | [Notice](https://open.spotify.com/album/6n0ypzi1o7Vvp0tPRf7TrI) | 3:17 |
-| 199 | [Me Levantare](https://open.spotify.com/track/5dxEwHuC4TO8zoenQGJLHB) | [Pablo Pastor](https://open.spotify.com/artist/22LX0GIeZSiIMBpOJB29TG), [Cristian Elias Anderson](https://open.spotify.com/artist/0IOeA85IZipqcsCi6kAObI) | [Me Levantare](https://open.spotify.com/album/6tRVgAwWKeXOv1JpzN1zdF) | 4:03 |
+| 196 | [Abre La Ventana](https://open.spotify.com/track/5dJ3zRp2mb0qvI3ucKbl5Q) | [Felipe Alonso](https://open.spotify.com/artist/6LnPhnIpJ0i6nVPPlLhWbL) | [Abre La Ventana](https://open.spotify.com/album/3AmgHVZl22MpY3JKrQGQDm) | 3:57 |
+| 197 | [Break Up With Your Ex](https://open.spotify.com/track/6FoAudc1OAGexmEz6Bz4Ez) | [Belles](https://open.spotify.com/artist/09v2CdpT8TVxY6nn6zLnGd) | [Break Up With Your Ex](https://open.spotify.com/album/2o0fHKsEZJSJuAad1tLlLt) | 2:45 |
+| 198 | [2AM](https://open.spotify.com/track/3gymeH4hZ9OjkqBiJqq09I) | [Richard Tyler Epperson](https://open.spotify.com/artist/62WLjZANFdMQwldIiVnNFF) | [A Wandering Mind](https://open.spotify.com/album/2KD8Y5CsQmGNH8GmLSLUnw) | 4:04 |
+| 199 | [Notice](https://open.spotify.com/track/5maZfDOsFzdbW3mZYflgjT) | [DMT beats](https://open.spotify.com/artist/4aJf5R9nxf7pczt9wobUTK), [Aiitee](https://open.spotify.com/artist/4GhW4AQoDwme5T37OlpMAM) | [Notice](https://open.spotify.com/album/6n0ypzi1o7Vvp0tPRf7TrI) | 3:17 |
 | 200 | [Literally](https://open.spotify.com/track/0piWzZREKci54dpb2ay9oj) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh), [Maya La Maya](https://open.spotify.com/artist/7Km6g29oJhd8E03jCeokoE) | [Remember What It Feels Like](https://open.spotify.com/album/1NeUgw9lTBNB91DNZU4loG) | 2:50 |
 | 201 | [Original](https://open.spotify.com/track/6SwJ1LmZlDfAXAAK69DD4s) | [ZeXzy](https://open.spotify.com/artist/3IwO7IAIsQn4UHafxRHESo) | [Original](https://open.spotify.com/album/5acvWxZ969AIuEZUfo2Zl0) | 2:17 |
 | 202 | [U](https://open.spotify.com/track/4W3E1iqokP4a7gxhmFVSQ7) | [DEVYN](https://open.spotify.com/artist/0bGqpP4SR4bLk3YGoCkUNa) | [U](https://open.spotify.com/album/2kH77BDSmtklpuKoiygYZ0) | 3:24 |
@@ -219,6 +219,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 209 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 |
 | 210 | [Free Bird](https://open.spotify.com/track/6ohZJm6vyUwfqD7btyXq8T) | [Tukei](https://open.spotify.com/artist/5dSg4m1es4pzxJGVB9b9r0) | [About a Girl](https://open.spotify.com/album/36xBEgKZ6mrDYJZ27i4Ogs) | 2:49 |
 | 211 | [Go Away \- Ruff Loaderz Remix](https://open.spotify.com/track/6gUF7Ttrzw6Ac5h5nqS9qr) | [Tammy Mariah](https://open.spotify.com/artist/3t5VkiTnKZaWLBxJKVDR63), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Go Away](https://open.spotify.com/album/72zS92lhmOqUapcjyJGkDr) | 2:48 |
-| 212 | [Im Still Here](https://open.spotify.com/track/6TDRCi7ozok7BgiL2y0AUI) | [Joel Holden](https://open.spotify.com/artist/3GfaEbEIiHBPWa3YpKQhbd) | [Im Still Here](https://open.spotify.com/album/2bWFOdFDapH3jmNoj9SWEd) | 3:48 |
 
-Snapshot ID: `NTM1Niw0MzdiOTQwZDE2N2VmMzFiMDllYzNhMTBiNTZkN2ViM2EyZDdhZGIw`
+Snapshot ID: `NTM2NSxkZjkzYzIwNDg0ZTFjNWM4NjJlY2Q2N2U0NWQxMWY4NjUxN2Y3Njdl`

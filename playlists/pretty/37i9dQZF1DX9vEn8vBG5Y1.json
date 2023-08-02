@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 153649,
+  "num_followers": 153773,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTQwYThlYjYwYzQyMTUyYzdkODliYTdkZjIyM2U2ODlhODU0NDQz",
+  "snapshot_id": "MCw4MmY3MDlkYWViODZjMzMzMGZiOWZjN2Q3NGIzMGMwMDNjZGYwNDUy",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Daniel Powter",
         "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 233640,
       "name": "Bad Day",
       "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Sugar Ray",
-        "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "When It's Over - David Kahne Main",
-      "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "Learning To Breathe",
         "url": "https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 284066,
       "name": "Here I Am - End Title",
       "url": "https://open.spotify.com/track/0gJBPDy458wPeWGHei3TvO"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Sugar Ray",
+        "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "When It's Over - David Kahne Main",
+      "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
     },
     {
       "added_at": "2023-01-18 21:26:30",

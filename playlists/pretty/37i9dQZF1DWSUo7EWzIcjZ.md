@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,700 likes - 150 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,779 likes - 150 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 21 | [El Farolito](https://open.spotify.com/track/6GJd6DkNEIsZf2tbRRkpbk) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Fogaraté](https://open.spotify.com/album/2IUnsgSNSjCyiUEVlg61er) | 3:43 |
 | 22 | [Borrón y Cuenta Nueva](https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Acabando!](https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB) | 3:58 |
 | 23 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
-| 24 | [Cama Y Mesa](https://open.spotify.com/track/2Iq4mrFafAL99VjAnytVR0) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu) | 5:07 |
-| 25 | [Las Pequeñas Cosas](https://open.spotify.com/track/4mJcnwzcMwaM1k9Bpf1LGb) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4) | 4:05 |
+| 24 | [Las Pequeñas Cosas](https://open.spotify.com/track/4mJcnwzcMwaM1k9Bpf1LGb) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4) | 4:05 |
+| 25 | [Cama Y Mesa](https://open.spotify.com/track/2Iq4mrFafAL99VjAnytVR0) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu) | 5:07 |
 | 26 | [Si Algún Día la Ves](https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf) | 4:44 |
 | 27 | [El Ombliguito \- Merengue Version](https://open.spotify.com/track/6oCdQgeMtkYYaT2IZZKMf7) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Ombliguito](https://open.spotify.com/album/0vHcfstrEdO2FG1svbiyM3) | 3:58 |
 | 28 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/20js1xS9eDxHcHVoVQASPO) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Los Vecinos](https://open.spotify.com/artist/3wwEkvc5v1R19fMX5fCj7a) | [20 Exitos Originales](https://open.spotify.com/album/76bNdLqQnSnzU145Com1b1) | 4:58 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 62 | [Cobarde, Cobarde](https://open.spotify.com/track/3U4jgWwCo247GZX02vwFrI) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 4:19 |
 | 63 | [Es Lo Que Pide...](https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:43 |
 | 64 | [Es Cosa de El](https://open.spotify.com/track/73PUt5bQto0cfqI0ISxxTQ) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Collection 1](https://open.spotify.com/album/6LcvnnbGiWnMZRTWjqbEuC) | 3:53 |
-| 65 | [Siervo de Amor](https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Siempre Yo](https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG) | 3:12 |
-| 66 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
+| 65 | [¿Pitaste?](https://open.spotify.com/track/45uhX5tj1cWfUAcYEPHnds) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [10 De Colección](https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV) | 4:11 |
+| 66 | [Siervo de Amor](https://open.spotify.com/track/5ylSx7NURdp7559JuEfopl) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Siempre Yo](https://open.spotify.com/album/3ZO68h9osfe7RruzO0bhJG) | 3:12 |
 | 67 | [A Usted Lo Botan](https://open.spotify.com/track/3QAIfuTqnJ1UiEq2TJHLqG) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:17 |
 | 68 | [Yo Soy Asi](https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2) | 3:38 |
 | 69 | [¡Ay Doctor!](https://open.spotify.com/track/0WiXmhgxvudybPq4htELpo) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Arrasando Con Todo ¡Ay Doctor!](https://open.spotify.com/album/5938ac4vSf3QB2rJpWTAbi) | 5:04 |
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 106 | [Tu Mujer](https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:01 |
 | 107 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
 | 108 | [Faltaste A La Cita](https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:27 |
-| 109 | [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 |
+| 109 | [Cometa Blanca](https://open.spotify.com/track/2oZ1qKVTkE7oGgkWXiYmFy) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 4:11 |
 | 110 | [No Me Importa, No](https://open.spotify.com/track/5Ea8d3nnfWqDGrFvtvS6ts) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/3vSjCbYqpdImv7l7EP8hgj) | 3:55 |
-| 111 | [Cometa Blanca](https://open.spotify.com/track/2oZ1qKVTkE7oGgkWXiYmFy) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 4:11 |
+| 111 | [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 |
 | 112 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
 | 113 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |
 | 114 | [Esa Loca](https://open.spotify.com/track/2icXGdgNtEVvSw7uHCFBXu) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Siempre Diva](https://open.spotify.com/album/33KbyTdwcz7jwntBp7svfb) | 4:03 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Cuando Llegara](https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/6a2IqhC6p4EExbsoMrYpso) | 4:12 |
 | 150 | [Tu Belleza](https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH) | [Fausto Rey](https://open.spotify.com/artist/6hwJaYuNBFuZNnSWsyeSJO) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI) | 3:39 |
 
-Snapshot ID: `MCxkZDE4ZTliY2U5NWM1NjY2M2QwODY1YTM1NWE2Zjg2MzU0NWRkNzRj`
+Snapshot ID: `MCxlYjQzZGNjMTAwZjFkYTc0OWI2NWFkNzNmMjc2M2Y0N2U0ODYzNmI4`

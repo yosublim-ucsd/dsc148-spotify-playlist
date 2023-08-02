@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 136367,
+  "num_followers": 136431,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGZjYjI4MTViZTEwZjk0YjdiMTMyOWJkOGViMzBlNDQxMTUyZjlm",
+  "snapshot_id": "MCxlZTEyNTAxNDJkMzI3Njg1NTdjZGU5NGZjOWRmNTMzNDcwODg5YTdm",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 163560,
       "name": "Deep In the Heart of Texas",
       "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Essential Roy Acuff",
-        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
       "artists": [
         {
-          "name": "Roy Acuff",
-          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 196293,
       "name": "Old Shep",
       "url": "https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 153960,
-      "name": "Rocky Road Blues",
-      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
+      "duration_ms": 161626,
+      "name": "Mule Skinner Blues (Blue Yodel #8)",
+      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -1108,9 +1108,9 @@
           "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
         }
       ],
-      "duration_ms": 161626,
-      "name": "Mule Skinner Blues (Blue Yodel #8)",
-      "url": "https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR"
+      "duration_ms": 153960,
+      "name": "Rocky Road Blues",
+      "url": "https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA"
     },
     {
       "added_at": "2023-01-02 21:50:32",

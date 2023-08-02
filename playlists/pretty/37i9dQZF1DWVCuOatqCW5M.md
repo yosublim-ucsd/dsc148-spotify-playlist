@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Neha Kakkar & Rohanpreet Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,993 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,113 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Door](https://open.spotify.com/track/1ldndBeo8TIFRSly2QNBbo) | [Maddy Sharma](https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ) | [Door](https://open.spotify.com/album/7kO2smNzWwRLhlTdBM1d2T) | 2:48 |
 | 50 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 
-Snapshot ID: `MCwwZTYyN2E0NTJmZjBiZjBmOTFiOGY3MjQyOTE2NGU2MTE0MmExZjZh`
+Snapshot ID: `MCxmOTYyYmMyZWFiNzEzMjMzMjQ1ODhiYzQyNTM0NzVjOGQ1N2QzZWVj`

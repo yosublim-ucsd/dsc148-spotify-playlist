@@ -1,13 +1,81 @@
 {
   "description": "The finest set of Telugu music from the past 5 years. \nCover : RRR",
-  "num_followers": 271664,
+  "num_followers": 271999,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGYyNDFiMWUxMjEyNDQwNGY5NWMyOWQyYWY5OWZlZmVkMWY2MzA2",
+  "snapshot_id": "MCxhOTY1NWRlZTBiOWJlY2Y1YzQ1NzhmODk5N2RiOGY0ZjAyMDA0MmQ4",
   "tracks": [
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Ala Vaikunthapurramuloo",
+        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "duration_ms": 198782,
+      "name": "Buttabomma",
+      "url": "https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Taxiwaala",
+        "url": "https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 296220,
+      "name": "Maate Vinadhuga",
+      "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
+    },
+    {
+      "added_at": "2022-08-03 09:42:51",
+      "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
+      },
+      "artists": [
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        }
+      ],
+      "duration_ms": 223325,
+      "name": "Oo Antava Oo Oo Antava",
+      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "added_at": "2023-01-10 09:27:27",
+      "album": {
+        "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+        "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        }
+      ],
+      "duration_ms": 314342,
+      "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
+      "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
+    },
     {
       "added_at": "2022-07-24 04:40:57",
       "album": {
@@ -95,38 +163,6 @@
       "duration_ms": 200113,
       "name": "Gundellonaa (From \"Ori Devuda\")",
       "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
-      },
-      "artists": [
-        {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        }
-      ],
-      "duration_ms": 198782,
-      "name": "Buttabomma",
-      "url": "https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp"
-    },
-    {
-      "added_at": "2022-08-03 09:42:51",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
-      },
-      "artists": [
-        {
-          "name": "Indravathi Chauhan",
-          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
-        }
-      ],
-      "duration_ms": 223325,
-      "name": "Oo Antava Oo Oo Antava",
-      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
     },
     {
       "added_at": "2023-03-16 06:15:29",
@@ -359,22 +395,6 @@
       "duration_ms": 242412,
       "name": "Emo Emo",
       "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Taxiwaala",
-        "url": "https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 296220,
-      "name": "Maate Vinadhuga",
-      "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
     },
     {
       "added_at": "2023-03-16 06:15:29",
@@ -667,26 +687,6 @@
       "duration_ms": 253595,
       "name": "Sirivennela (From \"Shyam Singha Roy\")",
       "url": "https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR"
-    },
-    {
-      "added_at": "2023-01-10 09:27:27",
-      "album": {
-        "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
-        "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Sreerama Chandra",
-          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
-        }
-      ],
-      "duration_ms": 314342,
-      "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
-      "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
     },
     {
       "added_at": "2023-05-04 06:50:45",

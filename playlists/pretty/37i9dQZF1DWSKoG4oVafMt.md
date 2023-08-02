@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Bilal Saeed & Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,423 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,679 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 59 | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/track/49smvL3XQwdOdTIjTYDoHd) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Pariyan De Desh \(From "Masand" Soundtrack\)](https://open.spotify.com/album/2VJaivHf2ktb01A62hQJdb) | 3:05 |
 | 60 | [Jaane Meriye](https://open.spotify.com/track/6m52WOS01Vm4r7sk6bBkZ5) | [Akhil](https://open.spotify.com/artist/0by2DLDdi20jCrhyf2DnBc) | [Jaane Meriye](https://open.spotify.com/album/6kXTUjRBsL3mWusw1hSkXR) | 3:53 |
 | 61 | [Gall Mukk Gyi](https://open.spotify.com/track/3DWcDfFX2Hb8oNTD4i67yv) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Gall Mukk Gyi](https://open.spotify.com/album/5rJH6PsvkyknJrB7EnmaxR) | 3:26 |
-| 62 | [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 |
+| 62 | [Gal Ban Jae](https://open.spotify.com/track/29d2haeSBT0E7ZIfj21JdF) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gal Ban Jae](https://open.spotify.com/album/3kUDb1S9rTTuPauMvSDivX) | 3:31 |
 | 63 | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/track/6bxNV7WkYRV6GsAgonueDO) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5) | [Gallaan Dilaan Diyaan \(feat\. Sanam Marvi\)](https://open.spotify.com/album/2CLR2U2nqFk8xbTu9Eu5k5) | 5:37 |
 | 64 | [Snowfall](https://open.spotify.com/track/33rfzVxhNEBh0tnt2KXbXI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Snowfall](https://open.spotify.com/album/2YMwWwivQX7z4n3913TPZh) | 3:01 |
 | 65 | [Nikke Nikke Chaa](https://open.spotify.com/track/6uPemGQUbxNIeBKKgbveXK) | [Khushi Pandher](https://open.spotify.com/artist/6JgrVNpfoFwE3imEDPrzqJ) | [Nikke Nikke Chaa](https://open.spotify.com/album/2yWvNW53jxW9TTt4wSXyBT) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 | 75 | [Galwakdi \- From "Galwakdi"](https://open.spotify.com/track/5JxEpyICoZZhfIUh2kr6wE) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [R Guru](https://open.spotify.com/artist/2LKgaY0VVvgyQniOk6JA3V) | [Galwakdi \(From "Galwakdi"\)](https://open.spotify.com/album/6dbzxc1FRdwLrx3x28mXHd) | 4:07 |
 
-Snapshot ID: `MCwxMTU0NWNlNDQ4NjY2ZDRkMGRiYWI0ZGQyMDMwMDQ1ZWUyZWM2YTU3`
+Snapshot ID: `MCw2YWY0N2U1NzgwMTYxYjViZGJiZjc4ZTlhY2M0NTNmYWU4ZmFjZGFl`

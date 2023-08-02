@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:3sgVVFFM7mom04OAR0eNCL\">DEAS</a>'s favorite tracks. Updated regularly. Curated by DEAS. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 1487,
+  "num_followers": 1492,
   "original_name": "DEAS' track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDEwZmVhZGI2Mjk3MThmMTgxM2Y4ZjViOTRlNTQ1NjdjNTVlYTU5",
+  "snapshot_id": "MCwzMzVmNjQ0Yzk5NDEzOWE4NTA5OWM5YTg2NDljM2YyMDAxNTg1OTUx",
   "tracks": [
     {
       "added_at": "2022-07-25 08:36:00",
@@ -279,6 +279,10 @@
         "url": "https://open.spotify.com/album/0vWYICw7Q6EXWMZkKEsAYT"
       },
       "artists": [
+        {
+          "name": "SHDW",
+          "url": "https://open.spotify.com/artist/3KovqCnqAuPdKmCoHOn105"
+        },
         {
           "name": "SHDW & Obscure Shape",
           "url": "https://open.spotify.com/artist/3pqHn0bHhBjL0duQ5xesFe"

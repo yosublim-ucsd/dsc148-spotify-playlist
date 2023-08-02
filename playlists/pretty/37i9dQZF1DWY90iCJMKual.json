@@ -1,12 +1,12 @@
 {
   "description": "Groove to the rhythm of OPM's R&B tunes. Cover: Illest Morena",
-  "num_followers": 47656,
+  "num_followers": 47816,
   "original_name": "Pinas Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTUwYTRhNTEwYzhmNmMxNGE5OWJkNzgwNjQwYzg5ZWExNjY2OWZh",
+  "snapshot_id": "MCxjYWY4N2FkMTkwYWMxNTNjMDFiNThkN2QwYWZhMDI5MjVmZTBmZTEz",
   "tracks": [
     {
       "added_at": "2023-07-28 07:29:59",
@@ -23,46 +23,6 @@
       "duration_ms": 147428,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft"
-    },
-    {
-      "added_at": "2023-07-28 07:29:59",
-      "album": {
-        "name": "Aminin",
-        "url": "https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy"
-      },
-      "artists": [
-        {
-          "name": "Pricetagg",
-          "url": "https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv"
-        },
-        {
-          "name": "Zae",
-          "url": "https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L"
-        }
-      ],
-      "duration_ms": 217297,
-      "name": "Aminin",
-      "url": "https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX"
-    },
-    {
-      "added_at": "2023-07-28 07:29:59",
-      "album": {
-        "name": "SEEN",
-        "url": "https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n"
-      },
-      "artists": [
-        {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
-        },
-        {
-          "name": "Because",
-          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "SEEN",
-      "url": "https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN"
     },
     {
       "added_at": "2023-07-28 07:29:59",
@@ -87,6 +47,46 @@
       "duration_ms": 141762,
       "name": "homebdy",
       "url": "https://open.spotify.com/track/2bFabpKKu22phRjaQPkYV8"
+    },
+    {
+      "added_at": "2023-07-28 07:29:59",
+      "album": {
+        "name": "SEEN",
+        "url": "https://open.spotify.com/album/4LZVmxON0sJjUAYhTWgj0n"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "SEEN",
+      "url": "https://open.spotify.com/track/6REJp8MTDJ5gv2MRkHNmtN"
+    },
+    {
+      "added_at": "2023-07-28 07:29:59",
+      "album": {
+        "name": "Aminin",
+        "url": "https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy"
+      },
+      "artists": [
+        {
+          "name": "Pricetagg",
+          "url": "https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv"
+        },
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L"
+        }
+      ],
+      "duration_ms": 217297,
+      "name": "Aminin",
+      "url": "https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX"
     },
     {
       "added_at": "2023-07-28 07:29:59",

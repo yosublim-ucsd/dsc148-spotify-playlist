@@ -1,12 +1,12 @@
 {
   "description": "Deep concentration with these outstanding Japanese ambient tracks.",
-  "num_followers": 56383,
+  "num_followers": 56473,
   "original_name": "Ambient Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjhmYzJhYWNhMTVhMThiZTZiMDFjYWU2NjI0ZGVlMGNmZjI0ZjI1",
+  "snapshot_id": "MCxlMDQ1Y2NkMTY3ZGVhMDVmNzM3YTk0MzY4YWJlZmEzNWU3OTUzMzNj",
   "tracks": [
     {
       "added_at": "2023-07-25 15:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-25 15:00:00",
       "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
-    },
-    {
-      "added_at": "2023-07-25 15:00:00",
-      "album": {
         "name": "Sonorite",
         "url": "https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 473106,
       "name": "kokyu",
       "url": "https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3"
+    },
+    {
+      "added_at": "2023-07-25 15:00:00",
+      "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2023-07-25 15:00:00",

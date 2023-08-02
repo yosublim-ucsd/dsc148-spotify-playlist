@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2KtT8t49L8p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2KtT8t49L8p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2KtT8t49L8p)
 
-### [Binaural Beats: Manifestation](https://open.spotify.com/playlist/37i9dQZF1DX2KtT8t49L8p)
+### [Binaural Beats: Mindfulness](https://open.spotify.com/playlist/37i9dQZF1DX2KtT8t49L8p)
 
 > Awaken and connect through meditation with Theta frequencies.
 

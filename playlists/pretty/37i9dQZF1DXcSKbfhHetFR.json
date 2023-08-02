@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8782,
+  "num_followers": 8785,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjE5Y2IyNGJiMGJlMWY2NTQ0MWYyYmQ5ZDJlNWNkNGZiMjY0Zjg1",
+  "snapshot_id": "MCw4YWM3MzJjYzVlNjcxYjE0NTI4YmY1ODkwZjE0ZWYzMTY0ZWY2OTUy",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Ma g\u00e9n\u00e9ration",
-        "url": "https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Magan\u00e9",
-      "url": "https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Les Goules",
         "url": "https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 218560,
       "name": "Crabe",
       "url": "https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Ma g\u00e9n\u00e9ration",
+        "url": "https://open.spotify.com/album/71HOD6rGHk89meMJ7KQEBk"
+      },
+      "artists": [
+        {
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Magan\u00e9",
+      "url": "https://open.spotify.com/track/10ftfZxIPLStdkw7hTuL09"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -351,6 +351,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "Le compte complet",
+        "url": "https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN"
+      },
+      "artists": [
+        {
+          "name": "Malajube",
+          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Le m\u00e9tronome",
+      "url": "https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Lili Fatale",
         "url": "https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le compte complet",
-        "url": "https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN"
+        "name": "Sans foi ni loi",
+        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
       },
       "artists": [
         {
-          "name": "Malajube",
-          "url": "https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm"
+          "name": "Les Pistolets Roses",
+          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Le m\u00e9tronome",
-      "url": "https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK"
+      "duration_ms": 176653,
+      "name": "Grossiere ind\u00e9cence",
+      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -427,22 +443,6 @@
       "duration_ms": 232280,
       "name": "Decoller - Remix",
       "url": "https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "Sans foi ni loi",
-        "url": "https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9"
-      },
-      "artists": [
-        {
-          "name": "Les Pistolets Roses",
-          "url": "https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Grossiere ind\u00e9cence",
-      "url": "https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Rita-Rita",
-        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
-      },
-      "artists": [
-        {
-          "name": "Rita-Rita",
-          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Je suis down",
-      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "100% boeuf",
         "url": "https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 251520,
       "name": "Poney",
       "url": "https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Rita-Rita",
+        "url": "https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj"
+      },
+      "artists": [
+        {
+          "name": "Rita-Rita",
+          "url": "https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Je suis down",
+      "url": "https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
+        "name": "De la nature des foules",
+        "url": "https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds"
       },
       "artists": [
         {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
+          "name": "Bonjour Brumaire",
+          "url": "https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv"
         }
       ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
+      "duration_ms": 244986,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp"
     }
   ],
   "unique_name": "Je me souviens: alternatif",

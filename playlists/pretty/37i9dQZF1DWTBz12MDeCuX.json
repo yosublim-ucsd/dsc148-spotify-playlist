@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Dennis Dies Das\n",
-  "num_followers": 412252,
+  "num_followers": 412471,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODAyNjVmYmY1Yjg1MTJjZGQyZDg4ZDhlM2FjYzNhMWM1OTdkNGMx",
+  "snapshot_id": "MCxjZTkwOWMzMzExZTQzYmU4MTY4OTVjMGM2ZDQwNGVlMzU5ZjMzYjA4",
   "tracks": [
     {
       "added_at": "2023-07-31 12:08:56",
@@ -446,10 +446,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 191700,
-      "name": "FE!N",
+      "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {

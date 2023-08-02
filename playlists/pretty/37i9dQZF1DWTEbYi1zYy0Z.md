@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,111 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,135 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 21 | [Waiting in the Wings](https://open.spotify.com/track/0tbZoaS14AUWqkrXG4Twcr) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV) | [Stick It Out](https://open.spotify.com/album/5Cd0BxylSBhnRDhFCNxSPz) | 4:32 |
 | 22 | [Let’s Take A Ride](https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:14 |
 | 23 | [Table For 2](https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Table For 2](https://open.spotify.com/album/5MZkdbtrBhH10PDx6I9Cdr) | 4:38 |
-| 24 | [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 |
+| 24 | [Nico’s Groove](https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:57 |
 | 25 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 |
 | 26 | [Groove Factor](https://open.spotify.com/track/4GfktsF1HPURddq5xtrTmk) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Mind Over Matter](https://open.spotify.com/album/4bSKVc62lHSybDeCG4wmOJ) | 5:14 |
 | 27 | [Sunrise Boulevard](https://open.spotify.com/track/2DU4A4bsnRYrf5xcKn1Hbo) | [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [Sunrise Boulevard](https://open.spotify.com/album/2hm4iYJitW9v3WmO34rIN8) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 | 100 | [Weekend Groove](https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT) | [Jesse Thompson](https://open.spotify.com/artist/6gaTtx4sTEvLIX01paATf5), [Althea Rene](https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY) | [The Inauguration of Jtjazz \(Jesse Thompson the Man Behind the Keys\)](https://open.spotify.com/album/6fBZT07tMHRqSCNYwPJE3a) | 4:53 |
 
-Snapshot ID: `MCwyNzZhZWYyMGExNmIzZDBjYTAwNTBiMzFiMmIwMDJhNTljMTY0ZjFj`
+Snapshot ID: `MCxjODNmNTM1MTE4NzMxMTMwMDhhOTk4YTJiZTYzNmU0OGFjOGIzNWEw`

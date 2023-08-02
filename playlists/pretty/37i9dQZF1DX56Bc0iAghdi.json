@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 24330,
+  "num_followers": 24348,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQzODY1YTdiZmZkNzc4YzI5ZWVkZjNmZDViMWMxZmQwNmI4MGRl",
+  "snapshot_id": "MCwzYTI0ZWJkNzMyYjg1ZTYzYTNkZGY2YmQzZDU2MjI0ZDM1Y2Q2NWFj",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/1k2TfoQgjRJcpQNSDj3y4I"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 246445,
+      "name": "Storehouse",
+      "url": "https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Forever on Your Side (Niles City Sound Sessions)",
         "url": "https://open.spotify.com/album/3qPcOQNFQgqvkEperYIjOq"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 294200,
       "name": "Forever on Your Side (with JOHNNYSWIM)",
       "url": "https://open.spotify.com/track/598Dy3TgV1SQulwjPOM0Z2"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/1k2TfoQgjRJcpQNSDj3y4I"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 246445,
-      "name": "Storehouse",
-      "url": "https://open.spotify.com/track/6mRHIxLNUIBz1U6jATBrZa"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 234666,
       "name": "Future",
       "url": "https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 252381,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "Safe (feat. Chris Cron)",
         "url": "https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 213997,
       "name": "Safe (feat. Chris Cron)",
       "url": "https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/0bgRKFVFp5wiMnLfiM2WzB"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 252381,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5kSWv4oxIoTE3LSh831GpU"
     },
     {
       "added_at": "2023-02-18 06:22:02",

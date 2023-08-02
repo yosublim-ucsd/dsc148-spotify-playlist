@@ -1692,10 +1692,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 150726,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1Vc7ukcLACRqHlgwquGsi5"
+    },
+    {
+      "album": {
+        "name": "K.I.D",
+        "url": "https://open.spotify.com/album/3mosYXGwQ9camfOb1maH7s"
+      },
+      "artists": [
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150726,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5chFbDyXra8th7jLtjTjgL"
     },
     {
       "album": {

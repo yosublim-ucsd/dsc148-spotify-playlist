@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX?si=lVs8wzTzQrWvdwe\-v3w8sQ">Alice Phoebe Lou</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,593 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,596 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 11 | [We're on an Island, but it's the UK](https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [We're on an Island, but it's the UK](https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt) | 2:48 |
 | 12 | [Wrenbird](https://open.spotify.com/track/4F1NmFzC3OTampNIU4qLuI) | [Wren Hinds](https://open.spotify.com/artist/58U71aw2hYsogUxtiM4NWX) | [A Child's Chant for the New Millennium](https://open.spotify.com/album/0kH9dP7WAg9Uvw7kFyZKtX) | 4:29 |
 | 13 | [Appaloosa Bones](https://open.spotify.com/track/03IAVdKpjqqIjNUxZRHywy) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/5IlwxjLUUcUFUTX5nGVM7J) | 3:59 |
-| 14 | [maya](https://open.spotify.com/track/71bWLot6VTOixr4y5NKpod) | [Rodrizzy](https://open.spotify.com/artist/1QpNNBdyML4vHkl9Xix69m) | [maya](https://open.spotify.com/album/34c5aaW8G5OnrHefwAUNKi) | 3:14 |
+| 14 | [maya](https://open.spotify.com/track/71bWLot6VTOixr4y5NKpod) | [Benjamin Rodrigues](https://open.spotify.com/artist/64Vss2wNfj7wyFFVbpIy3d) | [maya](https://open.spotify.com/album/34c5aaW8G5OnrHefwAUNKi) | 3:14 |
 | 15 | [We Will Meet Again](https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [We Will Meet Again](https://open.spotify.com/album/44gvqKoDEpsDC9QRE2sChM) | 3:55 |
 | 16 | [VILLAIN](https://open.spotify.com/track/5BenD5bE1L6gX4auqfEDov) | [Kristi Lowe](https://open.spotify.com/artist/6XWv7bdLT5EQkyVMn4RaNh) | [VILLAIN](https://open.spotify.com/album/5rdNgKVRNrDIWO7JNYqJHb) | 3:24 |
 | 17 | [Purple Moon](https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Purple Moon](https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Home has never been good to us](https://open.spotify.com/track/0VGw53FeCBukGIvYm7SiWH) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Home has never been good to us](https://open.spotify.com/album/2fXqcG7ZRuVjm2ypxB4gds) | 2:20 |
 | 50 | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL) | [Cloud Illusions](https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp) | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF) | 4:05 |
 
-Snapshot ID: `MCwwZDE4YTQxNzliNzA1OGVjMzUyYzc4ODFmNDc1ZDQ5ZDZmZDI2NjRk`
+Snapshot ID: `MCxjOWRiNjNkODNhNWJmMTQ4ZGNlNjJlOGViNTNjZTBjYWVjZGI3NjIx`

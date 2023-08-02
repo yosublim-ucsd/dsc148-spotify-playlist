@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-186 songs - 10 hr 25 min
+187 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Fall](https://open.spotify.com/track/7svclK1SQzNAmClGHXkEMy) | [김예준](https://open.spotify.com/artist/0RNgISHByvz4Dn6g25BcT3) | [Fall](https://open.spotify.com/album/36KT5I1t1z9Jcsog7V7mpa) | 2:41 | 2022-04-18 | 2022-08-12 |
 | [Far Away \(Feat\. H:SEAN, SWRY\) \(Prod\. Liam K\)](https://open.spotify.com/track/4y3zwYdCDCRUnRsXP9gBLI) | [Holmsted](https://open.spotify.com/artist/4AETbFj8tCGWWDWLXIldTB), [H:SEAN](https://open.spotify.com/artist/5unaicO0SRNINwxV4jnq18), [SWRY](https://open.spotify.com/artist/67F3N58scf1KzBhMcA0Lcs) | [DOT 1](https://open.spotify.com/album/2pyUjceJRcxmJsf0UAZvOI) | 3:42 | 2022-04-18 | 2022-07-27 |
 | [First time](https://open.spotify.com/track/3c6G3VkE3TbHdUYrDaATOS) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [First time](https://open.spotify.com/album/5ZnkmWDQeXbdgfpj8VaurC) | 3:06 | 2022-04-21 | 2022-07-26 |
-| [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-08-03 |  |
+| [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 | 2022-08-03 | 2023-08-02 |
 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 | 2022-04-18 |  |
 | [Frank Ocean](https://open.spotify.com/track/5GIYyKQCiNobtNpU3IGgxn) | [Jiho Givenchy](https://open.spotify.com/artist/7FmUBvEV5FBVdF021jN5r2), [Javan](https://open.spotify.com/artist/2Ov5VPtihyYirhoUVqvb8g) | [Frank Ocean](https://open.spotify.com/album/60HTg0VEeH0VYSkMWLKRfz) | 3:08 | 2022-04-18 | 2022-07-29 |
 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 | 2022-04-18 | 2023-07-20 |
@@ -140,6 +140,7 @@
 | [Reset](https://open.spotify.com/track/1GH0sHRBwLYJwuyqBPsf0q) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3), [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc) | [Reset](https://open.spotify.com/album/5iXtqZVn6OEJ15jGmFmnaD) | 2:24 | 2022-07-25 | 2022-07-28 |
 | [right now](https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe) | [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [right now](https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs) | 2:15 | 2022-10-06 | 2022-10-08 |
 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 | 2023-04-03 |  |
+| [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 | 2023-07-21 |  |
 | [Rose Garden](https://open.spotify.com/track/0lqUrUVpr7YTrpWbQk7U0G) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [THE ARTIST](https://open.spotify.com/album/5I4UXnGYkAaDenWYmApziK) | 2:45 | 2022-04-18 | 2022-04-21 |
 | [sad love song](https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [sad love song](https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw) | 3:01 | 2022-04-18 | 2022-10-03 |
 | [Sad Love Song \(feat\. slchld & Rheehab\)](https://open.spotify.com/track/3KQambacz4w7NX27MD0bxb) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Rheehab](https://open.spotify.com/artist/4UzNlDOUkNSs0Alm2VdKhu), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 3:02 | 2023-02-28 | 2023-06-02 |

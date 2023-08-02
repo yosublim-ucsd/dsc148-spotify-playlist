@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,355 likes - 94 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,371 likes - 94 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 |
-| 2 | [DELRESTO \(ECHOES\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
+| 2 | [DELRESTO \(ECHOES\) \(feat\. Beyoncé\)](https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:34 |
 | 3 | [Desire \(with Sam Smith\)](https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\)](https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C) | 2:59 |
 | 4 | [Aan Vakantie Toe](https://open.spotify.com/track/0zy7nv9DfbpWnNgQFzKiMq) | [Sick & Nimon](https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Aan Vakantie Toe](https://open.spotify.com/album/4onWLoRGEa7joTr8apOuXg) | 2:09 |
 | 5 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 66 | [Oxytocin](https://open.spotify.com/track/4o8gS9146vXbt322ZuGQYo) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Oxytocin](https://open.spotify.com/album/1XDfwikZpkoGoqPriBbxo3) | 3:42 |
 | 67 | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM) | 3:39 |
 | 68 | [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 |
-| 69 | [HALL OF FAME](https://open.spotify.com/track/4KQ0P0yZOLRomY9IJHfedX) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75) | [RAFTING GOODS VOLUME 2: B](https://open.spotify.com/album/5YFe0F2rDjb6h5MNsXLGF2) | 2:46 |
+| 69 | [HALL OF FAME](https://open.spotify.com/track/4KQ0P0yZOLRomY9IJHfedX) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Mike Tibbert](https://open.spotify.com/artist/0mL0tWGTYQkUqh2wVy6o75), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [RAFTING GOODS VOLUME 2: B](https://open.spotify.com/album/5YFe0F2rDjb6h5MNsXLGF2) | 2:46 |
 | 70 | [Everest \(with Yung Gravy\)](https://open.spotify.com/track/3uFyGFedpjU3wspnWFPQte) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Everest](https://open.spotify.com/album/2SPfhQZkaYFiRaLk2EG0dK) | 2:21 |
 | 71 | [Bla Bla](https://open.spotify.com/track/4EIk9fc7iPf5FO8LFL0uph) | [Piet Junior](https://open.spotify.com/artist/5FFXksa2XnPdQ6ImtCZstd) | [Bla Bla](https://open.spotify.com/album/59jXHqXPFGBCmcA1zcXLj7) | 3:02 |
 | 72 | [Higher \(Escalators\)](https://open.spotify.com/track/3oUiNUmZ5ONKmITWEpcT4h) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Higher \(Escalators\)](https://open.spotify.com/album/37E0mCzR5jbqIWX1EM4VFE) | 2:19 |
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 86 | [Deine Augen](https://open.spotify.com/track/4pNeGDxR4bMvaY7WiAC4sG) | [Dorentina](https://open.spotify.com/artist/4BMNa7OwCq14ikdVluvUP5) | [Deine Augen](https://open.spotify.com/album/6aieDl6pjIMXiUACuDaYJq) | 2:40 |
 | 87 | [Dumm](https://open.spotify.com/track/3OuNeUD8M8eHmJwcQQ4C6K) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [Dumm](https://open.spotify.com/album/09IPkCuUsG8WC7fGm9ay4m) | 2:34 |
 | 88 | [Light It Up](https://open.spotify.com/track/6iYctJmS3xql2msJZjSJ2b) | [Vandenberg](https://open.spotify.com/artist/3hAv15rFpsTe7zteKhhJTx) | [Light It Up](https://open.spotify.com/album/7Dbqf3SRGudfR2XSxHOHwE) | 3:35 |
-| 89 | [Big Stacks](https://open.spotify.com/track/2nQbgg9sKokyd7o99xMpbQ) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Big Stacks](https://open.spotify.com/album/06fasBZe8AZhNwD75nVefW) | 3:08 |
+| 89 | [Big Stacks](https://open.spotify.com/track/2nQbgg9sKokyd7o99xMpbQ) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [Big Stacks](https://open.spotify.com/album/06fasBZe8AZhNwD75nVefW) | 3:09 |
 | 90 | [Nowhere](https://open.spotify.com/track/3iKmFRb80BCvLHqRsxFdJc) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Nowhere](https://open.spotify.com/album/4FoR1PgHPljHSkVrGDc5aG) | 2:45 |
 | 91 | [Als de Wereld Vergaat](https://open.spotify.com/track/6WOwRrbzkpzI2TifSSoUwv) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Als De Wereld Vergaat](https://open.spotify.com/album/1HQM6sarrC9oOAqg494znU) | 2:26 |
 | 92 | [Pas Nu Ik Ons Ken](https://open.spotify.com/track/3ArIRZp6Hc5yhhHWEAgCDD) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Pas Nu Ik Ons Ken](https://open.spotify.com/album/3NOQNnOJcm9Sg1klAGbBNI) | 3:20 |
 | 93 | [Moving Into Tucson](https://open.spotify.com/track/5xdHN0dVW9PLxaiqpDSCFK) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Moving Into Tucson](https://open.spotify.com/album/6f3kMkSt9E24Ai203Hehse) | 3:27 |
 | 94 | [Happy](https://open.spotify.com/track/6yFrsXnPJYWNyWiCrwRh9k) | [The Sunset Society](https://open.spotify.com/artist/1ZXfQxTLk25XK3ePd8EwtU) | [Songs Of Love](https://open.spotify.com/album/4WfaALP600ins6emi4SM6f) | 1:52 |
 
-Snapshot ID: `MCw0NDU1NjJiOTk0NGNkNjA0MDM2YWFkYjk0YzM2NTgzYTllYzNhYWZk`
+Snapshot ID: `MCwxMTExMWI0NjU2ODI2Njg0MWNiNTM3NzRhOWZkNWRkMTA3MjgxZDUx`

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127240,
+  "num_followers": 127244,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMzNCw4MTc4ODIwNmFiZjExNGQ5NjBjMDZmYTE1ODljYTNhMzU4NDU5NDJk",
+  "snapshot_id": "NDMzNixkYzIyOGZlODA4MDAyYTg1MzZjZjJjNjc0M2IyODI4NjVkZWM3NzU2",
   "tracks": [
+    {
+      "added_at": "2023-08-01 20:58:23",
+      "album": {
+        "name": "NO FEAR",
+        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "NO FEAR",
+      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+    },
     {
       "added_at": "2023-07-31 18:57:42",
       "album": {
@@ -1127,22 +1151,6 @@
       "duration_ms": 227368,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc"
-    },
-    {
-      "added_at": "2023-05-08 16:13:12",
-      "album": {
-        "name": "In Loving Memories",
-        "url": "https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR"
-      },
-      "artists": [
-        {
-          "name": "Finding Mero",
-          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "In Loving Memories",
-      "url": "https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

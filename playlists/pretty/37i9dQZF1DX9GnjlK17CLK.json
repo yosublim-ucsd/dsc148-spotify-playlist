@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 106274,
+  "num_followers": 106385,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjQ2ZGM4NThhMzcyNmE5NjgzYmM2M2I3OWVkOGVlZTZiY2E4Mzll",
+  "snapshot_id": "MCxlYmFlYmFhYTFkNzIwMzYwMjg4OTNjN2JkODQyODVlMTAxYTNmMTY3",
   "tracks": [
     {
       "added_at": "2023-06-16 14:13:18",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Steamroller Blues (Live at The Honolulu International Center, Hawaii January 14, 1973)",
-        "url": "https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 193309,
-      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
-      "url": "https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
+        "name": "Steamroller Blues (Live at The Honolulu International Center, Hawaii January 14, 1973)",
+        "url": "https://open.spotify.com/album/0QTDdv8kqsYqV11eYutEgs"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 193309,
+      "name": "Steamroller Blues - Live at The Honolulu International Center, Hawaii January 14, 1973",
+      "url": "https://open.spotify.com/track/3uidPerAr5q3o0b3OBu0rb"
     },
     {
       "added_at": "2023-06-16 14:13:18",

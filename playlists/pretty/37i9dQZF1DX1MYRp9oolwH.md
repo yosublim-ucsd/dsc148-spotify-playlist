@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,024 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,176 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kushi Title Song \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/3Trl1pPBlTQfzWvHDlTvfR) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Kushi Title Song \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/6FJ7RPoVzmPFp4QN6pGONQ) | 3:30 |
+| 1 | [Kushi Title Song \(From "Kushi"\)](https://open.spotify.com/track/1SuFZNCwocZu6lIp40GPmv) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Shiva Nirvana](https://open.spotify.com/artist/1gajAFPKcgGySskFCZ7qQD) | [Kushi Title Song \(From "Kushi"\)](https://open.spotify.com/album/0v4KjnCMa3ZURbn9qJ0W8o) | 3:30 |
 | 2 | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amrish](https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj) | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/album/2fdBGU2kwItuRq2OweJrBi) | 3:19 |
-| 3 | [Nee Jathai \(From "Gandeevadhari Arjuna"\)](https://open.spotify.com/track/0ry4f3o6KJepgV4h0Gk0uU) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Nee Jathai \(From "Gandeevadhari Arjuna"\)](https://open.spotify.com/album/5ltlurSDn7vHYxW38jpZQX) | 3:54 |
+| 3 | [Nee Jathai \(From "Gandeevadhari Arjuna"\)](https://open.spotify.com/track/3CC7x1y5qV0cIDxnn4F5wA) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Elvya](https://open.spotify.com/artist/0j6orYEm2h3LKSGHDOL5gk), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Rehman](https://open.spotify.com/artist/6rcVCXZM8jdsftTbGBSec9) | [Nee Jathai \(From "Gandeevadhari Arjuna"\)](https://open.spotify.com/album/5CqD2pdZcAFtTkP2NqIWUU) | 3:54 |
 | 4 | [Milky Beauty](https://open.spotify.com/track/0FM8wzHhV64mwrDdEEuGdG) | [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Sanjana Kalmanje](https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Bholaa Shankar](https://open.spotify.com/album/5U5PEnuwaXr8ffWWmydl5X) | 3:33 |
 | 5 | [Jaanavule \(From "BRO"\)](https://open.spotify.com/track/70eTEktxIj0zLoJtgmouik) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Jaanavule \(From "BRO"\)](https://open.spotify.com/album/7p8Cy3FZqb3ufyETDQkBOg) | 3:44 |
 | 6 | [Chanuvuga Chusina \(From "Peddha Kapu \- 1"\)](https://open.spotify.com/track/1YNYLzGKSezeI7U1cyTmPN) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Tripuraneni Kalyanachakravarthy](https://open.spotify.com/artist/3QU7NHOvtC18LUDZAzxcuh), [Chaitra Ambadipudi](https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Chanuvuga Chusina \(From "Peddha Kapu \- 1"\)](https://open.spotify.com/album/39Z2qLJpswMem7z0BnYIsw) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Maaye Maaye](https://open.spotify.com/track/5SNRhelbiJfu3aKYho9i4V) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Nenu Student Sir](https://open.spotify.com/album/0jEEf15OT7CRttOqDkt2MD) | 3:38 |
 | 50 | [Ee Vela \(From "Raa Raa Penimiti"\)](https://open.spotify.com/track/3tKo5EmcMW9BzgwaHceHHc) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Ee Vela \(From "Raa Raa Penimiti"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7BXUPQfH5Ca1SsaG6r59dD) | 4:10 |
 
-Snapshot ID: `MCw0MWZmNjUzZmVhZmE5MTA3MjA3NTE1YjRjOGQ5MzViM2E5MzFhOGEz`
+Snapshot ID: `MCxiNDMzMmNhMDUwOWFlM2UyZGUyZjYxNzMyYjY4YzkxYWRkZDRjNDVi`

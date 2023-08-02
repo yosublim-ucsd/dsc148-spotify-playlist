@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 28409,
+  "num_followers": 28427,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5",
+  "snapshot_id": "MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -31,26 +31,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "King Of My Castle",
-        "url": "https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365"
-      },
-      "artists": [
-        {
-          "name": "Wamdue Project",
-          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
-        },
-        {
-          "name": "Roy Malone",
-          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
-        }
-      ],
-      "duration_ms": 298105,
-      "name": "King Of My Castle - Roy Malone's King Mix",
-      "url": "https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "I Like To Move It (feat. The Mad Stuntman)",
         "url": "https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 352545,
       "name": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Club Mix",
       "url": "https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "King Of My Castle",
+        "url": "https://open.spotify.com/album/76dgPMKh0jMhFDbWeNF365"
+      },
+      "artists": [
+        {
+          "name": "Wamdue Project",
+          "url": "https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm"
+        },
+        {
+          "name": "Roy Malone",
+          "url": "https://open.spotify.com/artist/0Mry1TcXvK97hkYf7F74zn"
+        }
+      ],
+      "duration_ms": 298105,
+      "name": "King Of My Castle - Roy Malone's King Mix",
+      "url": "https://open.spotify.com/track/4XZwpHpscrMkbpQPqjnwRJ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -371,26 +371,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Armand Van Helden EP",
-        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
-        }
-      ],
-      "duration_ms": 445026,
-      "name": "Witch Doktor - Eddie Thoneick Remix",
-      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 368466,
       "name": "Equinox - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Armand Van Helden EP",
+        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
+      },
+      "artists": [
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
+        }
+      ],
+      "duration_ms": 445026,
+      "name": "Witch Doktor - Eddie Thoneick Remix",
+      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise From Your Grave",
-        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave - Wake Da Fuck Up Mix",
-      "url": "https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Thang",
         "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You (Remixes)",
-        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+        "name": "Rise From Your Grave",
+        "url": "https://open.spotify.com/album/6exgN10NgqEqQkn893XG2e"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
         }
       ],
-      "duration_ms": 377093,
-      "name": "Blues For You - Vocal Mix #1",
-      "url": "https://open.spotify.com/track/11EJ4xP1gVMfVBLGrdvkF0"
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave - Wake Da Fuck Up Mix",
+      "url": "https://open.spotify.com/track/0oXxA5HHIVWNv06JarsSND"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -519,6 +503,22 @@
       "duration_ms": 595093,
       "name": "Witch Doktor - The Dark Ages Mix",
       "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Blues for You (Remixes)",
+        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Blues For You - Vocal Mix #1",
+      "url": "https://open.spotify.com/track/11EJ4xP1gVMfVBLGrdvkF0"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -631,38 +631,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Warning (Remixes)",
-        "url": "https://open.spotify.com/album/00Xqdmf1iSOAiiaiTUfCXQ"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "The Warning - 2 Copy Mix",
-      "url": "https://open.spotify.com/track/6rBhOQ7739vfGRDFGuc8mj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Hardrive",
         "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
@@ -683,6 +651,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "So Deep, So Good",
         "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 456240,
       "name": "So Deep, So Good - Ndako Gboya Mix",
       "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Warning (Remixes)",
+        "url": "https://open.spotify.com/album/00Xqdmf1iSOAiiaiTUfCXQ"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "The Warning - 2 Copy Mix",
+      "url": "https://open.spotify.com/track/6rBhOQ7739vfGRDFGuc8mj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Boom / I Need Your Love",
-        "url": "https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8"
-      },
-      "artists": [
-        {
-          "name": "House 2 House",
-          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
-        }
-      ],
-      "duration_ms": 358573,
-      "name": "Boom - Radio Mix",
-      "url": "https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Carnival 93",
         "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 374946,
       "name": "Carnival 93 - The Mardi Gras Mix",
       "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Boom / I Need Your Love",
+        "url": "https://open.spotify.com/album/0BWUAbShTEdJTLS6ItN1G8"
+      },
+      "artists": [
+        {
+          "name": "House 2 House",
+          "url": "https://open.spotify.com/artist/70iQImFp3CMD1MXnDvmAIz"
+        }
+      ],
+      "duration_ms": 358573,
+      "name": "Boom - Radio Mix",
+      "url": "https://open.spotify.com/track/4q7MvQw4TISBAW2UHsMs7W"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -859,18 +859,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
+          "name": "Rageous",
+          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
+        },
+        {
+          "name": "Franklin Fuentes",
+          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
         }
       ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+      "duration_ms": 471692,
+      "name": "Tyler Moore Mary",
+      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,22 +895,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
       "artists": [
         {
-          "name": "Rageous",
-          "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
-        },
-        {
-          "name": "Franklin Fuentes",
-          "url": "https://open.spotify.com/artist/0lzpqEG0Oz0WOC8WrFseZG"
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
         }
       ],
-      "duration_ms": 471692,
-      "name": "Tyler Moore Mary",
-      "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "This Way / Boy",
-        "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
-      },
-      "artists": [
-        {
-          "name": "K.E.L.S.E.Y.",
-          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
-        }
-      ],
-      "duration_ms": 428760,
-      "name": "Boy - MK Deep Dub",
-      "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 341200,
       "name": "Jump & Sing - Hard Metro Mix",
       "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "This Way / Boy",
+        "url": "https://open.spotify.com/album/2O0Of8TEl3Ja05ULJYEuW2"
+      },
+      "artists": [
+        {
+          "name": "K.E.L.S.E.Y.",
+          "url": "https://open.spotify.com/artist/11btsNEPXk8mSbbeKx7Y64"
+        }
+      ],
+      "duration_ms": 428760,
+      "name": "Boy - MK Deep Dub",
+      "url": "https://open.spotify.com/track/0LKLD3Ha9NmM3lPoF2yPj0"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        }
-      ],
-      "duration_ms": 427132,
-      "name": "Hey! - The Rhythm Hype Mix",
-      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        }
+      ],
+      "duration_ms": 427132,
+      "name": "Hey! - The Rhythm Hype Mix",
+      "url": "https://open.spotify.com/track/1iaEun88QJb6k3MCe3PKve"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Straight from the Bario EP",
         "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
@@ -1135,26 +1135,6 @@
       "duration_ms": 372800,
       "name": "The Bombero Remix 96",
       "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
-      },
-      "artists": [
-        {
-          "name": "Joey Washington",
-          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
-        },
-        {
-          "name": "The Men's Club",
-          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Just Us - B.O.P. Radio Joint",
-      "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1191,6 +1171,26 @@
       "duration_ms": 220080,
       "name": "Generate Power (feat. Paula Brion) - Radio Mix",
       "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
+      },
+      "artists": [
+        {
+          "name": "Joey Washington",
+          "url": "https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ"
+        },
+        {
+          "name": "The Men's Club",
+          "url": "https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6"
+        }
+      ],
+      "duration_ms": 227173,
+      "name": "Just Us - B.O.P. Radio Joint",
+      "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",

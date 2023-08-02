@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 758932,
+  "num_followers": 759001,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWFlZThlNTIzZjFkZDI1MmUwYzZhZmQ2NjQxMWQ1YmYyNjc0MjQ0",
+  "snapshot_id": "MCxjNmQ2NDAyMDgyNjE5ZThjZmQxY2QxMjY4YjQ3MWQ0NjgwNTQxYTY5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -979,6 +979,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
@@ -999,22 +1019,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 197832,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "feel something real",
         "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
       },
@@ -1027,6 +1031,22 @@
       "duration_ms": 208676,
       "name": "feel something real",
       "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1063,6 +1083,22 @@
       "duration_ms": 197386,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
+    },
+    {
+      "added_at": "2023-07-28 11:23:43",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 192834,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1107,26 +1143,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "AUTOPILOT",
         "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
       },
@@ -1139,6 +1155,26 @@
       "duration_ms": 194050,
       "name": "SUB ZERO",
       "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Microworlds",
+        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 209341,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1159,22 +1195,6 @@
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
-    },
-    {
-      "added_at": "2023-07-28 11:23:43",
-      "album": {
-        "name": "How High",
-        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 192834,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1219,26 +1239,6 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Microworlds",
-        "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
-        }
-      ],
-      "duration_ms": 209341,
-      "name": "Glow In The Dark",
-      "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Decision",
-        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 262682,
-      "name": "Decision",
-      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "BACK ONLINE",
         "url": "https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Decision",
+        "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 262682,
+      "name": "Decision",
+      "url": "https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        }
-      ],
-      "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 230400,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 218581,
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
+      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Frances",
-          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Overcome (feat. Frances)",
-      "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Overcome (feat. Frances)",
+      "url": "https://open.spotify.com/track/7nCkmSULSB9Ia5UC2NC7S5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "RUNN",
-          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
       },
@@ -1887,18 +1867,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "A Mere Blip In Your Timeline",
-        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n"
       },
       "artists": [
         {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 206390,
-      "name": "A Mere Blip In Your Timeline",
-      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
+      "duration_ms": 190285,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1919,6 +1903,22 @@
       "duration_ms": 220869,
       "name": "Fool",
       "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "A Mere Blip In Your Timeline",
+        "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
+      },
+      "artists": [
+        {
+          "name": "OBLVYN",
+          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
+        }
+      ],
+      "duration_ms": 206390,
+      "name": "A Mere Blip In Your Timeline",
+      "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1963,22 +1963,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Loner (Remixes)",
-        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
         }
       ],
-      "duration_ms": 170095,
-      "name": "Forever - Pauline Herr Rework",
-      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
+      "duration_ms": 92307,
+      "name": "And then it came together",
+      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2007,18 +2003,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+        "name": "Loner (Remixes)",
+        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
         }
       ],
-      "duration_ms": 92307,
-      "name": "And then it came together",
-      "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
+      "duration_ms": 170095,
+      "name": "Forever - Pauline Herr Rework",
+      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
-      },
-      "artists": [
-        {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
-        }
-      ],
-      "duration_ms": 183445,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Fuck Right Off",
         "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 159252,
       "name": "Fuck Right Off",
       "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "duration_ms": 183445,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2199,6 +2199,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "THIS IS THE END.",
+        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
+      },
+      "artists": [
+        {
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
+        },
+        {
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "THIS IS THE END.",
+      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "DOWN TO EARTH",
         "url": "https://open.spotify.com/album/7b17kpTR2gJGfsuMUicZrh"
       },
@@ -2247,26 +2267,6 @@
       "duration_ms": 217500,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/1pHssnGn5rQjUSM5Esrz99"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "THIS IS THE END.",
-        "url": "https://open.spotify.com/album/4HT9o2Bh2GfsQgA2MX1ml1"
-      },
-      "artists": [
-        {
-          "name": "bear bear & friends",
-          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
-        },
-        {
-          "name": "Gill Chang",
-          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "THIS IS THE END.",
-      "url": "https://open.spotify.com/track/3c727sTs0LEbcIvLbGijTo"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "kinder opposites",
-        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 96004,
-      "name": "catalyst",
-      "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "JIYO",
         "url": "https://open.spotify.com/album/3J5KcU7pzOFvTvGn9JQTgD"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 247619,
       "name": "JIYO",
       "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "kinder opposites",
+        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 96004,
+      "name": "catalyst",
+      "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
     }
   ],
   "unique_name": "creamy",

@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-333 songs - 14 hr 24 min
+339 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [22](https://open.spotify.com/track/5S1bPj1rsbiUScS5kxdQfB) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/1zen2IxXy7OYgH8EWKKCbC) | 3:27 | 2023-02-21 |  |
 | [22](https://open.spotify.com/track/6mz8JRgQtisMv1x65BIrQg) | [Barabás Lőrinc](https://open.spotify.com/artist/0v55iDyhmDRG129So8PjZ2) | [22](https://open.spotify.com/album/7EHxGA5N2Mnm0crgbST5qU) | 3:27 | 2022-12-22 | 2023-02-24 |
 | [A Breath / A Pause](https://open.spotify.com/track/6gX8Q0RJqwTAB8QEQpdYMq) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [A Breath / A Pause](https://open.spotify.com/album/6DLkkeKQ1e3dKsIWUvzblY) | 2:00 | 2022-04-14 | 2022-05-27 |
+| [A Dead Sea's Ripples](https://open.spotify.com/track/2cRAkZZruWU1FfeEi2dCez) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Dead Sea's Ripples](https://open.spotify.com/album/1RkYa0eVp8mBZCCLAQpbtx) | 3:00 | 2023-08-01 |  |
 | [A Doubtful Certainty](https://open.spotify.com/track/1bCcKaGOJn18gVkbCSjoxY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [A Doubtful Certainty](https://open.spotify.com/album/73dfjyA1yfmiSvfSpWx43J) | 2:40 | 2022-04-14 | 2022-05-05 |
 | [A Fraction Of Time](https://open.spotify.com/track/2Jo7Yt5gcwtnBXMuylLH3c) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Fraction Of Time](https://open.spotify.com/album/2kBh0yDsnb1cUsX6835lgz) | 2:43 | 2022-05-13 |  |
 | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I) | [Aramis Silvereke](https://open.spotify.com/artist/11efnmWuN6PImMPmQjAfKq) | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/album/0ZwZThQ3XiWXWNw8xF06hF) | 4:00 | 2022-05-04 |  |
@@ -50,6 +51,7 @@
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-18 |  |
 | [Blue Light](https://open.spotify.com/track/7dquOWRPNWnUT5i4R0mP90) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [Blue Light](https://open.spotify.com/album/7LcAKBxLzrACoefQrTLUQ1) | 2:14 | 2022-05-26 |  |
 | [Breathe](https://open.spotify.com/track/3gtL7UMzcc54SjrOT0ZZE4) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Breathe / Debris](https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH) | 2:30 | 2022-04-14 | 2022-05-14 |
+| [Bringing Us Closer](https://open.spotify.com/track/407EfKCYlIForjXcRROQlv) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Bringing Us Closer](https://open.spotify.com/album/4H1jcyemjRrTrONqXXKy4b) | 1:59 | 2023-08-01 |  |
 | [Candice](https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Candice](https://open.spotify.com/album/4dAIB4LbNy3LCupWfH8oxD) | 3:34 | 2022-04-14 | 2022-06-08 |
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2022-10-26 |  |
 | [Caprices](https://open.spotify.com/track/4K3o0HPO3OaGKWpR5h16J7) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Caprices](https://open.spotify.com/album/7rgQ2DAqWGBUWs1fCn4ZNd) | 2:10 | 2022-08-30 |  |
@@ -72,6 +74,7 @@
 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 | 2022-04-14 |  |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-14 |  |
 | [Deep Blue](https://open.spotify.com/track/138hYSG5oyEk6NwpY9VYrB) | [John Lenehan](https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9) | [Deep Blue](https://open.spotify.com/album/3K49baBBJqPvxj5u5WtfuW) | 2:14 | 2023-07-18 |  |
+| [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [des nuages doux](https://open.spotify.com/track/1OtnwDBOu74UPEJ8jdR7Pb) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [des nuages doux](https://open.spotify.com/album/5ZMf2hvC7plOhNiDRuqrbm) | 1:51 | 2023-01-20 |  |
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-03 |  |
 | [die letzten Schritte](https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [der Saibling](https://open.spotify.com/album/5qhOBNNRy0I0dcZ426mosd) | 2:42 | 2022-04-14 | 2022-07-16 |
@@ -112,6 +115,7 @@
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-14 | 2022-05-05 |
 | [Fýsi](https://open.spotify.com/track/0zYyu43x5caXk8EbIVGdqU) | [Thalis](https://open.spotify.com/artist/7yHGLV2Dy9w1FYG6RqTzp7) | [Fýsi](https://open.spotify.com/album/12ccCzAaV8mc4V8heoPnw1) | 2:18 | 2022-05-13 |  |
 | [Girandel](https://open.spotify.com/track/4MMelETKhj2Da5bw2jgGe8) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Charleston](https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG) | 2:22 | 2023-01-20 |  |
+| [Give and Take](https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM) | [Otto Mitch](https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP) | [Give and Take](https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68) | 2:14 | 2023-08-01 |  |
 | [Gone](https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Gone](https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr) | 1:54 | 2022-04-14 |  |
 | [Goodnight Moon](https://open.spotify.com/track/05YZGty7GN6MftfPu3vWiI) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Goodnight Moon](https://open.spotify.com/album/4v823p6Ws27vZ6IxpjwIQu) | 3:14 | 2022-04-14 |  |
 | [Hansa](https://open.spotify.com/track/71WIo1goJLTt41X5CuxxOd) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Hansa](https://open.spotify.com/album/1jyTlVuLLPVtmCYGXfBsj7) | 2:43 | 2022-04-14 |  |
@@ -131,6 +135,7 @@
 | [I know you're there](https://open.spotify.com/track/5WGYWJw11o7urLQDU6p3Pg) | [Gilbert Domoréz](https://open.spotify.com/artist/4TsUPA5s9MvAtgV36Z010L) | [I know you're there](https://open.spotify.com/album/3vj1cRZYbmzcVVojFyPOUM) | 3:01 | 2022-10-26 | 2023-04-19 |
 | [If Ever](https://open.spotify.com/track/0x9aJ6eA0Z6MVlOkPp9VYI) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [If Ever](https://open.spotify.com/album/0xr4S9M4CkfFgnvsiMUHpM) | 2:55 | 2022-04-14 |  |
 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 | 2022-04-14 |  |
+| [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 | 2023-08-01 |  |
 | [Imagery Noir](https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Imagery Noir](https://open.spotify.com/album/1AuorWIwxQ0oM0S3G4skZG) | 2:39 | 2022-04-14 | 2022-05-27 |
 | [Imbre \(Piano\)](https://open.spotify.com/track/2Jtgjd0oxZyDuaX08dwR55) | [Jordan Critz](https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC) | [Novella](https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP) | 3:50 | 2022-04-14 |  |
 | [Immersion](https://open.spotify.com/track/2n07NKEPbQ1ABTvhTGJcYj) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Immersion](https://open.spotify.com/album/2PitqdH877qhO9IIpPrKXi) | 2:24 | 2022-04-14 |  |
@@ -321,6 +326,7 @@
 | [Van Gogh](https://open.spotify.com/track/7x8jYPX2xdHnm3m8Qke81u) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Van Gogh](https://open.spotify.com/album/5q7aRBlunda6oUEoq5fqQ3) | 3:06 | 2022-04-14 | 2022-09-15 |
 | [Ved](https://open.spotify.com/track/75XNNOrKVTwJ1lEGbE1a8q) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [Ved](https://open.spotify.com/album/0d3FPiEWqaJoxUaJgSSvNg) | 2:17 | 2023-02-21 |  |
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-04-14 | 2022-12-24 |
+| [Vesper](https://open.spotify.com/track/7zYqURwLi01h7Mmel4fefz) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Vesper](https://open.spotify.com/album/7edDr2rApL4jzZ7gusqSjX) | 2:12 | 2023-08-01 |  |
 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 | 2023-06-20 |  |
 | [Vigilance](https://open.spotify.com/track/5ezssE7jFdCzJOJAedPhEN) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Vigilance](https://open.spotify.com/album/7eyB39siSce7Rld9UZqL0O) | 2:06 | 2022-04-14 | 2022-05-27 |
 | [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2022-04-14 | 2022-07-29 |

@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 117408,
       "name": "paranoia",
       "url": "https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6"
@@ -1398,6 +1398,24 @@
       "duration_ms": 117408,
       "name": "paranoia",
       "url": "https://open.spotify.com/track/5Ee2dAQGDJz6GSdoF7kKa3"
+    },
+    {
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6Pkn2tyIQg1n3JiGIs2cKk"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/6WuAOBXtUThe0QPiggQvqV"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Drill scenes connect. Cover: Tion Wayne",
-  "num_followers": 146011,
+  "num_followers": 146047,
   "original_name": "City to City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTAzMmNlOThiY2IyODE3YWNkMDUxMjg4MGI4MzAwMmUzNGU0MDU0",
+  "snapshot_id": "MCwwYTRmYTIxY2NiMzI5NjYzYTg4ZTc3YjM5MzRiNTE1ZWRkZTIxZjYx",
   "tracks": [
     {
       "added_at": "2023-07-21 14:33:41",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-07-21 14:33:41",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
+        "name": "Growth & Development",
+        "url": "https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id"
       },
       "artists": [
         {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
+      "duration_ms": 190746,
+      "name": "Suburban, Pt. 2",
+      "url": "https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI"
     },
     {
       "added_at": "2023-07-21 14:33:41",
@@ -659,18 +655,22 @@
     {
       "added_at": "2023-07-21 14:33:41",
       "album": {
-        "name": "Growth & Development",
-        "url": "https://open.spotify.com/album/2toa1qSFYevlVwt9LOG5id"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
       },
       "artists": [
         {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        },
+        {
+          "name": "Tion Wayne",
+          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Suburban, Pt. 2",
-      "url": "https://open.spotify.com/track/7rWLqeQJabrK7FbY8X0TyI"
+      "duration_ms": 183829,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/3CVb6hkMrlF7eHhXi5B3PZ"
     },
     {
       "added_at": "2023-07-21 14:33:41",

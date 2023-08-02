@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-92 songs - 6 hr 35 min
+94 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [I Don't Care](https://open.spotify.com/track/0kTQg6X1szFsmpIR4g2afq) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [I Don't Care](https://open.spotify.com/album/0CySJAOAlPq1rbFrh1VcME) | 4:59 | 2022-12-09 |  |
 | [I Don't Care Wot U Say](https://open.spotify.com/track/2UrS8i3MWFFRcxVoTX835R) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Shelflife 8](https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3) | 5:36 | 2023-07-21 |  |
 | [I'll Be There](https://open.spotify.com/track/2kphJV5Rpi7iCjJTlQEdod) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [I'll Be There](https://open.spotify.com/album/0EaxICyiFSuU2HPVv1QRFP) | 4:49 | 2022-12-09 |  |
-| [Ill Vibe](https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre) | 4:28 | 2022-12-09 |  |
+| [Ill Vibe](https://open.spotify.com/track/1gRE5q4XmrVtt42cF2VkIg) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/2iIVZsS8USgB8QNvHWNwth) | 4:28 | 2023-07-21 |  |
+| [Ill Vibe](https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre) | 4:28 | 2022-12-09 | 2023-08-02 |
 | [Jazz Tone](https://open.spotify.com/track/0mCTA8JPToKZ4fXn75kIiD) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg) | [Jazz Tone](https://open.spotify.com/album/4LHeAyYBE49kgZJe2sYjw6) | 4:03 | 2022-12-09 | 2023-07-22 |
 | [Junglist](https://open.spotify.com/track/1sap7FwEuCQqFv3bOpnh6A) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Peter Bouncer](https://open.spotify.com/artist/1Bbk2KnbOQycR2QCUoNhp1) | [This Is Jungle](https://open.spotify.com/album/7pLhXTs8TacjaFIdh9XJct) | 6:08 | 2022-12-09 |  |
 | [Keepin It Raw \- Calyx & Teebee Remix](https://open.spotify.com/track/7mOAczJuAKDBSiHNTNW5Q5) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Calyx & TeeBee](https://open.spotify.com/artist/5AXHArSOd9lplw0Y5Qt5Eg) | [Keepin It Raw \(Calyx & Teebee Remix\)](https://open.spotify.com/album/4GyIgfQbUF8iYQ0L6ITZgx) | 4:10 | 2022-12-09 | 2023-07-22 |
@@ -99,6 +100,7 @@
 | [Wa Dadda Deng](https://open.spotify.com/track/45YHlPYJuTXJJJALMS6HeD) | [Potential Badboy](https://open.spotify.com/artist/3tgRH8lQ25Totz9QkeyC3n), [Uncle Nuts](https://open.spotify.com/artist/3atHmdi4sYlgyjZu5Alxqj) | [Wa Dadda Deng](https://open.spotify.com/album/38Qfhynen6d7Vuk2j2pkVW) | 3:20 | 2022-12-09 |  |
 | [Wait for You](https://open.spotify.com/track/349dbUh4GYHnmnubRwWsVJ) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:38 | 2023-07-21 |  |
 | [We Got It \- S.P.Y Remix](https://open.spotify.com/track/1Iuo5rSPfXDVKxCyl2ePbW) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr), [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [We Got It](https://open.spotify.com/album/1VBPJ2FXlBgEVwgiT6ixfi) | 4:57 | 2022-12-09 | 2023-07-22 |
-| [Yagga Yagga](https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y) | 4:17 | 2023-07-21 |  |
+| [Yagga Yagga](https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5cQjxfc0PLl9FZ6g8blq8A) | 4:17 | 2023-07-21 |  |
+| [Yagga Yagga](https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y) | 4:17 | 2023-07-21 | 2023-08-02 |
 
 \*This playlist was first scraped on 2022-12-13. Prior content cannot be recovered.

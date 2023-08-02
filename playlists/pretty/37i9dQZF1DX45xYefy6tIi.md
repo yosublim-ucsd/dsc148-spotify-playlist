@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > ESPN is turning up the heat this season as the Rockstars of Racing embark on a world tour\. Listen to the drivers favorite tracks here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,910 likes - 33 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,880 likes - 33 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 14 | [Real American](https://open.spotify.com/track/1KKFrs4CkKQvqP1DWHwJ9y) | [Rick Derringer](https://open.spotify.com/artist/1FX4aA0cUcWndv39j1YoTm) | [Playlist: The Very Best of Rick Derringer](https://open.spotify.com/album/2yOnfiWv9cURADejGnVGNZ) | 3:21 |
 | 15 | [爱如潮水](https://open.spotify.com/track/52bxew0vkS3xED0cvkfemM) | [GAI](https://open.spotify.com/artist/2mJ25zZes7P6Qkp1fshXKz) | [爱如潮水](https://open.spotify.com/album/62YTNmY7S5Ts8VW8qwyX6F) | 3:46 |
 | 16 | [烈火战马](https://open.spotify.com/track/3mDFWR3Fi9YgempmkrchUK) | [GAI](https://open.spotify.com/artist/2mJ25zZes7P6Qkp1fshXKz) | [烻](https://open.spotify.com/album/7D0hiBSjg3GyZPDvhKsjwT) | 3:09 |
-| 17 | [永不獨行](https://open.spotify.com/track/6yTcc13v7rR5QZe0EV5YTX) | [GAI](https://open.spotify.com/artist/2mJ25zZes7P6Qkp1fshXKz), [艾熱AIR](https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0) | [永不獨行](https://open.spotify.com/album/1ja7W7NwYQxSQNzdBqXtT3) | 2:51 |
+| 17 | [永不獨行](https://open.spotify.com/track/6yTcc13v7rR5QZe0EV5YTX) | [GAI周延](https://open.spotify.com/artist/37EUUUGKMLP6KSKrN9q39m), [艾熱AIR](https://open.spotify.com/artist/6G94zxdItl2GgmKVfoAGI0) | [永不獨行](https://open.spotify.com/album/1ja7W7NwYQxSQNzdBqXtT3) | 2:51 |
 | 18 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 19 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
 | 20 | [Sacrifice](https://open.spotify.com/track/00gscXjMt09aOxodmaDeR4) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 3:08 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 | 32 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 33 | [Homecoming](https://open.spotify.com/track/2BcbpKOj2vvG7GHXv6vKqN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/4WNXpeZR1jc2NFgOAeyLMB) | 3:24 |
 
-Snapshot ID: `MCxkZTAyNjA5OTExNmUxNjdmZTE3YzcxZmY1ZTZlZTk1Y2NlOTc2NmFh`
+Snapshot ID: `MCxiMDA2NWJlNGZlMGJmZjI4ZjJiZTM4NDhjNzc5NzI1NzZmNDM4ZmJi`

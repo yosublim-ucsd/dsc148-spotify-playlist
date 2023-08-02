@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-258 songs - 11 hr 25 min
+260 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Black Out Days \- Future Islands Remix](https://open.spotify.com/track/3kxkjirben9RVm9NqYa6rm) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Black Out Days \(Future Islands Remix\)](https://open.spotify.com/album/0IzpAGRpjLqIQLt4FvmW7m) | 4:08 | 2023-06-12 |  |
 | [BLEACH](https://open.spotify.com/track/2qjDHIVrDRqHQRL5EU3qq2) | [SXRPENT](https://open.spotify.com/artist/4B2rGiffJ3wU73LhUMRESe) | [BLEACH](https://open.spotify.com/album/7yJxGx1cQJcmMTYcA0TrTQ) | 1:28 | 2023-06-26 | 2023-07-11 |
 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 | 2023-06-12 |  |
+| [BORED \(Ariis Remix\)](https://open.spotify.com/track/5qF4F8c0DR6zDHwlwf7Hn2) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [BORED \(Remixes\)](https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1) | 2:26 | 2023-08-01 |  |
 | [BOTTLE GIRLS](https://open.spotify.com/track/4jirICc13ByksD5gnekVET) | [Hd4president](https://open.spotify.com/artist/1IRUBjX6bQWnwupD48ZRgc), [Ku$h Drifter](https://open.spotify.com/artist/17PKqjvXIlUPIx2TrwnVnb) | [BOTTLE GIRLS](https://open.spotify.com/album/73pb1XS2sIfO94mva5OZro) | 1:24 | 2023-06-12 |  |
 | [BRAZILIAN DANÇA PHONK \- Remix](https://open.spotify.com/track/5JkhaJ8e1umEpQge45tY6T) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [BRAZILIAN DANÇA PHONK \(Remix\)](https://open.spotify.com/album/1qX7bDm1hoLowjhHdkSRfs) | 1:18 | 2023-07-22 |  |
 | [Brazilian Phonk Mano](https://open.spotify.com/track/5l5KiiYcmR8kbHsg18VfqK) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/5pWDJaRKvFnwpPO1NXXw8a) | 1:24 | 2023-06-12 |  |
@@ -169,6 +170,7 @@
 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 | 2023-06-12 |  |
 | [PARALLAX](https://open.spotify.com/track/2C9PO9JCj3phRCPAJjTV1j) | [bckrøøm$](https://open.spotify.com/artist/5umOc7U00gyTlobZXuQe0o) | [PARALLAX](https://open.spotify.com/album/2hajDZQmywBqWRYeUT50q6) | 2:48 | 2023-06-12 | 2023-07-21 |
 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 | 2023-06-12 |  |
+| [PHANTASM](https://open.spotify.com/track/1HWrWjd92Fd6V4o2VGkvhQ) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB) | [PHANTASM](https://open.spotify.com/album/5c11x6i2g58ilcmZp7wdU7) | 2:51 | 2023-08-01 |  |
 | [PHONK DA FAVELA](https://open.spotify.com/track/50S50LytHPrWpEBjxK22Of) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [PHONK DA FAVELA](https://open.spotify.com/album/2ysA7pw5gIH0GVZauYZB1N) | 2:26 | 2023-06-12 |  |
 | [PHONK DA FAVELADA](https://open.spotify.com/track/18qzn4XoVwC5lnwv1EBpxX) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PHONK DE FAVELADA](https://open.spotify.com/album/6o4gGogHB1Z90bM3JL6I0Z) | 2:24 | 2023-07-31 |  |
 | [Phonk Nation](https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [Phonk Nation](https://open.spotify.com/album/5DbVxuZA4K4VXkhlp23bmg) | 2:43 | 2023-06-18 | 2023-07-21 |

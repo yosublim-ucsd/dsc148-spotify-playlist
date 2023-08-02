@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2000s.
 
-116 songs - 7 hr 27 min
+117 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 | 2021-04-29 |  |
 | [Gettin' Over You \(feat\. Fergie & LMFAO\)](https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly), [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:08 | 2021-04-29 |  |
 | [Ghosts 'n' Stuff \(feat\. Rob Swire\)](https://open.spotify.com/track/3ezkJgagRPZ39KCTrKcSI7) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [For Lack of a Better Name \(The Extended Mixes\)](https://open.spotify.com/album/3eNZDL2rqTVvmiC1f0yFwF) | 5:28 | 2021-04-29 | 2023-07-30 |
+| [Ghosts 'n' Stuff \- Extended Mix](https://open.spotify.com/track/0KR5i46RXvDy8YzOZRvTAI) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rob Swire](https://open.spotify.com/artist/2SNg8nqwOHF1eZgRnL9zes) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 5:28 | 2021-04-29 |  |
 | [God Is a Girl](https://open.spotify.com/track/5LArYFxcsMkArh2RFC5dyn) | [Groove Coverage](https://open.spotify.com/artist/1yWjNh9SRE7C59A3LDIwVW) | [God Is a Girl](https://open.spotify.com/album/1yvLJHtq56YTPHbBRhcyd0) | 3:43 | 2021-04-29 |  |
 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:44 | 2021-04-29 |  |
 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 | 2021-04-29 |  |
@@ -117,7 +118,7 @@
 | [Weekend!](https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [The Stadium Techno Experience](https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R) | 3:32 | 2021-04-29 |  |
 | [Weekend!](https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [Jumping All over the World \- Whatever You Want](https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy) | 3:34 | 2021-04-29 | 2023-06-19 |
 | [Weekend!](https://open.spotify.com/track/1K68dHzsB7HLqRYBEq00pw) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years of Hardcore \(Remastered\)](https://open.spotify.com/album/3y02W7Qv7zFB85ApapWbVt) | 3:35 | 2021-04-29 | 2023-04-29 |
-| [Welcome to the Club \- Video Edit](https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN) | [Manian](https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD) | [Zoopreme Volume 01](https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897) | 3:12 | 2021-04-29 |  |
+| [Welcome to the Club \- Video Edit](https://open.spotify.com/track/7k1ec3h9VeecxLSUbnGxAN) | [Manian](https://open.spotify.com/artist/2zgkC2iqDlq3FcI2B7ChnD) | [Zoopreme Volume 01](https://open.spotify.com/album/0mEy3RBuVUwWFrx5yfM897) | 3:12 | 2021-04-29 | 2023-08-02 |
 | [What Hurts The Most](https://open.spotify.com/track/2umCb31luuHifyrJVTio5S) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:38 | 2021-04-29 | 2023-06-22 |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/77FULy278MulVvGWS8BfK7) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:11 | 2021-04-29 |  |
 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 | 2021-04-29 |  |

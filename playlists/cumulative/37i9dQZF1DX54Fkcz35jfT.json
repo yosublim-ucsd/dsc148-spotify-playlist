@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: PRAISE",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: coldrain",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 162880,
       "name": "All We Need Is Summer Day",
       "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 161416,
       "name": "Hyperhell",
       "url": "https://open.spotify.com/track/1NgQvI5UhPKnqSS2f5eQoF"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 200013,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/2R4IXQQ3DoWosEB2BrtdxF"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 250506,
       "name": "Listen",
       "url": "https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 180458,
       "name": "MEITEI EXCITE",
       "url": "https://open.spotify.com/track/5jQyTZB2Izc3NXHtut5SVE"
@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "NEW DAWN",
+        "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212745,
+      "name": "NEW DAWN",
+      "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+    },
+    {
+      "album": {
         "name": "One step forward",
         "url": "https://open.spotify.com/album/5oIQmkz2uqaHMB3vSzXmJ9"
       },
@@ -1110,6 +1128,24 @@
       "duration_ms": 185137,
       "name": "Party night in summer dream",
       "url": "https://open.spotify.com/track/02GDiKZ3QPc8vsCxQgX2Op"
+    },
+    {
+      "album": {
+        "name": "GOLD IMPRINTS",
+        "url": "https://open.spotify.com/album/4AErChQhfmBOvOpIfOldWe"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214905,
+      "name": "Pushing My Back",
+      "url": "https://open.spotify.com/track/553wRdV1xctce0VRF3WSC1"
     },
     {
       "album": {
@@ -1302,6 +1338,24 @@
       "duration_ms": 192753,
       "name": "SLAY!!",
       "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
+    },
+    {
+      "album": {
+        "name": "St.ROSALIA",
+        "url": "https://open.spotify.com/album/0YxhoTCRy9YPRHVMCFSrXv"
+      },
+      "artists": [
+        {
+          "name": "Nicotine",
+          "url": "https://open.spotify.com/artist/0p3U0uLx2oSf0yn8i5XZki"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295621,
+      "name": "St.ROSALIA",
+      "url": "https://open.spotify.com/track/4FoMGVrUBRZh7D4JDirfyE"
     },
     {
       "album": {
@@ -1821,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/09yWVpo1Ff7MOqdRXxGFO2"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201893,
+      "name": "\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5e17FZpKCvOEn5296aNvLg"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30a8\u30cb",
         "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
@@ -1998,7 +2070,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 408837,
       "name": "\u90fd\u4f1a\u306e\u68ee",
       "url": "https://open.spotify.com/track/5wd7lEHk2f95i924JiaoZM"

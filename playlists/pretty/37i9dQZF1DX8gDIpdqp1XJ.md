@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,989 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,968 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 |
 | 100 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 |
 
-Snapshot ID: `MCwxN2JiOGNiMTU5ZDlhODFkMmYzOWFkNWVmODljZTg1ZjllYjNjMmRh`
+Snapshot ID: `MCwyNWI2ODg4MjdhYzU2ZDQ3NWZjMjI0NWMzMzFkZTY3ZWVmMmIwMmJj`

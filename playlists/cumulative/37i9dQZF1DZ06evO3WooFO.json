@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
@@ -388,6 +388,24 @@
       "duration_ms": 143893,
       "name": "Dumpweed",
       "url": "https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C"
+    },
+    {
+      "album": {
+        "name": "Enema Of The State",
+        "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165373,
+      "name": "Dysentery Gary",
+      "url": "https://open.spotify.com/track/0nGBoXoR5o9srQlP0BAZ1Y"
     },
     {
       "album": {

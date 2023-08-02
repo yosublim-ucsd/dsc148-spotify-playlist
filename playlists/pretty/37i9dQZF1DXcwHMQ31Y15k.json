@@ -1,12 +1,12 @@
 {
   "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Gilga Sahid",
-  "num_followers": 143414,
+  "num_followers": 143728,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGViZWU5MGUzNGRjZTcyYzJhMDJkY2U0YmNmOTVjZTc0MzFiMmNm",
+  "snapshot_id": "MCwxM2ZjZTMxOWUxNzAzZjhjMTQ4YWFhMjgxYjhlYzdmNTI2MjJmOTA0",
   "tracks": [
     {
       "added_at": "2023-07-28 08:48:50",
@@ -71,6 +71,22 @@
       "duration_ms": 230476,
       "name": "Cidro 2",
       "url": "https://open.spotify.com/track/4aD2bXRBEjOY5zxOTtTVDt"
+    },
+    {
+      "added_at": "2023-08-01 08:27:32",
+      "album": {
+        "name": "Kisinan",
+        "url": "https://open.spotify.com/album/1gdPykbinggfyDSiAU4MWt"
+      },
+      "artists": [
+        {
+          "name": "Masdddho",
+          "url": "https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Kisinan",
+      "url": "https://open.spotify.com/track/109u6faz5ePtC558pTonCw"
     },
     {
       "added_at": "2023-07-28 08:48:50",

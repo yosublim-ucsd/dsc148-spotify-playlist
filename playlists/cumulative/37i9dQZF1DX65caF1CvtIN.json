@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Bringing Us Closer",
+        "url": "https://open.spotify.com/album/4H1jcyemjRrTrONqXXKy4b"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119352,
+      "name": "Bringing Us Closer",
+      "url": "https://open.spotify.com/track/407EfKCYlIForjXcRROQlv"
+    },
+    {
+      "album": {
         "name": "Candlelight",
         "url": "https://open.spotify.com/album/2vFW1pn1Arj2jgozPMLdy4"
       },
@@ -546,6 +564,24 @@
       "duration_ms": 186423,
       "name": "Danser sur l'eau",
       "url": "https://open.spotify.com/track/1xD8zsDs5DrdgAt5nLjld3"
+    },
+    {
+      "album": {
+        "name": "Days from Before",
+        "url": "https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH"
+      },
+      "artists": [
+        {
+          "name": "Niall Byrne",
+          "url": "https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127938,
+      "name": "Days from Before",
+      "url": "https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD"
     },
     {
       "album": {
@@ -1017,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Give and Take",
+        "url": "https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68"
+      },
+      "artists": [
+        {
+          "name": "Otto Mitch",
+          "url": "https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134571,
+      "name": "Give and Take",
+      "url": "https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM"
+    },
+    {
+      "album": {
         "name": "Glitter",
         "url": "https://open.spotify.com/album/0L8EQKHSBRT1ZjeB8bH8vX"
       },
@@ -1252,6 +1306,24 @@
       "duration_ms": 151414,
       "name": "If Only I Could Stop the Clock",
       "url": "https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA"
+    },
+    {
+      "album": {
+        "name": "Illuminate The Night",
+        "url": "https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127903,
+      "name": "Illuminate The Night",
+      "url": "https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8"
     },
     {
       "album": {

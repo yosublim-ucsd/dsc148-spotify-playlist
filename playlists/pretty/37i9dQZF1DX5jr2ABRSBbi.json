@@ -1,15 +1,15 @@
 {
   "description": "Poslechn\u011bte si \u017eeny z \u010ceska a Slovenska na plnou hlasitost. Cover: Annet X",
-  "num_followers": 5345,
+  "num_followers": 5359,
   "original_name": "EQUAL CZ&SK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzkwZWU1ODcyZDk1MjQyZDdlZTVmMGQ4NTg1YmIzMDY2NmNmOTIw",
+  "snapshot_id": "MCxhMzBiNjU4Y2UzZDc0NGYwM2FkNzhmZDhjYTE3NDBhZTdkYjc0ZmMz",
   "tracks": [
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "LIVE ARCHIVE",
         "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
@@ -29,7 +29,175 @@
       "url": "https://open.spotify.com/track/0pl9qoqHfaI6lF57QIBayY"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "S k\u00fdm si",
+        "url": "https://open.spotify.com/album/4O3BcLRXAMX6DhqqUM33Wx"
+      },
+      "artists": [
+        {
+          "name": "Ronie",
+          "url": "https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "S k\u00fdm si",
+      "url": "https://open.spotify.com/track/00GESHDQTGkir7TfmWy01b"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "D\u011bkuju Ti",
+        "url": "https://open.spotify.com/album/1yJzl6BYKIwQ6m0xc24Fhv"
+      },
+      "artists": [
+        {
+          "name": "Lucie B\u00edl\u00e1",
+          "url": "https://open.spotify.com/artist/6pkv72pSnhPBKqqFzhDe6f"
+        }
+      ],
+      "duration_ms": 192476,
+      "name": "D\u011bkuju Ti",
+      "url": "https://open.spotify.com/track/2VOo3uHQA4PoGuVfUCFtxM"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "pred polnocou zmizla",
+        "url": "https://open.spotify.com/album/4xlM6MTLjn1OYrc2vNZ98F"
+      },
+      "artists": [
+        {
+          "name": "Call Dominika",
+          "url": "https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "pred polnocou zmizla",
+      "url": "https://open.spotify.com/track/2BEbz1663Qnkr2Jfq52cGW"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "K\u00fasok \u0161\u0165astia",
+        "url": "https://open.spotify.com/album/5AjTy9FzS70ye4Fsl38izx"
+      },
+      "artists": [
+        {
+          "name": "Dominika Mirgova",
+          "url": "https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt"
+        }
+      ],
+      "duration_ms": 218023,
+      "name": "K\u00fasok \u0161\u0165astia",
+      "url": "https://open.spotify.com/track/3kxvDOXVsVpEPCbXRHj2GU"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "TipTop",
+        "url": "https://open.spotify.com/album/6cjJz7dEFwZVhhrTOEiRBt"
+      },
+      "artists": [
+        {
+          "name": "Kristina Tran",
+          "url": "https://open.spotify.com/artist/4vp4j34c24a3nrpQwUotVH"
+        },
+        {
+          "name": "Fejbs",
+          "url": "https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "TipTop",
+      "url": "https://open.spotify.com/track/3SqNpiVpvUbgg3II3AWd59"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "Kdo jsme byli",
+        "url": "https://open.spotify.com/album/6F8iBGdjBtJ0Agw1R4c0tN"
+      },
+      "artists": [
+        {
+          "name": "Tereza Balonov\u00e1",
+          "url": "https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Kdo jsme byli",
+      "url": "https://open.spotify.com/track/5rMEqvH1WpXg0h3t6qLYFd"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/7dK5bryP9oAbC6atHXQowv"
+      },
+      "artists": [
+        {
+          "name": "Nora Anne",
+          "url": "https://open.spotify.com/artist/7LixeqGzXz2yu4HXWfMxBJ"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/54RvoPstsmoRRKesjiFbFd"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "Losing Game",
+        "url": "https://open.spotify.com/album/2iPIU6jjtakL284HPJhpTg"
+      },
+      "artists": [
+        {
+          "name": "Maella",
+          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Losing Game",
+      "url": "https://open.spotify.com/track/5bgHqxw4MlzF49wPxKpKsV"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4xIot2RHdVjiq0T8GtpWB7"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/1LibaIG9U6IplTTf9XMeNV"
+        }
+      ],
+      "duration_ms": 141250,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4WcPHiIPKu8TO8R9ODvMwF"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
+      "album": {
+        "name": "Pills",
+        "url": "https://open.spotify.com/album/31QU1zTM3aENogDdta4FoI"
+      },
+      "artists": [
+        {
+          "name": "Helly",
+          "url": "https://open.spotify.com/artist/4j3BDFXVj154NxIs8xwIGe"
+        }
+      ],
+      "duration_ms": 158241,
+      "name": "Pills",
+      "url": "https://open.spotify.com/track/7IlPiJ9bP792Jrnc6lN3GU"
+    },
+    {
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/0ej8KymWppPptOQ57e6sOb"
@@ -45,7 +213,7 @@
       "url": "https://open.spotify.com/track/2xBGURDbav4VEiVrqEXmBD"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "The Answer Is Yes",
         "url": "https://open.spotify.com/album/4Akri39rWFRRHUlsfPwFj2"
@@ -69,7 +237,7 @@
       "url": "https://open.spotify.com/track/40JsqYK9p5sPfEkvF0CSLR"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Star\u00e1 verze",
         "url": "https://open.spotify.com/album/34xfp35DRuFa3I8jXbp6sk"
@@ -85,7 +253,7 @@
       "url": "https://open.spotify.com/track/6Nsy3VEGGdnj7UHHsfolZR"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "bittersweet heartbreak",
         "url": "https://open.spotify.com/album/5eRQ8VlWhrsAKr8JD1M6a7"
@@ -101,7 +269,7 @@
       "url": "https://open.spotify.com/track/3fJFhSjiMFsTe73m7KINJo"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Tahle jedna vte\u0159ina",
         "url": "https://open.spotify.com/album/0tVIh0MhlvoFZUH2b94gU5"
@@ -121,7 +289,7 @@
       "url": "https://open.spotify.com/track/6I3jLsRIAX8KZ0GY8DLYKf"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Daj mi d\u00f4vod",
         "url": "https://open.spotify.com/album/7HrXLFUCOv4lucrC7XN5Dg"
@@ -137,7 +305,7 @@
       "url": "https://open.spotify.com/track/68K2yt77HKHb1Ew6BJ1dhY"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "\u00dadol\u00ed v\u010del",
         "url": "https://open.spotify.com/album/4WftBS0du56qlJAiaWs1sR"
@@ -153,7 +321,7 @@
       "url": "https://open.spotify.com/track/7tFM6k1wP4uzMgXncWB6ZI"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Kdy\u017e m\u00e1\u0161 co d\u00e1t",
         "url": "https://open.spotify.com/album/3V13HQZyqP2CBh3OUQkkYR"
@@ -173,7 +341,7 @@
       "url": "https://open.spotify.com/track/6RYDUH73TEtHEpbS7GOBp8"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "MESTO (feat. Majself)",
         "url": "https://open.spotify.com/album/66WLkS24hKSgiIDbxtSVGW"
@@ -193,7 +361,7 @@
       "url": "https://open.spotify.com/track/0vpSt0e7xPIDUeS6abrzQ1"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "By se ti l\u00edbilo",
         "url": "https://open.spotify.com/album/1fsGNA21D6egr3sd4jRwwz"
@@ -209,7 +377,7 @@
       "url": "https://open.spotify.com/track/50A0EdWbMiLAyblyUtNT55"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Ti To",
         "url": "https://open.spotify.com/album/0mpJhCrxqCloi2e00Avlvi"
@@ -225,7 +393,7 @@
       "url": "https://open.spotify.com/track/3fAFbBYOb4BGJ3RtKUW1yh"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Shoot You",
         "url": "https://open.spotify.com/album/4vreMd9m0nSnQ9cqjSageI"
@@ -245,7 +413,7 @@
       "url": "https://open.spotify.com/track/0Y3RBVIYG9BrHnujM3Fdfa"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Propojen\u00fd",
         "url": "https://open.spotify.com/album/4CaBUdjjenPIeyubuYQt7b"
@@ -285,7 +453,7 @@
       "url": "https://open.spotify.com/track/2HbO9amlki8fqhJ7rWLyxE"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "edges",
         "url": "https://open.spotify.com/album/7BDMMphPkco0EBRRAX4jmS"
@@ -301,7 +469,7 @@
       "url": "https://open.spotify.com/track/2MIw5Zn0IxhlNwYyEDnP9Z"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Kolty",
         "url": "https://open.spotify.com/album/4oREeO6GohIdBM2X8NSrmJ"
@@ -317,7 +485,7 @@
       "url": "https://open.spotify.com/track/7bwHQPAuWhxzqfbuiSyz0H"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Lucky Streak",
         "url": "https://open.spotify.com/album/5eSrOPnLxdgwcuc8m16Tk8"
@@ -333,7 +501,7 @@
       "url": "https://open.spotify.com/track/0Yx8HptnFn2LJca7W2YjLc"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "J\u00e1 nechci v\u00edc",
         "url": "https://open.spotify.com/album/3QzjiSzpBzQG0KUuhwz9uf"
@@ -349,7 +517,7 @@
       "url": "https://open.spotify.com/track/4vuXy2szP85SPkMgXlUmBU"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Hej mami",
         "url": "https://open.spotify.com/album/3zbG30jxcuAUfocMYC5FhH"
@@ -365,7 +533,7 @@
       "url": "https://open.spotify.com/track/79Ii6G6QE6wuntxR6OaIZI"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "DM \"friends\"",
         "url": "https://open.spotify.com/album/5yOKLnMQEVcvAXBYNvYMiz"
@@ -381,23 +549,7 @@
       "url": "https://open.spotify.com/track/3fHidTDsMnRUc9thkeSl6G"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Wonder Woman",
-        "url": "https://open.spotify.com/album/5ERMwTDRSJdT8cOjLikAoJ"
-      },
-      "artists": [
-        {
-          "name": "Dominika Mirgova",
-          "url": "https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt"
-        }
-      ],
-      "duration_ms": 260799,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/4rWiBVHA06kJRCFlSuyLQt"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "the biggest nobody",
         "url": "https://open.spotify.com/album/1jcGCObmPed737HAcru6gO"
@@ -413,7 +565,7 @@
       "url": "https://open.spotify.com/track/4QsMs9jnlfwEcAuKmgkRGU"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/5Dl5pxAGvCQyTjQl98lEeB"
@@ -429,7 +581,7 @@
       "url": "https://open.spotify.com/track/0K1lWRuu7A6PeQwMmRQUeC"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "ON/OFF",
         "url": "https://open.spotify.com/album/4kVIaC8qr4QsGSjmxsKv31"
@@ -445,7 +597,7 @@
       "url": "https://open.spotify.com/track/5kcOVKm2DByage6Io8xgkY"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Si Me Quieres",
         "url": "https://open.spotify.com/album/1SUg1brHwXPHYVirQsNYbk"
@@ -465,7 +617,7 @@
       "url": "https://open.spotify.com/track/1WNQG7lClq2z1yMYWeLz4L"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "For Love",
         "url": "https://open.spotify.com/album/6vfVwodEQJuZlanvMd6A5c"
@@ -481,7 +633,7 @@
       "url": "https://open.spotify.com/track/1j96uKGtbn5UOWcD6JYRzB"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Pozdravy z polep\u0161ovny",
         "url": "https://open.spotify.com/album/6wBLL7uvhQOqeo7v0nNs7E"
@@ -497,23 +649,7 @@
       "url": "https://open.spotify.com/track/6CBu79RUmBnlAmdLuFW08w"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Balada o G",
-        "url": "https://open.spotify.com/album/7ps8okW0R5zQclDlePGuaG"
-      },
-      "artists": [
-        {
-          "name": "Mishala Orth",
-          "url": "https://open.spotify.com/artist/3XfYmn43TUqyNgeq4eFJ5c"
-        }
-      ],
-      "duration_ms": 153846,
-      "name": "Balada o G",
-      "url": "https://open.spotify.com/track/3HesbHjoSQAJQzsnzSm975"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "SORRY",
         "url": "https://open.spotify.com/album/5VjdMKaYqu0CFb8OChAmkq"
@@ -529,7 +665,7 @@
       "url": "https://open.spotify.com/track/4MFrFJ8XmLlri8xS0gUti4"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "I'm Lost",
         "url": "https://open.spotify.com/album/0Xd7CXih7xQfOfDpwfwZL5"
@@ -545,7 +681,7 @@
       "url": "https://open.spotify.com/track/5pUEFERMN4hHxVF9cWYdAe"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "In\u00e9",
         "url": "https://open.spotify.com/album/2DVXumoV2WyTlbvpnRpWLy"
@@ -565,7 +701,7 @@
       "url": "https://open.spotify.com/track/5dqjwYHV11wuu4RtQrLwU8"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Lady",
         "url": "https://open.spotify.com/album/3RRt8DQUQZkyu6WGpmqlYn"
@@ -585,7 +721,7 @@
       "url": "https://open.spotify.com/track/3CQXvkVz9tYXBKMxj9C38M"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Nech\u00e1m \u00eds\u0165",
         "url": "https://open.spotify.com/album/2nhNVZBu2gMB2GgsCqp9kM"
@@ -601,7 +737,7 @@
       "url": "https://open.spotify.com/track/3zgPeK6XJfImEDUpICMK6b"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Umami (Live Session)",
         "url": "https://open.spotify.com/album/0N49KlwTuFpGhPbFa8MRBv"
@@ -617,7 +753,7 @@
       "url": "https://open.spotify.com/track/2Ys66Jxb9qyCJrVS0IRAjb"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Star Stable",
         "url": "https://open.spotify.com/album/0g6OIebRMWrxqZtckMBDSJ"
@@ -641,7 +777,7 @@
       "url": "https://open.spotify.com/track/3n5VQZ9DCW3LgSzOuclpc4"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Pre Teba",
         "url": "https://open.spotify.com/album/5BNargixFkgQiinnb2ZeB9"
@@ -657,7 +793,7 @@
       "url": "https://open.spotify.com/track/5mFQ8PkLwxcjNXKH3RPkMt"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/57P68mUUQCJXY31eClDpXe"
@@ -677,7 +813,7 @@
       "url": "https://open.spotify.com/track/6XQgMUKEoGgG62ojMdaZxD"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "short story long",
         "url": "https://open.spotify.com/album/6GaprqSdZEXT3OiXwMRDS7"
@@ -693,7 +829,7 @@
       "url": "https://open.spotify.com/track/251ji8XAHrQDu5im3jP2La"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Jedna rodina",
         "url": "https://open.spotify.com/album/5e5d70KvwO0Z7gvsjSKoMt"
@@ -709,7 +845,7 @@
       "url": "https://open.spotify.com/track/55OLBLH40FSWoT3EW3kyJW"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Jak Chcem Ja",
         "url": "https://open.spotify.com/album/27q1U6GJQLIu1w0rOC9hRm"
@@ -725,7 +861,7 @@
       "url": "https://open.spotify.com/track/0QSzp8oxsfrehlvkYCjPTi"
     },
     {
-      "added_at": "2023-07-04 22:00:00",
+      "added_at": "2023-08-01 22:00:00",
       "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/1ZGeOxUmDWSqxJXtSSpcTU"
@@ -743,162 +879,6 @@
       "duration_ms": 183797,
       "name": "Low",
       "url": "https://open.spotify.com/track/6fBfb9cUwXvjTAIOPmJoRY"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "serotonin & forget me nots",
-        "url": "https://open.spotify.com/album/6hXaA5VKxrPo5kkPcdKyNK"
-      },
-      "artists": [
-        {
-          "name": "AYA YVES",
-          "url": "https://open.spotify.com/artist/2Mgm4AwTZRFzZV0Dc3MI3n"
-        }
-      ],
-      "duration_ms": 177632,
-      "name": "serotonin",
-      "url": "https://open.spotify.com/track/1eGpxgd2Ruua2cTTfD7uxL"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "ICE COLD",
-        "url": "https://open.spotify.com/album/21gQaFEznj80iGoucwcxAU"
-      },
-      "artists": [
-        {
-          "name": "Sofie",
-          "url": "https://open.spotify.com/artist/04PFwMAplZyzOerV1UcDMw"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "ICE COLD",
-      "url": "https://open.spotify.com/track/6Stw69b67iZpokK4iVfJyh"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Queen Of The Night",
-        "url": "https://open.spotify.com/album/6cTvvvC74bW9gonrt5Cbbm"
-      },
-      "artists": [
-        {
-          "name": "Eva Buresova",
-          "url": "https://open.spotify.com/artist/2wqjvdaJ8YYyZpJDptlFtu"
-        },
-        {
-          "name": "Tereza Ma\u0161kov\u00e1",
-          "url": "https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC"
-        }
-      ],
-      "duration_ms": 185115,
-      "name": "Queen Of The Night",
-      "url": "https://open.spotify.com/track/28rPpF4L4yTZh61KC4Tc3d"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "girl next door",
-        "url": "https://open.spotify.com/album/3oUOYrkELQfN3aNDlHUYp0"
-      },
-      "artists": [
-        {
-          "name": "Thia Vittek",
-          "url": "https://open.spotify.com/artist/2O3e4BbsOHRkYxbL1ZGAlo"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "girl next door",
-      "url": "https://open.spotify.com/track/1oNvcPq1zO9AjloGpmbqH3"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Friendzone",
-        "url": "https://open.spotify.com/album/5TCS5441Y2HYq3JpoPGY3h"
-      },
-      "artists": [
-        {
-          "name": "Kristal Shine",
-          "url": "https://open.spotify.com/artist/1jschkhe5eRensKBEq1lVY"
-        },
-        {
-          "name": "Yael",
-          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
-        }
-      ],
-      "duration_ms": 197312,
-      "name": "Friendzone",
-      "url": "https://open.spotify.com/track/6bK4JJ1QBDlXfrarR4VDTP"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Want it",
-        "url": "https://open.spotify.com/album/4LIl2sKvDXojKJo6jj9dhj"
-      },
-      "artists": [
-        {
-          "name": "Natally",
-          "url": "https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa"
-        }
-      ],
-      "duration_ms": 138888,
-      "name": "Want it",
-      "url": "https://open.spotify.com/track/26HS6KmMaf3hHFX78ZGUjq"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/7tTiIPXywSjL0UFSlZ0Gqs"
-      },
-      "artists": [
-        {
-          "name": "Mishala Orth",
-          "url": "https://open.spotify.com/artist/3XfYmn43TUqyNgeq4eFJ5c"
-        }
-      ],
-      "duration_ms": 163770,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6UqY8nn6u5yUUXaVm8wvmF"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Jsi d\u00e9\u0161\u0165",
-        "url": "https://open.spotify.com/album/48TqDKuSAhleOtvCYLNfpd"
-      },
-      "artists": [
-        {
-          "name": "Marta Klou\u010dkov\u00e1",
-          "url": "https://open.spotify.com/artist/1JLBMag1JfYXxTbSPv68Dc"
-        },
-        {
-          "name": "Ond\u0159ej Pivec",
-          "url": "https://open.spotify.com/artist/32ZpxmOShPsshCEHHrK2SA"
-        }
-      ],
-      "duration_ms": 230714,
-      "name": "Jsi d\u00e9\u0161\u0165",
-      "url": "https://open.spotify.com/track/1LxIits0TP5PSdsecQPs1P"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "And\u011bl",
-        "url": "https://open.spotify.com/album/3u9IcI5iJ7u4ViZBBeimGl"
-      },
-      "artists": [
-        {
-          "name": "Verona",
-          "url": "https://open.spotify.com/artist/3r6BrlLTKRnGvRI5EtYoM0"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "And\u011bl",
-      "url": "https://open.spotify.com/track/2oH8gtXK7WYZKPiNWEzB1T"
     }
   ],
   "unique_name": "EQUAL CZ&SK",

@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 370779,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/035qofHWoDag0pg1e8gY73"
@@ -1418,6 +1418,28 @@
       "duration_ms": 188750,
       "name": "Orange",
       "url": "https://open.spotify.com/track/0JIsc98iJvP4ySokSFFRY8"
+    },
+    {
+      "album": {
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        },
+        {
+          "name": "Sinead White",
+          "url": "https://open.spotify.com/artist/0bow8GsVd622Y1NEGOeEL0"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/1mjAU4Q0GTX0vD2HhbKV50"
     },
     {
       "album": {

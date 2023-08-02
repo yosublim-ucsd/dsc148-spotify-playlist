@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 29086,
+  "num_followers": 29113,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjEzMTc1ZTdiZWM1YTcxY2RhZTYxNTNmYzg1M2VhZDhjMWQ3NjUw",
+  "snapshot_id": "MCw0ZTdiYzRjOTk3OTA3ZjA4N2E5NGRjNTk0MDYyZDdmZmQ0MDFkNjNl",
   "tracks": [
     {
       "added_at": "2023-06-22 07:08:08",
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+      "duration_ms": 133466,
+      "name": "It's Bad For Me",
+      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Bobby Short Loves Cole Porter",
-        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
+        "name": "Charlie Parker With Strings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
       },
       "artists": [
         {
-          "name": "Bobby Short",
-          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 203533,
-      "name": "You've Got That Thing",
-      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
+      "duration_ms": 212386,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+        "name": "Bobby Short Loves Cole Porter",
+        "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Bobby Short",
+          "url": "https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk"
         }
       ],
-      "duration_ms": 212386,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B"
+      "duration_ms": 203533,
+      "name": "You've Got That Thing",
+      "url": "https://open.spotify.com/track/5Wz59yK5Rm056tpvnpLNsM"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 133466,
-      "name": "It's Bad For Me",
-      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 119426,
-      "name": "Ace In The Hole",
-      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 163933,
       "name": "Paris Loves Lovers",
       "url": "https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 119426,
+      "name": "Ace In The Hole",
+      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -711,8 +711,8 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "The Astaire Story",
-        "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
+        "name": "Mr. Top Hat",
+        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
         }
       ],
-      "duration_ms": 164133,
-      "name": "I Concentrate On You",
-      "url": "https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX"
+      "duration_ms": 177213,
+      "name": "I've Got My Eyes On You",
+      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -791,8 +791,8 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Mr. Top Hat",
-        "url": "https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz"
+        "name": "The Astaire Story",
+        "url": "https://open.spotify.com/album/48u8T69QYtvg6edsQtgYXV"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
         }
       ],
-      "duration_ms": 177213,
-      "name": "I've Got My Eyes On You",
-      "url": "https://open.spotify.com/track/3CWKx0KS7iq8s2kik4oSMw"
+      "duration_ms": 164133,
+      "name": "I Concentrate On You",
+      "url": "https://open.spotify.com/track/1iuRx4tqMLsTro33oQwwsX"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Sinatra Sings Cole Porter",
-        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
+        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 145533,
-      "name": "I Am Loved",
-      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
+      "duration_ms": 197800,
+      "name": "Why Can't You Behave?",
+      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -1163,8 +1163,8 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 9",
-        "url": "https://open.spotify.com/album/0QkSQIesTKSWIhtWOq2nvj"
+        "name": "Sinatra Sings Cole Porter",
+        "url": "https://open.spotify.com/album/3Ng5DIsxEJIvzPY08b0n6G"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Why Can't You Behave?",
-      "url": "https://open.spotify.com/track/5Jo0cCx3upXviXMXWes8XA"
+      "duration_ms": 145533,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/4jPiuYGNJw4ldcg8M5PheR"
     },
     {
       "added_at": "2023-06-22 07:08:08",

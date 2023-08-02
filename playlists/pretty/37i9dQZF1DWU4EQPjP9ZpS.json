@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 271975,
+  "num_followers": 272156,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmNiODE3ZDYyNDQ5NWNlMjMwNjZmZWUzZmU3YTUyMzJjNmM3OTlh",
+  "snapshot_id": "MCw3MDg5OGMxOGI2MWMzYjU0OTI4ZmFiNGIwNTBhNDA3MmJkMTk0MjIw",
   "tracks": [
     {
       "added_at": "2023-07-18 02:19:19",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Ocean Breeze",
+        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        }
+      ],
+      "duration_ms": 146270,
+      "name": "By the River",
+      "url": "https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u8d85\u8d8a\u611b",
         "url": "https://open.spotify.com/album/2K48KEdEw8aP3qAEf88WAX"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Ocean Breeze",
-        "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        }
-      ],
-      "duration_ms": 146270,
-      "name": "By the River",
-      "url": "https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv"
       },
@@ -935,38 +935,6 @@
       "duration_ms": 74000,
       "name": "Aquascaping \u30d4\u30e9\u30df\u30c3\u30c9",
       "url": "https://open.spotify.com/track/3fcapo2HfJHiZ6xBXknUPN"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
-      },
-      "artists": [
-        {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
-        }
-      ],
-      "duration_ms": 232473,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Miami Virtual",
-        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
-      },
-      "artists": [
-        {
-          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
-          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
-        }
-      ],
-      "duration_ms": 246870,
-      "name": "Make Me Love You",
-      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -987,18 +955,34 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "made in taiwan",
-        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+        "name": "Miami Virtual",
+        "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
       "artists": [
         {
-          "name": "Lupus Nocte",
-          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+          "name": "Dan Mason \u30c0\u30f3\u00b7\u30e1\u30a4\u30bd\u30f3",
+          "url": "https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa"
         }
       ],
-      "duration_ms": 182190,
-      "name": "made in taiwan",
-      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
+      "duration_ms": 246870,
+      "name": "Make Me Love You",
+      "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 232473,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1015,6 +999,22 @@
       "duration_ms": 97906,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "made in taiwan",
+        "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
+      },
+      "artists": [
+        {
+          "name": "Lupus Nocte",
+          "url": "https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53"
+        }
+      ],
+      "duration_ms": 182190,
+      "name": "made in taiwan",
+      "url": "https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Surfer Girl",
-        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
-      },
-      "artists": [
-        {
-          "name": "Persona La Ave",
-          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
-        }
-      ],
-      "duration_ms": 375876,
-      "name": "Surfer Girl",
-      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Midnight Store",
         "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 157974,
       "name": "Turn the Fridge On",
       "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Surfer Girl",
+        "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
+      },
+      "artists": [
+        {
+          "name": "Persona La Ave",
+          "url": "https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj"
+        }
+      ],
+      "duration_ms": 375876,
+      "name": "Surfer Girl",
+      "url": "https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Dragonball Wave",
-        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
+        "name": "Goodbye, 5o 5oon...",
+        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
       },
       "artists": [
         {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+          "name": "Pan!c Pop",
+          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
         }
       ],
-      "duration_ms": 214401,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
+      "duration_ms": 176015,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1131,6 +1131,38 @@
       "duration_ms": 232000,
       "name": "Fever Dream - slowed + reverb",
       "url": "https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "get a job \u6797\u6a8e",
+        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
+          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
+        }
+      ],
+      "duration_ms": 130693,
+      "name": "Fruit That Sounds Friendly",
+      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Dragonball Wave",
+        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
+      },
+      "artists": [
+        {
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1155,38 +1187,6 @@
       "duration_ms": 204000,
       "name": "Coriahosanota - Slowed + Reverb",
       "url": "https://open.spotify.com/track/4WrNFImUv1m2GWGL0QbfVi"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "get a job \u6797\u6a8e",
-        "url": "https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH"
-      },
-      "artists": [
-        {
-          "name": "\u306c\u3044\u3050\u308b\u307f\u30af\u30ec\u30e8\u30f3 Lush Crayon",
-          "url": "https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe"
-        }
-      ],
-      "duration_ms": 130693,
-      "name": "Fruit That Sounds Friendly",
-      "url": "https://open.spotify.com/track/5Znvef2ItjbmppaBJjnUjK"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Goodbye, 5o 5oon...",
-        "url": "https://open.spotify.com/album/6gfv7xDZxvDoAHNMWfIGDb"
-      },
-      "artists": [
-        {
-          "name": "Pan!c Pop",
-          "url": "https://open.spotify.com/artist/21uJsPphVSijRnXWy3eIxL"
-        }
-      ],
-      "duration_ms": 176015,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1411,82 +1411,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Us Ephemeral (George Clanton Remix)",
-        "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
-      },
-      "artists": [
-        {
-          "name": "Vitesse X",
-          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "Us Ephemeral (George Clanton Remix)",
-      "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Empty Hiding World",
-        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
-        }
-      ],
-      "duration_ms": 241836,
-      "name": "Edenic Green Plus",
-      "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Baby, I Miss You",
-        "url": "https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        },
-        {
-          "name": "Dan Mason",
-          "url": "https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag"
-        }
-      ],
-      "duration_ms": 176848,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "weight by density",
-        "url": "https://open.spotify.com/album/2z3q5ZMTosa4U0mv6bWMOx"
-      },
-      "artists": [
-        {
-          "name": "Sonavision Deluxe",
-          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
-        }
-      ],
-      "duration_ms": 217584,
-      "name": "weight by density",
-      "url": "https://open.spotify.com/track/0QaT5oD5ZPo1zPjWdy8znu"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1511,18 +1435,62 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Sonic in the Holobeach",
-        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+        "name": "Us Ephemeral (George Clanton Remix)",
+        "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 256096,
-      "name": "Sonic in the Holobeach",
-      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+      "duration_ms": 269538,
+      "name": "Us Ephemeral (George Clanton Remix)",
+      "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Baby, I Miss You",
+        "url": "https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        },
+        {
+          "name": "Dan Mason",
+          "url": "https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag"
+        }
+      ],
+      "duration_ms": 176848,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Empty Hiding World",
+        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+        }
+      ],
+      "duration_ms": 241836,
+      "name": "Edenic Green Plus",
+      "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1547,6 +1515,54 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Sonic in the Holobeach",
+        "url": "https://open.spotify.com/album/39XqN8qQbnTPErbj4MPBau"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Sonic in the Holobeach",
+      "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "weight by density",
+        "url": "https://open.spotify.com/album/2z3q5ZMTosa4U0mv6bWMOx"
+      },
+      "artists": [
+        {
+          "name": "Sonavision Deluxe",
+          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
+        }
+      ],
+      "duration_ms": 217584,
+      "name": "weight by density",
+      "url": "https://open.spotify.com/track/0QaT5oD5ZPo1zPjWdy8znu"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Tonight in Miami",
         "url": "https://open.spotify.com/album/4JEID6sWKK00dCnmRDEgyt"
       },
@@ -1563,6 +1579,22 @@
       "duration_ms": 160000,
       "name": "Tonight in Miami",
       "url": "https://open.spotify.com/track/57ByE3nknmFyNS4pZD7le8"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1603,54 +1635,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
-      },
-      "artists": [
-        {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "One Hundred Mornings (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "Mist",
-      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
-      },
-      "artists": [
-        {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
-        }
-      ],
-      "duration_ms": 170379,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Glass Mind",
         "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Infinite Blue",
-        "url": "https://open.spotify.com/album/0abdubUWMWP7k5PXojweXV"
+        "name": "One Hundred Mornings (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
       "artists": [
         {
-          "name": "Maxx Parker",
-          "url": "https://open.spotify.com/artist/6qsHZcHKwPYAG8vYBVJmKq"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 198400,
-      "name": "White Sand",
-      "url": "https://open.spotify.com/track/405MzOxPMpP2edAVmz5CA8"
+      "duration_ms": 155480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5sr3JK23eZydJPz643hDc1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
+      },
+      "artists": [
+        {
+          "name": "bbrainz",
+          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
+        }
+      ],
+      "duration_ms": 181955,
+      "name": "TELL ME HOW IT FEELS",
+      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Marina Forever",
         "url": "https://open.spotify.com/album/0xO0inWEQ1QGP4F01mLLk1"
       },
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
+        "name": "Infinite Blue",
+        "url": "https://open.spotify.com/album/0abdubUWMWP7k5PXojweXV"
       },
       "artists": [
         {
-          "name": "bbrainz",
-          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
+          "name": "Maxx Parker",
+          "url": "https://open.spotify.com/artist/6qsHZcHKwPYAG8vYBVJmKq"
         }
       ],
-      "duration_ms": 181955,
-      "name": "TELL ME HOW IT FEELS",
-      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+      "duration_ms": 198400,
+      "name": "White Sand",
+      "url": "https://open.spotify.com/track/405MzOxPMpP2edAVmz5CA8"
     },
     {
       "added_at": "2023-07-18 02:19:19",

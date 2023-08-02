@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Nicki Minaj, Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,500 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,541 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 40 | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/track/3s3tzG4jG1q5CoAvcASuyC) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Unwanted \(feat\. Conor Maynard\)](https://open.spotify.com/album/7r90Qf9J5SQXQHcl9a5zkW) | 2:46 |
 
-Snapshot ID: `MCxjNzI2ODEyMDJmOTVlNzI1ZjNlYjdhODQyYTE4MzcxNzI0ZTFhOGFj`
+Snapshot ID: `MCwwODUzODhhNDJkZjRhMjM1NDBhOTkzYWM1MzhmNjI5OGJhMDk0YmI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Dying Wish
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,901 likes - 176 songs - 11 hr 24 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,902 likes - 176 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

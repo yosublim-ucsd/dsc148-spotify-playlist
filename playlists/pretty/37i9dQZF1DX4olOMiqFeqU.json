@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2429336,
+  "num_followers": 2429646,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGJmM2U4ZTc3YjRmODg0MDk3MzUwMTExMzMyNGMwNmNiNjllNzRj",
+  "snapshot_id": "MCwzM2U3MjQzZDJjOGEwN2UxNjIxYzMwMDdhNzAxZDI3NDk5N2M0ZmEy",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "KLWKN",
-        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
-      },
-      "artists": [
-        {
-          "name": "Music Hero",
-          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
-        }
-      ],
-      "duration_ms": 256571,
-      "name": "KLWKN",
-      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Binibini",
         "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 221538,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "KLWKN",
+        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
+      },
+      "artists": [
+        {
+          "name": "Music Hero",
+          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
+        }
+      ],
+      "duration_ms": 256571,
+      "name": "KLWKN",
+      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Araw-Araw Love",
-        "url": "https://open.spotify.com/album/4h5wKpTXHfEeYYZIIVOC8g"
-      },
-      "artists": [
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Araw-Araw Love",
-      "url": "https://open.spotify.com/track/1x7DysraeqSgVgj95hHc3U"
-    },
-    {
-      "added_at": "2023-04-03 07:21:01",
-      "album": {
         "name": "Twelve: Fifty One (International Version)",
         "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
@@ -855,6 +839,26 @@
       "duration_ms": 246280,
       "name": "12:51",
       "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
+    },
+    {
+      "added_at": "2023-04-03 07:21:01",
+      "album": {
+        "name": "Romantico",
+        "url": "https://open.spotify.com/album/3rx77n7XvlsBj9N2u4pb2r"
+      },
+      "artists": [
+        {
+          "name": "Kamikazee",
+          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Huling Sayaw",
+      "url": "https://open.spotify.com/track/20WgDtVSk24lprETchbTt1"
     }
   ],
   "unique_name": "OPM Favorites",

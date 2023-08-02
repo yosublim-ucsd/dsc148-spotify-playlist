@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,575 likes - 35 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,626 likes - 35 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 34 | [Jessica \(with SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/track/4e6a6yMJvPZItd0l4KTs1p) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica \(with SAINt JHN, Charly Black & J Perry\)](https://open.spotify.com/album/1DLEZ4s6lIu88XGfU3qXuF) | 3:01 |
 | 35 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 |
 
-Snapshot ID: `MCw5OTkxZDZhZWJkNGNjYmIwMzYwYzFlZWFmNmJiYjZmNGVjNzI2N2Iw`
+Snapshot ID: `MCxlY2FhMjA2Y2NlNDJiMDQ4NGIwM2ExMzFhYjA5ZWQ0YjljOTIwOTM1`

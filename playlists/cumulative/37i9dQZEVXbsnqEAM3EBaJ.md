@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-586 songs - 1 day 15 hr 59 min
+587 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bajo Los Árboles](https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Bajo Los Árboles](https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M) | 4:07 | 2023-04-28 | 2023-05-21 |
 | [Band Introductions, Pt.2 \- Live 1974](https://open.spotify.com/track/409sy5a6mjUpfO3e9nw0zU) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [We're On Our Way \(Live\)](https://open.spotify.com/album/16mVmRH1aVa5eJBezfVo3J) | 0:47 | 2023-07-07 | 2023-07-23 |
 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-07-21 |  |
+| [Barracuda \- Live 1985](https://open.spotify.com/track/0PB5asiVnUI2n9Uf1CasUy) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Where The Shadows Fall \(Live 1985\)](https://open.spotify.com/album/641Ptxo4mPGxsSu12hFiM3) | 4:11 | 2023-07-28 |  |
 | [Bass Solo \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/0enxxwvJPMNfx5a7g6Fakd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Off The Soundboard: Live In Poughkeepsie](https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj) | 2:28 | 2023-04-28 | 2023-04-30 |
 | [Be Good To Yourself \- Live 1986](https://open.spotify.com/track/029TCbrJdTPfnSbzqheTHy) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Outland \(Live 1986\)](https://open.spotify.com/album/0xkSGkBIBRETnFWsp2VOGR) | 4:52 | 2023-06-02 | 2023-06-11 |
 | [Be My Lover \- Live in Miami, FL, May 27, 1972](https://open.spotify.com/track/6vkdmJExffiBxtXtCUretE) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Be My Lover \(Live in Miami, FL, May 27, 1972\)](https://open.spotify.com/album/6wDlAdSxf9aQk5RiBe7I2v) | 5:31 | 2023-04-28 | 2023-05-13 |
@@ -332,7 +333,7 @@
 | [Mystique Voyage \(Outlanders Remix 2015\)](https://open.spotify.com/track/76jSAal20IizDaSI97fBwO) | [Outlanders](https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP), [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc), [Torsten Stenzel](https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2) | [1971](https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn) | 6:06 | 2023-07-21 | 2023-07-29 |
 | [N.I.B\. \- Live](https://open.spotify.com/track/0bEe7YyeotUdveMd6g5fCW) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Nuit Noire \(Live\)](https://open.spotify.com/album/7xzLCBOOea4LfGiO1KA0hj) | 5:28 | 2023-06-30 | 2023-07-16 |
 | [Na' Es Pa' Siempre](https://open.spotify.com/track/4af5d05U6nFtt6geyfcT1n) | [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [Na' Es Pa' Siempre](https://open.spotify.com/album/3JSBb5G6v2CgUUdeD2Bm5Y) | 3:05 | 2023-05-19 | 2023-06-18 |
-| [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-07-28 |  |
+| [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 | 2023-07-28 | 2023-08-02 |
 | [Natural Thing \- Live](https://open.spotify.com/track/051nhFAF8tpcb7DduLxtTn) | [UFO](https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s) | [Werewolves of London \(Live\)](https://open.spotify.com/album/0UWYYGAuvcWJSXlgBYtf7g) | 3:33 | 2023-03-10 | 2023-03-19 |
 | [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 | 2023-07-07 | 2023-07-30 |
 | [Need You Tonight \- Phil St George Remix](https://open.spotify.com/track/4gDsp6eChtck1xX6FB8bx0) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv), [Phil St George](https://open.spotify.com/artist/3QgA3lacu4NXEQCSAZaOIy) | [Need You Tonight \(Phil St George Remix\)](https://open.spotify.com/album/6KPTKsiPAtvtcjMnID2a7T) | 5:39 | 2023-06-02 | 2023-06-04 |

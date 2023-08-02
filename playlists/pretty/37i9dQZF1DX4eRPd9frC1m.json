@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2561269,
+  "num_followers": 2561773,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmQwYTlmMGMxMjJlMDJiMjMxYjlkOTYxMTI0Njk4YjhlYTFjNjVi",
+  "snapshot_id": "MCw4ZjU1OGYyNTcyOTQyNGI0YjdlOGJhZjkxN2Y5Y2YzMWVmMDBlNTQ4",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -311,8 +311,8 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+        "name": "One Three Nine",
+        "url": "https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr"
       },
       "artists": [
         {
@@ -320,17 +320,13 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+      "duration_ms": 168000,
+      "name": "One Three Nine",
+      "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -439,22 +435,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk"
       },
@@ -471,6 +451,22 @@
       "duration_ms": 139805,
       "name": "Old School",
       "url": "https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -515,8 +511,8 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "One Three Nine",
-        "url": "https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr"
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
       "artists": [
         {
@@ -524,13 +520,17 @@
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 168000,
-      "name": "One Three Nine",
-      "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Can We Be Free",
+        "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Can We Be Free",
+      "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Bangers[7].Zip",
         "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 163764,
       "name": "MEGAZORD",
       "url": "https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Can We Be Free",
-        "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        }
-      ],
-      "duration_ms": 198315,
-      "name": "Can We Be Free",
-      "url": "https://open.spotify.com/track/4JHfB0tPjE38N5KTSaX39I"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Do It To It (Subtronics Remix)",
         "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 147310,
       "name": "Do It To It - Subtronics Remix",
       "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "IN CASE OF FIRE EP",
+        "url": "https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Sharp Shooter",
+      "url": "https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
       },
@@ -1507,26 +1523,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Wall Of Death",
-        "url": "https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ"
-      },
-      "artists": [
-        {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
-        },
-        {
-          "name": "MARAUDA",
-          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Wall Of Death",
-      "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Work That Body",
         "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
       },
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "IN CASE OF FIRE EP",
-        "url": "https://open.spotify.com/album/1ON9fx7RWze7t6NQN7Gs80"
+        "name": "Wall Of Death",
+        "url": "https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ"
       },
       "artists": [
         {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+        },
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Sharp Shooter",
-      "url": "https://open.spotify.com/track/7jisVMhq5mkJsMxPBrtJJ4"
+      "duration_ms": 168960,
+      "name": "Wall Of Death",
+      "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
     },
     {
       "added_at": "2023-07-14 04:00:00",

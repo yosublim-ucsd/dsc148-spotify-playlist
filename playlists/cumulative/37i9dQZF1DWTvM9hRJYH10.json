@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Dipper",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: King Calaway",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -1976,6 +1976,24 @@
       "duration_ms": 211178,
       "name": "I Think About You",
       "url": "https://open.spotify.com/track/3YCXRpU918lO8lKZMOtR0Z"
+    },
+    {
+      "album": {
+        "name": "The Other Half",
+        "url": "https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160095,
+      "name": "I'm Feelin' Good (Steve Miller Band)",
+      "url": "https://open.spotify.com/track/4N4HucJ3hNKQq1fOy1uH1B"
     },
     {
       "album": {
@@ -4332,6 +4350,24 @@
       "duration_ms": 166989,
       "name": "Tell 'Em Why",
       "url": "https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj"
+    },
+    {
+      "album": {
+        "name": "The Other Half",
+        "url": "https://open.spotify.com/album/6cmoD6nJ4anqACfPpuPjtE"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189416,
+      "name": "Tennessee's Waiting",
+      "url": "https://open.spotify.com/track/5W8SNrY9AxNWfsl7X5a5O4"
     },
     {
       "album": {

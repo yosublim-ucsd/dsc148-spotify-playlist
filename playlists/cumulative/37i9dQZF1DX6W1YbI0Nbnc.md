@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> 結集香港EQUAL女聲力量！\(cover: kayan9896\)
+> 結集香港EQUAL女聲力量！\(cover: Gigi 炎明熹\)
 
-240 songs - 15 hr 17 min
+243 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Let Us Go Then You and I](https://open.spotify.com/track/68bpbRXf2ICC7yQYZoOykS) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him](https://open.spotify.com/album/1E5h69F88qemJq7si8rLrW) | 5:28 | 2021-12-07 | 2022-01-05 |
 | [Like a moth to a flame](https://open.spotify.com/track/3cOKFEcuKcOz1DkVqcdLCu) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Like a moth to a flame](https://open.spotify.com/album/4icgEpwdhmocUOOqL9wtC6) | 3:23 | 2022-01-04 | 2022-05-04 |
 | [Little Fires Everywhere](https://open.spotify.com/track/5uWahe0l5I1UCAjQbBKeo3) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Little Fires Everywhere](https://open.spotify.com/album/70IExqytUA7KyWUym2cOfO) | 3:58 | 2022-11-30 |  |
+| [Little Magic](https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [Little Magic](https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO) | 2:58 | 2023-08-01 |  |
 | [Little Miss Janice](https://open.spotify.com/track/22EE8dhOA8t2XSPMYiQSWi) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [Little Miss Janice](https://open.spotify.com/album/5d14ViywYO9XTuIVwM4wZ7) | 3:31 | 2022-02-02 | 2022-12-01 |
 | [Little People](https://open.spotify.com/track/0Nzl9k3vQTjRh9f5VtG135) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [Little People](https://open.spotify.com/album/268ylRyADnzi0BddwI0g03) | 3:28 | 2022-03-07 | 2022-12-01 |
 | [Long D](https://open.spotify.com/track/3tzjn5ILVuHc4eSLTH60lY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [Long D](https://open.spotify.com/album/3SGir5Xnex2E02jNYAzRnr) | 3:41 | 2022-05-03 |  |
@@ -90,6 +91,7 @@
 | [亂世中我們相擁](https://open.spotify.com/track/0zuykvSePyAnBBrrBtq2JB) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx), [陳浩](https://open.spotify.com/artist/02B3n4s3tZqb73uiLoegXu) | [亂世中我們相擁](https://open.spotify.com/album/1NWAy6THrC5D5QE8z012Ml) | 4:27 | 2021-12-07 | 2022-04-06 |
 | [二話都說](https://open.spotify.com/track/6cpqG1kjoSbe9wgaSlvMEW) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [二話都說](https://open.spotify.com/album/4qzCwbSnrKcsJHfoPT6Lx1) | 4:44 | 2022-03-07 | 2022-05-04 |
 | [人間英靈](https://open.spotify.com/track/7oNv5d0pYrSzIiYA5fRydi) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [人間英靈](https://open.spotify.com/album/1yzycSWu0g8BCJ63E5m9sj) | 4:10 | 2022-08-02 | 2022-12-01 |
+| [今生今世](https://open.spotify.com/track/2xXjrtNMkNqcstFSYMS4Ly) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [今生今世](https://open.spotify.com/album/2ZKCptfrAqWnIxrfjzZiUT) | 3:19 | 2023-08-01 |  |
 | [仍然記得嗰一次](https://open.spotify.com/track/0DL04wLVbCs1WBzmbv31B7) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S), [伍仲衡](https://open.spotify.com/artist/0EPxEvyoEu6btIkjX92Ppq) | [仍然記得嗰一次](https://open.spotify.com/album/17SU5pAR4mnMBLYIaxmoWI) | 3:27 | 2021-12-07 | 2022-01-05 |
 | [伴我左右 \- 劇集“金宵大廈2”主題曲](https://open.spotify.com/track/2XbaodHxkHDBCDQLFM3hzo) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [伴我左右 \(劇集“金宵大廈2”主題曲\)](https://open.spotify.com/album/5xiTVjKnIRIIDlomIss8eg) | 3:36 | 2022-05-03 | 2022-08-03 |
 | [何日不再來 \(電影《十二日》主題曲\)](https://open.spotify.com/track/6z9Ol4ibDWtwats8mfFjvR) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [何日不再來 \(電影《十二日》主題曲\)](https://open.spotify.com/album/0USshpbowLi0YbENwuD1zv) | 3:20 | 2022-01-04 | 2022-03-08 |
@@ -130,6 +132,7 @@
 | [多喝水](https://open.spotify.com/track/1W7uQESfg4yq6dSJg4tvG3) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [多喝水](https://open.spotify.com/album/7vngDxPixBXjzA5cq13iR1) | 4:13 | 2022-03-07 | 2022-08-03 |
 | [多謝恐懼](https://open.spotify.com/track/1fi8E9MBPWJ0stdvWeYmRf) | [Jocelyn Chan](https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd) | [多謝恐懼](https://open.spotify.com/album/7u9uOH8bQYnMB2gVTncObw) | 3:34 | 2022-05-03 | 2022-08-03 |
 | [夢伴](https://open.spotify.com/track/4vLWPbzp54st3ESHbfsZeU) | [Anita Mui](https://open.spotify.com/artist/06RD8CxzApXzuhHx54BhQL) | [追憶似水芳華](https://open.spotify.com/album/5JbHhnLRjPfiAz9DqIEtjt) | 3:15 | 2021-12-07 | 2022-01-05 |
+| [大開眼界](https://open.spotify.com/track/7n75RcZhhR97zJeWnuCqNt) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [大開眼界](https://open.spotify.com/album/7rwqS0ITSHUyEfo4X4a67X) | 3:29 | 2023-08-01 |  |
 | [天光前](https://open.spotify.com/track/5fFX7pFVx0F4UVAGqbv9gC) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 4:01 | 2022-01-04 | 2022-04-06 |
 | [天始終會亮的](https://open.spotify.com/track/0ilwnDQj0a7OXWEwP9PFa9) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [天始終會亮的](https://open.spotify.com/album/6oRA8pz3XcUfefe4q7qp8Q) | 4:42 | 2022-03-07 | 2022-04-06 |
 | [天荒不老 \- 劇集 "鐵拳英雄" 片尾曲](https://open.spotify.com/track/72XwUBOc3Co9XCy1CVeNO0) | [HANA](https://open.spotify.com/artist/3eMchOXfWkF7H7z3z8dGrf) | [天荒不老 \(劇集 "鐵拳英雄" 片尾曲\)](https://open.spotify.com/album/1Tg8Up1pF2ErVnZz87s1zg) | 3:48 | 2022-05-03 | 2022-08-03 |

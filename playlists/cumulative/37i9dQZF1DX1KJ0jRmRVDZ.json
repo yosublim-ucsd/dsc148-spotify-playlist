@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/2JSr1ioXYm9EtspWxtBerQ"
+      },
+      "artists": [
+        {
+          "name": "NAKIBOKURO",
+          "url": "https://open.spotify.com/artist/7qaJ4EnMJA9pPlPtC8Pums"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87500,
+      "name": "222",
+      "url": "https://open.spotify.com/track/52cpYZ6W05YqrDCfgL9YTM"
+    },
+    {
+      "album": {
         "name": "2\u756a\u76ee",
         "url": "https://open.spotify.com/album/3XhDDa02dhm48yEjlL40qI"
       },
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 174254,
       "name": "Endroll",
       "url": "https://open.spotify.com/track/4tIjuLDto2gLGFrQOvU8kS"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 140873,
       "name": "Forgery",
       "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 194515,
       "name": "I\u2019m a Controversy",
       "url": "https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM"
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 120875,
       "name": "Surges",
       "url": "https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw"
@@ -4624,6 +4642,24 @@
       "duration_ms": 184645,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/6WeNx7415S4E0m3YPeDknr"
+    },
+    {
+      "album": {
+        "name": "Think Think Think",
+        "url": "https://open.spotify.com/album/16b3PeboJjWtHYpVqbjgas"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u8389\u98f4",
+          "url": "https://open.spotify.com/artist/48cmBTHGDXpbMmImSbBprJ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Think Think Think",
+      "url": "https://open.spotify.com/track/4fTajvmqOWnHPsIpbcebna"
     },
     {
       "album": {
@@ -8378,7 +8414,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 207127,
       "name": "\u30c8\u30b3\u30b7\u30a8\u30b9\u30bf",
       "url": "https://open.spotify.com/track/5NigQtxhXjVsgy9IZjCnL8"
@@ -13155,6 +13191,24 @@
     },
     {
       "album": {
+        "name": "\u75c5\u307f\u30e2\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/2nUqm5j2LQJgu6TLYOWtKk"
+      },
+      "artists": [
+        {
+          "name": "\u3071\u30fc\u3066\u3043\u30fc\u97fb\u304d\u3083",
+          "url": "https://open.spotify.com/artist/72V55VMTQr63qFnf8dUD8q"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "\u75c5\u307f\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/4QKQ5TFUWbszXlPLiIJ9Fw"
+    },
+    {
+      "album": {
         "name": "Out of body",
         "url": "https://open.spotify.com/album/71LKMdmI4PfOf60lPI5PrK"
       },
@@ -13668,6 +13722,24 @@
       "duration_ms": 185883,
       "name": "\u7dba\u9e97\u3067\u75db\u3044 - From \u30e8\u30e0\u30aa\u30c8",
       "url": "https://open.spotify.com/track/6NSbPZjRYr51hyatWaqpFa"
+    },
+    {
+      "album": {
+        "name": "\u7f8e\u5c11\u5973\u7121\u7f6a\u2661\u30d1\u30a4\u30ec\u30fc\u30c4",
+        "url": "https://open.spotify.com/album/1yAFPAP8UwTD1Q5vqSTAYP"
+      },
+      "artists": [
+        {
+          "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+          "url": "https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219176,
+      "name": "\u7f8e\u5c11\u5973\u7121\u7f6a\u2661\u30d1\u30a4\u30ec\u30fc\u30c4",
+      "url": "https://open.spotify.com/track/1oNtlE9GgtBZDngXi18Mw0"
     },
     {
       "album": {
@@ -14816,6 +14888,44 @@
       "duration_ms": 183692,
       "name": "\u98db\u5929",
       "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
+    },
+    {
+      "album": {
+        "name": "\u98db\u7fd4",
+        "url": "https://open.spotify.com/album/07m0ZECtpRNrRO4sPtLKPW"
+      },
+      "artists": [
+        {
+          "name": "V.W.P",
+          "url": "https://open.spotify.com/artist/2WEdpSG62DEFsMhN4iw5P1"
+        },
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        },
+        {
+          "name": "\u6625\u733f\u706b",
+          "url": "https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l"
+        },
+        {
+          "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+          "url": "https://open.spotify.com/artist/0ZTvnZCr6Njbsmn9Xx4Y0U"
+        },
+        {
+          "name": "\u5e78\u795c",
+          "url": "https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226261,
+      "name": "\u98db\u7fd4",
+      "url": "https://open.spotify.com/track/43powmv1nlfJh45XjzlPuq"
     },
     {
       "album": {

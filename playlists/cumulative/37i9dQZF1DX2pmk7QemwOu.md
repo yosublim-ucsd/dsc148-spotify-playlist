@@ -4,7 +4,7 @@
 
 > ONE DREAM with TXT! Are you ready for a Sugar Rush Ride?
 
-82 songs - 4 hr 38 min
+84 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,8 @@
 | [Dear Sputnik](https://open.spotify.com/track/7ypFllJwlotXBJfLjsXhvo) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:14 | 2022-05-12 |  |
 | [Dear Sputnik](https://open.spotify.com/track/37kWYmbo68VxWl9nNBvr8T) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:15 | 2022-05-12 |  |
 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
+| [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-08-01 |  |
+| [Do It Like That \(Pop R&B Remix\)](https://open.spotify.com/track/5W1MGvhp0nDigx1vfYTaO8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That \(Pop R&B Remix\)](https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0) | 2:34 | 2023-08-01 |  |
 | [Drama](https://open.spotify.com/track/0YKzTMzgAXgQLpChiBRTlf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:29 | 2022-05-12 |  |
 | [Drama](https://open.spotify.com/track/1vH3GM0b9BqBCZ0ACVa7XA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [Eternally](https://open.spotify.com/track/0RRd7AcCl0HR5gzzRuCMXs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW) | 3:37 | 2022-05-12 |  |

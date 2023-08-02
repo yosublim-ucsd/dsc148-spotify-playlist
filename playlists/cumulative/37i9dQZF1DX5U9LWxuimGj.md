@@ -2,7 +2,7 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj)
 
-> Country music with a Latin flair\. Cover: Carin Leon
+> Country music with a Latin flair\. Cover: Frank Ray
 
 128 songs - 7 hr 2 min
 

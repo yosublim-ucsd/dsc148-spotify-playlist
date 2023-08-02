@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 
 > Dance & jive to the biggest hits of Elvis Presley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,312 likes - 35 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,338 likes - 20 songs - 48 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,20 +28,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVL7BvDWdNBe.md) - [plain]
 | 18 | [Too Much Monkey Business](https://open.spotify.com/track/7cHRosCDDl7qhHxkSpcTtH) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings Flaming Star](https://open.spotify.com/album/3xHHQWEtennMsfZ65t9Brv) | 2:30 |
 | 19 | [Good Rockin' Tonight](https://open.spotify.com/track/5yZQXR98v0kvhYQ7Adn8PK) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Platinum \- A Life In Music](https://open.spotify.com/album/0gv5aiVS1WBUZOKeb7YawE) | 2:11 |
 | 20 | [Viva Las Vegas](https://open.spotify.com/track/5Q7ayTarb9Tpmkik5cVMug) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Gold Records, Vol\. 4](https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a) | 2:24 |
-| 21 | [Guitar Man](https://open.spotify.com/track/7Lvjsltj3TcAJLaTVTWHwO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Bossa Nova Baby: The Ultimate Elvis Presley Party Album](https://open.spotify.com/album/4RaW2vsKwtP8AxXVAgZyZN) | 2:18 |
-| 22 | [C'mon Everybody](https://open.spotify.com/track/2BcMIA1oRqG7tDbSEPBCtt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [C'mon Everybody](https://open.spotify.com/album/1qEWLQtbtSfa051tA3jJQ5) | 2:19 |
-| 23 | [What'd I Say](https://open.spotify.com/track/56ITw7Hcxby8965K67uTRt) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Gold Records, Vol\. 4](https://open.spotify.com/album/3ufobt4J5vaT3z7lgUub6a) | 3:04 |
-| 24 | [All Shook Up](https://open.spotify.com/track/5YMWIzZvipEXsmUbGQ922n) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The King of Rock 'n' Roll: The Complete 50's Masters](https://open.spotify.com/album/7xTRLTNmw8geW9MXaDfyqI) | 1:56 |
-| 25 | [\(You're so Square\) Baby I Don't Care](https://open.spotify.com/track/3m13RHomlb7xk5DffFeh4r) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The King of Rock 'n' Roll: The Complete 50's Masters](https://open.spotify.com/album/7xTRLTNmw8geW9MXaDfyqI) | 1:51 |
-| 26 | [Do the Clam](https://open.spotify.com/track/2DdtOIqWNDcrPEDAJv0VFe) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Girl Happy](https://open.spotify.com/album/4z27tEwwMNEILdVX1Sy40L) | 3:16 |
-| 27 | [Dirty, Dirty Feeling](https://open.spotify.com/track/1R9uNg9F6WINW53YMwG3GP) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Is Back](https://open.spotify.com/album/2SBAAtgdyjgfTO1UMHnza1) | 1:33 |
-| 28 | [Night Rider](https://open.spotify.com/track/0hlHjhUWHktdSA42gf4NUX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Pot Luck](https://open.spotify.com/album/2g4kvBYEZoUaO5rMmR4CJI) | 2:09 |
-| 29 | [Hard Headed Woman \- From the Hal Wallis Production "King Creole", a Paramount Picture](https://open.spotify.com/track/2DG7sOMQthZCGxHbqNWzz0) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 1:54 |
-| 30 | [\(Let's Have A\) Party](https://open.spotify.com/track/139AsM1OAu63s4zbZ00tFq) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Loving You](https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2) | 1:29 |
-| 31 | [Little Sister \- Remastered](https://open.spotify.com/track/3Wc4tanbT3laxY3dweuOib) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:30 |
-| 32 | [Hard Headed Woman](https://open.spotify.com/track/32CVurlBxtEYQlDm3yzCLl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [King Creole](https://open.spotify.com/album/7hdMmwpZmRf8efyh7G2pOl) | 1:53 |
-| 33 | [Guitar Man](https://open.spotify.com/track/7momNWKOObWP1nBE1BNirA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Clambake](https://open.spotify.com/album/6rgQTKAl5UXrWhPUKuIGFN) | 2:19 |
-| 34 | [A Big Hunk O' Love \- Live at the Honolulu International Center](https://open.spotify.com/track/3GI4aSJU8HrTM6msYXz1MT) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Aloha from Hawaii Via Satellite \(Live\)](https://open.spotify.com/album/6AUihdKWdT5evm91G7wirB) | 2:08 |
-| 35 | [Way Down](https://open.spotify.com/track/0JnEaldTC6IFyUGOqppFdG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Moody Blue](https://open.spotify.com/album/08bROKoMarHS0jRzZOEv08) | 2:38 |
 
-Snapshot ID: `MCwyZmZkNDMyMmYzMzgyYzgwM2E3MjJlNTY3MjRmZjNkZWMwMmY5Zjcz`
+Snapshot ID: `MCwzZDY4MzgwNmI2MjIyOWE1YjZkYTdhYjA2MmU0ZWUwODliOTcyNzVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,409 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,415 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 50 | [Diamonds in my Heart](https://open.spotify.com/track/7mq3JrX7IjKzceGvYTfFVB) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [Diamonds in my Heart](https://open.spotify.com/album/0u6tbU3mprb7pt06p47TkN) | 2:46 |
 | 51 | [어지러운 밤 \(Feat\. punchnello, Young code\)](https://open.spotify.com/track/4Ovntr1QK2bisNVqJJcBNo) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Young code](https://open.spotify.com/artist/1tLbXwuFI3FO4TXlVZm5xi) | [침상악보](https://open.spotify.com/album/6GFJnJ8Gzux4fNPrpvy1Lw) | 3:17 |
 | 52 | [METROCARD!](https://open.spotify.com/track/7AiyFaKBQVJF1tcZQoFleo) | [Kazuo](https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY) | [KAMI!](https://open.spotify.com/album/6qO6i3Ybnk34NCCBAewdej) | 3:31 |
-| 53 | [CIRCUS MAXIMUS](https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:18 |
+| 53 | [CIRCUS MAXIMUS \(feat\. The Weeknd & Swae Lee\)](https://open.spotify.com/track/4GL9GMX9t7Qkprvf1YighZ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:18 |
 | 54 | [On The Radar Freestyle](https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [On The Radar Freestyle](https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z) | 4:35 |
 | 55 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 |
 | 56 | [Slow dance \(Feat\. SOLE, oygli\)](https://open.spotify.com/track/0Qdc3urZUzK5Gn82PzXgVo) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [oygli](https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90) | [It’s on me](https://open.spotify.com/album/63KlbY062pYL6vDjIT5xYJ) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Astroswing](https://open.spotify.com/track/6bsDAWeneq2lQUnVyAU0cI) | [Ogawa & Tokoro](https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA) | [Astroswing](https://open.spotify.com/album/7Mcmf6CowVfAh4XnJQbW4H) | 5:43 |
 | 60 | [Flowing](https://open.spotify.com/track/0HLCzCW6ja01PiywKAgX6V) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Flowing](https://open.spotify.com/album/2gWO71K4dQhPqMbYK4MN2D) | 5:53 |
 
-Snapshot ID: `MCw1ZDZhNDEyNjg2MmMyZjdjMTM1NzRjOGIyNGY1ODZhODk5NWFkZDc2`
+Snapshot ID: `MCwxMjllMzA3ZjhiM2I3NTFmYjZhYjcxNzcxZGE3M2E2ZDU1OGQzNDE3`

@@ -2351,6 +2351,32 @@
     },
     {
       "album": {
+        "name": "At\u00e9 Que o Senhor Venha",
+        "url": "https://open.spotify.com/album/4BwYDW9Drm8tWaFdCglz2E"
+      },
+      "artists": [
+        {
+          "name": "Davi Fernandes",
+          "url": "https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll"
+        },
+        {
+          "name": "Kaleb e Josh",
+          "url": "https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW"
+        },
+        {
+          "name": "Davi Fernandes & Cultura do C\u00e9u",
+          "url": "https://open.spotify.com/artist/4ji5Qb4IMB5yeiXhO1SE9d"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425980,
+      "name": "At\u00e9 Que o Senhor Venha",
+      "url": "https://open.spotify.com/track/596cTE5s4LL3YEXuo6nTew"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -3464,7 +3490,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 209893,
       "name": "Barbie Girl - I'm a Barbie Girl",
       "url": "https://open.spotify.com/track/6tdFrIad4TtvsPV4bguvC8"
@@ -4688,7 +4714,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
@@ -5340,6 +5366,24 @@
       "duration_ms": 159111,
       "name": "Camisa de Time (Desce S\u00f3 de Label)",
       "url": "https://open.spotify.com/track/5oF3fkS6ZVqmb3W5UJc0s8"
+    },
+    {
+      "album": {
+        "name": "Melodramatic",
+        "url": "https://open.spotify.com/album/68QwVLwpCilgbZorXibyd2"
+      },
+      "artists": [
+        {
+          "name": "Garrett Atterberry",
+          "url": "https://open.spotify.com/artist/0KppDOsHTsrrm0zAfRzZcC"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186723,
+      "name": "Can You Remember the Rain - Sequence Remix",
+      "url": "https://open.spotify.com/track/5jikmrFL7wzkaCvdUSePkB"
     },
     {
       "album": {
@@ -7088,7 +7132,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 142153,
       "name": "Cumade e Cumpade - Eletrofunk Remix",
       "url": "https://open.spotify.com/track/3Gup3Zqc0zs00ryokscGAW"
@@ -8308,7 +8352,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 315986,
       "name": "Diggy Diggy Hole",
       "url": "https://open.spotify.com/track/0FDY2EHOv32kUoqplU1hdY"
@@ -11000,7 +11044,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 99701,
       "name": "Faz o Teu Nome",
       "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
@@ -12664,7 +12708,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 188093,
       "name": "GRL GVNG",
       "url": "https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl"
@@ -12810,6 +12854,36 @@
       "duration_ms": 192320,
       "name": "Halls na L\u00edngua",
       "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
+    },
+    {
+      "album": {
+        "name": "Victor Era Meu Nome de Nerd",
+        "url": "https://open.spotify.com/album/5KJ9Lm5YJEqTVaW8OFCnaL"
+      },
+      "artists": [
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "DJ LUCAS DE PAULA",
+          "url": "https://open.spotify.com/artist/48H2LKju3qH1hMJhhnhYvY"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143999,
+      "name": "Halls na L\u00edngua - Remix",
+      "url": "https://open.spotify.com/track/2uGk60j3LR5bp6tGq9vtII"
     },
     {
       "album": {
@@ -14576,7 +14650,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 87679,
       "name": "KAMI",
       "url": "https://open.spotify.com/track/6rm58LPjSArdS4zEHSKXDu"
@@ -17072,7 +17146,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 166451,
       "name": "Me Usa - Ao Vivo",
       "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
@@ -19691,6 +19765,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108986,
+      "name": "New Jeans",
+      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -20953,6 +21045,32 @@
     },
     {
       "album": {
+        "name": "O Que Que T\u00e1 Acontecendo",
+        "url": "https://open.spotify.com/album/5smjl2yakSMt8DWxXVrDwG"
+      },
+      "artists": [
+        {
+          "name": "Mc Arizinho",
+          "url": "https://open.spotify.com/artist/61pcuATJNEvZCXhO2DqC1F"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "O Que Que T\u00e1 Acontecendo",
+      "url": "https://open.spotify.com/track/1JSwsmwxrunlHzo7pjeWMY"
+    },
+    {
+      "album": {
         "name": "A Pele do Futuro Ao Vivo",
         "url": "https://open.spotify.com/album/1LpG0vjBhKLcUOcgGlPJ1a"
       },
@@ -21138,7 +21256,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 67729,
       "name": "Oi Oi Vs Na Onda do Black Vs Beat Street Fighter",
       "url": "https://open.spotify.com/track/0wCmIFoHGoKPwUPh3Uzf0p"
@@ -23196,6 +23314,28 @@
       "duration_ms": 184601,
       "name": "Polaroid Love",
       "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+    },
+    {
+      "album": {
+        "name": "Fetiche",
+        "url": "https://open.spotify.com/album/659lNGwYSZkbjRVWGahBDB"
+      },
+      "artists": [
+        {
+          "name": "yung vegan",
+          "url": "https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV"
+        },
+        {
+          "name": "Bolin Batidas",
+          "url": "https://open.spotify.com/artist/0N8qBEsNM25AnKi6bMF91j"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "Polo Usa",
+      "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"
     },
     {
       "album": {
@@ -26009,6 +26149,28 @@
     },
     {
       "album": {
+        "name": "SEREIA",
+        "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
+    },
+    {
+      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -26296,6 +26458,24 @@
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
+    },
+    {
+      "album": {
+        "name": "KISS OF LIFE",
+        "url": "https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182240,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"
     },
     {
       "album": {
@@ -26860,6 +27040,24 @@
       "duration_ms": 165673,
       "name": "Soldier, Poet, King",
       "url": "https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg"
+    },
+    {
+      "album": {
+        "name": "Solteiro For\u00e7ado (Boiadeira Internacional)",
+        "url": "https://open.spotify.com/album/787d22Rcq1Rndn8D3NXd3i"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194582,
+      "name": "Solteiro For\u00e7ado - Boiadeira Internacional",
+      "url": "https://open.spotify.com/track/4Z2i41GDQyu3KRpBavEnyR"
     },
     {
       "album": {
@@ -27442,6 +27640,24 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
+    },
+    {
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "album": {
@@ -28572,7 +28788,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 149106,
       "name": "THE AUTOTREM 1.0",
       "url": "https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ"
@@ -30348,7 +30564,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 123820,
       "name": "Vai Novinha Ah Ah Ah",
       "url": "https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC"
@@ -31960,7 +32176,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 199280,
       "name": "World Class Sinner / I\u2019m A Freak",
       "url": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"

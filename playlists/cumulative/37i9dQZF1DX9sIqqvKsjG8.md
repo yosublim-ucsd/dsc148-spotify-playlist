@@ -4,7 +4,7 @@
 
 > Focus with soft study music in the background.
 
-748 songs - 1 day 8 hr 1 min
+750 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Dark Skies, Bright Stars](https://open.spotify.com/track/2d6TuppzOeiaMHuaddPO9K) | [Elke Fischer](https://open.spotify.com/artist/6TSeTJYdnpkR0LBtg3AmoI) | [Dark Skies, Bright Stars](https://open.spotify.com/album/5Y0tdMVlsomtFC6HqXmahk) | 2:00 | 2021-12-07 | 2022-05-06 |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2022-10-13 | 2023-03-21 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2022-07-20 |
+| [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Delphine](https://open.spotify.com/track/2HkjTkR8KB5CKa2UyrUMHf) | [Mounia Sedé](https://open.spotify.com/artist/2nlEm4eSFbBlIJqDfscH3M) | [Delphine](https://open.spotify.com/album/0Pt37U6BBbLg7PCvhcDT5y) | 2:22 | 2021-12-07 | 2022-05-06 |
 | [Desire](https://open.spotify.com/track/6ZWSNL3mdxhmbLh3KSYdqU) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [Desire](https://open.spotify.com/album/5X7MlwenEeNdxXAbg1gdMO) | 2:08 | 2022-07-19 |  |
 | [Diamond](https://open.spotify.com/track/1eeBSZxZDYT2okIAhcZpno) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Diamond](https://open.spotify.com/album/1xKCiRGT3YFAjADTInkWTk) | 2:38 | 2021-12-07 |  |
@@ -170,6 +171,7 @@
 | [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 | 2023-02-28 |  |
 | [Dovidenja](https://open.spotify.com/track/71Hs7PGCNa1466R9Wiobo0) | [Darija Horvat](https://open.spotify.com/artist/2IHkcRcKQ3RLDY8KDtjmNv) | [Dovidenja](https://open.spotify.com/album/3rsw8cYvKE96H9ePkr2eOn) | 2:09 | 2021-12-07 | 2022-05-06 |
 | [dream river.](https://open.spotify.com/track/1lHYlFy54afDBxts2V3KZZ) | [Woong Sun Hee](https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx) | [dream river.](https://open.spotify.com/album/2updsK0kMBu23RfGBIP8Dd) | 1:27 | 2022-03-30 | 2022-06-08 |
+| [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-08-01 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2021-12-07 | 2023-05-20 |
 | [Driftwood](https://open.spotify.com/track/4FMvhK7BUYaGJbT8zOJ7LH) | [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Driftwood](https://open.spotify.com/album/04KRMNfUUJpcMRBpCBneKJ) | 3:12 | 2021-12-07 | 2022-08-05 |
 | [Dualities](https://open.spotify.com/track/5t9WS1mp1WGOqz6lJut8za) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Dualities](https://open.spotify.com/album/4t57BfTbtsSquhUsYXBQTm) | 2:09 | 2022-08-09 |  |
@@ -392,7 +394,7 @@
 | [Makeshift Dream](https://open.spotify.com/track/43DUAcgzPr2kbp2fWRt568) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 3:35 | 2022-07-19 |  |
 | [Marigold](https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Marigold](https://open.spotify.com/album/64jyz6k12xJwCirt5ZIgvb) | 1:55 | 2021-12-07 | 2023-07-26 |
 | [Marquesue](https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Marquesue](https://open.spotify.com/album/234SnZFgzpQQ5NCzbu7eKf) | 1:53 | 2022-06-07 | 2023-07-26 |
-| [Matria](https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 2:32 | 2021-12-07 |  |
+| [Matria](https://open.spotify.com/track/03wyufh9uNomZdlKIcQ0E4) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Matria](https://open.spotify.com/album/0zy7lGbPXU48J64SMrhoqs) | 2:32 | 2021-12-07 | 2023-08-02 |
 | [Me And My Piano](https://open.spotify.com/track/2M2AbefWfWKK9Pf08jRAew) | [HRDY](https://open.spotify.com/artist/6NR5GQDkybW9GBp3N9Azn4) | [Me And My Piano](https://open.spotify.com/album/1PjKM6ChtggdF8rlBhe3I1) | 2:30 | 2022-01-04 | 2022-07-20 |
 | [Meandering](https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Meandering](https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9) | 2:53 | 2022-03-01 |  |
 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-05-19 |  |
@@ -616,7 +618,7 @@
 | [Tannheimer Tal](https://open.spotify.com/track/1amrAsnnNF1T3asupLTlyu) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Allgäuer Winter](https://open.spotify.com/album/3TteT6GzxNbGON4e6L2D1m) | 2:27 | 2022-11-24 |  |
 | [Te souviens\-tu](https://open.spotify.com/track/3mVXmQV9nn0MiQynug2nbd) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:10 | 2021-12-07 |  |
 | [Tendrement](https://open.spotify.com/track/4WFF3LgLuK0qGqY1YUdzD6) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Tendrement](https://open.spotify.com/album/599xVWUaHJbNMwGYfKMnSz) | 2:09 | 2022-03-16 |  |
-| [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2021-12-07 |  |
+| [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 | 2021-12-07 | 2023-08-02 |
 | [Textures](https://open.spotify.com/track/6nECGyZZTPXxi38Epefgpi) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Textures](https://open.spotify.com/album/2lID0uhvL3FyrwaYxRZWiw) | 2:09 | 2021-12-07 | 2023-06-28 |
 | [That Someone Special](https://open.spotify.com/track/00XW9mCxZofGawH8OIdnBV) | [Stacie Weldon](https://open.spotify.com/artist/0XrjaJY3OzXdArflsIxMkP) | [That Someone Special](https://open.spotify.com/album/2cOE4vfAPfvLreZnKujEPm) | 2:30 | 2021-12-07 | 2022-10-05 |
 | [The Balance](https://open.spotify.com/track/76N81Kjyn0CLyjyU6a7sUg) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [The Balance](https://open.spotify.com/album/5DftGjcxi5Gg6WUTw1AfqR) | 2:37 | 2021-12-07 | 2022-03-17 |

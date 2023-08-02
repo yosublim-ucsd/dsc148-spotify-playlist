@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 252220,
+  "num_followers": 252418,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
+  "snapshot_id": "MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk",
   "tracks": [
     {
       "added_at": "2023-07-11 13:39:19",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "All Fine / eniF llA",
-        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        }
-      ],
-      "duration_ms": 191301,
-      "name": "LXVE",
-      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
         "name": "I Spit On Your Grave",
         "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 219686,
       "name": "I Spit On Your Grave",
       "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "All Fine / eniF llA",
+        "url": "https://open.spotify.com/album/7Lf2EWSPBMZZYJ0lWq1RMW"
+      },
+      "artists": [
+        {
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        }
+      ],
+      "duration_ms": 191301,
+      "name": "LXVE",
+      "url": "https://open.spotify.com/track/1EN0MB0IzI9V7bagk3esAB"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
+        "name": "Picasso On The Concrete",
+        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
       "artists": [
         {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
+          "name": "Waynewood",
+          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
         }
       ],
-      "duration_ms": 212530,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
+      "duration_ms": 190080,
+      "name": "Picasso On The Concrete",
+      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
+        }
+      ],
+      "duration_ms": 212530,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Picasso On The Concrete",
-        "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
       },
       "artists": [
         {
-          "name": "Waynewood",
-          "url": "https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ"
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Picasso On The Concrete",
-      "url": "https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P"
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1099,22 +1115,6 @@
       "duration_ms": 186502,
       "name": "With You",
       "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Satellites (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 210927,
-      "name": "Into The Void - Single Edit",
-      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Rust on the Gates of Heaven",
+        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
+      },
+      "artists": [
+        {
+          "name": "Wear Your Wounds",
+          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
+        }
+      ],
+      "duration_ms": 331015,
+      "name": "Shrinking Violet",
+      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "May Our Chambers Be Full",
         "url": "https://open.spotify.com/album/383HIXuM9TBUq1aVVFVyoc"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 234600,
       "name": "Ancestral Recall",
       "url": "https://open.spotify.com/track/6ss6OkJFKQHnqO84sizM4w"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Rust on the Gates of Heaven",
-        "url": "https://open.spotify.com/album/4a2Q2U38lk0uDIQRhpNZ86"
-      },
-      "artists": [
-        {
-          "name": "Wear Your Wounds",
-          "url": "https://open.spotify.com/artist/162Upzibi1m79dQDaEUjl3"
-        }
-      ],
-      "duration_ms": 331015,
-      "name": "Shrinking Violet",
-      "url": "https://open.spotify.com/track/2vATuBCSWGaY8SU0hsRAZj"
     },
     {
       "added_at": "2023-07-11 13:39:19",

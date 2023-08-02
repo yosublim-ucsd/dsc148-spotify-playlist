@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 66209,
+  "num_followers": 66282,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTYxMTg3MzBiMzQ0ODU0NjIyZWRmNWViNjc1MWJkMjgzYmYwNjkx",
+  "snapshot_id": "MCwwZThlMjQzY2RiYzIxZDk1Mjg0YzBkNTU4ODhjMjMyMTQ1NzllOWQw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Electric Warrior [Expanded & Remastered]",
-        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 298093,
-      "name": "Hot Love",
-      "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Rockin' All Over The World",
         "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 217453,
       "name": "Rockin' All Over The World",
       "url": "https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Electric Warrior [Expanded & Remastered]",
+        "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 298093,
+      "name": "Hot Love",
+      "url": "https://open.spotify.com/track/7EZw2AXVKWSNq5n7cw94RF"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Morning After",
-        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
-      },
-      "artists": [
-        {
-          "name": "The J. Geils Band",
-          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
-        }
-      ],
-      "duration_ms": 155640,
-      "name": "I Don't Need You No More",
-      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Malpractice",
         "url": "https://open.spotify.com/album/39Xqo3qBji9NgSuDA60fvO"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 240866,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/5g3LDYg0JQaXLXx0YAAraG"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "The Morning After",
+        "url": "https://open.spotify.com/album/26PQ24bOMADaGXHApdAsR8"
+      },
+      "artists": [
+        {
+          "name": "The J. Geils Band",
+          "url": "https://open.spotify.com/artist/69Mj3u4FTUrpyeGNSIaU6F"
+        }
+      ],
+      "duration_ms": 155640,
+      "name": "I Don't Need You No More",
+      "url": "https://open.spotify.com/track/1HKr4zUACoh3QfxbfVz8Du"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Get The Picture?",
-        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
+        "name": "One Way...Or Another",
+        "url": "https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly"
       },
       "artists": [
         {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+          "name": "Cactus",
+          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
         }
       ],
-      "duration_ms": 139240,
-      "name": "Midnight To Six Man",
-      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
+      "duration_ms": 240346,
+      "name": "Rockout, Whatever You Feel Like",
+      "url": "https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "One Way...Or Another",
-        "url": "https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly"
+        "name": "Get The Picture?",
+        "url": "https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E"
       },
       "artists": [
         {
-          "name": "Cactus",
-          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
         }
       ],
-      "duration_ms": 240346,
-      "name": "Rockout, Whatever You Feel Like",
-      "url": "https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx"
+      "duration_ms": 139240,
+      "name": "Midnight To Six Man",
+      "url": "https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU"
     }
   ],
   "unique_name": "Boogie Rock",

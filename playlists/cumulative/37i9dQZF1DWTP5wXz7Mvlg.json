@@ -1058,7 +1058,7 @@
     {
       "album": {
         "name": "Ill Vibe",
-        "url": "https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre"
+        "url": "https://open.spotify.com/album/2iIVZsS8USgB8QNvHWNwth"
       },
       "artists": [
         {
@@ -1069,6 +1069,24 @@
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Ill Vibe",
+      "url": "https://open.spotify.com/track/1gRE5q4XmrVtt42cF2VkIg"
+    },
+    {
+      "album": {
+        "name": "Ill Vibe",
+        "url": "https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre"
+      },
+      "artists": [
+        {
+          "name": "The Sauce",
+          "url": "https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
       "duration_ms": 268800,
       "name": "Ill Vibe",
       "url": "https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS"
@@ -1976,7 +1994,7 @@
     {
       "album": {
         "name": "Yagga Yagga",
-        "url": "https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y"
+        "url": "https://open.spotify.com/album/5cQjxfc0PLl9FZ6g8blq8A"
       },
       "artists": [
         {
@@ -1991,6 +2009,28 @@
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257828,
+      "name": "Yagga Yagga",
+      "url": "https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF"
+    },
+    {
+      "album": {
+        "name": "Yagga Yagga",
+        "url": "https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y"
+      },
+      "artists": [
+        {
+          "name": "The Sauce",
+          "url": "https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG"
+        },
+        {
+          "name": "Fox",
+          "url": "https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
       "duration_ms": 257828,
       "name": "Yagga Yagga",
       "url": "https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb"

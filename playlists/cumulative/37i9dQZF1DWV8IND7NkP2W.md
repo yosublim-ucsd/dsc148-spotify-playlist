@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-627 songs - 1 day 4 hr 17 min
+629 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
 | [By The Sea](https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [CINEMA](https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j) | 2:18 | 2022-10-13 | 2023-01-20 |
 | [Calm of Jazz](https://open.spotify.com/track/6z4ge4bEuNUuZ1jur3I0QG) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [Calm of Jazz](https://open.spotify.com/album/5yVN2JaIvmCThUoVH1tke6) | 2:58 | 2021-12-23 | 2022-06-18 |
-| [Calvin](https://open.spotify.com/track/5VCLQ7di8TKUgO0wn0eg7W) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Calvin](https://open.spotify.com/album/2Ltqpc2vyTmJ0i2qtEiNK6) | 1:46 | 2023-06-29 |  |
+| [Calvin](https://open.spotify.com/track/5VCLQ7di8TKUgO0wn0eg7W) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Calvin](https://open.spotify.com/album/2Ltqpc2vyTmJ0i2qtEiNK6) | 1:46 | 2023-06-29 | 2023-08-02 |
 | [caravan](https://open.spotify.com/track/66j0QbHI6VRrDyIBKpj8cx) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [caravan](https://open.spotify.com/album/7J8kEw1gStQfSksAACR8qq) | 2:47 | 2022-01-13 | 2022-07-25 |
 | [Carol](https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [Carol](https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP) | 2:38 | 2022-12-16 |  |
 | [Cat Alley](https://open.spotify.com/track/4y9mOkYt3R1VN4kIDbJyz0) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Cat Alley](https://open.spotify.com/album/5cAV9PNJYbpYFAst4vVUsy) | 1:29 | 2021-12-23 | 2022-07-21 |
@@ -109,7 +109,7 @@
 | [City of light](https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU) | 3:29 | 2022-07-28 |  |
 | [Clockwork Mural](https://open.spotify.com/track/4UcmzdeARm6JxkcIaewtA5) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Clockwork Mural](https://open.spotify.com/album/1BcfqIzdgOtWzzSL7Hrqvc) | 2:25 | 2022-05-26 | 2022-06-19 |
 | [Coffee break with him](https://open.spotify.com/track/475cCO8ac84X7j34ilKNgo) | [CRAM](https://open.spotify.com/artist/2kuzzESZpVYXEbJPF1o82D), [matatabi](https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz) | [LOOPER](https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7) | 1:59 | 2021-12-23 | 2022-07-28 |
-| [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 |  |
+| [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2023-08-02 |
 | [Cold Lot](https://open.spotify.com/track/2CzYZfWwm2YF42vlHKCnOU) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Cold Lot](https://open.spotify.com/album/5zSkglZonnik5z9Bsr97xQ) | 1:40 | 2021-12-23 | 2022-01-01 |
 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 | 2022-07-28 |  |
 | [Conflicted](https://open.spotify.com/track/4Rex03OZQCSqIgqWbmebTs) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Conflicted](https://open.spotify.com/album/0B4Zt2LmDh1aowk0YA5etb) | 3:39 | 2021-12-23 | 2022-07-25 |
@@ -394,6 +394,7 @@
 | [Nomadic tribe \- DJ Mitsu The Beats Remix](https://open.spotify.com/track/6vHbIO9JV3LjFuMxiIf9Vr) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Nomadic tribe \(DJ Mitsu The Beats Remix\)](https://open.spotify.com/album/78jQAlIKlWgR14QM3arefx) | 4:05 | 2021-12-23 | 2022-12-24 |
 | [Nomadic tribe \- No.9 Remix](https://open.spotify.com/track/5zVN16RjpgUDZ2rBeXvPhY) | [Otoji + Ray](https://open.spotify.com/artist/0b90iQpNWuYUH8vr0NyhOA), [No.9](https://open.spotify.com/artist/3QR2FqA6iqKnrHMKoQuPsZ) | [Nomadic tribe \(No.9 Remix\)](https://open.spotify.com/album/7slNNGveLkTBkaUuOcS7VZ) | 4:25 | 2022-06-30 | 2022-07-26 |
 | [NOTE](https://open.spotify.com/track/25dGr8RF6IMLHkzgHgE3Xl) | [Isaz](https://open.spotify.com/artist/2QKgJH2C0AY4KGrmn7bczD) | [Number5](https://open.spotify.com/album/3YrXxyLoT9M9WUaqlebgpq) | 2:05 | 2022-03-31 | 2022-04-09 |
+| [NTME Route 3](https://open.spotify.com/track/1JNKSKnWatoAHXtKl6CjdJ) | [DJ MASTERKEY](https://open.spotify.com/artist/2dg4DEZAnPRb0F8By56AYZ), [ONODUB](https://open.spotify.com/artist/6kQH7BRX0SMB7OlSRr6IeA) | [SUMMER BREEZE](https://open.spotify.com/album/0BYO0GnScDav439GPw8GiP) | 2:54 | 2023-08-01 |  |
 | [Nujabest](https://open.spotify.com/track/2h5AdIzimnGEaT8EToDcQb) | [Astrolemo](https://open.spotify.com/artist/6XtEzqCB9T1Y8uAjCGS17j) | [Nujabest](https://open.spotify.com/album/7M1n4PgrCJoFKhdMqT1Xj2) | 0:54 | 2022-03-24 | 2022-04-16 |
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 | 2023-04-16 |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
@@ -624,6 +625,7 @@
 | [yomichi](https://open.spotify.com/track/1LuJwCQCgT6qZSxRIeSkYj) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/3oQXB5jYqCVUI5kmPQSidj) | 2:00 | 2021-12-23 | 2022-07-28 |
 | [YOU](https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [AYG](https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu) | [YOU](https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug) | 2:40 | 2022-04-07 | 2023-06-02 |
 | [you](https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W) | [niafrasco](https://open.spotify.com/artist/4qjD6ngB2GaiIoWc6Xws42) | [you](https://open.spotify.com/album/6BXt7Zi0lQpeG2MIrpVK7w) | 3:04 | 2021-12-23 | 2022-07-28 |
+| [You Are My Secret Lounge](https://open.spotify.com/track/1QueZBQEbVioULqaNgawtH) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [You Are My Secret Lounge](https://open.spotify.com/album/3AZVbZBnFq6B54y62BLVpi) | 2:09 | 2023-08-01 |  |
 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 | 2021-12-23 | 2023-02-10 |
 | [Yuragi](https://open.spotify.com/track/0vedxKV2iuK0EB868iTF42) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Yuragi](https://open.spotify.com/album/4RwDaGLhqu0SlxNdXIB3ST) | 2:14 | 2022-11-24 | 2022-12-02 |
 | [YUYAKE](https://open.spotify.com/track/5yyQpRRoBp3FsivksZ4Ars) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/5eLICFFzPhy0vjnbufvHVy) | 3:00 | 2022-05-26 | 2022-07-28 |

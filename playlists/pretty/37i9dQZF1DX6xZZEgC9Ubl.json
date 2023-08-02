@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1493849,
+  "num_followers": 1494266,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGU5NWFlODQ0ZmYwYzE3NDkxNjZmOTViY2FkZDZiYTQ5NWIxMjY1",
+  "snapshot_id": "MCwxN2JhZTBmMjYyNmZhYzVmNTY0YzViODQ1ZTgwN2MyZThjNmQyMTM0",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -495,18 +495,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "I\u2019ll Keep You Safe",
-        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
+        "name": "You Broke My Heart Again",
+        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
       },
       "artists": [
         {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+          "name": "Teqkoi",
+          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
+        },
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
         }
       ],
-      "duration_ms": 140338,
-      "name": "I\u2019ll Keep You Safe",
-      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+      "duration_ms": 103400,
+      "name": "You Broke My Heart Again",
+      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -527,22 +531,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "You Broke My Heart Again",
-        "url": "https://open.spotify.com/album/4xAVJuJfkIwgiZRkfQecMF"
+        "name": "I\u2019ll Keep You Safe",
+        "url": "https://open.spotify.com/album/7tdgNlk73DWhsf6jPDlhCX"
       },
       "artists": [
         {
-          "name": "Teqkoi",
-          "url": "https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD"
-        },
-        {
-          "name": "Aiko",
-          "url": "https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi"
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
         }
       ],
-      "duration_ms": 103400,
-      "name": "You Broke My Heart Again",
-      "url": "https://open.spotify.com/track/6qpT0nzHUn52gnSWYdbxF4"
+      "duration_ms": 140338,
+      "name": "I\u2019ll Keep You Safe",
+      "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -761,24 +761,20 @@
       "url": "https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY"
     },
     {
-      "added_at": "2023-07-20 16:16:19",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Sad & Alone",
-        "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
+        "name": "Demons and Monsters",
+        "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
       "artists": [
         {
-          "name": "Zzz.",
-          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 165431,
-      "name": "Sad & Alone",
-      "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
+      "duration_ms": 197902,
+      "name": "Demons and Monsters",
+      "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
     },
     {
       "added_at": "2023-07-20 16:16:19",
@@ -797,20 +793,24 @@
       "url": "https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-07-20 16:16:19",
       "album": {
-        "name": "Demons and Monsters",
-        "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
+        "name": "Sad & Alone",
+        "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
       "artists": [
         {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 197902,
-      "name": "Demons and Monsters",
-      "url": "https://open.spotify.com/track/7u9BIFBgxuqntGW7wO5lMs"
+      "duration_ms": 165431,
+      "name": "Sad & Alone",
+      "url": "https://open.spotify.com/track/7dinBECf2hNhnawGdAGT2B"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -945,6 +945,22 @@
       "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
     },
     {
+      "added_at": "2023-07-27 17:46:29",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP"
+      },
+      "artists": [
+        {
+          "name": "Yumi",
+          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS"
+    },
+    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "A SERIES OF UNFORTUNATE EVENTS",
@@ -983,22 +999,6 @@
       "duration_ms": 195745,
       "name": "when we were 16",
       "url": "https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51"
-    },
-    {
-      "added_at": "2023-07-27 17:46:29",
-      "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP"
-      },
-      "artists": [
-        {
-          "name": "Yumi",
-          "url": "https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/661BYxmgtbIFtG5K2GDhip"
     },
     {
+      "added_at": "2023-07-20 16:16:19",
+      "album": {
+        "name": "Let Me Fall",
+        "url": "https://open.spotify.com/album/6zfFgmqJLOCEjR08whYTqn"
+      },
+      "artists": [
+        {
+          "name": "Kado",
+          "url": "https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb"
+        }
+      ],
+      "duration_ms": 188442,
+      "name": "Let Me Fall",
+      "url": "https://open.spotify.com/track/6BbMaQhu9jKENB1vzQ2ijJ"
+    },
+    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "Perfect",
@@ -1311,6 +1327,22 @@
       "duration_ms": 219866,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 206270,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1aSPP0cNC617X9tPtQUUlt"
-      },
-      "artists": [
-        {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
-        }
-      ],
-      "duration_ms": 206270,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/1CIxzzS0nVJNfk5wuN2MjM"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Violets",
         "url": "https://open.spotify.com/album/2VjD8t0WIbujLu8ksPd7yg"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/3Ukt7NkeA9noJ8b0vU8sNO"
-    },
-    {
-      "added_at": "2023-07-20 16:16:19",
-      "album": {
-        "name": "Let Me Fall",
-        "url": "https://open.spotify.com/album/6zfFgmqJLOCEjR08whYTqn"
-      },
-      "artists": [
-        {
-          "name": "Kado",
-          "url": "https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb"
-        }
-      ],
-      "duration_ms": 188442,
-      "name": "Let Me Fall",
-      "url": "https://open.spotify.com/track/6BbMaQhu9jKENB1vzQ2ijJ"
     },
     {
       "added_at": "2023-06-30 07:33:00",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "V12 (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 177835,
+      "name": "V12 (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "TheWitch&TheWizard",
         "url": "https://open.spotify.com/album/2dneNXFjs4BdvJ3Ij5l68O"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 163755,
       "name": "Salt",
       "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "V12 (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 177835,
-      "name": "V12 (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "do it all",
+        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "do it all",
+      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "thishouseisnotahome",
         "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 114200,
       "name": "PRIMADONA",
       "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "do it all",
-        "url": "https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf"
-      },
-      "artists": [
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "do it all",
-      "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
       "added_at": "2023-04-12 16:57:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,708 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,747 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 29 | [Posterize \- From "epbl Pre\-Season Anthem"](https://open.spotify.com/track/3UZtufO3yR0BMrt9RHxw4A) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [ATHRV](https://open.spotify.com/artist/1Qdg9IrqdbU1J2TG7ORCHx) | [Posterize \(From "epbl Pre\-Season Anthem"\)](https://open.spotify.com/album/2J2rR2osjdly1HyJIBo4oO) | 2:51 |
 | 30 | [Boyfriend](https://open.spotify.com/track/79L4Ilf14zlMlwosjVWWyG) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Boyfriend](https://open.spotify.com/album/5iygFlfiQ410htPcHY6w0S) | 5:30 |
 | 31 | [SLATT](https://open.spotify.com/track/6lvgkN6qlE9RDp0BzfPUDu) | [Ynxiety](https://open.spotify.com/artist/2csj16wTsXZ6kmvAw6R86s) | [SLATT](https://open.spotify.com/album/16KxB4wDVIwGSwhUqftEAs) | 4:57 |
-| 32 | [Bombay Circle](https://open.spotify.com/track/0tG08mgXKpGLBUT1Kd8f2W) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [Chemical Reaction](https://open.spotify.com/album/4avCrGvAoyiwRbSQUdyaHf) | 3:05 |
+| 32 | [Bombay Circle](https://open.spotify.com/track/0tG08mgXKpGLBUT1Kd8f2W) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [UZI](https://open.spotify.com/artist/3GtAADCtVUXFWxVwj99BTD) | [Chemical Reaction](https://open.spotify.com/album/4avCrGvAoyiwRbSQUdyaHf) | 3:05 |
 | 33 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 |
 | 34 | [It's Aight](https://open.spotify.com/track/0m6q4ExjPAlpICPMN0Mnd3) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Prophet Joegus](https://open.spotify.com/artist/5PsSnCWLBoL7bdXFk02Q2a) | [A Message from the Moon](https://open.spotify.com/album/4LpX3ETuKXYM2z29WySuP8) | 3:21 |
 | 35 | [Dard\-E\-Dil](https://open.spotify.com/track/3uJFFaqnvX6mFPJCqonnDv) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Dard\-E\-Dil](https://open.spotify.com/album/73msXI225qoOzfMKoJ5RyW) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 49 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
 | 50 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 
-Snapshot ID: `MCxlZGJjY2QwNmNhZDg0OTFiMmYxNzgwNmI4YTczOGUyMGU5NTIyNjJh`
+Snapshot ID: `MCw3NjdmNDMwYzgxYmRlMTdiZDkyNzhjNzBjM2E2MzAwNTRmNzY1NjY3`

@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: DOLLA",
-  "num_followers": 61762,
+  "num_followers": 61768,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzk2Y2M3MGQ0MzUzM2UzNmZlMGIyMzliODM1MmYyMDk2OTEwMDkx",
+  "snapshot_id": "MCwzMTQ0NzQ3Njk4NTE5N2Q0MjIzN2YxYzdhMWZhYTkzZjRlZjEwZGRk",
   "tracks": [
     {
       "added_at": "2023-07-27 16:00:00",
@@ -130,10 +130,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES)",
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {

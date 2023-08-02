@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,209 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,259 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -540,7 +540,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 530 | [El Chiclan](https://open.spotify.com/track/3pBsTGaerL7pexxMyKdvhW) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/6LWrBdwjqNUe7lIFW8paQ6) | 5:29 |
 | 531 | [Perfidia](https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:20 |
 | 532 | [Nem Kaldi](https://open.spotify.com/track/5IW1jdBfYhZ8BVGGj7C8Nk) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Nem Kaldi](https://open.spotify.com/album/1GntqXjpN10NFBuayFWAGh) | 5:13 |
-| 533 | [Mùa Gặt Mới](https://open.spotify.com/track/0Q6J9fKUWqZtvaI9TZYhmT) | [Hoang Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Saigon Supersound](https://open.spotify.com/artist/69CibdsClVHBslcyq1hc89) | [Saigon Supersound, Vol\. 1](https://open.spotify.com/album/08BR2A2sAZHDkCsKuYbWKJ) | 4:12 |
+| 533 | [Mùa Gặt Mới](https://open.spotify.com/track/0Q6J9fKUWqZtvaI9TZYhmT) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Saigon Supersound](https://open.spotify.com/artist/69CibdsClVHBslcyq1hc89) | [Saigon Supersound, Vol\. 1](https://open.spotify.com/album/08BR2A2sAZHDkCsKuYbWKJ) | 4:12 |
 | 534 | [Ces P'Tits Je T'aime](https://open.spotify.com/track/3R4KDuBMX0iCldNRtVHXc2) | [Daniel Forestal Et Sa Guitare](https://open.spotify.com/artist/4aDhVqBARboRKyNkDd7yHV) | [Disques Debs International Vol\. 1](https://open.spotify.com/album/6o719MUZj3nUFQb4s1JeRm) | 2:43 |
 | 535 | [Salvación](https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:47 |
 | 536 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`
+Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: VK Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,476 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,483 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 12 | [Tralha](https://open.spotify.com/track/3vGu6lSFE4WV73WhNQKf8s) | [Dom](https://open.spotify.com/artist/4xTYyi8DMAejeE8L10qS1O), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Tralha](https://open.spotify.com/album/5cl7faAxfMtCel455G1GeY) | 2:15 |
 | 13 | [BARRAS & BARRAS](https://open.spotify.com/track/5SlIDR9KTk0VbzkgQCHn0Y) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE) | [BARRAS & BARRAS](https://open.spotify.com/album/7hk6SnodcEFVXZefWi8SKK) | 2:00 |
 | 14 | [Rota Desenfreada](https://open.spotify.com/track/7K6jVpgtSpR78iU5tPjiw1) | [GSAN43](https://open.spotify.com/artist/3dMOm4xUWQGQOG8bpajrOq), [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Rota Desenfreada](https://open.spotify.com/album/1vhW2cnMUegJbWmE5c2pUq) | 2:33 |
-| 15 | [UNFOLLOW](https://open.spotify.com/track/7cGtaRsbQ8YABO3BTD4fIt) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [R\. Guerra](https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id), [guto!](https://open.spotify.com/artist/741LMJSj3qtdJlDxhjmQep), [Cout1nho](https://open.spotify.com/artist/2AVRzXrir2Gfb7QUNxijTv), [BINGZERA](https://open.spotify.com/artist/2yhXLM615ocvFeGfLsjGn9) | [UNFOLLOW](https://open.spotify.com/album/6nKa2EjqmNgrWfGhnK7y7F) | 4:51 |
+| 15 | [UNFOLLOW](https://open.spotify.com/track/7cGtaRsbQ8YABO3BTD4fIt) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [R\. Guerra](https://open.spotify.com/artist/0ihqJFsOSMthFAo5T9e4Id), [guto!](https://open.spotify.com/artist/741LMJSj3qtdJlDxhjmQep), [Cout1nho](https://open.spotify.com/artist/2AVRzXrir2Gfb7QUNxijTv), [BINGZERA](https://open.spotify.com/artist/2yhXLM615ocvFeGfLsjGn9) | [UNFOLLOW](https://open.spotify.com/album/6nKa2EjqmNgrWfGhnK7y7F) | 4:32 |
 | 16 | [NOITE PAULISTA](https://open.spotify.com/track/2vcT8OFI7FfzrI4OGQaxT1) | [Mirim](https://open.spotify.com/artist/1zWKOtdpMainVsbeOR6kk6), [Pedrin](https://open.spotify.com/artist/0RrC6lsh0pUpjYSWhBjZ66), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf) | [AGL](https://open.spotify.com/album/2W5bmF4OOyHXQSp1M1bAgG) | 3:10 |
 | 17 | [Positividade](https://open.spotify.com/track/7EqkBaphRYOfRjKZS3OoJz) | [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Positividade, Vol\. 1](https://open.spotify.com/album/0oGGVctKZRduZwuyCi2MVJ) | 3:09 |
 | 18 | [Grifes](https://open.spotify.com/track/3HHAsO30SjtB0hfXFiqpWu) | [A$TRO BOY](https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE), [SmileRic](https://open.spotify.com/artist/7BzYK2AQMriE4Gzl6sww8a) | [Grifes](https://open.spotify.com/album/6JQ2jh1b5njdCAjSIekgwZ) | 2:18 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 73 | [Prometazina](https://open.spotify.com/track/5TPGZNFUWThxPkA95SR6fY) | [LP Freestyle](https://open.spotify.com/artist/55MsEWRF4BhHEQqWvtPHjv), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Prometazina](https://open.spotify.com/album/0aPlwNreucz647rjA6AWPj) | 3:02 |
 | 74 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCxiMzc2NzkzMTE1YzhmZTBkZTJhYTU2MzE2Y2YwM2NjNGE3MzAyYWUy`
+Snapshot ID: `MCxjYzhjZTFhNWU3NjFlY2MwYzhkODE5Mzk5YTMzOTg1MWJlZTA3YTU5`

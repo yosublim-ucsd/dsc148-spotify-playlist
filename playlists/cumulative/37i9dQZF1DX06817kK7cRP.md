@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-130 songs - 5 hr 59 min
+131 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,13 +109,14 @@
 | [Rush Hour](https://open.spotify.com/track/5O6z2ai9ZENm9XywrUjZZU) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Rush Hour](https://open.spotify.com/album/4Ly3M4zMNlO5dpUeHpg1Pq) | 2:39 | 2023-01-12 |  |
 | [Santorini](https://open.spotify.com/track/7j7MEvQoI9MPt7llQxh9e5) | [Beatific](https://open.spotify.com/artist/3yb8TZjDnL3VzpwqZus72C) | [Santorini](https://open.spotify.com/album/4lRjVxnEO699voyXOoOg24) | 1:25 | 2023-01-12 |  |
 | [Scho Guet](https://open.spotify.com/track/6ottSGnUxB1xuyLR9Pd4Vd) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Scho Guet](https://open.spotify.com/album/0RW29wYWBcPejIxG1ANPKM) | 3:53 | 2023-01-13 | 2023-03-10 |
+| [Scrambled Eggs](https://open.spotify.com/track/7bTPwHHPyw83LN6dxLZgFF) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN), [Hypntc](https://open.spotify.com/artist/40WuCSBpNDy6QCmhmZrl1E) | [Scrambled Eggs](https://open.spotify.com/album/03qZ8AJgMGeOyk1tfdRIWa) | 1:55 | 2023-06-20 |  |
 | [Seasons](https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Seasons](https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c) | 2:24 | 2023-01-12 |  |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-01-12 |  |
 | [Smooth Sunday Barbeque](https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM) | [Pat Kujala](https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK) | [Smooth Sunday Barbeque](https://open.spotify.com/album/3248TWghWQaI4iwhukipLS) | 3:17 | 2023-06-20 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-06-01 |  |
 | [Stills](https://open.spotify.com/track/6AoJ6JUXWEm9NIU7HZqqzJ) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Stills](https://open.spotify.com/album/08NfamTiYO1DVxNLX6tq6X) | 2:24 | 2023-01-12 | 2023-04-22 |
 | [Stuck Inside](https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SPRING](https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z) | 3:33 | 2023-01-13 |  |
-| [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 | 2023-01-12 |  |
+| [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 | 2023-01-12 | 2023-08-02 |
 | [Sunrays](https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Sunrays](https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz) | 2:12 | 2023-01-12 |  |
 | [Sweet Summer](https://open.spotify.com/track/02StEGitEzSYO4tHxIgJXp) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Sweet Summer](https://open.spotify.com/album/0ATKgXkzT0pUU5TWCPnqxT) | 1:49 | 2023-01-12 | 2023-03-25 |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-01-12 |  |

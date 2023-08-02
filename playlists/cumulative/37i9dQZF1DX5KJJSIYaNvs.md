@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to Indian women, at full volume\. Cover: Rashmeet Kaur
+> Listen to Indian women, at full volume\. Cover \- Sunanda Sharma
 
 212 songs - 12 hr 15 min
 

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring El Krack Mx. Updates every Wednesday.",
-  "num_followers": 171533,
+  "num_followers": 171536,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjdjYmJiNTBjMTc4OWEyZmUyMmM1YTc4OWIzMGIyYjI5YzNlYmQ5",
+  "snapshot_id": "MCxkMGYyNzU0MmM3MzQ0YjhiOGI4YzI0NDZmZjdkMWJlZTNmMzYwMTdh",
   "tracks": [
     {
       "added_at": "2023-07-26 06:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Amar Es Sufrir",
-        "url": "https://open.spotify.com/album/6JWbQsyKdxLTDIJvWxf0bQ"
-      },
-      "artists": [
-        {
-          "name": "La Clase Loka",
-          "url": "https://open.spotify.com/artist/22nSnChdvEoslVuyfY2pHf"
-        }
-      ],
-      "duration_ms": 226419,
-      "name": "Amar Es Sufrir",
-      "url": "https://open.spotify.com/track/6S8HEh2ChSiWpE1xMhpxLn"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Modelo De Revista",
         "url": "https://open.spotify.com/album/42199hu6QEerlS4vtMcpbr"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
+        "name": "Amar Es Sufrir",
+        "url": "https://open.spotify.com/album/6JWbQsyKdxLTDIJvWxf0bQ"
+      },
+      "artists": [
+        {
+          "name": "La Clase Loka",
+          "url": "https://open.spotify.com/artist/22nSnChdvEoslVuyfY2pHf"
+        }
+      ],
+      "duration_ms": 226419,
+      "name": "Amar Es Sufrir",
+      "url": "https://open.spotify.com/track/6S8HEh2ChSiWpE1xMhpxLn"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/2H1XMncMGkoF3IRwh3i9OE"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 213194,
       "name": "Magia",
       "url": "https://open.spotify.com/track/32T7ksMVIF7pgYLgu5dpPr"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Con La Mirada",
-        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Con La Mirada",
-      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -511,18 +495,18 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "El Film",
-        "url": "https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT"
+        "name": "Con La Mirada",
+        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
       },
       "artists": [
         {
-          "name": "Los Otros D\u00edas",
-          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
         }
       ],
-      "duration_ms": 181703,
-      "name": "El Film",
-      "url": "https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp"
+      "duration_ms": 232973,
+      "name": "Con La Mirada",
+      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -551,6 +535,38 @@
       "duration_ms": 148236,
       "name": "LADRIDOS FREESTYLE",
       "url": "https://open.spotify.com/track/7CiyDHa8UN2hj5kaS5bme8"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "El Film",
+        "url": "https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT"
+      },
+      "artists": [
+        {
+          "name": "Los Otros D\u00edas",
+          "url": "https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V"
+        }
+      ],
+      "duration_ms": 181703,
+      "name": "El Film",
+      "url": "https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Si Te Quedas",
+        "url": "https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        }
+      ],
+      "duration_ms": 129610,
+      "name": "Si Te Quedas",
+      "url": "https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Si Te Quedas",
-        "url": "https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT"
-      },
-      "artists": [
-        {
-          "name": "YoGambii",
-          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
-        }
-      ],
-      "duration_ms": 129610,
-      "name": "Si Te Quedas",
-      "url": "https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Noche Celestial",
         "url": "https://open.spotify.com/album/5va9LKSzx2bUNZvOZ2W0RZ"
       },
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
+      },
+      "artists": [
+        {
+          "name": "Proyectosolo",
+          "url": "https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
         "name": "Te quedas?",
         "url": "https://open.spotify.com/album/60AFB9xe1ZcCowGWY1AJ9d"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf"
+        "name": "Relinda",
+        "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
       },
       "artists": [
         {
-          "name": "Proyectosolo",
-          "url": "https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa"
+          "name": "Jose Villasenor",
+          "url": "https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC"
+      "duration_ms": 153125,
+      "name": "Relinda",
+      "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -687,22 +703,6 @@
       "duration_ms": 200799,
       "name": "Tragos",
       "url": "https://open.spotify.com/track/28Kg5mB38fipYwzhyUnNeH"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
-        "name": "Relinda",
-        "url": "https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14"
-      },
-      "artists": [
-        {
-          "name": "Jose Villasenor",
-          "url": "https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "Relinda",
-      "url": "https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ"
     },
     {
       "added_at": "2023-07-26 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-26 06:00:00",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 164656,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud"
-    },
-    {
-      "added_at": "2023-07-26 06:00:00",
-      "album": {
         "name": "Meant To be Superfluous",
         "url": "https://open.spotify.com/album/7MtiH1SlOboNXb2awykwB5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 291147,
       "name": "Futura",
       "url": "https://open.spotify.com/track/4M9mmhJRZzTldBK00ZmLVF"
+    },
+    {
+      "added_at": "2023-07-26 06:00:00",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/6wJTeqF97YGb5QbwCwhcUS"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 164656,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/5zY6Y32KhjA0TzMYrbpeud"
     },
     {
       "added_at": "2023-07-26 06:00:00",

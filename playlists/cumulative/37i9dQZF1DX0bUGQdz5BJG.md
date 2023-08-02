@@ -2,7 +2,7 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: Frank Ray
+> Music City must\-hears\. Cover: Peytan Porter
 
 1,511 songs - 3 day 8 hr 54 min
 

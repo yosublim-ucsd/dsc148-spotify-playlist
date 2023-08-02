@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 118933,
       "name": "A Heavy Heart",
       "url": "https://open.spotify.com/track/4pbeMmSR2AUaZUUkTZq2Jz"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 105532,
       "name": "A Kiss In The Rain",
       "url": "https://open.spotify.com/track/2QOk0tGjSjyVMduRcw1OXK"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 109814,
       "name": "Entering",
       "url": "https://open.spotify.com/track/0PNGMJaRWetzMOir1QAKoC"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 79613,
       "name": "Mitt lilla barn",
       "url": "https://open.spotify.com/track/0jN75qBVKAWZqhxOXKyQB5"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 86493,
       "name": "My True Self",
       "url": "https://open.spotify.com/track/2SwdJrElJz5UrjtvxEayPP"
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 103147,
       "name": "Probl\u00e9matique",
       "url": "https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT"
@@ -3728,7 +3728,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 116706,
       "name": "Radius",
       "url": "https://open.spotify.com/track/5HAJEsxD0fBSnbdWljzeFh"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 110868,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0Nxz7Bf7EZgGVzaH4McTd2"
@@ -3840,6 +3840,24 @@
       "duration_ms": 157000,
       "name": "Reggimi",
       "url": "https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ"
+    },
+    {
+      "album": {
+        "name": "Relief",
+        "url": "https://open.spotify.com/album/1d48qGcKGwSmxtsQ2wagp0"
+      },
+      "artists": [
+        {
+          "name": "Philipp Hasse",
+          "url": "https://open.spotify.com/artist/76Awap7mRTdIk1ACiLdzYX"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Relief",
+      "url": "https://open.spotify.com/track/3s6CQV3a3fhMOUbEqyqmhb"
     },
     {
       "album": {
@@ -3984,7 +4002,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 74672,
       "name": "Running Up That Hill - Piano",
       "url": "https://open.spotify.com/track/6sY25clRpzWFR7rEj2BT1H"
@@ -4926,7 +4944,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 84138,
       "name": "Tempered",
       "url": "https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC"
@@ -5708,7 +5726,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
@@ -5978,7 +5996,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 111000,
       "name": "Wordless",
       "url": "https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt"

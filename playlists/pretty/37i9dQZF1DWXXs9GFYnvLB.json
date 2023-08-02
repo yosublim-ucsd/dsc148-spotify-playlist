@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks with the freshest hits! Cover: Troye Sivan",
-  "num_followers": 1370505,
+  "num_followers": 1370523,
   "original_name": "Hot Hits Australia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzI4NGJmODBjZjYzOWIxNzE5MzliZWQxZmM1NWYxODE1MmQyZDhi",
+  "snapshot_id": "MCxjNWMxNTcyYWIzOWI0YzBjMjNlZGUyNWYxODlhY2EyYWFhMWZiMjA3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:12:05",
@@ -82,10 +82,14 @@
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
       "duration_ms": 274137,
-      "name": "DELRESTO (ECHOES)",
+      "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/0OEe83mMZ5kaNw5uZQ7ilG"
     },
     {

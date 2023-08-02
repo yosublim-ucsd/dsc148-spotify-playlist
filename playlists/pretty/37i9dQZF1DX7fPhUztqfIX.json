@@ -1,12 +1,12 @@
 {
   "description": "Emerging sounds in worship from everywhere.",
-  "num_followers": 107793,
+  "num_followers": 107818,
   "original_name": "New & Bold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4",
+  "snapshot_id": "MCxjZDc4MzlhMjA1ZTk2MzFjYmNkZGJhNzc0MzNhYWVhOWRjODE5ODI3",
   "tracks": [
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "I Feel Good About It",
-        "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
-      },
-      "artists": [
-        {
-          "name": "Foothills Collective",
-          "url": "https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc"
-        },
-        {
-          "name": "Megan Brown",
-          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "I Feel Good About It",
-      "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Carried",
         "url": "https://open.spotify.com/album/2ae612G873GaK4EoWE9pYw"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 366000,
       "name": "Through Every Season",
       "url": "https://open.spotify.com/track/6RJyHviV33RA8ssCL3ckOh"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "I Feel Good About It",
+        "url": "https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4"
+      },
+      "artists": [
+        {
+          "name": "Foothills Collective",
+          "url": "https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc"
+        },
+        {
+          "name": "Megan Brown",
+          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "I Feel Good About It",
+      "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/1R5lvTHthuyn00I6ChzVJS"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 219942,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/55Ux5CRmDRoT2jhFqIdzCH"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "A Thousand More",
-        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
-      },
-      "artists": [
-        {
-          "name": "Thrive Worship",
-          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
-        }
-      ],
-      "duration_ms": 359710,
-      "name": "A Thousand More - Live",
-      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 320080,
       "name": "You Are Fullness",
       "url": "https://open.spotify.com/track/5iXbWHfGqdP4M2M1QmT73u"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/5qmPdBvCX3tvJpeFMMon0y"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "duration_ms": 359710,
+      "name": "A Thousand More - Live",
+      "url": "https://open.spotify.com/track/6q4Q2EOne9TaUNIb7tdxfu"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "Savior Of The World",
-        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "Savior Of The World - Single Version",
-      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Jesus Is The Key",
         "url": "https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 389187,
       "name": "Jesus Is The Key",
       "url": "https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "Savior Of The World",
+        "url": "https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "Savior Of The World - Single Version",
+      "url": "https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "We Rise We Bow",
-        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
-      },
-      "artists": [
-        {
-          "name": "Cageless Birds",
-          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 339642,
-      "name": "White as Snow",
-      "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -2131,6 +2111,26 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
+        "name": "We Rise We Bow",
+        "url": "https://open.spotify.com/album/6vQiAyokbSLC6BJUZlkKtr"
+      },
+      "artists": [
+        {
+          "name": "Cageless Birds",
+          "url": "https://open.spotify.com/artist/4rZuQD42ETklGQfWmgvqBR"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 339642,
+      "name": "White as Snow",
+      "url": "https://open.spotify.com/track/5XDn9aUqCUt0VAH8gOWjIp"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "God of the Breakthrough",
-        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
-      },
-      "artists": [
-        {
-          "name": "Crossroads Music",
-          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "God of the Breakthrough",
-      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 259399,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/4D8Qp4TZCL9ibaTkIIOqWA"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "God of the Breakthrough",
+        "url": "https://open.spotify.com/album/0h2DEw5z4tM95DMLudOIQ0"
+      },
+      "artists": [
+        {
+          "name": "Crossroads Music",
+          "url": "https://open.spotify.com/artist/5vil8APJ8ohuFhg8mxEOWY"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "God of the Breakthrough",
+      "url": "https://open.spotify.com/track/0dSvYWwe7UjkYJwuBBfHOq"
     },
     {
       "added_at": "2021-06-12 04:00:40",
@@ -2307,26 +2307,6 @@
     {
       "added_at": "2021-06-12 04:00:40",
       "album": {
-        "name": "The King In All His Beauty",
-        "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
-      },
-      "artists": [
-        {
-          "name": "Matt Boswell",
-          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
-        },
-        {
-          "name": "Matt Papa",
-          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
-        }
-      ],
-      "duration_ms": 240766,
-      "name": "The King In All His Beauty",
-      "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
-    },
-    {
-      "added_at": "2021-06-12 04:00:40",
-      "album": {
         "name": "Holy Holy Here With Me (Live)",
         "url": "https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL"
       },
@@ -2343,6 +2323,26 @@
       "duration_ms": 297563,
       "name": "Holy Holy Here With Me - Live",
       "url": "https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn"
+    },
+    {
+      "added_at": "2021-06-12 04:00:40",
+      "album": {
+        "name": "The King In All His Beauty",
+        "url": "https://open.spotify.com/album/2FNhYGpwU2EXdBaZQ0v6ud"
+      },
+      "artists": [
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        }
+      ],
+      "duration_ms": 240766,
+      "name": "The King In All His Beauty",
+      "url": "https://open.spotify.com/track/7v8QIGeHDGkUm0ZcLq8eKR"
     },
     {
       "added_at": "2021-06-12 04:00:40",

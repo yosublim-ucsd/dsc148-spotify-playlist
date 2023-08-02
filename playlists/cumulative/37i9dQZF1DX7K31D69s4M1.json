@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "As light as the air",
+        "url": "https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178358,
+      "name": "As light as the air",
+      "url": "https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX"
+    },
+    {
+      "album": {
         "name": "As She Slowly Walks Away",
         "url": "https://open.spotify.com/album/0iNpCCDfnROVTnvJIaSeBY"
       },
@@ -5606,6 +5624,24 @@
       "duration_ms": 237000,
       "name": "Dreams and Illusions",
       "url": "https://open.spotify.com/track/054aDQILpdYR2BzV4CKu2n"
+    },
+    {
+      "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146142,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF"
     },
     {
       "album": {

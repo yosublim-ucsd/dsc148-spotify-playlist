@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
+  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+        "name": "FLorida Man",
+        "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
       },
       "artists": [
         {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+          "name": "Selwyn Birchwood",
+          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
         }
       ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
+      "duration_ms": 219454,
+      "name": "FLorida Man",
+      "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "FLorida Man",
-        "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
       },
       "artists": [
         {
-          "name": "Selwyn Birchwood",
-          "url": "https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 219454,
-      "name": "FLorida Man",
-      "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Ain't Nobody (Pain)",
+        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Porcelain God",
         "url": "https://open.spotify.com/album/3vw7o9K4SzwD9ywcyGDFgd"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Old Road",
-        "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
-      },
-      "artists": [
-        {
-          "name": "Keegan McInroe",
-          "url": "https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0"
-        }
-      ],
-      "duration_ms": 311320,
-      "name": "Old Road",
-      "url": "https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Hazel Eyes",
         "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 294327,
       "name": "Hazel Eyes",
       "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Old Road",
+        "url": "https://open.spotify.com/album/01HnUcfblIlxh7tGUk7fzb"
+      },
+      "artists": [
+        {
+          "name": "Keegan McInroe",
+          "url": "https://open.spotify.com/artist/6EtdMmaznBuJVYiKLhPRj0"
+        }
+      ],
+      "duration_ms": 311320,
+      "name": "Old Road",
+      "url": "https://open.spotify.com/track/5hMGPXvT6DC8CKexZnWlSO"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Ain't Nobody (Pain)",
-        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Flood of 2019",
         "url": "https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Cassanova Kirk Daniel",
-        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
-      },
-      "artists": [
-        {
-          "name": "Mittch",
-          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
-        }
-      ],
-      "duration_ms": 203599,
-      "name": "Cassanova Kirk Daniel",
-      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Wayward Son",
         "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 223500,
       "name": "Wayward Son",
       "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Cassanova Kirk Daniel",
+        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
+      },
+      "artists": [
+        {
+          "name": "Mittch",
+          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
+        }
+      ],
+      "duration_ms": 203599,
+      "name": "Cassanova Kirk Daniel",
+      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
     },
     {
       "added_at": "2023-07-21 15:58:03",

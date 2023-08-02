@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 70368,
+  "num_followers": 70442,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDk1NjQ3MzJkMzA3NDc3OTg1NWE1ZmJmZjA2YmQ1ZWVlYmUyNTUz",
+  "snapshot_id": "MCwxOTg4ZDFiMTU2NGRhYmUyYzRkZDY5MWE3YWY1YzJlYzE5ZTA4NjU3",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -595,22 +595,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Prana Pulse",
-        "url": "https://open.spotify.com/album/5O4WzB9mVJobYtlpFILShK"
+        "name": "Prana: Music for Yoga, Meditation & Relaxation",
+        "url": "https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1"
       },
       "artists": [
         {
           "name": "Shaman's Dream",
           "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
-        },
-        {
-          "name": "Bluetech",
-          "url": "https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68"
         }
       ],
-      "duration_ms": 557142,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2oAy91CfPUhc9J6aiRR0DA"
+      "duration_ms": 624026,
+      "name": "Storm of Prayers",
+      "url": "https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -631,18 +627,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Holistic Relaxation",
-        "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
+        "name": "Long Long Sleep",
+        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
       },
       "artists": [
         {
-          "name": "Philip Guyler",
-          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
         }
       ],
-      "duration_ms": 364266,
-      "name": "Garden of Peace",
-      "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
+      "duration_ms": 137854,
+      "name": "Long Long Sleep",
+      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -663,34 +659,38 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Long Long Sleep",
-        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
+        "name": "Holistic Relaxation",
+        "url": "https://open.spotify.com/album/0Hn2mjguZHYIbav25rnM8R"
       },
       "artists": [
         {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+          "name": "Philip Guyler",
+          "url": "https://open.spotify.com/artist/6QkKHEaumza77QdEqZtvnY"
         }
       ],
-      "duration_ms": 137854,
-      "name": "Long Long Sleep",
-      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
+      "duration_ms": 364266,
+      "name": "Garden of Peace",
+      "url": "https://open.spotify.com/track/0OTD6EC76i5KiZeizrjIba"
     },
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Prana: Music for Yoga, Meditation & Relaxation",
-        "url": "https://open.spotify.com/album/0SfSkFENtIQ8puDcW6ymn1"
+        "name": "Prana Pulse",
+        "url": "https://open.spotify.com/album/5O4WzB9mVJobYtlpFILShK"
       },
       "artists": [
         {
           "name": "Shaman's Dream",
           "url": "https://open.spotify.com/artist/3ohmouyL3xWW70OiC5ATDI"
+        },
+        {
+          "name": "Bluetech",
+          "url": "https://open.spotify.com/artist/5yUtOYdnxxWdcIoZM1dx68"
         }
       ],
-      "duration_ms": 624026,
-      "name": "Storm of Prayers",
-      "url": "https://open.spotify.com/track/7hPabdlyPYruzSufxHhKwQ"
+      "duration_ms": 557142,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2oAy91CfPUhc9J6aiRR0DA"
     },
     {
       "added_at": "2021-06-15 08:38:14",

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Nas",
-  "num_followers": 1622241,
+  "num_followers": 1622220,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjRmZTRlYzU5ZDE4ZjYyY2UyMDI3YTE3ZjE5ZmQwY2I0MzExODg4",
+  "snapshot_id": "MCxmODM4Yjc0YjI2MWE3ZjJkY2M3ZGE2MmY5MDg2OGQwMDkxZGUxNDAw",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Mumble Rap 2",
+        "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 154902,
+      "name": "Cocaine Spoon feat. Rick Ross",
+      "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Protea",
         "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
       },
@@ -955,34 +975,6 @@
       "duration_ms": 172721,
       "name": "Fireplace (feat. Jennifair)",
       "url": "https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "VICES",
-        "url": "https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Tommy Wright III",
-          "url": "https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw"
-        }
-      ],
-      "duration_ms": 158012,
-      "name": "Marcus Camby (feat. Jim Jones & Tommy Wright III)",
-      "url": "https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS"
     }
   ],
   "unique_name": "Spilled Ink",

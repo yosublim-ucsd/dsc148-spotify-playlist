@@ -1,12 +1,12 @@
 {
   "description": "Entre estrellas pop y el auge del grunge, en Argentina, detr\u00e1s de Dynamo floreci\u00f3 el nuevo rock argentino. Sonido alternativo y vanguardista. Foto: <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz\">Babas\u00f3nicos</a>",
-  "num_followers": 13967,
+  "num_followers": 13970,
   "original_name": "Rock S\u00f3nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmJjMTAxZWZkZGQ2ZjdjZDQ0OGYzNjdjYTA4M2JlMDJmMmViZWU5",
+  "snapshot_id": "MCw1MTRjM2YwODA0NDYzNzU3N2IyYzI2ZjU1N2UzNzQ4MTA2MTZiNDEw",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 145000,
       "name": "Trece",
       "url": "https://open.spotify.com/track/26CbBuWyZ6mX4V2xuk3ZHa"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -191,18 +191,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Pasto",
-        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
         }
       ],
-      "duration_ms": 230626,
-      "name": "D-Generaci\u00f3n",
-      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
+      "duration_ms": 194986,
+      "name": "Mate",
+      "url": "https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -239,18 +239,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+        "name": "Pasto",
+        "url": "https://open.spotify.com/album/0iKLZXL2Hp0XJFlhAyFqHa"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Mate",
-      "url": "https://open.spotify.com/track/4P8jmtTh7Uff7vcUCXsNaY"
+      "duration_ms": 230626,
+      "name": "D-Generaci\u00f3n",
+      "url": "https://open.spotify.com/track/1puFoga8mFmSoBXkUtRwjP"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -323,6 +323,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dopadromo",
+        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Viva Satana",
+      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Fabrico Cuero",
         "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 228466,
       "name": "Post Crucifixion",
       "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Dopadromo",
-        "url": "https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Viva Satana",
-      "url": "https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -435,18 +435,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Fabrico Cuero",
-        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
+        "name": "Trance Zomba",
+        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Jubilados Violentos",
-      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
+      "duration_ms": 209640,
+      "name": "Monta\u00f1as de Agua",
+      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -467,18 +467,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Trance Zomba",
-        "url": "https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS"
+        "name": "Fabrico Cuero",
+        "url": "https://open.spotify.com/album/2yhZr7ec4SsHMRmkvAgQ7B"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 209640,
-      "name": "Monta\u00f1as de Agua",
-      "url": "https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G"
+      "duration_ms": 199146,
+      "name": "Jubilados Violentos",
+      "url": "https://open.spotify.com/track/7nDdswfFGTIw3Fa4Pu2K9V"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Chaco (Serie Rock Nacional 2004)",
-        "url": "https://open.spotify.com/album/45O6oTq4UxCeBcrccGPWDi"
+        "name": "Nada Es Exacto Salvo la Medida de los Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM"
       },
       "artists": [
         {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+          "name": "Altocamet",
+          "url": "https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Remisero",
-      "url": "https://open.spotify.com/track/3JoVclmCif9FgcaAbTLORJ"
+      "duration_ms": 318453,
+      "name": "Manzana de Metal",
+      "url": "https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE"
     }
   ],
   "unique_name": "Rock S\u00f3nico",

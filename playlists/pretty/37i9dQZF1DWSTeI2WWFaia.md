@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,622,241 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,622,220 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 46 | [LESSONS](https://open.spotify.com/track/3L8RoBe74IvH9jZkjjPrmc) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [LESSONS](https://open.spotify.com/album/4gC7fICQukO8POmM2lWpOS) | 2:41 |
 | 47 | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [LALO \(feat\. 38 Spesh\)](https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn) | 4:40 |
 | 48 | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [The Smokers Club](https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Playa's Only \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S) | 2:57 |
-| 49 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 |
-| 50 | [Marcus Camby \(feat\. Jim Jones & Tommy Wright III\)](https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Tommy Wright III](https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw) | [VICES](https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6) | 2:38 |
+| 49 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 |
+| 50 | [Fireplace \(feat\. Jennifair\)](https://open.spotify.com/track/43xKZy5ndorNyMK2xhOb2o) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Jennifair](https://open.spotify.com/artist/5yqHRuOY1raN2vZeqaBsDS) | [Protea](https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk) | 2:52 |
 
-Snapshot ID: `MCwxNjRmZTRlYzU5ZDE4ZjYyY2UyMDI3YTE3ZjE5ZmQwY2I0MzExODg4`
+Snapshot ID: `MCxmODM4Yjc0YjI2MWE3ZjJkY2M3ZGE2MmY5MDg2OGQwMDkxZGUxNDAw`

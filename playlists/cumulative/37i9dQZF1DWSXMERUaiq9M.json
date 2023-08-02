@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1, 2 Step (DJ HEARTSTRING Remix)",
+        "url": "https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185953,
+      "name": "1, 2 Step - DJ HEARTSTRING Remix",
+      "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
+    },
+    {
+      "album": {
         "name": "Addicted To Bass",
         "url": "https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR"
       },
@@ -148,6 +170,32 @@
       "duration_ms": 396026,
       "name": "Atlantyda",
       "url": "https://open.spotify.com/track/0ChvWY0uRIGvXfhqvv8jC1"
+    },
+    {
+      "album": {
+        "name": "AZADI (Calling Marian Remix)",
+        "url": "https://open.spotify.com/album/6nj3cwmyRn6PkIIQfkoU5A"
+      },
+      "artists": [
+        {
+          "name": "Tallisker",
+          "url": "https://open.spotify.com/artist/5kHKhgCMg9yezOrISm4wJH"
+        },
+        {
+          "name": "Quay Dash",
+          "url": "https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM"
+        },
+        {
+          "name": "Calling Marian",
+          "url": "https://open.spotify.com/artist/55XeXVltnSNGMlDXjLez9F"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310323,
+      "name": "AZADI - Calling Marian Remix",
+      "url": "https://open.spotify.com/track/3wFG8hklVZctDRJRqjiCMd"
     },
     {
       "album": {
@@ -746,7 +794,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 200744,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/0MQN5qEy7j7ptYreg4evUX"
@@ -772,6 +820,24 @@
       "duration_ms": 237194,
       "name": "Get Shaky",
       "url": "https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m"
+    },
+    {
+      "album": {
+        "name": "Ghzelian",
+        "url": "https://open.spotify.com/album/1Hmb3Wm0vqW6hqqlROGKVQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Starlight",
+          "url": "https://open.spotify.com/artist/0eoS0xkD1JAXJIEQi766Mf"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357580,
+      "name": "Ghzelian",
+      "url": "https://open.spotify.com/track/33dQ1rm0MBUvoRRWJngBpw"
     },
     {
       "album": {
@@ -968,7 +1034,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 377419,
       "name": "I Am Machine",
       "url": "https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90"
@@ -1324,7 +1390,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
@@ -1922,7 +1988,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 140444,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3z1fidS7QtOfR2Y7EIqP2L"
@@ -2632,7 +2698,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 330666,
       "name": "Wild",
       "url": "https://open.spotify.com/track/5Z1OpvU8xkJl3Sc2et5No6"

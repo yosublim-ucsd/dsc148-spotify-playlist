@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "[Dystopia : Road to Utopia]",
+        "url": "https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "4 Memory",
+      "url": "https://open.spotify.com/track/0j7ER3WEUPsrj46nSk8KV3"
+    },
+    {
+      "album": {
         "name": "\uff3bDystopia : Road to Utopia\uff3d",
         "url": "https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 188333,
       "name": "4 Memory",
       "url": "https://open.spotify.com/track/1MKzNSIoxSgkHeFCBr4sYV"
@@ -275,8 +293,8 @@
     },
     {
       "album": {
-        "name": "\uff3bDystopia : Lose Myself\uff3d",
-        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
       },
       "artists": [
         {
@@ -284,12 +302,12 @@
           "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "date_added": "2022-04-20",
+      "date_added": "2023-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 189546,
       "name": "BOCA",
-      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
+      "url": "https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n"
     },
     {
       "album": {
@@ -304,7 +322,43 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
+    },
+    {
+      "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Break The Wall",
+      "url": "https://open.spotify.com/track/10Jnl1L9oVkT6rE25QrbwM"
+    },
+    {
+      "album": {
+        "name": "\uff3bDystopia : Lose Myself\uff3d",
+        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
       "duration_ms": 226640,
       "name": "Break The Wall",
       "url": "https://open.spotify.com/track/6JwdtdGwxtPGbhYnsv9jsj"
@@ -934,10 +988,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 66272,
       "name": "Intro",
       "url": "https://open.spotify.com/track/22yEgly0RJKdILZrGh62jb"
+    },
+    {
+      "album": {
+        "name": "Alone In The City",
+        "url": "https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66273,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3FpiOQMZCQ1oUVPoJv7aMf"
     },
     {
       "album": {
@@ -952,10 +1024,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 66777,
       "name": "Intro",
       "url": "https://open.spotify.com/track/565cuthqR4yBw1sVj9wgsj"
+    },
+    {
+      "album": {
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66778,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/2U2fd8W8mApZsWtCFIYR3Z"
     },
     {
       "album": {
@@ -1042,10 +1132,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 91160,
       "name": "Intro",
       "url": "https://open.spotify.com/track/5b6AQeJrwLOlXJwTgMTQFL"
+    },
+    {
+      "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91168,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/7MDEEeDMmVUqk9gPDGghzH"
     },
     {
       "album": {
@@ -1528,10 +1636,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 206819,
       "name": "PIRI",
       "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
+    },
+    {
+      "album": {
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206820,
+      "name": "PIRI",
+      "url": "https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69"
     },
     {
       "album": {
@@ -1798,10 +1924,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 198066,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/6WtBCTeMrTC9oKQ8dgSWcM"
+    },
+    {
+      "album": {
+        "name": "Raid of Dream",
+        "url": "https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198087,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV"
     },
     {
       "album": {
@@ -1978,10 +2122,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 190861,
       "name": "Trap",
       "url": "https://open.spotify.com/track/7m34MVNzFsVnPiuJSdZIC4"
+    },
+    {
+      "album": {
+        "name": "Alone In The City",
+        "url": "https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190862,
+      "name": "Trap",
+      "url": "https://open.spotify.com/track/1IsvB443RMP3WvnlKfvKec"
     },
     {
       "album": {
@@ -2032,10 +2194,28 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 205345,
       "name": "What",
       "url": "https://open.spotify.com/track/4BdpM8bR0nifsaqSz3qphQ"
+    },
+    {
+      "album": {
+        "name": "Alone In The City",
+        "url": "https://open.spotify.com/album/5iSHURlCUgmfKhIW4LtJ6e"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "What",
+      "url": "https://open.spotify.com/track/2U92BoBpLyWchwa224B6pg"
     },
     {
       "album": {

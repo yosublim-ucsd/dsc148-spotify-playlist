@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Suellen Lima",
-  "num_followers": 68775,
+  "num_followers": 68807,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTk4MjQyNGI5NmUxN2UwMzg2ODkxZmI0NmZmMWY0MGMxYTkyMDM0",
+  "snapshot_id": "MCw5M2ZjNjIwZDRiMDdhMmM0ODNhMzY4ZGFmMGEzOTI5NWI2MzAzZGIy",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Estou Contigo",
-        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 249344,
-      "name": "Estou Contigo",
-      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Estou no Controle",
         "url": "https://open.spotify.com/album/2LqLcq7bxp7pOMyMaLTx9M"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 299407,
       "name": "Estou no Controle",
       "url": "https://open.spotify.com/track/1WDXhve7KOKXp38Sy0eiL1"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Estou Contigo",
+        "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 249344,
+      "name": "Estou Contigo",
+      "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -351,8 +351,8 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+        "name": "No C\u00e9u N\u00e3o Entra Pecado",
+        "url": "https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+      "duration_ms": 256785,
+      "name": "No C\u00e9u N\u00e3o Entra Pecado",
+      "url": "https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Assim Como Deus Quer",
         "url": "https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 163258,
       "name": "Assim Como Deus Quer",
       "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "No C\u00e9u N\u00e3o Entra Pecado",
-        "url": "https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt"
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 256785,
-      "name": "No C\u00e9u N\u00e3o Entra Pecado",
-      "url": "https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP"
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
     },
     {
       "added_at": "2023-07-28 03:00:00",

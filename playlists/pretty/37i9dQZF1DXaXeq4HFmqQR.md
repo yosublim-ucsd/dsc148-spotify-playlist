@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que la rompen feat\. Aura BAE.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,445 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,450 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 15 | [Loba](https://open.spotify.com/track/2ZsaELRssZxDlUYcGu7tTK) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Loba](https://open.spotify.com/album/4NADnupTb3PMgvlU5sxSSv) | 3:16 |
 | 16 | [EXARTE PA TRA](https://open.spotify.com/track/0BmsdjXVTuO2kpKGaGaXsS) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [EXARTE PA TRA](https://open.spotify.com/album/3i8TvAHvre7Zo6uvcAYAI7) | 2:12 |
 | 17 | [Purga](https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA) | [Dania Neko](https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE) | [Depura](https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI) | 1:38 |
-| 18 | [Soy una Gerla](https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Soy una Gerla](https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR) | 1:56 |
-| 19 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
+| 18 | [Éxtasis](https://open.spotify.com/track/6OQJpGOFtYEXNdLkseQAJW) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [AQUA](https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq) | 3:03 |
+| 19 | [Soy una Gerla](https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Soy una Gerla](https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR) | 1:56 |
 | 20 | [abracadabra](https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q), [xsickboi](https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC) | [abracadabra](https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo) | 3:14 |
-| 21 | [Yos](https://open.spotify.com/track/6OOL6azBuBlPB2QTGprWBH) | [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP) | [Sea Lo Que Yos Quiera](https://open.spotify.com/album/0tVqp2StSesBaI70iEsgzh) | 3:10 |
-| 22 | [Éxtasis](https://open.spotify.com/track/6OQJpGOFtYEXNdLkseQAJW) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [AQUA](https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq) | 3:03 |
+| 21 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 |
+| 22 | [Yos](https://open.spotify.com/track/6OOL6azBuBlPB2QTGprWBH) | [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP) | [Sea Lo Que Yos Quiera](https://open.spotify.com/album/0tVqp2StSesBaI70iEsgzh) | 3:10 |
 | 23 | [Libre](https://open.spotify.com/track/23JFpbZWSuql31WH1AFwS1) | [Mikaela](https://open.spotify.com/artist/0b5K9pKkMGu2718iqlR2Ew) | [Libre](https://open.spotify.com/album/0CVi1AciE0RlO8LqrP1J8a) | 3:47 |
 | 24 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 25 | [Unu](https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF) | [Unu](https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj) | 3:20 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 34 | [CÁLLENSE](https://open.spotify.com/track/6BazBla5m49evarfU6L92l) | [Señorita Chu](https://open.spotify.com/artist/66HozQ44x8qKTB7irTL2NJ), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [CÁLLENSE](https://open.spotify.com/album/4YwUgqConCsg73VfRwaRwm) | 3:52 |
 | 35 | [Luni Tun](https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d) | [Iktus](https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [La Peluquera](https://open.spotify.com/artist/2Y8ZTw3lEypiF5jpINYgGr) | [Luni Tun](https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg) | 3:21 |
 | 36 | [KEIKEI](https://open.spotify.com/track/14WU2Do99uBtErqgFvnI7t) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ) | [KEIKEI](https://open.spotify.com/album/1r8joyTxLUu1MaTbg84zED) | 1:46 |
-| 37 | [Suelta \(Respira\)](https://open.spotify.com/track/6LBB4oU8fxcgjuk6LC4Uur) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT) | [Suelta \(Respira\)](https://open.spotify.com/album/4RHMIK2HdzZHKs8LT1F2H4) | 2:40 |
-| 38 | [Despeje](https://open.spotify.com/track/6jCe4NY1PWr0lNkNbhI7YZ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Despeje](https://open.spotify.com/album/1dlwGAQwMrfZRPqOdiTS1I) | 4:10 |
+| 37 | [Despeje](https://open.spotify.com/track/6jCe4NY1PWr0lNkNbhI7YZ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Despeje](https://open.spotify.com/album/1dlwGAQwMrfZRPqOdiTS1I) | 4:10 |
+| 38 | [Suelta \(Respira\)](https://open.spotify.com/track/6LBB4oU8fxcgjuk6LC4Uur) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT) | [Suelta \(Respira\)](https://open.spotify.com/album/4RHMIK2HdzZHKs8LT1F2H4) | 2:40 |
 | 39 | [Hood](https://open.spotify.com/track/3IdbqWoAfMvVqT2dXvvFmt) | [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Bzro89](https://open.spotify.com/artist/6wNDDqNJiaDvQHz7Dzi47t) | [Hood](https://open.spotify.com/album/5yIX4L7VrnteUcr8DivdnE) | 2:56 |
 | 40 | [Bla](https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Bdilla](https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo) | [Bla](https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB) | 2:59 |
 | 41 | [Suerte](https://open.spotify.com/track/1gO1fK9xXLsHgrze8gkUCk) | [consuelohm](https://open.spotify.com/artist/5QAmCLVNtEsRydOsyywQYp) | [Suerte](https://open.spotify.com/album/0KpjvvxnXUb05nPESLiNQT) | 2:35 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 43 | [Msn](https://open.spotify.com/track/1kY9IUzSMSfRdH4QP7Dgye) | [Rata\-K1000](https://open.spotify.com/artist/3z0z7MsvxXwSCpbjAG4OJd) | [Msn](https://open.spotify.com/album/5LR238ZmUP553oIWEKj2e4) | 2:09 |
 | 44 | [NDN](https://open.spotify.com/track/0xTG6dCzDIbyMKNlRQNf7F) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [À plus](https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn) | 2:39 |
 | 45 | [Love Yourself](https://open.spotify.com/track/5o0YZOyNI1SPdZ43YURZJ3) | [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [Rayokuza](https://open.spotify.com/album/3RbneQRC7hqcFIn2DZpCKg) | 2:31 |
-| 46 | [Esencia](https://open.spotify.com/track/7sXPPkefg9bnx8SvmFLM5e) | [Gloria Allel](https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX) | [Esencia](https://open.spotify.com/album/21osvhpkanfXbwdN4WaijE) | 2:42 |
-| 47 | [Sé Ke Tú](https://open.spotify.com/track/08D1U1FZoZbBoatvuIKPxp) | [Iktus](https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW) | [Sé Ke Tú](https://open.spotify.com/album/299sh9JipnYnMVsA28Vblw) | 3:23 |
+| 46 | [Sé Ke Tú](https://open.spotify.com/track/08D1U1FZoZbBoatvuIKPxp) | [Iktus](https://open.spotify.com/artist/4DqguavmAWXP4KjI7badwW) | [Sé Ke Tú](https://open.spotify.com/album/299sh9JipnYnMVsA28Vblw) | 3:23 |
+| 47 | [Esencia](https://open.spotify.com/track/7sXPPkefg9bnx8SvmFLM5e) | [Gloria Allel](https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX) | [Esencia](https://open.spotify.com/album/21osvhpkanfXbwdN4WaijE) | 2:42 |
 | 48 | [DETOXXX](https://open.spotify.com/track/5LeJOc72vBnf8xDrvuN1XS) | [Fresasalvaje](https://open.spotify.com/artist/0jkwMYMjUbP8gaS0qMFvE2), [DOLORE$](https://open.spotify.com/artist/16RdRiJp9xtCnPsYm65iZU) | [DETOXXX](https://open.spotify.com/album/1CuyEpZ9p9EJ0WYQ5ipyXh) | 3:18 |
 | 49 | [RIDÍCULO](https://open.spotify.com/track/2Gwdin34n5deWhLYb4oZOV) | [Lauvre](https://open.spotify.com/artist/6acbf8kuCR1esVF1vo8L18) | [RIDÍCULO](https://open.spotify.com/album/45rmLIIeU5aamqjcTKQ1Kb) | 2:33 |
 | 50 | [Sin Ancla](https://open.spotify.com/track/0NrmX4ndcvfRkP3ll9xqG8) | [La Deyabu](https://open.spotify.com/artist/0lGEierpxyPwtani40A4N6), [Talobeez](https://open.spotify.com/artist/7vF2RLoaP9tHlKX8tBeQQv), [Redmist](https://open.spotify.com/artist/3XEUrGSHVXHDq0SZlLzVtC) | [Sin Ancla](https://open.spotify.com/album/2x3IWZzRorJyqfj3huhpzo) | 3:57 |
 
-Snapshot ID: `MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz`
+Snapshot ID: `MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0`

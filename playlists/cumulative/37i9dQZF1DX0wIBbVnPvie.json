@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Pink (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/4Np4Y9DtFQYc3MlgOst3gb"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64009,
+      "name": "Pink (Bad Day) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/5qLX1qtb9lJjblp0Uc6ejF"
+    },
+    {
+      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },

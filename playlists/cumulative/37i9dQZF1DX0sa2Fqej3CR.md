@@ -2,7 +2,7 @@
 
 ### [인기가요 Hot Now](https://open.spotify.com/playlist/37i9dQZF1DX0sa2Fqej3CR)
 
-> 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: \(여자\)아이들\)
+> 지금 국내에서 가장 핫한 노래들을 만나보세요! \(커버: 정국\)
 
 157 songs - 8 hr 44 min
 

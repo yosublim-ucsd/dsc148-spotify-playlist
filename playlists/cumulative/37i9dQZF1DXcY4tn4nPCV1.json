@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "As light as the air",
+        "url": "https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH"
+      },
+      "artists": [
+        {
+          "name": "Yasuo Zen",
+          "url": "https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178358,
+      "name": "As light as the air",
+      "url": "https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX"
+    },
+    {
+      "album": {
         "name": "Auriga",
         "url": "https://open.spotify.com/album/69FM0NepvcgTA81ItYe8HI"
       },
@@ -1158,6 +1176,24 @@
       "duration_ms": 141941,
       "name": "Donde Nadas",
       "url": "https://open.spotify.com/track/0SpK2s8gJnetHIuzSBqgta"
+    },
+    {
+      "album": {
+        "name": "Dreamscape",
+        "url": "https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146142,
+      "name": "Dreamscape",
+      "url": "https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF"
     },
     {
       "album": {
@@ -3106,7 +3142,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 123733,
       "name": "Montmarte",
       "url": "https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL"
@@ -3196,7 +3232,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 121065,
       "name": "Muriwai",
       "url": "https://open.spotify.com/track/4u3ZZLGtq6bYi1ZKK7c3BW"
@@ -3340,7 +3376,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 149197,
       "name": "New Chapter",
       "url": "https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab"
@@ -3884,6 +3920,24 @@
       "duration_ms": 144576,
       "name": "Pour toujours",
       "url": "https://open.spotify.com/track/6vkmvL8i9sfIHoAlzJcfAO"
+    },
+    {
+      "album": {
+        "name": "Profound poetry",
+        "url": "https://open.spotify.com/album/1FCxAp8C0V1R7ccSJxhAVO"
+      },
+      "artists": [
+        {
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121144,
+      "name": "Profound poetry",
+      "url": "https://open.spotify.com/track/6e1PioC0uJFwSq48cveCoQ"
     },
     {
       "album": {

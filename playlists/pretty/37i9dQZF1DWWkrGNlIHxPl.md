@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Ghita Askari
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,029 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,101 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 37 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
 | 38 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 |
 | 39 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
-| 40 | [Guala](https://open.spotify.com/track/39fLvDcb8APZsxkZB5dttl) | [ZIAD](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Guala](https://open.spotify.com/album/3wUXt7qj9PDX5PZgkJO4bE) | 2:58 |
+| 40 | [Guala](https://open.spotify.com/track/39fLvDcb8APZsxkZB5dttl) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Guala](https://open.spotify.com/album/3wUXt7qj9PDX5PZgkJO4bE) | 2:58 |
 | 41 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
 | 42 | [Challenge](https://open.spotify.com/track/3VuaItBnwM73RM50sfZtoS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU), [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Challenge](https://open.spotify.com/album/0i3VC4YjBAhSYFoP7KcPtL) | 1:54 |
 | 43 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
 | 44 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 |
-| 45 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [ZIAD](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
+| 45 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 | 46 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 |
 | 47 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 |
 | 48 | [Guidance](https://open.spotify.com/track/7F2LPT5Jat7biCPwmVfoGn) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Guidance](https://open.spotify.com/album/0HHZvMLL6NA2UjSi9dBz0M) | 2:50 |
 | 49 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 |
 | 50 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 |
 
-Snapshot ID: `MCwwMTg5ZDNkYWE2YzhiOGFjYmMwOWU0ZmY1YjgzMDg3MjRmNWQyODY0`
+Snapshot ID: `MCxjYzdkNGUzM2FjZGM2MDNkNmRhNTg3MTViYzg4NTUyODA3YjlkYzE5`

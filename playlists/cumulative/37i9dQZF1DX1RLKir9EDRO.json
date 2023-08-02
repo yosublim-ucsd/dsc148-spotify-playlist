@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "A\u015f\u0131k Oldum",
+        "url": "https://open.spotify.com/album/4fS4aRwSNWUoM8YqnRgsJi"
+      },
+      "artists": [
+        {
+          "name": "PEK",
+          "url": "https://open.spotify.com/artist/3BYlyRfryjGKcBA9sqEYev"
+        },
+        {
+          "name": "Arsan",
+          "url": "https://open.spotify.com/artist/2t0HoK4ZvyYkVg58G6fvbZ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "A\u015f\u0131k Oldum",
+      "url": "https://open.spotify.com/track/7pNGUB822kk4u4zAerNCLc"
+    },
+    {
+      "album": {
         "name": "Bahar",
         "url": "https://open.spotify.com/album/1lx6AGQw7m2NAz1r3ybwng"
       },
@@ -1229,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "Bu Karanl\u0131k B\u00f6yle \u0130yi",
+        "url": "https://open.spotify.com/album/2mfJWY6qCcQSBdUlxyAx4q"
+      },
+      "artists": [
+        {
+          "name": "Serkan Atay",
+          "url": "https://open.spotify.com/artist/4F5O2Gh8yADPGLqMdsDPUc"
+        },
+        {
+          "name": "Mihrap Eskiocak",
+          "url": "https://open.spotify.com/artist/6aNLT3U7lVxqg10gOzGcqc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Bu Karanl\u0131k B\u00f6yle \u0130yi",
+      "url": "https://open.spotify.com/track/6SHXFK2HgoQrwou6LZEzDt"
+    },
+    {
+      "album": {
         "name": "Bu Kez",
         "url": "https://open.spotify.com/album/7jCkRNGrwm0FZp8yodCYgR"
       },
@@ -1818,6 +1862,24 @@
       "duration_ms": 150000,
       "name": "Duyam\u0131yorum",
       "url": "https://open.spotify.com/track/4CyoAIoPjVHOK8SuVevq2I"
+    },
+    {
+      "album": {
+        "name": "d\u00f6n bi' bak.",
+        "url": "https://open.spotify.com/album/4tvZEFzmjGUQz1oYrUCidp"
+      },
+      "artists": [
+        {
+          "name": "Pelesenk",
+          "url": "https://open.spotify.com/artist/1ug8eFOgG5c4SwH3w1gWwj"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157811,
+      "name": "D\u00f6n Bi' Bak",
+      "url": "https://open.spotify.com/track/5hRhonO1yfNhgdi2Yw1sek"
     },
     {
       "album": {
@@ -3870,7 +3932,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 202000,
       "name": "Kedimi Beslicem",
       "url": "https://open.spotify.com/track/4lMnxhUCEGW3lJNbiWgI9o"
@@ -5718,7 +5780,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 102897,
       "name": "sen ve ben",
       "url": "https://open.spotify.com/track/2G3uVUvP2lU3W0zXv1lbvM"
@@ -5942,7 +6004,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 223411,
       "name": "Siyah \u0130nci",
       "url": "https://open.spotify.com/track/01y4THe6PE6O6u47BNPWKk"
@@ -6184,7 +6246,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 134399,
       "name": "Tan\u0131d\u0131\u011f\u0131m Hi\u00e7 Kimse",
       "url": "https://open.spotify.com/track/1Y6PlnHOjmXAu0LCWCyyG4"
@@ -6368,6 +6430,24 @@
       "duration_ms": 167114,
       "name": "Umutlarla",
       "url": "https://open.spotify.com/track/6Ey1ywk6O13JsStrWWinSj"
+    },
+    {
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/2z3GTOkBznFQDTo3L0bhkf"
+      },
+      "artists": [
+        {
+          "name": "Moniac",
+          "url": "https://open.spotify.com/artist/1deAFcJ6aPrC8Cmdi8U3Pw"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/3WXE5z6fxLIuPtkMjxqvaS"
     },
     {
       "album": {
@@ -6812,6 +6892,24 @@
       "duration_ms": 246404,
       "name": "Yanar Can\u0131m",
       "url": "https://open.spotify.com/track/5LVkds7XJ1KK6CmmBf7czW"
+    },
+    {
+      "album": {
+        "name": "Yang\u0131n Yeri",
+        "url": "https://open.spotify.com/album/5kipmuwISEZIHSk6Jc8MJK"
+      },
+      "artists": [
+        {
+          "name": "Bade Nosa",
+          "url": "https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244522,
+      "name": "Yang\u0131n Yeri",
+      "url": "https://open.spotify.com/track/68phKJK5rkulexkVhdflV3"
     },
     {
       "album": {
@@ -7710,7 +7808,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-02",
       "duration_ms": 162162,
       "name": "\u00d6l\u00fcmden",
       "url": "https://open.spotify.com/track/4uT4cc9r9Xo4tHO1bWlqYj"

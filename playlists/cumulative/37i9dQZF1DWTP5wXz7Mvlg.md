@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:1rd51IrbtX9DqoU0Zxu4TV">DJ Marky</a>'s favourite tracks\. Updated regularly\. Curated by DJ Marky\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-99 songs - 7 hr 32 min
+101 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Hush Hush](https://open.spotify.com/track/1kYqnXEi6qzZjpX8w0Bvg8) | [T95](https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Hush Hush](https://open.spotify.com/album/7i5IXija6etCEVoDkQoNmH) | 2:50 | 2023-07-21 |  |
 | [IDGAF](https://open.spotify.com/track/273EBFU3AwbhlCPbludn48) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [IDGAF](https://open.spotify.com/album/3CNuKY8rocVCm39ukF6RRH) | 5:20 | 2022-07-11 | 2023-07-22 |
 | [If You Want It](https://open.spotify.com/track/7H7AUeAy7rTG0fCCa1cGtm) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [If You Want It](https://open.spotify.com/album/63FhryWz726IV3x1Pf17vc) | 3:37 | 2022-07-11 | 2023-07-22 |
-| [Ill Vibe](https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre) | 4:28 | 2023-07-21 |  |
+| [Ill Vibe](https://open.spotify.com/track/1gRE5q4XmrVtt42cF2VkIg) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/2iIVZsS8USgB8QNvHWNwth) | 4:28 | 2023-07-21 |  |
+| [Ill Vibe](https://open.spotify.com/track/6ztOiIeGpij1n1w3PDNbHS) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG) | [Ill Vibe](https://open.spotify.com/album/1eM19niXbnucUMUs1Ljkre) | 4:28 | 2023-07-21 | 2023-08-02 |
 | [It's So Crazy](https://open.spotify.com/track/5YkUjAnQ5M8cQyyNDeqUaW) | [Black Barrel](https://open.spotify.com/artist/4g2ACDi5ljq9imLNg5yiql) | [Just Keep My Life](https://open.spotify.com/album/4e7JufX4PENelytcke34oh) | 5:21 | 2022-07-11 | 2023-07-22 |
 | [Lemongrass \- Original Mix](https://open.spotify.com/track/54hZlo58PAPTjGJsqLK7zH) | [Taelimb](https://open.spotify.com/artist/23O0ghrrk4pKzf82XxSGVU) | [Mouse Trap EP](https://open.spotify.com/album/3RLbMAGxDRTqfvWmkQCSel) | 5:01 | 2022-07-11 | 2023-07-22 |
 | [Like This](https://open.spotify.com/track/6hU8ZNdJbpncSye5IXmXzF) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Roll With It / Like This](https://open.spotify.com/album/6yP8tbWAEZT0Q23scueKnD) | 4:52 | 2023-07-21 |  |
@@ -105,7 +106,8 @@
 | [Wanna Dance](https://open.spotify.com/track/1samliMn0vL45QOXrLJ06I) | [Mark System](https://open.spotify.com/artist/5Vh1QWS1XnZ11qdK4scuFx) | [25 Years of Metalheadz – Part 4](https://open.spotify.com/album/4uksmmaM7rKorqTJTo6eyL) | 6:57 | 2022-07-11 | 2023-07-22 |
 | [Watch Your Step](https://open.spotify.com/track/0wSOhVP5nT9zre0SoyWqlF) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib) | [Watch Your Step](https://open.spotify.com/album/5Pvce46RSAcTb1lod2kYs9) | 3:49 | 2022-07-11 | 2023-07-22 |
 | [World of Hurt \(Bou Remix\)](https://open.spotify.com/track/5WHZG8zpkoiTxT4ZUrriQX) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Reworks I](https://open.spotify.com/album/4hkUZ0YXr0Nnx9wCRpGykS) | 4:34 | 2022-07-11 | 2023-07-22 |
-| [Yagga Yagga](https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y) | 4:17 | 2023-07-21 |  |
+| [Yagga Yagga](https://open.spotify.com/track/0MlPQbWano66UAk68eMSnF) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5cQjxfc0PLl9FZ6g8blq8A) | 4:17 | 2023-07-21 |  |
+| [Yagga Yagga](https://open.spotify.com/track/1lNbpZLKfyAt0H9Uxs7Ceb) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Fox](https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS) | [Yagga Yagga](https://open.spotify.com/album/5gS4eEAEOwyTiWvl1pPs3Y) | 4:17 | 2023-07-21 | 2023-08-02 |
 | [Your Style](https://open.spotify.com/track/3ZounxapkYE4ZFYF8DiEpR) | [Dub Head](https://open.spotify.com/artist/7r9uTQAK5JP71PMdAFbkuM) | [Your Style](https://open.spotify.com/album/689eTsTAyXcgvFRTC9FeZc) | 4:38 | 2023-07-21 |  |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

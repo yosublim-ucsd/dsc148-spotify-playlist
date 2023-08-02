@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,978 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,008 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 4 | [To The Sky \- Edit](https://open.spotify.com/track/5GkdchB8RZ5yABpqIMZTLY) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [To The Sky](https://open.spotify.com/album/3NRoXf6bsDfw0rHvxEwIau) | 2:38 |
 | 5 | [Caught My Heart \- Edit](https://open.spotify.com/track/7759mGy72pjuJV6lJg9Wyx) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [Jessica Wilde](https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij) | [Caught My Heart](https://open.spotify.com/album/0YKFzzVaSktiZZpKFqpJoM) | 3:02 |
 | 6 | [Take My Hand \(feat\. Josh Barry\)](https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Take My Hand \(feat\. Josh Barry\)](https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc) | 2:51 |
-| 7 | [The Feeling \- Capri Remix](https://open.spotify.com/track/1fYGHl0F7PiRL4GmAqhNGp) | [Low Steppa, Capri](https://open.spotify.com/artist/50o120vMJb11mIZi6YcYZo), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [The Feeling \(Capri Remix\)](https://open.spotify.com/album/2LMz6hXWsqzIUHUaSFzeLY) | 6:50 |
+| 7 | [The Feeling \- Capri Remix](https://open.spotify.com/track/1fYGHl0F7PiRL4GmAqhNGp) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [The Feeling \(Capri Remix\)](https://open.spotify.com/album/2LMz6hXWsqzIUHUaSFzeLY) | 6:50 |
 | 8 | [Come On Over](https://open.spotify.com/track/6S0dDUoFZvgfg8VqZnB2S8) | [Luke Solomon](https://open.spotify.com/artist/25CzLz5CINIKfN2r2bcl11), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [Come On Over](https://open.spotify.com/album/3KwrRdNOMHgBweH1eJuRrk) | 2:40 |
 | 9 | [Dope \- Edit](https://open.spotify.com/track/1OPEWAHQaogdd7uNALZ6Su) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Dope](https://open.spotify.com/album/3STZZzGrH6utEjSXI2q2uZ) | 3:20 |
 | 10 | [Glory \(feat\. Waajeed\) \- Floorplan Remix](https://open.spotify.com/track/0taSrEsqb3QiZPBRtPebFL) | [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Glory \(feat\. Waajeed\) \[Floorplan Remix\]](https://open.spotify.com/album/70Yl2gVcF5MzehZFKxTKtg) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 49 | [Work](https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work](https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D) | 3:37 |
 | 50 | [Fly Like an Eagle](https://open.spotify.com/track/4uXUjefF7VdVfXz44ihvuh) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Fly Like an Eagle](https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft) | 2:36 |
 
-Snapshot ID: `MCxjNTRiNWFjMzUxNzI5NjgwOWJjM2I4YWVlY2Y4ZTA4ZTk1YTYyMDI3`
+Snapshot ID: `MCw2MDU4NjdkYzg3ZDcwMjE3ZWU5NTUxN2EyYzAyYzdhM2I4ZDgzZGFh`

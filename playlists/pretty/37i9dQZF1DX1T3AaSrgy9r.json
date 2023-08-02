@@ -1,12 +1,12 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 99916,
+  "num_followers": 99983,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjdhZGQwNGU1ODZkMzdjMmM2MjNiOTk1Y2RjNTE5YTk0MWJhZDlm",
+  "snapshot_id": "MCxlM2M2ZjIwNGQwMzUxMjhiZWE4OTdjOWE0ZjFmMDhhNzdkN2UxODkw",
   "tracks": [
     {
       "added_at": "2021-07-14 17:36:34",
@@ -547,6 +547,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Gettin' High On Your Own Supply",
+        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
+      },
+      "artists": [
+        {
+          "name": "Apollo 440",
+          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Stop the Rock",
+      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Maxinquaye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 227066,
       "name": "Hell Is Round The Corner",
       "url": "https://open.spotify.com/track/2wC0qK8JN6gblb0ZJzE2d9"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Gettin' High On Your Own Supply",
-        "url": "https://open.spotify.com/album/0OiWmi1Jt8URgnt8SS4YtP"
-      },
-      "artists": [
-        {
-          "name": "Apollo 440",
-          "url": "https://open.spotify.com/artist/37f9cjf8Ic4t7vYNRYAzI7"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Stop the Rock",
-      "url": "https://open.spotify.com/track/37jrubWAb4F9TY2GgSRG56"
     },
     {
       "added_at": "2021-07-14 17:36:34",

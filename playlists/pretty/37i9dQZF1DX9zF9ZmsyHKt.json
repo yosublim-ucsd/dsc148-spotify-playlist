@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 327162,
+  "num_followers": 327198,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm",
+  "snapshot_id": "MCw2MjcxYjZlYjc0MzRkNjZjOTU4NDgzOWY4NGJkNTQ1ZjcyODdmMzhl",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Me Toca",
-        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186042,
-      "name": "Me Toca",
-      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ambulante",
         "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
       },
@@ -1247,6 +1231,42 @@
       "duration_ms": 151520,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Me Toca",
+        "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186042,
+      "name": "Me Toca",
+      "url": "https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Rouff",
+        "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
+        }
+      ],
+      "duration_ms": 280756,
+      "name": "As Mais Braba",
+      "url": "https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1279,26 +1299,6 @@
       "duration_ms": 252373,
       "name": "Sem Medo",
       "url": "https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Rouff",
-        "url": "https://open.spotify.com/album/3WCqEEZX2B01fJh6MUQxvQ"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa"
-        }
-      ],
-      "duration_ms": 280756,
-      "name": "As Mais Braba",
-      "url": "https://open.spotify.com/track/6GxrQBMEu0q9HsAH21uFCJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Louca",
-        "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
-      },
-      "artists": [
-        {
-          "name": "Alice Caymmi",
-          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Louca",
-      "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
         "url": "https://open.spotify.com/album/20RxMq4XRBg30WRqjBwTGb"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 218706,
       "name": "Pra Te Lembrar [Trilha da Novela Sete Vidas]",
       "url": "https://open.spotify.com/track/3OE8rx6lNYxRnjCZ6wMlPs"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Louca",
+        "url": "https://open.spotify.com/album/5nistd67S4SRwZ84CD8BwH"
+      },
+      "artists": [
+        {
+          "name": "Alice Caymmi",
+          "url": "https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Louca",
+      "url": "https://open.spotify.com/track/40taoSSjzKnymwcc5NJVOj"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 153635,
+      "name": "Frank Ocean",
+      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Vinte Palavras ao Redor do Sol",
         "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 250000,
       "name": "Encantos de Sereia",
       "url": "https://open.spotify.com/track/02igANx7YEYQPJzDzI2Fob"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 153635,
-      "name": "Frank Ocean",
-      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
     },
     {
       "added_at": "2022-10-07 03:01:33",

@@ -4,7 +4,7 @@
 
 > The best music from one of the greatest jazz labels.
 
-136 songs - 14 hr 5 min
+138 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 | 2021-12-02 |  |
 | [Castle Park](https://open.spotify.com/track/0jf293soDMku4J3lHZXUa3) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [View With A Room](https://open.spotify.com/album/0bxXAO9Vxpx20fidIJc4va) | 3:57 | 2022-09-22 |  |
 | [Ceora](https://open.spotify.com/track/5rQTh8OF3mfjgu0NJkSTOk) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 6:23 | 2022-10-06 |  |
+| [Chicago Blues](https://open.spotify.com/track/26gSq8ynYSkBTo637il67o) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [Chicago Blues](https://open.spotify.com/album/5WWS6v1T7jcdZ1CLUZtJtH) | 4:53 | 2023-08-01 |  |
 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 | 2021-12-02 |  |
 | [Colors In The Dark](https://open.spotify.com/track/48Fbw0y8ofNfTHmuezhNPm) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Collagically Speaking](https://open.spotify.com/album/4odXFRfbmTNdyjiidyDgDb) | 4:48 | 2021-12-02 | 2023-04-12 |
 | [Congalegre](https://open.spotify.com/track/547xPOmLdBpM4X9B2lIW8B) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [Headin' South](https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy) | 4:24 | 2021-12-02 |  |
@@ -99,12 +100,13 @@
 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 | 2021-12-02 |  |
 | [One For Daddy\-O \- Remastered](https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 8:25 | 2021-12-02 | 2022-10-07 |
 | [Orange Peel](https://open.spotify.com/track/1rgBIkLubecld0M92q5ulV) | [Reuben Wilson](https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut) | [Blue Mode](https://open.spotify.com/album/0e0wYhumzrbDwoAhhZihs8) | 6:39 | 2022-10-06 |  |
+| [Passage](https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3) | 9:38 | 2023-08-01 |  |
 | [Peace](https://open.spotify.com/track/3yPmDN2p5QxPOn1UVwISLv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 5:15 | 2021-12-02 |  |
 | [Queen Of The South](https://open.spotify.com/track/7lOwjT4RAvA8DQAnt0uIUH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP) | [Rainbow Sign](https://open.spotify.com/album/38R6cFBDMpVGvwx7Vuz4D5) | 4:20 | 2021-12-02 |  |
-| [Red River Revel](https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Brian Blade Fellowship](https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl) | 9:31 | 2022-10-06 |  |
+| [Red River Revel](https://open.spotify.com/track/0obAe4GiBcoLJo33hzKAzH) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Brian Blade Fellowship](https://open.spotify.com/album/4zR22xnwshsV7Muly7KDLl) | 9:31 | 2022-10-06 | 2023-08-02 |
 | [Rejuvenation Agenda \- Live](https://open.spotify.com/track/1atkWGZTTHjsiR4jJ8bAeV) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Happening: Live At The Village Vanguard](https://open.spotify.com/album/3LESItMfXvwTo1F7rXYRr1) | 7:21 | 2021-12-02 |  |
 | [Requiem \- Live](https://open.spotify.com/track/6LUVIXTaZSuOcQchjxoL5d) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [8: Kindred Spirits \(Live From The Lobero\)](https://open.spotify.com/album/3kdaoYi2SztpyarxBZ3py6) | 11:32 | 2021-12-02 | 2022-10-07 |
-| [Rivers & Parks](https://open.spotify.com/track/2ytwkXNdpeew8OxQ0L5MDm) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 7:59 | 2022-10-06 |  |
+| [Rivers & Parks](https://open.spotify.com/track/2ytwkXNdpeew8OxQ0L5MDm) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 7:59 | 2022-10-06 | 2023-08-02 |
 | [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 | 2021-12-02 |  |
 | [Sabah el Nur](https://open.spotify.com/track/079UIJ8iojWLFFaioUPWio) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Samba de Maracatu](https://open.spotify.com/album/1WmWF6IHN6OmIeY6n0t5TF) | 6:03 | 2021-12-02 | 2022-10-07 |
 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 | 2021-12-02 |  |
