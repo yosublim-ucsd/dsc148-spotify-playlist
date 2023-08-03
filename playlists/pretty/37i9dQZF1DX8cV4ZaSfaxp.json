@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: aiai) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 43804,
+  "num_followers": 43832,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmZhZjVmZTg3ZGJhM2VlMmJmNjI4OWU0NGI1MGYyYTY3MDE4MzYx",
+  "snapshot_id": "MCwyZmRkN2NkNDFlNWY3NGU1YmExMmQ1MDM5MmI3OWEwMmJlMzMzYTVh",
   "tracks": [
     {
       "added_at": "2023-07-13 05:23:23",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "APRIL 6th Mini Album 'the Ruby'",
-        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 205332,
-      "name": "Oh! my mistake",
-      "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 218160,
       "name": "Jam Jam",
       "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "APRIL 6th Mini Album 'the Ruby'",
+        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 205332,
+      "name": "Oh! my mistake",
+      "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "East Shore",
+        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "With The Star",
+      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "East Shore",
-        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "With The Star",
-      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 294700,
-      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
-      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+        "url": "https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 294700,
+      "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
+      "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
     },
     {
       "added_at": "2023-07-13 05:23:23",

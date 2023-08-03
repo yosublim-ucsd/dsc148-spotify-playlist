@@ -2096,10 +2096,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 199666,
       "name": "GIRL AND",
       "url": "https://open.spotify.com/track/3HkKPbMUEdpF606ICEozsx"
+    },
+    {
+      "album": {
+        "name": "GIRL AND",
+        "url": "https://open.spotify.com/album/6OIJN4nZ6uWJiXQeotuvvU"
+      },
+      "artists": [
+        {
+          "name": "Kaneyorimasaru",
+          "url": "https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "GIRL AND",
+      "url": "https://open.spotify.com/track/6dgI6ooGq2nI4u5DCE6JvX"
     },
     {
       "album": {
@@ -3982,7 +4000,7 @@
     {
       "album": {
         "name": "NEO KAWAII, K?",
-        "url": "https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP"
+        "url": "https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW"
       },
       "artists": [
         {
@@ -3993,6 +4011,24 @@
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154726,
+      "name": "NEO KAWAII, K?",
+      "url": "https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL"
+    },
+    {
+      "album": {
+        "name": "NEO KAWAII, K?",
+        "url": "https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
       "duration_ms": 154726,
       "name": "NEO KAWAII, K?",
       "url": "https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW"
@@ -4484,7 +4520,7 @@
     {
       "album": {
         "name": "GOLD IMPRINTS",
-        "url": "https://open.spotify.com/album/4AErChQhfmBOvOpIfOldWe"
+        "url": "https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp"
       },
       "artists": [
         {
@@ -4495,6 +4531,24 @@
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214905,
+      "name": "Pushing My Back",
+      "url": "https://open.spotify.com/track/0s7J452ViFJuFjbQW4wOpB"
+    },
+    {
+      "album": {
+        "name": "GOLD IMPRINTS",
+        "url": "https://open.spotify.com/album/4AErChQhfmBOvOpIfOldWe"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
       "duration_ms": 214905,
       "name": "Pushing My Back",
       "url": "https://open.spotify.com/track/553wRdV1xctce0VRF3WSC1"

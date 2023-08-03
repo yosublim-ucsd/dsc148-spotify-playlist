@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 282263,
+  "num_followers": 282508,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MThlMDU5ODQyOThlOTA5YWM1YWZlZTMyMjU2ZTg4MDYxZGMxMjZh",
+  "snapshot_id": "MCwyMjg3OGQ2ZTYxYTExY2QyYWU1Nzk3NGQ0YjZiZDQ5NDkzYmMwMWY0",
   "tracks": [
     {
       "added_at": "2023-06-22 01:44:05",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Doom (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
-      },
-      "artists": [
-        {
-          "name": "Mick Gordon",
-          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
-        }
-      ],
-      "duration_ms": 257734,
-      "name": "Rip & Tear",
-      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 146176,
       "name": "Self-Destruction",
       "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Doom (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp"
+      },
+      "artists": [
+        {
+          "name": "Mick Gordon",
+          "url": "https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y"
+        }
+      ],
+      "duration_ms": 257734,
+      "name": "Rip & Tear",
+      "url": "https://open.spotify.com/track/5soMJpcVhSrGrB4prvPL6P"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Meliora (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "Square Hammer",
+      "url": "https://open.spotify.com/track/2XgTw2co6xv95TmKpMcL70"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Crimson Thunder",
-        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Hearts on Fire",
-      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 276200,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "The Void",
-        "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 220765,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "MASSIVE ADDICTIVE",
         "url": "https://open.spotify.com/album/4R9xcmJHM8qT20wf3meJLe"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 197866,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/3X1usZ9bRwbyEjAnkLAJWO"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 220765,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 202158,
-      "name": "Blinded",
-      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "From Hell With Love",
         "url": "https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 206563,
       "name": "Sweet True Lies",
       "url": "https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 202158,
+      "name": "Blinded",
+      "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
+        "name": "Shaped by Fire",
+        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
       "artists": [
         {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
         }
       ],
-      "duration_ms": 304596,
-      "name": "Blind And Frozen",
-      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
+      "duration_ms": 253317,
+      "name": "My Own Grave",
+      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Shaped by Fire",
-        "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
       },
       "artists": [
         {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
         }
       ],
-      "duration_ms": 253317,
-      "name": "My Own Grave",
-      "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+      "duration_ms": 304596,
+      "name": "Blind And Frozen",
+      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Inhumane",
-        "url": "https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 239291,
-      "name": "Inhumane",
-      "url": "https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG"
-    },
-    {
-      "added_at": "2023-06-22 01:44:05",
-      "album": {
         "name": "Disarm the Descent (Special Edition)",
         "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 197573,
       "name": "In Due Time",
       "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
+    },
+    {
+      "added_at": "2023-06-22 01:44:05",
+      "album": {
+        "name": "Inhumane",
+        "url": "https://open.spotify.com/album/19g3sBJ1wP4MsOasNoXbca"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 239291,
+      "name": "Inhumane",
+      "url": "https://open.spotify.com/track/36K5KSqFJOCN9YLmSTkXrG"
     },
     {
       "added_at": "2023-06-22 01:44:05",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-06-22 01:44:05",
       "album": {
-        "name": "Beyond Hell / Above Heaven",
-        "url": "https://open.spotify.com/album/3EwdtOKxIBnC8jJwsOvy2K"
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 239946,
-      "name": "The Mirror And The Ripper",
-      "url": "https://open.spotify.com/track/13jk0QqK6PzfgK9qtkT8jm"
+      "duration_ms": 228712,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     }
   ],
   "unique_name": "Energy Booster: Metal",

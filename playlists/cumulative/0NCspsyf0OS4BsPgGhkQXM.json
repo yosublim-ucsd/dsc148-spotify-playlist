@@ -4487,6 +4487,28 @@
     },
     {
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/0foGT46aMB2XtSkRBSCjnz"
+      },
+      "artists": [
+        {
+          "name": "Veyox",
+          "url": "https://open.spotify.com/artist/5BA5tTe2DUdZ7oMtG3fVRW"
+        },
+        {
+          "name": "YL",
+          "url": "https://open.spotify.com/artist/15nuHLW9M5qmHl7k6zyHr3"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178138,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/3TFMNvcjNonMaEaYWsouVn"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1JYsLiWmHiukJClldteW7q"
       },
@@ -6698,7 +6720,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 281800,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5kA4Jgxs1GDF2v9GUSo4yc"
@@ -14814,7 +14836,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 173162,
       "name": "There For You",
       "url": "https://open.spotify.com/track/0jullR0ynF6zvPvAHbQ94E"

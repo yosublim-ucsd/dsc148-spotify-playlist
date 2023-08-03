@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3?si=0dUBGLxSRbeUy2tKCJB3Aw">Lebza TheVillain</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,179 likes - 50 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,586 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Valentines \(feat\. Kabza De Small\)](https://open.spotify.com/track/4GMKUNUvrS8xkaKBgEdAcB) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Uthingo Le Nkosazana](https://open.spotify.com/album/3uJs8ecQGgEsACraT8ucQ7) | 6:22 |
 | 50 | [JAGERMEISTER](https://open.spotify.com/track/3VBwoaePYGdOmG1YHgGOHi) | [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML) | [JAGERMEISTER](https://open.spotify.com/album/5Tk2uNjYtHL9V0uEhSQAYx) | 5:27 |
 
-Snapshot ID: `MCxhMjQ3YzY5NWJmNGMyNGJjZDU3NjI1MmIxMmJiYTg0YTc3Zjk3ZWEw`
+Snapshot ID: `MCwzNmUyOTY5MWYyZThkNDViZDA2YzI2OWI5NmZhMTVjYTNmZjhlZWM3`

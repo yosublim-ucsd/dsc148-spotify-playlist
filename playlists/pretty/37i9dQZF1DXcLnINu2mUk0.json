@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 36390,
+  "num_followers": 36438,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmEyYzIyNWJhZDEyMzA0MTExZjFlYTc1ZjQwOThjZTFjMzMzM2Y4",
+  "snapshot_id": "MCxkZTZmODE2ZjM1YTFkMDRkZWY2OGU5MTQ0MWY3MmQ1MmYyZTFjMzE0",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Tequila (Studio Version)",
         "url": "https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 136956,
       "name": "Sil\u00eancio",
       "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/3CU34m1I3EBP0Tq7lOIlTH"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/6efl1kQkelA67zwWlFINd0"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Free to B",
-        "url": "https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO"
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck"
       },
       "artists": [
         {
-          "name": "James dos Reis",
-          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
+          "name": "GBr\u00efsido",
+          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Free to B",
-      "url": "https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz"
+      "duration_ms": 212020,
+      "name": "Musa",
+      "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Musa",
-        "url": "https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck"
+        "name": "Free to B",
+        "url": "https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO"
       },
       "artists": [
         {
-          "name": "GBr\u00efsido",
-          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
+          "name": "James dos Reis",
+          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
         }
       ],
-      "duration_ms": 212020,
-      "name": "Musa",
-      "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
+      "duration_ms": 146000,
+      "name": "Free to B",
+      "url": "https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Conex\u00f5es",
-        "url": "https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB"
-      },
-      "artists": [
-        {
-          "name": "Burrz",
-          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Conex\u00f5es",
-      "url": "https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "Voei",
         "url": "https://open.spotify.com/album/4PrPoQtU1ixXHvFUAnjnFf"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 164200,
       "name": "Voei",
       "url": "https://open.spotify.com/track/5ayT228gpYGP2OGGRiZFZy"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "Conex\u00f5es",
+        "url": "https://open.spotify.com/album/2Lb5TGDth1OKpJEFhKdWCB"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Conex\u00f5es",
+      "url": "https://open.spotify.com/track/3LcW8h5WoAF2FEMxd9S1zO"
     },
     {
       "added_at": "2023-07-27 23:00:00",

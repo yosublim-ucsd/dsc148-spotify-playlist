@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Caloncho en portada.",
-  "num_followers": 57406,
+  "num_followers": 57438,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGNjZDFlMzhlZDg2MDkyYzljYWE4YzQxYmJjZjg4MzdhMGQ5MWEx",
+  "snapshot_id": "MCw2OTRkZWEwNzYyYWMyZjEwMmZjOTU5ZWExYWZmZTkxNWE1MzkzNWI5",
   "tracks": [
     {
       "added_at": "2023-07-28 18:38:54",
@@ -159,22 +159,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Te Llor\u00e9 Un R\u00edo",
-        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
+        "name": "T\u00fa Me Gustas",
+        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 230811,
-      "name": "Te Llor\u00e9 Un R\u00edo",
-      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+      "duration_ms": 206956,
+      "name": "T\u00fa Me Gustas",
+      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -195,22 +195,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "T\u00fa Me Gustas",
-        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
+        "name": "Te Llor\u00e9 Un R\u00edo",
+        "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         },
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 206956,
-      "name": "T\u00fa Me Gustas",
-      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+      "duration_ms": 230811,
+      "name": "Te Llor\u00e9 Un R\u00edo",
+      "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -527,22 +527,18 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "El Cielo A\u00fan Espera",
-        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 233200,
-      "name": "El Cielo A\u00fan Espera",
-      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -563,18 +559,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+        "name": "El Cielo A\u00fan Espera",
+        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+      "duration_ms": 233200,
+      "name": "El Cielo A\u00fan Espera",
+      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
+        "name": "Sanz",
+        "url": "https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 264098,
+      "name": "Yo No Quiero Suerte",
+      "url": "https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
         "name": "Qu\u00e9date",
         "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 195036,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
-        "name": "Sanz",
-        "url": "https://open.spotify.com/album/0FZBhjDJOY7l3eQ1uswUR4"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 264098,
-      "name": "Yo No Quiero Suerte",
-      "url": "https://open.spotify.com/track/6cT1Y3M784gLrzxuKdf2WJ"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Entre T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz"
-      },
-      "artists": [
-        {
-          "name": "Karla Breu",
-          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
-        }
-      ],
-      "duration_ms": 241780,
-      "name": "Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "Hola, Me Llamo Mar\u00eda",
         "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 156000,
       "name": "Hola, Me Llamo Mar\u00eda",
       "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
+        "name": "Entre T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz"
+      },
+      "artists": [
+        {
+          "name": "Karla Breu",
+          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
+        }
+      ],
+      "duration_ms": 241780,
+      "name": "Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ"
     },
     {
       "added_at": "2023-07-28 18:38:54",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-07-28 18:38:54",
       "album": {
-        "name": "Coraz\u00f3n de Ave",
-        "url": "https://open.spotify.com/album/1a9dGqVOjgXvjm1T18iEOI"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Coraz\u00f3n de Ave",
-      "url": "https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm"
-    },
-    {
-      "added_at": "2023-07-28 18:38:54",
-      "album": {
         "name": "Qu\u00e9 Es Amor? My Love",
         "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 214114,
       "name": "Qu\u00e9 Es Amor? My Love",
       "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
+    },
+    {
+      "added_at": "2023-07-28 18:38:54",
+      "album": {
+        "name": "Coraz\u00f3n de Ave",
+        "url": "https://open.spotify.com/album/1a9dGqVOjgXvjm1T18iEOI"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Coraz\u00f3n de Ave",
+      "url": "https://open.spotify.com/track/4MSHxsXUGG8j9Ejq72ahcm"
     },
     {
       "added_at": "2023-07-28 18:38:54",

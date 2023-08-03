@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Kareen Guiock\-Thuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,966 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,009 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [Talent Stick](https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Talent Stick](https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW) | 4:00 |
 | 50 | [Old Devil Moon](https://open.spotify.com/track/1U5TcgQFBoAei2b82uQCOe) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:19 |
 
-Snapshot ID: `MCxlZGNlZGQ5NzUzZjU2NWJmOWJkZjc1ODcxM2Y2MjZlNjhiZmQ0MjFj`
+Snapshot ID: `MCxmYmI2ZTJmYTliYTUwMGUxZWU4OTQ4MWZlNWExZTQ3NmY3ZjYzMzBk`

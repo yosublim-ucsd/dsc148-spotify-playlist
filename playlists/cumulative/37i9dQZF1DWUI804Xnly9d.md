@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-147 songs - 8 hr 14 min
+148 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/6uabsr2THX1Yls9VsqeQti) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 |  |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 |  |
+| [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 |  |
 | [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 |  |
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 | 2023-06-21 |
 | [Kahaani](https://open.spotify.com/track/57TrQP3nPUoc92VsooFB7p) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Kahaani](https://open.spotify.com/album/0pObojh3ehHgp4GYHl5RF5) | 3:35 | 2023-05-17 | 2023-06-16 |
@@ -104,7 +105,7 @@
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 | 2023-06-13 |
 | [Na Jaane Tu](https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe) | [Krishna Goel](https://open.spotify.com/artist/0TTxWgAwRewRgspfDFch7H) | [Na Jaane Tu](https://open.spotify.com/album/2lqPWPHZUo8wdkUImxmgCM) | 4:06 | 2023-06-26 |  |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 |  |
-| [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 |  |
+| [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 | 2023-08-03 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
 | [Pal Behta Jaaye 2.0](https://open.spotify.com/track/5SHfxmcRM55HoxnhPJLcal) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye 2.0](https://open.spotify.com/album/7nCPsjpyUj4pY2HI4EhwLV) | 3:03 | 2023-05-17 |  |
 | [Panchi](https://open.spotify.com/track/1YMbppfdFjeEFaeAwMwzuK) | [Junoo](https://open.spotify.com/artist/6kn3V4aLbqDDEgVZlRMoph), [Hitika Sharma](https://open.spotify.com/artist/2Pp8Fl2T7yCAe2FDQ3tl44), [Sunny](https://open.spotify.com/artist/7BGVCQBQVSbadM4IJMr06b) | [Panchi](https://open.spotify.com/album/6aHWbt2H7UxxhXa8AWcHeV) | 4:07 | 2023-06-30 |  |

@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: サザンオールスターズ
 
-722 songs - 1 day 23 hr 52 min
+723 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Unleash!!!!!](https://open.spotify.com/track/2XQF5hFvxyzzAkGWb3sQFM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash!!!!!](https://open.spotify.com/album/3gwgfh9R9KL1m1YOqnVh3G) | 3:10 | 2022-08-09 | 2022-09-24 |
 | [Unleash!!!!!](https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:10 | 2022-09-20 | 2023-06-28 |
 | [Unnamed Song](https://open.spotify.com/track/5jf15rbmGjj6E8k7EJMTV6) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Unnamed Song](https://open.spotify.com/album/4XRTzbvLTIPyHnngt3bfiZ) | 2:58 | 2022-07-26 | 2022-08-03 |
+| [Utae Nippon no Sora](https://open.spotify.com/track/1gDOmbdOhMADkmNSU9eUMb) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Utae Nippon no Sora](https://open.spotify.com/album/3Unh0miQk8WcU5uSQptS8v) | 4:07 | 2023-08-01 |  |
 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2022-09-08 | 2023-02-01 |
 | [Vandalize](https://open.spotify.com/track/5EfvD1jdbDYQ6OEuQGkweb) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-08 | 2022-09-12 |
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 | 2022-11-13 |
@@ -657,7 +658,7 @@
 | [枯渇](https://open.spotify.com/track/3EDQuv4IC9HtIw95JliHYt) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [枯渇](https://open.spotify.com/album/0qysz8Q6IjEsKfj9u1iMKd) | 4:05 | 2022-05-12 | 2022-06-07 |
 | [楽しいことしかない](https://open.spotify.com/track/52IZlcQsdTNzRilIoo8Gic) | [Kinniku Shōjo Tai](https://open.spotify.com/artist/49Ih923DaLzIEGqAe0PirH) | [君だけが憶えている映画](https://open.spotify.com/album/3uI67Iy2XHfOHGx7q5qPXJ) | 4:47 | 2022-05-12 | 2022-05-31 |
 | [欲望の種類](https://open.spotify.com/track/0tH51HhTDdVlk2LDlsR9TY) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [欲望の種類](https://open.spotify.com/album/53xPqQvVSyHA63t5LwgkU5) | 3:27 | 2022-05-10 | 2022-07-25 |
-| [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-08-01 |  |
+| [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-08-01 | 2023-08-03 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2022-05-10 | 2022-11-09 |
 | [水色と空色](https://open.spotify.com/track/3ng50f0XnhrTWF8ooA8wzJ) | [Fumiya Fujii](https://open.spotify.com/artist/5uDMiTt5fxXmUyPS5HPwvS) | [水色と空色](https://open.spotify.com/album/55BY83icZvzWxKSShP7Bb9) | 4:41 | 2022-05-24 | 2022-06-01 |
 | [永遠](https://open.spotify.com/track/7oCZ1O1L4TuLRnmt8Io4IU) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [永遠](https://open.spotify.com/album/42nEyaGtOPG8YuugZjyNFt) | 6:12 | 2022-07-28 | 2022-08-31 |

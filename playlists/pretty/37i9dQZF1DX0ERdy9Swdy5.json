@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 661507,
+  "num_followers": 661785,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODBlYTRlZjhiZjQ3MTRlNTA0Y2NlZDQ1MzZjMTY3MTIwNGRmMzY1",
+  "snapshot_id": "MCxkYjlhZjJlODJmNzBkOWQ0NGNjNjhkOGFmNTk5MzYxZDU1NmIxZDhm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Intensamente Con Canciones de Juan Gabriel",
-        "url": "https://open.spotify.com/album/3OrTxdDP1E286UALbB9T0D"
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 239363,
-      "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
-      "url": "https://open.spotify.com/track/27dI6gpXKW1EYl0L7JHsJb"
+      "duration_ms": 299893,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+        "name": "Intensamente Con Canciones de Juan Gabriel",
+        "url": "https://open.spotify.com/album/3OrTxdDP1E286UALbB9T0D"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 299893,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1rnRQBxmem5kmb967ptQUa"
+      "duration_ms": 239363,
+      "name": "Me Voy a Acostumbrar - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/27dI6gpXKW1EYl0L7JHsJb"
     },
     {
       "added_at": "2023-03-17 00:48:14",

@@ -1,15 +1,15 @@
 {
   "description": "Soft music to calm down cats, kittens and their humans.",
-  "num_followers": 14879,
+  "num_followers": 14946,
   "original_name": "Cat Calming Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGQ3Mzc2MjFmZWY2ZmFiMWFiN2Q1ODI5NDIwZTIzYWUyZGZhM2Q4",
+  "snapshot_id": "MCwxYTYxZGIyNDAxYzc5N2M3ZGE4OTZkYTA1ZDA4ODgwNDIyMDZhNWEz",
   "tracks": [
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Clarity Solfeggio",
         "url": "https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p"
@@ -25,7 +25,39 @@
       "url": "https://open.spotify.com/track/0zN8CDrYkIldw94c17PhrL"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Unresolved",
+        "url": "https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy"
+      },
+      "artists": [
+        {
+          "name": "Hibisc",
+          "url": "https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi"
+        }
+      ],
+      "duration_ms": 107740,
+      "name": "Unresolved",
+      "url": "https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Fragment",
+        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Fragment",
+      "url": "https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Le Lac",
         "url": "https://open.spotify.com/album/32oA5PrMStagwn9406moMO"
@@ -41,7 +73,7 @@
       "url": "https://open.spotify.com/track/75KdZGRMOcMzDI4qS4KB3V"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Escape Gravity",
         "url": "https://open.spotify.com/album/6Q5SJIXsAhHNl2HuQsep69"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/7z5azdVHQCt2whLxATLFfn"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Garden Heart: Reworks",
         "url": "https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx"
@@ -77,39 +109,7 @@
       "url": "https://open.spotify.com/track/5GS1nPJBMHLmVlkpG8v5Zw"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Fragment",
-        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Fragment",
-      "url": "https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Unresolved",
-        "url": "https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy"
-      },
-      "artists": [
-        {
-          "name": "Hibisc",
-          "url": "https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi"
-        }
-      ],
-      "duration_ms": 107740,
-      "name": "Unresolved",
-      "url": "https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Alchemy of Peace 528 Hz",
         "url": "https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Chasing Waterfalls",
         "url": "https://open.spotify.com/album/5M4eCFjPUz8M4QkQeeUnuE"
@@ -141,135 +141,7 @@
       "url": "https://open.spotify.com/track/5bpgoU9a6KSxZj71t0dvPj"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Right Path 852 Hz",
-        "url": "https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7"
-      },
-      "artists": [
-        {
-          "name": "Meodna",
-          "url": "https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Right Path 852 Hz",
-      "url": "https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Solfeggio Frequencies - Astral Distance",
-        "url": "https://open.spotify.com/album/7AO6LwT9dJ8mJBl45IOQUv"
-      },
-      "artists": [
-        {
-          "name": "Muni Yogi",
-          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
-        }
-      ],
-      "duration_ms": 119613,
-      "name": "417 Hz - Astral Distance",
-      "url": "https://open.spotify.com/track/2z1oFkt3nweQTE7hpJjI4S"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Strings Of Serenity",
-        "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
-      },
-      "artists": [
-        {
-          "name": "X-Genie",
-          "url": "https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Strings Of Serenity",
-      "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "The Heritage",
-        "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
-      },
-      "artists": [
-        {
-          "name": "Logan Ronfeld",
-          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
-        }
-      ],
-      "duration_ms": 216063,
-      "name": "The Heritage",
-      "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/134iaeUz9GxbTtG272YDkv"
-      },
-      "artists": [
-        {
-          "name": "Maya \u00c5str\u00f6m",
-          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Ambisonic",
-        "url": "https://open.spotify.com/album/6tURvUvjWCNmakAxeDfkak"
-      },
-      "artists": [
-        {
-          "name": "Dominum Nominum",
-          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
-        }
-      ],
-      "duration_ms": 163624,
-      "name": "Ambisonic",
-      "url": "https://open.spotify.com/track/2i65QryEKcbrFrk48fwepq"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Balaprakash - Naname",
-        "url": "https://open.spotify.com/album/2VMGq99T9eanBcnbLh1Vje"
-      },
-      "artists": [
-        {
-          "name": "Chaccara",
-          "url": "https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q"
-        }
-      ],
-      "duration_ms": 198923,
-      "name": "Naname 528 Hz",
-      "url": "https://open.spotify.com/track/2maqfMMJ5PBFwolrqMwmK7"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Quasar",
-        "url": "https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE"
-      },
-      "artists": [
-        {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
-        }
-      ],
-      "duration_ms": 258951,
-      "name": "Quasar",
-      "url": "https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Soothe",
         "url": "https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP"
@@ -285,7 +157,135 @@
       "url": "https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Right Path 852 Hz",
+        "url": "https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7"
+      },
+      "artists": [
+        {
+          "name": "Meodna",
+          "url": "https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Right Path 852 Hz",
+      "url": "https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Strings Of Serenity",
+        "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
+      },
+      "artists": [
+        {
+          "name": "X-Genie",
+          "url": "https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Strings Of Serenity",
+      "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Quasar",
+        "url": "https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE"
+      },
+      "artists": [
+        {
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+        }
+      ],
+      "duration_ms": 258951,
+      "name": "Quasar",
+      "url": "https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/134iaeUz9GxbTtG272YDkv"
+      },
+      "artists": [
+        {
+          "name": "Maya \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/0iRZ3PagoECbNcicNO9xp6"
+      },
+      "artists": [
+        {
+          "name": "Alan Ellis",
+          "url": "https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN"
+        }
+      ],
+      "duration_ms": 210875,
+      "name": "Reflector",
+      "url": "https://open.spotify.com/track/3VActv26ShH9wZKsYivLut"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Ambisonic",
+        "url": "https://open.spotify.com/album/6tURvUvjWCNmakAxeDfkak"
+      },
+      "artists": [
+        {
+          "name": "Dominum Nominum",
+          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
+        }
+      ],
+      "duration_ms": 163624,
+      "name": "Ambisonic",
+      "url": "https://open.spotify.com/track/2i65QryEKcbrFrk48fwepq"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Balaprakash - Naname",
+        "url": "https://open.spotify.com/album/2VMGq99T9eanBcnbLh1Vje"
+      },
+      "artists": [
+        {
+          "name": "Chaccara",
+          "url": "https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q"
+        }
+      ],
+      "duration_ms": 198923,
+      "name": "Naname 528 Hz",
+      "url": "https://open.spotify.com/track/2maqfMMJ5PBFwolrqMwmK7"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Coastal Route",
+        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Coastal Route",
+      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "M\u00e5nens hav",
         "url": "https://open.spotify.com/album/1QZDB6DjafFtK1FeSP2Lec"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/54i2pTD2lvgfgjYkwX7pmQ"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
@@ -325,23 +325,23 @@
       "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+        "name": "Breathing Beliefs 528 Hz",
+        "url": "https://open.spotify.com/album/05Zhw8YRzYvqD6IaTjWBjE"
       },
       "artists": [
         {
-          "name": "Clouds Come Down",
-          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
         }
       ],
-      "duration_ms": 228128,
-      "name": "Bird Whisperer (Just Relax)",
-      "url": "https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd"
+      "duration_ms": 281142,
+      "name": "Breathing Beliefs 528 Hz",
+      "url": "https://open.spotify.com/track/62KNbFaTQiZLy6uuCv2eqn"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Free Floating",
         "url": "https://open.spotify.com/album/7E7TmcvZDiaCtN3lBzaqbZ"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/1diD0sLnUcAqM2pSVfbDih"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Eternal Moonshine 741 Hz",
         "url": "https://open.spotify.com/album/6XkeOuyw0OSUaxR3N2Q51k"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/1e1RbrYKiKoSi6K63qfMU2"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Serenity Repose 528 Hz",
         "url": "https://open.spotify.com/album/2k4UbXKZJ4AKoB2qvYwowo"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/2WGlubsM3MmePFpgUmgNzi"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Kalmte",
         "url": "https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG"
@@ -405,7 +405,23 @@
       "url": "https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Future Hologram",
+        "url": "https://open.spotify.com/album/5vSNf56Y0Ejy8FvdtgvQDn"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "duration_ms": 185478,
+      "name": "Future Hologram",
+      "url": "https://open.spotify.com/track/1m8293L09imDGdKXpkk1xc"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/6d6OF37z3u4Cg02rGjqSvS"
@@ -421,7 +437,23 @@
       "url": "https://open.spotify.com/track/63pIgIp1N1E6gMR4vPI3Qe"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "The Heritage",
+        "url": "https://open.spotify.com/album/6w1fsIcKWcNijRIEuXl60k"
+      },
+      "artists": [
+        {
+          "name": "Logan Ronfeld",
+          "url": "https://open.spotify.com/artist/0pVfP276c80iwVhymewTp9"
+        }
+      ],
+      "duration_ms": 216063,
+      "name": "The Heritage",
+      "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "528 Hz Healing Journey",
         "url": "https://open.spotify.com/album/2MTNpysnpcfKzgGEwUoivz"
@@ -437,7 +469,23 @@
       "url": "https://open.spotify.com/track/7qZ5aBw4BFPdudxXNHBfxt"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "396 Hz Mindful Movement",
+        "url": "https://open.spotify.com/album/7jmBp2Gm9ctKiKiBkgwDOv"
+      },
+      "artists": [
+        {
+          "name": "Magnapinna",
+          "url": "https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4"
+        }
+      ],
+      "duration_ms": 215077,
+      "name": "Mindful Movement",
+      "url": "https://open.spotify.com/track/3GSm1dZSXhgZEl63Xtt9cB"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Calm And Focused",
         "url": "https://open.spotify.com/album/2t3ZSQ4qT66GZhVyX3YB9k"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/14tRCC9UU68DA2Rk8Szorw"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC"
@@ -469,23 +517,7 @@
       "url": "https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Cozmo's Air",
-        "url": "https://open.spotify.com/album/6eBttKmf7eOaZICEyy2re8"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "Cozmo's Air",
-      "url": "https://open.spotify.com/track/58VLKJL8y3FknrqLUVXPrI"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Unending Silence",
         "url": "https://open.spotify.com/album/6Qavh6mFHREtBkl9eelsSS"
@@ -501,7 +533,23 @@
       "url": "https://open.spotify.com/track/39IYyk3FebMt3ZuYmwhzrg"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Morgensol",
         "url": "https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk"
@@ -517,7 +565,7 @@
       "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Compass of Peace 528 Hz",
         "url": "https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Lazily Floating 741 Hz",
         "url": "https://open.spotify.com/album/6O4U237uU4UjhEhY8CcwO7"
@@ -549,7 +597,23 @@
       "url": "https://open.spotify.com/track/3JVNr2XrBVkfaAToTQ09q4"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Through the Static",
+        "url": "https://open.spotify.com/album/1SdDlXiej6NXbmu9TmFSk6"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 580000,
+      "name": "Through the Static",
+      "url": "https://open.spotify.com/track/31XvAj1tMWSeckhXF8KtqP"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Brilliant World & Blooming Peace",
         "url": "https://open.spotify.com/album/1PIfE4jAici4b5icjZnsB8"
@@ -565,7 +629,7 @@
       "url": "https://open.spotify.com/track/109tY81HO3zaLidHHiSBPU"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
@@ -601,7 +665,7 @@
       "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Komal",
         "url": "https://open.spotify.com/album/5mRadTZXGFtLaNioT37aom"
@@ -617,7 +681,7 @@
       "url": "https://open.spotify.com/track/0hIIdNfezCtKDLoIT3ilx2"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Yoga Gong Karma",
         "url": "https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly"
@@ -633,27 +697,7 @@
       "url": "https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
-      "album": {
-        "name": "Calming Music for Anxious Cats: Songs to Soothe Your Cat",
-        "url": "https://open.spotify.com/album/6oJRshmkcJerjwLT6Pc8rO"
-      },
-      "artists": [
-        {
-          "name": "Cat Music Dreams",
-          "url": "https://open.spotify.com/artist/47U20M8lyC5AJLNJg3laOD"
-        },
-        {
-          "name": "RelaxMyCat",
-          "url": "https://open.spotify.com/artist/2uO0Hew2xpva3P9AgknpzB"
-        }
-      ],
-      "duration_ms": 181201,
-      "name": "Relax My Cat",
-      "url": "https://open.spotify.com/track/0ek9tPrHh2sZukgfv6mvkt"
-    },
-    {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "In My Quiet Hour",
         "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
@@ -669,7 +713,7 @@
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta"
@@ -685,7 +729,7 @@
       "url": "https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Bach, JS : Well-Tempered Clavier Books 1 & 2",
         "url": "https://open.spotify.com/album/66zilH1HJzRLEorco0u6bS"
@@ -701,7 +745,7 @@
       "url": "https://open.spotify.com/track/3YMtL47xfTkFJHjAu8Snr8"
     },
     {
-      "added_at": "2023-07-20 16:15:31",
+      "added_at": "2023-08-02 10:13:25",
       "album": {
         "name": "Mozart: Piano Sonatas Nos. 15 & 16; Rondo in A minor",
         "url": "https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH"
@@ -719,6 +763,22 @@
       "duration_ms": 420413,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
       "url": "https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci"
+    },
+    {
+      "added_at": "2023-08-02 10:13:25",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+      },
+      "artists": [
+        {
+          "name": "Clouds Come Down",
+          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+        }
+      ],
+      "duration_ms": 228128,
+      "name": "Bird Whisperer (Just Relax)",
+      "url": "https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd"
     }
   ],
   "unique_name": "Cat Calming Music",

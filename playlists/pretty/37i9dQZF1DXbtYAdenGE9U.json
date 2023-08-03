@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 443328,
+  "num_followers": 443853,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDVjNmFiODMwZGFmNGU4ZjQ5Yjc4ODIzZjZlNjY3NGM3ZWRmZDI4",
+  "snapshot_id": "MCw5YTk2NzQ5NmQ3NzdmZDc5ZWE0MjYwNWUyZjY5YWZiMDU2NTdmY2Zi",
   "tracks": [
     {
       "added_at": "2023-03-10 22:36:17",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Coming On Strong (ReOrder Remix)",
+        "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
+      },
+      "artists": [
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "Symsonic",
         "url": "https://open.spotify.com/album/6P7JbeaSgpo5XdLzXmin1z"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 217146,
       "name": "Gouryella",
       "url": "https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Coming On Strong (ReOrder Remix)",
-        "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
-      },
-      "artists": [
-        {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
-        },
-        {
-          "name": "Scott Mac",
-          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "Coming On Strong",
-      "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
     },
     {
       "added_at": "2023-03-10 22:36:17",
@@ -887,6 +887,26 @@
     {
       "added_at": "2023-03-10 22:36:17",
       "album": {
+        "name": "Group Therapy",
+        "url": "https://open.spotify.com/album/2I6sty06i8pXtu175kAfHa"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 329333,
+      "name": "Thing Called Love - Original Mix",
+      "url": "https://open.spotify.com/track/0YuDHcx0WM1tGOyidHMwnz"
+    },
+    {
+      "added_at": "2023-03-10 22:36:17",
+      "album": {
         "name": "The Whiteroom",
         "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 233848,
       "name": "The Whiteroom",
       "url": "https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH"
-    },
-    {
-      "added_at": "2023-03-10 22:36:17",
-      "album": {
-        "name": "Armada Collected: Aly & Fila",
-        "url": "https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1"
-      },
-      "artists": [
-        {
-          "name": "Aly & Fila",
-          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
-        },
-        {
-          "name": "Jwaydan",
-          "url": "https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp"
-        }
-      ],
-      "duration_ms": 226673,
-      "name": "We Control The Sunlight",
-      "url": "https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I"
     }
   ],
   "unique_name": "Trance Classics",

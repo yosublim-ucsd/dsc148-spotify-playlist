@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,889 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,974 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 84 | [Run Wild](https://open.spotify.com/track/5cOG0SW6hwUYfenLpMMy5J) | [REIMS](https://open.spotify.com/artist/3sbhS05fQerlXJSubVoIbX) | [Riot](https://open.spotify.com/album/1DJdcGOOjXzXmHIuKYJ3qz) | 3:10 |
 | 85 | [I Take What I Want](https://open.spotify.com/track/2Q3hZl6kpZDvoMMsAfHnKd) | [Unions](https://open.spotify.com/artist/7MwboFnNvHagUzots37Pbm) | [I Take What I Want](https://open.spotify.com/album/53NZ67lMM531VrhPCx0roC) | 3:58 |
 
-Snapshot ID: `MCwzZDk0M2RiNjk2ZDhjN2QyZWY0ZTljMzQxMGUyNzE5MTVkYWUzZTJj`
+Snapshot ID: `MCw0YWEzMzcxZGFkNTFkMWM1ZDA0OTc3Y2Q4Nzk5YzdlNTA3MjcyYjIx`

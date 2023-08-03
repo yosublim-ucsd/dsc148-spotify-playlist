@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-3,928 songs - 9 day 23 hr 8 min
+3,929 songs - 9 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1754,7 +1754,7 @@
 | [SENA](https://open.spotify.com/track/4XhLNBF34piSxLflc1OPnI) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [1414](https://open.spotify.com/album/6t8mEVN8w8ZtAB94tLrG96) | 3:24 | 2023-07-24 | 2023-08-01 |
 | [Sensation](https://open.spotify.com/track/7KZaGr1ueQxRe3LzaVEhaV) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Sensation](https://open.spotify.com/album/6BRHc1vh5BOy2xwrDpMu59) | 2:43 | 2021-12-08 | 2021-12-15 |
 | [SENSITIVE LOVE](https://open.spotify.com/track/0qPSQPwT6ahfMGsddXW9rl) | [BOØWY](https://open.spotify.com/artist/0pr3ep0knQaPHEZ2X8niA0) | [BEAT EMOTION](https://open.spotify.com/album/2bkKCQ1ASzhXrQebGRTTSm) | 2:34 | 2021-10-13 | 2021-10-20 |
-| [Sentimental trigger](https://open.spotify.com/track/1i2FKAcJUCxaBzV5Tr9hrr) | [Aramaki Yujin](https://open.spotify.com/artist/2QPHhfrO1mrCx65Im5PIJz) | [Sentimental trigger](https://open.spotify.com/album/6ZPbUsa0DvkbOCFkeOTcmV) | 4:08 | 2023-05-08 |  |
+| [Sentimental trigger](https://open.spotify.com/track/1i2FKAcJUCxaBzV5Tr9hrr) | [Aramaki Yujin](https://open.spotify.com/artist/2QPHhfrO1mrCx65Im5PIJz) | [Sentimental trigger](https://open.spotify.com/album/6ZPbUsa0DvkbOCFkeOTcmV) | 4:08 | 2023-05-08 | 2023-08-03 |
 | [SEPIA NOTES \(feat.春風詩音\)](https://open.spotify.com/track/6oHfCu8e2I7qiyrHArF0zO) | [Pedestrian](https://open.spotify.com/artist/6fIP2qKVhs77fnk8PqyzZg), [春風詩音](https://open.spotify.com/artist/5LDMxLXPQ5UrZ0Nr1Glc5F) | [SEPIA NOTES \(feat.春風詩音\)](https://open.spotify.com/album/3pGaSPKh3pUowpa9pTEKOA) | 2:58 | 2023-02-20 | 2023-02-28 |
 | [Set Me Free](https://open.spotify.com/track/4pyFpr4crwBFNYVbEZNBVC) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [Set Me Free](https://open.spotify.com/album/3bm6qrP5JsCqNphkA8Floe) | 3:17 | 2022-08-29 | 2022-09-20 |
 | [Seven Stars](https://open.spotify.com/track/4oGOEHJRob7VMOGiipz9hX) | [suga/es](https://open.spotify.com/artist/2bV15wVRFCQeDxd0zhRpCi) | [Seven Stars](https://open.spotify.com/album/6wbhy6YNPzd73oiG0oudkU) | 3:51 | 2023-04-17 | 2023-04-25 |
@@ -2839,6 +2839,7 @@
 | [セブンティーン](https://open.spotify.com/track/1zUv5N8VNYUoArDdlmsqIm) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [セブンティーン](https://open.spotify.com/album/5OmgNJdapnMoouxa46n9Pc) | 2:45 | 2022-03-14 | 2022-04-06 |
 | [セブンティーン Sugar Remix](https://open.spotify.com/track/1MCBTDNCjWrqvVoWAiKJNo) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [セブンティーン Sugar Remix](https://open.spotify.com/album/3TElFdYorhDaZmi6HdrLq2) | 2:17 | 2022-11-08 | 2022-11-22 |
 | [センチメンタル カンガルー](https://open.spotify.com/track/1sRqnYUfoymd2EizjnU9OV) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k) | [ribbon \-30th Anniversary Edition\-](https://open.spotify.com/album/63s9Ptl7MKFVhMQum6L3ew) | 4:19 | 2021-10-09\* | 2021-10-13 |
+| [センチメンタルトリガー](https://open.spotify.com/track/4Tpi1O1eFVQuysz3vMRyBW) | [Yujin Aramaki](https://open.spotify.com/artist/0SJLdfeI8MCeGGXrkxBJkh) | [センチメンタルトリガー](https://open.spotify.com/album/3zdPge2mmlb47vpUFuzkU6) | 4:08 | 2023-07-31 |  |
 | [センチメンタルトリガー](https://open.spotify.com/track/0FmSWxBq173Bx3FLgDzJPt) | [荒巻勇仁](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [センチメンタルトリガー](https://open.spotify.com/album/2ExBJlhdEFcc96mBMKzCnN) | 4:08 | 2022-07-04 | 2022-07-12 |
 | [センチメンタル・キス](https://open.spotify.com/track/73fWe6SUxkj5QI7ZwfEZmc) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [センチメンタル・キス](https://open.spotify.com/album/5u29OHiFnclYBvwnDxQVrk) | 5:25 | 2022-05-24 | 2022-05-31 |
 | [ソレイユ \- feat\. yonkey](https://open.spotify.com/track/7chAs7ehujVWT4KGZlUSfq) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC), [yonkey](https://open.spotify.com/artist/6xepaVh7in8xPJgHZfBPQZ) | [ソレイユ \(feat\. yonkey\)](https://open.spotify.com/album/5bBUw9fGaq19XtuGfzGomy) | 3:02 | 2022-05-30 | 2022-06-21 |

@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-185 songs - 15 hr 17 min
+186 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 | 2022-09-06 | 2022-09-15 |
 | [UHOPE](https://open.spotify.com/track/1xUJg0XOmAN7u0Y2YAu7St) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [UHOPE](https://open.spotify.com/album/7q9hNKpqQbGXDeRWkwCmlZ) | 4:23 | 2022-12-20 | 2023-01-25 |
 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 | 2023-07-25 |  |
-| [Viva La Vida](https://open.spotify.com/track/2OwGrSOJ6kVbIR7CApbu21) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [UNTITLED](https://open.spotify.com/album/4esApqD9IaEZiquhp43muj) | 4:26 | 2023-08-01 |  |
+| [Viva La Vida](https://open.spotify.com/track/62xr9i30Iuca9sRUmyZNPK) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [COVERMIND II](https://open.spotify.com/album/08MiQg3zXdbLxeZuE5YQyU) | 4:25 | 2023-08-01 |  |
+| [Viva La Vida](https://open.spotify.com/track/2OwGrSOJ6kVbIR7CApbu21) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [UNTITLED](https://open.spotify.com/album/4esApqD9IaEZiquhp43muj) | 4:26 | 2023-08-01 | 2023-08-03 |
 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 | 2022-09-06 | 2023-02-17 |
 | [Wander from place to place](https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea) | [Morphine Desert \-trio acoustic\-](https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33) | [Tales Of the Desert](https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ) | 5:45 | 2022-12-06 | 2023-03-08 |
 | [water melon](https://open.spotify.com/track/1MoCrRPl7VmLqkuVPBuc8n) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [water melon](https://open.spotify.com/album/17xOXntWM5dpQPmNCl5y9A) | 3:51 | 2022-11-15 | 2023-01-11 |

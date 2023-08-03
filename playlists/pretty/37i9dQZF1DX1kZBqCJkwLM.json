@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 80513,
+  "num_followers": 80528,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjhlNzgxNmVjZWJhODVjMWJmNzc2ZWM0ZjRmOWZkM2VhNzMyNDM1",
+  "snapshot_id": "MCwwOGJmNDk4OTRlNmE0ZGU3NjcwZTMyY2FlOGY4MzgyNzdiNzlhMGMx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Last Day On Earth",
-        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 222357,
-      "name": "Last Day On Earth",
-      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/0wuUCdkQxQOKiPabswFCrN"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 107369,
       "name": "i'll never fall in love with myself - demo",
       "url": "https://open.spotify.com/track/7Gkff5r7RcTyfJcDbowVA6"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Last Day On Earth",
+        "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 222357,
+      "name": "Last Day On Earth",
+      "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Moxie (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 161424,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "CLOUDS",
         "url": "https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Moxie (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq"
+        "name": "Introspection Reimagined",
+        "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 161424,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D"
+      "duration_ms": 213213,
+      "name": "Pretty Girl Hi Reimagined",
+      "url": "https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1111,22 +1127,6 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Introspection Reimagined",
-        "url": "https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Pretty Girl Hi Reimagined",
-      "url": "https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Can you (Galcher Lustwerk Remix)",
-        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 219216,
-      "name": "Can you",
-      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "GORGEOUS",
         "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
+        "name": "Can you (Galcher Lustwerk Remix)",
+        "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
       "artists": [
         {
-          "name": "Sofia Kay",
-          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
         }
       ],
-      "duration_ms": 213076,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
+      "duration_ms": 219216,
+      "name": "Can you",
+      "url": "https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "inhibitions (feat. P-Lo)",
-        "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv"
       },
       "artists": [
         {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Sofia Kay",
+          "url": "https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q"
         }
       ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
+      "duration_ms": 213076,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1311,6 +1291,26 @@
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "inhibitions (feat. P-Lo)",
+        "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
+      },
+      "artists": [
+        {
+          "name": "thuy",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY"
     },
     {
       "added_at": "2023-07-14 04:00:00",

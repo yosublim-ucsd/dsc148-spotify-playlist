@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 97861,
+  "num_followers": 97872,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5",
+  "snapshot_id": "MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "For Life",
-        "url": "https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "What I Want For Christmas",
-      "url": "https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "THE BOYZ Special Single 'Christmassy!'",
         "url": "https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 205533,
       "name": "Christmassy!",
       "url": "https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "What I Want For Christmas",
+      "url": "https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "cozy christmas",
-        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
-      },
-      "artists": [
-        {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Eily",
-          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
-        }
-      ],
-      "duration_ms": 123666,
-      "name": "Today and other days (Feat. Eily)",
-      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Be Your Christmas",
         "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 158226,
       "name": "Be Your Christmas (feat. BOL4)",
       "url": "https://open.spotify.com/track/0g3jinsfBejiIFjGkDNvim"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "cozy christmas",
+        "url": "https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005"
+        }
+      ],
+      "duration_ms": 123666,
+      "name": "Today and other days (Feat. Eily)",
+      "url": "https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "The Winter's Tale",
+        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 225488,
+      "name": "Because It's Christmas",
+      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "STARSHIP PLANET 2018",
         "url": "https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 241550,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "The Winter's Tale",
-        "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 225488,
-      "name": "Because It's Christmas",
-      "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Silent Night",
-        "url": "https://open.spotify.com/album/2PE8nbVNmtWgs8jzgxuRJI"
+        "name": "FNC LAB #2 'It's Christmas'",
+        "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "FNC ARTIST",
+          "url": "https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0"
         }
       ],
-      "duration_ms": 205782,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/1yVqUIoimqzLXYALDLYpOt"
+      "duration_ms": 230190,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
     }
   ],
   "unique_name": "Christmas K-Pop",

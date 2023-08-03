@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-96 songs - 4 hr 30 min
+97 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Beautiful Rain \- 3.15 kHz](https://open.spotify.com/track/780Nf8Vlcagyf1SAzMrJE5) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:21 | 2022-11-21 |  |
 | [Blue Rain](https://open.spotify.com/track/0KtkTIJkUzDrpCuloUxwpS) | [Kings Rain](https://open.spotify.com/artist/4r5tD2tk051ly22Q6eVura) | [Blue Rain](https://open.spotify.com/album/5De22XRwH7FGhcT20r4kJx) | 2:46 | 2022-11-21 |  |
 | [Breeze Rain](https://open.spotify.com/track/7DT43PWmrMGgPLYlP1CIey) | [Wet Rain 3AM](https://open.spotify.com/artist/4IdG84VRCzsDUbDTaLZT2d) | [More Rain](https://open.spotify.com/album/0Q1B0Feeqyc8rwoDQ6CVK9) | 3:15 | 2022-11-21 |  |
-| [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 | 2022-11-21 |  |
+| [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 | 2022-11-21 | 2023-08-03 |
 | [Cielo borroso](https://open.spotify.com/track/1eTLP3u8jLfIIVxW0cFDWr) | [Selective Sounds PTA](https://open.spotify.com/artist/7uPHiHePHskbxEyGu1HLZP) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2022-11-21 |  |
 | [Cloud Nine \(Rain\)](https://open.spotify.com/track/4wEghUsf0cQHbm66QsPboI) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2022-12-17 |
 | [Cozy Rain](https://open.spotify.com/track/0N3S9OCA8PSqbzPhR8FmWu) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 | 2022-11-21 |  |
@@ -103,6 +103,7 @@
 | [Wet Days](https://open.spotify.com/track/12nearcoa2BdHSmBynXyCD) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Rain throughout the Day](https://open.spotify.com/album/1qqyzQfbGMWoW6EpXUwpDV) | 3:28 | 2022-11-21 |  |
 | [Wet Streets](https://open.spotify.com/track/0GHgz3tMckGO3PUieW1VUg) | [Pluviocity](https://open.spotify.com/artist/4Gz0cPOPMpeQFqHTwr4n2c) | [Wet Streets](https://open.spotify.com/album/2t6raALnImG2BKuFixtOUX) | 2:32 | 2023-06-16 |  |
 | [Wind Through the Trees on a Rainy Night on a Field](https://open.spotify.com/track/7kz4OkjwVcSHiiJuYrr2DJ) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:15 | 2022-11-21 |  |
+| [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/1grnh5vd3P1gDqLQbU8MdM) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 | 2023-06-16 |  |
 | [Wisby Way Rain](https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:33 | 2022-11-21 |  |
 
 \*This playlist was first scraped on 2022-12-08. Prior content cannot be recovered.

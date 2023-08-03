@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: DURDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,990 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,996 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 51 | [カナヅチ](https://open.spotify.com/track/4LaEWDdKrmU2x3BXMvjSDB) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [カナヅチ](https://open.spotify.com/album/5OVzZm40lG4u43p0XBcYfm) | 3:33 |
 | 52 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 53 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
-| 54 | [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 |
-| 55 | [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 |
+| 54 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 |
+| 55 | [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 |
 | 56 | [Ball](https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Ball](https://open.spotify.com/album/1NFiOAGqdZdMfuG1uWeGtP) | 3:53 |
 | 57 | [Kimi to Rendezvous \(feat\. razu\)](https://open.spotify.com/track/1dBY8Q0MbYFT8b5Bw9ZLMd) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x), [razu](https://open.spotify.com/artist/6JNpg1OGnCJygBo7UMwtWq) | [Supply/Demand](https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v) | 5:33 |
 | 58 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 |
 | 70 | [両想い](https://open.spotify.com/track/3zw6TA1Fn8A5rVm1DlSS8I) | [fusen](https://open.spotify.com/artist/3vOolRilmDxcJJENFu8mWu) | [両想い](https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad) | 3:36 |
 
-Snapshot ID: `MCwzZDkxMDk2OWIzMjYwZDM0MmRjYmU2ZTk0NjQzNjQ3Yjk5MDhhYjA4`
+Snapshot ID: `MCw1YTFiNTZjOTlkYmE1MzUyMGVlZDU5ZjkxZGI2MWZlYmUwOWY1NmZl`

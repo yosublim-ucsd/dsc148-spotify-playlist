@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,608 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,676 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 57 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
 | 58 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 |
 | 59 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR) | 3:39 |
-| 60 | [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 |
-| 61 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 |
+| 60 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 |
+| 61 | [สายตาหลอกกันไม่ได้ \(Eyes Don’t Lie\)](https://open.spotify.com/track/3Rkt2LzmQkW2yzSM0NAZgT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/42UUZAtYzoWxysrGIPmF4Z) | 3:08 |
 | 62 | [ทำไมต้องรักเธอ](https://open.spotify.com/track/5IWMAHpNDXeKH0aZ0YHY70) | [Earn Piyada](https://open.spotify.com/artist/4ztgw56xBHUOm0yb7ubz7K), [คริส หอวัง; อุ๋ย Buddha Bless](https://open.spotify.com/artist/7zDPe8LiSqpv62a5sKBDa2) | [เพลงของเธอ](https://open.spotify.com/album/0YtFmuQfVCp9nOkIcLEvls) | 3:26 |
 | 63 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
 | 64 | [คนที่แสนดี](https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT) | [Tony Phee](https://open.spotify.com/artist/3e9fZ7KYeCdQg3iEBFbFJN), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [กลัว](https://open.spotify.com/album/4KpElpE1zjE2AQqxr1H93k) | 4:51 |
 | 65 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 |
-| 66 | [ทำไมต้องคนนี้?](https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee) | 2:50 |
-| 67 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
+| 66 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
+| 67 | [ทำไมต้องคนนี้?](https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee) | 2:50 |
 | 68 | [ระหว่างทาง \(Good Time\) \- เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/track/4FreerZPFJkNpQqhL2cSCA) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt), [ต้าเหนิง กัญญาวีร์](https://open.spotify.com/artist/3CR3llAxCgUXA1hHBYXFQh) | [เพลงประกอบซีรีส์ Good Old Days ร้านซื้อขายความทรงจำ](https://open.spotify.com/album/19zRl5NJ2IH7wvNdRegoHY) | 4:04 |
 | 69 | [คู่กัน \(Soulmate\)](https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [Club](https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L) | 4:26 |
 | 70 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 96 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
 | 97 | [กะทันหัน](https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu) | [Fymme Bongkot](https://open.spotify.com/artist/5DU5PyU8u0JZSRyJdMWgsl), [Ruj Supharuj](https://open.spotify.com/artist/3OBLHdh35n5TrEeYQawkO0), [LOWFAT](https://open.spotify.com/artist/6NqYduReZoJZDuPLNiqqGR) | [All You Need is Love 3](https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD) | 4:40 |
 | 98 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\)](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |
-| 99 | [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 |
-| 100 | [แต่งครับ](https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ) | [แต่งครับ](https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4) | 3:27 |
+| 99 | [แต่งครับ](https://open.spotify.com/track/7dCCicrhsZZ38arGWGTkLb) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ) | [แต่งครับ](https://open.spotify.com/album/4ONMohUWPUXBwhld8J1sy4) | 3:27 |
+| 100 | [จากนี้ไปจนนิรันดร์](https://open.spotify.com/track/4Sm3ufM7YPRyY1ElbMCWqZ) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 4:06 |
 
-Snapshot ID: `MCwzNzUyOTc0ZmMwNzhmNTk2NTVhMjNlNDUyMmE0NDNjMGJmYWZmOGI3`
+Snapshot ID: `MCw5NzdmNWUyODE2NjgyZWRkZmRiMGM2NzczMzUxYWNmNDljMGNiZmJj`

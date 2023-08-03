@@ -570,7 +570,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 318373,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
@@ -1624,6 +1624,24 @@
       "duration_ms": 194998,
       "name": "El Dolido",
       "url": "https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53"
+    },
+    {
+      "album": {
+        "name": "Ya Aprend\u00ed la Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208541,
+      "name": "El Final de Nuestra Historia",
+      "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
     },
     {
       "album": {

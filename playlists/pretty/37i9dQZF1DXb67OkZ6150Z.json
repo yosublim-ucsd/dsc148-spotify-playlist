@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 283362,
+  "num_followers": 283404,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjMxODE1OTJiYTM3ZTU0OTlhYTA3ZWFiMDhkYjVmMDk3ZDA4M2Rh",
+  "snapshot_id": "MCxiMTNmZDE4NGEzMDBiYjAzZDg5MmIzZTcwMGJhYzc1MDc5ZjRkNmRl",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "It's Called: Freefall",
-        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "It's Called: Freefall",
+        "url": "https://open.spotify.com/album/7zssJQDhJCAuuMZL7qvejs"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/2IRjyyiU5P9WnmXJKcnwww"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/2H3dV4ihkK47r8M8f3tkb9"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/2FmADxrIphJZSrHzwYkUcR"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Sweater Weather",
+        "url": "https://open.spotify.com/album/0p9EbDmUVOaXwkzLyJEdsl"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/0CYAqKC8CkyAu1bsXQ5lS4"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 309359,
-      "name": "re: Stacks - Spotify Singles",
-      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bette Davis Eyes",
         "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 210000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 309359,
+      "name": "re: Stacks - Spotify Singles",
+      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Maps",
@@ -515,22 +531,6 @@
       "duration_ms": 210136,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1201,24 +1185,20 @@
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Everyone's In Love With You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Everyone's In Love With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1253,20 +1233,24 @@
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Weird Fishes",
-        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
+        "name": "Everyone's In Love With You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
         }
       ],
-      "duration_ms": 354533,
-      "name": "Weird Fishes",
-      "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
+      "duration_ms": 150000,
+      "name": "Everyone's In Love With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1283,6 +1267,22 @@
       "duration_ms": 154869,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Weird Fishes",
+        "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 354533,
+      "name": "Weird Fishes",
+      "url": "https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Nothing Breaks Like A Heart",
-        "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 196311,
-      "name": "Nothing Breaks Like A Heart",
-      "url": "https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 240002,
       "name": "Steal My Sunshine (feat. Cherry Glazerr)",
       "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 196311,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Just the Two of Us",
-        "url": "https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 164211,
-      "name": "Just the Two of Us",
-      "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "The Version Suicides, Vol. 2",
         "url": "https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 206496,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Just the Two of Us",
+        "url": "https://open.spotify.com/album/0ohwfXiv30f7hoIoH08ZSC"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 164211,
+      "name": "Just the Two of Us",
+      "url": "https://open.spotify.com/track/0TTPheslWs6uygzQ43rCmW"
     },
     {
       "added_at": "2023-07-20 17:51:58",

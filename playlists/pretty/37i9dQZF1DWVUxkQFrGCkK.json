@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 182036,
+  "num_followers": 182288,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmE3MjMyMWM3YTgwYmM4YmJiYzhmNjJkYmM5NGRhNTM0OTI1NDJl",
+  "snapshot_id": "MCwzMWJkMWM2YzVkNDkzZWE2ODliNTI0NjNjMTcwODI3NGMwNmEzMDNm",
   "tracks": [
     {
       "added_at": "2023-08-01 09:52:38",
@@ -363,6 +363,386 @@
       "duration_ms": 359024,
       "name": "Blase",
       "url": "https://open.spotify.com/track/7He4TmxfbLJN0kLi8JSOkU"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Ordinary Drugs",
+        "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 421700,
+      "name": "These Are Just Places To Me Now",
+      "url": "https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Defected Presents House Masters: Mike Dunn",
+        "url": "https://open.spotify.com/album/2MMKWfrmmV98lWnhFTdlJc"
+      },
+      "artists": [
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        },
+        {
+          "name": "Mr. 69",
+          "url": "https://open.spotify.com/artist/7DYttpiOZdyURH5XmQXeSD"
+        }
+      ],
+      "duration_ms": 729147,
+      "name": "Phreaky MF - Mike Dunn's Phreak MixX",
+      "url": "https://open.spotify.com/track/2VwyNnREoQNBioAsGs0mUN"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "JOY (Head To The Sky)",
+        "url": "https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 230650,
+      "name": "JOY (Head To The Sky)",
+      "url": "https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 206158,
+      "name": "Talk On The Phone",
+      "url": "https://open.spotify.com/track/2nohMn7cW43qSt69glqwXj"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Star 69 (Shermanology Remix)",
+        "url": "https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 353500,
+      "name": "Star 69 - Shermanology Remix",
+      "url": "https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Both Of Us / Are U Down",
+        "url": "https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Are U Down - Remix",
+      "url": "https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Inner Monologue",
+        "url": "https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 374634,
+      "name": "Krossroad",
+      "url": "https://open.spotify.com/track/45BGTCcbHPFmMDZQzd31lY"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "hollatchu",
+        "url": "https://open.spotify.com/album/6v2Carq39870pglhzZeHqx"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        },
+        {
+          "name": "Jaydonclover",
+          "url": "https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz"
+        },
+        {
+          "name": "YUNGMORPHEUS",
+          "url": "https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy"
+        }
+      ],
+      "duration_ms": 242711,
+      "name": "hollatchu",
+      "url": "https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "20/20 Sounds Like Summer",
+        "url": "https://open.spotify.com/album/1idl1PPKC7kW2JLr23n2IN"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 397350,
+      "name": "Heartbreaker - Original Mix",
+      "url": "https://open.spotify.com/track/50rhB7SXsKUW4U2YWzdSCQ"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Fort Bellefleur",
+        "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 487752,
+      "name": "When U Came into My Life",
+      "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Inner Monologue",
+        "url": "https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5FgTBoLgiGKkB8GWDIPwrp"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Sex & The City EP",
+        "url": "https://open.spotify.com/album/44hU92WwxXxeMikN6N67a6"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Paul Johnson",
+          "url": "https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G"
+        }
+      ],
+      "duration_ms": 252690,
+      "name": "Sex & The City - Edit",
+      "url": "https://open.spotify.com/track/3ogW5oIkp4g84brSFNgrfL"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "GOOD TIMES (Sofia Kourtesis Remix)",
+        "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 269711,
+      "name": "GOOD TIMES - Sofia Kourtesis Remix",
+      "url": "https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3oSEYtS73IvBGWGFLpnGol"
+      },
+      "artists": [
+        {
+          "name": "jackLNDN",
+          "url": "https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/7Dfuaz3aDJR5cSIm39duc2"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Dance Monkey Dance",
+        "url": "https://open.spotify.com/album/1k3ppNSi9Ko3oaKVcyUWXW"
+      },
+      "artists": [
+        {
+          "name": "Ari Bald",
+          "url": "https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup"
+        },
+        {
+          "name": "CJ Scott",
+          "url": "https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl"
+        },
+        {
+          "name": "Ari Bald & CJ Scott",
+          "url": "https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG"
+        }
+      ],
+      "duration_ms": 366391,
+      "name": "Detective Chimp",
+      "url": "https://open.spotify.com/track/7H4DeHbqZkeNdJkEequ1sh"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "See This Through (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/23EZlHdMqPutEYNt7uTguV"
+      },
+      "artists": [
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282890,
+      "name": "See This Through - George Fitzgerald Remix",
+      "url": "https://open.spotify.com/track/6lGy5cphcbocAN4X4gVVjr"
+    },
+    {
+      "added_at": "2023-08-01 09:52:38",
+      "album": {
+        "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
+        "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bigger Than Prince - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
     },
     {
       "added_at": "2023-08-01 09:52:38",

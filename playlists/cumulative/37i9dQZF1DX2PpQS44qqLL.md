@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-421 songs - 1 day 3 hr 58 min
+422 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Amiga Mía](https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [NUEVA ERA](https://open.spotify.com/album/46vUx6DbaAJvrShgZYMLSU) | 4:22 | 2021-12-21 |  |
 | [Amor De Mujer](https://open.spotify.com/track/6pDLcXSrOUrstNjLribvJL) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [La Chica Dorada](https://open.spotify.com/album/4zHy5B4JqOi7LaHkzWf57c) | 3:54 | 2021-12-21 | 2022-11-13 |
 | [Amor De Papel](https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viento A Favor](https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz) | 4:08 | 2021-12-21 |  |
-| [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 | 2021-12-21 |  |
+| [Amor fascíname](https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN) | [Alejandra Avalos](https://open.spotify.com/artist/0ujbYrGeviCZxfrKOzXDzK) | [20 Grandes Exitos](https://open.spotify.com/album/5XdzLQ5VPixvtDnw3iKHSl) | 4:23 | 2021-12-21 | 2023-08-03 |
 | [Amor No Me Ignores](https://open.spotify.com/track/5WAAN3MdyF3NiFHtQLIhPc) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:22 | 2021-12-21 | 2022-07-29 |
 | [Amores extraños](https://open.spotify.com/track/2vT5bweFphLcVvpmZR5PEv) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini: 25 Aniversario \(Spanish Version\)](https://open.spotify.com/album/0EXcVDePo397i4Um4vGxGs) | 4:15 | 2021-12-21 |  |
 | [Amores extraños](https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:15 | 2021-12-21 | 2022-07-29 |
@@ -402,6 +402,7 @@
 | [Vivir Así Es Morir de Amor \- Original Disco Mix](https://open.spotify.com/track/0JbxyoJVB8NRaibf8hwxLA) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y), [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/168Hlllu9b2BBNu00VxC49) | 4:32 | 2021-12-21 | 2022-07-24 |
 | [Volveras](https://open.spotify.com/track/0HBBLo3stGC04YBtVb43fG) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:50 | 2021-12-21 |  |
 | [Volvere](https://open.spotify.com/track/6wCPAfCrCLXUQhjnCumNz3) | [Sergio Facheli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. y Amores](https://open.spotify.com/album/0fD4wBxc5FepZYIuYitILW) | 3:32 | 2021-12-21 | 2022-07-19 |
+| [Volveré](https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0) | [Sergio Facheli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. Y Amores](https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc) | 3:31 | 2021-12-21 |  |
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [10 De Colección](https://open.spotify.com/album/3ZZH4ff62sXOXkBUPLMjBk) | 4:24 | 2021-12-21 |  |
 | [Vuela, Vuela \(Voyage, Voyage\)](https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp) | [Magneto](https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p) | [La Historia De Magneto](https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu) | 4:25 | 2021-12-21 | 2022-07-29 |
 | [Vuélveme A Querer](https://open.spotify.com/track/5sODjvuuAdk8gLzrp39Voi) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Singles](https://open.spotify.com/album/6ZxbfjQ6vmmS4aa4qjgfRV) | 4:08 | 2021-12-21 | 2022-07-29 |

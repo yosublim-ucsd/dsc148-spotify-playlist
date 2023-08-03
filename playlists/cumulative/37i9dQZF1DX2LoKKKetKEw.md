@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: <a href="https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H?si=afc88cd13b4a44ad">Guvna B</a>
 
-138 songs - 7 hr 4 min
+139 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Nobody Like You \(feat\. CalledOut Music\) \- Radio Edit](https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C) | 3:05 | 2022-10-01 |  |
 | [Nobody Like You \- Radio Edit](https://open.spotify.com/track/7pbKyiwB7gL0VRzLPWqXmA) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You EP](https://open.spotify.com/album/2PFlmqHVo3ywJl9GqxOxaL) | 3:05 | 2022-07-30 | 2022-12-06 |
 | [NOMO \(Never On My Own\)](https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [NOMO \(Never On My Own\)](https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La) | 2:14 | 2023-05-19 | 2023-06-22 |
-| [Now](https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS) | [Now](https://open.spotify.com/album/1WzR4KS2GYPKpJJ6Lg6uiO) | 3:45 | 2023-05-19 |  |
+| [NOTHING](https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [NOTHING](https://open.spotify.com/album/5MSlADfWP2gIvuKanKIIAk) | 2:48 | 2023-05-19 |  |
+| [Now](https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS) | [Now](https://open.spotify.com/album/1WzR4KS2GYPKpJJ6Lg6uiO) | 3:45 | 2023-05-19 | 2023-08-03 |
 | [Oh the day](https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Oh the day](https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc) | 2:37 | 2022-09-11 |  |
 | [Oluwa](https://open.spotify.com/track/0GemmvjfJSf8MwLMXYdDCx) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Oluwa](https://open.spotify.com/album/4qvJv3zrjrwSE1Izdjeu6p) | 2:40 | 2022-07-30 |  |
 | [Omo Baba](https://open.spotify.com/track/4dwPr4moTpcCb7hER3nBep) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4e41b60U5kriqKlvTLIfp4) | 3:15 | 2023-05-19 |  |

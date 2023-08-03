@@ -1,13 +1,85 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: MELONYX Artwork: Joy Yamusangie",
-  "num_followers": 191983,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Shunaji Artwork: Joy Yamusangie",
+  "num_followers": 192287,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjk3Y2RmZjlmMmRmODI5MTlkNjhjMzUyYjg3Nzc3YTU5ODZlMjI1",
+  "snapshot_id": "MCw4NDIzYjYwZDIyMDYyOTVlYTY2NjA2MjMxMzQ4NTIzNjQ2ZjFjM2Mz",
   "tracks": [
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "BAM!",
+        "url": "https://open.spotify.com/album/3St5wcjIfM2X6TunSCs8d3"
+      },
+      "artists": [
+        {
+          "name": "KELSON",
+          "url": "https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h"
+        },
+        {
+          "name": "L\u00d2NIS",
+          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "BAM!",
+      "url": "https://open.spotify.com/track/47ddPZaTtDaZXsSlN7odQP"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/0kIBnznQgEMiBqF5C6RKtg"
+      },
+      "artists": [
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/7gIJ23wc4OAoJAEr8PKl1P"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Evil Cute",
+        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
+      },
+      "artists": [
+        {
+          "name": "Shunaji",
+          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
+        }
+      ],
+      "duration_ms": 128914,
+      "name": "Evil Cute",
+      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "The Purpose",
+        "url": "https://open.spotify.com/album/3wz4RbP6V0iAm16vlnGdDL"
+      },
+      "artists": [
+        {
+          "name": "Eriksson Kaner",
+          "url": "https://open.spotify.com/artist/1DVk8gpsMn5Tc3ugRJHkch"
+        },
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "duration_ms": 120725,
+      "name": "Lemon Trees",
+      "url": "https://open.spotify.com/track/4Sx5XOZXcgJTbCVcbqWgEA"
+    },
     {
       "added_at": "2023-07-19 04:00:00",
       "album": {
@@ -27,22 +99,6 @@
       "duration_ms": 262768,
       "name": "Buried Treasure",
       "url": "https://open.spotify.com/track/43zmYs2kSsZEruQQOPfGEG"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "Evil Cute",
-        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
-      },
-      "artists": [
-        {
-          "name": "Shunaji",
-          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Evil Cute",
-      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
     },
     {
       "added_at": "2023-07-26 04:00:00",
@@ -99,26 +155,6 @@
       "duration_ms": 244153,
       "name": "Love You More",
       "url": "https://open.spotify.com/track/2yy21cjv5ZPgYvUaFfZASZ"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "BAM!",
-        "url": "https://open.spotify.com/album/3St5wcjIfM2X6TunSCs8d3"
-      },
-      "artists": [
-        {
-          "name": "KELSON",
-          "url": "https://open.spotify.com/artist/3PlSpnPQR0dZY50k3jfx7h"
-        },
-        {
-          "name": "L\u00d2NIS",
-          "url": "https://open.spotify.com/artist/1pS3ir5bQSBiBYvOBjPWcm"
-        }
-      ],
-      "duration_ms": 132500,
-      "name": "BAM!",
-      "url": "https://open.spotify.com/track/47ddPZaTtDaZXsSlN7odQP"
     },
     {
       "added_at": "2023-07-12 19:57:20",
@@ -1263,46 +1299,6 @@
       "duration_ms": 282413,
       "name": "White Runway",
       "url": "https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V"
-    },
-    {
-      "added_at": "2023-05-03 04:00:00",
-      "album": {
-        "name": "An Instrumental Interlude",
-        "url": "https://open.spotify.com/album/26PmZNfXW8XF66AofXLg6q"
-      },
-      "artists": [
-        {
-          "name": "MAXN",
-          "url": "https://open.spotify.com/artist/2I726pqN0Qn83YXOTnIozL"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Just Love Me One More Time",
-      "url": "https://open.spotify.com/track/20iMqx5hYnhP4dpcq0rwp0"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
-        "name": "The Girl In Blue",
-        "url": "https://open.spotify.com/album/0iFtgw3EYygAbNEXMpsk3E"
-      },
-      "artists": [
-        {
-          "name": "Sci-Clone",
-          "url": "https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs"
-        },
-        {
-          "name": "A Sides",
-          "url": "https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5"
-        },
-        {
-          "name": "Nathan Haines",
-          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
-        }
-      ],
-      "duration_ms": 363911,
-      "name": "The Girl In Blue",
-      "url": "https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf"
     },
     {
       "added_at": "2023-05-17 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,045 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,242 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 6 | [Beat Hopper \- The 3rd Session](https://open.spotify.com/track/1x6POqThB0hnrwry79YTPD) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Beat Hopper \(The 3rd Session\)](https://open.spotify.com/album/0dpa2dZmU9voOtVV8tqdq8) | 4:14 |
 | 7 | [Calder Shapes](https://open.spotify.com/track/6W6iCHIlyiYq2oAWBrT3tt) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Calder Shapes](https://open.spotify.com/album/6BGmF1n3gZJbVA7atY7Dfe) | 7:08 |
 | 8 | [Devil Doesn't Dance](https://open.spotify.com/track/1xMSayO9HnbfvyHqqDW5mm) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [Frontier's Edge](https://open.spotify.com/album/3xn1tJ5SQlOHt96ltaKH4P) | 2:46 |
-| 9 | [Greek Honey Slick](https://open.spotify.com/track/3O3ExdXN8fuWCHnEFn8z9D) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Tom Skinner](https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm) | [Greek Honey Slick](https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW) | 4:33 |
+| 9 | [Greek Honey Slick](https://open.spotify.com/track/3O3ExdXN8fuWCHnEFn8z9D) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Tom Skinner](https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7) | [Greek Honey Slick](https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW) | 4:33 |
 | 10 | [Lean In](https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Lean In](https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR) | 5:18 |
 | 11 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 |
 | 12 | [Passage](https://open.spotify.com/track/0xU7UASRnsyuQ2TuyfzkMr) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6yfB0IKJ42k3NvnUwe05d3) | 9:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Renewal](https://open.spotify.com/track/5IUOEqMpmnd8zQB35gDOWc) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb), [Josh Arcoleo](https://open.spotify.com/artist/1QLZJdUJBKFcoxWa6FYWsn) | [Renewal](https://open.spotify.com/album/53lb1aZRFeouaILyUq3sOT) | 5:39 |
 | 100 | [Something I'm Used To](https://open.spotify.com/track/0WPOVQw06XqsWGjDF2mdTj) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 1:10 |
 
-Snapshot ID: `MCxjNjUyZjFiNjY0ZDc1ODM2NzM3OTZmN2Q0OWI5YmNlNDMwNTBmYjQx`
+Snapshot ID: `MCwxZDVjYTVlMjgxZTM2YzNkMDBkNDZmMWU3NjdmODhkNjAxYjg4Nzgy`

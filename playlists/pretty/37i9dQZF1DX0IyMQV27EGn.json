@@ -1,12 +1,12 @@
 {
   "description": "A collection of powerful voices and alluring siren songs. ",
-  "num_followers": 619509,
+  "num_followers": 619581,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjg3NTg3OWRmMGRjNTkzNzU1MWE1MmE1ZmIzZDI2MzE1NmIxNDRm",
+  "snapshot_id": "MCxmNTI2M2YyYWRhN2RjY2JhZWM1MTI3MmJiYTg0MmMwMmY1MWQzZmZi",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Nightmare Machine",
+        "url": "https://open.spotify.com/album/7l3bigwzunjgakr32KbRns"
+      },
+      "artists": [
+        {
+          "name": "Olivia Reid",
+          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Nightmare Machine",
+      "url": "https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "Why\u2019d Ya Do It",
-      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Cannonball (Acoustic)",
         "url": "https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Nightmare Machine",
-        "url": "https://open.spotify.com/album/7l3bigwzunjgakr32KbRns"
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
       "artists": [
         {
-          "name": "Olivia Reid",
-          "url": "https://open.spotify.com/artist/570A6QXjRBWJHPM3LrDjg1"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 259760,
-      "name": "Nightmare Machine",
-      "url": "https://open.spotify.com/track/7GAoSqewwn9PArGeeD3DVv"
+      "duration_ms": 217260,
+      "name": "Why\u2019d Ya Do It",
+      "url": "https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju"
+        "name": "Hopeless Romantic",
+        "url": "https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt"
       },
       "artists": [
         {
-          "name": "Bryde",
-          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
         }
       ],
-      "duration_ms": 178256,
-      "name": "Help Yourself",
-      "url": "https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y"
+      "duration_ms": 210693,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/4rxll3CP6XklLuoki7A26P"
     }
   ],
   "unique_name": "Femme Fatale",

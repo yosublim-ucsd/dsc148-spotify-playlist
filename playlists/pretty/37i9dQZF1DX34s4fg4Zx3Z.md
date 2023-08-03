@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Mer, Kriss Ngo; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,895 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,912 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 2 | [Rung Động Lần Nữa](https://open.spotify.com/track/6xCzt8vaZMRgeS6CT8h4Nd) | [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3), [HUUBUI](https://open.spotify.com/artist/1VA4Q9uW2yxcWzV9dx5D2o) | [Rung Động Lần Nữa](https://open.spotify.com/album/5YHvEAowUqOhtCNHiMRCS3) | 3:06 |
 | 3 | [Hương Tình Yêu](https://open.spotify.com/track/1ie16BdlU6DPT3rKjIYskG) | [Dâu Tây](https://open.spotify.com/artist/6nZiSrlrBjy8d3nfRDO1wp), [DXY](https://open.spotify.com/artist/0JkfirEBER65Ny2jL0540c) | [Hương Tình Yêu](https://open.spotify.com/album/2hd31pCXFROrst58vY8dyX) | 3:39 |
 | 4 | [Hẹn Gặp Em Ở Cuộc Đời Khác](https://open.spotify.com/track/5CKYfZD6pDFObBnxtjw1as) | [Nguyên](https://open.spotify.com/artist/0axAywC6N1oXIqe4HQL2Gw) | [Hẹn Gặp Em Ở Cuộc Đời Khác](https://open.spotify.com/album/5miBQ7gAXqJMpeqJCyg2V4) | 4:49 |
-| 5 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 |
-| 6 | [tâm](https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 1:48 |
+| 5 | [tâm](https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [sinh](https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge) | 1:48 |
+| 6 | [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 |
 | 7 | [Muốn Quên Được Em](https://open.spotify.com/track/5fNt60LsPBEWJms7a9v43f) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Muốn Quên Được Em](https://open.spotify.com/album/7aXAcNjKhxh1GBv8anKYxg) | 3:10 |
 | 8 | [Hẹn Em Ở Lần Yêu Thứ 2](https://open.spotify.com/track/2iqjXz4lV60gf3tvI4JJzU) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou), [Đặng Tuấn Vũ](https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB) | [Hẹn Em Ở Lần Yêu Thứ 2](https://open.spotify.com/album/1Zv1TwIvTb1aMtiNMxcB6W) | 6:06 |
 | 9 | [NOBODY CARES](https://open.spotify.com/track/7p4ZOOQVt1VPz41ycuWKhf) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [NOBODY CARES](https://open.spotify.com/album/2nGDYuKXpYmWeuuKJyMZLO) | 2:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [Like A Gangz](https://open.spotify.com/track/29oqD4Ex8OEymOX3832ZqO) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS), [gilo](https://open.spotify.com/artist/4VJwLYnopLnq0JGHCSg0iO) | [Like A Gangz](https://open.spotify.com/album/15WD4lCZBco2TtTWzh1ptO) | 2:49 |
 | 99 | [One Slot](https://open.spotify.com/track/7HpdvZd4AQ02baoSVMk1ch) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a) | [One Slot](https://open.spotify.com/album/0A6esndtWXcTcpmlZioSXD) | 3:01 |
 
-Snapshot ID: `MCw5NTRkOWU1ODcyOWIxM2ZhYmViM2UwZWEzZWQzMDU4ZTA2NDY5ZDhk`
+Snapshot ID: `MCwzYzRmYTQ3ODRmZTM0NzgyZTM1OWViMjJhZGM4ZjZiNDU3Y2E3MzFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,599 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,615 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 12 | [Seabed Shine](https://open.spotify.com/track/69dPga740HD90JkoRlqUS3) | [pentonote](https://open.spotify.com/artist/0qRcgfXhQZT9odwpLAm3TF) | [Seabed Shine](https://open.spotify.com/album/5GFMRAA4E2UPLMlq1azwER) | 4:56 |
 | 13 | [ブルーポップ](https://open.spotify.com/track/2gcS6WbSzecG4j0L8MBGgY) | [Gum Girl](https://open.spotify.com/artist/3yWWaRtnqLGvYJqNZfzh1t) | [chewy!chewy!](https://open.spotify.com/album/248erBzKL1hDLAe6ShZjUP) | 4:08 |
 | 14 | [Spica](https://open.spotify.com/track/3cwEY2BH2SALUHFeHLW4VM) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Spica](https://open.spotify.com/album/6skxVBdc3IvchpbUBZVZGC) | 2:45 |
-| 15 | [Sentimental trigger](https://open.spotify.com/track/1i2FKAcJUCxaBzV5Tr9hrr) | [Aramaki Yujin](https://open.spotify.com/artist/2QPHhfrO1mrCx65Im5PIJz) | [Sentimental trigger](https://open.spotify.com/album/6ZPbUsa0DvkbOCFkeOTcmV) | 4:08 |
+| 15 | [センチメンタルトリガー](https://open.spotify.com/track/4Tpi1O1eFVQuysz3vMRyBW) | [Yujin Aramaki](https://open.spotify.com/artist/0SJLdfeI8MCeGGXrkxBJkh) | [センチメンタルトリガー](https://open.spotify.com/album/3zdPge2mmlb47vpUFuzkU6) | 4:08 |
 | 16 | [Invitations](https://open.spotify.com/track/3ttVfNHR109aNX1EZ6DTdp) | [EXPCTR](https://open.spotify.com/artist/3ipgUyTWKYk6KAm91kTdrk) | [Invitations](https://open.spotify.com/album/0pUHUSyGBdSvbwvrfQ2SB1) | 2:35 |
 | 17 | [PRIDE](https://open.spotify.com/track/6YSiCQPEEEimysown5ad19) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [PRIDE](https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt) | 4:06 |
 | 18 | [Rendezvous](https://open.spotify.com/track/4NK7en9BEHFbtn7MUF4QwA) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [Rendezvous](https://open.spotify.com/album/3npoOwzJ35E1gXtT0T6u38) | 3:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [\#ideallife](https://open.spotify.com/track/6oUgota3MhIUe4ymxSl3B1) | [sugarami](https://open.spotify.com/artist/76O8sDyQjdKdgKcUtwjtPR) | [\#ideallife](https://open.spotify.com/album/5GEUkNHoPdRgQMVgZhI9eA) | 2:31 |
 | 80 | [yoru](https://open.spotify.com/track/2WeKnXuEF5TWJqsMJSimLG) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [yoru](https://open.spotify.com/album/78VeUYC6QBWZ9AR59PDWx4) | 4:05 |
 
-Snapshot ID: `MCwxYmI5NmE1NDE3NzllYmQ0MjZhMDY1NDc4YjEwNTAyMmI1Zjc4MDRh`
+Snapshot ID: `MCwxYTM1YzhlMWRhYjgyMzNlNjc0ZDlhYmQ5M2MxNDZmZDc1ZTlkZDJl`

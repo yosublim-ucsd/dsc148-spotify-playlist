@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 311831,
+  "num_followers": 311944,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMWNlOGEyNzQxNzdlNmZhOGQyYjE2YjRhOTM1MmZlM2I2YjFlNGU0",
+  "snapshot_id": "MCxiNmJjOTM3M2FmMDZiYTJlNGJjNjFkMDRmZGJhNWM3ODQ1YWI2YjZi",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -527,22 +527,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+        "name": "Kneel Before Me",
+        "url": "https://open.spotify.com/album/6LebF31h6hxienjBsnFEMf"
       },
       "artists": [
         {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 151232,
-      "name": "It's A Dream (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
+      "duration_ms": 201600,
+      "name": "Kneel Before Me",
+      "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -567,26 +571,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Kneel Before Me",
-        "url": "https://open.spotify.com/album/6LebF31h6hxienjBsnFEMf"
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
       },
       "artists": [
         {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Kneel Before Me",
-      "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
+      "duration_ms": 151232,
+      "name": "It's A Dream (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 182875,
-      "name": "Nothing For Free",
-      "url": "https://open.spotify.com/track/16akrYX3LKYx7b9aPGDiMd"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Skull n Bones",
         "url": "https://open.spotify.com/album/43bgv6mlkpZuxZMh2A8HtK"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 145116,
       "name": "Skull n Bones",
       "url": "https://open.spotify.com/track/1VpPYxtocucsD9iTyABevK"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/7kbCCMwXxLWQYevRcGtR3U"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 182875,
+      "name": "Nothing For Free",
+      "url": "https://open.spotify.com/track/16akrYX3LKYx7b9aPGDiMd"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Raven Gray",
-          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
-        }
-      ],
-      "duration_ms": 189721,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 202493,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Raven Gray",
+          "url": "https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr"
+        }
+      ],
+      "duration_ms": 189721,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -831,22 +831,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
       "artists": [
         {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 201076,
-      "name": "Go on Then, Love",
-      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -895,22 +895,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         },
         {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+      "duration_ms": 201076,
+      "name": "Go on Then, Love",
+      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Time Isn't Real",
+        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Time Isn't Real",
-        "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/5LNPEJ6scc19YXfivgWPAC"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 171034,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
-      },
-      "artists": [
-        {
-          "name": "Layto",
-          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
-        }
-      ],
-      "duration_ms": 195254,
-      "name": "War",
-      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "LOVE ME",
         "url": "https://open.spotify.com/album/6xLWkNCe4smqDmI5XkK3Qb"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 204705,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/12LohWsGyAptv2o25tFPcA"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "duration_ms": 195254,
+      "name": "War",
+      "url": "https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "A Change of Perspective (Deluxe)",
+        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/6MlwwEzsLHkt4cfzQDfMpO"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 255448,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7JiWFKym2XX7vgQDt0uUmB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "A Change of Perspective (Deluxe)",
-        "url": "https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD"
-      },
-      "artists": [
-        {
-          "name": "Covex",
-          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Regret - Remix",
-      "url": "https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+      },
+      "artists": [
+        {
+          "name": "SayWeCanFly",
+          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+        },
+        {
+          "name": "Vanthe",
+          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+        }
+      ],
+      "duration_ms": 164897,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Loving You Kills Me",
         "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
       },
@@ -1667,30 +1687,6 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Thrashout",
-          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
-        }
-      ],
-      "duration_ms": 163941,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1719,22 +1715,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/2iIAoh0eHpxToEAWhqT1Up"
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
       },
       "artists": [
         {
-          "name": "SayWeCanFly",
-          "url": "https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6"
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
         },
         {
-          "name": "Vanthe",
-          "url": "https://open.spotify.com/artist/6xfkmjpCqO7BmqQr4n01yE"
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Thrashout",
+          "url": "https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy"
         }
       ],
-      "duration_ms": 164897,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/4CGFRDPBkjTjU1eUmMsZDh"
+      "duration_ms": 163941,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
-      },
-      "artists": [
-        {
-          "name": "Mausio",
-          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/1V9nXTFcfUBCPq5hIGfoiU"
+      },
+      "artists": [
+        {
+          "name": "Mausio",
+          "url": "https://open.spotify.com/artist/5yzLRjAu6ni4Bb3fQDED2q"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2ekhJNuxeoQ9Q84dFtknP7"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Eyes Wide Shut",
         "url": "https://open.spotify.com/album/7pzzpWlSKjUoJm4cFCNynm"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 215172,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/68AtIcLB6l2fs7o0zDS0KX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Bad Luck",
+        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Kiz Keyz",
+          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "Bad Luck",
+      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Fallout",
-        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
-      },
-      "artists": [
-        {
-          "name": "HVDES",
-          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "FIMBULVETR",
         "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5qXRnuy8l76kO4TfVGjOUW"
+      },
+      "artists": [
+        {
+          "name": "HVDES",
+          "url": "https://open.spotify.com/artist/3koHmmPvpgZWHcVmK8AKDq"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2263,6 +2263,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Raindrops",
+        "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 199448,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
@@ -2283,26 +2303,6 @@
       "duration_ms": 174800,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Raindrops",
-        "url": "https://open.spotify.com/album/0r4obL0cot6rc2XIvcDoBD"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 199448,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/2s7IP5vJzTJXRZ9vxVAuG5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2411,26 +2411,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "UMBRA",
         "url": "https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6"
       },
@@ -2447,6 +2427,26 @@
       "duration_ms": 217600,
       "name": "UMBRA",
       "url": "https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/5RlCAUxavSAavaI9Fowb3X"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2ppAD4evsVMvE6maIUlmZ2"
     },
     {
       "added_at": "2023-07-21 04:00:00",

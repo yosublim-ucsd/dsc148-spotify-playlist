@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 107320,
+  "num_followers": 107346,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2NkMTU5NTQzNDA3ZWU3Y2M4NGM5YTgzMzI5NWVkNGFkMWMwNTFj",
+  "snapshot_id": "MCw0ZTZmYmVhMzIzMjZiNWVjM2I2MmU1NzFmMDMwYjYzYTAyMWMzNjU2",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "olv\u00eddate de m\u00ed",
+        "url": "https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "olv\u00eddate de m\u00ed",
+      "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Bailando Lentos",
         "url": "https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 207413,
       "name": "Bailando Lentos",
       "url": "https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "olv\u00eddate de m\u00ed",
-        "url": "https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "olv\u00eddate de m\u00ed",
-      "url": "https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW"
     }
   ],
   "unique_name": "gris",

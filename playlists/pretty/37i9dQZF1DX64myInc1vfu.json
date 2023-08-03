@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 71376,
+  "num_followers": 71435,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmRkNzRhOTFkMjFjZjc5YzE4MWQzMDQ5N2M5YjE4ZmNlMWEyZmYw",
+  "snapshot_id": "MCw4ZTI2NWQ3ZmJkODdjNzdkZDZjMGExZjgyYTk3MjY5ZDFjNGY2ZWVl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Enemigo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
+        "name": "A Color",
+        "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
       },
       "artists": [
         {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Enemigo (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
+      "duration_ms": 170520,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -315,22 +319,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "A Color",
-        "url": "https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X"
+        "name": "Enemigo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB"
       },
       "artists": [
         {
-          "name": "El Otro Polo",
-          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 170520,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY"
+      "duration_ms": 242840,
+      "name": "Enemigo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2023-07-28 04:01:00",

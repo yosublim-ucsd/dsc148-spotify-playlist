@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-111 songs - 7 hr 19 min
+112 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dumb](https://open.spotify.com/track/6EkQWlX49yLrjFzN805uth) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/0lEZh2kcmj5rDvoL81yqRX) | 6:09 | 2022-06-09 | 2022-08-19 |
 | [Eul](https://open.spotify.com/track/1q8CLlYUpJizfQHBhUPBLg) | [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [SONYEON TAPE](https://open.spotify.com/album/7ppnwkw3qShf71UVAa7Ffg) | 3:23 | 2023-05-02 | 2023-06-03 |
 | [Eul \(feat\. Gyeong Je Hwan\)](https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes, Pt\. 6](https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote) | 3:23 | 2022-06-09 | 2023-01-26 |
+| [Eul \(feat\. Jehwwn\)](https://open.spotify.com/track/0rs5yeJDBlpT63BB5R7MzY) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Jehwwn](https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw) | [Seoul Vibes Pt.6](https://open.spotify.com/album/1yod6TfvhiqSdqnMkq6q5J) | 3:23 | 2023-05-02 |  |
 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 | 2022-03-07 |  |
 | [Greeting](https://open.spotify.com/track/0CTBmhehdUdUEPem5CkONV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate,Pt.6\(Original Television Soundtrack\)](https://open.spotify.com/album/4EnCGhf9SF7fcJHldfWdqc) | 3:25 | 2022-03-07 | 2022-07-29 |
 | [Greeting](https://open.spotify.com/track/3SYVtwoYsmTPO5UjuPZYxG) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Chocolate \(Original Television Soundtrack\)](https://open.spotify.com/album/1b2eox3IsFoAnAy5KpdHRf) | 3:25 | 2022-08-18 | 2022-11-13 |
@@ -112,7 +113,7 @@
 | [짝사랑](https://open.spotify.com/track/5f4njgyIwbtswRgyR9dkpz) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Dizzy Blue](https://open.spotify.com/artist/0yaEp8jeamvr1BM1wuQuyt), [Flaboi](https://open.spotify.com/artist/10lBXlAJSTYkswS8X6A9nV) | [Seoul Vibes Pt\. 10](https://open.spotify.com/album/7C8e7Qw70E9UpjjXcYGiMD) | 4:22 | 2022-03-07 | 2022-07-29 |
 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 | 2022-03-07 |  |
 | [짝사랑 Zzack Sarang](https://open.spotify.com/track/7oy7LuhLhI40jdCPLp8Ui8) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/0XW9i8hTybWNZdkbqZTMwF) | 3:14 | 2022-03-07 | 2022-07-29 |
-| [짝사랑 Zzak Sarang](https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH) | 3:14 | 2023-01-25 |  |
+| [짝사랑 Zzak Sarang](https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH) | 3:14 | 2023-01-25 | 2023-08-03 |
 | [할 말 Something to say](https://open.spotify.com/track/7gdttvt383pkL2so39JgzX) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [쏘쏘 so\-so](https://open.spotify.com/album/4XU6JkCwfKDD12NV74MkKq) | 3:11 | 2022-03-07 | 2023-01-14 |
 | [해가 지기 전에](https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [매드독 \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM) | 3:09 | 2022-06-09 |  |
 | [화분](https://open.spotify.com/track/4MCeRSrPZsGalXvCIOHKRG) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/44kpTZZDeFOVqjiRedSNK0) | 4:39 | 2022-03-07 | 2022-07-29 |

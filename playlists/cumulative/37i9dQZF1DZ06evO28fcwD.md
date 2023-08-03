@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-121 songs - 8 hr 1 min
+122 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Diamonds on the Soles of Her Shoes \(Abridged Version\) \[Bonus Track\]](https://open.spotify.com/track/21uQrdwqR2AdN9gNP9b4dL) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 1:38 | 2022-06-04 |  |
 | [Diamonds on the Soles of Her Shoes \(with Ladysmith Black Mambazo\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4XcXpnbNeYom3p24r29NLG) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 6:29 | 2022-01-24 |  |
 | [Different Colors Mean Nothing to Me \(Unkulunkulu Wethu\)](https://open.spotify.com/track/16SpALi3uf6RfumCDoiTKK) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 6:37 | 2022-03-09 | 2022-03-11 |
-| [Eden's House](https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ) | 3:51 | 2021-12-28 |  |
+| [Eden's House](https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ) | 3:51 | 2021-12-28 | 2023-08-03 |
+| [Eden's House \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/020ljSU54GRVxKX0A9yKc0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Mind The Moon](https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2) | 3:51 | 2023-08-02 |  |
 | [Everything's So Stupid! \(Abadala\)](https://open.spotify.com/track/5W5J4ma1uwWWa0pqElLcpv) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 6:12 | 2021-12-28 | 2022-11-09 |
 | [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0D9Bnm77CkYlzpZijEKFuy) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:51 | 2022-07-09 |  |
 | [Gnamale](https://open.spotify.com/track/7ry3Gw24g4C9BEm6MIQlN3) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Un autre blanc](https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7) | 6:08 | 2022-06-17 |  |

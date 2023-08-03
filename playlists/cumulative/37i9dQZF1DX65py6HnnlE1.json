@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/4RzETuKgwfpRnUoi0TBZOL"
+    },
+    {
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/0hGEDazwHxaPUBg0DTB9rY"
       },
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 247186,
       "name": "Yo No Muero en Mi Cama",
       "url": "https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl"

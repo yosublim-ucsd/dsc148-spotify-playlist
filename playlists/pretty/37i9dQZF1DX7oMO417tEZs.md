@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. Cover: Jesse Mac Cormack, Gabrielle Shonk
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,216 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,223 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Phantom](https://open.spotify.com/track/4xfk99hBLqPwiTvY7BnSyH) | [Pacoussa](https://open.spotify.com/artist/65qRZyXgZqOtnGIW4WRGtL), [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Phantom](https://open.spotify.com/album/6bYa0DYAxFWjG26ZOp4rDE) | 2:30 |
 | 100 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 
-Snapshot ID: `MCwxMDcyYzRjYTJlN2QwNDE2NmUzNjZkNDIxY2ZlZTZlODYxMDczNDI4`
+Snapshot ID: `MCw4MDBiZGFlMzZhYmE2MDgxMjVhYmUxYjU0NzlhYzJhM2NmODFhNGE1`

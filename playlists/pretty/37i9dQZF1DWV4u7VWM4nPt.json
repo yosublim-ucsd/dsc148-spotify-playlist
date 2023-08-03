@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2000. Cover: Joan Sebastian",
-  "num_followers": 37417,
+  "num_followers": 37493,
   "original_name": "Latin Hits 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjdlYjYxZWZlM2E4ODlmMzQzMjBjYmY2Yzc0MmEwMWY3OTZiNmQ2",
+  "snapshot_id": "MCwwODE4NmFhNTQ3MzY5ZmYwOTFiMDVkYjM5ZDlhNGNlZGQ4ZGRjMGMw",
   "tracks": [
     {
       "added_at": "2021-12-22 23:28:32",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-12-22 23:28:32",
       "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
+    },
+    {
+      "added_at": "2021-12-22 23:28:32",
+      "album": {
         "name": "Coraz\u00f3n Duro",
         "url": "https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 255533,
       "name": "La Vaca",
       "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
-    },
-    {
-      "added_at": "2021-12-22 23:28:32",
-      "album": {
-        "name": "Galeria Caribe",
-        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/40RI3qFVisaEy0HC49LMkz"
     },
     {
       "added_at": "2021-12-22 23:28:32",

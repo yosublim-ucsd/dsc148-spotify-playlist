@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Birds on the Horizon",
+        "url": "https://open.spotify.com/album/1FUeCcNvm3b1ijbLD2N21u"
+      },
+      "artists": [
+        {
+          "name": "Christian Julian",
+          "url": "https://open.spotify.com/artist/1K5ZWTvO8xdN7joWl5soXC"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169168,
+      "name": "Birds on the Horizon",
+      "url": "https://open.spotify.com/track/3U2VlsRYfh3OJFHlMRKooB"
+    },
+    {
+      "album": {
         "name": "She's Playing Moody Piano on a Rainy Day",
         "url": "https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 93982,
       "name": "Distant Rain",
       "url": "https://open.spotify.com/track/4EPGDewzvCS2TWK2URXVNE"
@@ -275,6 +293,42 @@
     },
     {
       "album": {
+        "name": "Faces of Life",
+        "url": "https://open.spotify.com/album/0AQkzszLcwT3psDzAQ6CEz"
+      },
+      "artists": [
+        {
+          "name": "Sean Drake",
+          "url": "https://open.spotify.com/artist/6JQ6Ivh7N5lXkLz2DqKS4E"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184309,
+      "name": "Faces of Life",
+      "url": "https://open.spotify.com/track/3OaoIj3nXqvoc43J9HPaQT"
+    },
+    {
+      "album": {
+        "name": "Forest Crystals",
+        "url": "https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h"
+      },
+      "artists": [
+        {
+          "name": "Sylvia McArther",
+          "url": "https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176025,
+      "name": "Fairy Dust in the Rain",
+      "url": "https://open.spotify.com/track/1MU9fy4hMLoaLUc2bv8gtM"
+    },
+    {
+      "album": {
         "name": "Filtered Light (Rain)",
         "url": "https://open.spotify.com/album/49nE3LTRvdivTulr4oenOs"
       },
@@ -290,6 +344,24 @@
       "duration_ms": 182000,
       "name": "Filtered Light (Rain)",
       "url": "https://open.spotify.com/track/1LojjBNeJIcAvAiBcmVlV3"
+    },
+    {
+      "album": {
+        "name": "Forest Crystals",
+        "url": "https://open.spotify.com/album/5zFlNgmr3bSv5cxCAUE43h"
+      },
+      "artists": [
+        {
+          "name": "Sylvia McArther",
+          "url": "https://open.spotify.com/artist/33hLKr1EfUrc14GnznVB21"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173438,
+      "name": "Forest Crystals",
+      "url": "https://open.spotify.com/track/4mxhnZ0n3B4nw4ei4BiAIM"
     },
     {
       "album": {
@@ -434,6 +506,24 @@
       "duration_ms": 188000,
       "name": "Happy Mornings",
       "url": "https://open.spotify.com/track/5U0cxOqpl3ONvRpqeLzvOf"
+    },
+    {
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/0DGxp25pUmsM3uqPxL71sH"
+      },
+      "artists": [
+        {
+          "name": "Sean Oban",
+          "url": "https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114375,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/6MvnBogCA38SRdKQIUWQ0X"
     },
     {
       "album": {
@@ -650,6 +740,24 @@
       "duration_ms": 167500,
       "name": "Moon Rain",
       "url": "https://open.spotify.com/track/2XkvwfoxdVZXZWsHuiP77C"
+    },
+    {
+      "album": {
+        "name": "More in the Air",
+        "url": "https://open.spotify.com/album/1Iw3XYaFgLTM6GusOxcOqd"
+      },
+      "artists": [
+        {
+          "name": "Lauren Markle",
+          "url": "https://open.spotify.com/artist/42YzVJuTXyDZuX5PB4lxS4"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168261,
+      "name": "More in the Air",
+      "url": "https://open.spotify.com/track/6HTGE4VIgucpXWdi5q39UM"
     },
     {
       "album": {
@@ -1406,6 +1514,24 @@
       "duration_ms": 142000,
       "name": "Together in Now",
       "url": "https://open.spotify.com/track/5wGYS3BP9H8hi2ZcTFc7F2"
+    },
+    {
+      "album": {
+        "name": "Trail through the Rain",
+        "url": "https://open.spotify.com/album/25ckC8W9Eah8xd7fLYSWnx"
+      },
+      "artists": [
+        {
+          "name": "Linda Stephenson",
+          "url": "https://open.spotify.com/artist/0BIkcSmX3Ghgcz8TADTocv"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171741,
+      "name": "Trail through the Rain",
+      "url": "https://open.spotify.com/track/4H488lqoJRCr6DjQn2VsvB"
     },
     {
       "album": {

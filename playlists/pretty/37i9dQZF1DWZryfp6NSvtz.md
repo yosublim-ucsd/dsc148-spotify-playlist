@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,437 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,627 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Melty Brains](https://open.spotify.com/track/7fMLJ0Dg5jH0s4gSIg98vm) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Melty Brains](https://open.spotify.com/album/3o4mCtZvXRIs7xsliNPOBz) | 3:33 |
 | 50 | [Dancing on the LINE!](https://open.spotify.com/track/2YtxZzdoyQiFbRaCRe0jLZ) | [lovemedo](https://open.spotify.com/artist/7cxP8XI3MIctY06TtC90Ib) | [Dancing on the LINE!](https://open.spotify.com/album/2ybuiUIVaGIY55coCskV8f) | 2:19 |
 
-Snapshot ID: `MCw0ZDgwY2RkMDY0M2U5NjcwYWQ0OGVkN2UyMDIxY2YyZmIzYjU4YjFh`
+Snapshot ID: `MCwyY2RkZmUxY2YxOTFjNTExYzcxMGRhN2FjZGQxOTJmMTQ3NTBlMWYz`

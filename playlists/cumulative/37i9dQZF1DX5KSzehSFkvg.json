@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94"
+      },
+      "artists": [
+        {
+          "name": "Zina Daoudia",
+          "url": "https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159067,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc"
+    },
+    {
+      "album": {
         "name": "Denia Ya Denia",
         "url": "https://open.spotify.com/album/1AKmKRx3R2O2hVPGKeuuFk"
       },
@@ -630,7 +648,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 134060,
       "name": "Ma Houwa Jari",
       "url": "https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ"

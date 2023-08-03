@@ -1,12 +1,12 @@
 {
   "description": "Timeless, unforgettable melodies from the movies.",
-  "num_followers": 591364,
+  "num_followers": 591992,
   "original_name": "Iconic Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQ4MTUyOGI2Mzc4ZGViY2I4NzUzNTA5NTA0MWMzMmQ1MWJhYTc2",
+  "snapshot_id": "MCxiOWVkYjBlZGVkNDRmZjc2NWNiYTA0OWJjZTEwODJkNzg5ZDMwNmJm",
   "tracks": [
     {
       "added_at": "2023-06-30 09:12:29",
@@ -1399,6 +1399,10 @@
         "url": "https://open.spotify.com/album/32gSHgSXx9oU5nwtgaGvcA"
       },
       "artists": [
+        {
+          "name": "Stephen Warbeck",
+          "url": "https://open.spotify.com/artist/63Cqun2Sv18L3vXIapd9iW"
+        },
         {
           "name": "Orchestra",
           "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"

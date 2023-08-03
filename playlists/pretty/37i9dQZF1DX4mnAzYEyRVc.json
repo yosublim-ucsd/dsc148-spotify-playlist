@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: Ska-P ",
-  "num_followers": 37411,
+  "num_followers": 37481,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzVkMGY3NGYyYjUxMTZlMWQ3ODQ2MTNkN2VjNmQ0OTA5ODU3YTFj",
+  "snapshot_id": "MCxiNTZmM2RhYTgwNWY2MDcwY2M1MmRjNTdhOTIwNjY0ZTRlNTQ0YjUx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Sue\u00f1os de Anoche",
         "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 237666,
       "name": "La Herida",
       "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mambo Ska",
-        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
-      },
-      "artists": [
-        {
-          "name": "Ska Cubano",
-          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
-        }
-      ],
-      "duration_ms": 171173,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "A Poets Life",
         "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 181826,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Mambo Ska",
+        "url": "https://open.spotify.com/album/7qfCYynbJSqc6OzpLQwRy6"
+      },
+      "artists": [
+        {
+          "name": "Ska Cubano",
+          "url": "https://open.spotify.com/artist/6lmoqMxughzdlxvQTsUXjF"
+        }
+      ],
+      "duration_ms": 171173,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/1YopIwn9N58vwfrEIasIne"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "A Poets Life",
-        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
-      },
-      "artists": [
-        {
-          "name": "Tim Armstrong",
-          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Into Action",
-      "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Step Forward",
         "url": "https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 304000,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/4oMMdE8PlUjnyNO7HRixuV"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "A Poets Life",
+        "url": "https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI"
+      },
+      "artists": [
+        {
+          "name": "Tim Armstrong",
+          "url": "https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Into Action",
+      "url": "https://open.spotify.com/track/0gz2UpeIgaeqOb9FXQp06s"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Yes It's True",
-        "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
-      },
-      "artists": [
-        {
-          "name": "Catbite",
-          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
-        },
-        {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
-        }
-      ],
-      "duration_ms": 243615,
-      "name": "Yes It's True",
-      "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Eastern Standard Time",
         "url": "https://open.spotify.com/album/1sy41T5YegbDebkGBd26pV"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 269211,
       "name": "Eastern Standard Time",
       "url": "https://open.spotify.com/track/0MD62jX5sCoiKqCFrq8hx2"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Yes It's True",
+        "url": "https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ"
+      },
+      "artists": [
+        {
+          "name": "Catbite",
+          "url": "https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP"
+        },
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+        }
+      ],
+      "duration_ms": 243615,
+      "name": "Yes It's True",
+      "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "The Sound Of Revolution",
-        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
-      },
-      "artists": [
-        {
-          "name": "Los Fastidios",
-          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
-        }
-      ],
-      "duration_ms": 205527,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Ruder Than Rude",
         "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 177800,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "The Sound Of Revolution",
+        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
+      },
+      "artists": [
+        {
+          "name": "Los Fastidios",
+          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
+        }
+      ],
+      "duration_ms": 205527,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
     },
     {
       "added_at": "2023-07-28 06:00:00",

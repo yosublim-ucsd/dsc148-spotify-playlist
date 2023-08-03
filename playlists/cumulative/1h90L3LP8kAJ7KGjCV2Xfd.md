@@ -4,7 +4,7 @@
 
 > happy \| vibes \| feel good \| music \| mood boost \| happy hits \| clean pop \| positive vibes \| dopamine \| serotonin \| high vibes \| happy summer \| positive affirmation \| upbeat \| drive \| windows down \| good vibes \| indie \| pop \| rock \| alternative \| feelin' good \| healing \| rise \| smile
 
-248 songs - 13 hr 50 min
+250 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2022-06-03 |  |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-06-03 |  |
 | [Classic](https://open.spotify.com/track/2Dz8KeCYs9awlwUJStJlmh) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/6hcPm6dCD58O5UI6xv019r) | 2:55 | 2022-06-03 |  |
+| [Closer to Fine](https://open.spotify.com/track/7rKyITVLEwldhdXIy7P6Vw) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Indigo Girls \(Expanded Edition\)](https://open.spotify.com/album/1rkuKm5mDoauq9XKjRV94x) | 4:01 | 2023-08-02 |  |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-06-13 |  |
 | [COLLEGE](https://open.spotify.com/track/6hsI1ar1EIyXU28ZHWlNW6) | [Gabe James](https://open.spotify.com/artist/7FQLTeXHh1ckany6jXXcKj) | [COLLEGE](https://open.spotify.com/album/2iKyerlQ2TbGMUhMUuaH2D) | 2:36 | 2023-04-25 |  |
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2022-06-03 |  |
@@ -99,6 +100,7 @@
 | [Get On My Love](https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Get On My Love](https://open.spotify.com/album/2O2RFVGO34vGbxo391JhdC) | 2:53 | 2023-01-09 | 2023-03-16 |
 | [Get Outta My Dreams, Get into My Car](https://open.spotify.com/track/0pBhA8yQ5FUKyQG13x2Qmh) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Tear Down These Walls](https://open.spotify.com/album/1tIJAV6PAVmH4E1rRZ5lJj) | 5:34 | 2022-06-03 |  |
 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 | 2022-10-14 | 2022-11-02 |
+| [Girls Just Want to Have Fun](https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual](https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0) | 3:58 | 2023-08-02 |  |
 | [Glory \(feat\. Mez, VanJess, ICECOLDBISHOP, Ginette Claudette & Gwen Bunn\)](https://open.spotify.com/track/5zYEMdgHeGvbdPgd3tOHcu) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4), [Ginette Claudette](https://open.spotify.com/artist/44FcajG2fONeWG1KEy0DBt), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [Glory \(feat\. Mez, VanJess, ICECOLDBISHOP, Ginette Claudette & Gwen Bunn\)](https://open.spotify.com/album/1ncBdR2WZhlTJbSC41vvBy) | 3:49 | 2022-06-03 | 2023-02-01 |
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2022-06-03 |  |
 | [Good People](https://open.spotify.com/track/5laxwV7CX3DUiDIkJ8FAGv) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:43 | 2022-06-03 | 2023-01-07 |

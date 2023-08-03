@@ -5937,6 +5937,32 @@
     },
     {
       "album": {
+        "name": "Hekireki",
+        "url": "https://open.spotify.com/album/4IoppmDr5YdPSIrEOXUC2B"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Emi Nishino",
+          "url": "https://open.spotify.com/artist/1VozNsgCh7n6FBO285Z1et"
+        },
+        {
+          "name": "ESME MORI",
+          "url": "https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256424,
+      "name": "Hekireki",
+      "url": "https://open.spotify.com/track/09FxXfNTQsCgzkPmCeFwlr"
+    },
+    {
+      "album": {
         "name": "HELLO LOVE",
         "url": "https://open.spotify.com/album/7JoYjx7EGwAnMltBIYJMPx"
       },
@@ -7722,6 +7748,24 @@
       "duration_ms": 222812,
       "name": "KMHH - grooveman Spot Cali Remix with Kzyboost",
       "url": "https://open.spotify.com/track/1Rg9ZcIfY1zbeiWIs8lVj3"
+    },
+    {
+      "album": {
+        "name": "Yusha no Hata",
+        "url": "https://open.spotify.com/album/6zCFijetFngLSbrBKSb0tH"
+      },
+      "artists": [
+        {
+          "name": "Shizuka Kudo",
+          "url": "https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313853,
+      "name": "Kodoku na Rhapsody",
+      "url": "https://open.spotify.com/track/5EzgUSV8GCGZgJr5VLcJkV"
     },
     {
       "album": {
@@ -10078,7 +10122,7 @@
     {
       "album": {
         "name": "NEO KAWAII, K?",
-        "url": "https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP"
+        "url": "https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW"
       },
       "artists": [
         {
@@ -10089,6 +10133,24 @@
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154726,
+      "name": "NEO KAWAII, K?",
+      "url": "https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL"
+    },
+    {
+      "album": {
+        "name": "NEO KAWAII, K?",
+        "url": "https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
       "duration_ms": 154726,
       "name": "NEO KAWAII, K?",
       "url": "https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW"
@@ -14490,6 +14552,24 @@
       "duration_ms": 241866,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/4KByfOBYTBQDUL2PUYIReX"
+    },
+    {
+      "album": {
+        "name": "Suteki o Atsumete",
+        "url": "https://open.spotify.com/album/0PJZAf174oWUl13QzIcYF4"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Yakushimaru",
+          "url": "https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234833,
+      "name": "Suteki o Atsumete",
+      "url": "https://open.spotify.com/track/59azFYnnmvIuH36cQbMuRa"
     },
     {
       "album": {
@@ -25062,7 +25142,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 313853,
       "name": "\u5b64\u72ec\u306a\u30e9\u30d7\u30bd\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/4fkvff4IuCGj9prchX6Wq8"
@@ -28224,7 +28304,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 234833,
       "name": "\u7d20\u6575\u3092\u3042\u3064\u3081\u3066",
       "url": "https://open.spotify.com/track/3bCcSJfept6uoueVUOjp3p"
@@ -29476,7 +29556,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 256424,
       "name": "\u9739\u9742",
       "url": "https://open.spotify.com/track/4BQDhLoPyYjRSAPcojXUKC"

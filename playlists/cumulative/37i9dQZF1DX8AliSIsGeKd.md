@@ -2,9 +2,9 @@
 
 ### [Electronic Rising](https://open.spotify.com/playlist/37i9dQZF1DX8AliSIsGeKd)
 
-> The best new electronic music from Electronica to Techno\. Cover: Pretty Pink
+> The best new electronic music from Electronica to Techno\. Cover: Vanita
 
-2,201 songs - 8 day 5 hr 38 min
+2,202 songs - 8 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Body Language](https://open.spotify.com/track/0iEIn70fJIa6pbcGMwUJ44) | [MCHL51](https://open.spotify.com/artist/6lSOgBIAI7ZY05L6D6kTwD) | [Body Language](https://open.spotify.com/album/3Kr2pwlLnt1IOtHErITpKF) | 6:55 | 2023-03-02 | 2023-03-25 |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2022-09-09 |
 | [Bom](https://open.spotify.com/track/2CefyeSJ9lfy7a912eZ0gc) | [Bebetta](https://open.spotify.com/artist/1UGUF4voyBXt5wXrLjvS5s) | [Bom](https://open.spotify.com/album/67hqPt06Yt3zdcg4PS1EYj) | 6:40 | 2022-07-07 | 2022-07-29 |
+| [BOND](https://open.spotify.com/track/6dnjaixd1oLBBHIKAJDIhW) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [BOND](https://open.spotify.com/album/48uWS8U5HPrfgMQQN5LcOQ) | 6:19 | 2023-08-02 |  |
 | [Bone Mics](https://open.spotify.com/track/5hi29SeDshZlOu96sWB76q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 3:34 | 2022-04-14 | 2022-04-22 |
 | [Bonzai](https://open.spotify.com/track/1Cwjy8hde63XjJfulolyYi) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Bonzai](https://open.spotify.com/album/7evOBOpqevrNBQylaTJTUq) | 4:59 | 2023-07-14 |  |
 | [BONZAI](https://open.spotify.com/track/0gDfZQksdHrXAQ3DE9wO0X) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BONZAI](https://open.spotify.com/album/79l8b27ykmajDqCbVzcian) | 3:36 | 2023-06-09 | 2023-06-30 |
@@ -1212,7 +1213,7 @@
 | [Make You Scream \- yunè pinku Remix](https://open.spotify.com/track/5sB6nWsUKo40L5AeJ7Ja7Q) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Make You Scream \(yunè pinku Remix\)](https://open.spotify.com/album/2Ga87TUZ2SOcSDoYR2snwZ) | 2:44 | 2023-07-06 | 2023-07-28 |
 | [Mandala](https://open.spotify.com/track/4zRPvp6MSPCSAmaOJJgkFU) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Mandala](https://open.spotify.com/album/7K0OIp52OOMImGGjHFBLht) | 7:00 | 2022-09-16 | 2022-10-07 |
 | [Mania](https://open.spotify.com/track/47pdvuFM95WHsL14TnvTTc) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Mania](https://open.spotify.com/album/5lcd0PnZRFh2LExp7ppZbr) | 3:36 | 2022-08-18 | 2022-09-02 |
-| [Manipulate](https://open.spotify.com/track/6318TrgQR9y7Uu3NOnQzG4) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Manipulate](https://open.spotify.com/album/7JQ8vd3ZwkqpSq4c9yuYwi) | 2:57 | 2023-07-27 |  |
+| [Manipulate](https://open.spotify.com/track/6318TrgQR9y7Uu3NOnQzG4) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Manipulate](https://open.spotify.com/album/7JQ8vd3ZwkqpSq4c9yuYwi) | 2:57 | 2023-07-27 | 2023-08-03 |
 | [Mankind](https://open.spotify.com/track/521p9zLwWdFrfWwGpgtIbF) | [Mitch De Klein](https://open.spotify.com/artist/7zGEI2pEvhrGrD2Vqrhpwg) | [Mankind](https://open.spotify.com/album/3Q1QrU32ydYQrPMZofU4lZ) | 3:46 | 2022-12-01 | 2022-12-16 |
 | [Mann:Frau](https://open.spotify.com/track/1C1dpAoDKXvrVWO37WpZS5) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/1IxdSZRUrH7K4w8YrrrjLo) | 3:16 | 2022-10-20 | 2022-11-04 |
 | [Mantra](https://open.spotify.com/track/2FZStCHAHy3l16yWl9ELpe) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Mantra](https://open.spotify.com/album/7ci9mlATFQyvvFIxigMOCH) | 4:21 | 2023-05-19 | 2023-06-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Derya Uluğ
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,319 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,851 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 46 | [Anma Arkadaş](https://open.spotify.com/track/3RD1DElRHmD9tfX7XUwwyZ) | [Derya](https://open.spotify.com/artist/6o3bwYRhx8TcXXp77TBz8F) | [Anma Arkadaş](https://open.spotify.com/album/57SAPW26EFbMnO8Ok8YsgD) | 3:07 |
 | 47 | [Eksik Vals](https://open.spotify.com/track/0wRVUvozUomdfdBlk2fdzh) | [Selin Sümbültepe](https://open.spotify.com/artist/0KmKUL5Vh4hWu4y94z4L2l) | [Eksik Vals](https://open.spotify.com/album/4ODgmQQreVL9MyAMJFejEx) | 4:14 |
 | 48 | [Karanfil Ekeceğim](https://open.spotify.com/track/5diDixY3YahLkmLNnZgXNa) | [Sevcan Orhan](https://open.spotify.com/artist/18HQhVaGq9v0wM4u4YDW9A) | [Karanfil Ekeceğim](https://open.spotify.com/album/4pSitpQU82CpnJcDqwIG5N) | 3:30 |
-| 49 | [Persian Rugs](https://open.spotify.com/track/5nav7yB43wiVDsfrutCVB0) | [Allie Foe](https://open.spotify.com/artist/6BmH9X5TiiwtrRwKkIGpWn), [Honeywave](https://open.spotify.com/artist/58AS7Su13U4Iks7XKHWByE) | [Overthinker EP](https://open.spotify.com/album/1WtUkhyyfYhwylSC2Kj7ap) | 4:28 |
-| 50 | [Son Defa](https://open.spotify.com/track/4EuFlsHDMfrXFK32j2P4uW) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Son Defa](https://open.spotify.com/album/6YPzIhiR4LqVwU1SfskKd5) | 2:30 |
+| 49 | [Son Defa](https://open.spotify.com/track/4EuFlsHDMfrXFK32j2P4uW) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Son Defa](https://open.spotify.com/album/6YPzIhiR4LqVwU1SfskKd5) | 2:30 |
 
-Snapshot ID: `MCwzMmUyZmM2Yzc2OTdmYmQxYzI5YWQzMmVjZDQ4Y2VjZjRmOWJiYWJi`
+Snapshot ID: `MCw2Njc2Mjc3ZGIzMTk3MDdkMzFmYTIyMWJlNGRlYWFmNGY2ZGQ3Zjkx`

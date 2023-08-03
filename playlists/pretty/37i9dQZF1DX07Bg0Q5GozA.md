@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,829 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,872 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 |
 | 75 | [Feel The Same](https://open.spotify.com/track/2VpoQq4skMUOJNumZWIR2F) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Feel The Same](https://open.spotify.com/album/7BkQXxFdJJwaPB37QvrxQs) | 3:43 |
 
-Snapshot ID: `MCxmNWIwYzc0OTFkNWQ2Zjc0MjUzYjk5NmRjOWFiYjhiNGVmMzBiNGQ2`
+Snapshot ID: `MCxmNjY3YWFkMDU1ZTRjMzM4MDdhZGJlNjQ2MzQ0MWJiMmY4YTlkM2Ri`

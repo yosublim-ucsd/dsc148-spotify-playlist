@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Mitski
 
-1,209 songs - 2 day 23 hr 34 min
+1,210 songs - 2 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 | 2022-11-25 | 2023-03-11 |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 | 2022-11-25 |
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
-| [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 | 2023-04-28 |  |
+| [Aftershook](https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 3:25 | 2023-04-28 | 2023-08-03 |
 | [Aftertaste](https://open.spotify.com/track/5GKjhaWuwqihFMFrkDvaSH) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Aftertaste](https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB) | 4:04 | 2022-12-09 | 2023-02-25 |
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-06 | 2022-09-17 |
 | [Ain't No Cowboys In Georgia](https://open.spotify.com/track/3MENr2sOd9lrNzDW0ZA91D) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Ain't No Cowboys In Georgia](https://open.spotify.com/album/2r06kS7KFzXHPLA6DdT9IS) | 2:32 | 2022-10-07 | 2022-12-10 |
@@ -610,6 +610,7 @@
 | [Kiss Me \(I Loved You\)](https://open.spotify.com/track/2lQ3IL0tQ8hQC03lgEDelU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 3:57 | 2022-04-08 | 2022-04-16 |
 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-23 |  |
 | [Knee Deep at ATP](https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Knee Deep at ATP](https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr) | 3:07 | 2021-12-31 | 2022-02-12 |
+| [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 | 2023-08-02 |  |
 | [L.O.T.O.S.](https://open.spotify.com/track/4idr7TFkX3usk7liA6BaIC) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [L.O.T.O.S.](https://open.spotify.com/album/0bLNvSnwqlGExrwZXMCfvI) | 4:15 | 2021-12-31 | 2022-01-29 |
 | [L.O.V.E.](https://open.spotify.com/track/2YZUs2K97H9betaeKAexF8) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [L.O.V.E.](https://open.spotify.com/album/1PELOreseODQHJOR9HnQwd) | 3:16 | 2021-12-31 | 2022-02-05 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-24 | 2023-07-01 |

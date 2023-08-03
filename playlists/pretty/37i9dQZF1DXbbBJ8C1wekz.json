@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 118437,
+  "num_followers": 118526,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjRmNmE1NTc1N2EzZmVkZGUwYjc4ZDVlMjRiNmFhOTZjNDZkMjFj",
+  "snapshot_id": "MCwyMWYxYTUyY2EzM2FlMDA0OWUxYzgxN2Y2NDA3ZWNhNTFjN2M3YTc4",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -703,6 +703,30 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Gigante",
+        "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+        }
+      ],
+      "duration_ms": 147130,
+      "name": "Gigante",
+      "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Assault (Rio)",
         "url": "https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Gigante",
-        "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        },
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
-        }
-      ],
-      "duration_ms": 147130,
-      "name": "Gigante",
-      "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Perfil #84 - Eu Vim de L\u00e1",
         "url": "https://open.spotify.com/album/1JjmIotWoVrQ8i8ZI1if1R"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 190113,
       "name": "Perfil #84 - Eu Vim de L\u00e1",
       "url": "https://open.spotify.com/track/543Yg40LdcfkZkoxCR0kY9"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/61DpiQz5Jli2KNwJZn6s4r"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1651,22 +1651,38 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+        "name": "Reuni\u00e3o Dos Cria",
+        "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
       },
       "artists": [
         {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
         },
         {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+          "name": "Miat\u00e3",
+          "url": "https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         }
       ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
+      "duration_ms": 228283,
+      "name": "Reuni\u00e3o Dos Cria",
+      "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1715,38 +1731,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Reuni\u00e3o Dos Cria",
-        "url": "https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5"
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
       },
       "artists": [
         {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
         },
         {
-          "name": "Miat\u00e3",
-          "url": "https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
         }
       ],
-      "duration_ms": 228283,
-      "name": "Reuni\u00e3o Dos Cria",
-      "url": "https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5"
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 139014,
-      "name": "Rambo",
-      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Oh Shit",
         "url": "https://open.spotify.com/album/36iSgsN8rz5MpQSXOvBlyU"
       },
@@ -2019,6 +2003,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 139014,
+      "name": "Rambo",
+      "url": "https://open.spotify.com/track/35x9qUGtAja78x1LGrO0o6"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Bad Bad Bad",
         "url": "https://open.spotify.com/album/0c0TPdWKG5DFewBDhdJxpx"
       },
@@ -2031,22 +2031,6 @@
       "duration_ms": 154877,
       "name": "Bad bad bad",
       "url": "https://open.spotify.com/track/3ybpfJJRAHZL7NKuUwL1EP"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Doka Language",
-        "url": "https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH"
-      },
-      "artists": [
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 168152,
-      "name": "Espanha",
-      "url": "https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2071,6 +2055,22 @@
       "duration_ms": 137004,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/4hShW5zZGC09Wzam5e76AW"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Doka Language",
+        "url": "https://open.spotify.com/album/4y7lYLaNRtK7cBfDUtCuNH"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 168152,
+      "name": "Espanha",
+      "url": "https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 191376,
-      "name": "V\u00edrgula",
-      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Diretoria",
         "url": "https://open.spotify.com/album/062ycDqIDtT21UFyKlHDvO"
       },
@@ -2179,6 +2159,26 @@
       "duration_ms": 180000,
       "name": "Cheat Code",
       "url": "https://open.spotify.com/track/2Db7e4OXyzQFjMC34RdCOj"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 191376,
+      "name": "V\u00edrgula",
+      "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
     },
     {
       "added_at": "2023-07-28 03:01:00",

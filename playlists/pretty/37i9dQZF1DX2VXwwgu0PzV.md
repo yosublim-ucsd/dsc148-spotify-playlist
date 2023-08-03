@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV">Reblah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,254 likes - 74 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,316 likes - 74 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 73 | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Mowanbe \(Mo wa’nbe\)](https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T) | 2:30 |
 | 74 | [Niombee](https://open.spotify.com/track/3MSMphnBbz8QZMEPBr49dk) | [Nelly Tuikong](https://open.spotify.com/artist/4L778NLbV7vlJI9NT5r9A0), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [Niombee](https://open.spotify.com/album/5vQw1PUxBTGLXhPh8e16MQ) | 5:04 |
 
-Snapshot ID: `MCw3YTFjMmM5OGFiZDg1OTUzNWE3Y2NmMWE0M2Q5NDkwMTYxOTBiZjIz`
+Snapshot ID: `MCw5NjcyM2YxYTAwMmY1MzFjODBiNTY0ZmM1MDUyYzE1OTcwYTg0NDNm`

@@ -1251,6 +1251,32 @@
     },
     {
       "album": {
+        "name": "Halo: Combat Evolved (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI"
+      },
+      "artists": [
+        {
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/3AVA9bUTMNoJ9RrbmB0YfW"
+        },
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx"
+    },
+    {
+      "album": {
         "name": "Halo: Original Soundtrack",
         "url": "https://open.spotify.com/album/6GSXmRwERX2erR5xuLTajj"
       },
@@ -1292,28 +1318,6 @@
       "duration_ms": 262160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4xbrgqQF8bzy22K8JhtFM9"
-    },
-    {
-      "album": {
-        "name": "Halo: Combat Evolved (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4eOwVM6B9yJCwk030GGYRI"
-      },
-      "artists": [
-        {
-          "name": "Martin O'Donnell",
-          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
-        },
-        {
-          "name": "Michael Salvatori",
-          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
-        }
-      ],
-      "date_added": "2023-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 262160,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6DhcuZbi4FW28RLicWNmmx"
     },
     {
       "album": {

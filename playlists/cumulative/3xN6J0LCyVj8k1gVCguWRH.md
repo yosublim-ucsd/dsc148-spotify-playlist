@@ -4,7 +4,7 @@
 
 > Some of Barack Obama&\#x27;s favorite summer songs\. Includes 22, 21 &amp; 20 editions + bonus tracks.
 
-2,508 songs - 5 day 23 hr 47 min
+2,510 songs - 5 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2327,6 +2327,7 @@
 | [Vanity Fool](https://open.spotify.com/track/3ooSk2s81OIX51OkkWASD6) | [Peter Serrado](https://open.spotify.com/artist/7gcJVmqrLeEiKfWsTNZ9QK) | [Vanity Fool](https://open.spotify.com/album/6nBWg4bLNbpR0lDaTrgfKZ) | 3:13 | 2022-10-30 | 2022-11-21 |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2021-04-30 | 2021-05-16 |
 | [venice beach when i met you](https://open.spotify.com/track/2uQGWB7S4YKVgMfCgZIeuU) | [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [venice beach when i met you](https://open.spotify.com/album/7wLnXExY5Vhth8QgnpnURs) | 3:29 | 2021-05-14 | 2021-05-30 |
+| [Venus](https://open.spotify.com/track/6mdDuI5mMFotaaqV6xdelZ) | [Wolf Frank](https://open.spotify.com/artist/1lHClXJkJvJBPmbmr0x4fI) | [Venus](https://open.spotify.com/album/2fumueCa5VrF5pHsOFuqeB) | 3:18 | 2023-08-02 |  |
 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 | 2022-07-29 | 2022-11-05 |
 | [Vibe](https://open.spotify.com/track/1zglqlTSmaL2QNxgVqxngl) | [MXE](https://open.spotify.com/artist/5lhhVh9YGmQ4KBrd55dwiP), [Junaswon](https://open.spotify.com/artist/2unndYn3AMNW91XJHPm6y0) | [Vibe](https://open.spotify.com/album/0mmWVcsfj4H5RQc3Hzcreq) | 3:34 | 2022-05-13 | 2022-05-30 |
 | [Vibe Out](https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 4:57 | 2022-07-26 |  |
@@ -2515,6 +2516,7 @@
 | [Your Time](https://open.spotify.com/track/7mIcFQuZWCoRUug5O1A2pK) | [Adam Weinberg](https://open.spotify.com/artist/1S5h7D2kXw2h2Cu4ap6uY9) | [Laugh, Cry, Grief, Hope](https://open.spotify.com/album/3zzjISrIkjaPAxUtN2YU8M) | 4:08 | 2023-06-18 | 2023-07-21 |
 | [Zomer](https://open.spotify.com/track/5g3LVsOumXRzzrz5GBzojB) | [Sarah Burger](https://open.spotify.com/artist/4Ob3o1BKryQMrFexEHGO6a) | [Zomer](https://open.spotify.com/album/1YypCC1BqDb7ctMiOC7bpz) | 3:18 | 2021-06-04 | 2021-06-20 |
 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 | 2021-07-11 | 2023-02-12 |
+| [Ámame](https://open.spotify.com/track/4lVEs3EYFMkTifF8yv431e) | [Josh Galiano](https://open.spotify.com/artist/0GZ6S7003D6b9eikFZv3bb), [Dari Ferrari](https://open.spotify.com/artist/5FEBQmIIz1XSLMDOUm6QnP) | [Ámame](https://open.spotify.com/album/2goL997K0dt0lSLQiOZQIL) | 3:07 | 2023-08-02 |  |
 | [火](https://open.spotify.com/track/3VIFS0KM6EXUvXXCwU7lh9) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [火](https://open.spotify.com/album/2uTPzFLzReLtFPcqtMZB0d) | 3:38 | 2021-04-30 | 2021-05-16 |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

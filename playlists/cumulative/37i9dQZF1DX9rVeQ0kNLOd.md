@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-204 songs - 12 hr 36 min
+205 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/track/6ogEQHLfCtEozEqTDI0PmD) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Marcus D](https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV) | [made my day feat\. Takuya Kuroda / Marcus D](https://open.spotify.com/album/6MxRGKcSWjnBdn1ywHfu7Y) | 3:25 | 2022-10-25 | 2022-12-24 |
 | [madoromiyurumi](https://open.spotify.com/track/3eyti6C0dpOaFKv01GMUn9) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [madoromiyurumi](https://open.spotify.com/album/5QPr7Gbmbfjw3AxXPyHoJb) | 4:04 | 2022-10-20 | 2022-10-26 |
 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 | 2023-06-15 |  |
+| [Massara](https://open.spotify.com/track/2sQoNhYoaGhTQEZeSXg6Fm) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [KIM](https://open.spotify.com/album/1Y6EIQnJRHGW7pgYQmzjsK) | 4:43 | 2023-08-01 |  |
 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2022-10-20 |  |
 | [Memories](https://open.spotify.com/track/726gUResvdS7FXReBGl16R) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [Memories](https://open.spotify.com/album/5lCAfl4vZl0hmZbaLHhRlM) | 3:38 | 2023-03-09 | 2023-03-22 |
 | [Mermaid](https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw) | [Mermaid](https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F) | 2:54 | 2022-12-20 |  |
@@ -148,7 +149,7 @@
 | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/track/4AbZgR1V8c4zE63y51GXOL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [ひとつのいのち \(feat\. BIM\)](https://open.spotify.com/album/2Ch3x7EBMLRxBq9RWOzyQv) | 2:57 | 2023-07-18 |  |
 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 | 2022-10-20 | 2023-02-01 |
 | [まだ寝れないでしょ](https://open.spotify.com/track/4O9bVZoyjxzoDqMDJ3qoDV) | [404](https://open.spotify.com/artist/2bLUPXEzgA4BRIZCk2x1Pi) | [まだ寝れないでしょ](https://open.spotify.com/album/1P1MiACMzpEMlzJ6GKivAW) | 3:40 | 2023-02-07 | 2023-03-03 |
-| [まっさら](https://open.spotify.com/track/04AcTRw3Y0HuMAmQ5Lgiek) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [KIM](https://open.spotify.com/album/4Bxv6H7hADRSsLcpSsRuMc) | 4:43 | 2023-08-01 |  |
+| [まっさら](https://open.spotify.com/track/04AcTRw3Y0HuMAmQ5Lgiek) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [KIM](https://open.spotify.com/album/4Bxv6H7hADRSsLcpSsRuMc) | 4:43 | 2023-08-01 | 2023-08-03 |
 | [もうやだ](https://open.spotify.com/track/6XvwT19TXr53ilA62B44E4) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [もうやだ](https://open.spotify.com/album/4PQz1RHNSNyUlfKPB4Kd37) | 2:45 | 2022-11-15 | 2022-11-25 |
 | [ゆめのなか](https://open.spotify.com/track/53znW6LyTXs7bWTPU7NJ4X) | [Tsuyoshi Kawaguchi](https://open.spotify.com/artist/7DTG1bT8wsJt4i55ZWA6v3), [usushio](https://open.spotify.com/artist/1baUoO8mV7lVVzsEooqzgd), [summersoft](https://open.spotify.com/artist/1up3a5Bs3axT3JPBLLMGQV) | [ゆめのなか](https://open.spotify.com/album/7iKdg4i81g0pD0kWJJYH34) | 4:15 | 2023-01-17 | 2023-02-01 |
 | [ゆらり](https://open.spotify.com/track/1iYhCf64iv0IDFAMrzyMnU) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [ゆらり](https://open.spotify.com/album/6IyVIDV21dBy08woNYXlxa) | 3:31 | 2023-02-21 | 2023-03-28 |

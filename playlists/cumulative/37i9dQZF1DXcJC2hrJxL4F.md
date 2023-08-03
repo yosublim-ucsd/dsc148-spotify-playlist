@@ -4,7 +4,7 @@
 
 > an early morning in the countryside, birds sing while someone quietly plays music..\. pure forest bliss!
 
-78 songs - 3 hr 23 min
+84 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [A Moment That Passes By](https://open.spotify.com/track/1wR9CIN2CvMSm8Zvo8T9rI) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [A Moment That Passes By](https://open.spotify.com/album/6rb2WYOfbqgWqqcAlBB9yV) | 2:38 | 2023-04-26 |  |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-26 |  |
 | [Ameth](https://open.spotify.com/track/5JN4NoW07SPOoLJFxoeUDu) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [Deepest Forest](https://open.spotify.com/album/75qZcZxWnplR6i29usmnke) | 2:58 | 2023-05-29 |  |
+| [Arbores Unwind](https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu) | [Porch Upright](https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u) | [Arbores Unwind](https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga) | 2:15 | 2023-08-02 |  |
+| [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-08-02 |  |
 | [Avril 14th](https://open.spotify.com/track/4fnsPVPOQfOeuOSlGMjknE) | [Jeremy Cullen](https://open.spotify.com/artist/2TsxwRkZkXZN3fvJoCOjwE) | [Avril 14th](https://open.spotify.com/album/3TjGTIcVrbCT0Icu0tZ9Tu) | 2:06 | 2023-04-26 |  |
 | [Bayou](https://open.spotify.com/track/4S71lQSOqzjq85OytOWOpS) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:39 | 2023-04-26 |  |
 | [Before I Sleep \(Sunday Mornings\)](https://open.spotify.com/track/0egCN48N3po4y9qH10hhkk) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sunday Mornings I](https://open.spotify.com/album/1FTGiQ5feIbCaua7C9pTuX) | 2:06 | 2023-04-26 |  |
@@ -32,6 +34,8 @@
 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 | 2023-04-26 |  |
 | [Everyday Wonders & Sunday Mornings](https://open.spotify.com/track/1TBF5kZA7FR0e70lEuyr43) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXI](https://open.spotify.com/album/3UzefjAhmOfaPoySM0gHR4) | 2:18 | 2023-04-26 |  |
 | [Everything's okay](https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay) | [RA\-UL](https://open.spotify.com/artist/2JeqxmyESYTBLsPY9Xvdjt) | [Everything's okay](https://open.spotify.com/album/0eXgqijm4ijx968hQbO3uG) | 3:07 | 2023-04-26 |  |
+| [Flowers and birds](https://open.spotify.com/track/2CEUO6U59XQBUKZyxEo9u2) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Flowers and birds](https://open.spotify.com/album/2VPYrjQBqhOHBTOeH8AKpV) | 2:35 | 2023-08-02 |  |
+| [Forest Knowing](https://open.spotify.com/track/25SNyblYPvLLbQ8sOq26kY) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Forest Knowing](https://open.spotify.com/album/5G7fb7ZUhSSWhaemO1losC) | 2:33 | 2023-08-02 |  |
 | [From beginning](https://open.spotify.com/track/3UoZfZtWIrpnRtmWvcHUeH) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [From beginning](https://open.spotify.com/album/39cthq8AcvMYXcrjV4S8QO) | 2:34 | 2023-04-26 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-26 |  |
 | [Granule](https://open.spotify.com/track/15eLDTgjl98PPmvGYoXoQc) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Granule](https://open.spotify.com/album/2OLmcPx7BdwI0QVxPwNj1x) | 2:24 | 2023-04-26 |  |
@@ -50,6 +54,7 @@
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-04-26 |  |
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-26 |  |
 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 | 2023-05-29 |  |
+| [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 | 2023-08-02 |  |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-04-26 |  |
 | [Nemoral](https://open.spotify.com/track/1UkHzdjdCmzZIzaF7ck823) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Nemoral](https://open.spotify.com/album/2l9Ac82DRAkvPEGlhL0eEj) | 2:36 | 2023-04-26 |  |
 | [New Lakes](https://open.spotify.com/track/6AQ2zMRobu3TSFVAwVEuvs) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:45 | 2023-04-26 |  |
@@ -70,6 +75,7 @@
 | [Spring Silence](https://open.spotify.com/track/5GkroLzuBEB5UkN0mi7B82) | [Felicia Frank](https://open.spotify.com/artist/0PTGQLNvvo5UJQOMxBXcaA) | [Spring Silence](https://open.spotify.com/album/1tvKjEflBkLrVuzUSbhjch) | 2:12 | 2023-04-26 |  |
 | [Summer](https://open.spotify.com/track/78bYRbK0oYMfCAvBaji1Nj) | [Aron Bergen](https://open.spotify.com/artist/1FIr6GI4h25iIJaMG8qgiV) | [Summer](https://open.spotify.com/album/2iKe0acGKUI1XnpSFh2tKp) | 2:58 | 2023-04-26 |  |
 | [Summer Breeze](https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F) | [Ambient Stream](https://open.spotify.com/artist/49wJGRXonVaTLd77rtGBYA) | [Summer Breeze](https://open.spotify.com/album/1j30XDwij7ZewdsszR43AJ) | 2:14 | 2023-04-26 |  |
+| [The Call](https://open.spotify.com/track/0tRbXuVjlXI7dHIrAISSRD) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [The Call](https://open.spotify.com/album/3gDgoUqWOMu1HJSSId7Zps) | 3:23 | 2023-08-02 |  |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-04-26 |  |
 | [The Perfect Morning](https://open.spotify.com/track/7MMBo7EyGNVwQYqHXtHVHX) | [Milton Laines](https://open.spotify.com/artist/1vqqsJp0EfIy8Er9jINKKu) | [The Perfect Morning](https://open.spotify.com/album/0FFTxou2PMl9sDPcxopeCB) | 2:58 | 2023-04-26 |  |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-05-29 |  |

@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-110 songs - 6 hr 48 min
+111 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/6koKpSfGUDeLrHs1hCPL1P) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/05aHw1XdMAC7pAZmdRsPzs) | 2:59 | 2021-11-15 | 2022-07-29 |
 | [Flow State Vestida 4](https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [Flow State Vestida 4](https://open.spotify.com/album/3sxWKv1CTRANpNi1nHDZwE) | 3:49 | 2021-11-15 | 2022-06-22 |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2021-11-15 |  |
-| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2021-11-15 |  |
+| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2021-11-15 | 2023-08-03 |
+| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 | 2023-07-28 |  |
 | [Gianni Schicchi: "O mio Babbino caro"](https://open.spotify.com/track/4BrX9il0kSbL8xtlHjQbpP) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN) | [Vissi d'Arte \- Opera for Orchestra](https://open.spotify.com/album/2vjEH5WILR6M71LdCI3Umv) | 4:03 | 2021-11-15 | 2022-03-18 |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2021-11-15 |  |
 | [Goldberg Variations, BWV 988: Variation 1 \(Arr\. for Harp\)](https://open.spotify.com/track/36EnMgx9PmtnzUtmKwI63h) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Parker Ramsay](https://open.spotify.com/artist/5ForLHbyCPMNAICPCv1oeb) | [Bach: Goldberg Variations: Variation 1 \(Arranged for Harp\)](https://open.spotify.com/album/5a12E7Hn3S4QlR4egf9cHA) | 1:56 | 2021-11-15 |  |

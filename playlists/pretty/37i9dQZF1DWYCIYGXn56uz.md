@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,977 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,031 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 21 | [Maledetto Mare](https://open.spotify.com/track/1aAE9RmUjVWacJjOEIL7aK) | [Federico Rossi](https://open.spotify.com/artist/27cy5lbFuVKPVSCD36bmuu) | [Maledetto Mare](https://open.spotify.com/album/1wZTLd6eaksA667mDCFbXr) | 2:40 |
 | 22 | [UN'ALTRA ORA](https://open.spotify.com/track/6mikeU6YbM7bmvxtICEcrM) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [UN'ALTRA ORA](https://open.spotify.com/album/3iT5RWQ1wA7nQEDtD3kILJ) | 2:55 |
 | 23 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
-| 24 | [Roma](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Roma](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 |
+| 24 | [ROMA](https://open.spotify.com/track/1RTrSZow3zzUQ1Q2B95d3z) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [ROMA](https://open.spotify.com/album/4dW1fBOZW6iy5ndUTX5hOI) | 2:30 |
 | 25 | [Ogni Volta Che Ti Penso](https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Ogni Volta Che Ti Penso](https://open.spotify.com/album/2GSCcTIlSByimd2Q3GVtJ6) | 3:15 |
 | 26 | [Su e giù](https://open.spotify.com/track/60LVYwBRKpGJAHFQbdZIcN) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [Su e giù](https://open.spotify.com/album/6vLhK5varlM6G0zDdCgba7) | 2:44 |
 | 27 | [piumone](https://open.spotify.com/track/4NCZEtgd1WgLB5KsV6WMwK) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [piumone](https://open.spotify.com/album/3A46BaAEMjifTPqxKM3FRa) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [MARE DI GUAI](https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [MARE DI GUAI](https://open.spotify.com/album/1nypi8w7X4rrXVJPSVghj0) | 3:24 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxmM2QxNDRjZDkzNDM0ZmJiOWQyOTUxZmJiYTk2ZTI3MTJhYjk5ZWEy`
+Snapshot ID: `MCxjZDExOGFlMjdkZDUzNTk0ZWRhNmE3YjYyY2Q5M2JjN2M2NTVjNzFh`

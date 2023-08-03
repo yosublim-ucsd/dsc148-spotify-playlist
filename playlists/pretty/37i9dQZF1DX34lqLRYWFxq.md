@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Sam Roberts Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,384 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,399 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Tossed Out](https://open.spotify.com/track/5vbEut9UQ45NlN0HCsNvTi) | [Ragers](https://open.spotify.com/artist/2wiOxdl6V7nqiCBdiFUIuH) | [Tossed Out](https://open.spotify.com/album/2rYl6AIIhLPuapSmYN1fs5) | 2:35 |
 | 100 | [You're the Only One](https://open.spotify.com/track/1tPfyRCu4OTUcl46zNvSlR) | [Twin Rains](https://open.spotify.com/artist/3bmwwqdBxhi6rc9oNi05HI) | [You're the Only One](https://open.spotify.com/album/7JcjC77ypxJwysB2Dqpf4v) | 4:47 |
 
-Snapshot ID: `MCwwY2M2YWQ0NWU4YzYxMDZiNjg2Njk5ZjUyMjg1OTM0Y2ZmYTdiODVl`
+Snapshot ID: `MCxjN2Q1MzE1N2Y0MzFmYzE0ZDVhYTc5MDM2ZGJjZjdhY2E2MDVlN2Fm`

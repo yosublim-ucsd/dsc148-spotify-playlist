@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico C\u00e9sar",
-  "num_followers": 342890,
+  "num_followers": 342965,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTVmZmFlN2Q1NDg2ZTY0MjlkNmIxMmM1Mjk4NWQyOWE5ZGRlZWMx",
+  "snapshot_id": "MCxlOWE3NWJhZDYyMGM1MDY1OTI0NzgzYWY3ZTMzOGIyN2YxMWZiNmUz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:36:55",
@@ -327,6 +327,26 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Codinome Beija-Flor",
+        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Codinome Beija-Flor",
+      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Lisboa",
         "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 215277,
       "name": "Nos Seus Olhos",
       "url": "https://open.spotify.com/track/0yQz6wGUS38u6EZOV677Ie"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Codinome Beija-Flor",
-        "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Codinome Beija-Flor",
-      "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Beleza Destru\u00edda",
         "url": "https://open.spotify.com/album/6POGjkubJUeXELdtwYtpm6"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 280271,
       "name": "Beleza Destru\u00edda",
       "url": "https://open.spotify.com/track/7maSkM3sduCmafzx9btEqR"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Serafim",
-        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 300028,
-      "name": "Serafim",
-      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Um Gosto de Sol",
         "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Serafim",
+        "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 300028,
+      "name": "Serafim",
+      "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Morro Dois Irm\u00e3os",
         "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 259709,
       "name": "Morro Dois Irm\u00e3os",
       "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
-        "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Fejuca",
-          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Melhor Sozinha - Ao vivo",
-      "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -955,6 +935,26 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Aqui em Casa (Ao vivo na Casa de Francisca)",
+        "url": "https://open.spotify.com/album/5edRUvrs7Ixak0FPMB9LPI"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Melhor Sozinha - Ao vivo",
+      "url": "https://open.spotify.com/track/1cowom9Hc1knxxzM4ZArnP"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Adeus Am\u00e9rica",
+        "url": "https://open.spotify.com/album/0pEpQFIqJu7aW1OV0ydGpk"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Adeus Am\u00e9rica",
+      "url": "https://open.spotify.com/track/5peHuOuPp0eaaCJU2lgNa1"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Essa Pele Marcada 4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/19XR5RzqSQ3ZBbmZ7F8ZmQ"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 226240,
       "name": "Paci\u00eancia",
       "url": "https://open.spotify.com/track/0Mqz6vciorU81IDJf1Q7X9"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Adeus Am\u00e9rica",
-        "url": "https://open.spotify.com/album/0pEpQFIqJu7aW1OV0ydGpk"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Adeus Am\u00e9rica",
-      "url": "https://open.spotify.com/track/5peHuOuPp0eaaCJU2lgNa1"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Porto",
         "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
       },
@@ -1551,42 +1571,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Longe Longe de Mim",
-        "url": "https://open.spotify.com/album/4Q0SqBQFjXeHgk8mURWowP"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "Longe Longe de Mim",
-      "url": "https://open.spotify.com/track/3J490nepj3gEksEuHqZmfT"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 194443,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Longe Longe de Mim",
+        "url": "https://open.spotify.com/album/4Q0SqBQFjXeHgk8mURWowP"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "Longe Longe de Mim",
+      "url": "https://open.spotify.com/track/3J490nepj3gEksEuHqZmfT"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Tamb\u00e9m Pede Bis",
+        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
+      },
+      "artists": [
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+        }
+      ],
+      "duration_ms": 171805,
+      "name": "Tamb\u00e9m Pede Bis",
+      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Doce Carnaval",
         "url": "https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 270186,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Tamb\u00e9m Pede Bis",
-        "url": "https://open.spotify.com/album/5pqZHhdxpz9jo5shnKnV6D"
-      },
-      "artists": [
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
-        }
-      ],
-      "duration_ms": 171805,
-      "name": "Tamb\u00e9m Pede Bis",
-      "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
     },
     {
       "added_at": "2023-07-28 04:36:55",

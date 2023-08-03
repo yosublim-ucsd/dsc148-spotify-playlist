@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 274761,
+  "num_followers": 274879,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzFkNzZjMmNkZTk4M2YyYTg1NmNkMGE2NTk3NGJhNTgyZjRkNGE2",
+  "snapshot_id": "MCxjNzg3ZjhiODdmYTNiY2NjMTM0MzRkZDU0YzIyMmFmYmQwODg2Mjhl",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -427,22 +427,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "At Your Request\u2026",
+        "url": "https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
         }
       ],
-      "duration_ms": 164373,
-      "name": "Your Cheatin' Heart",
-      "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"
+      "duration_ms": 168466,
+      "name": "The Auctioneer",
+      "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "At Your Request\u2026",
-        "url": "https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85"
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
       "artists": [
         {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 168466,
-      "name": "The Auctioneer",
-      "url": "https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4"
+      "duration_ms": 164373,
+      "name": "Your Cheatin' Heart",
+      "url": "https://open.spotify.com/track/0WwmFdGXe7Yky4T2J1oqLk"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Jimmie Rodgers",
-        "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Rodgers",
-          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Kisses Sweeter Than Wine",
-      "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Best Of Duane Eddy",
         "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 153533,
       "name": "Rebel Rouser",
       "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/4LyR43XAMvLzC7IHxH9KAl"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "Kisses Sweeter Than Wine",
+      "url": "https://open.spotify.com/track/2luRltDp0ZG4ORi3lA8NsB"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "There Stands The Glass",
+      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
         "name": "Memorial Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 165800,
       "name": "Cold, Cold Heart",
       "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
-      },
-      "artists": [
-        {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "There Stands The Glass",
-      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Tennessee Stud - Remastered",
-      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 175266,
       "name": "I Don't Hurt Anymore - Remastered",
       "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Tennessee Stud - Remastered",
+      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
     },
     {
       "added_at": "2023-01-02 21:32:07",

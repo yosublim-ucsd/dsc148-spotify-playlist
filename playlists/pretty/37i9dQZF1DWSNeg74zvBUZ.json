@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18928,
+  "num_followers": 18931,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTM1NmI2NTEzOGY4NmVhM2E2ODliYTg1MGZiZDllZTdiNjc1NWU0",
+  "snapshot_id": "MCxhYzI3NmQwMGYxNDRiMmRhNzA1OTZmMDU1ODFkMjBkYTcwMTc1YTlj",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Nami",
-      "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Dawn Chorus",
         "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 208625,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Nami",
+      "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -493,6 +493,26 @@
       "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
     },
     {
+      "added_at": "2021-11-12 19:00:50",
+      "album": {
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
+        }
+      ],
+      "duration_ms": 382773,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+    },
+    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Sakura",
@@ -555,26 +575,6 @@
       "duration_ms": 223000,
       "name": "Peperomia Seedling",
       "url": "https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz"
-    },
-    {
-      "added_at": "2021-11-12 19:00:50",
-      "album": {
-        "name": "Music For Psychedelic Therapy",
-        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
-      },
-      "artists": [
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        },
-        {
-          "name": "7RAYS",
-          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
-        }
-      ],
-      "duration_ms": 382773,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Wintergreen",
         "url": "https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 224145,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/1AzyK709SaGmKOT32r0jSj"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -777,6 +777,22 @@
       "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
+      "added_at": "2022-08-03 03:18:13",
+      "album": {
+        "name": "Biologica, Volume One (Water)",
+        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
+      },
+      "artists": [
+        {
+          "name": "slowave",
+          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+        }
+      ],
+      "duration_ms": 156073,
+      "name": "12121",
+      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
       "added_at": "2021-09-10 04:35:25",
       "album": {
         "name": "Mixing Colours",
@@ -795,22 +811,6 @@
       "duration_ms": 262920,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
-    },
-    {
-      "added_at": "2022-08-03 03:18:13",
-      "album": {
-        "name": "Biologica, Volume One (Water)",
-        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
-      },
-      "artists": [
-        {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
-        }
-      ],
-      "duration_ms": 156073,
-      "name": "12121",
-      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Anemophily",
-        "url": "https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt"
+        "name": "Amber",
+        "url": "https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32"
       },
       "artists": [
         {
-          "name": "Corimbo",
-          "url": "https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6"
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 223810,
-      "name": "Arboretum",
-      "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
+      "duration_ms": 397000,
+      "name": "Yulquen",
+      "url": "https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO"
     }
   ],
   "unique_name": "Morning First Light",

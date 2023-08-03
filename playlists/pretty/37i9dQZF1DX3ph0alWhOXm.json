@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 160822,
+  "num_followers": 160955,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTFmYTZkNGYzZDc3ZDQ0MDhiY2ZhMjE5ODMyMzBiMDk4ZTE3ZjRh",
+  "snapshot_id": "MCxhMmM1Y2EwNzZkZGZmYzU2N2ZhYzBmNWU0OGRjMmNhZjhlYzNmYWNi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:16:33",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Aw Naw",
+      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Aw Naw",
-      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 195986,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+      },
+      "artists": [
+        {
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2023-07-21 15:16:33",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-07-21 15:16:33",
       "album": {
-        "name": "Slow Down Sunrise",
-        "url": "https://open.spotify.com/album/1c8S8L1b49DhYZSYP7pK55"
-      },
-      "artists": [
-        {
-          "name": "Ryan Griffin",
-          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
-        }
-      ],
-      "duration_ms": 175900,
-      "name": "Salt, Lime & Tequila",
-      "url": "https://open.spotify.com/track/5L4EbTgIdPsuEO6GqpurP8"
-    },
-    {
-      "added_at": "2023-07-21 15:16:33",
-      "album": {
         "name": "Daryle Singletary",
         "url": "https://open.spotify.com/album/6d8s6lmfqYvcrp4GC5n6E0"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 165600,
       "name": "Too Much Fun",
       "url": "https://open.spotify.com/track/38CnG9HxpVtqXVqpESBr6H"
+    },
+    {
+      "added_at": "2023-07-21 15:16:33",
+      "album": {
+        "name": "Slow Down Sunrise",
+        "url": "https://open.spotify.com/album/1c8S8L1b49DhYZSYP7pK55"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "duration_ms": 175900,
+      "name": "Salt, Lime & Tequila",
+      "url": "https://open.spotify.com/track/5L4EbTgIdPsuEO6GqpurP8"
     },
     {
       "added_at": "2023-07-21 15:16:33",

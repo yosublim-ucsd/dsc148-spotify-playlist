@@ -894,7 +894,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 196666,
       "name": "Blue Over Blue",
       "url": "https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 214149,
       "name": "Buzz The Leaf",
       "url": "https://open.spotify.com/track/1QLkRZhST9p1k4Xe3SL6nR"
@@ -3771,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "I Am Not There Anymore",
+        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
+      },
+      "artists": [
+        {
+          "name": "The Clientele",
+          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197186,
+      "name": "Lady Grey",
+      "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"
+    },
+    {
+      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
@@ -5326,6 +5344,24 @@
       "duration_ms": 185960,
       "name": "Provider",
       "url": "https://open.spotify.com/track/0QHydHDcswklkcHffb1NG7"
+    },
+    {
+      "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269191,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/0ACxNWb6ZrSdod5OKqlPTx"
     },
     {
       "album": {

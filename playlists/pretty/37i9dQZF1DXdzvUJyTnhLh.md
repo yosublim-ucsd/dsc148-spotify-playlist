@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,163 likes - 68 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,186 likes - 68 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 41 | [Try and Love Again \- 2013 Remaster](https://open.spotify.com/track/3ULgE72PnMaeV6lzA0G6Jv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 5:11 |
 | 42 | [One Day At A Time](https://open.spotify.com/track/1z3PhiWMUpj2Lu43T3rQfK) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Analog Man](https://open.spotify.com/album/076bM8NjtRgmIGGrF3Mb6k) | 3:18 |
 | 43 | [Doolin\-Dalton \- 2013 Remaster](https://open.spotify.com/track/0huHTieLTlluurvasQLB74) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:27 |
-| 44 | [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 |
+| 44 | [Dirty Laundry](https://open.spotify.com/track/1Zqngj1RHFoYW7X6PKmP2o) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/4RFNorcvSYeK06o3DjKV4P) | 5:36 |
 | 45 | [Love Will Keep Us Alive](https://open.spotify.com/track/7bJSiwLFnhoO7g83bWkCtA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hell Freezes Over \(Remaster 2018\)](https://open.spotify.com/album/2Tz88LCwtg5sli8x2YjJyF) | 4:03 |
 | 46 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 | 47 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzvUJyTnhLh.md) - [plain]
 | 67 | [The Radio Song](https://open.spotify.com/track/4pOy712tjNNZxIhX5VllU6) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [Got Any Gum?](https://open.spotify.com/album/6Is4r41K1zGhe0dOYhoAZV) | 3:31 |
 | 68 | [Ol' 55 \- 2013 Remaster](https://open.spotify.com/track/0pH4QNsSphVLCy9zjPzqiP) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [On the Border \(2013 Remaster\)](https://open.spotify.com/album/2iCHyD9XHtA3vJFJIuXzqu) | 4:21 |
 
-Snapshot ID: `MCxiYTQ5Y2ExNDA0ZmVkOThlNzZkZmJjYmZjNGYxMzk0YWU3YTYwMTA3`
+Snapshot ID: `MCxlMjEzZWVhMzgyZDYxNWUzYjI1NWNiYzg0ZDcwOTQyZTU1YWE1ZGEx`

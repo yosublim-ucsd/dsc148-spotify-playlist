@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 740688,
+  "num_followers": 740843,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGE1YWM2ZGEzZWI0MTIwMTMyY2U3MDE1MDBhMmNjMWVmMzZhZTRi",
+  "snapshot_id": "MCw5NzdhOGMzN2YyNDU0NThkOWY5MDUzMGJkMzcwMmI3YTU0MWUxMTM0",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Chapter III - Downfall",
+        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+      },
+      "artists": [
+        {
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Eternal Rains",
+      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+    },
+    {
       "added_at": "2023-07-17 22:14:26",
       "album": {
         "name": "If I",
@@ -627,18 +643,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Chapter III - Downfall",
-        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+        "name": "The Wonders Still Awaiting",
+        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
       },
       "artists": [
         {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Eternal Rains",
-      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
+      "duration_ms": 312626,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -659,22 +675,6 @@
       "duration_ms": 240106,
       "name": "Love Reign O'er Me",
       "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Wonders Still Awaiting",
-        "url": "https://open.spotify.com/album/7roahc7jFukYAEXCyvxntc"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3MQSjTjKpA3ZRRCYHnEE9h"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Krigsherren",
+        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Krigsherren",
+      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Drink with the Gods",
         "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Krigsherren",
-        "url": "https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl"
+        "name": "We'll Be Free",
+        "url": "https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV"
       },
       "artists": [
         {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+          "name": "Moonlight Haze",
+          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Krigsherren",
-      "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
+      "duration_ms": 242320,
+      "name": "We'll Be Free",
+      "url": "https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -979,22 +995,6 @@
       "duration_ms": 221720,
       "name": "We Are Legion",
       "url": "https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "We'll Be Free",
-        "url": "https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Haze",
-          "url": "https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX"
-        }
-      ],
-      "duration_ms": 242320,
-      "name": "We'll Be Free",
-      "url": "https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Not All Those Who Wander Are Lost",
         "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Hanging Tree",
-        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
       },
       "artists": [
         {
-          "name": "Elvenking",
-          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 267240,
-      "name": "The Hanging Tree",
-      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1135,6 +1119,38 @@
       "duration_ms": 275146,
       "name": "The Gates of Time",
       "url": "https://open.spotify.com/track/0s1mKQbBg91ig5E613Zhuz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM"
+      },
+      "artists": [
+        {
+          "name": "Elvenking",
+          "url": "https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+      },
+      "artists": [
+        {
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+        }
+      ],
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
-      },
-      "artists": [
-        {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
-        }
-      ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 191999,
       "name": "Empire",
       "url": "https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy"
-    },
-    {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "Ritter Tod und Teufel (Knightfall)",
-        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
-      },
-      "artists": [
-        {
-          "name": "Serenity",
-          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
-        }
-      ],
-      "duration_ms": 258737,
-      "name": "Ritter Tod und Teufel (Knightfall)",
-      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1239,22 +1223,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 314414,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Coming from the Sky",
         "url": "https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 426160,
       "name": "Time Machine (feat. Kai Hansen & Piet Sielck)",
       "url": "https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "Ritter Tod und Teufel (Knightfall)",
+        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
+      },
+      "artists": [
+        {
+          "name": "Serenity",
+          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
+        }
+      ],
+      "duration_ms": 258737,
+      "name": "Ritter Tod und Teufel (Knightfall)",
+      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/382cff6yTE9GR1zoxPGRTM"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 314414,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/5jlu205NEMHwe3TcV0rmGn"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Raven's Cry",
-        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Raven's Cry",
-      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "After Forever (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 206400,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/7ug96Oh8cyfTvMovOhc57D"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Raven's Cry",
+        "url": "https://open.spotify.com/album/6AV2YW66ESlkPDRE8aD6qG"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Raven's Cry",
+      "url": "https://open.spotify.com/track/0CKj88bTUht7lafuwhgI7m"
     },
     {
       "added_at": "2023-05-19 04:00:00",

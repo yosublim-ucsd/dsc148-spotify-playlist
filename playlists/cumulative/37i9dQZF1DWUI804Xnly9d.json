@@ -1041,6 +1041,28 @@
     },
     {
       "album": {
+        "name": "Jaane Kyun (Reimagined)",
+        "url": "https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW"
+      },
+      "artists": [
+        {
+          "name": "Reena Gilbert",
+          "url": "https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0"
+        },
+        {
+          "name": "Keshuv Huria",
+          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218763,
+      "name": "Jaane Kyun (Reimagined)",
+      "url": "https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH"
+    },
+    {
+      "album": {
         "name": "Jabse Tu Humko Mila",
         "url": "https://open.spotify.com/album/257189U2uvn9pVrkVL86vN"
       },
@@ -1992,7 +2014,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 291000,
       "name": "Nami Danam",
       "url": "https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY"

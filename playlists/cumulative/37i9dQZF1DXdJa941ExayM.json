@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "WE MADE PLANS & GOD LAUGHED",
+        "url": "https://open.spotify.com/album/5FgNuzx7UBEvxlsCj9alLs"
+      },
+      "artists": [
+        {
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "A$$A$$IN",
+      "url": "https://open.spotify.com/track/4PBnRoQLcKk10imoZEbdKr"
+    },
+    {
+      "album": {
         "name": "AHHHH!",
         "url": "https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F"
       },
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 220290,
       "name": "Night Pill",
       "url": "https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz"

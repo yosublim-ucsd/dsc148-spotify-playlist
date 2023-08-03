@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 61217,
+  "num_followers": 61321,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTc0ODllNjk0ODhjYjczMTE0YWI5MWRmYTNjNGE0ZjdiNDZmYjUw",
+  "snapshot_id": "MCxlNWFhZjc4YWU4NDJhYjMyZGMyOWU0ZTk3Njg4ZWM1OTU2ZWE3YzNj",
   "tracks": [
     {
       "added_at": "2023-07-21 15:56:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Stay High",
-        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
-      },
-      "artists": [
-        {
-          "name": "solace",
-          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 327469,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/2AABmyao5FVwAm8ZnveJ4m"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Stay High",
+        "url": "https://open.spotify.com/album/0f0GCbrUu13PBcrpvnj8aY"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/33kKM5K18NvtC7XdHvBEWO"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
+        "name": "The Winding Way",
+        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 252607,
+      "name": "Remember The Time",
+      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 177329,
       "name": "Honeycomb",
       "url": "https://open.spotify.com/track/6IfSKUayA6YpNLVtfsEDrc"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
-        "name": "The Winding Way",
-        "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 252607,
-      "name": "Remember The Time",
-      "url": "https://open.spotify.com/track/4YBmxGFROCS3UsCBlMJtLR"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Love, Death & In Between",
         "url": "https://open.spotify.com/album/4jmQ3CvZiXkeHaLLUHctr2"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 203373,
       "name": "Will o' the Wisp",
       "url": "https://open.spotify.com/track/0wumTIq5re4AmxBfKJPcBo"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "I Got Your Love",
         "url": "https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Take Your Shoes Off",
-        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
       },
       "artists": [
         {
-          "name": "The Robert Cray Band",
-          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 311666,
-      "name": "All the Way",
-      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1275,6 +1259,22 @@
       "duration_ms": 268000,
       "name": "Get These Blues Off Me",
       "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "Take Your Shoes Off",
+        "url": "https://open.spotify.com/album/7d1NEzBKMoeIlmqk8GUkLh"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/4AdSZ9NCONM50Nu4xGCAO3"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
+        "name": "Don't Leave Me",
+        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        },
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 210428,
+      "name": "Don't Leave Me",
+      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
         "name": "Driving Wheel",
         "url": "https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP"
       },
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "Don't Leave Me",
-        "url": "https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        },
-        {
-          "name": "Dylan Chambers",
-          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
-        }
-      ],
-      "duration_ms": 210428,
-      "name": "Don't Leave Me",
-      "url": "https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "West Coast Eyes",
-        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "West Coast Eyes",
-      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Loving Arms - (Radio Edit), Masterlink Sessions",
         "url": "https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 326761,
       "name": "Loving Arms - (radio edit), Masterlink Sessions",
       "url": "https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "West Coast Eyes",
+        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 245306,
+      "name": "West Coast Eyes",
+      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-07-21 15:56:52",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-07-21 15:56:52",
       "album": {
-        "name": "I Shouldn\u2019t Care (Bonus Track)",
-        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
-      },
-      "artists": [
-        {
-          "name": "Connor Selby",
-          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "I Shouldn't Care - Bonus Track",
-      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
-    },
-    {
-      "added_at": "2023-07-21 15:56:52",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 188520,
       "name": "If Heaven Is A Hotel",
       "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
+    },
+    {
+      "added_at": "2023-07-21 15:56:52",
+      "album": {
+        "name": "I Shouldn\u2019t Care (Bonus Track)",
+        "url": "https://open.spotify.com/album/2LnL8tzJFM6ZQXonISL2ng"
+      },
+      "artists": [
+        {
+          "name": "Connor Selby",
+          "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "I Shouldn't Care - Bonus Track",
+      "url": "https://open.spotify.com/track/4IwoEUzs5INGFAxFjSdztQ"
     },
     {
       "added_at": "2023-07-21 15:56:52",

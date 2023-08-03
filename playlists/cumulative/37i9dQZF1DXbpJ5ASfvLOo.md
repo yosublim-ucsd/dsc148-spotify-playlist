@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the show Bro and Marble\. \(브로 앤 마블의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 '여행 갈 때 듣기 좋은 노래'들도 들어보실 수 있습니다.\)
 
-48 songs - 2 hr 40 min
+49 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2023-07-31 |  |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-31 |  |
 | [HIT](https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:23 | 2023-07-31 |  |
-| [Holiday](https://open.spotify.com/track/6BrBfpzwv7ovcXVaZrULuJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:25 | 2023-07-31 |  |
+| [Holiday](https://open.spotify.com/track/5nR49Yw6tAlOd1DLfuwWAA) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:25 | 2023-07-31 |  |
+| [Holiday](https://open.spotify.com/track/6BrBfpzwv7ovcXVaZrULuJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:25 | 2023-07-31 | 2023-08-03 |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2023-07-31 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2023-07-31 |  |
 | [In The Summer by SSAK3 \(Feat\. Kwang Hee Hwang\)](https://open.spotify.com/track/1MELIJNsr1KyHJOJufbheK) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [Kwang Hee Hwang](https://open.spotify.com/artist/2aU36OPcjBFlI8lkXrnxxE) | [In The Summer by SSAK3](https://open.spotify.com/album/6r63LLH5HEEtTE86btnJD8) | 4:41 | 2023-07-31 |  |

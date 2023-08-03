@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-873 songs - 1 day 21 hr 33 min
+874 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 | 2022-05-07 | 2022-06-08 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-09 | 2022-05-08 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-15 | 2023-03-12 |
-| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 | 2023-08-01 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-11 |  |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-02-07 | 2022-03-06 |
 | [Forog a világ](https://open.spotify.com/track/1cf5u4F1zIvn9wUjhqzxm9) | [Ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Forog a világ](https://open.spotify.com/album/7apll1uOGqxEzQHmc7PlB5) | 2:36 | 2022-11-22 | 2023-07-23 |
 | [four moods](https://open.spotify.com/track/1o0TkBcMTkkOg1KUeB4riK) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 3:23 | 2022-08-11 |  |
@@ -338,7 +338,7 @@
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-13 |
 | [Hullik](https://open.spotify.com/track/2PHgjJwswIHOhXexoizfT0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [Hiro](https://open.spotify.com/artist/06cYK1x1ocLh6MzR6MUOuB) | [Hullik](https://open.spotify.com/album/4PEbsLojFXnWSG9HEva5MM) | 3:33 | 2021-07-18 | 2022-08-03 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-13 |
-| [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 |  |
+| [HYAENA](https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:42 | 2023-07-29 | 2023-08-03 |
 | [Háborgó mélység 2](https://open.spotify.com/track/1X0AvW2wtoDeuluMYqJMdH) | [Lotfi Begi](https://open.spotify.com/artist/5iAyJ9oWG7fGCxppLihaZa), [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO) | [Háborgó mélység 2](https://open.spotify.com/album/5cWMhBHjSqIhF48hmeugnk) | 3:07 | 2021-03-27\* | 2021-04-07 |
 | [Háború](https://open.spotify.com/track/0CpBBLT7hAnDtxsxtoYwcx) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Háború](https://open.spotify.com/album/2VOvYrfWCZ5k75ROP6RcdZ) | 2:54 | 2022-04-25 | 2022-05-05 |
 | [Hátmasszázs](https://open.spotify.com/track/29MOrJUChg9gigKjgMMGEP) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Paranoia](https://open.spotify.com/album/40oR75NLHfJOhC3gSX5khZ) | 2:17 | 2021-12-10 | 2022-03-02 |
@@ -661,6 +661,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-09-04 |
 | [Régi mese](https://open.spotify.com/track/0jSIGeXBzed6V7437rRupd) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC), [Varázslatos Magyarország](https://open.spotify.com/artist/6ZB6TzkB1xiqswUHbvMzvm) | [Régi mese](https://open.spotify.com/album/50qxhnpDu4wVgQmPBxU7Y6) | 3:20 | 2021-04-04 | 2021-07-28 |
 | [Régi mese](https://open.spotify.com/track/0xE2ZYcV64XD2KuChB67L3) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC), [Varázslatos Magyarország](https://open.spotify.com/artist/6ZB6TzkB1xiqswUHbvMzvm) | [Ég és föld](https://open.spotify.com/album/16zN1LWmqj30qVgHQ59egQ) | 3:20 | 2021-09-19 | 2021-09-20 |
+| [Rét](https://open.spotify.com/track/5pYNDOTIoZZ5ab77vb8EO3) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Rét](https://open.spotify.com/album/4QTBjYfiHEcmUrX0PkKIlt) | 2:59 | 2023-08-02 |  |
 | [RÉT](https://open.spotify.com/track/7EQq2RCCbFOR7XnN5J1vTv) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/5NydObjtRsTiElOzm5vmgs) | [RÉT](https://open.spotify.com/album/2a9vtUOCvapcSy7dWrWfij) | 3:10 | 2021-03-27\* | 2022-06-24 |
 | [Rózsaszín Mustang](https://open.spotify.com/track/6RLcLw3zlqZFhL0dxQrEvD) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS), [LUCA](https://open.spotify.com/artist/7JJvnCP92EaNcAr6ql0zIa) | [Rózsaszín Mustang](https://open.spotify.com/album/1W0YJWj3Ygjweq3AoJLXv3) | 2:52 | 2023-01-28 | 2023-02-24 |
 | [rút](https://open.spotify.com/track/5bSRJo4Ox8mlk0JoOu5l7N) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [silbak](https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ) | 2:44 | 2022-08-11 | 2023-05-07 |
@@ -758,7 +759,7 @@
 | [Terapeuta](https://open.spotify.com/track/6YW9qgEJrkr3eGXYcZ8uXC) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Mxrci](https://open.spotify.com/artist/0d76eNZLxcMQiFIhdNKFnA) | [Idegen, Vol\. 1.](https://open.spotify.com/album/1cSCDIHlM4QbyRtEiNgPHk) | 3:36 | 2022-06-07 | 2023-02-05 |
 | [tevagyazalány](https://open.spotify.com/track/4Gt7gx37qpPjqIXue81PdB) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tevagyazalány](https://open.spotify.com/album/5P9KcGgb0XlUpbe5gM2oRO) | 2:18 | 2022-04-01 | 2022-04-16 |
 | [tevagyazalány](https://open.spotify.com/track/4YU0ptDWe7qvqFjNKNPUjG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:18 | 2022-05-21 | 2022-08-28 |
-| [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 |  |
+| [THANK GOD](https://open.spotify.com/track/1PH2MDbcBAU094DlgTIND1) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:04 | 2023-07-29 | 2023-08-03 |
 | [Thank God It's Christmas \- Non\-Album Single](https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9) | 4:21 | 2021-12-25 | 2022-12-27 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-05-31 |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-05-28 |

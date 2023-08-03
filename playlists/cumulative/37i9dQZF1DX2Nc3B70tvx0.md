@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Mitski's beautiful return
 
-1,721 songs - 4 day 7 hr 18 min
+1,722 songs - 4 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,7 +1219,7 @@
 | [Questioning My Mind](https://open.spotify.com/track/0H2EwgDNxFwBY6gPnVmuV2) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Questioning My Mind](https://open.spotify.com/album/6X7WVkGVz7znUSldpVjBLh) | 4:14 | 2019-11-09 | 2020-08-07 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-21 | 2023-05-06 |
 | [Quiet On Set](https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Quiet On Set / Grumpy Old Man](https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg) | 3:15 | 2021-09-02 | 2022-04-06 |
-| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 |  |
+| [Rabbit](https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 3:36 | 2023-06-09 | 2023-08-03 |
 | [RABi](https://open.spotify.com/track/1NrmVZxiiBPBOVHnN0001b) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:32 | 2019-08-23 | 2020-01-10 |
 | [Radio](https://open.spotify.com/track/10SOOaAA0JVdnroFkcZT7w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/6qXDmHqkVW2O8FQUKWiHh4) | 3:14 | 2022-10-11 | 2022-10-13 |
 | [Radio](https://open.spotify.com/track/53KTjvFbNcybDOxhdDRoio) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:14 | 2022-10-14 | 2023-01-14 |
@@ -1347,6 +1347,7 @@
 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 | 2019-08-16 | 2020-04-18 |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2021-06-22 | 2022-01-29 |
 | [Some Place Else](https://open.spotify.com/track/5Hu24z7izB3LKi6pHaPq3C) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:34 | 2019-05-26\* | 2020-03-06 |
+| [Some Things Never Change](https://open.spotify.com/track/3sJEg2QHnRA71tdYvZ9QIS) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Fall With The Lights Down \(Louise\)](https://open.spotify.com/album/5Nf2333WEIiNaD1ypEDciM) | 1:20 | 2023-08-02 |  |
 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2023-01-06 | 2023-05-12 |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-01-30 | 2021-10-05 |
 | [Someone That Can’t Be Mine](https://open.spotify.com/track/26gulJKHQJ7ZqPbd66e3I9) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [I Only Dance When I'm Sad](https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW) | 4:08 | 2020-12-04 | 2021-03-06 |

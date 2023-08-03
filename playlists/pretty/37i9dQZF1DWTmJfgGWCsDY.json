@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 1809,
+  "num_followers": 1813,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGRkNTEyY2NiNjJmYWYxOTQ1OTgyY2Y3MGYzODAzMGY4Njc1NDky",
+  "snapshot_id": "MCw3MDUxODYwOTk5NjdiZmMwNTYyNTdjNjZmNDMwMmU5ZWU5MjFhODc2",
   "tracks": [
     {
       "added_at": "2023-06-30 16:12:42",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
-        "name": "Ujaulamba",
-        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 333975,
-      "name": "Ujaulamba",
-      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
-    },
-    {
-      "added_at": "2023-06-30 16:12:42",
-      "album": {
         "name": "Miss Buza (feat. Dulla Makabila)",
         "url": "https://open.spotify.com/album/5HudXaLc6wYZ1MS1crbmJW"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 320653,
       "name": "Miss Buza (feat. Dulla Makabila)",
       "url": "https://open.spotify.com/track/5Ls1bXyqTFdV8QJvrXfudi"
+    },
+    {
+      "added_at": "2023-06-30 16:12:42",
+      "album": {
+        "name": "Ujaulamba",
+        "url": "https://open.spotify.com/album/3c7avSwXFwLNOmQbCsVfL0"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 333975,
+      "name": "Ujaulamba",
+      "url": "https://open.spotify.com/track/3f5aCVf3w5c6jV0zf6yQnd"
     },
     {
       "added_at": "2023-06-30 16:12:42",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
       "artists": [
         {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2023-06-30 16:12:42",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
-    },
-    {
-      "added_at": "2023-06-30 16:12:42",
-      "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 308654,
       "name": "Kamaliza (feat. Sholo Mwamba)",
       "url": "https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp"
+    },
+    {
+      "added_at": "2023-06-30 16:12:42",
+      "album": {
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2023-06-30 16:12:42",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
+        "name": "Mr Dj",
+        "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        }
+      ],
+      "duration_ms": 313074,
+      "name": "Mr Dj",
+      "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
+    },
+    {
+      "added_at": "2023-06-30 16:12:42",
+      "album": {
         "name": "Wapambe",
         "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
       },
@@ -691,38 +707,18 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
-        "name": "Mr Dj",
-        "url": "https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI"
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
       },
       "artists": [
         {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
         }
       ],
-      "duration_ms": 313074,
-      "name": "Mr Dj",
-      "url": "https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk"
-    },
-    {
-      "added_at": "2023-06-30 16:12:42",
-      "album": {
-        "name": "Uroda",
-        "url": "https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        },
-        {
-          "name": "Sammy Donnar",
-          "url": "https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh"
-        }
-      ],
-      "duration_ms": 215038,
-      "name": "Uroda",
-      "url": "https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w"
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2023-06-30 17:11:05",
@@ -747,18 +743,22 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+        "name": "Uroda",
+        "url": "https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C"
       },
       "artists": [
         {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        },
+        {
+          "name": "Sammy Donnar",
+          "url": "https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh"
         }
       ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+      "duration_ms": 215038,
+      "name": "Uroda",
+      "url": "https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w"
     },
     {
       "added_at": "2023-06-30 16:12:42",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
+        "name": "Happy birthday",
+        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
+      },
+      "artists": [
+        {
+          "name": "Dogo Elisha",
+          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
+        },
+        {
+          "name": "Kidakizo mc",
+          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
+        }
+      ],
+      "duration_ms": 211957,
+      "name": "Happy birthday",
+      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
+    },
+    {
+      "added_at": "2023-06-30 16:12:42",
+      "album": {
         "name": "Chura Wangu",
         "url": "https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR"
       },
@@ -835,6 +855,22 @@
     {
       "added_at": "2023-06-30 16:12:42",
       "album": {
+        "name": "Honey Wangu",
+        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
+      },
+      "artists": [
+        {
+          "name": "Seneta Kilaka",
+          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
+        }
+      ],
+      "duration_ms": 239972,
+      "name": "Honey Wangu",
+      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
+    },
+    {
+      "added_at": "2023-06-30 16:12:42",
+      "album": {
         "name": "Pamoja V Sisso (Singeli Sound)",
         "url": "https://open.spotify.com/album/0Owu6KAD2puOplJsCeRoSk"
       },
@@ -855,58 +891,6 @@
       "duration_ms": 234336,
       "name": "NINAASILA",
       "url": "https://open.spotify.com/track/6EyFCSjskAxCdtUartv446"
-    },
-    {
-      "added_at": "2023-06-30 16:12:42",
-      "album": {
-        "name": "Naumia",
-        "url": "https://open.spotify.com/album/70hchTWlKZnkowXc624R7v"
-      },
-      "artists": [
-        {
-          "name": "Kadilida",
-          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Naumia",
-      "url": "https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F"
-    },
-    {
-      "added_at": "2023-06-30 16:12:42",
-      "album": {
-        "name": "Happy birthday",
-        "url": "https://open.spotify.com/album/3S9D7KEC7KwQRJt43hbfmp"
-      },
-      "artists": [
-        {
-          "name": "Dogo Elisha",
-          "url": "https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13"
-        },
-        {
-          "name": "Kidakizo mc",
-          "url": "https://open.spotify.com/artist/4GYDHnFqD8GIVjcUUVP68N"
-        }
-      ],
-      "duration_ms": 211957,
-      "name": "Happy birthday",
-      "url": "https://open.spotify.com/track/0R6oXQVpok1JyslT10iSOc"
-    },
-    {
-      "added_at": "2023-06-30 16:12:42",
-      "album": {
-        "name": "Honey Wangu",
-        "url": "https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt"
-      },
-      "artists": [
-        {
-          "name": "Seneta Kilaka",
-          "url": "https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8"
-        }
-      ],
-      "duration_ms": 239972,
-      "name": "Honey Wangu",
-      "url": "https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh"
     },
     {
       "added_at": "2023-06-30 16:12:42",
@@ -943,6 +927,22 @@
       "duration_ms": 219506,
       "name": "Kwampalange",
       "url": "https://open.spotify.com/track/6bLkmqf3MQglImsNrAvuKi"
+    },
+    {
+      "added_at": "2023-06-30 16:12:42",
+      "album": {
+        "name": "Naumia",
+        "url": "https://open.spotify.com/album/70hchTWlKZnkowXc624R7v"
+      },
+      "artists": [
+        {
+          "name": "Kadilida",
+          "url": "https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Naumia",
+      "url": "https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F"
     }
   ],
   "unique_name": "Singeli Sounds",

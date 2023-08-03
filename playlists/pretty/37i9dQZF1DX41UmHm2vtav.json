@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 428665,
+  "num_followers": 428845,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjI1NWI1MTA0MzRlOTI4MDc2ZTVjYzk2MTIyMTAwZmIwMDllZTg2",
+  "snapshot_id": "MCw2NDE3Y2Q0YzJhY2FkZWE4YWQyNDhkMjE1ZmRmNTBiOTVjNGZlNWYy",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -435,6 +435,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Adrenalizou (Gabriel Boni Remix)",
+        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        }
+      ],
+      "duration_ms": 214435,
+      "name": "Adrenalizou - Gabriel Boni Remix",
+      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Adrenalizou (Gabriel Boni Remix)",
-        "url": "https://open.spotify.com/album/4VYtzbWRQDi3onXpejmJX0"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        }
-      ],
-      "duration_ms": 214435,
-      "name": "Adrenalizou - Gabriel Boni Remix",
-      "url": "https://open.spotify.com/track/1DrmjkbhSHH5kYejFtrPl2"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1083,22 +1083,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1123,26 +1127,22 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
       "artists": [
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         },
         {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         }
       ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Evoluiu (Rakka & Onabeat Remix)",
+        "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Rakka",
+          "url": "https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5"
+        },
+        {
+          "name": "Sodr\u00e9",
+          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
+        }
+      ],
+      "duration_ms": 172918,
+      "name": "Evoluiu - Rakka & Onabeat Remix",
+      "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Colours & Lights",
         "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 241823,
       "name": "Paradise - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Evoluiu (Rakka & Onabeat Remix)",
-        "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Rakka",
-          "url": "https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
-        }
-      ],
-      "duration_ms": 172918,
-      "name": "Evoluiu - Rakka & Onabeat Remix",
-      "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
     },
     {
       "added_at": "2023-07-14 03:03:00",

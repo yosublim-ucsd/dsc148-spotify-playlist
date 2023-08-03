@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6447\)
+## Playlists \(6449\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -212,7 +212,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [396 Hz](/playlists/pretty/37i9dQZF1DX9JGJTJ2WFXi.md)
 - [40s Country](/playlists/pretty/37i9dQZF1DX0vVAWnG6fKT.md)
 - [417 Hz](/playlists/pretty/37i9dQZF1DWSRkksm0qURy.md)
-- [432 Hz](/playlists/pretty/37i9dQZF1DX3DRt77Ekehy.md)
+- [432 Hz Meditation](/playlists/pretty/37i9dQZF1DX3DRt77Ekehy.md)
 - [4:00 AM GROOVE](/playlists/pretty/37i9dQZF1DXbShqaetC9Tw.md)
 - [4AM Chillout](/playlists/pretty/37i9dQZF1DXdbizRAR17Ui.md)
 - [4AM Perreo](/playlists/pretty/37i9dQZF1DX0J2sZQ1dV6f.md)
@@ -1964,6 +1964,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#057](/playlists/pretty/37i9dQZF1DWXshWTGXBpIb.md)
 - [Fuego \#058](/playlists/pretty/37i9dQZF1DWZ44NwqwGeNt.md)
 - [Fuego \#060](/playlists/pretty/37i9dQZF1DX3eRPcs25ToV.md)
+- [Fuego \#061 \- Melanie's Fan Mixtape](/playlists/pretty/37i9dQZF1DXca293MMRhL7.md)
 - [Fuego \- \#059 Sofia Bella's Mixtape](/playlists/pretty/37i9dQZF1DWW9fd5h9dO0R.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
@@ -2007,6 +2008,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Gaming Lounge](/playlists/pretty/37i9dQZF1DX9QWEVCu9UDA.md)
 - [Gaming Malandro](/playlists/pretty/37i9dQZF1DWTiKrF1Gb3Cp.md)
 - [Gaming Music 2023](/playlists/pretty/2BvXXHZ3Hx4pS5OacZMVKc.md)
+- [Gaming Time!](/playlists/pretty/37i9dQZF1DWSfv493aPhol.md)
 - [Ganda Cena](/playlists/pretty/37i9dQZF1DX59I2hjkhLtN.md)
 - [Garage Rock Revival](/playlists/pretty/37i9dQZF1DXbMYUPb05hjJ.md)
 - [Garde la pêche !](/playlists/pretty/37i9dQZF1DX8685vIIepKh.md)
@@ -2213,7 +2215,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Heartland Country](/playlists/pretty/37i9dQZF1DX5iKSDtVcf7Q.md)
 - [Heartstopper: Elle and Tao](/playlists/pretty/37i9dQZF1DWWKWmC5fAz6a.md)
 - [Heartstopper: Nick and Charlie](/playlists/pretty/37i9dQZF1DXe7IKgrJ3ej1.md)
-- [Heartstopper: Official Mixtape](/playlists/pretty/37i9dQZF1DX5KARSfd7WcM.md)
+- [Heartstopper: Official Playlist](/playlists/pretty/37i9dQZF1DX5KARSfd7WcM.md)
 - [Heartstopper: Tara and Darcy](/playlists/pretty/37i9dQZF1DX2Ntl47Kk60U.md)
 - [Heavy Ballads](/playlists/pretty/37i9dQZF1DX1kydukZhLms.md)
 - [Heavy Dub](/playlists/pretty/37i9dQZF1DX9udeSemCofA.md)
@@ -5239,6 +5241,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Peggy Gou](/playlists/pretty/37i9dQZF1DZ06evO1lPLb3.md)
 - [This Is Pennywise](/playlists/pretty/37i9dQZF1DZ06evO3IcblQ.md)
 - [This Is Perdidos De Sinaloa](/playlists/pretty/37i9dQZF1DZ06evO407nKU.md)
+- [This Is Peso Pluma](/playlists/pretty/37i9dQZF1DX1LUyBs1uGpN.md)
 - [This Is Philip Glass](/playlists/pretty/37i9dQZF1DX30FdZ6jR5Gl.md)
 - [This Is Phoebe Bridgers](/playlists/pretty/37i9dQZF1DZ06evO0N5yhI.md)
 - [This Is Phoenix](/playlists/pretty/37i9dQZF1DZ06evO0RenIs.md)
@@ -5649,7 +5652,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Top Christian presents..\. Best Christian & Gospel Songs of the 2010s](/playlists/pretty/37i9dQZF1DXaJDplEJVP32.md)
 - [Top Dads on Spotify](/playlists/pretty/5lMXuhAFbG0xiAw0XiYKAP.md)
 - [Top Female Artists of 2016 \- USA](/playlists/pretty/37i9dQZF1DWWoCDtOBjhpE.md)
-- [Top Gaming Latinoamérica](/playlists/pretty/37i9dQZF1DWSfv493aPhol.md)
 - [Top Gaming Tracks](/playlists/pretty/37i9dQZF1DWTyiBJ6yEqeu.md)
 - [Top Gaming Tracks of 2022](/playlists/pretty/37i9dQZF1DX4WV3tIB2AIC.md)
 - [Top Gaming Tracks: One Year Together](/playlists/pretty/2FmMinHNFfX3Apt34AwEqc.md)

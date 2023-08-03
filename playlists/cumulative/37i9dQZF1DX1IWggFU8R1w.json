@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127965,
+      "name": "A Mission For You",
+      "url": "https://open.spotify.com/track/1utdSwzbY0ldV0J755ih9y"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 127965,
       "name": "A Mission For You",
       "url": "https://open.spotify.com/track/6X1W7c82bgsLD9GvOkbiH1"
@@ -132,10 +150,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 359412,
       "name": "A Time of Contempt (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/2KnBVrFN7RXO3DL7QRB7Uj"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359412,
+      "name": "A Time of Contempt (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/2SxDYlO4SiN6uikJDElx92"
     },
     {
       "album": {
@@ -157,8 +197,8 @@
     },
     {
       "album": {
-        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
       },
       "artists": [
         {
@@ -171,7 +211,59 @@
       "date_removed": null,
       "duration_ms": 118235,
       "name": "Aeschna",
+      "url": "https://open.spotify.com/track/1AHnmbGoIGdlyxDmbXz5zl"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 118235,
+      "name": "Aeschna",
       "url": "https://open.spotify.com/track/1RiuHNmkXfGOj8cp1nSEyv"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Armarkwei Laryea",
+          "url": "https://open.spotify.com/artist/5akwaSLOWoZ8oPw5bq3H3E"
+        },
+        {
+          "name": "GLOR1A",
+          "url": "https://open.spotify.com/artist/2Xf1wbdyd9UKB8TFt95LTK"
+        },
+        {
+          "name": "Josh Weller",
+          "url": "https://open.spotify.com/artist/57El0Va2PEm0Su4wJ5rBwR"
+        },
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220298,
+      "name": "All Is Not As It Seems (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/10wW9n7RiX925GdWKC7qkh"
     },
     {
       "album": {
@@ -202,10 +294,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 220298,
       "name": "All Is Not As It Seems (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/1uX0j8dNEIkQflva2FtTij"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95984,
+      "name": "Alone at Last",
+      "url": "https://open.spotify.com/track/0y6fQYoqYF7kMlxLRvwZYm"
     },
     {
       "album": {
@@ -220,7 +330,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 95984,
       "name": "Alone at Last",
       "url": "https://open.spotify.com/track/7KqYZ2dE95c9wiqh0SSItp"
@@ -625,6 +735,24 @@
     },
     {
       "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75966,
+      "name": "Death Itself",
+      "url": "https://open.spotify.com/track/4NGrpe55iYckV54Wed0oWE"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
       },
@@ -636,7 +764,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 75966,
       "name": "Death Itself",
       "url": "https://open.spotify.com/track/4R9YjmogyxHwBqI0OCCAji"
@@ -788,10 +916,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 151221,
       "name": "Emhyr var Emreis",
       "url": "https://open.spotify.com/track/1Ii144IgHqZFiBCFD4jCHk"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151221,
+      "name": "Emhyr var Emreis",
+      "url": "https://open.spotify.com/track/78uLdo62WVire7JRLXCCiz"
     },
     {
       "album": {
@@ -999,6 +1145,36 @@
     },
     {
       "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Sonya Belousova",
+          "url": "https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP"
+        },
+        {
+          "name": "Giona Ostinelli",
+          "url": "https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229488,
+      "name": "Girl from Cintra (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/4HOrv9UN3gWLs7q5333zuE"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
       },
@@ -1022,7 +1198,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 229488,
       "name": "Girl from Cintra (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/5lCDFxSa86U9quQFuerVUj"
@@ -1110,10 +1286,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 98381,
       "name": "He's a Spoon",
       "url": "https://open.spotify.com/track/0E3MbsJbnZ8aCwu9WfBKdz"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98381,
+      "name": "He's a Spoon",
+      "url": "https://open.spotify.com/track/282K3puivKm7134DOR9cTo"
     },
     {
       "album": {
@@ -1507,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31216,
+      "name": "Let Me Guess, You Have A Plan? (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/2VpkBtBBCbd0RVjvcEyDX9"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
       },
@@ -1522,7 +1738,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 31216,
       "name": "Let Me Guess, You Have A Plan? (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/46TZetqTOR4F1nfa2gf9Np"
@@ -1981,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241843,
+      "name": "Serious Accusations",
+      "url": "https://open.spotify.com/track/0x67NPdVkyMQiqM9EPgbWN"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
       },
@@ -1992,7 +2226,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 241843,
       "name": "Serious Accusations",
       "url": "https://open.spotify.com/track/1AImnrQhtdvzdWpkiQIVmM"
@@ -2014,10 +2248,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 190084,
       "name": "Shaerrawedd (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/0YMeq87I90jjT8MBifCVhS"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190084,
+      "name": "Shaerrawedd (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3WM1kfj4HIAtcSNUIvSmsl"
     },
     {
       "album": {
@@ -2043,8 +2299,8 @@
     },
     {
       "album": {
-        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
       },
       "artists": [
         {
@@ -2061,7 +2317,47 @@
       "date_removed": null,
       "duration_ms": 181073,
       "name": "She Was Gone (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/1HRr0b2R2RBFbCzKI2rkXB"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 181073,
+      "name": "She Was Gone (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/1s2wZbNb98hlUEiwp9SXXC"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98476,
+      "name": "Should Have Chosen a Side",
+      "url": "https://open.spotify.com/track/1ZSEgPsbblf5oLuuDAhXYQ"
     },
     {
       "album": {
@@ -2076,7 +2372,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 98476,
       "name": "Should Have Chosen a Side",
       "url": "https://open.spotify.com/track/3MUu7qjenSII7fOu1xE7Fn"
@@ -2600,10 +2896,32 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 271915,
       "name": "The Melange (A Witcher Tango) (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/5Ie0NEMltz0TqYuNSY6cP3"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271915,
+      "name": "The Melange (A Witcher Tango) (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/6iLsA8ijoNNNOMSRmXv8Mc"
     },
     {
       "album": {
@@ -3036,10 +3354,50 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 199289,
       "name": "Vuilpanne (feat. Percival Schuttenbach)",
       "url": "https://open.spotify.com/track/06ZKV4Vhv9k2Sh5XkiAmHw"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        },
+        {
+          "name": "Percival Schuttenbach",
+          "url": "https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199289,
+      "name": "Vuilpanne (feat. Percival Schuttenbach)",
+      "url": "https://open.spotify.com/track/3l5kLdrx8wj9OX4yT4FtjW"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215362,
+      "name": "War is Brewing",
+      "url": "https://open.spotify.com/track/19wxq2CDZXvEmHDUAvL5iu"
     },
     {
       "album": {
@@ -3054,7 +3412,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 215362,
       "name": "War is Brewing",
       "url": "https://open.spotify.com/track/4BHu4h8Vu0tpH6YtwDWMKM"
@@ -3090,10 +3448,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 269419,
       "name": "Whispers of a Dozen Bounties",
       "url": "https://open.spotify.com/track/4wpjYOY2ch1YNI05Fd2LSx"
+    },
+    {
+      "album": {
+        "name": "The Witcher: Season 3 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v"
+      },
+      "artists": [
+        {
+          "name": "Joseph Trapanese",
+          "url": "https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269419,
+      "name": "Whispers of a Dozen Bounties",
+      "url": "https://open.spotify.com/track/7HtTYmzwlDe0ymYAdQ5KdQ"
     },
     {
       "album": {

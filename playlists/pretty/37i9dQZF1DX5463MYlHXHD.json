@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: La T y La M",
-  "num_followers": 552070,
+  "num_followers": 552204,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmFlYTQ5YmEwNjBjMTA0YzgzM2VmYTJlNzU5NzY3ZDY4ZTAyNzAw",
+  "snapshot_id": "MCxiYjFmOGRhYmJmYWZhOGM3NGE4YzZlNGE4Y2U3MGRkOTcxYTVjZGY1",
   "tracks": [
     {
       "added_at": "2023-07-25 20:43:15",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
         "name": "ROMPE",
         "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 193989,
       "name": "ROMPE",
       "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 171434,
-      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "AL RITMO | E2",
         "url": "https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 176842,
       "name": "AL RITMO | E2",
       "url": "https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 171434,
+      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
     },
     {
       "added_at": "2023-07-25 20:43:15",
@@ -1811,34 +1811,6 @@
     {
       "added_at": "2023-07-25 20:43:15",
       "album": {
-        "name": "El Barrio",
-        "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
-      },
-      "artists": [
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "El Mas Berrako",
-          "url": "https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "El Barrio",
-      "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
-    },
-    {
-      "added_at": "2023-07-25 20:43:15",
-      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/79ZYNjHhMRByHU6xYGYWuI"
       },
@@ -1867,6 +1839,34 @@
       "duration_ms": 178604,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/0cBDwyo9iFsSd3i4RrcKaB"
+    },
+    {
+      "added_at": "2023-07-25 20:43:15",
+      "album": {
+        "name": "El Barrio",
+        "url": "https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "El Mas Berrako",
+          "url": "https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "El Barrio",
+      "url": "https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5"
     },
     {
       "added_at": "2023-07-25 20:43:15",

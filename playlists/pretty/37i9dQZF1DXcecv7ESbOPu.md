@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,948 likes - 112 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,954 likes - 112 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 111 | [Higher \- Radio Edit](https://open.spotify.com/track/4TOe4wtz7LGDuQyddk28GJ) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Tim Schou](https://open.spotify.com/artist/5XThsmRraC5gvRpetD2S1q) | [Higher \(Radio Edit\)](https://open.spotify.com/album/1UCeaXy8rQP90QpsZg1VpW) | 2:51 |
 | 112 | [Year 3000 2.0](https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Year 3000 2.0](https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC) | 3:17 |
 
-Snapshot ID: `MCxmZTRhOTFjZjE0NDIzZjM3MzkzYTU3NTQ2YjdhMmMxNzk4NTVlZjA1`
+Snapshot ID: `MCw4YzNiZmUxZmVkYzZiZmNlMTM1ZjMwM2JiZGY5YWViNzNmOTJmZTcz`

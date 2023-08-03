@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Gilga Sahid
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,728 likes - 102 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,064 likes - 102 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 101 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 | 102 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
 
-Snapshot ID: `MCwxM2ZjZTMxOWUxNzAzZjhjMTQ4YWFhMjgxYjhlYzdmNTI2MjJmOTA0`
+Snapshot ID: `MCxmMmUxZTYwZWUwODkxOWQyZjBjMzMxODg4ZWUxZTBhYTRkODFlYWUx`

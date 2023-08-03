@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 199888,
       "name": "Champione",
       "url": "https://open.spotify.com/track/15vyWTQp2jXmsK5AAfTd78"
@@ -658,6 +658,28 @@
       "duration_ms": 289892,
       "name": "Classicore",
       "url": "https://open.spotify.com/track/2ppnnVPKPAnFQ5fW3aQIpA"
+    },
+    {
+      "album": {
+        "name": "Clinical Comfort (Sentinel Complex Remix)",
+        "url": "https://open.spotify.com/album/4MOLt933QvXBQYs3IHMRBk"
+      },
+      "artists": [
+        {
+          "name": "Noveaux",
+          "url": "https://open.spotify.com/artist/2fsPGGcZFhul4aCRKUO3NJ"
+        },
+        {
+          "name": "Sentinel Complex",
+          "url": "https://open.spotify.com/artist/31K3DcAhtW5bcuFOcNumWK"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212234,
+      "name": "Clinical Comfort - Sentinel Complex Remix",
+      "url": "https://open.spotify.com/track/7Kmi3PJB8Pg6V39lijR4Xd"
     },
     {
       "album": {
@@ -1425,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Future Campaigns",
+        "url": "https://open.spotify.com/album/2HMxC9wVw2XZzXINGuMzto"
+      },
+      "artists": [
+        {
+          "name": "Octophonic",
+          "url": "https://open.spotify.com/artist/6y9e1fhJZYEi9kz9h7gIsA"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256635,
+      "name": "Future Campaigns",
+      "url": "https://open.spotify.com/track/401YjTrAN1rnY3hREelyt5"
+    },
+    {
+      "album": {
         "name": "Fuzz n' Fury",
         "url": "https://open.spotify.com/album/03nDmrKEZOZ9QH13TjTSro"
       },
@@ -1646,7 +1686,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 108000,
       "name": "HA HA HA",
       "url": "https://open.spotify.com/track/1zNPwPUkQMt3LdoXPdPNHh"
@@ -3824,7 +3864,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 125423,
       "name": "SEPLECHRUM",
       "url": "https://open.spotify.com/track/5fwAm8SgZ1cV5bAjnXdgHm"

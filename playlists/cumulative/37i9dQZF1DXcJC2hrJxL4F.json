@@ -77,6 +77,42 @@
     },
     {
       "album": {
+        "name": "Arbores Unwind",
+        "url": "https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga"
+      },
+      "artists": [
+        {
+          "name": "Porch Upright",
+          "url": "https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135988,
+      "name": "Arbores Unwind",
+      "url": "https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu"
+    },
+    {
+      "album": {
+        "name": "Asterism (Sound Bath)",
+        "url": "https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9"
+      },
+      "artists": [
+        {
+          "name": "Tristan Motuo",
+          "url": "https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146014,
+      "name": "Asterism (Sound Bath)",
+      "url": "https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4"
+    },
+    {
+      "album": {
         "name": "Avril 14th",
         "url": "https://open.spotify.com/album/3TjGTIcVrbCT0Icu0tZ9Tu"
       },
@@ -437,6 +473,42 @@
     },
     {
       "album": {
+        "name": "Flowers and birds",
+        "url": "https://open.spotify.com/album/2VPYrjQBqhOHBTOeH8AKpV"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Flowers and birds",
+      "url": "https://open.spotify.com/track/2CEUO6U59XQBUKZyxEo9u2"
+    },
+    {
+      "album": {
+        "name": "Forest Knowing",
+        "url": "https://open.spotify.com/album/5G7fb7ZUhSSWhaemO1losC"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Forest Knowing",
+      "url": "https://open.spotify.com/track/25SNyblYPvLLbQ8sOq26kY"
+    },
+    {
+      "album": {
         "name": "From beginning",
         "url": "https://open.spotify.com/album/39cthq8AcvMYXcrjV4S8QO"
       },
@@ -758,6 +830,24 @@
       "duration_ms": 168374,
       "name": "Morning on a STHLM Island",
       "url": "https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr"
+    },
+    {
+      "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167678,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
     },
     {
       "album": {
@@ -1130,6 +1220,24 @@
       "duration_ms": 134500,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/6WeBzOmaFwsWN4Svwg6p1F"
+    },
+    {
+      "album": {
+        "name": "The Call",
+        "url": "https://open.spotify.com/album/3gDgoUqWOMu1HJSSId7Zps"
+      },
+      "artists": [
+        {
+          "name": "Nails Meijer",
+          "url": "https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "The Call",
+      "url": "https://open.spotify.com/track/0tRbXuVjlXI7dHIrAISSRD"
     },
     {
       "album": {

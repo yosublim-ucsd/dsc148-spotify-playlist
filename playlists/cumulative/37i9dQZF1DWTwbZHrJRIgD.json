@@ -2835,6 +2835,36 @@
     },
     {
       "album": {
+        "name": "Tum Hi Ho Bandhu",
+        "url": "https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM"
+        },
+        {
+          "name": "yusha571",
+          "url": "https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa"
+        },
+        {
+          "name": "xSyborg",
+          "url": "https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg"
+        },
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282123,
+      "name": "Tum Hi Ho Bandhu",
+      "url": "https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3"
+    },
+    {
+      "album": {
         "name": "Cocktail",
         "url": "https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui"
       },
@@ -2854,7 +2884,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 282012,
       "name": "Tum Hi Ho Bandhu (From \"Cocktail\")",
       "url": "https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47"
@@ -3049,6 +3079,36 @@
     },
     {
       "album": {
+        "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ranveer Singh",
+          "url": "https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213611,
+      "name": "What Jhumka ?",
+      "url": "https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb"
+    },
+    {
+      "album": {
         "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q"
       },
@@ -3080,7 +3140,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 213611,
       "name": "What Jhumka ? (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF"

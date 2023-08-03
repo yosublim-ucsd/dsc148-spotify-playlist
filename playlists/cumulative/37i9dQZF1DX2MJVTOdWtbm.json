@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 209746,
       "name": "Gallo Pinto",
       "url": "https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe"
@@ -3148,6 +3148,32 @@
       "duration_ms": 177954,
       "name": "Let Me Down Slow",
       "url": "https://open.spotify.com/track/4cNEDhDs7WYKdYfEqQePVG"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        },
+        {
+          "name": "Letra Emece",
+          "url": "https://open.spotify.com/artist/7LdWyUXrUSqKCS1CkX6KqM"
+        },
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw"
     },
     {
       "album": {

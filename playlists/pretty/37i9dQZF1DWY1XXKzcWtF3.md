@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,942 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,941 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 154 | [Glad \- Remastered 2010](https://open.spotify.com/track/2xBLkPs9JUgDRL4cOxb0oN) | [Traffic](https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF) | [John Barleycorn Must Die Deluxe Edition](https://open.spotify.com/album/6wDCNTOXnKI8E4WrsdeJH9) | 6:59 |
 | 155 | [Double Journey](https://open.spotify.com/track/6H2C0FkqsvMelQoQjXJGx7) | [Powerline](https://open.spotify.com/artist/0bxOY7bANY5VgN0vALUAq9) | [Spaced Out: Original Disco Funk Grooves](https://open.spotify.com/album/1s4sgH9k4NlfMB7Wee50MT) | 6:56 |
 | 156 | [No Goodbyes](https://open.spotify.com/track/0wSLkfC9Dodm0NAyjEbt2O) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Do It All Night](https://open.spotify.com/album/0X8p4SwvCkH58bXUXV6gPb) | 7:43 |
-| 157 | [Next To You](https://open.spotify.com/track/1SqW8FgwhfIm5AO4wpNuZg) | [Harvey Presents Locussolus](https://open.spotify.com/artist/3evsK2HbED58ArIgeUYoAs) | [Trax 3 Lascivious Summer](https://open.spotify.com/album/0yohmYOsA27Wi9ZuwIa977) | 9:26 |
+| 157 | [Next To You feat\. Heidi Lawden](https://open.spotify.com/track/2BjiWhzNM72wRhsaCyuxMg) | [Locussolus](https://open.spotify.com/artist/5YBkmI0Db3IWEG1EtGSSOK), [Heidi Lawden](https://open.spotify.com/artist/78kOxZT91FGSl9PJRc0YTS) | [DJ Harvey presents Locussolus \(Expanded\)](https://open.spotify.com/album/5m4qwhCog5reg6p0wLBxmT) | 9:26 |
 | 158 | [Dance to the Drummer's Beat](https://open.spotify.com/track/5A8eiQSMXDR9IZbtVLvq1K) | [Herman Kelly & Life](https://open.spotify.com/artist/4KH6VzBr9OZdZYpsvdkCJF) | [Dance to the Drummer's Beat](https://open.spotify.com/album/6BYlcgtSt5PsS1kYyGjtWX) | 5:09 |
 | 159 | [Give Me Love](https://open.spotify.com/track/6vbIaXH3XjqYslEHixFriP) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Addict](https://open.spotify.com/album/3P0ETgUUqgoCGccU3teYNi) | 4:40 |
 | 160 | [Moonlight Lovin' \(Menage A Trois\) \- Edit](https://open.spotify.com/track/4NFfq9LclX1oPHnLtKjIpR) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [New Horizon \(Bonus Tracks Edition\)](https://open.spotify.com/album/63ZSgRYL9Qz0Ivi6X8q6ue) | 9:59 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MCxhOWZmMjY0MjY4Zjk4NDgwODE3YzRhMzdjZDA2ZmUzZmM3N2ZhZGEy`
+Snapshot ID: `MCw2OGE4M2U3ZGYwZTUyOGZjNDdkZGVjMDExMmZiNTUxZjI5NGEzOGJm`

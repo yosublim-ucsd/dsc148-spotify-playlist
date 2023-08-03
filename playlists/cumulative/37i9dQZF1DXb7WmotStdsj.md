@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-163 songs - 13 hr 23 min
+164 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/track/2Z2orYLp8Ox5gnlVPP5oQY) | [Tipo Bel Abbes](https://open.spotify.com/artist/1YvBlQFAF0qeOZjYLN83xF) | [Cheikh Mamidou Mazal Tama3 Fe Retour](https://open.spotify.com/album/58EVW8ZXLjD3ThafQaDCMy) | 4:45 | 2022-09-20 | 2023-01-26 |
 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 | 2021-10-19 | 2023-01-04 |
 | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/track/4hQgTdJF1Z1PdDrhjYBiUC) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Choufi Bentek Ma Daret Fiya](https://open.spotify.com/album/2FN9F2iscX3gYpuqvsxAdD) | 5:25 | 2021-10-19 | 2023-03-25 |
+| [Classico](https://open.spotify.com/track/2J4q5rfEpzy8bHPzlEOkQx) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Classico](https://open.spotify.com/album/4zMmjcQdRXH9Bd13d5Mm2V) | 3:49 | 2023-08-02 |  |
 | [Corona](https://open.spotify.com/track/3FBCyQCJMBPzAMdtY6c1bP) | [Cheb Bello](https://open.spotify.com/artist/5Io1qNaw4iKM3t7kHgCsBo), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Corona](https://open.spotify.com/album/3xrsu3KBqRQ15AlDIjGkyL) | 4:02 | 2021-10-19 | 2022-05-12 |
 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 | 2022-09-20 | 2022-12-01 |
 | [Denia keratni \- Va bene](https://open.spotify.com/track/4QpthEgd5SYqlYGPLoCPgU) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [Denia Keratni](https://open.spotify.com/album/6LEiREHxVTyoMGiDWWogu0) | 6:39 | 2021-10-19 | 2023-03-16 |
@@ -104,7 +105,7 @@
 | [Mab9at sohba fhad denya](https://open.spotify.com/track/7mxHntjn3YftbjvbKFMDnL) | [Compil Rai jdid](https://open.spotify.com/artist/1sS6MuSv7yhTelVVV74lPU), [Cheb Oussama](https://open.spotify.com/artist/5ecQtTfTp9QyyqyxXaNnCT) | [Mab9at sohba fhad denya](https://open.spotify.com/album/2wNtDNIKQx1oKGfeLYauAN) | 5:01 | 2022-01-11 | 2022-03-26 |
 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-10-19 |  |
 | [Maghadnich Frakek](https://open.spotify.com/track/7a5Kz28C2Np1QF9EuN3Z4A) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Maghadnich Frakek](https://open.spotify.com/album/68MaO9IJHg6oC1w2tgl8IA) | 4:45 | 2022-10-30 | 2023-01-26 |
-| [Maghboun Wahdi](https://open.spotify.com/track/53jIJkxsMot3n7Reolf6QO) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Maghboun Wahdi](https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6) | 3:27 | 2021-10-19 |  |
+| [Maghboun Wahdi](https://open.spotify.com/track/53jIJkxsMot3n7Reolf6QO) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Maghboun Wahdi](https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6) | 3:27 | 2021-10-19 | 2023-08-03 |
 | [Makach Kifach](https://open.spotify.com/track/3RxlroBoqy7N3wgCUxNHhn) | [Amoune Talens](https://open.spotify.com/artist/7Clbt167lhGJ2yLwPkvJhJ), [Dj Fouzi](https://open.spotify.com/artist/7mYT5gH0ZziVicvSVJAA8O), [DJ Abed](https://open.spotify.com/artist/36f15Tayj3prRQsVNgCvXk) | [Makach Kifach](https://open.spotify.com/album/2lab8N8zcfb2J8XKqvlsn5) | 2:57 | 2022-09-20 | 2022-10-04 |
 | [Makanch Li Yafhamni](https://open.spotify.com/track/0gtRVUfCvjTg7D0yFuiWTo) | [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig), [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Makanch Li Yafhamni](https://open.spotify.com/album/0gNWk1obpn1exlDtmAtxst) | 4:44 | 2022-09-20 | 2023-05-09 |
 | [Manich 3ayach Ki Nass](https://open.spotify.com/track/6NxbI1vd0HTY4wNqRcbH7t) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Manich 3ayach Ki Nass](https://open.spotify.com/album/1fAiOJLbsRuEPnSTM1HwJp) | 5:34 | 2022-09-20 | 2022-12-01 |

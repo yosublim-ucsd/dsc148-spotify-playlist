@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-172 songs - 10 hr 0 min
+173 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Lovely](https://open.spotify.com/track/0YK1xpP7b0cUqsz9ufibY9) | [Oky](https://open.spotify.com/artist/1BFHETdKcBBY0RzwN7Vk8X) | [Lovely](https://open.spotify.com/album/4BihoPW5Pzt56iZUxVltfS) | 3:49 | 2021-12-03 | 2022-07-22 |
 | [Lágrimas](https://open.spotify.com/track/13kuMdBb3At8Zn9mR9syok) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Lágrimas](https://open.spotify.com/album/1yW7ht58hRXBMfd9chL7yN) | 2:45 | 2021-12-03 | 2022-07-29 |
 | [Lágrimas](https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d) | 2:45 | 2022-06-18 | 2023-07-24 |
+| [Lágrimas](https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [OCTO](https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw) | [Lágrimas](https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi) | 2:45 | 2022-12-09 |  |
 | [Me Atrapa](https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [KUN](https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc) | 2:52 | 2021-12-03 |  |
 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 | 2021-12-03 |  |
 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 | 2021-12-03 |  |
@@ -161,7 +162,7 @@
 | [Sábanas Anónimas](https://open.spotify.com/track/3onL7etNXsBumOa4HmFnqE) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Por Si Mañana](https://open.spotify.com/album/0EK7wOGPTR2Mvbf4ddWvT0) | 3:07 | 2022-12-09 |  |
 | [Te Boté \- Remix](https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Boté \(Remix\)](https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL) | 6:57 | 2021-12-03 |  |
 | [Te Olvidaste](https://open.spotify.com/track/0gcddDMFQDGDaSpBwac7Wz) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [FIM Records](https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8) | [Te Olvidaste](https://open.spotify.com/album/7o3ow8EjVCdksUVEWAy8GB) | 3:16 | 2021-12-03 | 2022-07-29 |
-| [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 | 2021-12-03 |  |
+| [Te Vas](https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [L.O.V.E.](https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I) | 1:58 | 2021-12-03 | 2023-08-03 |
 | [Tres Rosas](https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06) | 2:43 | 2022-06-18 |  |
 | [Tres Rosas](https://open.spotify.com/track/44CVGn84afMnxEW1qKylzj) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Tres Rosas](https://open.spotify.com/album/3XVYypAbI0CRe0DefZabT5) | 2:43 | 2021-12-03 | 2022-07-29 |
 | [Triste](https://open.spotify.com/track/4QDIUcFQ5ffnm912AYcVdE) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Triste](https://open.spotify.com/album/7sZsFvA2AvyUXY8oWeRGsx) | 4:23 | 2021-12-03 | 2022-07-29 |

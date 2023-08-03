@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:0d8W1CF5vivAV6Fps5ELPZ\">La Messa</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:0d8W1CF5vivAV6Fps5ELPZ\">PRINCIPE</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "FMLY",
+        "url": "https://open.spotify.com/album/0AHAuyqEgQ9fThzmp0DEx1"
+      },
+      "artists": [
+        {
+          "name": "POPMINERALE",
+          "url": "https://open.spotify.com/artist/4O5lO0bnj8YQ9wSsUPQejj"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149982,
+      "name": "Anima stanca",
+      "url": "https://open.spotify.com/track/5lWoNkhFxkdQHJvnPfLfbj"
+    },
+    {
+      "album": {
         "name": "ann[ego]",
         "url": "https://open.spotify.com/album/0Od6glIDhQPM3dNbPN13xa"
       },
@@ -2393,6 +2411,48 @@
     },
     {
       "album": {
+        "name": "BYE BYE",
+        "url": "https://open.spotify.com/album/0IlThQ5a3NlzUWV1dmmJgo"
+      },
+      "artists": [
+        {
+          "name": "Officina011",
+          "url": "https://open.spotify.com/artist/2hoEXGtMJgcjgIwSzvRzbK"
+        },
+        {
+          "name": "Acerbo",
+          "url": "https://open.spotify.com/artist/4mUquATp0HZGr9txsE9OZa"
+        },
+        {
+          "name": "Petraz",
+          "url": "https://open.spotify.com/artist/2T6E7Duwy15mxY7JBvWN7i"
+        },
+        {
+          "name": "Vinny",
+          "url": "https://open.spotify.com/artist/3uovMTMDgkldB5gyea3dUU"
+        },
+        {
+          "name": "collaesse",
+          "url": "https://open.spotify.com/artist/6M3AFJ7JHXJc03K2R3z2wL"
+        },
+        {
+          "name": "donato",
+          "url": "https://open.spotify.com/artist/4thYdzPvyqxuVPhUajdqIG"
+        },
+        {
+          "name": "DJT",
+          "url": "https://open.spotify.com/artist/5YwukRXliqHCDC1sZBQSrl"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171437,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR"
+    },
+    {
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/2pGT9QUMRor3kcEuYRP10g"
       },
@@ -2592,6 +2652,24 @@
       "duration_ms": 220579,
       "name": "Cantonese",
       "url": "https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2"
+    },
+    {
+      "album": {
+        "name": "canzone",
+        "url": "https://open.spotify.com/album/6SHiqPO9WVIKPdQMtTPAH7"
+      },
+      "artists": [
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167399,
+      "name": "canzone",
+      "url": "https://open.spotify.com/track/6kdHVSxzJfi2Iru8ljlEYD"
     },
     {
       "album": {
@@ -3133,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "CHIAMAMI",
+        "url": "https://open.spotify.com/album/5dkHtUJw9XOSGjrFhnJo3A"
+      },
+      "artists": [
+        {
+          "name": "AYLE",
+          "url": "https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155192,
+      "name": "CHIAMAMI",
+      "url": "https://open.spotify.com/track/6CjZPtMBuQPBKYj2Sz2ObT"
+    },
+    {
+      "album": {
         "name": "Chiamami",
         "url": "https://open.spotify.com/album/2qpNHcYewPwkl93wHuS8bp"
       },
@@ -3615,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "Controvento",
+        "url": "https://open.spotify.com/album/4ut0ml6N16jAftc7VUpTbR"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Controvento",
+      "url": "https://open.spotify.com/track/72JLIq71ENeiTOQP87fv9a"
+    },
+    {
+      "album": {
         "name": "CORNO FRANCESE BLU",
         "url": "https://open.spotify.com/album/0A2EW7r9PAMcusGsqeHyoc"
       },
@@ -3764,6 +3878,24 @@
       "duration_ms": 168808,
       "name": "Cuore sporco",
       "url": "https://open.spotify.com/track/1wI92huW17RYbTePnBVwV5"
+    },
+    {
+      "album": {
+        "name": "DA PAURA",
+        "url": "https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136068,
+      "name": "DA PAURA",
+      "url": "https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb"
     },
     {
       "album": {
@@ -6997,6 +7129,28 @@
     },
     {
       "album": {
+        "name": "Drop Tactics",
+        "url": "https://open.spotify.com/album/0LMVR5R6QwLWw78iNRp3xd"
+      },
+      "artists": [
+        {
+          "name": "Palazzi D'Oriente",
+          "url": "https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH"
+        },
+        {
+          "name": "Michael Mills",
+          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177379,
+      "name": "Konya Tonya",
+      "url": "https://open.spotify.com/track/71l0tmjM93jM6LimI91qV4"
+    },
+    {
+      "album": {
         "name": "KOrde",
         "url": "https://open.spotify.com/album/3HsIuWLEEVBKKPZDmvIKfP"
       },
@@ -9426,7 +9580,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 143999,
       "name": "Never Need You",
       "url": "https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2"
@@ -13106,7 +13260,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 162058,
       "name": "se non te",
       "url": "https://open.spotify.com/track/1ro6xYAxt8jtCqCSrkjNdN"
@@ -13522,7 +13676,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 158452,
       "name": "Sleep Baby",
       "url": "https://open.spotify.com/track/0CNqOVBbNDAcWlyTaFgonI"
@@ -14754,6 +14908,28 @@
       "duration_ms": 173500,
       "name": "ti giuro ti giuro ti giuro",
       "url": "https://open.spotify.com/track/2D7GF205b7QNoMEyUl91lD"
+    },
+    {
+      "album": {
+        "name": "ti voglio chiara",
+        "url": "https://open.spotify.com/album/02bt8n7FSJc6yqDWVl9CfA"
+      },
+      "artists": [
+        {
+          "name": "Jemel",
+          "url": "https://open.spotify.com/artist/52xT2TuMy5NKiKE5abawy4"
+        },
+        {
+          "name": "Tommy3",
+          "url": "https://open.spotify.com/artist/5MxvM5IMLku68VNr38ToQN"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113052,
+      "name": "ti voglio chiara",
+      "url": "https://open.spotify.com/track/706cLLzgzYDkC45ggmovo1"
     },
     {
       "album": {

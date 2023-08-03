@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 141153,
+  "num_followers": 141167,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5",
+  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 237882,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 222666,
       "name": "Hilo Rojo",
       "url": "https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 237882,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Learning To Live Without You",
-        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 193784,
-      "name": "Learning To Live Without You",
-      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/6vAgHrX0THw3dFEpk1Cjt3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1U0bhf79qQt8ozR25aXMtH"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Learning To Live Without You",
+        "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 193784,
+      "name": "Learning To Live Without You",
+      "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Tum Na Ho",
         "url": "https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Night within you",
-        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Night within you",
-      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Love song",
         "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 230213,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Night within you",
+        "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Night within you",
+      "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 163366,
       "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
       "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+      },
+      "artists": [
+        {
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+        }
+      ],
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Obscured star",
         "url": "https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 268426,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
     },
     {
       "added_at": "2022-10-17 15:00:00",

@@ -2959,6 +2959,28 @@
     },
     {
       "album": {
+        "name": "Hide Your Heart",
+        "url": "https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC"
+      },
+      "artists": [
+        {
+          "name": "VOLT VISION",
+          "url": "https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K"
+        },
+        {
+          "name": "BRIGHTDVWN",
+          "url": "https://open.spotify.com/artist/0ExsFJFEnGuchlp60W2oHe"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Hide Your Heart",
+      "url": "https://open.spotify.com/track/23fQ2QOFRIw57uYM7w19C2"
+    },
+    {
+      "album": {
         "name": "high4aminute",
         "url": "https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3"
       },
@@ -6250,6 +6272,24 @@
       "duration_ms": 187276,
       "name": "Think About Me",
       "url": "https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha"
+    },
+    {
+      "album": {
+        "name": "Thought It Was U",
+        "url": "https://open.spotify.com/album/28j7q90iOylNg6QhifQEso"
+      },
+      "artists": [
+        {
+          "name": "JJL",
+          "url": "https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185753,
+      "name": "Thought It Was U",
+      "url": "https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS"
     },
     {
       "album": {

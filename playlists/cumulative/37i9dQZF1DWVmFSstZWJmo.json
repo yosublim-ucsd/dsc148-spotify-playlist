@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 199226,
       "name": "Bitter Rivals",
       "url": "https://open.spotify.com/track/2BEuuuOM1boOTn2i2T5MfR"
@@ -240,7 +240,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 345560,
       "name": "Blind - Radio Edit",
       "url": "https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 209493,
       "name": "BTSTU - Edit",
       "url": "https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-01",
+      "date_removed": null,
       "duration_ms": 210453,
       "name": "Courtship Dating",
       "url": "https://open.spotify.com/track/1mOsMKTGAoayrYBnvIdBkk"
@@ -554,6 +554,24 @@
       "duration_ms": 171333,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/57i3M29DWoo7RDk0Tf0LZG"
+    },
+    {
+      "album": {
+        "name": "Psychic Chasms",
+        "url": "https://open.spotify.com/album/3dQDaXtGZdiCU8M0l85KZF"
+      },
+      "artists": [
+        {
+          "name": "Neon Indian",
+          "url": "https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242706,
+      "name": "Deadbeat Summer",
+      "url": "https://open.spotify.com/track/6wSLEvYkwVsVJqB9WkxYKs"
     },
     {
       "album": {
@@ -820,7 +838,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 213600,
       "name": "Galang",
       "url": "https://open.spotify.com/track/5oV3uciTzAtn3YyTK5YgmA"
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 187840,
       "name": "Gucci Gucci",
       "url": "https://open.spotify.com/track/1ea97AUSazu2QZw9BnHJqK"
@@ -1524,7 +1542,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 203306,
       "name": "Le Disko",
       "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
@@ -1897,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "New York / LA Hex",
+        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244444,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B"
+    },
+    {
+      "album": {
         "name": "night n day",
         "url": "https://open.spotify.com/album/0Ayl2BZ4q57Lzg2kIUDkiJ"
       },
@@ -2034,7 +2070,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
@@ -2226,6 +2262,28 @@
       "duration_ms": 243750,
       "name": "Professional Griefers - Vocal Mix",
       "url": "https://open.spotify.com/track/2AqazcPtVXn7uhFIyInNNp"
+    },
+    {
+      "album": {
+        "name": "See Mystery Lights: Remixes & B-Sides",
+        "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
+      },
+      "artists": [
+        {
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
+        },
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251380,
+      "name": "Psychic City - Classixx Remix",
+      "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
     },
     {
       "album": {
@@ -2974,7 +3032,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Wildcat",
       "url": "https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu"

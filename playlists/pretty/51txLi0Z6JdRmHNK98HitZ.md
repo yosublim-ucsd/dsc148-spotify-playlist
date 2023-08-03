@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/51txLi0Z6JdRmHNK98HitZ.md) - [plain]
 
 > Here is a playlist of all our songs released so far\. Our new single 'Highlands' is out now!
 
-[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,282 likes - 38 songs - 2 hr 9 min
+[middle\_kids\_official](https://open.spotify.com/user/middle_kids_official) - 2,287 likes - 38 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

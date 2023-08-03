@@ -4,7 +4,7 @@
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-86 songs - 6 hr 32 min
+87 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/track/418Pod9FdQVI9DjlaG7DuK) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/album/4SNHCGNCX1JCDgRc8vXMrR) | 2:19 | 2023-04-07 |  |
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-04-01 |  |
 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 | 2022-04-01 |  |
-| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2022-04-01 |  |
+| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2022-04-01 | 2023-08-03 |
+| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 | 2023-07-24 |  |
 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 | 2022-04-01 |  |
 | [Gaîté parisienne: Barcarolle](https://open.spotify.com/track/5PAdbw7X61H3fQ8OwaTuBO) | [Jacques Offenbach](https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI), [Seiji Ozawa](https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo) | [Ballet Highlights \- The Nutcracker, Romeo & Juliet, Swan Lake](https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR) | 3:47 | 2022-04-01 |  |
 | [Gnossienne No\. 1 \- Excerpt](https://open.spotify.com/track/2DhOTKJbiKQlK08J2Im2Su) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: Gnossienne No\. 1 \(Excerpt\)](https://open.spotify.com/album/0tciltHgxKLpXpCJ9uWSK4) | 3:26 | 2022-04-01 |  |

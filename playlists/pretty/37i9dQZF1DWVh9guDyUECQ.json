@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 171150,
+  "num_followers": 171211,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjM0MGI1YTcwM2I5YWRmOWU5YjllOTQ5NTU0NzBjOWE2ZTgxYTlm",
+  "snapshot_id": "MCwzZjg1N2QxYTJjZTRhZGQ2YWExNDI0NTdmODQxODM5YWZkMWIwMDUy",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Bueno es Dios",
-        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
-      },
-      "artists": [
-        {
-          "name": "Yelitza Cintron",
-          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
-        },
-        {
-          "name": "Eliud L'voices",
-          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Bueno es Dios",
-      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Llegaste T\u00fa",
         "url": "https://open.spotify.com/album/6GBHEIWKGd5YNz3z3wkDKi"
       },
@@ -1379,18 +1359,38 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dios, Familia & Rap",
-        "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
+        "name": "Bueno es Dios",
+        "url": "https://open.spotify.com/album/6td6DYfOLlkA1AhBdwpFJE"
       },
       "artists": [
         {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+          "name": "Yelitza Cintron",
+          "url": "https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8"
+        },
+        {
+          "name": "Eliud L'voices",
+          "url": "https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj"
         }
       ],
-      "duration_ms": 257506,
-      "name": "Dios, Familia & Rap",
-      "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
+      "duration_ms": 179800,
+      "name": "Bueno es Dios",
+      "url": "https://open.spotify.com/track/3rAquLCHj5eCLUE6r1ARxP"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Somos Las Voces",
+        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 242497,
+      "name": "Somos Las Voces",
+      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Somos Las Voces",
-        "url": "https://open.spotify.com/album/379L30GLDmpr85KKQPqCmj"
+        "name": "Dios, Familia & Rap",
+        "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
       "artists": [
         {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
         }
       ],
-      "duration_ms": 242497,
-      "name": "Somos Las Voces",
-      "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+      "duration_ms": 257506,
+      "name": "Dios, Familia & Rap",
+      "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 210266,
       "name": "TBT",
       "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Mi Cielo",
+        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Mi Cielo",
+      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Picheo",
         "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
       },
@@ -1855,18 +1871,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mi Cielo",
-        "url": "https://open.spotify.com/album/42aQGgd4gZBjcr41Tacpqs"
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
         }
       ],
-      "duration_ms": 198640,
-      "name": "Mi Cielo",
-      "url": "https://open.spotify.com/track/5HMbjD7f08PqxfxErIwmrx"
+      "duration_ms": 210370,
+      "name": "Humillado",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1891,26 +1911,6 @@
       "duration_ms": 253388,
       "name": "No Tiene Sentido",
       "url": "https://open.spotify.com/track/2jSSGUPLFu6OFlFuTWOLlP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Relevantes",
-        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        }
-      ],
-      "duration_ms": 210370,
-      "name": "Humillado",
-      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     },
     {
       "added_at": "2022-08-27 05:04:45",

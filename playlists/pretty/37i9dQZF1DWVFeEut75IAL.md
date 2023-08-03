@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,589 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,011 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 16 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/43bSKCMWHIuBsUVmQcDX1J) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy Piano Edition](https://open.spotify.com/album/7qdNpLxZ5eazTHCYu0Ssxz) | 4:17 |
 | 17 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 18 | [2 Aquarelles: Lento, ma non troppo](https://open.spotify.com/track/5TtmI9sfXw4VXco0PE21mV) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Royal Northern Sinfonia](https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd), [David Lloyd\-Jones](https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4) | [ENGLISH STRING MINIATURES, Vol\. 4](https://open.spotify.com/album/3aHnqYoeNpy7hjqqSoEhcQ) | 2:12 |
-| 19 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
+| 19 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 |
 | 20 | [En nacelle](https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd) | 2:45 |
 | 21 | [Scriabin: 24 Preludes, Op\. 11: No\. 21 in B\-Flat Major](https://open.spotify.com/track/7lFRAFQ2f2AmWOefaiV4wb) | [Alexander Scriabin](https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV), [Mikhail Pletnev](https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C) | [Scriabin: 24 Preludes \- Sonatas Nos\. 4 & 10](https://open.spotify.com/album/2frAyNz56dJ9dgkEme3xba) | 1:47 |
 | 22 | [The Lily \- Piano Version](https://open.spotify.com/track/2ZGFYsDWwjU0BBvVAw6js9) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [The Lily](https://open.spotify.com/album/7MB4jFZ02hbMpYaBdLOpGq) | 1:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 64 | [Seven Days Walking / Day 1: Ascent](https://open.spotify.com/track/4NqknSuLbtn77F73YzNVBf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking](https://open.spotify.com/album/5Otajf16kZ0zkVZWhu7LtO) | 5:37 |
 | 65 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 |
 
-Snapshot ID: `MCwzMGJmODZlZDZjMTQ2YjA4NzVkM2EwZDc4OWU1ODRlN2M2ZDRhNTQ0`
+Snapshot ID: `MCxlOTlmYTcyNWEzZGUyNTVmMDg4Nzk3YTZhOWQzZTQ3MWM0YzkzNGM0`

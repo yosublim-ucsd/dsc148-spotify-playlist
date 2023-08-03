@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Peytan Porter
 
-1,511 songs - 3 day 8 hr 54 min
+1,512 songs - 3 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Always Never](https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Always Never](https://open.spotify.com/album/73jpbxXtDJj35UcwjctBdM) | 3:22 | 2023-03-17 | 2023-05-26 |
 | [Always You](https://open.spotify.com/track/3BVIL8xUbVh1AfeoViJ2ie) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Always You](https://open.spotify.com/album/6pmFIOOeqH9zbCn1rq2JCJ) | 3:08 | 2023-07-21 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 | 2022-05-28 |
-| [American Dirt](https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [American Dirt](https://open.spotify.com/album/5ki9d661De9vyhXQ8UCwi7) | 3:02 | 2023-03-31 |  |
+| [American Dirt](https://open.spotify.com/track/2a2lmhi4vcRDVMWlbenbef) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [American Dirt](https://open.spotify.com/album/5ki9d661De9vyhXQ8UCwi7) | 3:02 | 2023-03-31 | 2023-08-03 |
+| [American Dirt](https://open.spotify.com/track/5KyhlBgV7XoOZgBSLZbcG7) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [Double Wide Castle Sessions](https://open.spotify.com/album/4CVqU1EaY3DSJOTINW6E5x) | 3:02 | 2023-08-01 |  |
 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 | 2022-05-06 | 2022-07-16 |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-31 | 2022-01-29 |
 | [Angela](https://open.spotify.com/track/4sEojVU7y6f05BCZehv9Tt) | [Sheyna Gee](https://open.spotify.com/artist/05BcZCAQvpZCJSRqWFzSnF) | [Angela](https://open.spotify.com/album/7DxAj4kh0QOMarpfc0z8TM) | 2:45 | 2023-03-24 | 2023-06-17 |

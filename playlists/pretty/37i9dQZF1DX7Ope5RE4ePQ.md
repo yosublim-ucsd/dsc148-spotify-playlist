@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 
 > masquerades, moonlit encounters, and locking eyes across the ballroom
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,135 likes - 70 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,432 likes - 70 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 49 | [Schwanengesang, D.957: No\. 4 Serenade](https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Greatest Hits: Schubert](https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI) | 4:23 |
 | 50 | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/track/418Pod9FdQVI9DjlaG7DuK) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Elizabeth II \(arr\. piano\)](https://open.spotify.com/album/4SNHCGNCX1JCDgRc8vXMrR) | 2:19 |
 | 51 | [Annie's Song \(Dompierre\)](https://open.spotify.com/track/6kOO3EZawpjqbFCiXGWs47) | [Angele Dubeau, Ensemble Amati, Raymond Dessaints](https://open.spotify.com/artist/6RMpafCPPmTUZsyzfxWj9o) | [La Ronde Des Berceuses](https://open.spotify.com/album/7GPWDs5pZsuEvCaOCUxrjU) | 4:53 |
-| 52 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
+| 52 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 |
 | 53 | [Mrs Darcy \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/6hExOufDzTbiwGosc3kIGW) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Pride and Prejudice \- OST](https://open.spotify.com/album/5pV86WRRdbyIdK3YkS7rOI) | 3:43 |
 | 54 | [Má Vlast, JB1:112: 2\. Vltava](https://open.spotify.com/track/35kwDf6Bt8xLrshtFDKeeh) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [Czech Philharmonic Orchestra](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb), [Jiří Bělohlávek](https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx) | [Smetana: Má Vlast](https://open.spotify.com/album/7bEgoD9Ays4eVg5zPvDhRb) | 12:06 |
 | 55 | [String Quartet No\. 2 in D Major: IV\. Finale: Andante \- Vivace](https://open.spotify.com/track/5CzzGwLDUxQTLitqAzHkDU) | [Alexander Borodin](https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I), [Lucerne String Quartet](https://open.spotify.com/artist/5630saykRCxtNjIO8GZSOz) | [Borodin: String Quartet No\. 2 \- Shostakovich: String Quartet No\. 8](https://open.spotify.com/album/0o1yO7sfhz0SAVzdj63VJS) | 7:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Ope5RE4ePQ.md) - [plain]
 | 69 | [The Phantom of the Opera: Overture](https://open.spotify.com/track/7mZFYTDSIvDPBY8w0EJMUc) | [Prague Cello Quartet](https://open.spotify.com/artist/5GeMh4YY04Q71E55hL6D9A) | [Broadway](https://open.spotify.com/album/5WjFyMbVOxXY8cHOfFOqdF) | 3:17 |
 | 70 | [Run](https://open.spotify.com/track/7yUukIX492jvLR85xYQkvc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:32 |
 
-Snapshot ID: `MCwxYzQ0NzYwMDRiYzE1MDE2NTU5ODI2ZWZhMWJkNWE5ZjBiNWQ4YTA5`
+Snapshot ID: `MCwzMjk5MmFhYThjM2QxYWMxNjQ4MTQ0OTJjZDNiZTllMzlkYTk1MGRm`

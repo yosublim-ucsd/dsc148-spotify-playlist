@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Joell , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Short Round , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1102,6 +1102,24 @@
       "duration_ms": 230400,
       "name": "Aur Kya (Chapter 2)",
       "url": "https://open.spotify.com/track/1876jQ2EY9O28i5yg0nady"
+    },
+    {
+      "album": {
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/03Q9m2weVw0DxCelzZYIlB"
+      },
+      "artists": [
+        {
+          "name": "Suryansh",
+          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/3jxTsyeGnT8YlPMES32nXg"
     },
     {
       "album": {
@@ -2403,6 +2421,28 @@
     },
     {
       "album": {
+        "name": "Chal Chale",
+        "url": "https://open.spotify.com/album/6SSXOlMQyoWrrun4Gl8qWr"
+      },
+      "artists": [
+        {
+          "name": "Hardik Bhardwaj",
+          "url": "https://open.spotify.com/artist/0FEwwiR5oKTnBizgxIOY7K"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242307,
+      "name": "Chal Chale",
+      "url": "https://open.spotify.com/track/5OkmlqLdDiXxmvDC9t8JNY"
+    },
+    {
+      "album": {
         "name": "Chal Chalein",
         "url": "https://open.spotify.com/album/2nUESFaT6IBYsb4XKXeC7K"
       },
@@ -3322,7 +3362,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 201596,
       "name": "Dil Khaali",
       "url": "https://open.spotify.com/track/74LVmGKVgpyOpSiiazeUNL"
@@ -4444,7 +4484,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 275593,
       "name": "Floating",
       "url": "https://open.spotify.com/track/3G5m7fql0Jwi3JN6ynnVvv"
@@ -4912,6 +4952,24 @@
       "duration_ms": 286535,
       "name": "Gumshuda ki Talaash",
       "url": "https://open.spotify.com/track/2sqinCkMH0s95saWmrvQo0"
+    },
+    {
+      "album": {
+        "name": "Gumsum",
+        "url": "https://open.spotify.com/album/3Wyz0NuatgyIfFhXjNMs3q"
+      },
+      "artists": [
+        {
+          "name": "Vaishnavi Shingane",
+          "url": "https://open.spotify.com/artist/5fTKKLGEEbq53v6So3xgw7"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145927,
+      "name": "Gumsum",
+      "url": "https://open.spotify.com/track/0v20x1Yig5Co1VZOCLJbU7"
     },
     {
       "album": {
@@ -6078,7 +6136,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 200724,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
@@ -6405,6 +6463,28 @@
     },
     {
       "album": {
+        "name": "Jaane Kyun (Reimagined)",
+        "url": "https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW"
+      },
+      "artists": [
+        {
+          "name": "Reena Gilbert",
+          "url": "https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0"
+        },
+        {
+          "name": "Keshuv Huria",
+          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218763,
+      "name": "Jaane Kyun (Reimagined)",
+      "url": "https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH"
+    },
+    {
+      "album": {
         "name": "Jaane Phirse Kaise",
         "url": "https://open.spotify.com/album/1o8yd53aFC521hUKZCK52Y"
       },
@@ -6614,6 +6694,24 @@
       "duration_ms": 180800,
       "name": "Jannat",
       "url": "https://open.spotify.com/track/2ZphNIcogHnUFbGACH9GQK"
+    },
+    {
+      "album": {
+        "name": "Jashn",
+        "url": "https://open.spotify.com/album/30vKbJ7IGqCQgl5dBPAiFM"
+      },
+      "artists": [
+        {
+          "name": "Roshan Bhat",
+          "url": "https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Jashn",
+      "url": "https://open.spotify.com/track/5QTpBl1X9WFvntRYw1c6mA"
     },
     {
       "album": {
@@ -7276,7 +7374,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 226285,
       "name": "kahaani",
       "url": "https://open.spotify.com/track/3EER6QKtcVG47HM0dyFztK"
@@ -7444,7 +7542,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 302448,
       "name": "Kahin Duur",
       "url": "https://open.spotify.com/track/23tYMxghqCY59uRIAjlG7l"
@@ -7976,6 +8074,24 @@
       "duration_ms": 166707,
       "name": "Khwaabon",
       "url": "https://open.spotify.com/track/4uP0X4Q6RpUlQpbLwVpZAC"
+    },
+    {
+      "album": {
+        "name": "Khwahishein",
+        "url": "https://open.spotify.com/album/4OiJwmxyhzKvXnZB4JqB53"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Kapoor",
+          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Khwahishein",
+      "url": "https://open.spotify.com/track/0RZ6TjIvdmsM3vL13Lke2P"
     },
     {
       "album": {
@@ -8687,6 +8803,24 @@
     },
     {
       "album": {
+        "name": "The Heart Of It",
+        "url": "https://open.spotify.com/album/3249ITG3Tt0BJmCopi4OXg"
+      },
+      "artists": [
+        {
+          "name": "Short Round",
+          "url": "https://open.spotify.com/artist/3DpQek7q8k2NE0QHOPwkHq"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219556,
+      "name": "Losing Streak (Bombs Away)",
+      "url": "https://open.spotify.com/track/1FFBaU01mjDSjLuCQ4IGCp"
+    },
+    {
+      "album": {
         "name": "Lost (Acoustic)",
         "url": "https://open.spotify.com/album/0bNpS1mjr0ygrxHuCYcteC"
       },
@@ -9284,7 +9418,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 265881,
       "name": "Maula Mere",
       "url": "https://open.spotify.com/track/1JHcOGyKs5i3qp9fOI2KIh"
@@ -14359,6 +14493,24 @@
     },
     {
       "album": {
+        "name": "Tere Peeche Hum",
+        "url": "https://open.spotify.com/album/707edPWLu2JHdUGwVGAZAh"
+      },
+      "artists": [
+        {
+          "name": "Madduri Hemant",
+          "url": "https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194336,
+      "name": "Tere Peeche Hum",
+      "url": "https://open.spotify.com/track/266ywrPdv5oGrVyCTnypap"
+    },
+    {
+      "album": {
         "name": "Tere Sheher",
         "url": "https://open.spotify.com/album/3I1uYjS4qjsWhCldoDWwNL"
       },
@@ -14728,7 +14880,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 179217,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/0WewkJyf62NLbBR8xmhFXj"
@@ -15444,7 +15596,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 174078,
       "name": "Tumble",
       "url": "https://open.spotify.com/track/0OtVXnz2McJuVlRZbrfOlZ"
@@ -15746,6 +15898,28 @@
       "duration_ms": 193125,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/0rJC86v7FeFJAN6lQUmNaL"
+    },
+    {
+      "album": {
+        "name": "Usey Le Gaye",
+        "url": "https://open.spotify.com/album/3Sx0T2iSDA6Ai0jv9L5ytU"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        },
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225535,
+      "name": "Usey Le Gaye",
+      "url": "https://open.spotify.com/track/1D0RV2WoRhdgmFkpTby25W"
     },
     {
       "album": {
@@ -16872,7 +17046,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 258571,
       "name": "You're Alright",
       "url": "https://open.spotify.com/track/24tCoU9TN4HTTQ1ShgoeLi"

@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 9844,
+  "num_followers": 9885,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWE1MWQ1NTI3ZGNjMDhiMjlkMzYxYWE3NzY0NDdhMzg0NzY0ODdl",
+  "snapshot_id": "MCxkZDdmMzA1ZTgzODJhMjFhNmZkNTZhOGU1YmQ0M2Q2NGNhMWRlNjcz",
   "tracks": [
     {
       "added_at": "2023-07-17 06:13:02",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-07-17 06:13:02",
       "album": {
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+      },
+      "artists": [
+        {
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+        }
+      ],
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+    },
+    {
+      "added_at": "2023-07-17 06:13:02",
+      "album": {
         "name": "babyblue",
         "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 171866,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
-    },
-    {
-      "added_at": "2023-07-17 06:13:02",
-      "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2023-07-17 06:13:02",

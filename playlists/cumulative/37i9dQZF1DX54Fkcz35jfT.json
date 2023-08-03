@@ -1132,7 +1132,7 @@
     {
       "album": {
         "name": "GOLD IMPRINTS",
-        "url": "https://open.spotify.com/album/4AErChQhfmBOvOpIfOldWe"
+        "url": "https://open.spotify.com/album/0eDi7dISTenhez8VO3Ndqp"
       },
       "artists": [
         {
@@ -1143,6 +1143,24 @@
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 214905,
+      "name": "Pushing My Back",
+      "url": "https://open.spotify.com/track/0s7J452ViFJuFjbQW4wOpB"
+    },
+    {
+      "album": {
+        "name": "GOLD IMPRINTS",
+        "url": "https://open.spotify.com/album/4AErChQhfmBOvOpIfOldWe"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
       "duration_ms": 214905,
       "name": "Pushing My Back",
       "url": "https://open.spotify.com/track/553wRdV1xctce0VRF3WSC1"

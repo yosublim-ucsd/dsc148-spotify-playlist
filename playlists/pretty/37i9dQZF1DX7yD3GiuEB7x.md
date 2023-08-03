@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,794 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,819 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 24 | [Don't Light My Fire](https://open.spotify.com/track/4uuRFwokX9R4hnOWbreDga) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Eclipse](https://open.spotify.com/album/0xdi6wxVs5meuEVWQxQg0Z) | 3:29 |
 | 25 | [Intro](https://open.spotify.com/track/274guDyoYt7KEtjvYxOTvn) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 1:31 |
 | 26 | [Odd Eye](https://open.spotify.com/track/1RtlbxsPpDBsHHmGTb7ah2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:04 |
-| 27 | [바람아 \(Wind Blows\)](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 |
+| 27 | [Wind Blows](https://open.spotify.com/track/2GOVhdRm7EqSk8k1STWv2x) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:17 |
 | 28 | [Poison Love](https://open.spotify.com/track/4ZEGLJC0LZUJGoTB6UU2QX) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:57 |
 | 29 | [4 Memory](https://open.spotify.com/track/0j7ER3WEUPsrj46nSk8KV3) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:08 |
 | 30 | [시간의 틈 \(New days\)](https://open.spotify.com/track/6SPEL89GtDGf1LoZaYLnUr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:31 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 54 | [Silent Night \- Japanese Ver.](https://open.spotify.com/track/2lHeCDCvUXDVi0jm61WanJ) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:20 |
 | 55 | [Intro](https://open.spotify.com/track/7MDEEeDMmVUqk9gPDGghzH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 1:31 |
 | 56 | [데자부 \(Deja Vu\)](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 |
-| 57 | [거미의 저주 \(The curse of the Spider\)](https://open.spotify.com/track/3HkColMqZTyFoSENauFqBk) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:10 |
+| 57 | [The curse of the Spider](https://open.spotify.com/track/2j8m29w5AzF9P6b0sYI6H4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:10 |
 | 58 | [Silent Night](https://open.spotify.com/track/6OrYF7BHkbsfhxEMQfwBvV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:18 |
 | 59 | [북극성 \(Polaris\)](https://open.spotify.com/track/33cXBJLWBnVdHRAaODd8LI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:53 |
 | 60 | [Piri \~ Fue wo Fuke \~ \- Japanese Ver.](https://open.spotify.com/track/4EmKUn4A6Bnq0QWepjCknK) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Piri \~ Fue wo Fuke \~ \(Japanese Ver.\)](https://open.spotify.com/album/6Vkevwb7znCzge19yw9KdB) | 3:28 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 63 | [Intro](https://open.spotify.com/track/2U2fd8W8mApZsWtCFIYR3Z) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 1:06 |
 | 64 | [PIRI](https://open.spotify.com/track/38dgtl73zn8VYh7VOCvs69) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:26 |
 | 65 | [Diamond](https://open.spotify.com/track/1QvO3e8hAARNbCQUZ3prPL) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:21 |
-| 66 | [그리고 아무도 없었다](https://open.spotify.com/track/584e17zySNmvOd1iG57zxF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 2:52 |
+| 66 | [And there was no one left](https://open.spotify.com/track/7x7oMQFwYsKIQUY2Xeeejp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 2:52 |
 | 67 | [Daydream](https://open.spotify.com/track/6MuYZSWPFpeGCW6rJdffOi) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 3:32 |
-| 68 | [하늘을 넘어](https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [하늘을 넘어](https://open.spotify.com/album/2HIt0M2VOzDrWL3W9tNcbu) | 3:17 |
+| 68 | [Over the Sky](https://open.spotify.com/track/0TX94kVRGQQw0APDMPfUxT) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Over the Sky](https://open.spotify.com/album/0jNEkUOVUM3SgSNCwfGENk) | 3:17 |
 | 69 | [What \- Japanese Ver.](https://open.spotify.com/track/3CE9A0gj8EqAcN73sGZNUs) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [What \(Japanese Ver.\)](https://open.spotify.com/album/7D25Rbrrl6rQ0lPvG9ZueW) | 3:28 |
 | 70 | [Chase Me \- Japanese Ver.](https://open.spotify.com/track/6rt1PbkgkNxn0t34K0IU0T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [What \(Japanese Ver.\)](https://open.spotify.com/album/7D25Rbrrl6rQ0lPvG9ZueW) | 3:11 |
 | 71 | [I Miss You](https://open.spotify.com/track/4bttuoEi7aI5PC7ZWVzN3w) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [What \(Japanese Ver.\)](https://open.spotify.com/album/7D25Rbrrl6rQ0lPvG9ZueW) | 3:06 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yD3GiuEB7x.md) - [plain]
 | 104 | [Chase Me](https://open.spotify.com/track/2KH7ZhZs01rJOIVvuUNFbo) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:09 |
 | 105 | [Emotion](https://open.spotify.com/track/0dCdQvk03zbYUXpoEEFJCl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [악몽](https://open.spotify.com/album/2BIlGYqHZqWuI6GqwXd22t) | 3:43 |
 
-Snapshot ID: `MCxiODgxZjkxYWM4NTQxNmZkZDRiZTMwMWE2MDA3ZDQ2ZGVjNzEyYTEz`
+Snapshot ID: `MCw4MzJiMzNmOWY2YzE2YzQwOTI4YzU3MmQ4Y2E0NzNkZTM3ZmFkOGQ2`

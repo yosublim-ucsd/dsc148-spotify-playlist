@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=BEkpM7ZITmuFksyFi7qa1A">Tyla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,114 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,159 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 71 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 |
 | 72 | [Lock It Down](https://open.spotify.com/track/7EBsJZyt5DKvIsgEsIz6Gb) | [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Lock It Down](https://open.spotify.com/album/101dDvYka9Q459BvinL7Ih) | 2:57 |
 
-Snapshot ID: `MCxjMDA4MzFkYmZjNDIxOGQwM2YxOGNkNmJjMTgyZTkxMGI4OTEzNzdj`
+Snapshot ID: `MCwwMWI5MWE1MDlmZjQxYzBlNjY2YmQzNTJkYzc5NDY0MmVkNjM5MmFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Quavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,410 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,696 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [My Image](https://open.spotify.com/track/7KkNO3y61CXpN1g7qBkg8N) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [My Image](https://open.spotify.com/album/1GQVXe1zAxDTOkBe1m2ehw) | 3:10 |
 | 50 | [WISH I COULD TELL YOU](https://open.spotify.com/track/4VkyknxFWgVYBeoEoUJ3k6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM) | [WISH I COULD TELL YOU](https://open.spotify.com/album/1DFuFMe8nuWMT0JivZrFq0) | 2:56 |
 
-Snapshot ID: `MCxmZGRiNTBjMmJlZjhhOGIzZDA0YjhkYjQ0ODdiZjdlYmEzNWNlYWI2`
+Snapshot ID: `MCxkYjYzZDBhODYzYjk2ZTc3N2VkZTc4NWM5MGM1NjY0MzMxOGIwNWY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,020 likes - 293 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,044 likes - 293 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,4 +302,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 292 | [Radiant](https://open.spotify.com/track/5WAuzGamm8rl9rY0ZxTZ5h) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Radiant](https://open.spotify.com/album/7eOhUnQ92WaJvaPo0khuLw) | 1:59 |
 | 293 | [Tu me donne de la force](https://open.spotify.com/track/69ZVTxad3rNnwZPwMOk9yX) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Tu me donne de la force](https://open.spotify.com/album/5UgRWAzUPftuejgEhpjdM8) | 2:16 |
 
-Snapshot ID: `MCw5NjA4NDA3YThiMDhlNjYyMzM0ZDZmM2U3M2Q4NGY5NTU0NzZiZGFj`
+Snapshot ID: `MCxjYjg0ZTM4ZGU0ZGNhZDg0MWFmMmYxY2FkNjhhMzFmYWI1ZGZiM2Rl`

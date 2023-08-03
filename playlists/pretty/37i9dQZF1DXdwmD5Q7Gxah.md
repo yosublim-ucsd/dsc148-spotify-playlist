@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Lorem 🤝 Bleached\. Ft our favorite tracks from the festival's artists + new releases in the Lorem world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,692 likes - 105 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,100,059 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 104 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 |
 | 105 | [Backwards Directions](https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Backwards Directions](https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF) | 3:07 |
 
-Snapshot ID: `MCw0NTc5N2E2MWY1NzEzOTUzYzdkODJhZTQ4ODdjY2IwNTMyOGFkMWIy`
+Snapshot ID: `MCxhMDEwY2FhMWFmNjJiNDM0MjUwZTRjMTgxNDg1MDkzZDZlOThiZmNm`

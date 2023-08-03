@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Ruger
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,611 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,666 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Du Yeye](https://open.spotify.com/track/5C95P8WdZXKWMS23hhior0) | [La Famax](https://open.spotify.com/artist/3Ii7kCftek6SPKPEZx3GYE) | [Rétro](https://open.spotify.com/album/4MsxRqiIlAvYLVgNT1AVp1) | 2:41 |
 | 50 | [Babyjet](https://open.spotify.com/track/6GNugjWdqd1eZQYDTyE5ch) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Ik Zie Je](https://open.spotify.com/album/6ih8KxlsA7M5a2gWikbPWP) | 3:40 |
 
-Snapshot ID: `MCw1OWFiNDQxMTBiMmNjNGYyZTE5MThkMTM3YTlmOTBhZTk2NzkwODBl`
+Snapshot ID: `MCw5N2Q5Yjk3ZjhhZjZhNDcyMjZmMTU2MzNlMDcyOWUxZGQwNGM5ZWY5`

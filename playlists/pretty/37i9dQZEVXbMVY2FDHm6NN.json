@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Taiwan.",
-  "num_followers": 27425,
+  "num_followers": 27472,
   "original_name": "Top Songs - Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQ0MjU1MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQ0MzQxNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
       "added_at": "2023-07-28 09:45:39",
@@ -592,8 +592,8 @@
       },
       "artists": [
         {
-          "name": "\u5bb9\u7956\u5152(Joey Yung)",
-          "url": "https://open.spotify.com/artist/4yKzoTce35C0nxbp2icxFE"
+          "name": "Joey Yung",
+          "url": "https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA"
         }
       ],
       "duration_ms": 254117,

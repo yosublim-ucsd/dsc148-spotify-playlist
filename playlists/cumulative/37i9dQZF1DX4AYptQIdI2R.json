@@ -550,10 +550,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 208787,
       "name": "Face",
       "url": "https://open.spotify.com/track/5Z9I7qD6pPsAyWMBZTnjAw"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208787,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/5sAuJgcO45I2Y3F5CAowAe"
     },
     {
       "album": {
@@ -2578,6 +2596,24 @@
     {
       "album": {
         "name": "7 for 7",
+        "url": "https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189378,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/00epHVn0WOaXiT3UhpIINp"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
         "url": "https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy"
       },
       "artists": [
@@ -2606,7 +2642,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 189378,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ"
@@ -3144,10 +3180,28 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 200663,
       "name": "You Are",
       "url": "https://open.spotify.com/track/0onCsNOWfUMt1ERQ0TI9Zt"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200663,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5THFfbp23EcJsygTyiBDzJ"
     },
     {
       "album": {

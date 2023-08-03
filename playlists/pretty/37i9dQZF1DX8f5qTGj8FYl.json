@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 346527,
+  "num_followers": 346667,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjU5ZjZlZWY0Y2U4MWM3YzM5OGJiMzZmOTM0MDNkNGMwNmI2NDNi",
+  "snapshot_id": "MCwzNGJmZTk2M2NhMTAxZDg5NjczODI2MGRjNWZlNDZmNGU2MDBmYWM0",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "End Of The World Party (Just In Case)",
-        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
-      },
-      "artists": [
-        {
-          "name": "Medeski, Martin & Wood",
-          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Shine It",
-      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
-    },
-    {
       "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "The Grid Generation",
@@ -95,6 +79,22 @@
       "duration_ms": 285680,
       "name": "The Grid Generation",
       "url": "https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "End Of The World Party (Just In Case)",
+        "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
+      },
+      "artists": [
+        {
+          "name": "Medeski, Martin & Wood",
+          "url": "https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "Shine It",
+      "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "The Vice Yard",
-      "url": "https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/5Tp94nlIqgi6933CP5zoG8"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "The Vice Yard",
+      "url": "https://open.spotify.com/track/3H47SylMu2eMbc5WLZThPm"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Bacano",
-        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
+        "name": "The Shakedown",
+        "url": "https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "Speedometer",
+          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
         }
       ],
-      "duration_ms": 309092,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
+      "duration_ms": 201680,
+      "name": "Rubberneck",
+      "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Shakedown",
-        "url": "https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr"
+        "name": "Bacano",
+        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
       },
       "artists": [
         {
-          "name": "Speedometer",
-          "url": "https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Rubberneck",
-      "url": "https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc"
+      "duration_ms": 309092,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Maze of Sounds",
         "url": "https://open.spotify.com/album/6WWbQkQAv3YczhH34I3fv6"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 428047,
       "name": "Tha Boogee",
       "url": "https://open.spotify.com/track/2moo0ESu4dQjHAcUbnEEfm"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Tej b/w Short Shrift",
-        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
-      },
-      "artists": [
-        {
-          "name": "The So Ons",
-          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
-        }
-      ],
-      "duration_ms": 328433,
-      "name": "Tej",
-      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
-    },
-    {
       "added_at": "2021-01-29 05:01:00",
       "album": {
         "name": "I Told You So",
@@ -711,6 +695,22 @@
       "duration_ms": 274853,
       "name": "Hole In One",
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Tej b/w Short Shrift",
+        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
+      },
+      "artists": [
+        {
+          "name": "The So Ons",
+          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
+        }
+      ],
+      "duration_ms": 328433,
+      "name": "Tej",
+      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/1AvimDFJoOVRv6feqjsE5p"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Fried Soul",
@@ -875,6 +859,22 @@
       "duration_ms": 216699,
       "name": "Fried Soul",
       "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/2OIuUCT4X13OZg9tblSQHf"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2021-02-19 05:01:00",
@@ -957,20 +957,20 @@
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Prospect Park West",
-        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
+        "name": "We Are All Shining Stars",
+        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
       },
       "artists": [
         {
-          "name": "Jerry McHoy",
-          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
         }
       ],
-      "duration_ms": 176184,
-      "name": "Prospect Park West",
-      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+      "duration_ms": 198966,
+      "name": "Everybody's Inn",
+      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -989,20 +989,20 @@
       "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-07-08 04:02:00",
       "album": {
-        "name": "We Are All Shining Stars",
-        "url": "https://open.spotify.com/album/3kTEb0hcYGBRtOFIadpjXK"
+        "name": "Prospect Park West",
+        "url": "https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ"
       },
       "artists": [
         {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+          "name": "Jerry McHoy",
+          "url": "https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf"
         }
       ],
-      "duration_ms": 198966,
-      "name": "Everybody's Inn",
-      "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+      "duration_ms": 176184,
+      "name": "Prospect Park West",
+      "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2021-05-28 04:00:00",
       "album": {
         "name": "Getaway Car",
@@ -1087,6 +1071,22 @@
       "duration_ms": 208384,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
       "added_at": "2021-12-24 05:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Jeff Franca",
-          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Permission to Land - 45",
-      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Groove Cubed",
         "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
@@ -1211,6 +1191,26 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Jeff Franca",
+          "url": "https://open.spotify.com/artist/283nM4qq83QsqRLbSz3iAl"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Permission to Land - 45",
+      "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Funkedemia",
         "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
       },
@@ -1223,6 +1223,22 @@
       "duration_ms": 133381,
       "name": "Funkedemia",
       "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Hot Chicken",
+        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
+      },
+      "artists": [
+        {
+          "name": "DLG 3",
+          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Hot Chicken",
+      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 317000,
       "name": "Couple A Brownies",
       "url": "https://open.spotify.com/track/6MPy26h9zPjTYRGV9sYXQO"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Hot Chicken",
-        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
-      },
-      "artists": [
-        {
-          "name": "DLG 3",
-          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Hot Chicken",
-      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
       "added_at": "2022-02-25 05:02:00",

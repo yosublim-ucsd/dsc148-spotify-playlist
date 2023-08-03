@@ -1,12 +1,12 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cure",
-  "num_followers": 1199870,
+  "num_followers": 1200240,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTgxMzYxY2UyY2YzOTA3YThhOGNhMjM1YTM2NzBmZjg2ODc2MWIz",
+  "snapshot_id": "MCxmMzQ0MWY5MjVlYzUwNmE1NTg0ZmI1OTI3Zjc3ZTYxNWJmMTZjM2Jj",
   "tracks": [
     {
       "added_at": "2023-01-10 13:44:13",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
         "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 134200,
       "name": "Lump",
       "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "Stoosh",
-        "url": "https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Hedonism (Just Because You Feel Good)",
-      "url": "https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Amplified Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Vq4bI3MkIfa1HWlkt9Ud2"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 247200,
       "name": "Missing - 2013 Remaster",
       "url": "https://open.spotify.com/track/79dD64QT2l64W12VkPGjvZ"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "Stoosh",
+        "url": "https://open.spotify.com/album/4S7eZrznxAyzv8IaoztDDR"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Hedonism (Just Because You Feel Good)",
+      "url": "https://open.spotify.com/track/2qRZm3cGCUPK40j3g0G5cN"
     },
     {
       "added_at": "2022-09-29 15:49:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-09-29 15:49:26",
       "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Do You Remember The First Time?",
-      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
-    },
-    {
-      "added_at": "2022-09-29 15:49:26",
-      "album": {
         "name": "Murder Ballads (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 237080,
       "name": "Where the Wild Roses Grow - 2011 - Remaster",
       "url": "https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk"
+    },
+    {
+      "added_at": "2022-09-29 15:49:26",
+      "album": {
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Do You Remember The First Time?",
+      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
     }
   ],
   "unique_name": "Alternative 90s",

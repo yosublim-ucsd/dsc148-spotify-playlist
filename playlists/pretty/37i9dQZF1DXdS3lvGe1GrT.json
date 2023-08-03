@@ -1,13 +1,141 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Cinder Well | Visual Artist: Bailey Elder",
-  "num_followers": 42893,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Allegra Krieger | Visual Artist: Bailey Elder",
+  "num_followers": 43210,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzQ1MjBjMzhjN2Y3OTBmNWJlM2Y0ZTkwZDAzM2JhYWNiNGNlMDQz",
+  "snapshot_id": "MCwwODg2ZTU4ZjM2ZDA1NjNmNjA3NjU4ZjVmM2NjOGM1NDJmZDE5ZjJl",
   "tracks": [
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Motel Blues",
+        "url": "https://open.spotify.com/album/0W8qyUVcOBGmeC4bVec1TV"
+      },
+      "artists": [
+        {
+          "name": "Ella Hunt",
+          "url": "https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT"
+        }
+      ],
+      "duration_ms": 183995,
+      "name": "Motel Blues",
+      "url": "https://open.spotify.com/track/4icgk39xfvIhOhWqtRXgP3"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Killer Line",
+        "url": "https://open.spotify.com/album/2wWOcYEk8biEvndff06WXk"
+      },
+      "artists": [
+        {
+          "name": "Rachel Sermanni",
+          "url": "https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk"
+        }
+      ],
+      "duration_ms": 230138,
+      "name": "Killer Line",
+      "url": "https://open.spotify.com/track/3pxQXw1cHlXEbMulMyEOFf"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Tomato Cheeks",
+        "url": "https://open.spotify.com/album/3vxR8IIZhzft8DZiN2lmDi"
+      },
+      "artists": [
+        {
+          "name": "Lunar Ash",
+          "url": "https://open.spotify.com/artist/7iPGIxDtjpECWMj1woQma1"
+        }
+      ],
+      "duration_ms": 240330,
+      "name": "Tomato Cheeks",
+      "url": "https://open.spotify.com/track/2nL6ptyJUpSSEJskr4Bk86"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/59cVvw6WZjjSOjnu01SXYj"
+      },
+      "artists": [
+        {
+          "name": "Jobi Riccio",
+          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
+        }
+      ],
+      "duration_ms": 167604,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/1P46DYGK9HcpohUwwWP6Co"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
+        "name": "I Keep My Feet on the Fragile Plane",
+        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 125199,
+      "name": "Making Sense Of",
+      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "A New Reality Mind",
+        "url": "https://open.spotify.com/album/6gWz09raxjmq1EMIPcbnFy"
+      },
+      "artists": [
+        {
+          "name": "Madeline Kenney",
+          "url": "https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN"
+        }
+      ],
+      "duration_ms": 221187,
+      "name": "Reality Mind",
+      "url": "https://open.spotify.com/track/553klLGtJCONJztTXktVF6"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "America",
+        "url": "https://open.spotify.com/album/0b1xIW7dWztT1GojR9KghJ"
+      },
+      "artists": [
+        {
+          "name": "Cara Hammond",
+          "url": "https://open.spotify.com/artist/6kVzFxVpG66n3Tw4fVIM4F"
+        }
+      ],
+      "duration_ms": 231415,
+      "name": "America",
+      "url": "https://open.spotify.com/track/01e2cjd4QNdEHrF0Z8LTLb"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/4n1WUNNrO4IFiAve2AzXZl"
+      },
+      "artists": [
+        {
+          "name": "Mariah Odyssey",
+          "url": "https://open.spotify.com/artist/1wU7DUkNXSRCM5jvO5mthV"
+        }
+      ],
+      "duration_ms": 177918,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3hjmwXyfWcOVw6koezqigf"
+    },
     {
       "added_at": "2023-07-26 04:00:00",
       "album": {
@@ -23,6 +151,102 @@
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "hometown / heard you",
+        "url": "https://open.spotify.com/album/2idMm9h1mpesFK3dnWoyZw"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 111548,
+      "name": "heard you",
+      "url": "https://open.spotify.com/track/1JLs9Rw4FiIVqO8HgI8IjB"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Goodbye Garden",
+        "url": "https://open.spotify.com/album/6aCJ00VqlfW0O8pEP4sAHN"
+      },
+      "artists": [
+        {
+          "name": "Peter Groppe",
+          "url": "https://open.spotify.com/artist/6acVRuS3iyAQH9LXDrsRL5"
+        }
+      ],
+      "duration_ms": 250489,
+      "name": "Goodbye Garden",
+      "url": "https://open.spotify.com/track/4vOHXnVyG76Oq1fCkkzY3W"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "The Swimming Song",
+        "url": "https://open.spotify.com/album/59wQG1WiA0PQIMVSB387VO"
+      },
+      "artists": [
+        {
+          "name": "Melanie MacLaren",
+          "url": "https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF"
+        }
+      ],
+      "duration_ms": 150302,
+      "name": "The Swimming Song",
+      "url": "https://open.spotify.com/track/5XwZMn0v6j1NQPDv1Y0GGP"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Flowers in the Desert",
+        "url": "https://open.spotify.com/album/6JVdXW7ThZqU2pg8qL2GUA"
+      },
+      "artists": [
+        {
+          "name": "Drew Erwin",
+          "url": "https://open.spotify.com/artist/2375stUa3UNtEAGG0F5XBc"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "Flowers in the Desert",
+      "url": "https://open.spotify.com/track/0fNklgaxj7lySQtsXL9hTC"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "bowl of oranges + lua",
+        "url": "https://open.spotify.com/album/0ZkNlVvd9jzrsid1h5Gd7c"
+      },
+      "artists": [
+        {
+          "name": "Okay Alright",
+          "url": "https://open.spotify.com/artist/6G9kPlmHYzGrFUYndWG6dh"
+        }
+      ],
+      "duration_ms": 264870,
+      "name": "lua",
+      "url": "https://open.spotify.com/track/4lMucqPvOxJbMPiVkpMMyy"
+    },
+    {
+      "added_at": "2023-08-02 14:07:50",
+      "album": {
+        "name": "Dais",
+        "url": "https://open.spotify.com/album/1RT8Df29Iw5SvrVNmgP0yx"
+      },
+      "artists": [
+        {
+          "name": "Mountain Boy",
+          "url": "https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Dais",
+      "url": "https://open.spotify.com/track/3pQ56F8SzDl0P2kHOvStWY"
     },
     {
       "added_at": "2023-07-26 04:00:00",
@@ -55,22 +279,6 @@
       "duration_ms": 265430,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5Doo36g667KqGPU8J3ijzW"
-    },
-    {
-      "added_at": "2023-07-26 04:00:00",
-      "album": {
-        "name": "I Keep My Feet on the Fragile Plane",
-        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 125199,
-      "name": "Making Sense Of",
-      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
     },
     {
       "added_at": "2023-07-26 04:00:00",
@@ -1423,230 +1631,6 @@
       "duration_ms": 285734,
       "name": "carnegie hall",
       "url": "https://open.spotify.com/track/7xAOjVo97wD5xdcHWvnxkB"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Rattlesnake Dream",
-        "url": "https://open.spotify.com/album/5tRkeh3TVIuk0cJH42f6R3"
-      },
-      "artists": [
-        {
-          "name": "Starpainter",
-          "url": "https://open.spotify.com/artist/12PMNRQFZzmXrwS3ge7qbO"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Let It Pass",
-      "url": "https://open.spotify.com/track/5G9fPEoXEtw4NSHaYjssGl"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "wonder eye",
-        "url": "https://open.spotify.com/album/0yz8JGvJBudW1KiQ392Tqa"
-      },
-      "artists": [
-        {
-          "name": "Little Moon",
-          "url": "https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp"
-        }
-      ],
-      "duration_ms": 244531,
-      "name": "wonder eye",
-      "url": "https://open.spotify.com/track/37N7VOw3uyycrCbiB8cDIa"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "To Watch The World Spin Without You",
-        "url": "https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00cea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "To Watch The World Spin Without You",
-      "url": "https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Straight Driving",
-        "url": "https://open.spotify.com/album/0XYqlktCr6PNXXH2fFDZot"
-      },
-      "artists": [
-        {
-          "name": "Joseph & Maia",
-          "url": "https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ"
-        }
-      ],
-      "duration_ms": 200652,
-      "name": "Straight Driving",
-      "url": "https://open.spotify.com/track/3v5TZOPO6er2CwiMgkwdvJ"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/1BfTVLgT2wZzGnCAEDI3kB"
-      },
-      "artists": [
-        {
-          "name": "Saint Torrente",
-          "url": "https://open.spotify.com/artist/7MROwR7y9VPGaTLLUnEHHu"
-        }
-      ],
-      "duration_ms": 147504,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/4NfZELzixCGaBOjfS1fKeA"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "emergency exit",
-        "url": "https://open.spotify.com/album/0rSRSf2vtCIILfG10NfFXp"
-      },
-      "artists": [
-        {
-          "name": "Piper Toohey",
-          "url": "https://open.spotify.com/artist/01NZrdZTVFL9c4DMtecuh1"
-        }
-      ],
-      "duration_ms": 291750,
-      "name": "emergency exit",
-      "url": "https://open.spotify.com/track/1KV4AEnxTdsLG4Gad2n9EZ"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Nothing Really Changes",
-        "url": "https://open.spotify.com/album/2l8n0ysgvPLBJz4kXUag44"
-      },
-      "artists": [
-        {
-          "name": "Slow Leaves",
-          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
-        }
-      ],
-      "duration_ms": 157781,
-      "name": "Nothing Really Changes",
-      "url": "https://open.spotify.com/track/64W1kfl7LElmefBwllY9T0"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "In Color",
-        "url": "https://open.spotify.com/album/6vr8ItKU5jUNFfcZ1Fz1fq"
-      },
-      "artists": [
-        {
-          "name": "Bombadil",
-          "url": "https://open.spotify.com/artist/6AlXfeCNG9lrauBDG7GyjM"
-        }
-      ],
-      "duration_ms": 156111,
-      "name": "Yellow Clouds",
-      "url": "https://open.spotify.com/track/29GMkdukLQ3ic2hCwWd1Zd"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "For You I'll Wait",
-        "url": "https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0"
-      },
-      "artists": [
-        {
-          "name": "harf.",
-          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
-        }
-      ],
-      "duration_ms": 235794,
-      "name": "For You I'll Wait",
-      "url": "https://open.spotify.com/track/6ju4VPjmZhm3F64pfEdi4U"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "I Might Be Gone",
-        "url": "https://open.spotify.com/album/6VKNDpDb51j3e1929qlCd4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Burlage",
-          "url": "https://open.spotify.com/artist/0H1NSRyfgFiVanCf3HQkyr"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/5khe7hDSkW7nejlrslVETt"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Carlos-by-the-Sea",
-        "url": "https://open.spotify.com/album/3NvfSRhd0JM5YpnoTAIuW9"
-      },
-      "artists": [
-        {
-          "name": "Jack Symes",
-          "url": "https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz"
-        }
-      ],
-      "duration_ms": 109253,
-      "name": "Carlos-by-the-Sea",
-      "url": "https://open.spotify.com/track/6bCPYIGkFoQCPZxGxDmWc3"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Analogue/ I Heard",
-        "url": "https://open.spotify.com/album/1EwoZdizHLkjrRoxiu9B2x"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 226164,
-      "name": "Analogue",
-      "url": "https://open.spotify.com/track/6G03vyXV3PPZCHE2hNmcTi"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Ten Hands",
-        "url": "https://open.spotify.com/album/3OwUW7eo0X90XQQlTirb9z"
-      },
-      "artists": [
-        {
-          "name": "Bells Larsen",
-          "url": "https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf"
-        }
-      ],
-      "duration_ms": 147121,
-      "name": "Ten Hands",
-      "url": "https://open.spotify.com/track/1hqhw3eirngE86hy8qKGAc"
-    },
-    {
-      "added_at": "2023-07-19 17:17:24",
-      "album": {
-        "name": "Mountain Road",
-        "url": "https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 215661,
-      "name": "Mountain Road",
-      "url": "https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi"
     }
   ],
   "unique_name": "Fresh Finds Folk",

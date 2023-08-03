@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,765 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,781 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 24 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 |
 | 25 | [Head Up!](https://open.spotify.com/track/1Mddd5h0Dp5BXYAZJ6HgFG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head Up!](https://open.spotify.com/album/6bsTkfLSauKjmnRkrSIcJ4) | 4:20 |
 | 26 | [Light](https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2), [Yu\-ri Tanaka](https://open.spotify.com/artist/4ncMVbzL2pGrGtcejiUk0r) | [Light](https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj) | 3:58 |
-| 27 | [Viva La Vida](https://open.spotify.com/track/2OwGrSOJ6kVbIR7CApbu21) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [UNTITLED](https://open.spotify.com/album/4esApqD9IaEZiquhp43muj) | 4:26 |
+| 27 | [Viva La Vida](https://open.spotify.com/track/62xr9i30Iuca9sRUmyZNPK) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [COVERMIND II](https://open.spotify.com/album/08MiQg3zXdbLxeZuE5YQyU) | 4:25 |
 | 28 | [T.H.E\. \- Instrumental](https://open.spotify.com/track/7urvwSOF8IWNynEpoQOSik) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [T.H.E\. \(Instrumental\)](https://open.spotify.com/album/4cNyNFudfHb9txaVpToJ3D) | 4:45 |
 | 29 | [Abeam](https://open.spotify.com/track/6V4RTBeWU0h4OTRAMV9k5H) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [Abeam](https://open.spotify.com/album/5gQa4AbKZcnu8blwLA5gT7) | 7:38 |
 | 30 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 |
 | 50 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 |
 
-Snapshot ID: `MCwxNzQyMDQ0ZmE5NDkwZjdiOWJkNzk2ODJmNTFkMGZhOTdhMDdlYjVh`
+Snapshot ID: `MCxkMWNmZWNhMDFiMzg3MDdjMTExMGQzMGI2OWYxZjdhM2E5YzdhNTk0`

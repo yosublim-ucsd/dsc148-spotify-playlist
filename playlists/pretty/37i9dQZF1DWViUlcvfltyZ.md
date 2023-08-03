@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. SPEAKEASY in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,114 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,124 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 2 | [Bombshell](https://open.spotify.com/track/0GJKGQDeJXSGfcDTmyWHk6) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [Bombshell](https://open.spotify.com/album/2saB71JdODZFLge41smp0K) | 3:05 |
 | 3 | [Io Non Sono Come Te](https://open.spotify.com/track/6OB6vU6UMCYTeJ3GNGAEga) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Io Non Sono Come Te](https://open.spotify.com/album/4H5jHZrJZmKGA1mKgUgnwb) | 3:06 |
 | 4 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 |
-| 5 | [Memories of Another Life](https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time / Memories Of Another Life](https://open.spotify.com/album/6wOe0POw1hh71BgjWZ5xeQ) | 3:43 |
-| 6 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
-| 7 | [±](https://open.spotify.com/track/16huDK29H89DVqCKyh4Chr) | [Lechuck](https://open.spotify.com/artist/2unAHQEq1YbxvkNJOPHct5) | [±](https://open.spotify.com/album/0RIraoNc0KQ8vTXKFukeP2) | 3:45 |
-| 8 | [Visa](https://open.spotify.com/track/0qTAPWGGIZbEWcCOdGBobH) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Visa](https://open.spotify.com/album/12wa6YY7SfSNj3i59LCxzQ) | 1:21 |
-| 9 | [BYE BYE](https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR) | [Officina011](https://open.spotify.com/artist/2hoEXGtMJgcjgIwSzvRzbK), [Acerbo](https://open.spotify.com/artist/4mUquATp0HZGr9txsE9OZa), [Petraz](https://open.spotify.com/artist/2T6E7Duwy15mxY7JBvWN7i), [Vinny](https://open.spotify.com/artist/3uovMTMDgkldB5gyea3dUU), [collaesse](https://open.spotify.com/artist/6M3AFJ7JHXJc03K2R3z2wL), [donato](https://open.spotify.com/artist/4thYdzPvyqxuVPhUajdqIG), [DJT](https://open.spotify.com/artist/5YwukRXliqHCDC1sZBQSrl) | [BYE BYE](https://open.spotify.com/album/0IlThQ5a3NlzUWV1dmmJgo) | 2:51 |
+| 5 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 |
+| 6 | [Memories of Another Life](https://open.spotify.com/track/5OSZz2DRRgpBbKGpfsdiKA) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time / Memories Of Another Life](https://open.spotify.com/album/6wOe0POw1hh71BgjWZ5xeQ) | 3:43 |
+| 7 | [Sei in un paese meraviglioso](https://open.spotify.com/track/0BaYBfrLf4IwcRQInvXOkF) | [Giancane](https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B) | [Sei in un paese meraviglioso](https://open.spotify.com/album/1xKqyu6wKTq616wD3zxLuW) | 3:20 |
+| 8 | [±](https://open.spotify.com/track/16huDK29H89DVqCKyh4Chr) | [Lechuck](https://open.spotify.com/artist/2unAHQEq1YbxvkNJOPHct5) | [±](https://open.spotify.com/album/0RIraoNc0KQ8vTXKFukeP2) | 3:45 |
+| 9 | [Visa](https://open.spotify.com/track/0qTAPWGGIZbEWcCOdGBobH) | [Santa Chiara](https://open.spotify.com/artist/4ypMT9SN8PDvScLqLcGcEU) | [Visa](https://open.spotify.com/album/12wa6YY7SfSNj3i59LCxzQ) | 1:21 |
 | 10 | [Come volevi essere](https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb) | [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Come volevi essere](https://open.spotify.com/album/16bYjHqs1R2worFGdbzSWi) | 3:40 |
-| 11 | [NON LA VEDO BENE](https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/2GEwcmYNfa9pjCY4J5Lg51) | 3:50 |
-| 12 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
-| 13 | [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIME DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 |
-| 14 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
-| 15 | [Labbra in 3D](https://open.spotify.com/track/4PZutLiwi8aGYNMK5hSpR1) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Armonia//Silenzio](https://open.spotify.com/album/43eKNmK73UjfJIosW62Kpq) | 3:25 |
+| 11 | [Strade Smarrite](https://open.spotify.com/track/3qBZZ2wyZK89zBB0cLEh2o) | [Bull Brigade](https://open.spotify.com/artist/5L5QSj7U8OMEq0T4lvrEU5) | [Strade Smarrite](https://open.spotify.com/album/1Vf70Udh78YnTe6SLUwvDw) | 3:26 |
+| 12 | [Lunedì](https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb) | [gazza](https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7) | [Lunedì](https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw) | 2:18 |
+| 13 | [BYE BYE](https://open.spotify.com/track/5iJoUukQtwJ883xshmOuAR) | [Officina011](https://open.spotify.com/artist/2hoEXGtMJgcjgIwSzvRzbK), [Acerbo](https://open.spotify.com/artist/4mUquATp0HZGr9txsE9OZa), [Petraz](https://open.spotify.com/artist/2T6E7Duwy15mxY7JBvWN7i), [Vinny](https://open.spotify.com/artist/3uovMTMDgkldB5gyea3dUU), [collaesse](https://open.spotify.com/artist/6M3AFJ7JHXJc03K2R3z2wL), [donato](https://open.spotify.com/artist/4thYdzPvyqxuVPhUajdqIG), [DJT](https://open.spotify.com/artist/5YwukRXliqHCDC1sZBQSrl) | [BYE BYE](https://open.spotify.com/album/0IlThQ5a3NlzUWV1dmmJgo) | 2:51 |
+| 14 | [NON LA VEDO BENE](https://open.spotify.com/track/7lrHF3JySnppUrrs4qBVa0) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F), [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Ansia Capitale \(Deluxe\)](https://open.spotify.com/album/2GEwcmYNfa9pjCY4J5Lg51) | 3:50 |
+| 15 | [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIME DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 |
 | 16 | [sanguino](https://open.spotify.com/track/4kQhL1adPsW5kKTORVdZA4) | [Porpora](https://open.spotify.com/artist/2FUNKcLYXzzgrQmxeSD6LN) | [sanguino](https://open.spotify.com/album/1eGCDgJO0MIxMQqbiWdfEf) | 2:26 |
 | 17 | [Vento Triste](https://open.spotify.com/track/2jJEohR7Rxov9pb0qaLEe1) | [Spirito Di Lupo](https://open.spotify.com/artist/0XSkDAZ3BpvIpAnFSEfxvC) | [Vedo La Tua Faccia Nei Giorni Di Pioggia](https://open.spotify.com/album/5SKFyA8AeGpSVZFJoAJq1g) | 2:46 |
 | 18 | [Il Ritorno \(feat\. Meganoidi\)](https://open.spotify.com/track/3wyr7X4CkSiOzwM1UZlPe5) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [Meganoidi](https://open.spotify.com/artist/0hE20Z0HAEHnVHM0v84MVR) | [Lunganotte](https://open.spotify.com/album/26GDVWVImp4k4bbBuZKZFc) | 3:42 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 50 | [Radio](https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Radio](https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o) | 2:44 |
 | 51 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 |
 
-Snapshot ID: `MCwwNWU2ZWY3YWE5MGVkOWY2MWQ1MzAwNzFhZjlkNGM2OTFhZTRjY2Fj`
+Snapshot ID: `MCwyNmFhNGRmMjQzZjQ0ZjJiMWIzMGM2MWEzMTJmY2E0NGI1NjQ2Nzc0`

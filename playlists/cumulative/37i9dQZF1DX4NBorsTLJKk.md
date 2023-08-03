@@ -4,7 +4,7 @@
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-149 songs - 10 hr 39 min
+150 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [兩人雨天](https://open.spotify.com/track/6Y5XpgfG1087RYlw7osjXv) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [一萬小時](https://open.spotify.com/album/4c6VrVKWM402LdpIiDafDH) | 4:46 | 2021-11-22 | 2022-07-24 |
 | [冬季到台北來看雨](https://open.spotify.com/track/1ABqZnAkbrJ2m4xyVdDR9y) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [我看見的世界](https://open.spotify.com/album/50A7MTR8Qw3gPz4rLphCk2) | 3:45 | 2021-11-22 |  |
 | [冬季到台北來看雨](https://open.spotify.com/track/224L0XKBYRySkeIXdayVLE) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno), [James Yang](https://open.spotify.com/artist/7b86tz9K3tvnswOCPt4n58) | [我看見的世界](https://open.spotify.com/album/6jyKXhF8ZgXIBKAeRuYK3P) | 3:45 | 2021-11-22 | 2022-07-29 |
-| [冬季到台北來看雨](https://open.spotify.com/track/5wcl9XKeA9JlQ90w1yd3wO) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [孟庭葦鑽石精選集](https://open.spotify.com/album/17pP3yyViksj87gwX8kICu) | 5:04 | 2021-11-22 |  |
+| [冬季到台北來看雨](https://open.spotify.com/track/5wcl9XKeA9JlQ90w1yd3wO) | [孟庭葦](https://open.spotify.com/artist/2Ovp3J8JzCirwcGAgvK9cQ) | [孟庭葦鑽石精選集](https://open.spotify.com/album/17pP3yyViksj87gwX8kICu) | 5:04 | 2021-11-22 | 2023-08-03 |
 | [冰雨](https://open.spotify.com/track/4N3WwdlmKij0R0fd02Ykli) | [E\-Jun Lee](https://open.spotify.com/artist/39YbP9PakVwqfXFtRdn5vI) | [翊往情深](https://open.spotify.com/album/0TKfNt0Mr56TJtBKMOPSHQ) | 4:09 | 2021-11-22 |  |
 | [分手總要在雨天](https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [等你等到我心痛精選](https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f) | 4:48 | 2021-11-22 |  |
 | [又下雨了](https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5) | [李心潔](https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub) | [第三代李心潔 \- 裙擺搖搖](https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a) | 4:43 | 2021-11-22 |  |
@@ -127,6 +127,7 @@
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-22 |  |
 | [雨中漫步 \(feat\. Polly\)](https://open.spotify.com/track/1tRmb5T439pSwUH1ImjCwd) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [Polly](https://open.spotify.com/artist/3cYDoS8wWlR3ttRBIJkqxC) | [雨中漫步 \(feat\. Polly\)](https://open.spotify.com/album/3QYtIT9ZPrsBnT3YWL6emO) | 2:32 | 2021-11-22 | 2022-07-19 |
 | [雨你](https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [Kin Lee](https://open.spotify.com/artist/0IC9cjThGaA7tg8teGugWN) | [雨你](https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC) | 3:03 | 2021-11-22 | 2023-06-12 |
+| [雨停之后 \- 网剧《在悠长的时光里等你》插曲](https://open.spotify.com/track/5k5vynDXtTgl2oOtoboUWq) | [莫非定律乐团](https://open.spotify.com/artist/4XTIJd5AGmVq8urHnuMtcO) | [在悠长的时光里等你 网络剧原声带](https://open.spotify.com/album/5d5qZUZd3Ut58qxhzx0TNo) | 4:43 | 2023-01-10 |  |
 | [雨停之後 \(網絡劇《在悠長的時光裡等你》插曲\)](https://open.spotify.com/track/5ExaLMiN88y3anmQZM2Oi9) | [莫非定律More Feel](https://open.spotify.com/artist/5GhwOMwt3cfHb5LX8cCf7j) | [《在悠長的時光里等你》網絡劇原聲帶](https://open.spotify.com/album/7oGUwwttjGTePD4ZD6NwCZ) | 4:43 | 2021-11-22 | 2022-07-29 |
 | [雨停雨下](https://open.spotify.com/track/3cM2mN3vHLpMVXQb4CzWge) | [林文荪](https://open.spotify.com/artist/0lCnaAXCVtMY2wizkUfr3F) | [最高的地方](https://open.spotify.com/album/2Ihs0bP0lAkMfVPMXETVEz) | 6:06 | 2021-11-22 | 2022-07-22 |
 | [雨和太陽](https://open.spotify.com/track/7GJxG9P2SW3peeqg29dJK0) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 3:20 | 2021-11-22 |  |

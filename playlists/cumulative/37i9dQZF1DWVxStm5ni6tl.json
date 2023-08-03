@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4IcboBgnJzyXkCiIlnbbey"
+      },
+      "artists": [
+        {
+          "name": "George Walter",
+          "url": "https://open.spotify.com/artist/74j8oazVmb4zM1gmwvrc55"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224459,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/6p3xOyNftx7p3bOkI5LZOI"
+    },
+    {
+      "album": {
         "name": "WAKE",
         "url": "https://open.spotify.com/album/6X21P6yvQ3h6MDOrFMgTpv"
       },
@@ -136,6 +154,42 @@
       "duration_ms": 100593,
       "name": "Cheapshot",
       "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
+    },
+    {
+      "album": {
+        "name": "Cin\u00e9ma Paradiso",
+        "url": "https://open.spotify.com/album/3AVGGrhhe8A256seUvvhhL"
+      },
+      "artists": [
+        {
+          "name": "Marco Ema",
+          "url": "https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272322,
+      "name": "Cin\u00e9ma Paradiso",
+      "url": "https://open.spotify.com/track/0KcAnoBSjTRcyVI143hoJi"
+    },
+    {
+      "album": {
+        "name": "CMFTZN",
+        "url": "https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE"
+      },
+      "artists": [
+        {
+          "name": "JUGGER",
+          "url": "https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162532,
+      "name": "CMFTZN",
+      "url": "https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG"
     },
     {
       "album": {
@@ -377,6 +431,24 @@
     },
     {
       "album": {
+        "name": "HEARTTHROB",
+        "url": "https://open.spotify.com/album/6gXGwUsnLexh9FJw9EtQS8"
+      },
+      "artists": [
+        {
+          "name": "Devont\u00e9e",
+          "url": "https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "HEARTTHROB",
+      "url": "https://open.spotify.com/track/78oMoQOlMbl4n3Qqhbwhp2"
+    },
+    {
+      "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M"
       },
@@ -406,7 +478,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 173254,
       "name": "Honest",
       "url": "https://open.spotify.com/track/6SloAIIEp2SSQcQzumoNdF"
@@ -594,10 +666,28 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 150929,
       "name": "maison",
       "url": "https://open.spotify.com/track/4sY0CR6wa1C2VoMMRg1q5Y"
+    },
+    {
+      "album": {
+        "name": "Me And You, Anywhere",
+        "url": "https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz"
+      },
+      "artists": [
+        {
+          "name": "Deadharrie",
+          "url": "https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202900,
+      "name": "Me And You, Anywhere",
+      "url": "https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY"
     },
     {
       "album": {
@@ -634,6 +724,24 @@
       "duration_ms": 208205,
       "name": "Moisturize",
       "url": "https://open.spotify.com/track/4RF6PYFvVulYWNNcWSMlJr"
+    },
+    {
+      "album": {
+        "name": "MONEY \u00c0 L'\u00c9TRANGER",
+        "url": "https://open.spotify.com/album/4vEkmjZ17K25NK7pn5YlOG"
+      },
+      "artists": [
+        {
+          "name": "Caj Flow",
+          "url": "https://open.spotify.com/artist/3ouI3NSF4ZWA3tQaX9I0wJ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "MONEY \u00c0 L'\u00c9TRANGER",
+      "url": "https://open.spotify.com/track/61VRxJmoVKQGzumVpDu8Z9"
     },
     {
       "album": {
@@ -742,6 +850,24 @@
       "duration_ms": 171750,
       "name": "nothing but the best",
       "url": "https://open.spotify.com/track/4GokiQ2fvDBKcDFcY0Oa8w"
+    },
+    {
+      "album": {
+        "name": "Notice It",
+        "url": "https://open.spotify.com/album/0CwyOwZPnaxCfZv7jEW3di"
+      },
+      "artists": [
+        {
+          "name": "Mighloe",
+          "url": "https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Notice It",
+      "url": "https://open.spotify.com/track/1dYKS6bOekZjU3d1TLwyIr"
     },
     {
       "album": {
@@ -894,7 +1020,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 183449,
       "name": "Pillows",
       "url": "https://open.spotify.com/track/08elH5yYYCWP0aCnOIsqpa"
@@ -996,7 +1122,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 171600,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/3srMBy9bUmxBMsXnMW298Z"
@@ -1021,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Saltwater Cowboy",
+        "url": "https://open.spotify.com/album/78Vh06J0CH71tifUn9GNeF"
+      },
+      "artists": [
+        {
+          "name": "Ben Chase",
+          "url": "https://open.spotify.com/artist/2bMHWpoZglVsTnIvnQ1RI0"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240737,
+      "name": "Saltwater Cowboy",
+      "url": "https://open.spotify.com/track/1q6K2AR132LskWaccIBOHV"
+    },
+    {
+      "album": {
         "name": "She just wants to dance",
         "url": "https://open.spotify.com/album/4KcLTZOMRubhP8uM34mSYZ"
       },
@@ -1032,7 +1176,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 180833,
       "name": "She just wants to dance",
       "url": "https://open.spotify.com/track/3xuXyhtURoyYvxdQtVLAI3"
@@ -1263,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/1SrmJcntxwGRO8Yxj9a4nb"
+      },
+      "artists": [
+        {
+          "name": "Sayzee",
+          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191871,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/62XMMjGkRhNyLmyRJnyxTN"
+    },
+    {
+      "album": {
         "name": "The Rain",
         "url": "https://open.spotify.com/album/3uyrqEJ0zSkxeiBCWqSVdX"
       },
@@ -1278,6 +1440,24 @@
       "duration_ms": 204000,
       "name": "The Rain",
       "url": "https://open.spotify.com/track/5s4qlxvnZTE1uSsML7Y59X"
+    },
+    {
+      "album": {
+        "name": "THERE FOR ME",
+        "url": "https://open.spotify.com/album/0lwWawcgNuDuWJCTbSVcfq"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "THERE FOR ME",
+      "url": "https://open.spotify.com/track/5jWI1rjDOW30aCcGjI9LQF"
     },
     {
       "album": {
@@ -1357,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "USELESS",
+        "url": "https://open.spotify.com/album/38WLMIhtvbqCtAgtznorSp"
+      },
+      "artists": [
+        {
+          "name": "Mylie Taylor",
+          "url": "https://open.spotify.com/artist/3JR3JUiQX97T6lm85kCNVL"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "USELESS",
+      "url": "https://open.spotify.com/track/7jkl1SEbgDGMH2B2BViDxU"
+    },
+    {
+      "album": {
         "name": "V Chill",
         "url": "https://open.spotify.com/album/2psmLfb70x3P60O4dInsgH"
       },
@@ -1368,7 +1566,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 199156,
       "name": "V Chill",
       "url": "https://open.spotify.com/track/3LKAiqHxukCyVSX4hxTa2A"

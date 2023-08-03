@@ -4,7 +4,7 @@
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Adekunle Gold
 
-469 songs - 1 day 1 hr 8 min
+470 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [Double Back](https://open.spotify.com/track/7Fz8TyKSzhetD7zLYbrPgf) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 2:39 | 2023-02-10 |  |
 | [Down Bad](https://open.spotify.com/track/3YSBjkziV3Ad1PDb937iod) | [Erin Kaith](https://open.spotify.com/artist/3ZcV9lHb1zNogT3OHhVqLG) | [Down Bad](https://open.spotify.com/album/3jppDX7wplL844aWT5EHcY) | 2:55 | 2023-06-30 |  |
 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/3Bi3ws3uigvFSmfTcSLjnp) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/album/4OjG23scCW1EvILkMk0syB) | 3:18 | 2021-12-17 | 2022-07-09 |
-| [Drunk AF](https://open.spotify.com/track/1syXzcic9jT7Vqq0i17pLt) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7DQGbVYleJAOwg9ETfeBZA) | 2:34 | 2023-07-28 |  |
+| [Drunk AF](https://open.spotify.com/track/1syXzcic9jT7Vqq0i17pLt) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7DQGbVYleJAOwg9ETfeBZA) | 2:34 | 2023-07-28 | 2023-08-03 |
+| [Drunk AF](https://open.spotify.com/track/4YMByiGyuFyc7nfwGKvDvA) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [They Cloned Tyrone \(Music from and Inspired by the Netflix Film\)](https://open.spotify.com/album/7mr0vhCKqriCbhPXlY1z1v) | 2:34 | 2023-07-28 |  |
 | [EGO](https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [EGO](https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc) | 2:29 | 2023-04-14 |  |
 | [ego talkin'](https://open.spotify.com/track/0QcS4DBl3Dhfv0F0nARK3M) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [lost a friend](https://open.spotify.com/album/267EVw3SYgz2MmFxhBivur) | 2:54 | 2023-06-23 |  |
 | [Elmina](https://open.spotify.com/track/3NlFpLNLAyv1f838clGuQD) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:40 | 2023-05-05 | 2023-07-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31399,
+  "num_followers": 31395,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjcwNCxjZWM3MGQxMjM2YzE0NTVmNTRhY2NhNTU4ZDhhYWNjOTRmZjQyNGUw",
+  "snapshot_id": "MjcwOCw0OGY1ZjQyYWQxYTkzNGMwZTg0OTE4YmIyZjc5NjNmYjIzZDFjNzc5",
   "tracks": [
     {
       "added_at": "2023-07-28 06:28:24",
@@ -323,6 +323,22 @@
       "duration_ms": 170602,
       "name": "10 Out Of 10 (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
+    },
+    {
+      "added_at": "2023-08-03 02:01:49",
+      "album": {
+        "name": "Inside Trippin'",
+        "url": "https://open.spotify.com/album/326wNjTIy1JYTNLsNaPW6t"
+      },
+      "artists": [
+        {
+          "name": "Did Miro",
+          "url": "https://open.spotify.com/artist/6wNT1l6WkupvYtgaLcyoGS"
+        }
+      ],
+      "duration_ms": 311040,
+      "name": "Inside Trippin'",
+      "url": "https://open.spotify.com/track/7qnPAueQPenfc7oEiHNUQh"
     },
     {
       "added_at": "2023-07-28 06:28:24",
@@ -991,22 +1007,6 @@
       "duration_ms": 122094,
       "name": "Brain Freeze",
       "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
-    },
-    {
-      "added_at": "2023-07-28 06:28:24",
-      "album": {
-        "name": "Million Pieces",
-        "url": "https://open.spotify.com/album/092XspFGXs1u4jPlogGFDV"
-      },
-      "artists": [
-        {
-          "name": "Jolyon Petch",
-          "url": "https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/3RM0KcyPjdT8byRe64LivC"
     }
   ],
   "unique_name": "Morning Workout",

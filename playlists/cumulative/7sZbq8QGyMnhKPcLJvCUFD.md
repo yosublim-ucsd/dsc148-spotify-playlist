@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-341 songs - 17 hr 9 min
+343 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 |  |
 | [Heart Robbery](https://open.spotify.com/track/51I95Yhf3siwoQBpBUY5p6) | [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Heart Robbery](https://open.spotify.com/album/7IXYVtzISSM1SzL9Xywie8) | 3:29 | 2023-02-22 |  |
 | [Heaven Knows](https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu) | [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Protolizard](https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya) | [Heaven Knows](https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX) | 2:57 | 2023-02-28 |  |
+| [Hide Your Heart](https://open.spotify.com/track/23fQ2QOFRIw57uYM7w19C2) | [VOLT VISION](https://open.spotify.com/artist/0D1RIHFWh132dnfTGIHF6K), [BRIGHTDVWN](https://open.spotify.com/artist/0ExsFJFEnGuchlp60W2oHe) | [Hide Your Heart](https://open.spotify.com/album/4tpchLz24pygDGVkoX6qXC) | 2:44 | 2023-08-01 |  |
 | [high4aminute](https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ) | [high4aminute](https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3) | 1:48 | 2023-05-19 |  |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 |  |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |
@@ -302,6 +303,7 @@
 | [The Raven](https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [The Raven](https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E) | 1:55 | 2023-04-14 |  |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-06-28 |  |
 | [Think About Me](https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha) | [Yancle](https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM) | [Think About Me](https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI) | 3:07 | 2023-07-19 |  |
+| [Thought It Was U](https://open.spotify.com/track/3cakt86V0NLaQNFqiN5MvS) | [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Thought It Was U](https://open.spotify.com/album/28j7q90iOylNg6QhifQEso) | 3:05 | 2023-08-02 |  |
 | [To The Top](https://open.spotify.com/track/7jAzWNVwhqJLm7Y13t0mnp) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [To The Top](https://open.spotify.com/album/4Nrg9Rk5iLeiLnRgNVtkiX) | 2:40 | 2022-04-28 | 2023-04-28 |
 | [To The Top \- JJL Remix](https://open.spotify.com/track/57yxSNXHLMb3gREIFyEDqV) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [To The Top \(JJL Remix\)](https://open.spotify.com/album/2iXwrkpbLaSpUBpTYwnc5p) | 3:02 | 2022-08-19 | 2023-04-28 |
 | [Tonight](https://open.spotify.com/track/5HButdKodhRVg82OnkeI3I) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Tonight](https://open.spotify.com/album/11spxNqtn2Nz7Y3tJUPIyN) | 2:32 | 2022-09-06 | 2023-04-28 |

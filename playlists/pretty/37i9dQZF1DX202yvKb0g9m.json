@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 99792,
+  "num_followers": 99912,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
+  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -499,6 +499,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Miserablism - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Acid Tracks",
         "url": "https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
       },
       "artists": [
         {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
         }
       ],
-      "duration_ms": 247000,
-      "name": "Miserablism - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -559,22 +575,6 @@
       "duration_ms": 465312,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "added_at": "2021-10-22 11:07:27",

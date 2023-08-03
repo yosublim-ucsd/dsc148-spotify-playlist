@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: 長谷川白紙
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,130 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,141 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 |
 | 100 | [Kimi to Rendezvous \(feat\. razu\)](https://open.spotify.com/track/1dBY8Q0MbYFT8b5Bw9ZLMd) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x), [razu](https://open.spotify.com/artist/6JNpg1OGnCJygBo7UMwtWq) | [Supply/Demand](https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v) | 5:33 |
 
-Snapshot ID: `MCxjODI3YjA4ODQwMTVjNGIxN2FhNzk0NTM4MTM0OGNhNTdlNzE2MTY4`
+Snapshot ID: `MCw4ZmNkOTQzYTgzY2ZjMGM2NzAwYmRkMThhY2MyODBmMWZlZDg1Nzcx`

@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 155042,
+  "num_followers": 155331,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTc2MDgwZGY4M2JiMGQwZjk0Mjk4ODY3YTFmMDM5N2NhZWNmMDZl",
+  "snapshot_id": "MCw0ZmE2OWRlMDI3OTZlZWI4YmI1YzFiZmQ5NTk5OWExYmNkYzU1YjRh",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Alien Lanes",
         "url": "https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 93306,
       "name": "Game Of Pricks",
       "url": "https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Ladies and gentlemen we are floating in space",
         "url": "https://open.spotify.com/album/56YzQ0dhmRMDryZsrjdHun"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 234053,
       "name": "Ladies and gentlemen we are floating in space",
       "url": "https://open.spotify.com/track/0fOjUafaAhJV16oRBgCtz7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "American Water",
-        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
-      },
-      "artists": [
-        {
-          "name": "Silver Jews",
-          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Random Rules",
-      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 284560,
       "name": "Car Wheels On A Gravel Road",
       "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "American Water",
+        "url": "https://open.spotify.com/album/2GbNeQEg5fLtuxjr5nlIpc"
+      },
+      "artists": [
+        {
+          "name": "Silver Jews",
+          "url": "https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Random Rules",
+      "url": "https://open.spotify.com/track/6lquLzGE5CRoq2htyr2QGS"
     },
     {
       "added_at": "2023-06-30 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 475201,
+  "num_followers": 475355,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTM5MzY3NzcwOTZlZjQ3NDk0NjIyZjhhNjYzYjQ2NTZlMjhiZmUw",
+  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+      "duration_ms": 183602,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 183602,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Bury Me Face Down",
-        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Bury Me Face Down",
-      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "HEAVY META",
         "url": "https://open.spotify.com/album/6w5N3oL83KiitLdFcCrzTj"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 220538,
       "name": "Young Lady, You're Scaring Me",
       "url": "https://open.spotify.com/track/6PtIXICwmoxCgLjw2zApDs"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Bury Me Face Down",
+        "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Bury Me Face Down",
+      "url": "https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": ".CoDA.",
-      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Apple Pie",
         "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 179447,
       "name": "Apple Pie",
       "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": ".CoDA.",
+      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Double Life",
-        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 143712,
-      "name": "Double Life",
-      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "daphne did it / the depths",
         "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 202687,
       "name": "daphne did it",
       "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Double Life",
+        "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 143712,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/2ElpiEF3br7tvd5TYWYKHg"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Mercy Mercy",
-        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Mercy Mercy",
-      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Save Me Some Sunshine",
         "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 217143,
       "name": "Save Me Some Sunshine",
       "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Mercy Mercy",
+        "url": "https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Mercy Mercy",
+      "url": "https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Love Is All You Love",
-        "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 202813,
-      "name": "Love Is All You Love",
-      "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Heartache Melody",
         "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 172140,
       "name": "Heartache Melody",
       "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Love Is All You Love",
+        "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 202813,
+      "name": "Love Is All You Love",
+      "url": "https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK"
     },
     {
       "added_at": "2023-07-07 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Bogueto en portada ",
-  "num_followers": 8816,
+  "num_followers": 8841,
   "original_name": "Perreo Bellakoso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTRmNzg5NmZlNjMzYTVjYWExMTUzN2U5N2RmYTc1ZmZiOTc5ZmEw",
+  "snapshot_id": "MCxjYTJiMjRjNmQwYmE4NmI2MTViYWQzNjE4MzNkNDgwNjc1NGFmMWFh",
   "tracks": [
     {
       "added_at": "2023-07-28 16:41:33",
@@ -779,30 +779,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "333 (Remix)",
         "url": "https://open.spotify.com/album/6pMyrunmSvMxKIDS4eERZh"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 155930,
       "name": "333 - Remix",
       "url": "https://open.spotify.com/track/2THG5JnwWDXABaf3APvUr8"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/3weU1MeL7x9TRfWrPSIyFN"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 194884,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/1IMS40acXF1BpJ7LRoHhQY"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "El Bellako",
-        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "A la pared",
-      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "Rompe La Discoteca",
         "url": "https://open.spotify.com/album/73gxcM9ox886mJZrRQPDhi"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 216032,
       "name": "Rompe La Discoteca",
       "url": "https://open.spotify.com/track/0eQWSNIz6EqM0DybEyOsJR"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "El Bellako",
+        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "A la pared",
+      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
+        "name": "Tu Pones la Hora y Yo Le Caigo",
+        "url": "https://open.spotify.com/album/6rEBOWQp5hYX9KfNKxiB9q"
+      },
+      "artists": [
+        {
+          "name": "DJ Cobra Monterrey",
+          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "duration_ms": 227608,
+      "name": "Tu Pones La Hora y Yo le Caigo",
+      "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
         "name": "Puta Rara, Puta Dominicana",
         "url": "https://open.spotify.com/album/2xqmPcHXQztVVlb3hoFRmB"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 140643,
       "name": "Puta Rara, Puta Dominicana",
       "url": "https://open.spotify.com/track/7K4GdyNrfmE4QmEsDE5Xwi"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
-        "name": "Tu Pones la Hora y Yo Le Caigo",
-        "url": "https://open.spotify.com/album/6rEBOWQp5hYX9KfNKxiB9q"
-      },
-      "artists": [
-        {
-          "name": "DJ Cobra Monterrey",
-          "url": "https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 227608,
-      "name": "Tu Pones La Hora y Yo le Caigo",
-      "url": "https://open.spotify.com/track/24gG1Loc0WhJK9plg8MIUO"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
+        "name": "Bagdad",
+        "url": "https://open.spotify.com/album/7m5Q0mNc4jGcWz2TfyPYAL"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        }
+      ],
+      "duration_ms": 173863,
+      "name": "Bagdad",
+      "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
         "name": "La Motora (Cumbiaton)",
         "url": "https://open.spotify.com/album/3dg0fLDhPdq7AOq06SZ8Fl"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 209142,
       "name": "La Motora - Cumbiaton",
       "url": "https://open.spotify.com/track/2UZo6qmBPv8FoY34LKFQT4"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
-        "name": "Bagdad",
-        "url": "https://open.spotify.com/album/7m5Q0mNc4jGcWz2TfyPYAL"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
-        {
-          "name": "Kaydy Cain",
-          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
-        }
-      ],
-      "duration_ms": 173863,
-      "name": "Bagdad",
-      "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Esto No Es Un \u00c1lbum",
-        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
-      },
-      "artists": [
-        {
-          "name": "Yoiker",
-          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
-        }
-      ],
-      "duration_ms": 158013,
-      "name": "Gr\u00e1bate",
-      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "Acelera",
         "url": "https://open.spotify.com/album/2yLvsTfL0erLPPohKuzi3O"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 152500,
       "name": "Acelera",
       "url": "https://open.spotify.com/track/7ixpPg981MDTWJEY54pnRw"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Esto No Es Un \u00c1lbum",
+        "url": "https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF"
+      },
+      "artists": [
+        {
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+        }
+      ],
+      "duration_ms": 158013,
+      "name": "Gr\u00e1bate",
+      "url": "https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD"
     },
     {
       "added_at": "2023-07-28 16:41:33",
@@ -2011,30 +2011,6 @@
     {
       "added_at": "2023-07-28 16:41:33",
       "album": {
-        "name": "Kilate",
-        "url": "https://open.spotify.com/album/4hrf674ixi2LoLcxzTWqfh"
-      },
-      "artists": [
-        {
-          "name": "La Santa Mar\u00eda",
-          "url": "https://open.spotify.com/artist/39ez5l9yGO86b4gZbT7j8B"
-        },
-        {
-          "name": "Dj Krizis",
-          "url": "https://open.spotify.com/artist/0GKDsjgAKse6nzW9icaHri"
-        },
-        {
-          "name": "Mcfly Beatz",
-          "url": "https://open.spotify.com/artist/3krBRCYZOlmE4Xs8ALedOI"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Kilate",
-      "url": "https://open.spotify.com/track/5dndTlMRXyvejjR05OkI3K"
-    },
-    {
-      "added_at": "2023-07-28 16:41:33",
-      "album": {
         "name": "Swipe Up",
         "url": "https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ"
       },
@@ -2055,6 +2031,30 @@
       "duration_ms": 212093,
       "name": "Swipe Up",
       "url": "https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD"
+    },
+    {
+      "added_at": "2023-07-28 16:41:33",
+      "album": {
+        "name": "Kilate",
+        "url": "https://open.spotify.com/album/4hrf674ixi2LoLcxzTWqfh"
+      },
+      "artists": [
+        {
+          "name": "La Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/39ez5l9yGO86b4gZbT7j8B"
+        },
+        {
+          "name": "Dj Krizis",
+          "url": "https://open.spotify.com/artist/0GKDsjgAKse6nzW9icaHri"
+        },
+        {
+          "name": "Mcfly Beatz",
+          "url": "https://open.spotify.com/artist/3krBRCYZOlmE4Xs8ALedOI"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Kilate",
+      "url": "https://open.spotify.com/track/5dndTlMRXyvejjR05OkI3K"
     },
     {
       "added_at": "2023-07-28 16:41:33",

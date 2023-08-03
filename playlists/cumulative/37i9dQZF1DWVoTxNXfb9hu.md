@@ -4,7 +4,7 @@
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-62 songs - 3 hr 34 min
+63 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [The Disco Song](https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:42 | 2023-03-08 |  |
 | [The Punjaabban Song](https://open.spotify.com/track/4vjVTc6cqDwZJ40ILlEpEx) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Jugjugg Jeeyo](https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ) | 3:19 | 2023-03-08 |  |
 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 | 2023-03-08 |  |
-| [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2023-03-08 |  |
+| [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 | 2023-06-15 |  |
+| [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 | 2023-03-08 | 2023-08-03 |
 
 \*This playlist was first scraped on 2023-03-10. Prior content cannot be recovered.

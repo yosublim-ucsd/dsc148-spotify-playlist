@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/6LUikHsZgw4VLRsYg49YU0.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Undead Murder Farce](https://open.spotify.com/track/4n3tx3Ur7Yf5504K0Iog9W) | [Mara Carlyle](https://open.spotify.com/artist/165UIU9o6ULboTQs0QYXj1) | [Undead Murder Farce \(Original Series Soundtrack\)](https://open.spotify.com/album/6NYKmuUwNeJW3IYaG2Bngq) | 4:25 |
+| 1 | [Undead Murder Farce](https://open.spotify.com/track/4n3tx3Ur7Yf5504K0Iog9W) | [Mara Carlyle](https://open.spotify.com/artist/165UIU9o6ULboTQs0QYXj1), [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [Undead Murder Farce \(Original Series Soundtrack\)](https://open.spotify.com/album/6NYKmuUwNeJW3IYaG2Bngq) | 4:25 |
 | 2 | [地球儀](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 3 | [My Beautiful Life](https://open.spotify.com/track/6Il0TOAUXXIDxQwkaWXG1k) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/2YqVnb5lJqSNgeQarsqWs8) | 3:21 |
 | 4 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |

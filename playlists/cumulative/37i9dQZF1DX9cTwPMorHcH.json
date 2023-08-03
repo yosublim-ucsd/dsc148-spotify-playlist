@@ -2202,6 +2202,24 @@
     {
       "album": {
         "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/2VqfWu26T66FcGvifgLqJ8"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2021-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/0XTGjWG3NIxeJZ2tXzPfpT"
+    },
+    {
+      "album": {
+        "name": "Road I Call Home",
         "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
       },
       "artists": [
@@ -2230,7 +2248,7 @@
       ],
       "date_added": "2021-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 174133,
       "name": "Why Don't You Eat Where You Slept Last Night?",
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"

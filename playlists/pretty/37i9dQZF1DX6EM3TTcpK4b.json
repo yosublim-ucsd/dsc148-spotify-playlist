@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 256765,
+  "num_followers": 256984,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTI3NzQ3NzkwZDM5OGY1MjBhNGVlYTEwMWJjNzc3MjJhMjgyMmJj",
+  "snapshot_id": "MCw4MDQyZGY3MTc3NTYyYjdkNjFiMzNkOWFkNjM1NmEyOWRjYjU3Mjcx",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
+      "duration_ms": 251666,
+      "name": "Es Demasiado Tarde - Remasterizado",
+      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "La Reina Canta A Mexico",
-        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Es Demasiado Tarde - Remasterizado",
-      "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Jorge Negrete, Vol II.",
-        "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
-      },
-      "artists": [
-        {
-          "name": "Jorge Negrete",
-          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Coplas de dos tipos de cuidado",
-      "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Amarte A La Antigua",
         "url": "https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 218626,
       "name": "Amarte A La Antigua",
       "url": "https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Jorge Negrete, Vol II.",
+        "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
+      },
+      "artists": [
+        {
+          "name": "Jorge Negrete",
+          "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Coplas de dos tipos de cuidado",
+      "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Lo Mas Romantico De Pedro Fernandez",
+        "url": "https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 182266,
       "name": "Ya No Me Interesas",
       "url": "https://open.spotify.com/track/13P7xlcWQzFMvAGQZniMTS"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Lo Mas Romantico De Pedro Fernandez",
-        "url": "https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
     },
     {
       "added_at": "2022-08-31 15:59:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Calvin Harris + Sam Smith \(pictured\), Anne\-Marie, Burna Boy and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,883 likes - 144 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,915 likes - 144 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 117 | [Crazy Crazy](https://open.spotify.com/track/65AOgeFv8iH4G4UT5xlqgZ) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Crazy Crazy](https://open.spotify.com/album/5xcyDur11wVKjYcyEBYWx9) | 2:32 |
 | 118 | [The Magic](https://open.spotify.com/track/6OtkZ1NGlHehYxQuRiXQBr) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Wrestling Music](https://open.spotify.com/album/65Cwbm7JixxmV96R4IPDfG) | 2:31 |
 | 119 | [Us](https://open.spotify.com/track/1CbhFk1ayCQqg9AxgPjDCF) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Us](https://open.spotify.com/album/36vRBOExGT1fT7DQbjAEf8) | 2:46 |
-| 120 | [Greek Honey Slick](https://open.spotify.com/track/3O3ExdXN8fuWCHnEFn8z9D) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Tom Skinner](https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm) | [Greek Honey Slick](https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW) | 4:33 |
+| 120 | [Greek Honey Slick](https://open.spotify.com/track/3O3ExdXN8fuWCHnEFn8z9D) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm), [Tom Skinner](https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7) | [Greek Honey Slick](https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW) | 4:33 |
 | 121 | [Closer](https://open.spotify.com/track/3JL5Hon4jnnWPe0AIdjyCk) | [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp), [Bamy](https://open.spotify.com/artist/6NGPF371TgDsclADp9n50D) | [Closer](https://open.spotify.com/album/72TFAqZPWiJYv4KnLmw5Kz) | 2:42 |
 | 122 | [My Sweet Lord](https://open.spotify.com/track/0gVCFdvavY7YRsIpssaxaz) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [My Sweet Lord](https://open.spotify.com/album/7rbfhqkpS5J9JerwXt4OPq) | 5:04 |
 | 123 | [Killer Line](https://open.spotify.com/track/3pxQXw1cHlXEbMulMyEOFf) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Killer Line](https://open.spotify.com/album/2wWOcYEk8biEvndff06WXk) | 3:50 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 143 | [A Simple Act](https://open.spotify.com/track/42M33hTmjZonBO3KBLbvnx) | [Slowe](https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo) | [Where The Mind Wanders](https://open.spotify.com/album/0UAucQ0rcuCP2aIm5sxEts) | 3:32 |
 | 144 | [Medina](https://open.spotify.com/track/71GKQgzFuV3uCFJIwsJkCZ) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb) | [Medina](https://open.spotify.com/album/0PxYMm6JaKtyRvutWduBNe) | 6:36 |
 
-Snapshot ID: `MCw1Mzg2MWZkZDEyYTYzYTMwYmM4NDEwNGM4ZmNjYmRhODFiYTQyMTlm`
+Snapshot ID: `MCwyYWQyNjRmODc5OWEzZjE1NjBhMjNkMTMxMWY5OWNlYmUzYjJlNzA2`

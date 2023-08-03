@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 157047,
+  "num_followers": 157173,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGNjMjFiN2VjMTgwYjM1ZjkxNjk5NmU3MzcyZmE3MDlkOGM4MWZi",
+  "snapshot_id": "MCxmODY3YjE1ZTE0MGQzYjFiNmQ4YTJjYTRmNTkyNDkwMDdhMGZhYTg2",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -515,18 +515,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
       },
       "artists": [
         {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
         }
       ],
-      "duration_ms": 215645,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/6ABh7hs4z4lrjmp1R22R9t"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         }
       ],
-      "duration_ms": 300975,
-      "name": "Starz",
-      "url": "https://open.spotify.com/track/4QdrjvWnftlEW1tlRwxYvx"
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Unity Pt. 2",
-        "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
-      },
-      "artists": [
-        {
-          "name": "Tale Of Us",
-          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
-        },
-        {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        }
-      ],
-      "duration_ms": 372906,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "L'owe L'owe",
         "url": "https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 449149,
       "name": "L'ow\u00e8 L'ow\u00e8",
       "url": "https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Unity Pt. 2",
+        "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
+      },
+      "artists": [
+        {
+          "name": "Tale Of Us",
+          "url": "https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "duration_ms": 372906,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/03AOPd7ZJbE9LPIA8oZMsA"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -751,6 +751,22 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "Vivi",
+        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
+      },
+      "artists": [
+        {
+          "name": "Elevven",
+          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Vivi",
+      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "Sint Maarten",
         "url": "https://open.spotify.com/album/1ScGb9mg9NXKEOWTMSkD7O"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 271351,
       "name": "Sint Maarten",
       "url": "https://open.spotify.com/track/00tIiOoqhX2RM5WTtKm9Ep"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "Vivi",
-        "url": "https://open.spotify.com/album/7rxnh6BRTnmhUaIqGCJbjy"
-      },
-      "artists": [
-        {
-          "name": "Elevven",
-          "url": "https://open.spotify.com/artist/1x72oeaWJ5kdXMXZoq0Icu"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Vivi",
-      "url": "https://open.spotify.com/track/3v8HGq086dJh7UX7ixE3A1"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -875,6 +875,26 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Lose Your Head - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
         "name": "I Saw Good",
         "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 322058,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Lose Your Head - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/16Tsi2k0C9QNpyIXyMBbo6"
     },
     {
       "added_at": "2022-11-25 16:56:36",

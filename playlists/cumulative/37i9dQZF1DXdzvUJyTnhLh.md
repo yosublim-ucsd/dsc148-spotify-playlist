@@ -4,7 +4,7 @@
 
 > Eagles at their best\. Explore their deep catalog as a band and as solo artists.
 
-69 songs - 5 hr 10 min
+70 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Busy Being Fabulous](https://open.spotify.com/track/5wOGGVXcqG8HQnAO6FV3Ew) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Long Road out of Eden](https://open.spotify.com/album/2cWtnFvM7BmyQG1ojQDcCT) | 4:20 | 2022-07-15 |  |
 | [County Fair](https://open.spotify.com/track/4xbMohp9CBKxfLhnjsV9l2) | [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK) | [So What \(Reissue\)](https://open.spotify.com/album/2ZRni2AFuPtW6z5jBUD3Vf) | 6:50 | 2022-07-15 |  |
 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 | 2022-07-15 |  |
-| [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 | 2022-07-15 |  |
+| [Dirty Laundry](https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [I Can't Stand Still](https://open.spotify.com/album/2liPmoa0xyg9DcjKOryJ66) | 5:36 | 2022-07-15 | 2023-08-03 |
+| [Dirty Laundry](https://open.spotify.com/track/1Zqngj1RHFoYW7X6PKmP2o) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The Very Best Of](https://open.spotify.com/album/4RFNorcvSYeK06o3DjKV4P) | 5:36 | 2022-07-15 |  |
 | [Doolin\-Dalton \- 2013 Remaster](https://open.spotify.com/track/0huHTieLTlluurvasQLB74) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:27 | 2022-07-15 |  |
 | [Funk \#48](https://open.spotify.com/track/14R4uuf0SMjNmfLfHvMLZJ) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Yer' Album](https://open.spotify.com/album/5rsl1kj0N1N7yKQcBsjmMK) | 2:46 | 2022-07-15 |  |
 | [Funk \#49](https://open.spotify.com/track/5h6SovHOYpIMlAkafxcbq3) | [James Gang](https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF) | [Rides Again](https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0) | 4:06 | 2022-07-15 |  |

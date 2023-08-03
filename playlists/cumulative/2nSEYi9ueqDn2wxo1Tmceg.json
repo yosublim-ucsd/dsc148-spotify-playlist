@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "All Good",
+        "url": "https://open.spotify.com/album/4YQ31lCyIyjNX1s6iCLMxH"
+      },
+      "artists": [
+        {
+          "name": "Aliese",
+          "url": "https://open.spotify.com/artist/4o1rTdNnDFQAyTrpsI4cAB"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226135,
+      "name": "All Good",
+      "url": "https://open.spotify.com/track/4xs7ie83CLCdkdGJwPG0J0"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/3RhOR7nyXQNMj1m9wdbchn"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 310093,
       "name": "Bang",
       "url": "https://open.spotify.com/track/5XmfmJl6z8B5bvVzhk5vUg"
@@ -988,6 +1006,24 @@
       "duration_ms": 291084,
       "name": "Before We Fell From Grace",
       "url": "https://open.spotify.com/track/0Ifom3QrLplQBsCTP5J4qX"
+    },
+    {
+      "album": {
+        "name": "Motherwell",
+        "url": "https://open.spotify.com/album/0z388Qszg0TTCt4F2cTlCs"
+      },
+      "artists": [
+        {
+          "name": "Former Champ",
+          "url": "https://open.spotify.com/artist/1ntDd3adPrsrlLpiJBPfzM"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130774,
+      "name": "Beginner's Luck",
+      "url": "https://open.spotify.com/track/1aGHJWuMcqXA3occrRcTll"
     },
     {
       "album": {
@@ -1508,6 +1544,24 @@
       "duration_ms": 165696,
       "name": "Car Keys (Gregg Turkington Remix)",
       "url": "https://open.spotify.com/track/2C7Zot6L1px2Fi3SfXtJch"
+    },
+    {
+      "album": {
+        "name": "Love Hallucination",
+        "url": "https://open.spotify.com/album/0nNTcdbzi1dqnNZcJR6uS2"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242080,
+      "name": "Casino Niagara",
+      "url": "https://open.spotify.com/track/34X6sen1cw8Vs96nBk79OK"
     },
     {
       "album": {
@@ -2214,7 +2268,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 265854,
       "name": "CSI: Petralona",
       "url": "https://open.spotify.com/track/5h6NzUXL95t9f2dLLLkUn9"
@@ -2556,7 +2610,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 234906,
       "name": "Did You Know",
       "url": "https://open.spotify.com/track/0YUlIpR3e3JApw2I3xVdaB"
@@ -3408,7 +3462,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 175000,
       "name": "Finger In Your Eye",
       "url": "https://open.spotify.com/track/7l5ySDLJQ4kSA94u8m0ttq"
@@ -3626,7 +3680,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 107607,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF"
@@ -3916,7 +3970,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 238586,
       "name": "Give It Up For Love",
       "url": "https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da"
@@ -4040,7 +4094,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 373714,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/2Lvs7JeQfuvLH0cPy6cOrV"
@@ -5070,7 +5124,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 242626,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/4DIoy6uiLofPZhc3dNLqqH"
@@ -5404,7 +5458,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 289058,
       "name": "It\u2019s Recess Everywhere",
       "url": "https://open.spotify.com/track/3yNzY3oNkvXXkF5aY1vFc0"
@@ -5582,7 +5636,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
@@ -6182,7 +6236,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 332092,
       "name": "Megafauna",
       "url": "https://open.spotify.com/track/67fioyJudWhfqoK3t533XJ"
@@ -6550,7 +6604,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 415565,
       "name": "Murmuration",
       "url": "https://open.spotify.com/track/0RHSlvZimmkAssf6fgd1jz"
@@ -6644,7 +6698,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 189756,
       "name": "Natural One",
       "url": "https://open.spotify.com/track/4GJqOznH6ocrP5j2kI0PrU"
@@ -6688,6 +6742,24 @@
       "duration_ms": 203940,
       "name": "Never Coming Back",
       "url": "https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG"
+    },
+    {
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/782f4OR6lKLwAdad0p4tAc"
+      },
+      "artists": [
+        {
+          "name": "Sextile",
+          "url": "https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5ehna23pO7qdgQjDFbuJrF"
     },
     {
       "album": {
@@ -6764,6 +6836,28 @@
       "duration_ms": 218426,
       "name": "No More - Edit",
       "url": "https://open.spotify.com/track/1EVjpQLLO19e7PYmZAlR2S"
+    },
+    {
+      "album": {
+        "name": "No More (Shabaka Remix)",
+        "url": "https://open.spotify.com/album/4QUvnrkGHRmX77CaJktCAv"
+      },
+      "artists": [
+        {
+          "name": "Steve Mason",
+          "url": "https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347358,
+      "name": "No More - Shabaka Remix",
+      "url": "https://open.spotify.com/track/1e1yQEPLJmi78EdXuEmjzy"
     },
     {
       "album": {
@@ -6850,7 +6944,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 218213,
       "name": "Not As I",
       "url": "https://open.spotify.com/track/3N5sQWoTFm5h2L333m8K7U"
@@ -7544,7 +7638,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 228167,
       "name": "Polacrilex Kid",
       "url": "https://open.spotify.com/track/4tjyw9x7NSJelI6Uum9I2E"
@@ -8113,6 +8207,28 @@
     },
     {
       "album": {
+        "name": "065 (Scorpio)",
+        "url": "https://open.spotify.com/album/5zCE3oBM8Bq9r3Odqd4PP9"
+      },
+      "artists": [
+        {
+          "name": "James K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
+        {
+          "name": "hoodie",
+          "url": "https://open.spotify.com/artist/68kvu7W7TlDeFjYz7KILIu"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481160,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
+    },
+    {
+      "album": {
         "name": "Screaming In The Rain Again",
         "url": "https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m"
       },
@@ -8272,6 +8388,24 @@
       "duration_ms": 233631,
       "name": "Shake The Feeling",
       "url": "https://open.spotify.com/track/7cklNY31Z25gfpNd7S4O6F"
+    },
+    {
+      "album": {
+        "name": "Short and Round",
+        "url": "https://open.spotify.com/album/17nx9wsAyrKerXyQVs8g5P"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160933,
+      "name": "Short and Round",
+      "url": "https://open.spotify.com/track/0fQwcxAWI9dlCQxgzLM6g3"
     },
     {
       "album": {
@@ -10270,6 +10404,24 @@
       "duration_ms": 182002,
       "name": "Used To It",
       "url": "https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag"
+    },
+    {
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "album": {

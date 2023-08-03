@@ -1515,6 +1515,32 @@
     },
     {
       "album": {
+        "name": "Heartbeat (BLK RSE Remix)",
+        "url": "https://open.spotify.com/album/5K78j7QvCOzOyTu6hqWQTw"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        },
+        {
+          "name": "BLK RSE",
+          "url": "https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Heartbeat - BLK RSE Remix",
+      "url": "https://open.spotify.com/track/1f3XYvmKK8Qc9APKlJ15zC"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
       },

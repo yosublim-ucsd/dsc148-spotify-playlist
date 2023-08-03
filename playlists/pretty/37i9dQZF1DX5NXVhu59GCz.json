@@ -1,12 +1,12 @@
 {
   "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
-  "num_followers": 118569,
+  "num_followers": 118587,
   "original_name": "Acid Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTU0YjEzYzYzY2E2M2JmNTczOWIyOGY5NTlhOTczNWU4NGQ0ZmM0",
+  "snapshot_id": "MCw4ZjNjYjkzMmEzYjJkNzY3NzE2ZDM4NWVmYWYwZGEyMjAwOTBmMDI0",
   "tracks": [
     {
       "added_at": "2018-02-28 19:55:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2018-02-28 19:55:41",
       "album": {
-        "name": "Sov Gott Rose-Mari",
-        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
-      },
-      "artists": [
-        {
-          "name": "International Harvester",
-          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
-        }
-      ],
-      "duration_ms": 100253,
-      "name": "It's Only Love",
-      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
-    },
-    {
-      "added_at": "2018-02-28 19:55:41",
-      "album": {
         "name": "Eve",
         "url": "https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 375800,
       "name": "Big Headed Woman",
       "url": "https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF"
+    },
+    {
+      "added_at": "2018-02-28 19:55:41",
+      "album": {
+        "name": "Sov Gott Rose-Mari",
+        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
+      },
+      "artists": [
+        {
+          "name": "International Harvester",
+          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
+        }
+      ],
+      "duration_ms": 100253,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
     },
     {
       "added_at": "2018-02-28 19:55:41",

@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=52aOzzzLQWGNFO\-oyZmxmQ">  كريم كرستيانو </a>
 
-168 songs - 10 hr 13 min
+169 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [العمر راح جمايل](https://open.spotify.com/track/2tDHfhOcCyIlT2cMc2MbLs) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Abdelsalam](https://open.spotify.com/artist/1RYiKhiu6grbHvPZIuO18y), [Shalsha](https://open.spotify.com/artist/7JvNUhrLYfqBSIPfa5N12E) | [العمر راح جمايل](https://open.spotify.com/album/4t5IE26L1Y0HcP0SMBoDti) | 2:53 | 2023-02-07 |  |
 | [الفلوس \- احنا جامدين اوي اوي اوي](https://open.spotify.com/track/5doKqxjbNAqwtSs0vRx7D5) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Eslam El Malah](https://open.spotify.com/artist/4OPOlr1iwqlWI09q8IsCKv) | [الفلوس \(احنا جامدين اوي اوي اوي\)](https://open.spotify.com/album/3CeCK1MJ361CXE83m7s41E) | 3:14 | 2022-07-30 |  |
 | [اللي باعو بالسلامة \- Back Catalog](https://open.spotify.com/track/4UMvvZ7769yVSV7U0t8idv) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [شارع 3 \- ST3](https://open.spotify.com/artist/6ho7BWPqO3FmLyfJw3rnbo) | [اللي باعو بالسلامة](https://open.spotify.com/album/5CSZhvBiT1PXnbp0xxV4V8) | 3:15 | 2021-12-16 | 2022-11-18 |
+| [اللي نفسه كسرت نفسه \- اسمي وحدو يهز مدينه](https://open.spotify.com/track/393YAkz3XPYnbu3fNT8DLM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اللي نفسه كسرت نفسه \(اسمي وحدو يهز مدينه\)](https://open.spotify.com/album/7rrq4BXBos9aSioymk3jsi) | 4:29 | 2023-08-02 |  |
 | [اللي يقابل التاني يبقي حلال علي التاني \( العين علي قد ما شافت \)](https://open.spotify.com/track/6g25CtqP6CarB0AS5ztvvP) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اللي يقابل التاني يبقي حلال علي التاني \( العين علي قد ما شافت \)](https://open.spotify.com/album/6MkWAnr2koowyF1e8plDeO) | 4:30 | 2023-06-16 |  |
 | [النسور ع الدبابات](https://open.spotify.com/track/6n1P8XVuCBEJHkyKgtNOWz) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [النسور ع الدبابات](https://open.spotify.com/album/0vvrJe3Ip4wSP9UHaPGJYc) | 3:07 | 2022-10-16 |  |
 | [الهيبه](https://open.spotify.com/track/3QHbkF2cobEOZ80I0J7fHw) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الهيبه](https://open.spotify.com/album/4dG3G6U35VluXgkkPyZjbL) | 2:44 | 2023-05-30 |  |
@@ -71,7 +72,7 @@
 | [انتي قلبي](https://open.spotify.com/track/1z4wa1hxM6Ja7Cpq5cljsb) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/5ql1v6jrdAmSzuyPJPKnNF) | 3:12 | 2022-07-19 | 2022-10-17 |
 | [انتي قلبي](https://open.spotify.com/track/6FFbKaePLzo5jQLof1ZX5K) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [انتي قلبي](https://open.spotify.com/album/47KtVI2WQJoZXV0EE2e65m) | 3:12 | 2022-02-01 | 2022-07-29 |
 | [اندال اندال](https://open.spotify.com/track/6RpPYyGGMyDL9xfRcQfffj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اندال اندال](https://open.spotify.com/album/3f1ig6nQAQJrR778DlzNEr) | 4:03 | 2021-12-16 | 2022-01-11 |
-| [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 | 2022-12-06 |  |
+| [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 | 2022-12-06 | 2023-08-03 |
 | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/track/1l4FdHo3SVXuKAzuJdqYZ1) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/album/6hBowQhPmpXID1e4oncCDZ) | 3:15 | 2021-12-16 | 2022-07-31 |
 | [بابا المجال](https://open.spotify.com/track/4PWyDZSIrKxRQV0ioxjrXf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Shaheen](https://open.spotify.com/artist/6DcpnGFm5ORC758EKTT5B0) | [بابا المجال](https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw) | 3:30 | 2023-04-20 |  |
 | [بوم طخ طخ](https://open.spotify.com/track/5vIONI8kvsS4S6ogssrCNG) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [بوم طخ طخ](https://open.spotify.com/album/0vvArbnHsNg0TfVDzqNJyu) | 4:27 | 2021-12-16 | 2022-07-31 |

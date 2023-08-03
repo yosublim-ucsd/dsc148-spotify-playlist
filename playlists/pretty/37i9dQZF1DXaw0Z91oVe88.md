@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 우산을 던지고 빗 속으로 뛰어들고 싶은 날에 들으세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,631 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,635 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 23 | [Heaven](https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Heaven](https://open.spotify.com/album/5PD7BUIpjw9LeGqdNItRug) | 3:43 |
 | 24 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 25 | [BETTER \(with MINO\)](https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:41 |
-| 26 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
-| 27 | [fallin \(feat.Liss\)](https://open.spotify.com/track/1joLvqSBVz1UeCX2CjfPuM) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [fallin \(feat.Liss\)](https://open.spotify.com/album/4fU4TPacCYGyZqwt4wkYkU) | 2:47 |
+| 26 | [fallin \(feat.Liss\)](https://open.spotify.com/track/1joLvqSBVz1UeCX2CjfPuM) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [fallin \(feat.Liss\)](https://open.spotify.com/album/4fU4TPacCYGyZqwt4wkYkU) | 2:47 |
+| 27 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 28 | [Lover](https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Summer Strike, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/6kKzcv5gzQ2BiwmcUnDjQW) | 2:55 |
 | 29 | [MERRY GO ROUND](https://open.spotify.com/track/2wAoIkP1XpMeAAnGSH4Drv) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [MERRY GO ROUND](https://open.spotify.com/album/4OgB9RaPgJZrll8DjBpxfM) | 3:20 |
 | 30 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [I Love You Enough to Die Now](https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [I Love You Enough to Die Now](https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf) | 3:06 |
 | 50 | [HEY RAIN](https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:14 |
 
-Snapshot ID: `MCxjMmZmM2UwOWI0ZDQ4NWJhY2YxYjM2ODU4NjVkOWYxN2E0NzBhNjJj`
+Snapshot ID: `MCwwOTY0YjIwY2Q5OGE2ODI4OWY3ZTgwMGExMmZmODBiYzg4ZTg0N2Vk`

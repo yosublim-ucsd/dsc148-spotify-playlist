@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-670 songs - 1 day 12 hr 40 min
+671 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [SICK LOVE](https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [SICK LOVE](https://open.spotify.com/album/6e01ZcUqdaVxS8boKn9irm) | 3:37 | 2022-09-04 | 2022-10-21 |
 | [Sins](https://open.spotify.com/track/5nStARhedIpOobuno0xhGW) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Bleach](https://open.spotify.com/album/0OY6Uy5XqRBvbRyNVJmA6K) | 3:26 | 2022-03-03 | 2022-03-18 |
 | [SKATEBOARD](https://open.spotify.com/track/6l73YRbkfTjBUtTm3DrkAu) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/0if8s53ZdbpKQnE2vH1Ggl) | 3:05 | 2023-06-12 |  |
+| [Skater](https://open.spotify.com/track/2XIAyrfqLiI5gWpZGRUtu9) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : HOW TO PLAY](https://open.spotify.com/album/4JoVx1AssR7dcAZrtwFVfW) | 3:47 | 2023-08-02 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2022-11-22 |
 | [Smile](https://open.spotify.com/track/2gj9ojku1zRQ5o1dTBvts2) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/1bUXcFlwOS8Lh9N40oFi6p) | 3:04 | 2022-03-23 | 2022-06-08 |
 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-18 | 2022-04-15 |

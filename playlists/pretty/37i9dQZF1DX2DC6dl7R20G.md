@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,707 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,716 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 | 5 | [miss you more, I'm sorry](https://open.spotify.com/track/6cOpgvr2opxH5Asrnluxri) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [miss you more, I'm sorry \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/56mPDuOqtTtU8d4SUQQhOQ) | 3:20 |
 | 6 | [Your tender heart hurts me](https://open.spotify.com/track/6ShXmyHOzhNANXSquXe5UQ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 |
 | 7 | [Talk to me](https://open.spotify.com/track/1VkrFMnRcfMqIESAa4amv2) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Talk to me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1Z1HFrzzOTeoeYma55otPC) | 4:17 |
-| 8 | [Want to be happy](https://open.spotify.com/track/2rMtQ0uNjFw9JjbsnEatEq) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 |
-| 9 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 |
+| 8 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 |
+| 9 | [Want to be happy](https://open.spotify.com/track/2rMtQ0uNjFw9JjbsnEatEq) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 |
 | 10 | [Love Love Love](https://open.spotify.com/track/06ToLlpbTVILh8Pwh2KdRX) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Love Love Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6b0RI9sLF9braqpMYCVQwm) | 3:16 |
 | 11 | [Love beyond words](https://open.spotify.com/track/1pPwl2q0bFgGh8l8ssRVEW) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 |
 | 12 | [Wanna be your lover](https://open.spotify.com/track/3pv8OsZEBHM3UMIyvYhpGu) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Wanna be your lover \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/3Ea87oNrypIds4feLNpugp) | 4:26 |
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 | 23 | [Want to be happy \- Instrumental](https://open.spotify.com/track/47hVZY42dyrjuvcZxwZak2) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Want to be happy \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV) | 3:33 |
 | 24 | [Love beyond words \- Instrumental](https://open.spotify.com/track/0inBLZZp4n4hd3JnJfNd1M) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 |
 
-Snapshot ID: `MCw4Zjk2N2ZkZjdjNWJjZDk4NmNhNzc0MzNhMGZjNjU1NTAyZjNjMTNh`
+Snapshot ID: `MCw0OGM5NzA0NGU4MDQ0MGFlNDdmMjc1ZGFmZjM1ZGM0YmYyZmE2Mzhk`

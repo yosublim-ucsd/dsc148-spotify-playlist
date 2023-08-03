@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 136440,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/12LCWubAvOwPitKPOce5n5"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-09",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 209893,
       "name": "Barbie Girl - I'm a Barbie Girl",
       "url": "https://open.spotify.com/track/6tdFrIad4TtvsPV4bguvC8"
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 143933,
       "name": "Buen D\u00eda Tristeza",
       "url": "https://open.spotify.com/track/7HrYTTXWOfZLXnbQbPqR0a"
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 170293,
       "name": "Como Una Ola",
       "url": "https://open.spotify.com/track/5cIR1hjAaIAWt9BXHZ0odE"
@@ -5416,7 +5416,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Desespero",
       "url": "https://open.spotify.com/track/1Dlzq86mlvJEkaGoS9c7MN"
@@ -5648,7 +5648,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 158493,
       "name": "Dilo Calladito",
       "url": "https://open.spotify.com/track/01rQpEJhFHckeSDr5c6ahY"
@@ -12127,6 +12127,24 @@
     },
     {
       "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Mandinka",
+      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
+    },
+    {
+      "album": {
         "name": "ODDINARY",
         "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
       },
@@ -16040,7 +16058,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 208615,
       "name": "PANAMERA (feat. Dj Zetian)",
       "url": "https://open.spotify.com/track/4oz9vFuQjXdqaDVcdZ2ZHY"
@@ -18924,7 +18942,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 154533,
       "name": "Se Ha Puesto El Sol",
       "url": "https://open.spotify.com/track/5rQ0TAm1ly6dqEIQyjc41S"
@@ -20734,7 +20752,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 189506,
       "name": "Tango De Las Rosas",
       "url": "https://open.spotify.com/track/2dAqdEmQ83qoR2i5h0wJ2w"
@@ -20876,6 +20894,28 @@
       "duration_ms": 165569,
       "name": "Te Amo y Punto",
       "url": "https://open.spotify.com/track/5cFvInbt4jkAf48cdqhkJc"
+    },
+    {
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP"
+      },
+      "artists": [
+        {
+          "name": "MOLY",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243675,
+      "name": "Te Besar\u00e9",
+      "url": "https://open.spotify.com/track/4DbTUmY8x8IBeM9mNABEZQ"
     },
     {
       "album": {
@@ -22584,7 +22624,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 245293,
       "name": "Un Compromiso (En Vivo)",
       "url": "https://open.spotify.com/track/2mjjUol6ACXztqhZcRIONw"
@@ -23184,7 +23224,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
@@ -24186,7 +24226,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 130785,
       "name": "XOXO (Kisses Hugs)",
       "url": "https://open.spotify.com/track/7ezCLOpKZ2mg5FBLpWtsvg"

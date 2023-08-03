@@ -1,15 +1,171 @@
 {
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Joell , Artwork: Isu Kim",
-  "num_followers": 45520,
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Short Round , Artwork: Isu Kim",
+  "num_followers": 45552,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGZkYjU4MDEyZDg0NGZiZGU3ZDYyODJmMzFhZmE2YzExYTVhZGNh",
+  "snapshot_id": "MCw0MjZkOGE5NjY0M2Q4NGVjYjIyMDZmZThmMzNkNjc4N2E1MGFkNjI4",
   "tracks": [
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "The Heart Of It",
+        "url": "https://open.spotify.com/album/3249ITG3Tt0BJmCopi4OXg"
+      },
+      "artists": [
+        {
+          "name": "Short Round",
+          "url": "https://open.spotify.com/artist/3DpQek7q8k2NE0QHOPwkHq"
+        }
+      ],
+      "duration_ms": 219556,
+      "name": "Losing Streak (Bombs Away)",
+      "url": "https://open.spotify.com/track/1FFBaU01mjDSjLuCQ4IGCp"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Jaane Kyun (Reimagined)",
+        "url": "https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW"
+      },
+      "artists": [
+        {
+          "name": "Reena Gilbert",
+          "url": "https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0"
+        },
+        {
+          "name": "Keshuv Huria",
+          "url": "https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa"
+        }
+      ],
+      "duration_ms": 218763,
+      "name": "Jaane Kyun (Reimagined)",
+      "url": "https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Khwahishein",
+        "url": "https://open.spotify.com/album/4OiJwmxyhzKvXnZB4JqB53"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Kapoor",
+          "url": "https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Khwahishein",
+      "url": "https://open.spotify.com/track/0RZ6TjIvdmsM3vL13Lke2P"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/03Q9m2weVw0DxCelzZYIlB"
+      },
+      "artists": [
+        {
+          "name": "Suryansh",
+          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/3jxTsyeGnT8YlPMES32nXg"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Gumsum",
+        "url": "https://open.spotify.com/album/3Wyz0NuatgyIfFhXjNMs3q"
+      },
+      "artists": [
+        {
+          "name": "Vaishnavi Shingane",
+          "url": "https://open.spotify.com/artist/5fTKKLGEEbq53v6So3xgw7"
+        }
+      ],
+      "duration_ms": 145927,
+      "name": "Gumsum",
+      "url": "https://open.spotify.com/track/0v20x1Yig5Co1VZOCLJbU7"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Chal Chale",
+        "url": "https://open.spotify.com/album/6SSXOlMQyoWrrun4Gl8qWr"
+      },
+      "artists": [
+        {
+          "name": "Hardik Bhardwaj",
+          "url": "https://open.spotify.com/artist/0FEwwiR5oKTnBizgxIOY7K"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "duration_ms": 242307,
+      "name": "Chal Chale",
+      "url": "https://open.spotify.com/track/5OkmlqLdDiXxmvDC9t8JNY"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Jashn",
+        "url": "https://open.spotify.com/album/30vKbJ7IGqCQgl5dBPAiFM"
+      },
+      "artists": [
+        {
+          "name": "Roshan Bhat",
+          "url": "https://open.spotify.com/artist/21qGWaUNzb7MiK33Gvmm0T"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Jashn",
+      "url": "https://open.spotify.com/track/5QTpBl1X9WFvntRYw1c6mA"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Usey Le Gaye",
+        "url": "https://open.spotify.com/album/3Sx0T2iSDA6Ai0jv9L5ytU"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        },
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        }
+      ],
+      "duration_ms": 225535,
+      "name": "Usey Le Gaye",
+      "url": "https://open.spotify.com/track/1D0RV2WoRhdgmFkpTby25W"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
+      "album": {
+        "name": "Tere Peeche Hum",
+        "url": "https://open.spotify.com/album/707edPWLu2JHdUGwVGAZAh"
+      },
+      "artists": [
+        {
+          "name": "Madduri Hemant",
+          "url": "https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L"
+        }
+      ],
+      "duration_ms": 194336,
+      "name": "Tere Peeche Hum",
+      "url": "https://open.spotify.com/track/266ywrPdv5oGrVyCTnypap"
+    },
+    {
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Zindagi Kya Hai Tu",
         "url": "https://open.spotify.com/album/5eq8YiBlX958Wb3A1WGmbq"
@@ -25,7 +181,7 @@
       "url": "https://open.spotify.com/track/7yKgwroibBix9wNOdfxxmy"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Aao Zara",
         "url": "https://open.spotify.com/album/4QvcSQ2zjaoAGmk8ZZzCvI"
@@ -49,7 +205,7 @@
       "url": "https://open.spotify.com/track/6Zc1kIVs8fAt5Rol3CjQg4"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Raahein (feat. Shrishti & Sushant Sudhakaran)",
         "url": "https://open.spotify.com/album/0zB03tYArVvY2gtaZbnwZe"
@@ -73,7 +229,7 @@
       "url": "https://open.spotify.com/track/5Ggp8fMRHqF7S3si6QsVBa"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Hum Dum Tera",
         "url": "https://open.spotify.com/album/2XNwrtWLOTLXj5W4VQ1Ara"
@@ -93,7 +249,7 @@
       "url": "https://open.spotify.com/track/0dCicXrl4h0lO087jMm5hM"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/2oiL68ahLD5QFW7WS27okT"
@@ -113,7 +269,7 @@
       "url": "https://open.spotify.com/track/0a1dfhDsY0yVKpbc41Jafr"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Yaadein",
         "url": "https://open.spotify.com/album/4mgTgyu8g3jOObEb5g6QG3"
@@ -137,7 +293,7 @@
       "url": "https://open.spotify.com/track/5Cqpd71Xbk64x7u1dDoafK"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Heeriye",
         "url": "https://open.spotify.com/album/53eXJcwAZAQ50p5CDl6BY1"
@@ -153,7 +309,7 @@
       "url": "https://open.spotify.com/track/5kGsDg4DwHvDxsFsR7a7cJ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "When I See You",
         "url": "https://open.spotify.com/album/3nXIkHKhaohiypbPvdf2Kp"
@@ -173,7 +329,7 @@
       "url": "https://open.spotify.com/track/3EyL7ADyidvof73EFjJO57"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Midnight Stories",
         "url": "https://open.spotify.com/album/2WtUrKjxctvXSCcXipQLZ0"
@@ -193,7 +349,7 @@
       "url": "https://open.spotify.com/track/6b7z4doubf8s2y22VzKoRV"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Touchscreen Lover",
         "url": "https://open.spotify.com/album/0E2qlCws65sBG19tSFTUhH"
@@ -209,7 +365,7 @@
       "url": "https://open.spotify.com/track/02qMvz8Xl8DhvA1JJXpVl3"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/33CtJnuv0iU1wnWmrVRbJn"
@@ -225,7 +381,7 @@
       "url": "https://open.spotify.com/track/3IctWeaZl67pwnfR6QnD9d"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Zindagi",
         "url": "https://open.spotify.com/album/4eeME2G3nfmjYLvgHRoUCU"
@@ -241,7 +397,7 @@
       "url": "https://open.spotify.com/track/77RaO1TGByzJ2Tt3pMWtDU"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Lapata",
         "url": "https://open.spotify.com/album/3pNsNqKPlpd8GFNHCCCq9M"
@@ -257,7 +413,7 @@
       "url": "https://open.spotify.com/track/2qpAjsUKXaTTfIdfdhbjqb"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Behta Jaa Raha (feat. Glitchfolks)",
         "url": "https://open.spotify.com/album/0tnZQ8rLJ5f5iqUhnpeSWv"
@@ -281,7 +437,7 @@
       "url": "https://open.spotify.com/track/3Dm2jnec9ayGNJYq6uOIja"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Dost",
         "url": "https://open.spotify.com/album/4XE7BpE1WiMrw5oNEQmAWa"
@@ -297,7 +453,7 @@
       "url": "https://open.spotify.com/track/59a2sxaBI3We2OQ0r5I8lR"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "EASY LOVE (Side B)",
         "url": "https://open.spotify.com/album/5TTvYRlq9CzOe7pmemqNwM"
@@ -313,7 +469,7 @@
       "url": "https://open.spotify.com/track/35zEyVTKGiO5JtMwyA6oAk"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "dunning cougar",
         "url": "https://open.spotify.com/album/4bnihXv3KrNOiHf6PSCNAm"
@@ -329,7 +485,7 @@
       "url": "https://open.spotify.com/track/6bmkwCTzX1FaNv3tnZJ0qz"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Gulabi",
         "url": "https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4"
@@ -345,7 +501,7 @@
       "url": "https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Rehna Tu Kareeb",
         "url": "https://open.spotify.com/album/7lFJKCUgL6tek0w5Ay43II"
@@ -365,7 +521,7 @@
       "url": "https://open.spotify.com/track/648WuB3HUVIAYXLd1u7Mpf"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Saza Suna Rahe Ho",
         "url": "https://open.spotify.com/album/2eN2tjfFRq9CWj0vYLvpm7"
@@ -385,7 +541,7 @@
       "url": "https://open.spotify.com/track/1vvJ3an5AhcZdtAGam7ZVe"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Nazar Na Lage",
         "url": "https://open.spotify.com/album/4p96wEkeH38EIXcZ1yQHZb"
@@ -401,7 +557,7 @@
       "url": "https://open.spotify.com/track/75wydS6vTYsOCudjkrAlcj"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "when it goes",
         "url": "https://open.spotify.com/album/0tAHfo3OPIiOvzSDPdmubO"
@@ -425,7 +581,7 @@
       "url": "https://open.spotify.com/track/0Ci3XINuvCJiE8ZspwrBwT"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Hindi Bole",
         "url": "https://open.spotify.com/album/2JEuEUNMkTd7eUzHVBpmmV"
@@ -441,7 +597,7 @@
       "url": "https://open.spotify.com/track/6yAVgyH1iGHeN1ycvETTVb"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Toota Tara",
         "url": "https://open.spotify.com/album/5yfTxgoMMRcjf5cbewxavo"
@@ -457,7 +613,7 @@
       "url": "https://open.spotify.com/track/6GKBRK5qbS5nRg2NDmyU3B"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Barse More Naina",
         "url": "https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg"
@@ -473,7 +629,7 @@
       "url": "https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "SABAR",
         "url": "https://open.spotify.com/album/4WtT9b9n5A4qAQJ87M5RSC"
@@ -497,7 +653,7 @@
       "url": "https://open.spotify.com/track/6H5pyPWWzFClcVYLSBi562"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Oh, How Everything Changes",
         "url": "https://open.spotify.com/album/6oCJBhyMKD7ZbjqsGRs52w"
@@ -513,7 +669,7 @@
       "url": "https://open.spotify.com/track/2gIisNoejyUgYXEEfpAdLS"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Aaftab",
         "url": "https://open.spotify.com/album/6UZgALlUwDJBIfA8avEGUA"
@@ -529,7 +685,7 @@
       "url": "https://open.spotify.com/track/1fFa1AF2vQfTCfKDpl2ujT"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/4UYKGj3GVm7AaEKZFVaMBe"
@@ -545,7 +701,7 @@
       "url": "https://open.spotify.com/track/6AZbKImrBbR88qeyCsxQq1"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Laapata",
         "url": "https://open.spotify.com/album/5ctA7MoP9qZFeZK29KNLoO"
@@ -561,7 +717,7 @@
       "url": "https://open.spotify.com/track/15RXZktbkcPsN3Uuks88UX"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Chameleon World",
         "url": "https://open.spotify.com/album/0W5BRKhmZrLpoIyokbnIzX"
@@ -577,7 +733,7 @@
       "url": "https://open.spotify.com/track/6drnBPgMZws9STY3QdFzmP"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/0O8vD6SmU17NkDigAlbtHJ"
@@ -593,7 +749,7 @@
       "url": "https://open.spotify.com/track/1OKOpGDd2SpEEhXkq5t5D7"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/5tToU1wFfMLG4MV5SfZ4Qb"
@@ -609,7 +765,7 @@
       "url": "https://open.spotify.com/track/6CoEEG4luZf5d12FIA598Y"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Kaho na",
         "url": "https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E"
@@ -625,7 +781,7 @@
       "url": "https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Dude Subdued",
         "url": "https://open.spotify.com/album/0AhxdYBAkEubEIKgDGQVpO"
@@ -645,7 +801,7 @@
       "url": "https://open.spotify.com/track/2kEoB8aptQIPK4eIi1OpzM"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/7Ktv4SEjRI2Qzz9dvjogIq"
@@ -661,7 +817,7 @@
       "url": "https://open.spotify.com/track/2DfQns3Qi4PVhoecsa3WzQ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "The Younger Versions Of You",
         "url": "https://open.spotify.com/album/119QeCmFscHeWsF9i4mTWa"
@@ -677,7 +833,7 @@
       "url": "https://open.spotify.com/track/6ZFK2rH4CTFbC09yNovGpW"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "You and I (Together Forever)",
         "url": "https://open.spotify.com/album/5vYeQGE2ACsF52lxtmmHZd"
@@ -693,7 +849,7 @@
       "url": "https://open.spotify.com/track/4yaZ8vyAcfb88LrIcREXcD"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Hamraahi",
         "url": "https://open.spotify.com/album/2TZMNG5wZpRLkkx5ZAVtvk"
@@ -713,7 +869,7 @@
       "url": "https://open.spotify.com/track/2OFov6zJDzeDvkueIcu8Vr"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Aaja",
         "url": "https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP"
@@ -729,7 +885,7 @@
       "url": "https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Raani",
         "url": "https://open.spotify.com/album/3tMB4bOEijsXTubopMmGlq"
@@ -745,7 +901,7 @@
       "url": "https://open.spotify.com/track/4Kd45JGzTjzkmfcT1eeKV6"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "On the wild side",
         "url": "https://open.spotify.com/album/0QWIDqLVkMAhsgUYxSofxn"
@@ -761,7 +917,7 @@
       "url": "https://open.spotify.com/track/1nPMkWngNytyhVaYlE3YGe"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Fitoor",
         "url": "https://open.spotify.com/album/2SCFdzQvcBHANGALzgeB61"
@@ -777,7 +933,7 @@
       "url": "https://open.spotify.com/track/4epUtWMaUTjrk15xWzDVsk"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Waqt Guzar Jayega",
         "url": "https://open.spotify.com/album/5VNnNeLQ4CgSVFzmcJKyUw"
@@ -793,7 +949,7 @@
       "url": "https://open.spotify.com/track/6nEDKjale9u5l9QgVxCS8U"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/3jEIH0wZxd7vCxSiai2evI"
@@ -809,7 +965,7 @@
       "url": "https://open.spotify.com/track/3I07KeMy2a8t3R2z6Xob10"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Silvertown",
         "url": "https://open.spotify.com/album/1EjnLw5bwjISyxmWLtUado"
@@ -825,7 +981,7 @@
       "url": "https://open.spotify.com/track/5RJCGKTXhpTB36oZyraMqC"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Coin Parota",
         "url": "https://open.spotify.com/album/5MyFDBiqAIWMdjZeDu1O5O"
@@ -841,7 +997,7 @@
       "url": "https://open.spotify.com/track/3Bmeyll7lAi07ITXYGHhhF"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Nazaare",
         "url": "https://open.spotify.com/album/2J8NUVYbewnR82x4dqrcul"
@@ -857,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4AmdHeE9Bz9IfeZLHrbKmZ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Hum Chalein",
         "url": "https://open.spotify.com/album/0eyDI5savOEtDFxSha8akI"
@@ -873,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1t6Y3WoCpSHkkV6XlBzuJZ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Barsaat",
         "url": "https://open.spotify.com/album/1Y88C2cAMKYGQprr8b9EHA"
@@ -889,7 +1045,7 @@
       "url": "https://open.spotify.com/track/4NLVsU2UqzfEmrbiCOLkSK"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Tu Mera Hua",
         "url": "https://open.spotify.com/album/2wGBJjqmgEGzjkQXgSXB4j"
@@ -905,7 +1061,7 @@
       "url": "https://open.spotify.com/track/54EiaA4kY2TmTYXYdQ1KuH"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/54dxanZEoxqukmYhsslk2s"
@@ -921,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2RrrBan1UEgGM3C15RHbpg"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Wonderlands In Alice",
         "url": "https://open.spotify.com/album/2sJRhepc1zmIHgU7EDeI1h"
@@ -937,7 +1093,7 @@
       "url": "https://open.spotify.com/track/5QCcXJBCqF8kSCd5ulaf4h"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0uqZ4OOIBXaenXsG45tvYc"
@@ -953,7 +1109,7 @@
       "url": "https://open.spotify.com/track/421Ebj7i0EJ3zq05nYCmqZ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Naya Jahaan",
         "url": "https://open.spotify.com/album/6a8TW1Rkvcbtc6rYP0ruOr"
@@ -969,7 +1125,7 @@
       "url": "https://open.spotify.com/track/4WQoBNo2Op8q5dpglN1Htx"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3o4gOENu2emRF7xWohvK09"
@@ -985,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4z9RQe6xyZoUyHMLLrVcGT"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Meri Raaton Mein",
         "url": "https://open.spotify.com/album/77KmspJtA1IeBNa3vX4Dp1"
@@ -1001,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1xvwt7jwUoW2J2lQpoFMtZ"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Nargis",
         "url": "https://open.spotify.com/album/2eP2Yv4L3mtb3mdmPFbp9B"
@@ -1017,7 +1173,7 @@
       "url": "https://open.spotify.com/track/24ZHu2tphIiAxsoSv2RpUN"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Comfortable Paralyses and Effortless Fallacies",
         "url": "https://open.spotify.com/album/61LHs9CWp3Un17pGzNjxGe"
@@ -1033,7 +1189,7 @@
       "url": "https://open.spotify.com/track/61kSxrUSHRzBXcA08sMGUx"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Jindadi",
         "url": "https://open.spotify.com/album/3ef3QjoU4QO2AA6xxPsPoS"
@@ -1049,39 +1205,7 @@
       "url": "https://open.spotify.com/track/38yaZoKHKzYgn1dL4Sd58F"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "You're Alright",
-        "url": "https://open.spotify.com/album/3UDzwTqfQSL6l4QD6Q18DO"
-      },
-      "artists": [
-        {
-          "name": "Dev Mehta",
-          "url": "https://open.spotify.com/artist/36XfUWdNl0C8pE198a8scl"
-        }
-      ],
-      "duration_ms": 258571,
-      "name": "You're Alright",
-      "url": "https://open.spotify.com/track/24tCoU9TN4HTTQ1ShgoeLi"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "Tumble",
-        "url": "https://open.spotify.com/album/4PT6B0it4f6r0jOMLMREVf"
-      },
-      "artists": [
-        {
-          "name": "Loose Puppets",
-          "url": "https://open.spotify.com/artist/0F8Op5goALjWe9TuPxvEAl"
-        }
-      ],
-      "duration_ms": 174078,
-      "name": "Tumble",
-      "url": "https://open.spotify.com/track/0OtVXnz2McJuVlRZbrfOlZ"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Put On Feet Again",
         "url": "https://open.spotify.com/album/4VGKFgHatinsExbmOAboOg"
@@ -1097,7 +1221,7 @@
       "url": "https://open.spotify.com/track/7tz5nNlARU26NIFmmCUcAk"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Saadgi (feat. Varsha Gaur)",
         "url": "https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F"
@@ -1117,27 +1241,7 @@
       "url": "https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "Kahin Duur",
-        "url": "https://open.spotify.com/album/0495dR3BKjqWYHg8lIMcxq"
-      },
-      "artists": [
-        {
-          "name": "Deepika Seth",
-          "url": "https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv"
-        },
-        {
-          "name": "Imon",
-          "url": "https://open.spotify.com/artist/3bY660IbtBeAyjjch0QsjA"
-        }
-      ],
-      "duration_ms": 302448,
-      "name": "Kahin Duur",
-      "url": "https://open.spotify.com/track/23tYMxghqCY59uRIAjlG7l"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Tinka",
         "url": "https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP"
@@ -1153,7 +1257,7 @@
       "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/5mkInUmWjzB0LJsxxdtHqM"
@@ -1169,7 +1273,7 @@
       "url": "https://open.spotify.com/track/7sNuQrU1sPEAagkMCaretx"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Chalte Jaanaa",
         "url": "https://open.spotify.com/album/1OUkQnuzxhQknljjd26BPz"
@@ -1189,7 +1293,7 @@
       "url": "https://open.spotify.com/track/3NneoN6Z0PxZLiXbxBhjjx"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Khushiyo Ke Geet",
         "url": "https://open.spotify.com/album/7Gq0WEalVZylBnQnJ7YvRy"
@@ -1209,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5Wnp5EwUGhQJjV8RSPqB5T"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Door Kahin",
         "url": "https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs"
@@ -1225,7 +1329,7 @@
       "url": "https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/4qgn3rp6i2P6P20lnjf99A"
@@ -1241,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0lMixoUCAHneWbYrB1iSH2"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Madly Raving Sphere",
         "url": "https://open.spotify.com/album/3qFI3kYpyTU9J1GcnNce85"
@@ -1257,7 +1361,7 @@
       "url": "https://open.spotify.com/track/5s8lMIoTopvNEhIsLlZmiC"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "From This Day On",
         "url": "https://open.spotify.com/album/0wCx8cyrpP2dW2Ydhlvpvn"
@@ -1273,7 +1377,7 @@
       "url": "https://open.spotify.com/track/5acfp5J8PEffPWQexXlYzi"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Kahaniyan",
         "url": "https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4"
@@ -1289,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1SGCQ0EQgvJD6PmU31ibXE"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Waqt Ki Baatein",
         "url": "https://open.spotify.com/album/03HhyxE11ugOiG3IyPb5ar"
@@ -1305,7 +1409,7 @@
       "url": "https://open.spotify.com/track/0yjDNJ0p6KH8SCLb9ZOlFI"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Muntazir",
         "url": "https://open.spotify.com/album/1VxmU9VcPqLGyoZl3GbLhp"
@@ -1329,7 +1433,7 @@
       "url": "https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Wajah",
         "url": "https://open.spotify.com/album/4JElj53PuWjy5gc0kM5mZi"
@@ -1345,7 +1449,7 @@
       "url": "https://open.spotify.com/track/2DpO2Cf45Ms1M9YipLfhSg"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Kahaniyaan",
         "url": "https://open.spotify.com/album/2BLdrymcISPnxRzGCs2k28"
@@ -1365,7 +1469,7 @@
       "url": "https://open.spotify.com/track/3K7LMKRmC4Dg6yLx9iw9Qg"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Ishqaan",
         "url": "https://open.spotify.com/album/0JwTQlwvtAxHXndre1dYC7"
@@ -1385,7 +1489,7 @@
       "url": "https://open.spotify.com/track/4r1pAjnFVIftR2u8dyJz50"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Parts of Two",
         "url": "https://open.spotify.com/album/7KdEykzwgD7y3UfU6wwBtr"
@@ -1409,23 +1513,7 @@
       "url": "https://open.spotify.com/track/7rAYTKyiirWbFqUJrOb54e"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/6Rvl0OyQEW2VkmObZa0UJ2"
-      },
-      "artists": [
-        {
-          "name": "Anchit Magee",
-          "url": "https://open.spotify.com/artist/0cfwlNhOWcgOMT6NOdJ7ia"
-        }
-      ],
-      "duration_ms": 179217,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/0WewkJyf62NLbBR8xmhFXj"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Chori Chori",
         "url": "https://open.spotify.com/album/12H4QOGu1toWssU1TRh0zZ"
@@ -1445,7 +1533,7 @@
       "url": "https://open.spotify.com/track/4K9QslTTQPeZTJzn61o1rM"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Main Chala",
         "url": "https://open.spotify.com/album/0TkXAavX9qBlRf5Gt1MgQr"
@@ -1461,7 +1549,7 @@
       "url": "https://open.spotify.com/track/2P0gVOLsDfO8z2pkN0G8TC"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Dil ki Baatein",
         "url": "https://open.spotify.com/album/4lji1Y9oevdiEM8zqKr5QX"
@@ -1481,7 +1569,7 @@
       "url": "https://open.spotify.com/track/3ih8nvUkVNBMp7jVZ1Ms1y"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "tum/njan",
         "url": "https://open.spotify.com/album/6llbBlNecpqUn5qVSfXaKz"
@@ -1505,7 +1593,7 @@
       "url": "https://open.spotify.com/track/7jnZVWKd2nkAT6Ccm9mmuR"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Aao",
         "url": "https://open.spotify.com/album/2GN9FwmSYNw1lFN6FqEwJu"
@@ -1521,7 +1609,7 @@
       "url": "https://open.spotify.com/track/0kUTSj4qTINZJp2kB35Dmr"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Jahaan",
         "url": "https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU"
@@ -1541,7 +1629,7 @@
       "url": "https://open.spotify.com/track/4AEWM5JhXduGreZMOn46ni"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Kahaniyan",
         "url": "https://open.spotify.com/album/6ljwWuYQh5fYq322ksxy2H"
@@ -1565,27 +1653,7 @@
       "url": "https://open.spotify.com/track/04tiRFjYqhFZ71VVzzYwQx"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "Maula Mere",
-        "url": "https://open.spotify.com/album/2vjpDMWZgqcNlEyeRMiYtm"
-      },
-      "artists": [
-        {
-          "name": "Paul Mahanta",
-          "url": "https://open.spotify.com/artist/64KCnRRaqZTfOIamQmgTtt"
-        },
-        {
-          "name": "Yasir Nadim",
-          "url": "https://open.spotify.com/artist/17wdlgOK9tLzysXaTka4sZ"
-        }
-      ],
-      "duration_ms": 265881,
-      "name": "Maula Mere",
-      "url": "https://open.spotify.com/track/1JHcOGyKs5i3qp9fOI2KIh"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Roshni",
         "url": "https://open.spotify.com/album/33Ea1ti5qj8lB4WLpPZn29"
@@ -1601,7 +1669,7 @@
       "url": "https://open.spotify.com/track/34B0mfxukhsO8T7rsz1YX5"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "High Keeps Coming Down",
         "url": "https://open.spotify.com/album/4lwRt0zTglbwLHtixuLlIH"
@@ -1617,43 +1685,7 @@
       "url": "https://open.spotify.com/track/6UMcT5kvRLT0Pzyh7AvNQ0"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "Dil Khaali",
-        "url": "https://open.spotify.com/album/3TReouJorynAbM6ANTWtyo"
-      },
-      "artists": [
-        {
-          "name": "Aditya Pushkarna",
-          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
-        }
-      ],
-      "duration_ms": 201596,
-      "name": "Dil Khaali",
-      "url": "https://open.spotify.com/track/74LVmGKVgpyOpSiiazeUNL"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/3gjacm9ZANowio3OGeivoK"
-      },
-      "artists": [
-        {
-          "name": "Parishrut",
-          "url": "https://open.spotify.com/artist/4Hd0VhGuqw4ZSgddvbG7JR"
-        },
-        {
-          "name": "Nitish",
-          "url": "https://open.spotify.com/artist/55tcwLWNvRbE8cHxNAKP16"
-        }
-      ],
-      "duration_ms": 275593,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/3G5m7fql0Jwi3JN6ynnVvv"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Out of the Dark",
         "url": "https://open.spotify.com/album/2k6hUZ2VRjo5qPd2NExjgJ"
@@ -1669,7 +1701,7 @@
       "url": "https://open.spotify.com/track/0SSFIYP6iNF6T7nRvzGvqL"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Premika",
         "url": "https://open.spotify.com/album/6InQ4ZaYRfxJQ9rjnHcmYb"
@@ -1689,27 +1721,7 @@
       "url": "https://open.spotify.com/track/13jXWUm1P5XIkN1UR476lD"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "kahaani",
-        "url": "https://open.spotify.com/album/7p3lIF1E1fKZsGWX9M5IGK"
-      },
-      "artists": [
-        {
-          "name": "Zupiter",
-          "url": "https://open.spotify.com/artist/0V2QyUaQC3RGyhFNoix7GV"
-        },
-        {
-          "name": "Shreya",
-          "url": "https://open.spotify.com/artist/4rSaLcdoKWIZiJOsUJzeCT"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "kahaani",
-      "url": "https://open.spotify.com/track/3EER6QKtcVG47HM0dyFztK"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/2YZiOpB38NOEkhu6vut4pu"
@@ -1725,7 +1737,7 @@
       "url": "https://open.spotify.com/track/2yjjlQrevDE9CzmQxfZGV8"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Din Dhal Jaayenge",
         "url": "https://open.spotify.com/album/6aYYb0j9N9QQObLhVZCPrx"
@@ -1745,7 +1757,7 @@
       "url": "https://open.spotify.com/track/3UggeBH24GT4FQFYNt7b0U"
     },
     {
-      "added_at": "2023-07-26 06:47:18",
+      "added_at": "2023-08-02 05:32:59",
       "album": {
         "name": "Khud Se Mohabbat",
         "url": "https://open.spotify.com/album/2vZNU2mvb3AcSwQUIb9N2O"
@@ -1759,22 +1771,6 @@
       "duration_ms": 203357,
       "name": "Khud Se Mohabbat",
       "url": "https://open.spotify.com/track/30dqoVyhA6BMfIkq8LM7Ig"
-    },
-    {
-      "added_at": "2023-07-26 06:47:18",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
-      },
-      "artists": [
-        {
-          "name": "Dot.",
-          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
     }
   ],
   "unique_name": "Fresh Finds India",

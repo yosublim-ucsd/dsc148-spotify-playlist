@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,878 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,962 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCxiYzIxNmUxYTRmMzdiMTgyMzZlMzcyMjI0OGYxOGIzYmQ4NWJjMGIz`
+Snapshot ID: `MCw4MGJlZDM5MGI0ODBhZWY3Zjg1NDBmODRkYjg4Yzg1YzA5OGNmY2Rl`

@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1755587,
+  "num_followers": 1755802,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODY4Y2NmYTI4OWE5YWUxYWVlYTkyOTViZjMwYjVlZTc2NDY0MjY3",
+  "snapshot_id": "MCxjOWI1ZmQ0ZGEwODgwYWIyNTI3ZjEzNDVjNWVkYzVhOGI2YWZhMjFk",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "\u00bfA D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229107,
       "name": "Enam\u00f3rate De Alguien M\u00e1s",
       "url": "https://open.spotify.com/track/1pDgS6HDNrrIawdhYEvI0s"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 220155,
-      "name": "Yo No Merezco Volver",
-      "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Falta Amor",
         "url": "https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 203760,
       "name": "Falta Amor",
       "url": "https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 220155,
+      "name": "Yo No Merezco Volver",
+      "url": "https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Cristina",
         "url": "https://open.spotify.com/album/5lhQfarxkGkFATjitVSHC6"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 237173,
       "name": "Acu\u00e9rdate de M\u00ed",
       "url": "https://open.spotify.com/track/3sjxyR6C8OjKPnGYpsthzH"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Colecci\u00f3n Definitiva",
-        "url": "https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1043,34 +1043,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+        "name": "D\u00e9jame Ir",
+        "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 224337,
-      "name": "c\u00f3mo acaba",
-      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
-      },
-      "artists": [
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 182413,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
+      "duration_ms": 232743,
+      "name": "D\u00e9jame Ir",
+      "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1095,22 +1083,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "D\u00e9jame Ir",
-        "url": "https://open.spotify.com/album/5MAHn88iqWSOsfXQ1GBLby"
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 232743,
-      "name": "D\u00e9jame Ir",
-      "url": "https://open.spotify.com/track/3nymR2pRbiDq89qS2osIVX"
+      "duration_ms": 224337,
+      "name": "c\u00f3mo acaba",
+      "url": "https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1131,18 +1115,38 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
+        "name": "Una Mentira M\u00e1s",
+        "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 203639,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
+      "duration_ms": 202300,
+      "name": "Una Mentira M\u00e1s",
+      "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Una Mentira M\u00e1s",
-        "url": "https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI"
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 202300,
-      "name": "Una Mentira M\u00e1s",
-      "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
+      "duration_ms": 203639,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 209221,
-      "name": "Hablemos de amor",
-      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
+      "duration_ms": 208986,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 208986,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+      "duration_ms": 209221,
+      "name": "Hablemos de amor",
+      "url": "https://open.spotify.com/track/0ttJ5VlYydkecHXNqQChgN"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Si hubieras querido",
-        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 221139,
-      "name": "Si hubieras querido",
-      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
+      "duration_ms": 198448,
+      "name": "Lo Siento Mucho",
+      "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+        "name": "Si hubieras querido",
+        "url": "https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 198448,
-      "name": "Lo Siento Mucho",
-      "url": "https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ"
+      "duration_ms": 221139,
+      "name": "Si hubieras querido",
+      "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Coraz\u00f3n descalzo",
-        "url": "https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj"
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Madison",
+          "url": "https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 254927,
-      "name": "Coraz\u00f3n descalzo",
-      "url": "https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9"
+      "duration_ms": 200346,
+      "name": "Regresa",
+      "url": "https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1603,22 +1607,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/3Uxs7bly961sChdGGBbfbL"
+        "name": "Coraz\u00f3n descalzo",
+        "url": "https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj"
       },
       "artists": [
         {
-          "name": "Madison",
-          "url": "https://open.spotify.com/artist/0NwGBRhszOv045HeCRAW7n"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 200346,
-      "name": "Regresa",
-      "url": "https://open.spotify.com/track/1z9mOl4yaivulHoUBxuQvQ"
+      "duration_ms": 254927,
+      "name": "Coraz\u00f3n descalzo",
+      "url": "https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9"
     },
     {
       "added_at": "2023-06-30 04:00:00",

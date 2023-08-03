@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 50557,
+  "num_followers": 50658,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmM3NGRjYjAxMDIyNjEzOTY5ZDNlYjQ3OTIzOTE0ZDFiZGUxNmJm",
+  "snapshot_id": "MCxiYmQxOWVmZWYzYzQ0NDViZDYzYmJjNGEwZDFjODZhZDhhNmFkMDdj",
   "tracks": [
     {
       "added_at": "2023-07-27 22:01:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 231102,
+      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
+      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Choose Life",
         "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 188210,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 231102,
-      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
-      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -511,6 +511,42 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "M.D.E.",
+        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "M.D.E.",
+      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Go Insane",
         "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
       },
@@ -527,22 +563,6 @@
       "duration_ms": 195000,
       "name": "Go Insane",
       "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "M.D.E.",
-        "url": "https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM"
-      },
-      "artists": [
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 152253,
-      "name": "M.D.E.",
-      "url": "https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -579,26 +599,6 @@
       "duration_ms": 158421,
       "name": "Dirty Thoughts",
       "url": "https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Psychopath",
-        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
-      },
-      "artists": [
-        {
-          "name": "Tha Playah",
-          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Psychopath",
-      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "LOSE STRESS",
         "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
+      },
+      "artists": [
+        {
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "Beat My Drum",
+        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
+      },
+      "artists": [
+        {
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+        }
+      ],
+      "duration_ms": 202124,
+      "name": "Beat My Drum",
+      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
         "url": "https://open.spotify.com/album/19TTclSlr9unAuLXAC8S29"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 324300,
       "name": "Our Harmony (Official Harmony of Hardcore 2022 Anthem)",
       "url": "https://open.spotify.com/track/6D67E5KlS9L6o2KgU3Ng0O"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "Beat My Drum",
-        "url": "https://open.spotify.com/album/0Ca81J3tS5KzIXPvvUAysq"
-      },
-      "artists": [
-        {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
-        }
-      ],
-      "duration_ms": 202124,
-      "name": "Beat My Drum",
-      "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
+      },
+      "artists": [
+        {
+          "name": "Bloodfire",
+          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
         "name": "Den Haag Hakk\u00fbh",
         "url": "https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 201944,
       "name": "Den Haag Hakk\u00fbh",
       "url": "https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM"
-      },
-      "artists": [
-        {
-          "name": "Bloodfire",
-          "url": "https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
-      },
-      "artists": [
-        {
-          "name": "Remzcore",
-          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Til The AM",
         "url": "https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 188511,
       "name": "Til The AM",
       "url": "https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/61R8EoLyMQQ31KbgPukUKc"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/3tVjdIKhtgAVy3BNWH1WpZ"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 213890,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/76rwBzfgCJLi9bwg1WGFla"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 188031,
       "name": "Halleluya - The Dark Horror Remix",
       "url": "https://open.spotify.com/track/2tj9NUX4h6TmVoR7N5b5Qp"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1GcwL1qhxuTpZP405t9s2g"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 213890,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/3ths0qezzeNfMDErMUDCwx"
     },
     {
       "added_at": "2023-07-27 22:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-07-27 22:01:00",
       "album": {
-        "name": "Enemy Contact",
-        "url": "https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 220725,
-      "name": "Enemy Contact",
-      "url": "https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8"
-    },
-    {
-      "added_at": "2023-07-27 22:01:00",
-      "album": {
         "name": "TH3 FL0W",
         "url": "https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 154272,
       "name": "TH3 FL0W",
       "url": "https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh"
+    },
+    {
+      "added_at": "2023-07-27 22:01:00",
+      "album": {
+        "name": "Enemy Contact",
+        "url": "https://open.spotify.com/album/7fUZMLkFdZpwSHtleZQkDu"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 220725,
+      "name": "Enemy Contact",
+      "url": "https://open.spotify.com/track/5oJdYr7cuIWUENpb0CD0J8"
     },
     {
       "added_at": "2023-07-27 22:01:00",

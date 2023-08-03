@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 100608,
+  "num_followers": 100627,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmFjZjAxZGFiZjU3OTAwZDNiMzgzOTliYWIwNzQ0NTE2OWMxZTUx",
+  "snapshot_id": "MCxmYmI3YjY5NDRkYmE5MzU5N2I2ZmI2ODljMDJmMWYzMTc5MGIyYjg4",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 364493,
-      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "El Cintur\u00f3n Gris (En Vivo)",
         "url": "https://open.spotify.com/album/0Zci88FWoEEkKiRdNg4IiL"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 237037,
       "name": "El Cintur\u00f3n Gris - En Vivo",
       "url": "https://open.spotify.com/track/7uDlTTxjH6r3iGqb3Gbxcv"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Comfort Y Musica Para Volar",
+        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 364493,
+      "name": "Ella Uso Mi Cabeza Como Un Revolver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/00TU7szqwBrxWTd9SO7ihK"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
         }
       ],
-      "duration_ms": 329893,
-      "name": "Demoliendo Hoteles - Live",
-      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
+      "duration_ms": 323695,
+      "name": "Pistolas",
+      "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
       "artists": [
         {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 323695,
-      "name": "Pistolas",
-      "url": "https://open.spotify.com/track/4leJZ8hEr2cGDc3nIv8jfA"
+      "duration_ms": 329893,
+      "name": "Demoliendo Hoteles - Live",
+      "url": "https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -671,6 +671,22 @@
       "duration_ms": 284756,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 247679,
+      "name": "Desde Lejos No Se Ve",
+      "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "En Vivo en The Theater at Madison Square Garden",
-        "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 417880,
-      "name": "Mal Bicho - En Vivo en Theater at Madison Square Garden",
-      "url": "https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
         "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 340653,
       "name": "A Rodar Mi Vida - En Vivo",
       "url": "https://open.spotify.com/track/4tHukPtCIjMugUkLh0aIpE"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 247679,
-      "name": "Desde Lejos No Se Ve",
-      "url": "https://open.spotify.com/track/2U2zuUtilm9lk3zCA3fOnS"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "En Vivo en The Theater at Madison Square Garden",
+        "url": "https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 417880,
+      "name": "Mal Bicho - En Vivo en Theater at Madison Square Garden",
+      "url": "https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Pepsi Music 2005",
         "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 195866,
       "name": "El Viejo (En Vivo)",
       "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 328285,
+      "name": "Canci\u00f3n de Cuna",
+      "url": "https://open.spotify.com/track/4RcDjycBOjdXrt11dT3lAD"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -899,22 +915,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 328285,
-      "name": "Canci\u00f3n de Cuna",
-      "url": "https://open.spotify.com/track/4RcDjycBOjdXrt11dT3lAD"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Concierto Obras 30 y 31 Julio, Parte Uno (En Vivo)",
         "url": "https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 247613,
       "name": "La Rueda M\u00e1gica - En Vivo",
       "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Salud! Los Perez Garcia en Vivo",
+        "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
+      },
+      "artists": [
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "duration_ms": 299176,
+      "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
+      "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -983,38 +999,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "En Vivo en el Estadio \u00danico",
-        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Traicionero - En Vivo en el Estadio \u00danico",
-      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Salud! Los Perez Garcia en Vivo",
-        "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 299176,
-      "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
-      "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Ciro Y los Persas En el Estadio de River",
         "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 261838,
       "name": "Verano del 92",
       "url": "https://open.spotify.com/track/6GyvWDAdfg2gzi0BMS48UK"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "En Vivo en el Estadio \u00danico",
+        "url": "https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Traicionero - En Vivo en el Estadio \u00danico",
+      "url": "https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
-      "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "3000 Vivos (En Vivo)",
         "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
       },
@@ -1123,6 +1107,38 @@
       "duration_ms": 221658,
       "name": "Todos Lo Hacen (En Vivo)",
       "url": "https://open.spotify.com/track/0bx6LuqWIn8n0WhxS54izM"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Ciro Y los Persas En el Estadio de River",
+        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "duration_ms": 291139,
+      "name": "Banda de Garage",
+      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Sasha, Sissi Y El C\u00edrculo De Baba - En Vivo",
+      "url": "https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 334320,
       "name": "Avanti Morocha (En Vivo Provincia Emergente)",
       "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Ciro Y los Persas En el Estadio de River",
-        "url": "https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW"
-      },
-      "artists": [
-        {
-          "name": "Ciro y los Persas",
-          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
-        }
-      ],
-      "duration_ms": 291139,
-      "name": "Banda de Garage",
-      "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 309720,
+      "name": "Pistolas - En Vivo",
+      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "El Amor No Existe (En Vivo)",
         "url": "https://open.spotify.com/album/14eqmcxSOymxp0BsNF6qkf"
       },
@@ -1279,34 +1295,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
       },
       "artists": [
         {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 309720,
-      "name": "Pistolas - En Vivo",
-      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
-        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 200764,
-      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
-      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+        "name": "Foro Sol - 17 Nov 2017 (En Vivo)",
+        "url": "https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht"
       },
       "artists": [
         {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 249144,
-      "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
+      "duration_ms": 200764,
+      "name": "C\u00f3mo Me Voy a Olvidar - En Vivo en el Foro Sol",
+      "url": "https://open.spotify.com/track/2lGZ3IB6Vnbr4Lv2MAjRv2"
     },
     {
       "added_at": "2023-07-14 03:00:00",

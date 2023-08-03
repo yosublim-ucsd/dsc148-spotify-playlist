@@ -1,12 +1,12 @@
 {
   "description": "Some of Barack Obama&#x27;s favorite summer songs. Includes 22, 21 &amp; 20 editions + bonus tracks.",
-  "num_followers": 107771,
+  "num_followers": 107798,
   "original_name": "Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NTM2NSxkZjkzYzIwNDg0ZTFjNWM4NjJlY2Q2N2U0NWQxMWY4NjUxN2Y3Njdl",
+  "snapshot_id": "NTM3MixjNWE1MjY3YzMzNTU4ZWM0MWVhODNlYmJhYTU3MjRkNTVmNWFmYmNl",
   "tracks": [
     {
       "added_at": "2023-07-20 21:11:20",
@@ -3525,6 +3525,26 @@
       "url": "https://open.spotify.com/track/0bcy1ViuqTZzUODRz4f0hI"
     },
     {
+      "added_at": "2023-08-02 17:30:56",
+      "album": {
+        "name": "\u00c1mame",
+        "url": "https://open.spotify.com/album/2goL997K0dt0lSLQiOZQIL"
+      },
+      "artists": [
+        {
+          "name": "Josh Galiano",
+          "url": "https://open.spotify.com/artist/0GZ6S7003D6b9eikFZv3bb"
+        },
+        {
+          "name": "Dari Ferrari",
+          "url": "https://open.spotify.com/artist/5FEBQmIIz1XSLMDOUm6QnP"
+        }
+      ],
+      "duration_ms": 187885,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/4lVEs3EYFMkTifF8yv431e"
+    },
+    {
       "added_at": "2023-07-15 13:14:00",
       "album": {
         "name": "WHO WANNA",
@@ -3539,6 +3559,22 @@
       "duration_ms": 168960,
       "name": "WHO WANNA",
       "url": "https://open.spotify.com/track/3OHwyWngrL2JAh6RAkP604"
+    },
+    {
+      "added_at": "2023-08-02 20:34:37",
+      "album": {
+        "name": "Venus",
+        "url": "https://open.spotify.com/album/2fumueCa5VrF5pHsOFuqeB"
+      },
+      "artists": [
+        {
+          "name": "Wolf Frank",
+          "url": "https://open.spotify.com/artist/1lHClXJkJvJBPmbmr0x4fI"
+        }
+      ],
+      "duration_ms": 198150,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/6mdDuI5mMFotaaqV6xdelZ"
     },
     {
       "added_at": "2023-07-29 17:30:56",

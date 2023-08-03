@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest indie love songs of all time. ",
-  "num_followers": 586256,
+  "num_followers": 586429,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmIzOTZhZGIxMjlkYzdjYzFlYmJlODZmMGU1NjcyOWZkOGRkYTQy",
+  "snapshot_id": "MCxkMzM2YjA1ZDRiMjRlNDNkNTIwNjJmNDEzZGU2MzMzMzFmYzZkMGJi",
   "tracks": [
     {
       "added_at": "2023-07-21 10:32:21",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
-        "name": "Bury Me At Makeout Creek",
-        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "Francis Forever",
-      "url": "https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "Francis Forever",
+      "url": "https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr"
     },
     {
       "added_at": "2023-07-21 10:32:21",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-21 10:32:21",
       "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "First Day of My Life",
+      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
+    },
+    {
+      "added_at": "2023-07-21 10:32:21",
+      "album": {
         "name": "Hard Times / Bad Trips",
         "url": "https://open.spotify.com/album/7adFlPgcQWFfPHcgNgZhUI"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 128000,
       "name": "I hope that you think of me",
       "url": "https://open.spotify.com/track/42LY6qYxu3L6nJ7Dt72gNy"
-    },
-    {
-      "added_at": "2023-07-21 10:32:21",
-      "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 188877,
-      "name": "First Day of My Life",
-      "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
     },
     {
       "added_at": "2023-07-21 10:32:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: MELONYX Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Shunaji Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -10752,7 +10752,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 220000,
       "name": "Just Love Me One More Time",
       "url": "https://open.spotify.com/track/20iMqx5hYnhP4dpcq0rwp0"
@@ -11714,6 +11714,28 @@
       "duration_ms": 337500,
       "name": "Left Inside",
       "url": "https://open.spotify.com/track/5Y6iXgzNPP2zmhyqbAF1bH"
+    },
+    {
+      "album": {
+        "name": "The Purpose",
+        "url": "https://open.spotify.com/album/3wz4RbP6V0iAm16vlnGdDL"
+      },
+      "artists": [
+        {
+          "name": "Eriksson Kaner",
+          "url": "https://open.spotify.com/artist/1DVk8gpsMn5Tc3ugRJHkch"
+        },
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120725,
+      "name": "Lemon Trees",
+      "url": "https://open.spotify.com/track/4Sx5XOZXcgJTbCVcbqWgEA"
     },
     {
       "album": {
@@ -18533,6 +18555,24 @@
     },
     {
       "album": {
+        "name": "SMILE",
+        "url": "https://open.spotify.com/album/0kIBnznQgEMiBqF5C6RKtg"
+      },
+      "artists": [
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305666,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/7gIJ23wc4OAoJAEr8PKl1P"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/73VtebsFRXgulahZnwh57m"
       },
@@ -20858,7 +20898,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 363911,
       "name": "The Girl In Blue",
       "url": "https://open.spotify.com/track/2l15xxtgKaCbCIGvGaFmWf"

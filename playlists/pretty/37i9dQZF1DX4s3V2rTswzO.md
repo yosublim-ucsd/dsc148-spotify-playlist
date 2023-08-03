@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,775 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,844 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 4 | [Schumann: 12 Gedichte aus Liebesfrühling, Op\. 37: No\. 11: Warum willst du andre fragen](https://open.spotify.com/track/1NechTDnTtSaciAT6gmvJQ) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 2:09 |
 | 5 | [Capriol Suite: 5\. Pied\-en\- l'air](https://open.spotify.com/track/5JUZN3APQOGsw7LJZYEjmU) | [Peter Warlock](https://open.spotify.com/artist/5HUhm1zKJGkJEg4qH88Xfd), [Academy of St\. Martin in the Fields](https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF), [Nicholas Kraemer](https://open.spotify.com/artist/62XyYkSHbu9foTpnNFWdpT), [Sir Neville Marriner](https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9) | [Fantasia on Greensleeves](https://open.spotify.com/album/59u2LsQ4yVeArge5V4Y7pV) | 2:24 |
 | 6 | [Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Schumann: Kinderszenen, Op\. 15: Träumerei \(Arr\. Lewin for Guitar\)](https://open.spotify.com/album/3dtyRuctasvglDB28bijNg) | 3:35 |
-| 7 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
+| 7 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 |
 | 8 | [Bagatelles et impromptus: VII\. Love](https://open.spotify.com/track/2u89h3u1Q9DGFSGkOEmGga) | [Bedřich Smetana](https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4), [William Howard](https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL) | [Sixteen Love Songs](https://open.spotify.com/album/2rP0mklxHyjaOBFHSLMFdP) | 2:18 |
 | 9 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 |
 | 10 | [Les baricades mystérieuses \- Arranged By Göran Söllscher](https://open.spotify.com/track/6sLr7HzQe2xQVhBmhrT3vU) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Göran Söllscher](https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL) | [Eleven String Baroque](https://open.spotify.com/album/5PLhV92TFsYvktcyaSVOlj) | 2:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 50 | [The Poetry Of Wind And Waves](https://open.spotify.com/track/3o9Yhvfzz2M7vpznPrCmFi) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw) | [The Poetry Of Wind And Waves](https://open.spotify.com/album/7CENd1RU98aqawftWBefgk) | 2:30 |
 | 51 | [Peer Gynt, Op\. 23: Solveig's Song \(Arr\. for Violin and Piano by Charlie Siem\)](https://open.spotify.com/track/4ghT12J2hsyfn0JZ4RDWrf) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Charlie Siem](https://open.spotify.com/artist/3knr6OYOZpM3DI8pBOAfAS), [Itamar Golan](https://open.spotify.com/artist/2idBst8P3vn2RRBc3UOcwu) | [Vaughan Williams and Grieg: Violin Sonatas](https://open.spotify.com/album/0WufA4zaVLfu1VDwyyK8SZ) | 4:49 |
 
-Snapshot ID: `MCw3NDMyYjJlZDg3YjcyYWQzNzNiODY4N2MwNTI2YjJiZjAzNjJmNTgz`
+Snapshot ID: `MCxiMmJlMDE0MzBkOTgzMTQ3NWYzNjZmY2M4MDQ2MTkxNGRiZTkxN2Y1`

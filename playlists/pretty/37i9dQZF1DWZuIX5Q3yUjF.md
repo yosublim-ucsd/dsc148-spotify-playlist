@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Saintess
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,119 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,128 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 59 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 |
 | 60 | [L'R&B in Italia non esiste \(Interlude\)](https://open.spotify.com/track/5haGMsywnKV4e2FqsYjoKH) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [L'R&B IN ITALIA NON ESISTE](https://open.spotify.com/album/41IqmB0uShPRiNVsYyOmbg) | 2:23 |
 
-Snapshot ID: `MCxmNGEyZDM2MWI3NmNiMmMwZTIzZjVhM2Y4YWU4NDg0NTEyMWJkMjdk`
+Snapshot ID: `MCxjYzM2YzgzZjIzZTZhY2IxMGMyYWExMTQ2NDNkZGI1Zjc5YzFkMWYy`

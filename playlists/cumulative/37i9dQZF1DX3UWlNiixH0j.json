@@ -1796,7 +1796,7 @@
     {
       "album": {
         "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/2cLIgKYvkPvWuzQteFaRrv"
+        "url": "https://open.spotify.com/album/07sY55TEuC9V9xTPaZTj3w"
       },
       "artists": [
         {
@@ -1807,6 +1807,24 @@
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 226999,
+      "name": "dominant",
+      "url": "https://open.spotify.com/track/2TLiHD7syW3nhek7ExvHrM"
+    },
+    {
+      "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/2cLIgKYvkPvWuzQteFaRrv"
+      },
+      "artists": [
+        {
+          "name": "paionia",
+          "url": "https://open.spotify.com/artist/2keUnfkvAavHXvVEvSf83e"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
       "duration_ms": 226999,
       "name": "dominant",
       "url": "https://open.spotify.com/track/6jhTaDzyQaAprtb5jkUUT1"
@@ -2532,10 +2550,28 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 201600,
       "name": "Flower Garden",
       "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
+    },
+    {
+      "album": {
+        "name": "Flower Garden",
+        "url": "https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Flower Garden",
+      "url": "https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA"
     },
     {
       "album": {
@@ -5032,7 +5068,7 @@
     {
       "album": {
         "name": "NEO KAWAII, K?",
-        "url": "https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP"
+        "url": "https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW"
       },
       "artists": [
         {
@@ -5043,6 +5079,24 @@
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154726,
+      "name": "NEO KAWAII, K?",
+      "url": "https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL"
+    },
+    {
+      "album": {
+        "name": "NEO KAWAII, K?",
+        "url": "https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP"
+      },
+      "artists": [
+        {
+          "name": "CHAI",
+          "url": "https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
       "duration_ms": 154726,
       "name": "NEO KAWAII, K?",
       "url": "https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW"

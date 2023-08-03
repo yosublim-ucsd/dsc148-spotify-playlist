@@ -1673,6 +1673,28 @@
     },
     {
       "album": {
+        "name": "Nymph in the Wild",
+        "url": "https://open.spotify.com/album/0vChzZ1D6SfrMhC9zNFoQU"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183845,
+      "name": "Crush (feat. Erika de Casier) - Live Edit",
+      "url": "https://open.spotify.com/track/6qz1e5rvxbp41zNXyIHOlk"
+    },
+    {
+      "album": {
         "name": "D.L.P",
         "url": "https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR"
       },
@@ -7706,7 +7728,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 204500,
       "name": "Survival",
       "url": "https://open.spotify.com/track/52JMjyFeAF0Jtuowyafv3V"

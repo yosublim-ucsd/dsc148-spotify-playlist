@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-616 songs - 1 day 16 hr 49 min
+618 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Feel Your Body](https://open.spotify.com/track/0lLsV3rbSYZFFdWklgSRgF) | [NITE RIDERS](https://open.spotify.com/artist/23uVl1SWaq5w1mpnj9vFsB) | [Feel Your Body](https://open.spotify.com/album/3Svnrhpm8IKiaw5eDdttgz) | 4:24 | 2022-12-27 | 2023-01-11 |
 | [FLACTAL](https://open.spotify.com/track/0OxtwA0COQaKppo54YwFn5) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Let's Go! DSDC!](https://open.spotify.com/album/4TzvYfWz8YKSKBMK82XScS) | 3:23 | 2022-05-24 | 2022-09-28 |
 | [Flannel](https://open.spotify.com/track/6NIpHfEzWU9MGQddGBNGq1) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [Flannel](https://open.spotify.com/album/52DpZlVpQrktxXRlM3X7f1) | 3:31 | 2022-07-14 | 2022-07-17 |
-| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 |  |
+| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 | 2023-08-03 |
+| [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2023-08-01 |  |
 | [FLOWERS](https://open.spotify.com/track/2EiA587apVmlS9wbch4vti) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [FLOWERS](https://open.spotify.com/album/30GBzKSzQdpRrQaikOayeC) | 3:47 | 2022-05-28 | 2023-04-05 |
 | [Fly By Day](https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:33 | 2023-07-18 |  |
 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 | 2023-06-27 | 2023-07-20 |
@@ -385,6 +386,7 @@
 | [Terminal](https://open.spotify.com/track/3rhOErwrktp6BhHxpJ0W7b) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Terminal](https://open.spotify.com/album/6kD6CDLaZcFleo6HLt5jOB) | 3:59 | 2022-09-27 | 2022-10-05 |
 | [Thank you for the Music](https://open.spotify.com/track/1eKsUjRIRU6qJLDgNK5gBT) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thank you for the Music](https://open.spotify.com/album/5YjWnYtYne2BxgybhtSJTM) | 5:23 | 2022-10-04 | 2022-10-06 |
 | [Thank you for the Music](https://open.spotify.com/track/7qtEfm6u5oD1q8Wu5e8iSk) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thank you for the Music](https://open.spotify.com/album/2JOZNoKcEZZHBea9tCRQpt) | 5:23 | 2022-10-04 | 2022-10-12 |
+| [That Must Be September](https://open.spotify.com/track/5CRAKOJNdASQeQZT7An2fb) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Dreamin'](https://open.spotify.com/album/5ycmKhf8eUlKpKPqcuz9to) | 3:49 | 2023-08-01 |  |
 | [Think of you \- Extend](https://open.spotify.com/track/5mcPHPMbRKk8mwXMI2Bcrk) | [ami saiki](https://open.spotify.com/artist/14IjfkwpMFu8639eLZOR0z) | [Think of you](https://open.spotify.com/album/6Pv4mFUNnZHZoBmV6BFOsd) | 5:53 | 2022-08-16 | 2022-08-31 |
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-02 | 2023-05-10 |
 | [Time](https://open.spotify.com/track/2eldS7v8v6ai0GZNsoAvHu) | [Koki Okamoto](https://open.spotify.com/artist/6feb6ezsQcTkzVJoZKkK7i) | [時のぬけがら](https://open.spotify.com/album/3r9hLVBAU1UWKUcFVQl6Jv) | 4:03 | 2022-06-07 | 2022-06-15 |
@@ -437,7 +439,7 @@
 | [あぁ今夜](https://open.spotify.com/track/3asGK7ycXJC1HtcvewMOG7) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [あぁ今夜](https://open.spotify.com/album/7BX56jR6zhj6mGmGtIqQ1o) | 4:00 | 2022-08-02 | 2022-08-10 |
 | [あいつのLIFE](https://open.spotify.com/track/6BA4MNy5ADPO4A65Cgi3RM) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [Musica Popular Japonesa](https://open.spotify.com/album/01NUYwN3OhNLqkKaDrTy2M) | 4:28 | 2022-11-22 | 2022-12-14 |
 | [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 | 2022-07-20 |
-| [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 |  |
+| [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 | 2023-08-03 |
 | [いい感じ](https://open.spotify.com/track/1ytu8pRfwWtTErXWxTZOMQ) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ) | [いい感じ](https://open.spotify.com/album/2z2Jhh9WXjaFOhJWlJJlcv) | 3:03 | 2022-06-28 | 2022-07-25 |
 | [いつか \- SOMEDAY \(feat\. tonun\) \- 45s Edit](https://open.spotify.com/track/3rFpK78Cw2WmpQL1X18Pag) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [いつか \- SOMEDAY \(feat\. tonun\)](https://open.spotify.com/album/2Bx1wsjWVTExc1pLgrvI7h) | 5:03 | 2022-05-24 | 2022-07-29 |
 | [いつも、エンドレス](https://open.spotify.com/track/6bxUT3WHGWwPGFx60j847d) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [いつも、エンドレス](https://open.spotify.com/album/0vzfZObnp6pOHsX3yZyxo3) | 4:27 | 2023-01-17 | 2023-04-02 |

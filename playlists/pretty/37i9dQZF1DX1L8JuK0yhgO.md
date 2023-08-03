@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,415 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,414 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 22 | [patterns](https://open.spotify.com/track/64yErF0B8whaMuGz5XX0Ok) | [kent watari](https://open.spotify.com/artist/3R1MGMeN2CeIZF47PWK7td), [Ohzora Kimishima](https://open.spotify.com/artist/1VCaGmjnF25sopGggf8pCT) | [raise: manusya](https://open.spotify.com/album/48oqSk4p5Uk4uhzasWuNKB) | 3:55 |
 | 23 | [頭髮](https://open.spotify.com/track/7oCsVcZ7NJA2VPTycZHHYT) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [頭髮](https://open.spotify.com/album/6KElllDyo2YUyZLYI4Sv4u) | 3:02 |
 | 24 | [Breeze](https://open.spotify.com/track/6Mza3bNRptJPycLrOrqzZw) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2) | [Breeze](https://open.spotify.com/album/3QFkwg88r3RHIkKCclWU9a) | 3:12 |
-| 25 | [2人の道路標識](https://open.spotify.com/track/5hZi9DyN8PC4jJYYSvtayZ) | [Hainuwell](https://open.spotify.com/artist/4F2oL2Wyo3RU0sUYRXG5rL) | [2人の道路標識](https://open.spotify.com/album/0AjPv0ti2sBDdxuOaOYzOj) | 5:08 |
+| 25 | [２人の道路標識](https://open.spotify.com/track/5hZi9DyN8PC4jJYYSvtayZ) | [Hainuwell](https://open.spotify.com/artist/4F2oL2Wyo3RU0sUYRXG5rL) | [２人の道路標識](https://open.spotify.com/album/0AjPv0ti2sBDdxuOaOYzOj) | 5:08 |
 | 26 | [Rollin'](https://open.spotify.com/track/7fqFrsnOKSqgv5pGLhaHk0) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Rollin'](https://open.spotify.com/album/1CuGJcwvmYfj7yFWTurt13) | 3:54 |
 | 27 | [MY SUPER GOOD FRIEND](https://open.spotify.com/track/4w1FBbT277yKyz8kDAE6I1) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [MY SUPER GOOD FRIEND](https://open.spotify.com/album/12DsIJ7IylirWgRfeL6c5F) | 3:47 |
 | 28 | [Just the 執着恋愛](https://open.spotify.com/track/1rUKXWEKKuw1M6u2uMJDc4) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Just the 執着恋愛](https://open.spotify.com/album/6EMVbgsYlz87d2bbc9kD0Y) | 2:52 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 32 | [Biore u](https://open.spotify.com/track/6BNK45QgBwPg9WDGvgj1t7) | [wood pure luvheart](https://open.spotify.com/artist/30RL8eEQZ4jNfEkuBsElvx), [Yoyou](https://open.spotify.com/artist/217ChH8bJDq7t6NiqMK2dF) | [Biore u](https://open.spotify.com/album/2F31H5ZzP6rI4iMOeugHUB) | 2:54 |
 | 33 | [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/181YGGJQCMlBzrwWFLmjkx), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 |
 | 34 | [dare no tame](https://open.spotify.com/track/5b9DTOt6uYlCO8MmRVwWPF) | [KUVIZM](https://open.spotify.com/artist/2crDfVv0eZDUSL4At5lPCy), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE) | [dare no tame](https://open.spotify.com/album/6ohqq5oNw4qKFR0Ts55xoP) | 2:09 |
-| 35 | [Q](https://open.spotify.com/track/2xt1HzmQQIZDHM7ZujsEwW) | [ELIM](https://open.spotify.com/artist/5MAXztoNEhKHACm6eGGvff), [ATSUKI](https://open.spotify.com/artist/7Iv21VB4xGG5UsWdCw2A57), [Taigen Kawabe](https://open.spotify.com/artist/3YHhs0k1r71mDDjwqYAqm8) | [Q](https://open.spotify.com/album/6NHeVyy77b4KxyeMpK0SlD) | 3:20 |
+| 35 | [Q](https://open.spotify.com/track/2xt1HzmQQIZDHM7ZujsEwW) | [ELIM](https://open.spotify.com/artist/3oUXB0w71y3cfSQoofMosN), [ATSUKI](https://open.spotify.com/artist/7Iv21VB4xGG5UsWdCw2A57), [Taigen Kawabe](https://open.spotify.com/artist/3YHhs0k1r71mDDjwqYAqm8) | [Q](https://open.spotify.com/album/6NHeVyy77b4KxyeMpK0SlD) | 3:20 |
 | 36 | [vega](https://open.spotify.com/track/1ezPh6tGOGdztQtRnLwRIF) | [shosha](https://open.spotify.com/artist/4BPCLD2Ke1qtp2iVVejmid) | [vega](https://open.spotify.com/album/5ovB2H1J4uqdcOfEZkWfVw) | 2:34 |
 | 37 | [Stup1d Lov3](https://open.spotify.com/track/7BYUE8otJ2biW7pl5mv2k1) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [Stup1d Lov3](https://open.spotify.com/album/14fRie4vzCb5uT6AMmnusM) | 1:57 |
 | 38 | [RIGHT TRACK \- voquote VIP REMIX](https://open.spotify.com/track/50geQlz3wV9qzn8KAfHk5e) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [Kingo](https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP) | [RIGHT TRACK \(voquote VIP REMIX\)](https://open.spotify.com/album/6zeYY3Rb8bn1SEuTNR6zbT) | 4:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Astroswing](https://open.spotify.com/track/6bsDAWeneq2lQUnVyAU0cI) | [Ogawa & Tokoro](https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA) | [Astroswing](https://open.spotify.com/album/7Mcmf6CowVfAh4XnJQbW4H) | 5:43 |
 | 60 | [Flowing](https://open.spotify.com/track/0HLCzCW6ja01PiywKAgX6V) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Flowing](https://open.spotify.com/album/2gWO71K4dQhPqMbYK4MN2D) | 5:53 |
 
-Snapshot ID: `MCwxMjllMzA3ZjhiM2I3NTFmYjZhYjcxNzcxZGE3M2E2ZDU1OGQzNDE3`
+Snapshot ID: `MCw1ZDZhNDEyNjg2MmMyZjdjMTM1NzRjOGIyNGY1ODZhODk5NWFkZDc2`

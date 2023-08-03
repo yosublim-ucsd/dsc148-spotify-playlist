@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q">Yadah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,212 likes - 94 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,343 likes - 94 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Diklo Loka](https://open.spotify.com/track/1iy8po6NzIJNY1LoGQAUyL) | [Intruda Txid](https://open.spotify.com/artist/5LbHRFGGITpNTCwMMBCMd8) | [Diklo Loka](https://open.spotify.com/album/1eAVFCiVMrfamr3raiC8KD) | 2:53 |
 | 94 | [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Money Magnet Aqui](https://open.spotify.com/artist/0nHRq547zFyGXHDsloSnV0) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 |
 
-Snapshot ID: `MCxiNzMxODBjMTA0NWJlYWNiNWFhZGUxN2NmMTgxZmJlN2FhMjQ5Zjk4`
+Snapshot ID: `MCw2ODA1NDkwMzJjNTBmZDExNGRmYTkzMTgzMjY1Yjc0OGRlNzk5Mzc0`

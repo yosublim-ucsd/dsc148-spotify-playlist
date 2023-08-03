@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-25",
-  "description": "Train insane with these Bollywood tracks",
+  "description": "Train insane with these Bollywood tracks.",
   "name": "Bollywood Workout",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 230557,
       "name": "Jai Jai Shivshankar (From \"War\")",
       "url": "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 243206,
       "name": "Yaar Naa Miley",
       "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"

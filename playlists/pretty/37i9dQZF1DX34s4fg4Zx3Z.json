@@ -1,12 +1,12 @@
 {
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Kim Kunni; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 18895,
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Mer, Kriss Ngo; thi\u1ebft k\u1ebf: Isu Kim",
+  "num_followers": 18912,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTRkOWU1ODcyOWIxM2ZhYmViM2UwZWEzZWQzMDU4ZTA2NDY5ZDhk",
+  "snapshot_id": "MCwzYzRmYTQ3ODRmZTM0NzgyZTM1OWViMjJhZGM4ZjZiNDU3Y2E3MzFj",
   "tracks": [
     {
       "added_at": "2023-08-01 01:10:27",
@@ -87,26 +87,6 @@
     {
       "added_at": "2023-08-01 01:10:27",
       "album": {
-        "name": "Ulala",
-        "url": "https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I"
-      },
-      "artists": [
-        {
-          "name": "Kim Kunni",
-          "url": "https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g"
-        },
-        {
-          "name": "T.R.I",
-          "url": "https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Ulala (feat. T.R.I)",
-      "url": "https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX"
-    },
-    {
-      "added_at": "2023-08-01 01:10:27",
-      "album": {
         "name": "sinh",
         "url": "https://open.spotify.com/album/4tS2XfjFQjNYG8Z96y5lge"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 108235,
       "name": "t\u00e2m",
       "url": "https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT"
+    },
+    {
+      "added_at": "2023-08-01 01:10:27",
+      "album": {
+        "name": "Ulala",
+        "url": "https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I"
+      },
+      "artists": [
+        {
+          "name": "Kim Kunni",
+          "url": "https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g"
+        },
+        {
+          "name": "T.R.I",
+          "url": "https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Ulala (feat. T.R.I)",
+      "url": "https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX"
     },
     {
       "added_at": "2023-08-01 01:10:27",

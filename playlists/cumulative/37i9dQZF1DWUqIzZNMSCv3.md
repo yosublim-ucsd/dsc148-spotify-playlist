@@ -4,7 +4,7 @@
 
 > Relaxing classical piano.
 
-77 songs - 5 hr 18 min
+78 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/0rTWmhqlac0DNHc5xXk1SW) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kyohei Sorita](https://open.spotify.com/artist/4m095PrHobn6OZq4SceZbc), [Keigo Mukawa](https://open.spotify.com/artist/31YgzVQJU0rrWzZGfzVVUF) | [Two Pianos 2](https://open.spotify.com/album/0QVZQD5ymGpz0klj9pzs7N) | 2:38 | 2023-02-03 |  |
 | [Fantasia No\. 3 in D Minor, K\. 397](https://open.spotify.com/track/4yExhO3Vh6bLW32qU4DOOs) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger](https://open.spotify.com/album/7rZomvm8hIPSECCPFgAVBf) | 5:46 | 2021-12-06 |  |
 | [French Suite No\. 5 in G Major, BWV 816: I\. Allemande](https://open.spotify.com/track/6omFR3t3gc8xuIVI8DyRuI) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [J.S\. Bach: French Suite No\. 5 in G Major, BWV 816: I\. Allemande](https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo) | 2:26 | 2023-03-14 |  |
-| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2021-12-06 |  |
+| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 | 2021-12-06 | 2023-08-03 |
+| [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 | 2023-07-21 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2021-12-06 |  |
 | [Gottes Zeit ist die allerbeste Zeit, Sonatina az "Actus tragicus"\-ból, BWV 106](https://open.spotify.com/track/5t0nmGyqurAFZwm2IINjEC) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Márta Kurtág](https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX), [György Kurtág](https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E) | [Kurtág, Bach: Játékok](https://open.spotify.com/album/7eXpuxUNctsfE933KyAUEG) | 2:18 | 2022-03-14 | 2022-07-29 |
 | [Gottes Zeit ist die allerbeste Zeit, Sonatina az "Actus tragicus"\-ból, BWV 106](https://open.spotify.com/track/7G1EFxYUfb4CM4FKCjzH9N) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Márta Kurtág](https://open.spotify.com/artist/1S7UUjCyXGTB8L2TYVIhcX), [György Kurtág](https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E) | [The Art of Bach](https://open.spotify.com/album/0e8yrpux49X2XcsUqn2bWx) | 2:18 | 2022-09-09 | 2022-11-13 |

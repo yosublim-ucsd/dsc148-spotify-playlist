@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSfv493aPhol.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSfv493aPhol) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSfv493aPhol)
 
-### [Top Gaming Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DWSfv493aPhol)
+### [Gaming Time!](https://open.spotify.com/playlist/37i9dQZF1DWSfv493aPhol)
 
 > Las canciones más escuchadas por la comunidad gamer en Latinoamérica.
 

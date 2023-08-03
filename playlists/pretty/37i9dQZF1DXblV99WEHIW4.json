@@ -1,12 +1,12 @@
 {
   "description": "Heavy music for heavy feelings.",
-  "num_followers": 200424,
+  "num_followers": 200597,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTRlNmVlZDE2OTU0M2U4ZmY5MGVlYjQyYjNmODg0YzMwNWY3NWQw",
+  "snapshot_id": "MCxjZGY2NGI1NGU1MWQ1MWUxNTgwMDkzMWE3MDkyOGFjZjNhMjA5Yzkz",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 321093,
-      "name": "21 Guns",
-      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 321093,
+      "name": "21 Guns",
+      "url": "https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX"
     },
     {
       "added_at": "2023-02-16 19:56:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 179756,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "SO WHAT?",
         "url": "https://open.spotify.com/album/50CAhOJNUPC6zAThnQNzmG"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 254500,
       "name": "ANTI-SOCIAL",
       "url": "https://open.spotify.com/track/7f6X7zERAXAbIYVLizIZ3O"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 179756,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa"
     },
     {
       "added_at": "2023-02-16 19:56:13",

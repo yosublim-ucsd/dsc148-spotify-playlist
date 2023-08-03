@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mih, Amabbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,085 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,101 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 30 | [Sonho da Braba](https://open.spotify.com/track/2Uo76VNtjhQOUPZX9gSmoK) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Mixtape Rock Danger de Verão](https://open.spotify.com/album/7sjlpFbePwOakGPErXKiBy) | 2:04 |
 | 31 | [Vinhedo](https://open.spotify.com/track/3Jk2PrmUEspv0c8HcWPqia) | [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Vinhedo](https://open.spotify.com/album/1O8M18t6aiWpNNsQsKx2gh) | 3:02 |
 | 32 | [Era Final](https://open.spotify.com/track/74i1NNwzsVYNwqXraf5s1N) | [Brenda Minni](https://open.spotify.com/artist/4ghtdtCtMlEmNyyTP9bSN9), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Era Final](https://open.spotify.com/album/5CSLeYNdPXUCBBBUzRoDpy) | 2:58 |
-| 33 | [Sexy Gangsta](https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK) | [Sexy Gangsta](https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI) | 2:01 |
+| 33 | [Sexy Gangsta](https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Sexy Gangsta](https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI) | 2:01 |
 | 34 | [FDP EU TE AMO](https://open.spotify.com/track/7oRU2MX5XxLVe53Zh5uZN5) | [NATH](https://open.spotify.com/artist/6dAUWqdIfuQKFV9i2kMiFx), [AKhali](https://open.spotify.com/artist/0ldnjk0MOqCCqu7RkMb3Ku) | [BRAZA](https://open.spotify.com/album/0hNutyZHAMMxDZqTskpIOZ) | 2:38 |
 | 35 | [Lealdade](https://open.spotify.com/track/02qzKn3hIHuPL7jf1gxZY6) | [Clara Dalua](https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Lealdade](https://open.spotify.com/album/3UVCBgMLJwuPuujCg6tm6G) | 2:21 |
 | 36 | [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [S N P B](https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Kave](https://open.spotify.com/artist/30AsB6yzTLmEiqnHcSzTCw) | [S N P B](https://open.spotify.com/album/7oXtdqWwZM27N0v1oKMjus) | 2:30 |
 | 75 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 
-Snapshot ID: `MCwyMzY1ZTBkOTM1M2NmZDc2YWUwNGUwNmJiNWM3MjhmNjE4ZGU1YzA4`
+Snapshot ID: `MCw3ZTk2ZDk3NWU1NWQ0ZGVhZjgxMDExZDk0ODI5NDFhM2I1MGJhY2Fk`

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del folklore argentino de la mano de sus m\u00e1s grandes int\u00e9rpretes. Foto: Chaque\u00f1o Palavecino.",
-  "num_followers": 171748,
+  "num_followers": 171833,
   "original_name": "Folklore de Siempre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjQ3Y2Q2Y2E5MTBiMjMwODIzZDJjNDlhZjdiOTZjZmU3M2NlNDE2",
+  "snapshot_id": "MCxkMWU2Y2M0YWRiMGJiM2Q2OGJmZDk0NzFkM2EwZmY3YzE2MmI5ZTU1",
   "tracks": [
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Viajes Por El Mundo",
+        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Los Ejes de Mi Carreta",
+      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Los Tekis-Los Elegidos",
         "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 189160,
       "name": "Cancion del Adios",
       "url": "https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "Viajes Por El Mundo",
-        "url": "https://open.spotify.com/album/3iiV07YVt8Z0Ztno6uC5Gw"
-      },
-      "artists": [
-        {
-          "name": "Atahualpa Yupanqui",
-          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Los Ejes de Mi Carreta",
-      "url": "https://open.spotify.com/track/1IMlyGnCZuvVGFTHdfKFzo"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
+        "name": "Romance De Luna Y Flor",
+        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
+    },
+    {
+      "added_at": "2023-06-22 19:04:10",
+      "album": {
         "name": "Confiter\u00eda Europea 100 A\u00f1os",
         "url": "https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 148933,
       "name": "Serenata Oto\u00f1al",
       "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
-    },
-    {
-      "added_at": "2023-06-22 19:04:10",
-      "album": {
-        "name": "El Duende De Las Guitarras",
-        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
-      },
-      "artists": [
-        {
-          "name": "Argentino Luna",
-          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Las Manos De Mi Madre",
-      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2023-06-22 19:04:10",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-06-22 19:04:10",
       "album": {
-        "name": "Romance De Luna Y Flor",
-        "url": "https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe"
+        "name": "El Duende De Las Guitarras",
+        "url": "https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk"
       },
       "artists": [
         {
-          "name": "Los Fronterizos",
-          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+          "name": "Argentino Luna",
+          "url": "https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs"
         }
       ],
-      "duration_ms": 192480,
-      "name": "L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf"
+      "duration_ms": 166000,
+      "name": "Las Manos De Mi Madre",
+      "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
     },
     {
       "added_at": "2023-06-22 19:04:10",

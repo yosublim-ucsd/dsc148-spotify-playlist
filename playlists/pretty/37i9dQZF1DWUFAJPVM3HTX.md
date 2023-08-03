@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Gemaine\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,430 likes - 450 songs - 22 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,785 likes - 450 songs - 22 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 449 | [This Is What You're Gonna Get \(Intro\)](https://open.spotify.com/track/3zeIPaQMP64eIM0rI9KyEq) | [Blue Nightmare](https://open.spotify.com/artist/7KjinB2wGyb4N3zvfdOJqX) | [I Don't Think You Know Me That Well](https://open.spotify.com/album/3I2rg6r3sOA7qYEsLdH2NK) | 1:10 |
 | 450 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 
-Snapshot ID: `MCwyZTg0YjFmYjc1Yzg2YjM5NmRjZTAzY2M4NGFjYjUyMzJlNDBkODMz`
+Snapshot ID: `MCxhN2VlNWFlZGJkNzljODZlN2I4MzMxOGVjOTcxZjQ0YjI4YjZiYmU5`

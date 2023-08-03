@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits, repackaged\. Cover \- Sooryavanshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,580 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,714 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/4QyX8CBSjcoq4iMZuvifyF) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [What Jhumka ? \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/4mrXgKhegKi7Ol4pdN4z3Q) | 3:33 |
+| 1 | [What Jhumka ?](https://open.spotify.com/track/16n0AKZ6D5ZhIECp9Chbgb) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Ranveer Singh](https://open.spotify.com/artist/0lMa3YTHqQnDDTBaxAV7LK), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Rocky Aur Rani Kii Prem Kahaani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu) | 3:33 |
 | 2 | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Tip Tip \(From "Sooryavanshi"\)](https://open.spotify.com/album/5xhnmuzC2RnvShBs631Q2y) | 4:10 |
 | 3 | [Pasoori Nu \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/6byRW2mzuc4nBTZ6TN6APu) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Pasoori Nu \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/201Dk8evzWZR3mscszuC3n) | 3:17 |
 | 4 | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Bhool Bhulaiyaa 2 Title Track \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Haseeno Ka Deewana](https://open.spotify.com/track/6VNBEaG5sidkK3lwq7Ws0I) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 3:49 |
 | 50 | [Raabta \(Title Track\) \[From "Raabta"\]](https://open.spotify.com/track/1LvOpTDkOfMZEqkr2fUgrz) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Arijit Singh: Love Songs](https://open.spotify.com/album/6LWZ330atfYF43nk7m3pKW) | 4:57 |
 
-Snapshot ID: `MCwwNGEyNmQ5MzgxMmE2OGI4ZmNjMzU0NDE1ZDhiN2U0MmZlYjc3ZWQy`
+Snapshot ID: `MCwxNGM4ZDYwMzAxMDFkNDYxODVjNzFkZWZjYzA3NTVjMzhhOTM0YjZh`

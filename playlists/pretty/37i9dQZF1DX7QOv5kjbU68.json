@@ -1,15 +1,71 @@
 {
   "description": "Hear all of Drake's biggest and best hits in one playlist. Thank us later.",
-  "num_followers": 3878191,
+  "num_followers": 3879229,
   "original_name": "This Is Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjNhNWY3ZTMyZThhNzFmYjY4NjY2ZDE5NWE3ZjI3YmU0NDdmMzdk",
+  "snapshot_id": "MCwxZGRmZDNmYTdjMmJiYTliYzdlOGEyZjZlZTRkOGU5ZTEwYWRmODc1",
   "tracks": [
     {
-      "added_at": "2022-06-17 19:26:26",
+      "added_at": "2023-08-02 20:54:36",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "MELTDOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "added_at": "2023-08-02 20:54:36",
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "added_at": "2023-08-02 20:54:36",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -29,7 +85,7 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -49,7 +105,7 @@
       "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -69,7 +125,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2023-07-26 16:38:13",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
@@ -89,7 +145,7 @@
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -109,7 +165,7 @@
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
     },
     {
-      "added_at": "2022-05-04 20:32:06",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -133,7 +189,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2023-01-10 19:00:11",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "We Caa Done (feat. Drake)",
         "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
@@ -153,7 +209,7 @@
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
     },
     {
-      "added_at": "2022-09-23 18:31:26",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
@@ -177,7 +233,7 @@
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -197,7 +253,7 @@
       "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
     },
     {
-      "added_at": "2021-03-15 15:13:22",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
@@ -217,7 +273,7 @@
       "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
     },
     {
-      "added_at": "2021-03-15 15:13:22",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
@@ -233,7 +289,7 @@
       "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -253,7 +309,7 @@
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -269,7 +325,7 @@
       "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -289,7 +345,7 @@
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
     },
     {
-      "added_at": "2022-06-17 19:26:26",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -305,7 +361,7 @@
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
     },
     {
-      "added_at": "2021-03-15 15:13:22",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scary Hours 2",
         "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
@@ -325,7 +381,7 @@
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -349,7 +405,7 @@
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
     },
     {
-      "added_at": "2020-08-14 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
@@ -385,7 +441,7 @@
       "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
     },
     {
-      "added_at": "2022-06-17 19:26:26",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -401,7 +457,7 @@
       "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
     },
     {
-      "added_at": "2021-10-27 01:21:23",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -441,7 +497,7 @@
       "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -457,7 +513,7 @@
       "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
     },
     {
-      "added_at": "2021-03-05 05:01:21",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "The Truth Hurts",
         "url": "https://open.spotify.com/album/2bY51cinHBlscXIoLUsDYa"
@@ -477,7 +533,7 @@
       "url": "https://open.spotify.com/track/3Kwdm0iLyEiRB8InsZoo6n"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -501,7 +557,7 @@
       "url": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -521,7 +577,7 @@
       "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
     },
     {
-      "added_at": "2020-12-02 19:37:45",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Moon Boy",
         "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
@@ -541,7 +597,7 @@
       "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -557,7 +613,7 @@
       "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
     },
     {
-      "added_at": "2020-08-14 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Laugh Now Cry Later (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
@@ -577,7 +633,7 @@
       "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -597,7 +653,7 @@
       "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -613,7 +669,7 @@
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
     },
     {
-      "added_at": "2021-08-03 18:55:22",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Buy or Bye 2",
         "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "POPSTAR (feat. Drake)",
         "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
@@ -653,7 +709,7 @@
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
-      "added_at": "2022-06-17 19:26:26",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -669,7 +725,7 @@
       "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "GREECE (feat. Drake)",
         "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
@@ -689,7 +745,7 @@
       "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
     },
     {
-      "added_at": "2022-11-11 22:17:49",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -713,7 +769,7 @@
       "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -729,7 +785,7 @@
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
     },
     {
-      "added_at": "2020-08-14 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
@@ -753,7 +809,7 @@
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Toosie Slide",
         "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
@@ -769,7 +825,7 @@
       "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
@@ -789,7 +845,7 @@
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -809,7 +865,7 @@
       "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Oprah\u2019s Bank Account (Lil Yachty & DaBaby feat. Drake)",
         "url": "https://open.spotify.com/album/56Abu6NLfNM5X7rJhrUdO4"
@@ -833,7 +889,7 @@
       "url": "https://open.spotify.com/track/7wsmIIm0xWmtP7TmACXkJn"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -849,7 +905,7 @@
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -873,7 +929,7 @@
       "url": "https://open.spotify.com/track/50ceCGZ3oD3U5caQV5bP6f"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
@@ -893,7 +949,7 @@
       "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Won't Be Late (feat. Drake)",
         "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
@@ -913,7 +969,7 @@
       "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
@@ -933,7 +989,7 @@
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -957,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
@@ -977,7 +1033,7 @@
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -997,7 +1053,7 @@
       "url": "https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Port of Miami 2",
         "url": "https://open.spotify.com/album/1mgw5rbUS94uif2ce9QCf0"
@@ -1017,7 +1073,7 @@
       "url": "https://open.spotify.com/track/1rX5L6pyl3rVWb55D8Cprr"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -1033,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
@@ -1053,7 +1109,7 @@
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -1069,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -1093,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -1109,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -1125,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
@@ -1145,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -1161,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
@@ -1181,7 +1237,7 @@
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -1201,7 +1257,7 @@
       "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Simi",
         "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
@@ -1221,7 +1277,7 @@
       "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "LONG.LIVE.A$AP (Deluxe Version)",
         "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
@@ -1249,7 +1305,7 @@
       "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -1265,7 +1321,7 @@
       "url": "https://open.spotify.com/track/7rC5Pl8rQSX4myONQHYPBK"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "What A Time To Be Alive",
         "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
@@ -1285,7 +1341,7 @@
       "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
@@ -1305,7 +1361,7 @@
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -1321,7 +1377,7 @@
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -1337,7 +1393,7 @@
       "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -1353,7 +1409,7 @@
       "url": "https://open.spotify.com/track/3RkNXZvOSMMElmmXztDc94"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
@@ -1369,7 +1425,7 @@
       "url": "https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -1389,7 +1445,7 @@
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
@@ -1409,7 +1465,7 @@
       "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
@@ -1429,7 +1485,7 @@
       "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -1445,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -1461,7 +1517,7 @@
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -1477,7 +1533,7 @@
       "url": "https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "good kid, m.A.A.d city (Deluxe)",
         "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
@@ -1497,7 +1553,7 @@
       "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -1513,7 +1569,7 @@
       "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -1537,7 +1593,7 @@
       "url": "https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
@@ -1557,7 +1613,7 @@
       "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
@@ -1573,7 +1629,7 @@
       "url": "https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Nothing Was The Same (Deluxe)",
         "url": "https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ"
@@ -1597,7 +1653,7 @@
       "url": "https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Rise Of An Empire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
@@ -1617,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -1637,7 +1693,7 @@
       "url": "https://open.spotify.com/track/2hcohLIysMxofYziluXCoX"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -1661,7 +1717,7 @@
       "url": "https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Relapse: Refill",
         "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
@@ -1689,7 +1745,7 @@
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -1709,7 +1765,7 @@
       "url": "https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -1725,7 +1781,7 @@
       "url": "https://open.spotify.com/track/3qN5qMTKyEEmiTZD38BNTT"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -1741,7 +1797,7 @@
       "url": "https://open.spotify.com/track/0JaVdpmiex2EP7bBzyKVTa"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -1761,7 +1817,7 @@
       "url": "https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -1777,7 +1833,7 @@
       "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -1797,7 +1853,7 @@
       "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
@@ -1813,7 +1869,7 @@
       "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "0 To 100 / The Catch Up",
         "url": "https://open.spotify.com/album/5OkxLN5XaE9rLbgK2FuKBE"
@@ -1829,7 +1885,7 @@
       "url": "https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -1845,7 +1901,7 @@
       "url": "https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -1861,7 +1917,7 @@
       "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -1881,7 +1937,7 @@
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -1901,7 +1957,7 @@
       "url": "https://open.spotify.com/track/0V4l4GQhgnWQGtCWpvA7va"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -1917,7 +1973,7 @@
       "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -1937,7 +1993,7 @@
       "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "DS2 (Deluxe)",
         "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
@@ -1957,7 +2013,7 @@
       "url": "https://open.spotify.com/track/5nN8BwAQDJDguq7Dpd3JQQ"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/1JZxCJ86P4GUYkHj03CgDT"
@@ -1973,7 +2029,7 @@
       "url": "https://open.spotify.com/track/6Na5uKk5SsqZimk0hAWo8y"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
@@ -1989,7 +2045,7 @@
       "url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
@@ -2005,7 +2061,7 @@
       "url": "https://open.spotify.com/track/5InOp6q2vvx0fShv3bzFLZ"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -2021,7 +2077,7 @@
       "url": "https://open.spotify.com/track/1cCXT1cErAY6tmIqHbodrt"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "The Pinkprint (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
@@ -2045,7 +2101,7 @@
       "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Care Package",
         "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
@@ -2061,7 +2117,7 @@
       "url": "https://open.spotify.com/track/0Tacxc5lDJ8LwiO1pWNSl8"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -2085,7 +2141,7 @@
       "url": "https://open.spotify.com/track/7y6c07pgjZvtHI9kuMVqk1"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
@@ -2109,7 +2165,7 @@
       "url": "https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI"
     },
     {
-      "added_at": "2021-09-03 19:29:44",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -2129,7 +2185,7 @@
       "url": "https://open.spotify.com/track/34D6FJysnQioVingDKufuf"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
@@ -2145,7 +2201,7 @@
       "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -2165,7 +2221,7 @@
       "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
@@ -2185,7 +2241,7 @@
       "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
@@ -2205,7 +2261,7 @@
       "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -2221,7 +2277,7 @@
       "url": "https://open.spotify.com/track/1dUHF4RyMmMTveJ0Rby6Xm"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -2237,7 +2293,7 @@
       "url": "https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -2253,7 +2309,7 @@
       "url": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
@@ -2269,7 +2325,7 @@
       "url": "https://open.spotify.com/track/41a7dZcq30Ss5kPMayWRV0"
     },
     {
-      "added_at": "2020-07-17 04:01:00",
+      "added_at": "2023-08-02 20:54:36",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"

@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 759001,
+  "num_followers": 759079,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmQ2NDAyMDgyNjE5ZThjZmQxY2QxMjY4YjQ3MWQ0NjgwNTQxYTY5",
+  "snapshot_id": "MCwzOWFlZThlNTIzZjFkZDI1MmUwYzZhZmQ2NjQxMWQ1YmYyNjc0MjQ0",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "Talia Rose",
-          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 167619,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7nlCJDlqUxqV8opm2WNfbx"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Talia Rose",
+          "url": "https://open.spotify.com/artist/6eYjrfBSmbl3b8TijVnW3T"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5LQKxgiin9UDvg8GUaRXXu"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -939,6 +939,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Supercharged",
+        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
+      },
+      "artists": [
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Reo Cragun",
+          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Supercharged",
+      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Daybreak (with Zachary Knowles)",
         "url": "https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 253803,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6x5OvGcJW0wE8tm3zFxPH8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Supercharged",
-        "url": "https://open.spotify.com/album/3vPmUI9rBqbOzEd9sMGkq2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Reo Cragun",
-          "url": "https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Supercharged",
-      "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
     },
     {
-      "added_at": "2023-07-28 11:23:43",
-      "album": {
-        "name": "How High",
-        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 192834,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
-    },
-    {
       "added_at": "2023-07-21 04:00:00",
       "album": {
         "name": "Uh Uh",
@@ -1119,6 +1103,22 @@
       "duration_ms": 193098,
       "name": "Uh Uh",
       "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+    },
+    {
+      "added_at": "2023-07-28 11:23:43",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/7vM5m7ex5aovISkIh8hZ7f"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 192834,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "AUTOPILOT",
-        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "SUB ZERO",
-      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Microworlds",
         "url": "https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 209341,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "AUTOPILOT",
+        "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "SUB ZERO",
+      "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Windhorse",
+        "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
+      },
+      "artists": [
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Sophie Marks",
+          "url": "https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk"
+        }
+      ],
+      "duration_ms": 234244,
+      "name": "Windhorse",
+      "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "You Found Me",
         "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Windhorse",
-        "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "Sophie Marks",
-          "url": "https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk"
-        }
-      ],
-      "duration_ms": 234244,
-      "name": "Windhorse",
-      "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "TALK2MUCH",
-        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
-      },
-      "artists": [
-        {
-          "name": "JEV",
-          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
-        }
-      ],
-      "duration_ms": 133846,
-      "name": "DREAMER",
-      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 175357,
       "name": "Exodia",
       "url": "https://open.spotify.com/track/0JIhwGegswRgXRVKYxa8lx"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "TALK2MUCH",
+        "url": "https://open.spotify.com/album/5iWyIv8QHoD5P2vIUOf1j3"
+      },
+      "artists": [
+        {
+          "name": "JEV",
+          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "DREAMER",
+      "url": "https://open.spotify.com/track/44V3prBS5nmjRlQN0lcbeK"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
-      },
-      "artists": [
-        {
-          "name": "KOAN Sound",
-          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
-        }
-      ],
-      "duration_ms": 272509,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Emotional (James Hiraeth Remix)",
         "url": "https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 204342,
       "name": "Emotional - James Hiraeth Remix",
       "url": "https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/3RCq9rVM66HmlkI025FSyP"
+      },
+      "artists": [
+        {
+          "name": "KOAN Sound",
+          "url": "https://open.spotify.com/artist/1NCLweIUpq8knzemBwAwoo"
+        }
+      ],
+      "duration_ms": 272509,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/3uldzYm91Q7TM7eD291uW5"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "2hard2letgo",
+        "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
+      },
+      "artists": [
+        {
+          "name": "helloworld",
+          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "2hard2letgo",
+      "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/27aIXvQ2Vn34Ezy4uNNovK"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 186118,
       "name": "Go",
       "url": "https://open.spotify.com/track/1n00VLKDicKiJtu28ogqtZ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "2hard2letgo",
-        "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "2hard2letgo",
-      "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/410jHKJ6q3i8V5dhJzDT8P"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "juuku",
-          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/1pHssnGn5rQjUSM5Esrz99"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Shellshock (Edit)",
         "url": "https://open.spotify.com/album/2ljDGMcczlIKC69aNczUno"
       },
@@ -2295,6 +2275,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/410jHKJ6q3i8V5dhJzDT8P"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "juuku",
+          "url": "https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/1pHssnGn5rQjUSM5Esrz99"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Back Now",
         "url": "https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO"
       },
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "am i dreaming?",
-        "url": "https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "am i dreaming?",
-      "url": "https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 169003,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "am i dreaming?",
+        "url": "https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "am i dreaming?",
+      "url": "https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7"
     },
     {
       "added_at": "2023-07-21 04:00:00",

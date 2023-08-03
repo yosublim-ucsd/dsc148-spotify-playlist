@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,176 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,349 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08) | 4:10 |
 | 50 | [Out Of Love](https://open.spotify.com/track/1ez5ood0PsYP4Yi6KhYe7H) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:24 |
 
-Snapshot ID: `MjgxODE2NDMsMDAwMDAwMDA0MjUyY2VkNGQxZTk3ZWQ4ODg3MGY2YmRkOTBhNTI3NA==`
+Snapshot ID: `MjgxODMwMTgsMDAwMDAwMDA0OTZlZTlmYTIyODQ5ZGQ5NzhlZGU0OTRkMzg2NDZlZQ==`

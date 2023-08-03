@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: YUGYEOM(\uc720\uacb8))",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: xikers(\uc2f8\uc774\ucee4\uc2a4))",
   "name": "New Music K-Pop",
   "tracks": [
     {
@@ -24103,6 +24103,24 @@
     },
     {
       "album": {
+        "name": "HOUSE OF TRICKY : HOW TO PLAY",
+        "url": "https://open.spotify.com/album/4JoVx1AssR7dcAZrtwFVfW"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210811,
+      "name": "DO or DIE",
+      "url": "https://open.spotify.com/track/6brb7SXjhqHOxsj0jkyQVH"
+    },
+    {
+      "album": {
         "name": "DO WHAT MOVES YOU",
         "url": "https://open.spotify.com/album/3MaLv0d5hgUDPSNork5zJ4"
       },
@@ -32280,6 +32298,24 @@
       "duration_ms": 213320,
       "name": "FIX YOU",
       "url": "https://open.spotify.com/track/3MpZeEXf4DpkPnuQeofIsk"
+    },
+    {
+      "album": {
+        "name": "FK OFF",
+        "url": "https://open.spotify.com/album/4GMFcVP9YWRbsmMg4KkJQR"
+      },
+      "artists": [
+        {
+          "name": "KOONTA",
+          "url": "https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133733,
+      "name": "FK OFF",
+      "url": "https://open.spotify.com/track/5R4bRhC8aGrxkC6nsp4CiL"
     },
     {
       "album": {
@@ -58520,7 +58556,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 147173,
       "name": "Love is",
       "url": "https://open.spotify.com/track/2MLYYkj1ekJnakj1BBHaim"
@@ -73263,6 +73299,24 @@
     },
     {
       "album": {
+        "name": "Our Night is more beautiful than your Day",
+        "url": "https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq"
+      },
+      "artists": [
+        {
+          "name": "Chuu",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Our Night is more beautiful than your Day",
+      "url": "https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY"
+    },
+    {
+      "album": {
         "name": "Our Painted Night",
         "url": "https://open.spotify.com/album/41qL3TmpxxDLXFoU5PQ3Z9"
       },
@@ -78173,6 +78227,24 @@
     },
     {
       "album": {
+        "name": "Rain Drive",
+        "url": "https://open.spotify.com/album/4AvUJKOjBiuXliZGuW63KP"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Rain Drive",
+      "url": "https://open.spotify.com/track/1tNGw4vv6N12lkKIT1pcNo"
+    },
+    {
+      "album": {
         "name": "Rain Drop",
         "url": "https://open.spotify.com/album/00oktkhIRIzEuKJs8hySTt"
       },
@@ -78896,6 +78968,24 @@
       "duration_ms": 253573,
       "name": "Realize",
       "url": "https://open.spotify.com/track/3OwRRovUEiWD8lvOugwDok"
+    },
+    {
+      "album": {
+        "name": "SERENADE",
+        "url": "https://open.spotify.com/album/7du8IYJtlmH2rmBpYK3vjX"
+      },
+      "artists": [
+        {
+          "name": "Bluepaprika",
+          "url": "https://open.spotify.com/artist/5UsQ1MY9PhBPfYkbb1cC0z"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240572,
+      "name": "Really, you",
+      "url": "https://open.spotify.com/track/5UKfXrctiSLGuezFGN7cCx"
     },
     {
       "album": {
@@ -95961,6 +96051,24 @@
     },
     {
       "album": {
+        "name": "The Flash",
+        "url": "https://open.spotify.com/album/10NFGCJ5fzJwMadKyBcqfr"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213533,
+      "name": "The Flash",
+      "url": "https://open.spotify.com/track/43k24mAEnmPjVUDyOK27Ca"
+    },
+    {
+      "album": {
         "name": "The Flooded Bimmer",
         "url": "https://open.spotify.com/album/3YNoIUcdRNR5CEg9ZCaG1U"
       },
@@ -105369,6 +105477,24 @@
     },
     {
       "album": {
+        "name": "Ready : Summer vacation",
+        "url": "https://open.spotify.com/album/1lQHKvoXfIUo7QKS7YYBdy"
+      },
+      "artists": [
+        {
+          "name": "The Wind",
+          "url": "https://open.spotify.com/artist/3q4h0WRGyR0Qcx88vwyzkd"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "WE GO",
+      "url": "https://open.spotify.com/track/5M5vy3SaNUIHArzt7YONva"
+    },
+    {
+      "album": {
         "name": "WE GO HIGH",
         "url": "https://open.spotify.com/album/0JVq4vVvfai25hdLJhvHxz"
       },
@@ -106925,7 +107051,7 @@
       "artists": [
         {
           "name": "KARDI",
-          "url": "https://open.spotify.com/artist/22MxTr8HuYn5ixMMiUADxY"
+          "url": "https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE"
         }
       ],
       "date_added": "2023-07-24",

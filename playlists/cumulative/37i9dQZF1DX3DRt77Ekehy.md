@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3DRt77Ekehy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3DRt77Ekehy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3DRt77Ekehy)
 
-### [432 Hz](https://open.spotify.com/playlist/37i9dQZF1DX3DRt77Ekehy)
+### [432 Hz Meditation](https://open.spotify.com/playlist/37i9dQZF1DX3DRt77Ekehy)
 
 > Tune in, resonate and manifest at 432 hertz..\. <br/>A positive solfeggio frequency to meditate to
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 
 > The south got something to say\. Cover: Plies
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,531 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,090 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYok9l1JL7GM.md) - [plain]
 | 49 | [Slob On My Nob \(feat\. Project Pat\)](https://open.spotify.com/track/0mXMr1OVZZKYmOinBaofOp) | [Tear Da Club Up Thugs](https://open.spotify.com/artist/6EXX0GpVsILp9TGCfu7AVG), [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Crazyndalazdayz](https://open.spotify.com/album/7c2vgd6qltoG2fAGZN2Bpz) | 1:58 |
 | 50 | [Sippin On Some Syrup \(feat\. UGK \(Underground Kingz\) & Project Pat\)](https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [When the Smoke Clears: Sixty 6, Sixty 1](https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI) | 4:21 |
 
-Snapshot ID: `MCxiMWJhZmExMGVjZmNhMTBmODJlMTJjMzc0NzhkZjZjMWZlYjczNThk`
+Snapshot ID: `MCxhNDE0Y2Q3MzZiMWQ3NTVlNWVkZGNlOTFjOWE5OGIwNzZiMTA2N2Rj`

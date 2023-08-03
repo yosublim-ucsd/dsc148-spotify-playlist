@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Imagine Dragons",
-  "num_followers": 58789,
+  "num_followers": 58842,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjI2MzQwZWVkZTA3MDE5MTNlZTEwNzcxMzBkYWUwNDNmNTM0OTc0",
+  "snapshot_id": "MCxhY2U1NWU1NDk5MGI1ZWY1MzViMjUzMmY3M2I0OTUxZmQxZjFkNWFl",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+        "name": "Hurts So Good (Live From The Studio)",
+        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         }
       ],
-      "duration_ms": 198760,
-      "name": "Goodbye Yellow Brick Road - Live",
-      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
+      "duration_ms": 202833,
+      "name": "Hurts So Good - Live From The Studio",
+      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Hurts So Good (Live From The Studio)",
-        "url": "https://open.spotify.com/album/629SuCWLMZ0BoQDciPUV24"
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 202833,
-      "name": "Hurts So Good - Live From The Studio",
-      "url": "https://open.spotify.com/track/4n8FLFUeTBJeY1PlPKwYJ0"
+      "duration_ms": 198760,
+      "name": "Goodbye Yellow Brick Road - Live",
+      "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -823,22 +823,6 @@
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -895,6 +879,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
       },
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Shakira Oral Fixation Tour (Live)",
-        "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 436026,
-      "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
-      "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Unplugged (Live At MTV Unplugged, New York, NY/2009)",
         "url": "https://open.spotify.com/album/1qAoFDC9NoiJ3zD5lst6pG"
       },
@@ -967,18 +947,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+        "name": "Shakira Oral Fixation Tour (Live)",
+        "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
         }
       ],
-      "duration_ms": 320400,
-      "name": "Sacrifice - Live",
-      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
+      "duration_ms": 436026,
+      "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
+      "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1011,6 +995,22 @@
       "duration_ms": 231040,
       "name": "Waterloo - Live",
       "url": "https://open.spotify.com/track/3eNYZ1f1sLkylk0kc60Vir"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Sacrifice - Live",
+      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Pompeii / Come As You Are (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 268690,
-      "name": "Pompeii - MTV Unplugged / Edit",
-      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
+      "duration_ms": 334813,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
+      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1091,6 +1091,22 @@
       "duration_ms": 217173,
       "name": "Everything - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Pompeii / Come As You Are (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 268690,
+      "name": "Pompeii - MTV Unplugged / Edit",
+      "url": "https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 334813,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight) - Live",
-      "url": "https://open.spotify.com/track/3hEy5GbQv7yC1X6yhoPz2y"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Stark Naked and Absolutely Live",
         "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 248572,
       "name": "Havana - Live",
       "url": "https://open.spotify.com/track/6JPUEloc0qDkustwyWHEpN"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1271,22 +1255,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Candle In The Wind - Live",
-      "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
         "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
       },
@@ -1299,6 +1267,38 @@
       "duration_ms": 300953,
       "name": "You Give Me Something - Live At The Hospital Club",
       "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Candle In The Wind - Live",
+      "url": "https://open.spotify.com/track/6uaIVqaravhhG0rFBnexTE"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 231493,
       "name": "You're The One That I Want - Live",
       "url": "https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
-        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Lost - Live from Madison Square Garden",
-      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Spotify Sessions (Live From Spotify NYC)",
         "url": "https://open.spotify.com/album/2QikeTxs4IEgc4fPV08YTL"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 160400,
       "name": "Ghost - Live From Spotify NYC",
       "url": "https://open.spotify.com/track/2ndJQ968H7uRS2rrYdEaQ3"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
+        "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Lost - Live from Madison Square Garden",
+      "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
+      },
+      "artists": [
+        {
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+        }
+      ],
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "Older (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
+        "name": "Live At Wembley Arena",
+        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
       "artists": [
         {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
+      "duration_ms": 265520,
+      "name": "Take A Chance On Me - Live",
+      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live At Wembley Arena",
-        "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
+        "name": "Lady Croissant (Live)",
+        "url": "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 265520,
-      "name": "Take A Chance On Me - Live",
-      "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
+      "duration_ms": 352333,
+      "name": "Breathe Me - Live",
+      "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1531,22 +1547,6 @@
       "duration_ms": 248394,
       "name": "The A Team - Live and in Session",
       "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Lady Croissant (Live)",
-        "url": "https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Breathe Me - Live",
-      "url": "https://open.spotify.com/track/60HvDEDbzm4BvTwQbLcrNz"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 180346,
       "name": "Hopelessly Devoted To You - Live",
       "url": "https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2023-05-14 16:51:28",

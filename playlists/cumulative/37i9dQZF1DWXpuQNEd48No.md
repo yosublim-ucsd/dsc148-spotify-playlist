@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Haryana](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Badal
+> Yo Hai Haryanvi Hip\-Hop! Cover: Billa Sonipat Ala, Prince Jamba & Irshad Khan
 
-94 songs - 5 hr 8 min
+95 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ghani Syaani](https://open.spotify.com/track/1Cb0T2tnApa38jg8DOUF0B) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Ghani Syaani](https://open.spotify.com/album/6XMfzJDG7d0IedtJLfWDdc) | 3:33 | 2023-03-28 |  |
 | [Goli](https://open.spotify.com/track/5bJVRkqNWRwULSglgjLLL1) | [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS) | [Goli](https://open.spotify.com/album/32lzoDt96kxUb6Hh8cRy6m) | 2:45 | 2023-03-28 | 2023-04-04 |
 | [Goli](https://open.spotify.com/track/5Eg7UwkwmvZ6klpm26opBD) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Nonu Rana](https://open.spotify.com/artist/5apXJg5GUrFPVqRe4prxKh), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn) | [Goli](https://open.spotify.com/album/1x72UEEAlwx8Idzm6buZd8) | 2:34 | 2023-07-11 |  |
+| [Haryana Born](https://open.spotify.com/track/1sT3QTmJ61n7dlUQwCvugq) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb) | [Haryana Born](https://open.spotify.com/album/7hMuaxPY9NYf8oOoVBqEXf) | 2:26 | 2023-08-02 |  |
 | [Haryana Hood](https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Haryana Hood](https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj) | 3:31 | 2023-04-18 |  |
 | [Haryana Roadways](https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Haryana Roadways](https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW) | 3:08 | 2023-03-28 |  |
 | [Haryana Zone](https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II) | [Oye Amti](https://open.spotify.com/artist/1aYZzT07CepkQFWaQDECss) | [Haryana Zone](https://open.spotify.com/album/4tz7GSeVevhfjXSddHw4J3) | 3:03 | 2023-04-14 |  |
@@ -60,7 +61,7 @@
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 | 2023-07-07 |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 | 2023-06-13 |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 |  |
-| [Men In Black](https://open.spotify.com/track/4roeUS4FitfHH2TDf2qraX) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Men In Black](https://open.spotify.com/album/5muqfU3Iij0c2PV02gw01O) | 2:00 | 2023-07-11 |  |
+| [Men In Black](https://open.spotify.com/track/4roeUS4FitfHH2TDf2qraX) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb), [Subtrax](https://open.spotify.com/artist/7M3N0IjvgrSOqFa3Byfgks) | [Men In Black](https://open.spotify.com/album/5muqfU3Iij0c2PV02gw01O) | 2:00 | 2023-07-11 | 2023-08-03 |
 | [MERCURY](https://open.spotify.com/track/6RbMiYrULpv1XVbXwipI9o) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [MERCURY](https://open.spotify.com/album/5wSwuPIraFkhnFyANEooT7) | 3:07 | 2023-03-28 | 2023-04-23 |
 | [Meter Khench](https://open.spotify.com/track/0VonGBdBy7i4gEXUwp9WhX) | [Arun Taank](https://open.spotify.com/artist/0uoMDF5nGJGZqZt7ZybJ0u), [Akhri Sultaan](https://open.spotify.com/artist/0Mw3EnmkxQQyWu4mI8r8L2), [Bigdee](https://open.spotify.com/artist/2Y8HUZ2z19r7fog9SuDprK) | [Meter Khench](https://open.spotify.com/album/71s6jogrwwclqzxXTeYH6h) | 3:11 | 2023-06-05 | 2023-06-17 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 |  |

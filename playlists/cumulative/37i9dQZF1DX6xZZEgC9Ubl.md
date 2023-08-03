@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-827 songs - 1 day 13 hr 32 min
+828 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Cherry Blossoms](https://open.spotify.com/track/0i55G9XxEPCxYwzozhQun5) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7JXeLOZu3B2iArq61xATwX) | 2:17 | 2023-04-12 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9) | 2:18 | 2022-05-23 | 2023-07-28 |
 | [Cherry Blossoms](https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI) | 2:18 | 2022-08-30 | 2023-04-16 |
-| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 |  |
+| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 | 2023-08-03 |
 | [Choose](https://open.spotify.com/track/0WnLpQOHjfVwPw2zbrIsPN) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [HIGH FASHION](https://open.spotify.com/album/5ajnqokZWzTySQgUt2RgLW) | 3:32 | 2021-12-03 | 2022-07-27 |
 | [CHROME HEART](https://open.spotify.com/track/0Fqz94aIhKIfnbnUgDRbLH) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:39 | 2022-03-18 | 2022-04-16 |
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-05-14 |
@@ -493,6 +493,7 @@
 | [nobody else](https://open.spotify.com/track/5tNsiJvMrreUQASdTU4FVh) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [nobody else](https://open.spotify.com/album/2cROz0PXt0BsCGnQXRApNf) | 2:32 | 2022-04-01 | 2022-04-20 |
 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 | 2022-10-07 |  |
 | [North Star](https://open.spotify.com/track/42rF3FLOvTSXRpVowkwTGY) | [Mackned](https://open.spotify.com/artist/68VUmnZEzmzZdd1zPtnbZZ) | [God Mom](https://open.spotify.com/album/7gBvEFzk4d13BOayesrAuB) | 2:03 | 2023-02-10 |  |
+| [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 | 2023-04-12 |  |
 | [Not a Home](https://open.spotify.com/track/3ZWkJqZCGUNerhkijP3ien) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Not a Home](https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr) | 2:49 | 2022-07-22 | 2023-07-02 |
 | [not a home](https://open.spotify.com/track/3uhBPLTvFEwow2KZaoEQRJ) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [not a home](https://open.spotify.com/album/5exWGk9ukorwDTosy5C3ln) | 2:49 | 2022-05-13 | 2022-07-29 |
 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 | 2021-12-17 | 2022-01-19 |

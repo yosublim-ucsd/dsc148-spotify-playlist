@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 57540,
+  "num_followers": 57617,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTI1ZTYzNGRhZjgwN2E4NDNjMjE0MzhiOTAwMWY3Nzk4ZWNiMDFh",
+  "snapshot_id": "MCw5YWI3OTkyNDA2MDVkMzhkNDIyNThkOWVjNTY4ZDE4YTI3NzRkNjQw",
   "tracks": [
     {
       "added_at": "2023-06-16 14:15:56",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 297893,
-      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
+      "duration_ms": 175773,
+      "name": "Hard Times (No One Knows Better Than I)",
+      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -263,18 +259,22 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "The Genius Sings the Blues",
-        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Hard Times (No One Knows Better Than I)",
-      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
+      "duration_ms": 297893,
+      "name": "Set Sail part I (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/2lt3INbrnQEZz57tKA05Zy"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
         "name": "The Country Side Of Esther",
         "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 199226,
       "name": "No Headstone on My Grave",
       "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9"
     },
     {
       "added_at": "2023-06-16 14:15:56",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-06-16 14:15:56",
       "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
+    },
+    {
+      "added_at": "2023-06-16 14:15:56",
+      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
-    },
-    {
-      "added_at": "2023-06-16 14:15:56",
-      "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2023-06-16 14:15:56",

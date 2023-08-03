@@ -4,7 +4,7 @@
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-187 songs - 10 hr 34 min
+188 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/7rayH7w0DFOWTZ9LZaKL3G) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:35 | 2021-12-14 |  |
 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 | 2021-12-14 |  |
 | [Cruz de Olvido](https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Muerte De Un Gallero](https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w) | 3:22 | 2021-12-14 |  |
-| [Cuando Me Digas](https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:00 | 2021-12-14 |  |
+| [Cuando Me Digas](https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:00 | 2021-12-14 | 2023-08-03 |
 | [Cuando Más Te Amaba](https://open.spotify.com/track/0znMUux7ItGZNjOwEVzXYu) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:27 | 2021-12-14 | 2022-11-13 |
 | [Cuando Tu Sangre Hierva](https://open.spotify.com/track/2Mwo1PPLYfrhU7oNH9DodV) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:13 | 2021-12-14 | 2022-07-29 |
 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 3:42 | 2021-12-14 |  |
@@ -55,6 +55,7 @@
 | [El Hombre Que Más Te Amó](https://open.spotify.com/track/452zFwwMHwPo4nJVx5YrQb) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hombre que mas Te Amo](https://open.spotify.com/album/0k6b06CIw9N5xd5ocq0dfX) | 3:16 | 2021-12-14 | 2022-07-29 |
 | [El Niño Más Grande](https://open.spotify.com/track/1MmATLgKp0Q8aNbph1FV37) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [El Niño Más Grande](https://open.spotify.com/album/73huhdqRQ4a9z47yIVLNKV) | 3:57 | 2021-12-14 |  |
 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 | 2021-12-14 |  |
+| [El Rey \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/0bf0zZj6XCvNgAt7pIM7y6) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 2:26 | 2021-12-14 |  |
 | [El Rey \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/68pGosflXjuFNwM9JeOIbZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Rey \(En Vivo \[Un Azteca en el Azteca\]\)](https://open.spotify.com/album/5fY4JH17mbaMxzNe40uLHW) | 2:26 | 2021-12-14 | 2022-07-29 |
 | [El Tiempo No Perdona](https://open.spotify.com/track/17bv7TKu1N7HpI4WYBa8kK) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Tiempo No Perdona](https://open.spotify.com/album/4vHQZxQgHgNEhvbomvfxHH) | 4:03 | 2021-12-14 |  |
 | [Ella](https://open.spotify.com/track/4IH81OtdV8dEL8TrEOCfp1) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano En La Mexico](https://open.spotify.com/album/18rvcPLDCNbf8maVO7m2LE) | 2:32 | 2021-12-14 | 2022-07-29 |

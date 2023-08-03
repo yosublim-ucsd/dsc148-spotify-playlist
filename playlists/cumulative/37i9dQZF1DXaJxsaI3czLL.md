@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-268 songs - 18 hr 59 min
+269 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 | 2022-10-20 |  |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-10-20 | 2022-10-25 |
 | [Moon Light Lover](https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [Young Love](https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0) | 4:54 | 2022-10-20 | 2023-01-20 |
-| [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 |  |
+| [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 | 2023-08-03 |
+| [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 | 2023-08-01 |  |
 | [Mori no kotoba](https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Songs of Four Seasons](https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS) | 5:12 | 2022-10-20 | 2023-04-04 |
 | [Mother And Me](https://open.spotify.com/track/2TiZH7Hu0CE482TGuz4Ad0) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [Mother And Me](https://open.spotify.com/album/3ynbxx9HX2CBj9Ut4G62GP) | 4:21 | 2022-12-27 | 2023-01-23 |
 | [My name \- Naked ver.](https://open.spotify.com/track/6XOOMTG1WGOCJombJPV6pS) | [シモムラナナ](https://open.spotify.com/artist/5wIlRdmDJEodDDQrz112bj) | [My name \(Naked ver.\)](https://open.spotify.com/album/3rkmKaE6moOMCdK0pI9biO) | 3:55 | 2023-06-20 | 2023-07-19 |

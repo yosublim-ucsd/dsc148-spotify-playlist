@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-125 songs - 7 hr 24 min
+126 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Hier und jetzt](https://open.spotify.com/track/5x1fzkbosm3bzZPexNHlND) | [Benne](https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc) | [Alles auf dem Weg](https://open.spotify.com/album/3G6OAotfexI7e9ZfgDJCpW) | 3:58 | 2020-05-03 |  |
 | [Hora Bruja](https://open.spotify.com/track/3KjUz9upExFV7dxsm9P45R) | [Cuchillo](https://open.spotify.com/artist/4HUoMCRLwJTGvuzcevaLVT) | [Encanto](https://open.spotify.com/album/7ghVkkWsjzTFna6lR0Axt1) | 3:53 | 2020-05-03 |  |
 | [Intro](https://open.spotify.com/track/1pmnRWyl6HdWtraKmMe3gz) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:02 | 2020-05-03 |  |
-| [Ja må du leva \- Akustisk version](https://open.spotify.com/track/1Bh4HmorrjRSTAMgyHTkL5) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk version\)](https://open.spotify.com/album/0frL0AdL5jK1RisL0nCObh) | 3:32 | 2020-05-03 |  |
+| [Ja må du leva \- Akustisk version](https://open.spotify.com/track/1Bh4HmorrjRSTAMgyHTkL5) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk version\)](https://open.spotify.com/album/0frL0AdL5jK1RisL0nCObh) | 3:32 | 2020-05-03 | 2023-08-03 |
+| [Ja må du leva \- Akustisk version](https://open.spotify.com/track/3L4paLu18iab5vyGFhxCFk) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Ja må du leva \(Akustisk Version\)](https://open.spotify.com/album/1ably0J4QfZhQWiN74sfTH) | 3:32 | 2022-09-26 |  |
 | [Je t'emmènerai](https://open.spotify.com/track/0e1tpQ8A7L2BTRpXXs8znZ) | [Willows](https://open.spotify.com/artist/0UNhcjtUIMb5u5v6niKshW) | [Willows](https://open.spotify.com/album/276kwfvHvCeNJYHGhcx7jj) | 3:47 | 2020-05-03 |  |
 | [Jungla de Asfalto \- Acústica](https://open.spotify.com/track/0L2rbBHxOiYkOmfab6ymPY) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Jungla de Asfalto \(Acústica\)](https://open.spotify.com/album/4PKNNrYVTrHJl1tvZsTjh4) | 2:39 | 2020-05-03 | 2022-07-29 |
 | [Jungla de Asfalto \- Acústica](https://open.spotify.com/track/6tYdxEQSnC0rh9W2OaK5oV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Jungla de Asfalto \(Acústica\)](https://open.spotify.com/album/17qd0OTNr0701iti3OetHX) | 2:39 | 2020-05-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Weslei Santos, AMÉM
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,080 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,144 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Bom Mestre](https://open.spotify.com/track/08r1uMrc1HXsWGH42VlDNQ) | [Gabriela Klinger](https://open.spotify.com/artist/25OHASaqMP2gPD7MD39OQz) | [Bom Mestre](https://open.spotify.com/album/2zg5BHNqVBf17MpZYXSLA2) | 4:21 |
 | 50 | [A Esperança \- Ao Vivo](https://open.spotify.com/track/4YEQSbvIneg0Z4apJpwX1u) | [IC Music](https://open.spotify.com/artist/1czBekiZY58u6kBfqLzEFD) | [A Esperança \(Ao Vivo\)](https://open.spotify.com/album/18SLZ8KEKTitx8ht785l55) | 5:20 |
 
-Snapshot ID: `MCwyMTljNThhMzYxYzhkNDcyMWYwNzYxZGExNjEwNDc5NWQ3ZGJjOGQz`
+Snapshot ID: `MCxkNjQ0ZWY2MGQxZjQ1YjVlNTA5YTg1M2Y1ZWY0MjAzZmQzMDVkMjFj`

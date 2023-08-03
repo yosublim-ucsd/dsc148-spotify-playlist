@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Holler
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,769 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,781 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Never Fall In Love](https://open.spotify.com/track/4mk0TiHJNQzL1dlyP2j6DA) | [Ritho](https://open.spotify.com/artist/7vzVjHcRJej3H3HH4Jhc4N) | [Never Fall In Love](https://open.spotify.com/album/7fq7umDsB9DXN50aEGTOre) | 3:17 |
 | 80 | [Roses](https://open.spotify.com/track/3EfZ1FovbvY5dxogyyB8sw) | [Cxrno](https://open.spotify.com/artist/1iKmg6IgBEKSUEnHr6KLom) | [Roses](https://open.spotify.com/album/37kEh032g40R9I6d7sd7cV) | 2:35 |
 
-Snapshot ID: `MCxkYmJiODk0NmJiYTZjZjBlOWZjMjVlZmQ4OGI4YTEzZDY4NTQzMzU5`
+Snapshot ID: `MCxhMzYxMGI2MWFhY2MxMTA1ZmFiMjIwYzZmMzMzOGNkMzNmMzAwNzlk`

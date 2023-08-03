@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-2,989 songs - 6 day 15 hr 57 min
+2,989 songs - 6 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1105,7 +1105,7 @@
 | [Gracias hermano](https://open.spotify.com/track/4rWfhTSuzNCyYzkCh218vd) | [BARIRI](https://open.spotify.com/artist/7EI5ggCJHETX3cWcqtQR2F) | [Gracias hermano](https://open.spotify.com/album/5YVAncIUWX16QcZ26ZrMHb) | 4:42 | 2022-07-22 | 2022-08-20 |
 | [Graffiti](https://open.spotify.com/track/1nbf58hrmgDkfathd8NwTD) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Violet](https://open.spotify.com/album/4tW1prOUVuxwZqBJ9kQEaB) | 3:08 | 2022-12-09 | 2023-02-11 |
 | [Grafter](https://open.spotify.com/track/441xK1TmH5Qb4vQtUhrRYc) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Grafter](https://open.spotify.com/album/5nqo0KFFKiWpjRzYM4ISet) | 3:55 | 2023-06-16 | 2023-07-09 |
-| [Grafter \- Remix](https://open.spotify.com/track/1R48N7DRbSwPD6wjLNse0j) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Mortel](https://open.spotify.com/artist/15N4o2rfEABILEVPXZIlo1) | [Grafter \(Remix\)](https://open.spotify.com/album/4YRfCvuIFjEHNEVQLciZ47) | 3:55 | 2023-07-28 |  |
+| [Grafter \- Remix](https://open.spotify.com/track/1R48N7DRbSwPD6wjLNse0j) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Mortel](https://open.spotify.com/artist/15N4o2rfEABILEVPXZIlo1) | [Grafter \(Remix\)](https://open.spotify.com/album/4YRfCvuIFjEHNEVQLciZ47) | 4:06 | 2023-07-28 |  |
 | [Grapefruit Soda](https://open.spotify.com/track/5Hfi6OZhytd8lhMeG1TJRW) | [Arey](https://open.spotify.com/artist/1WXP249QGwgcPb852Lxn2F) | [Grapefruit Soda](https://open.spotify.com/album/1a5AHMDnzDoMhk9LgYhiqP) | 2:21 | 2023-02-24 | 2023-03-11 |
 | [Great Five Lakes \- KutMasta Kurt Mix \- 2022 Remastered](https://open.spotify.com/track/0Yak5w7XEnPIeaPLslAK3C) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby), [KutMasta Kurt](https://open.spotify.com/artist/2T3TY0bgKbi5lH3TfD0m7O) | [New Rock](https://open.spotify.com/album/4Chdsc3zT2q3ynlSSjokbm) | 5:22 | 2023-03-10 | 2023-04-01 |
 | [Great Five Lakes \- KutMasta Kurt Mix \- 2022 Remastered](https://open.spotify.com/track/4Lt4Ay1GdDqx1gkM2r5UHR) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby), [KutMasta Kurt](https://open.spotify.com/artist/2T3TY0bgKbi5lH3TfD0m7O) | [Great Five Lakes \- KutMasta Kurt Mix \- 2022 Remastered](https://open.spotify.com/album/7tMpMd3n8zaAZlsHpPjl7M) | 5:22 | 2023-03-03 | 2023-03-25 |

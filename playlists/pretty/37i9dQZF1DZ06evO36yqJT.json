@@ -1,15 +1,15 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 3852,
+  "num_followers": 3858,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxODE2NDIsMDAwMDAwMDAzN2U1YWM0ZmQ5NzNjZmZhZTE4NTU3ZDVjYmFiZGI5OQ==",
+  "snapshot_id": "MjgxODMwMTgsMDAwMDAwMDAwMWRiMTNhOGViYmEwYjg0YWE0NzQxZjc5NDVhZTdkMQ==",
   "tracks": [
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Shirley Caesar: Her Very Best",
         "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6xeJNGD98zIGTbOAhngzJe"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "All of the Glory (Radio Edit)",
         "url": "https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0e1ZeCyP0BPBO42qu8MFfY"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "I Remember Mama",
         "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
@@ -77,23 +77,7 @@
       "url": "https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "He's Working It Out for You",
-        "url": "https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 331493,
-      "name": "He's Working It Out for You",
-      "url": "https://open.spotify.com/track/1aS2yIKWfwzJjVI7vRLju7"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
@@ -109,7 +93,23 @@
       "url": "https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "He's Working It Out for You",
+        "url": "https://open.spotify.com/album/6hEJsEKJDSL8Ma2dRS4pSG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 331493,
+      "name": "He's Working It Out for You",
+      "url": "https://open.spotify.com/track/1aS2yIKWfwzJjVI7vRLju7"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "A Miracle In Harlem",
         "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/6IdkVDIVFjznzo4RfNtT1T"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "I Remember Mama",
         "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/054nuYMIq228KvP0jUvr8a"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2Jy9lryBk79K118gJ9n1QQ"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Jesus I Love Calling Your Name",
         "url": "https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/1ikkDtH9Ya4jvbZyd9AyLA"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "A Miracle In Harlem",
         "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/226jnN4L43ACMq1CdP96py"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Live... In Chicago",
         "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2q9iUw2ZI5krPylceEl9Bl"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Jesus I Love Calling Your Name",
         "url": "https://open.spotify.com/album/6GHAu0xi6RbsZI2ONZsBLy"
@@ -237,7 +237,55 @@
       "url": "https://open.spotify.com/track/4AUnE8OQJWLjJtCBppPhjg"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "Platinum Gospel-Shirley Caesar",
+        "url": "https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 217093,
+      "name": "Tear Your Kingdom Down",
+      "url": "https://open.spotify.com/track/0MelBn72SNNZaCCZ53bkRG"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 521600,
+      "name": "Hold My Mule - Live",
+      "url": "https://open.spotify.com/track/0JjsI172ped2hF5v27o28J"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "Gospel Legends",
+        "url": "https://open.spotify.com/album/7irL5EpfIUFH2Q21XRhXVA"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 327880,
+      "name": "I Feel Like Praising Him",
+      "url": "https://open.spotify.com/track/6ZmVj4bahhA9TkJpbNX7Jy"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
@@ -257,55 +305,7 @@
       "url": "https://open.spotify.com/track/4wBRXLzV3rKXm1CWqrY8nv"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 521600,
-      "name": "Hold My Mule - Live",
-      "url": "https://open.spotify.com/track/0JjsI172ped2hF5v27o28J"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "Gospel Legends",
-        "url": "https://open.spotify.com/album/7irL5EpfIUFH2Q21XRhXVA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 327880,
-      "name": "I Feel Like Praising Him",
-      "url": "https://open.spotify.com/track/6ZmVj4bahhA9TkJpbNX7Jy"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "Platinum Gospel-Shirley Caesar",
-        "url": "https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Tear Your Kingdom Down",
-      "url": "https://open.spotify.com/track/0MelBn72SNNZaCCZ53bkRG"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/3L5ustG2wgnfwvNdwKrc5H"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd"
@@ -337,23 +337,7 @@
       "url": "https://open.spotify.com/track/67wseMeCcgKzn4mhQOPBUC"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 232626,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Golden Gospel Classics",
         "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
@@ -369,10 +353,10 @@
       "url": "https://open.spotify.com/track/2L3XGrMU8stZ2BdxOQ2kxj"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg"
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
       },
       "artists": [
         {
@@ -380,12 +364,12 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 250080,
-      "name": "What A Friend We Have In Jesus (You Are My Friend) [Ult Version]",
-      "url": "https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9"
+      "duration_ms": 232626,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Heart to Yours",
         "url": "https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS"
@@ -405,7 +389,23 @@
       "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "What A Friend We Have In Jesus (You Are My Friend) [Ult Version]",
+      "url": "https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/0xjj8wnRsAHbNW2idVp0Ip"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Harvest Collection: Shirley Caesar",
         "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/5qcAI2okoSPebBpM6f0hdz"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "You Can Make It",
         "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Shirley Caesar: Her Very Best",
         "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Harvest Collection: Shirley Caesar",
         "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/4BilCEaBPaQ295OUpKF6zf"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Sailin'",
         "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Golden Gospel Classics",
         "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
@@ -561,23 +561,7 @@
       "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "The Lord Will Make a Way",
-      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Stand Still",
         "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
@@ -593,7 +577,23 @@
       "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Black Gospel Explosion: Recorded Live",
         "url": "https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Golden Gospel Classics",
         "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/28uUETVnwkM9zlSNWo06P7"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Greenleaf (Gospel Companion Soundtrack, Vol. 1)",
         "url": "https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Harvest Collection: Shirley Caesar",
         "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
@@ -681,23 +681,7 @@
       "url": "https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 381933,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Even Me",
         "url": "https://open.spotify.com/album/6E9ar58WHPraobxdst9pyA"
@@ -713,7 +697,23 @@
       "url": "https://open.spotify.com/track/0vw5bu8V54tE25QeQFTLih"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 381933,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Hymns",
         "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR"
@@ -745,23 +745,7 @@
       "url": "https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
-      "album": {
-        "name": "Harvest Collection: Shirley Caesar",
-        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 623976,
-      "name": "Don't Drive Your Mama Away",
-      "url": "https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi"
-    },
-    {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/3QW28gwaC0BM3w55bVMMfd"
@@ -777,7 +761,23 @@
       "url": "https://open.spotify.com/track/6DhW6FvrhT06DVuIadgmHW"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
+      "album": {
+        "name": "Harvest Collection: Shirley Caesar",
+        "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 623976,
+      "name": "Don't Drive Your Mama Away",
+      "url": "https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi"
+    },
+    {
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "A Miracle In Harlem",
         "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/6AEfS7fqWpSn8llgMVjfvs"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Shirley Caesar: Her Very Best",
         "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Shirley Caesar Live .... He Will Come",
         "url": "https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "The Best of Shirley Caesar With the Caravans",
         "url": "https://open.spotify.com/album/1215964Ip4LoprUC8ZwQ65"
@@ -841,7 +841,7 @@
       "url": "https://open.spotify.com/track/7A0ZOMn3Dfygl3Vy4dHJrO"
     },
     {
-      "added_at": "2023-08-01 14:02:53",
+      "added_at": "2023-08-02 12:58:39",
       "album": {
         "name": "Platinum Gospel-Shirley Caesar",
         "url": "https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP"

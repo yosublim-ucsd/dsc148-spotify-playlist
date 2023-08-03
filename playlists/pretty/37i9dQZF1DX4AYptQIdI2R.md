@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,143 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,168 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 75 | [Lullaby](https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 |
 | 76 | [Look](https://open.spotify.com/track/1ZFQugO7BqYJjw8FVQHcze) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:14 |
 | 77 | [하드캐리 Hard Carry](https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) | 3:13 |
-| 78 | [Teenager](https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:09 |
+| 78 | [Teenager](https://open.spotify.com/track/00epHVn0WOaXiT3UhpIINp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:09 |
 | 79 | [니가 하면 If You Do](https://open.spotify.com/track/72HYwYmfl6Y8AzbJO0z6vB) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4) | 3:30 |
 | 80 | [A](https://open.spotify.com/track/1dHGpyLRqLnBqyWzlfvyFh) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT♡](https://open.spotify.com/album/5FtIYnrmxlfQH0qC4OgBbR) | 3:02 |
 | 81 | [딱 좋아\(Just right\)](https://open.spotify.com/track/4ER58qECydWokIsgqtysWu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Just right](https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv) | 3:42 |
 | 82 | [I WON'T LET YOU GO](https://open.spotify.com/track/3cdHL2ljh7IFnOtRsUOnej) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I WON'T LET YOU GO \(Complete Edition\)](https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J) | 3:37 |
-| 83 | [You Are](https://open.spotify.com/track/0onCsNOWfUMt1ERQ0TI9Zt) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:20 |
+| 83 | [You Are](https://open.spotify.com/track/5THFfbp23EcJsygTyiBDzJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:20 |
 | 84 | [Fly](https://open.spotify.com/track/3CK5Fc55KyS4Tg9Q9XrCYC) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : DEPARTURE](https://open.spotify.com/album/0I0J7uOt0XlSx9jPXj62Ym) | 3:11 |
 | 85 | [하지하지마 Stop stop it](https://open.spotify.com/track/5DMJmSSOWD6Zx0Jg0TXEB6) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Identify](https://open.spotify.com/album/02dvCQbuBKdU1QHHGtrCHy) | 3:16 |
 | 86 | [내일, 오늘 Tomorrow, Today](https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10) | [JJ Project](https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW) | [Verse 2](https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN) | 3:55 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 94 | [Lullaby \- English Ver.](https://open.spotify.com/track/16eRR7XkOtzj8ViIjiN1Cu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:37 |
 | 95 | [LONG BLACK](https://open.spotify.com/track/3AwqFq8Vxr5uF7oJftjld9) | [Jus2](https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv) | [FOCUS](https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5) | 3:02 |
 | 96 | [King](https://open.spotify.com/track/7cst48ixgIYEvdmIaCMoIm) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:03 |
-| 97 | [Face](https://open.spotify.com/track/5Z9I7qD6pPsAyWMBZTnjAw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:28 |
+| 97 | [Face](https://open.spotify.com/track/5sAuJgcO45I2Y3F5CAowAe) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:28 |
 | 98 | [Take Me To You](https://open.spotify.com/track/1BR9Y1N9OLNMqEGcKAdy0K) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:14 |
 | 99 | [고백송 Confession Song](https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4) | 3:32 |
 | 100 | [난 니가 좋아 I Like You](https://open.spotify.com/track/4w5xK5HwkJyqzlnK9kqaIB) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Got It?](https://open.spotify.com/album/7E3W9C5Ac3RKnFpKErEgGD) | 3:23 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [이젠 From Now](https://open.spotify.com/track/1ZM75OgbDpCxACUufAKVvE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/4QHs3gzvQ0vOMRH5cBxBWY) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD) | 3:22 |
 
-Snapshot ID: `MCw4OTljYTY1NzQzN2Q5ZjQwMjc5MDQxMmY2OWRlMTA0YjBkNTRlYTk0`
+Snapshot ID: `MCxjYjAyOWE1ODMzNmNiMjk5MzliNDY1MTUwNjgxY2E5NGI2Yzg3YmU4`

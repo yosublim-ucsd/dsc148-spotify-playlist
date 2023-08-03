@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 138363,
+  "num_followers": 138390,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2IwODAxNWI5YTU4NTZhYmQ2YmQ2NWI4ZjdkYjdhODYzYTNiZWZl",
+  "snapshot_id": "MCwyOWI2MzY4M2YyZDFkZTdjZjgxMGZmY2NiYjcxNDRhYTRlMzlhODgz",
   "tracks": [
     {
       "added_at": "2023-07-28 19:09:17",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Say Nothing (feat. MAY-A)",
-        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 232959,
-      "name": "Say Nothing (feat. MAY-A)",
-      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "SICKO MODE (Skrillex Remix)",
         "url": "https://open.spotify.com/album/6TcKoifNw4hO5Nyl3pgwAa"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 304512,
       "name": "SICKO MODE - Skrillex Remix",
       "url": "https://open.spotify.com/track/0u695M7KyzXaPIjpEbxOkB"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -907,6 +907,30 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
+        "name": "Seven Nation Army (feat. KOYSINA)",
+        "url": "https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "KOYSINA",
+          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Seven Nation Army (feat. KOYSINA)",
+      "url": "https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/1b3xNAoTRfbwXglWU2Uebs"
       },
@@ -935,26 +959,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "I Don't Want You",
-        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I Don't Want You",
-      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "New Rave",
         "url": "https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml"
       },
@@ -975,42 +979,22 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Seven Nation Army (feat. KOYSINA)",
-        "url": "https://open.spotify.com/album/5Esn3Dn0sLqrjo4v87Q17M"
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
       },
       "artists": [
         {
-          "name": "Dance Fruits Music",
-          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
         },
         {
-          "name": "DMNDS",
-          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
-        },
-        {
-          "name": "KOYSINA",
-          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Seven Nation Army (feat. KOYSINA)",
-      "url": "https://open.spotify.com/track/2fzqpmKuYcNQS7clW1XxAS"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
+      "duration_ms": 190240,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1027,6 +1011,22 @@
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
         "name": "Exotica (Deluxe)",
         "url": "https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 185564,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2023-07-28 19:09:17",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-07-28 19:09:17",
       "album": {
+        "name": "Bum Bum Tam Tam",
+        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
+        }
+      ],
+      "duration_ms": 170564,
+      "name": "Bum Bum Tam Tam",
+      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
+    },
+    {
+      "added_at": "2023-07-28 19:09:17",
+      "album": {
         "name": "Drop It (feat. LUISAH)",
         "url": "https://open.spotify.com/album/7ouqlLsz812M3nTRAv9NYM"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 125760,
       "name": "Drop It (feat. LUISAH)",
       "url": "https://open.spotify.com/track/6SK5X1cj2G3vFNb7iTmLfV"
-    },
-    {
-      "added_at": "2023-07-28 19:09:17",
-      "album": {
-        "name": "Bum Bum Tam Tam",
-        "url": "https://open.spotify.com/album/22u9woa4SQXXsnyZhZAXM0"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW"
-        }
-      ],
-      "duration_ms": 170564,
-      "name": "Bum Bum Tam Tam",
-      "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
     },
     {
       "added_at": "2023-07-28 19:09:17",

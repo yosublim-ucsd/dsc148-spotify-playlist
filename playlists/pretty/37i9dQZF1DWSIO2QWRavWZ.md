@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > For all the beautiful queens! Guest curated by Mary J\. Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,326 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,523 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 29 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
 | 30 | [Truth Hurts](https://open.spotify.com/track/4JazDcr295JjClPNnks5WL) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:53 |
 
-Snapshot ID: `MCwyN2JmOWVmODkyY2M4NjZlZTEwYWYyYjlmZWU4YzY4OTY3ZGM5NDJj`
+Snapshot ID: `MCw3NGNiMjYyNzI2ZDhmOWY5ZDI5NzM4MzYyNDhjYjFmZmIzNDU5Y2M1`

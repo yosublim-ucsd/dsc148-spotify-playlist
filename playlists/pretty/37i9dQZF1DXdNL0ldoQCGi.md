@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,008 likes - 62 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,526 likes - 62 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 56 | [Novinha do Onlyfans \(Tchan Ran Tchan Tchan\)](https://open.spotify.com/track/0oB3IBEhbmgTrL7mV0VnFq) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Novinha do Onlyfans \(Tchan Ran Tchan Tchan\)](https://open.spotify.com/album/7vcEsYmKQdxArrMI7euRGw) | 2:17 |
 | 57 | [Pega o Guanabara \- Ao Vivo](https://open.spotify.com/track/7CIj5SFTB6WPJrYjLZN5bp) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Wesley Safadão Ao Vivo Em Fortaleza](https://open.spotify.com/album/6FpXbrHwBDgDOpFXvNGn7d) | 2:58 |
 | 58 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 |
-| 59 | [Barbie de Chapéu](https://open.spotify.com/track/3MGgfEpCPrq2DkK5zSeOjK) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/1BlOheCJJsO77LKcmDG1XO) | 2:42 |
+| 59 | [Barbie de Chapéu](https://open.spotify.com/track/3MGgfEpCPrq2DkK5zSeOjK) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Paula Guilherme](https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS) | [Barbie de Chapéu](https://open.spotify.com/album/1BlOheCJJsO77LKcmDG1XO) | 2:44 |
 | 60 | [Roça Em Mim](https://open.spotify.com/track/2hkwwmmLC90T8BQ7t3xufq) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Roça Em Mim](https://open.spotify.com/album/14fM0v3sVTgh42iShd1jyl) | 2:38 |
 | 61 | [Reverse](https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Reverse](https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ) | 2:00 |
 | 62 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 
-Snapshot ID: `MCw3MzFjN2UwMTI2OGVjYmY0YmJmMjljZWU0MzQ5NjgyNzYxYzZjM2Vl`
+Snapshot ID: `MCxhOTI0MTFiMmY2Y2JlOTg2ZjYxMjQ5ZDcxNjcwZDgxNzAwODk2YmQ0`

@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 227836,
       "name": "A Move to Neptune",
       "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 124541,
       "name": "A Political Murder",
       "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 139174,
       "name": "Examining the Body",
       "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
@@ -658,6 +658,24 @@
       "duration_ms": 238000,
       "name": "Good Night, Day",
       "url": "https://open.spotify.com/track/787h8AtrxRqDaStvCwgZZI"
+    },
+    {
+      "album": {
+        "name": "Bach Reworks (Pt. 2)",
+        "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188006,
+      "name": "Gu\u00f0nad\u00f3ttir: Minor C Variation",
+      "url": "https://open.spotify.com/track/4CGzdyHrj14f9lazBG2s8s"
     },
     {
       "album": {
@@ -932,28 +950,10 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 102320,
       "name": "Miguel Takes Money",
       "url": "https://open.spotify.com/track/0XnqFCTKLykvgLOgqcJpye"
-    },
-    {
-      "album": {
-        "name": "Bach Reworks (Pt. 2)",
-        "url": "https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "date_added": "2023-03-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188006,
-      "name": "Minor C Variation",
-      "url": "https://open.spotify.com/track/4CGzdyHrj14f9lazBG2s8s"
     },
     {
       "album": {
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 96893,
       "name": "The Execution",
       "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-31",
+      "date_removed": null,
       "duration_ms": 131389,
       "name": "The Last Office of Humanity",
       "url": "https://open.spotify.com/track/7CRRMSpQwYdZBtQFLmv7d2"

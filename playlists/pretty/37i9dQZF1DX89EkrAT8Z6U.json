@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 534268,
+  "num_followers": 534993,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDg2Y2VjODJmMjllMGYwMTcyZWI3OTRmOWY4Zjg0MTVhNTQ1NTk5",
+  "snapshot_id": "MCw5ZGU3MzcyY2YyOTI0YzEyOWY3OWEyYTQzZDQzZGQ5OWJlOGY4YWUx",
   "tracks": [
     {
       "added_at": "2023-07-21 19:05:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "\u602a\u7269",
-        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u602a\u7269",
-      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "WET DREAMS (w/ Nimstarr)",
         "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "Kujo Freestyle",
+        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
+      },
+      "artists": [
+        {
+          "name": "Sinoda",
+          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
+        }
+      ],
+      "duration_ms": 115099,
+      "name": "Kujo Freestyle",
+      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "My Swisher Sweet, But My Sig Sauer",
         "url": "https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 226932,
       "name": "My Swisher Sweet, But My Sig Sauer",
       "url": "https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Kujo Freestyle",
-        "url": "https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx"
-      },
-      "artists": [
-        {
-          "name": "Sinoda",
-          "url": "https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b"
-        }
-      ],
-      "duration_ms": 115099,
-      "name": "Kujo Freestyle",
-      "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
     },
     {
       "added_at": "2023-07-13 15:18:57",

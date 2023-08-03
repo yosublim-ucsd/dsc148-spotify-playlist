@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Ram Miriyala",
-  "num_followers": 28355,
+  "num_followers": 28384,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODE3YzU4MmVhY2UzMGNmYjNlNjYwZDcwNTgzODUxMDE3MDg1MDlj",
+  "snapshot_id": "MCxmMmZlZTcyZDAyY2U4OWNlNzRiNjg0NWIxMWUwYzY3NGQyODcxNmZh",
   "tracks": [
     {
       "added_at": "2023-05-12 08:55:25",
@@ -165,6 +165,22 @@
       "url": "https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV"
     },
     {
+      "added_at": "2023-08-02 11:50:53",
+      "album": {
+        "name": "Vellakala Nannodilesi",
+        "url": "https://open.spotify.com/album/5tGRfbxjBAFQMK6FNT0AC9"
+      },
+      "artists": [
+        {
+          "name": "Kaushal Jha",
+          "url": "https://open.spotify.com/artist/2V64YsR5g08RiV1A0QdhJZ"
+        }
+      ],
+      "duration_ms": 263998,
+      "name": "Vellakala Nannodilesi",
+      "url": "https://open.spotify.com/track/0BJdy36Fup5Oo3Dol5MUBl"
+    },
+    {
       "added_at": "2023-07-08 12:58:22",
       "album": {
         "name": "Podhe Vallipothunde",
@@ -249,26 +265,6 @@
       "url": "https://open.spotify.com/track/1rMOh1plvSA7HTgXc1c4zT"
     },
     {
-      "added_at": "2023-06-27 09:58:03",
-      "album": {
-        "name": "Nee Kosam",
-        "url": "https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO"
-      },
-      "artists": [
-        {
-          "name": "T\u00f6rk",
-          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
-        },
-        {
-          "name": "AKSH",
-          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Nee Kosam",
-      "url": "https://open.spotify.com/track/1oML0e4HFyAvNCNrNdxpDg"
-    },
-    {
       "added_at": "2023-07-15 09:59:26",
       "album": {
         "name": "Komali Vasudev",
@@ -343,30 +339,6 @@
       "duration_ms": 230000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh"
-    },
-    {
-      "added_at": "2023-06-05 10:59:44",
-      "album": {
-        "name": "Tholi Prema",
-        "url": "https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH"
-      },
-      "artists": [
-        {
-          "name": "Megha R B",
-          "url": "https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt"
-        },
-        {
-          "name": "John Kennady",
-          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
-        },
-        {
-          "name": "Praveen Prakash",
-          "url": "https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z"
-        }
-      ],
-      "duration_ms": 165831,
-      "name": "Tholi Prema",
-      "url": "https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln"
     },
     {
       "added_at": "2023-06-09 06:17:32",

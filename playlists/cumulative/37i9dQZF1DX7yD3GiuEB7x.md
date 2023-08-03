@@ -4,7 +4,7 @@
 
 > Are you trapped in some kind of haunted Hell? What is your favorite nightmare?
 
-145 songs - 7 hr 21 min
+149 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alldaylong](https://open.spotify.com/track/5Pjpr2bI6nFo05df0SgJvb) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:37 | 2022-04-20 | 2023-07-08 |
 | [Always](https://open.spotify.com/track/2YSQws3nvySFRxgcNnFOH9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 4:29 | 2022-04-20 | 2023-07-09 |
 | [Always](https://open.spotify.com/track/7cREXZL7i0GUBhRyU180Uj) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 4:29 | 2023-01-14 |  |
+| [And there was no one left](https://open.spotify.com/track/7x7oMQFwYsKIQUY2Xeeejp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/5GWbkX0bjGcv9bRPVOPZVg) | 2:52 | 2023-01-14 |  |
 | [Beauty Full \(DAMI SOLO\)](https://open.spotify.com/track/0eZw9DYzmkGrBcKvxDmT96) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:03 | 2022-04-20 | 2023-07-09 |
 | [Beauty Full \(DAMI SOLO\)](https://open.spotify.com/track/5sbFa8PFjFPLgNVAlBtdkg) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:03 | 2023-01-14 |  |
 | [BEcause](https://open.spotify.com/track/0ufYP4HLjzVSLUsGKCIQJH) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:11 | 2023-01-14 |  |
@@ -96,6 +97,7 @@
 | [Odd Eye](https://open.spotify.com/track/28Jwll1H52Hr4JzQ6vMoul) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:04 | 2022-04-20 | 2023-08-01 |
 | [Outro](https://open.spotify.com/track/5ve4qYjn7t14JA1DC3tcU9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 1:03 | 2022-04-20 |  |
 | [Outro](https://open.spotify.com/track/7AV7ja8QtbBPWU2svOwxNV) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 1:44 | 2022-04-20 |  |
+| [Over the Sky](https://open.spotify.com/track/0TX94kVRGQQw0APDMPfUxT) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Over the Sky](https://open.spotify.com/album/0jNEkUOVUM3SgSNCwfGENk) | 3:17 | 2023-01-14 |  |
 | [Over The Sky \- Japanese Ver.](https://open.spotify.com/track/1EeSSWMUesMn0OPMc6KMEP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Endless Night](https://open.spotify.com/album/1kbzuQvrTzEe5pOrxgP9df) | 3:19 | 2022-04-20 |  |
 | [Paradise](https://open.spotify.com/track/2zCUaUgenXGzhMQztjf9qd) | [SIYEON](https://open.spotify.com/artist/5iKOmg1wFizVwajKeiyzvf) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 4:03 | 2022-04-20 |  |
 | [PIRI](https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 3:26 | 2022-04-20 | 2023-08-02 |
@@ -123,6 +125,7 @@
 | [Starlight](https://open.spotify.com/track/5D9ooWK4X7TryJoqS6IuS3) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:19 | 2023-01-14 |  |
 | [Starlight](https://open.spotify.com/track/5i5WNh302rkoveunUdZwG2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:19 | 2022-04-20 | 2023-07-08 |
 | [Tension](https://open.spotify.com/track/5rzf2eiA5xUBjZ252GhQj2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:11 | 2022-04-20 |  |
+| [The curse of the Spider](https://open.spotify.com/track/2j8m29w5AzF9P6b0sYI6H4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:10 | 2023-01-14 |  |
 | [Together](https://open.spotify.com/track/7HxqiFzgIYp8KTJzruAbx1) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:44 | 2022-04-20 | 2023-07-09 |
 | [Together](https://open.spotify.com/track/7wwAYGB68gNgV0lWwU0a4K) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:44 | 2023-01-14 |  |
 | [Trap](https://open.spotify.com/track/7m34MVNzFsVnPiuJSdZIC4) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:10 | 2022-04-20 | 2023-08-02 |
@@ -136,6 +139,7 @@
 | [Which a star](https://open.spotify.com/track/6WQiJedB90sfC2tBJZn5Q8) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 4:08 | 2022-04-20 |  |
 | [Whistle](https://open.spotify.com/track/1L0Cy0zcLydO5AdBjkyK1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/1JOpx5eL6Rb3vRC9epERQD) | 3:29 | 2022-04-20 | 2023-07-08 |
 | [Whistle](https://open.spotify.com/track/2PZ9HsMIaBo9Prrtg3TnL5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Summer Holiday\]](https://open.spotify.com/album/3dD0qCBPe7eYeaftyIKwa5) | 3:29 | 2023-01-14 |  |
+| [Wind Blows](https://open.spotify.com/track/2GOVhdRm7EqSk8k1STWv2x) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/1EyLcB9R1KfUV45AxtRR3V) | 3:17 | 2023-01-14 |  |
 | [Winter \(HANDONG SOLO\)](https://open.spotify.com/track/02DnLnBvJFH4eCRiNngcQl) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:51 | 2023-01-14 |  |
 | [Winter \(HANDONG SOLO\)](https://open.spotify.com/track/0i5Mu1u1MyCuPlXHdCy1Go) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:51 | 2022-04-20 | 2023-07-08 |
 | [Wonderland](https://open.spotify.com/track/0ca0yslrN216u69XqZ6S4H) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:11 | 2022-04-20 | 2023-08-01 |
@@ -144,14 +148,14 @@
 | [Wonderland \- Japanese Ver.](https://open.spotify.com/track/0mEIqsKdAH8ziKxSC7NlKF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:13 | 2022-04-20 |  |
 | [YOU AND I](https://open.spotify.com/track/1sS61BTtpJxiw8VARNrD7n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Nightmare \- Escape The ERA](https://open.spotify.com/album/3Y6fSean6h89OygPL0azrn) | 3:15 | 2022-04-20 |  |
 | [You and I \- Japanese Ver.](https://open.spotify.com/track/3lvzNG9YpIvD6uK2yBnNI1) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The Beginning of The End](https://open.spotify.com/album/7mWbMFRfSrOzmgBLuD0Ztc) | 3:16 | 2022-04-20 |  |
-| [거미의 저주 \(The curse of the Spider\)](https://open.spotify.com/track/3HkColMqZTyFoSENauFqBk) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:10 | 2022-04-20 |  |
+| [거미의 저주 \(The curse of the Spider\)](https://open.spotify.com/track/3HkColMqZTyFoSENauFqBk) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:10 | 2022-04-20 | 2023-08-03 |
 | [괜찮아!](https://open.spotify.com/track/2wAmZkMXLlhCfa0c5h8nCh) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Prequel](https://open.spotify.com/album/7dwF0tRN3awkAyYEdLJic3) | 3:24 | 2022-04-20 |  |
-| [그리고 아무도 없었다](https://open.spotify.com/track/584e17zySNmvOd1iG57zxF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 2:52 | 2022-04-20 |  |
+| [그리고 아무도 없었다](https://open.spotify.com/track/584e17zySNmvOd1iG57zxF) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [The End of Nightmare](https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC) | 2:52 | 2022-04-20 | 2023-08-03 |
 | [데자부 \(Deja Vu\)](https://open.spotify.com/track/7uvW1F97LfVbOF6bzHs3nO) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:44 | 2022-04-20 |  |
-| [바람아 \(Wind Blows\)](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 | 2022-04-20 |  |
+| [바람아 \(Wind Blows\)](https://open.spotify.com/track/3xml6p9dSyY4hVPF6UGtdc) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:17 | 2022-04-20 | 2023-08-03 |
 | [북극성 \(Polaris\)](https://open.spotify.com/track/33cXBJLWBnVdHRAaODd8LI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/4Y5YucmQPgaCJOkmRshYGs) | 3:53 | 2022-04-20 |  |
 | [시간의 틈 \(New days\)](https://open.spotify.com/track/6SPEL89GtDGf1LoZaYLnUr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Road to Utopia］](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:31 | 2022-04-20 |  |
 | [약속해 우리 \(July 7th\)](https://open.spotify.com/track/5NK2NHvmKLOn8V3eBYDaKm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Alone In The City](https://open.spotify.com/album/68esmTNXocYLPEbLD1c7si) | 3:14 | 2022-04-20 |  |
-| [하늘을 넘어](https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [하늘을 넘어](https://open.spotify.com/album/2HIt0M2VOzDrWL3W9tNcbu) | 3:17 | 2022-04-20 |  |
+| [하늘을 넘어](https://open.spotify.com/track/68K3uCXs4JeuZ2OZdOTQr7) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [하늘을 넘어](https://open.spotify.com/album/2HIt0M2VOzDrWL3W9tNcbu) | 3:17 | 2022-04-20 | 2023-08-03 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

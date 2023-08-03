@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: SHINJIRO ATAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,559 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,569 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 60 | [Let Go \(feat\. 柊人\)](https://open.spotify.com/track/4upoXNub9Rh9mXeoq9W1uy) | [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [Grandma's Wish](https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz) | 3:00 |
 
-Snapshot ID: `MCxmMDg1NTc2NmIwNTE3MmQyMjUxYmVkNDcyNWYzNzRlNjk3ZThjOWQ0`
+Snapshot ID: `MCxjNTI4MTc0Mjg1ZjA0NzJlNzMxMGE5MzZiNGYyMTJjYWU1MTY4NTFi`

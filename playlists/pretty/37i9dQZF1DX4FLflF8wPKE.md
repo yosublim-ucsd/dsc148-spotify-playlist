@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 
 > Relax and escape with these tranquil tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,848 likes - 86 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,896 likes - 86 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 35 | [3 Visions: No\. 2, Summerland](https://open.spotify.com/track/1XJMRdFSgkrmw2cXLJOD0b) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Bruce Levingston](https://open.spotify.com/artist/7wJT2nMGzUmQQLSIHbDaXU) | [Citizen](https://open.spotify.com/album/6CynnUMIeho0HuHG8EFDKE) | 4:53 |
 | 36 | [A Reflection of You](https://open.spotify.com/track/6f94U1kmE34pISdHEAaB83) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr), [Lydia Munchinsky](https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U) | [A Reflection of You](https://open.spotify.com/album/5KjW6ChwCLElNdmiWlpbny) | 2:25 |
 | 37 | [Avril 14th \(Aphex Twin\) \- Vanessa Wagner Version](https://open.spotify.com/track/5KIOfWtUEKrxDNi4OnIpg2) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Vanessa Wagner](https://open.spotify.com/artist/5Dw4dHIo9XEpwPGFuTZFn0) | [Avril 14th \(Aphex Twin\) \[Vanessa Wagner Version\]](https://open.spotify.com/album/19YciIvd4UjiNvViXU9KVv) | 2:45 |
-| 38 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/2EAgTVB2EdsMdqaqOk062L) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk) | 3:36 |
+| 38 | [Frühlingsglaube \(Arr\. Franz Liszt\)](https://open.spotify.com/track/6HW6aTAss1lPalzuq9go5u) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Piano Concerto No\. 1](https://open.spotify.com/album/3XOHLGlVerK61CyOIt4pEF) | 3:36 |
 | 39 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 |
 | 40 | [Poulenc: Cello Sonata, FP 143: II\. Cavatine](https://open.spotify.com/track/6tmzIxHREnZzKSDMm6CNNS) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Daniel Müller\-Schott/Robert Kulek](https://open.spotify.com/artist/4VUYXi3DM3kMe8ifsgz4vD) | [Debussy/Poulenc/Franck/Ravel:Music for Cello & Piano](https://open.spotify.com/album/1cUtLiXmkRNUw9j9eyyPgM) | 6:26 |
 | 41 | [En nacelle](https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0) | [Henrique Oswald](https://open.spotify.com/artist/4aD2Eaf928LA2of01i7gQW), [Sergio Monteiro](https://open.spotify.com/artist/5lDFX0OjZ7Ss9lFYn0J3G0) | [Oswald: Works for Piano](https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd) | 2:45 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FLflF8wPKE.md) - [plain]
 | 85 | [Piano Concerto No\. 21 in C Major, K\. 467: II\. Andante](https://open.spotify.com/track/429GaRIWKJ3EU1GAQPbLcr) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [London Mozart Players](https://open.spotify.com/artist/1sylrdKARMDYTJbs8IPWGy), [Howard Shelley](https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg) | [Mozart: Piano Concertos, Vol\. 6](https://open.spotify.com/album/4hDQVX7aQ4SIIyCm06fmyP) | 7:13 |
 | 86 | [Moonbeams](https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k) | [Leo Livens](https://open.spotify.com/artist/2c7nAl1XnLeEhocqm107SJ), [Duncan Honeybourne](https://open.spotify.com/artist/0EWVTiMmGeJ7I4wymz5XST) | [A Hundred Years of British Piano Miniatures](https://open.spotify.com/album/0PwC5fdWWy7N6uZZyrEkiy) | 1:59 |
 
-Snapshot ID: `MCxjZDI3MTZjZTNmN2E4Yzg3ZDA3MDFmZjhhNDg0OWRiZDk4ZWQzMDk0`
+Snapshot ID: `MCw3NzgyN2QzMTJmOTZiNTY5OWI1YzFjZGNmNjljOThmNGMwZmNiZGEw`

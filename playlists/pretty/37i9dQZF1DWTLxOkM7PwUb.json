@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 25550,
+  "num_followers": 25679,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmQ3ODgwNjk0MmM4MWViYWI0NWZlMWM5ZWM5OGEzNzlkZWE5YzRl",
+  "snapshot_id": "MCxlM2M4OTg3MjAyOTQ2ZGUzNzNkZGQ5ODVhZGY1OTk3YzE4Njk4ODI3",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Como Estrellas",
-        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
-      },
-      "artists": [
-        {
-          "name": "LA YOUNG",
-          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Como Estrellas",
-      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "No Me Llores",
         "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 191846,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Como Estrellas",
+        "url": "https://open.spotify.com/album/3MTmvjSJiWMecnmlo66rKM"
+      },
+      "artists": [
+        {
+          "name": "LA YOUNG",
+          "url": "https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Como Estrellas",
+      "url": "https://open.spotify.com/track/4XlO5sSZiR5SGv5fGuptHV"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "ODIO",
-      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/65R514k7t8iXXJVt2u7RWw"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 220080,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/2ixygoa1o3CdZknv1PPjyj"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "ODIO",
+      "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "KUN",
-        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Me Atrapa",
-      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Desperte Sin Ti (Remix)",
         "url": "https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti (Remix)",
       "url": "https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "KUN",
+        "url": "https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Me Atrapa",
+      "url": "https://open.spotify.com/track/2TnkEU0979HuAtOXD1kI9H"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1243,22 +1243,42 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "A fuego (Bizarrap Remix)",
-        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
+        "name": "Mi Llamada (Remix)",
+        "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         },
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 239078,
-      "name": "A fuego - Bizarrap Remix",
-      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
+      "duration_ms": 414320,
+      "name": "Mi Llamada (Remix)",
+      "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1299,42 +1319,22 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Mi Llamada (Remix)",
-        "url": "https://open.spotify.com/album/0UO597AtNYs5g9tJtVApZA"
+        "name": "A fuego (Bizarrap Remix)",
+        "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         }
       ],
-      "duration_ms": 414320,
-      "name": "Mi Llamada (Remix)",
-      "url": "https://open.spotify.com/track/78i2QPC8prEzftYZrBjKOM"
+      "duration_ms": 239078,
+      "name": "A fuego - Bizarrap Remix",
+      "url": "https://open.spotify.com/track/3AKwyujeGxTQSZNbx9Ka3c"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1631,6 +1631,34 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "Sexy (feat. Marlku)",
+        "url": "https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu"
+      },
+      "artists": [
+        {
+          "name": "Eich",
+          "url": "https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Marlku",
+          "url": "https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5"
+        }
+      ],
+      "duration_ms": 254852,
+      "name": "Sexy (feat. Marlku)",
+      "url": "https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "Wake Me",
         "url": "https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m"
       },
@@ -1663,34 +1691,6 @@
       "duration_ms": 271743,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "Sexy (feat. Marlku)",
-        "url": "https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu"
-      },
-      "artists": [
-        {
-          "name": "Eich",
-          "url": "https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Marlku",
-          "url": "https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5"
-        }
-      ],
-      "duration_ms": 254852,
-      "name": "Sexy (feat. Marlku)",
-      "url": "https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1943,6 +1943,42 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1ohao2KDQwLkTR3shBAQKi"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "OCTO",
+          "url": "https://open.spotify.com/artist/4qTVjRDcIgtpss2ahiRPuw"
+        }
+      ],
+      "duration_ms": 165332,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6lqAPHFWOM0m6n6yHJxryB"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
         "name": "La Nueva Ola",
         "url": "https://open.spotify.com/album/25w0kbwVprNRy6RisuqLOt"
       },
@@ -1967,22 +2003,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Ke Sientes",
         "url": "https://open.spotify.com/album/7qFLMFjDA0884ZFrqOsfuX"
       },
@@ -1999,22 +2019,6 @@
       "duration_ms": 207146,
       "name": "Ke Sientes",
       "url": "https://open.spotify.com/track/6dR0gtcWwM4XyX9QnrHUap"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
-        "name": "L.O.V.E.",
-        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 118746,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
     }
   ],
   "unique_name": "Trap Luv",

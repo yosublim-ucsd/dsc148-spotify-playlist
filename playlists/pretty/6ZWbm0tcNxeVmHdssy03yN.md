@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,827 likes - 91 songs - 4 hr 44 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,831 likes - 91 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 18 | [I Made It](https://open.spotify.com/track/3xVngvSWR0VkQjkQFgN9UK) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Broadday](https://open.spotify.com/artist/5JLxpSPbsLhED2i4OmVaRF) | [I Made It](https://open.spotify.com/album/3G2fdm0OEHPd0akDOxPZgi) | 2:43 |
 | 19 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 |
 | 20 | [Rewire](https://open.spotify.com/track/6g1mMnK1OBRSnRReauTGll) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [Rewire](https://open.spotify.com/album/3Iak4qwwuTq6Y4VZzsY40Y) | 3:02 |
-| 21 | [Grafter \- Remix](https://open.spotify.com/track/1R48N7DRbSwPD6wjLNse0j) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Mortel](https://open.spotify.com/artist/15N4o2rfEABILEVPXZIlo1) | [Grafter \(Remix\)](https://open.spotify.com/album/4YRfCvuIFjEHNEVQLciZ47) | 3:55 |
+| 21 | [Grafter \- Remix](https://open.spotify.com/track/1R48N7DRbSwPD6wjLNse0j) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Mortel](https://open.spotify.com/artist/15N4o2rfEABILEVPXZIlo1) | [Grafter \(Remix\)](https://open.spotify.com/album/4YRfCvuIFjEHNEVQLciZ47) | 4:06 |
 | 22 | [Cinemat](https://open.spotify.com/track/2K83XdvpPjbxyMUvFBRCQO) | [Nine Five](https://open.spotify.com/artist/4pvfQZTNulLowyyX2PEDu3) | [Cinemat](https://open.spotify.com/album/1fz9BR3py52BKYW14kfsth) | 2:43 |
 | 23 | [Feel A Way](https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Feel A Way](https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4) | 2:34 |
 | 24 | [Cold Shoulder](https://open.spotify.com/track/6dM03febxBftzkOcstPW8i) | [Benny Mails](https://open.spotify.com/artist/0XzjmqIqvTnie7suxhyFC1) | [Cold Shoulder](https://open.spotify.com/album/2cH3BO3e8MnsZxsw35796M) | 1:50 |

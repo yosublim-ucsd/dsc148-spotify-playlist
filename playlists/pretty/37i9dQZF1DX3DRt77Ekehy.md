@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain](/playlists/plain/37i9dQZF1DX3DRt77Ekehy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3DRt77Ekehy)
 
-### [432 Hz](https://open.spotify.com/playlist/37i9dQZF1DX3DRt77Ekehy)
+### [432 Hz Meditation](https://open.spotify.com/playlist/37i9dQZF1DX3DRt77Ekehy)
 
 > Tune in, resonate and manifest at 432 hertz..\. <br/>A positive solfeggio frequency to meditate to
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,810 likes - 122 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,078 likes - 122 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 121 | [432 Hz Calm Down](https://open.spotify.com/track/4akwXGgZFoFluoLdNYE6As) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [432 Hz Recovery](https://open.spotify.com/album/7zhD1a20UknFtOrI6dWiZL) | 2:57 |
 | 122 | [432hz Manara \(Lighthouse\)](https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Manara \(Lighthouse\)](https://open.spotify.com/album/44Bv426Wz9k6NjE9Boh5cG) | 3:01 |
 
-Snapshot ID: `MCxlMzI2ODZmNGE5NGQ2Y2I2MTQxMWRhNTUyZjFlMWRlYTMzN2ZhOTQz`
+Snapshot ID: `MCxiNmY3ZWJlMGUyZjE5ZjU3Y2VjN2E2YmNhMzhkZmFhNTBmN2VhNWRm`

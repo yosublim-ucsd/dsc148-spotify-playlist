@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 186885,
       "name": "Dear Us",
       "url": "https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 173590,
       "name": "Fight This Fight",
       "url": "https://open.spotify.com/track/2qXFpmLrTryis1MYSSO6po"
@@ -1610,6 +1610,28 @@
       "duration_ms": 278874,
       "name": "I Can't Go Back To Sleep",
       "url": "https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9"
+    },
+    {
+      "album": {
+        "name": "I Grew Up",
+        "url": "https://open.spotify.com/album/0P5iD8b8gRC1agi1zQavdB"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        },
+        {
+          "name": "Blackstratblues",
+          "url": "https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288161,
+      "name": "I Grew Up (feat. Blackstratblues)",
+      "url": "https://open.spotify.com/track/0k9Z8DseQbtUh3zck3gRBB"
     },
     {
       "album": {
@@ -4278,7 +4300,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 232400,
       "name": "X Marks The Spot",
       "url": "https://open.spotify.com/track/5Uaq6e7RCXzL2WKI6VCGdz"

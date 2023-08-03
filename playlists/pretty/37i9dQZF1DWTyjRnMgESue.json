@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ilsey",
-  "num_followers": 55500,
+  "num_followers": 55604,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWJmZDA2YWExNWZkNjMwNjI0ZTUxYmVjMTcyYjg2ZTkxZDUxMDU3",
+  "snapshot_id": "MCxjOGYxOGQzN2E0YWE5MDlmODRjZTU4Mzg5NTBiNzljOTlhZGIyZDA0",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "rest in peace",
         "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+        "name": "Maid of Honor",
+        "url": "https://open.spotify.com/album/24Uj9QfozTixf7CoWRJ9aU"
       },
       "artists": [
         {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
+      "duration_ms": 171081,
+      "name": "Maid of Honor",
+      "url": "https://open.spotify.com/track/0LiWTHB05mfS4iEWPFp70n"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 213133,
       "name": "Witness - feat. Rajiv Dhall",
       "url": "https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Maid of Honor",
-        "url": "https://open.spotify.com/album/24Uj9QfozTixf7CoWRJ9aU"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 171081,
-      "name": "Maid of Honor",
-      "url": "https://open.spotify.com/track/0LiWTHB05mfS4iEWPFp70n"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hopelessly",
-        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "Hopelessly",
-      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 221933,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Hopelessly",
+        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "Hopelessly",
+      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "October Sky",
+        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 195065,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "give me hell",
         "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 184666,
       "name": "give me hell",
       "url": "https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "October Sky",
-        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 195065,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
     },
     {
       "added_at": "2023-07-21 04:00:00",

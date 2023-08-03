@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,055 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,066 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 |
 | 100 | [Annie](https://open.spotify.com/track/2BI1yb0fTu6RhGvP1nzHOM) | [St\. Solaire](https://open.spotify.com/artist/5QsBtdXbeZMaAjXd7GBPL8) | [Keep On Waiting](https://open.spotify.com/album/0fl59lgIVG87k4Knq9BKyQ) | 3:13 |
 
-Snapshot ID: `MCxkZWJmZDc2NzQwZDRjZGNkZWU3ZDdiN2FlOGUyMWUxMTkyYTkzNmY1`
+Snapshot ID: `MCxhOGVkNGUxNDgzMzM0YmM4MDY1YTE4ZjczMGVlNTFjNTcxYjU1Zjk1`

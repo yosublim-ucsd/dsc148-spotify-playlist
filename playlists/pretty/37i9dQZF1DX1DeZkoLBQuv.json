@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
+  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -875,22 +875,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "O Primeiro Natal",
-        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
       },
       "artists": [
         {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
         }
       ],
-      "duration_ms": 278000,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
+      "duration_ms": 202013,
+      "name": "Vinde Celebremos",
+      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
     }
   ],
   "unique_name": "Louvores de Natal",

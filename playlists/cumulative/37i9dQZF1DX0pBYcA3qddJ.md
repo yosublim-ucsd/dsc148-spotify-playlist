@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-493 songs - 1 day 9 hr 37 min
+494 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [outro](https://open.spotify.com/track/5lT6dQUyQO9U2sVmmNA1Fn) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- outro](https://open.spotify.com/album/3LgylP8rBFVERrX33YjGn6) | 3:39 | 2023-06-13 |  |
 | [oxygen \- from "Exception" Soundtrack](https://open.spotify.com/track/5WV0YyXkC4UoPObkLdTPb0) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Opening for "Exception" / oxygen \[from "Exception" Soundtrack\]](https://open.spotify.com/album/4n6KyU61hys0riXmvIQMYs) | 3:48 | 2022-10-20 | 2022-12-02 |
 | [Pana\-vision](https://open.spotify.com/track/4FXQibsmo2XbStLEBtmIAd) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:08 | 2022-10-20 | 2022-11-16 |
-| [Parallel](https://open.spotify.com/track/1k60VESPMHQdbYYf8xNJ3x) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Parallel](https://open.spotify.com/album/3e941zH5ytkUXptWZfqysB) | 3:30 | 2023-08-01 |  |
+| [Parallel](https://open.spotify.com/track/1k60VESPMHQdbYYf8xNJ3x) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Parallel](https://open.spotify.com/album/3e941zH5ytkUXptWZfqysB) | 3:30 | 2023-08-01 | 2023-08-03 |
+| [Parallel](https://open.spotify.com/track/44H7tP4Zz8kfYutRKITxLP) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Parallel](https://open.spotify.com/album/0uGUvBMERBuUGIZYFgV0J5) | 3:30 | 2023-08-01 |  |
 | [Parasite](https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Parasite](https://open.spotify.com/album/3HwldKeTaesvpyA8V56f4b) | 5:49 | 2023-03-23 | 2023-06-14 |
 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-02-09 | 2023-04-16 |
 | [PAVANE POUR UNE INFANTE DEFUNTE](https://open.spotify.com/track/6q0hW1XoEdPXCRCXHqGosw) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [AYA NAGATOMI](https://open.spotify.com/artist/5yP9w1BcV6K0yW51Njt8tv) | [Maurice RAVEL: Gaspard de la Nuit](https://open.spotify.com/album/4wT32sKqzocmqsIs80Xtnu) | 6:20 | 2022-12-01 | 2023-03-25 |

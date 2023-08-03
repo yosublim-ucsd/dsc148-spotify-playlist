@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: BELL WARISARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,775 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,802 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [จาง \(Fade\)](https://open.spotify.com/track/14eqPQLvBL7naY7cXSTdFg) | [Aliz](https://open.spotify.com/artist/3PVJ5kyNMvWaPO5L4viNYD) | [จาง \(Fade\)](https://open.spotify.com/album/6ASr4Yd9usE8eBDy8TrZtg) | 4:45 |
 | 50 | [Burning Man](https://open.spotify.com/track/5LO3noBBYuolWOdI8qSJn1) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Burning Man](https://open.spotify.com/album/2xGhYtgqYeDLci3hcGupJV) | 2:40 |
 
-Snapshot ID: `MCxmZjQ3YTljN2FhZDE1MTgxNTlhYjIxNzVjNThjZTVlNjVhODI0OTE1`
+Snapshot ID: `MCxmYjE0MmIzMGRjYjAzNmVkZDY5Nzc0MmNlNDc3N2U5MTNkOGMxYTg2`

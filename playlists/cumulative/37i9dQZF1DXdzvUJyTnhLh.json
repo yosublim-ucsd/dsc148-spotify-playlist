@@ -168,10 +168,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 336800,
       "name": "Dirty Laundry",
       "url": "https://open.spotify.com/track/7LFer4drCtWSyD8oxORZtC"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/4RFNorcvSYeK06o3DjKV4P"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336893,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/1Zqngj1RHFoYW7X6PKmP2o"
     },
     {
       "album": {

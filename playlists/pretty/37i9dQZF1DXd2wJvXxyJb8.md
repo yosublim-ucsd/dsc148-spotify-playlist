@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > sobrancelha da nossa piriquita tá em dia esqueça tudo VAI BRASIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,209 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,426 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 19 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 | 20 | [Karolina](https://open.spotify.com/track/338zMeMeCbZMv31xC6YDso) | [O Erótico](https://open.spotify.com/artist/41S9HR3EotaFgxGQwTGxAT) | [Em Cima Sempre](https://open.spotify.com/album/0a9mgxCUSFdtsQlh0xfWgW) | 2:25 |
 | 21 | [Pra Vaquejada Eu Vou](https://open.spotify.com/track/3akLlnOdrJOZYtBdaYbXhp) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/6UFlPyIRdWi2dlXe2vgIut) | 2:54 |
-| 22 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 |
+| 22 | [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 |
 | 23 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 24 | [Macho Preferido](https://open.spotify.com/track/4D4yBfKqS2aBblJyVlpA7i) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Macho Preferido](https://open.spotify.com/album/3srxNt9v8dZbep7Ha9CWE8) | 2:11 |
 | 25 | [No Baile Ela Se Arruma \- Remix](https://open.spotify.com/track/43BbABuvRewiznicv3QgyL) | [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [DJ Ery](https://open.spotify.com/artist/3fJhU7uVbc7ofhDXfBXJnS) | [No Baile Ela Se Arruma \(Remix\)](https://open.spotify.com/album/4qgJKFVGn95QZsmRky3ylU) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 74 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 75 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCwwOGQ2ZDU5NjcxYTRmZTdkZTM5ZmNhMTUyMzY2MTU4ODhkM2RhOTlk`
+Snapshot ID: `MCxhYzg2MmU5YTM0N2QyNDg0NDhhZGMxMTc0Y2U2Zjg1ZGRhZmMzYjkw`

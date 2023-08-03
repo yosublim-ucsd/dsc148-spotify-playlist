@@ -4,7 +4,7 @@
 
 > Flow sudamericano con Zeballos.
 
-936 songs - 2 day 0 hr 50 min
+937 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [+ Q LA XUXA](https://open.spotify.com/track/16uLbwxv5QmVjueCO0mG50) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [+ Q LA XUXA](https://open.spotify.com/album/43kUFaRDroYvoGmD2ve1aN) | 2:40 | 2023-06-02 |  |
 | [+ SINCERO](https://open.spotify.com/track/2wRoKIerlhzPSbeIVvSB2J) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [+ SINCERO](https://open.spotify.com/album/6zWsMwn5J8zyA5P72LaUpZ) | 2:17 | 2023-05-05 | 2023-07-01 |
 | [01 dE ENEro](https://open.spotify.com/track/5KqaqJGPWgSJKVzDfmx2Mf) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:54 | 2023-06-23 | 2023-07-18 |
+| [01 dE ENEro](https://open.spotify.com/track/6gnt7XFossE7yfw229HJJF) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 1:54 | 2023-07-28 |  |
 | [03:35](https://open.spotify.com/track/42HKPss4PmxTaMKbPQtsZz) | [Sitoonce](https://open.spotify.com/artist/4wSsCH0bIpu1DV4W018Jsr) | [03:35](https://open.spotify.com/album/5auabMd1EPmAdshK2Bjo1P) | 3:35 | 2022-03-25 | 2022-03-31 |
 | [0800](https://open.spotify.com/track/06yq2Skk79tALme6b2vRVk) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:53 | 2023-03-03 | 2023-03-18 |
 | [12](https://open.spotify.com/track/33bHxUDxGdnOZ6XNbEKERb) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [12](https://open.spotify.com/album/6eX1tzsyAnHWEZTdkxobaz) | 2:37 | 2022-02-04 | 2022-04-09 |
@@ -774,7 +775,7 @@
 | [Shorty](https://open.spotify.com/track/7qKc4liOypG0CwDYQBYa9X) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Cheskv Liz](https://open.spotify.com/artist/5K9EtnARaTKRXF4d7onHBv) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 3:40 | 2023-01-04 | 2023-02-11 |
 | [Si Me Mira](https://open.spotify.com/track/742lcxyvOmZ7t0jw0KMORs) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g) | [Si Me Mira](https://open.spotify.com/album/5D0L8rHOOjXpnYK0X77W1j) | 3:36 | 2022-01-14 | 2022-03-30 |
 | [Si Me Sobrara el Tiempo](https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Si Me Sobrara el Tiempo](https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB) | 2:48 | 2023-02-17 |  |
-| [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-04-01 |  |
+| [Si Quieren Frontear](https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Si Quieren Frontear](https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy) | 3:20 | 2022-04-01 | 2023-08-03 |
 | [Si Supieras](https://open.spotify.com/track/3bb2XfPK0AvSuztY9kJzW9) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 2:45 | 2022-01-03 | 2022-07-25 |
 | [Si Tu Supieras](https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tu Supieras](https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD) | 3:45 | 2023-03-31 | 2023-06-29 |
 | [Siempre Redy](https://open.spotify.com/track/6PXGqDvo11IPSWsQUsiVW8) | [Jey tom](https://open.spotify.com/artist/77AKnaYgWfi54bfAaOk6X1), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Siempre Redy](https://open.spotify.com/album/4S01wrGK8wX36BccAY1hlK) | 3:13 | 2022-01-03 | 2022-04-09 |

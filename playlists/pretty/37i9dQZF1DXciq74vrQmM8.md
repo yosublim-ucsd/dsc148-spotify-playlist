@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lynks
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,752 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,002 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Forever Soldiers Of Esther](https://open.spotify.com/track/6SYCJfd95tiL1xiCz3IFYf) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Forever Soldiers Of Esther](https://open.spotify.com/album/4BpIWBiCHnbDi8R9E11J84) | 2:31 |
 | 85 | [INEVITABLE](https://open.spotify.com/track/2qtSizmBpVyaOZMypRdxZv) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [INEVITABLE](https://open.spotify.com/album/193XRG7LBnajqsiNXqpjtN) | 3:13 |
 
-Snapshot ID: `MCwwNWU2MjMzMjc4ZDZjZThlOGVmMDUxNTQ0ZjAxMWRkZTcwODNjOTEz`
+Snapshot ID: `MCw4MjY4MmRjZGRlNmI4ZjI4ZjdiYzcxYWZmMjM1NzNiMmM4MWQ3ZWE5`

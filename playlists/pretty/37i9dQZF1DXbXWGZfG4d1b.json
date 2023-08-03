@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 18671,
+  "num_followers": 18676,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjA1MWI4NzljNGZhZDhhOGYyNTlhNWM2MmQ4M2YwYTI5MGM0OWRj",
+  "snapshot_id": "MCwyNTQyMjkzYzRlNDNhMGI4NTAyYmZhY2QzODEzYjFjMWM0NTI2ODQ5",
   "tracks": [
     {
       "added_at": "2023-07-28 18:57:29",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": "Fin del Mundo",
+        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 213898,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/2JyuCXnaPdo4vNOVbuClkZ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 241078,
       "name": "Sola",
       "url": "https://open.spotify.com/track/7oIT0iV7XScuix6hKOvank"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 213898,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "Deseo Permanente",
-        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 344434,
-      "name": "Deseo Permanente",
-      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "El Pr\u00f3ximo Verano",
         "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 269705,
       "name": "El Pr\u00f3ximo Verano",
       "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "La Cuesta del Sol",
+        "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 245034,
+      "name": "La Cuesta del Sol",
+      "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "La Cuesta del Sol",
-        "url": "https://open.spotify.com/album/5gekmcL9Z7FecGC7wikhij"
+        "name": "Deseo Permanente",
+        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
       },
       "artists": [
         {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
         }
       ],
-      "duration_ms": 245034,
-      "name": "La Cuesta del Sol",
-      "url": "https://open.spotify.com/track/0DTMf6V0Kq9jU2NldMyrQl"
+      "duration_ms": 344434,
+      "name": "Deseo Permanente",
+      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": ":3",
+        "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "duration_ms": 182045,
+      "name": "Verano En Espiral",
+      "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
-        "name": ":3",
-        "url": "https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke"
-      },
-      "artists": [
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 182045,
-      "name": "Verano En Espiral",
-      "url": "https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+      },
+      "artists": [
+        {
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+        }
+      ],
+      "duration_ms": 250517,
+      "name": "800 Vueltas Envolventes",
+      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+        "name": "De la Monarqu\u00eda a la Criptocracia",
+        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
       },
       "artists": [
         {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
         }
       ],
-      "duration_ms": 250517,
-      "name": "800 Vueltas Envolventes",
-      "url": "https://open.spotify.com/track/7zG3NeQXpREreAzY1jM0I7"
+      "duration_ms": 167900,
+      "name": "De la Monarqu\u00eda a la Criptocracia",
+      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "De la Monarqu\u00eda a la Criptocracia",
-        "url": "https://open.spotify.com/album/5aFAIfjQXClsuPrK6o1WlZ"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "De la Monarqu\u00eda a la Criptocracia",
-      "url": "https://open.spotify.com/track/72iVtVA5CNx5kGRkd987iN"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Una Pel\u00edcula",
         "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "Modernica",
-        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
-      },
-      "artists": [
-        {
-          "name": "Soy Irracional",
-          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
-        }
-      ],
-      "duration_ms": 189707,
-      "name": "Mordisco",
-      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Zona de Fumadores",
         "url": "https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 91500,
       "name": "Zona de Fumadores",
       "url": "https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "Modernica",
+        "url": "https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq"
+      },
+      "artists": [
+        {
+          "name": "Soy Irracional",
+          "url": "https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna"
+        }
+      ],
+      "duration_ms": 189707,
+      "name": "Mordisco",
+      "url": "https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
+        "name": "La Bruma",
+        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 173154,
+      "name": "La Bruma",
+      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "La Bruma",
-        "url": "https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 173154,
-      "name": "La Bruma",
-      "url": "https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Egnaro",
         "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
       },
@@ -1515,38 +1515,6 @@
       "duration_ms": 187050,
       "name": "Egnaro",
       "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
-        "name": "No Es Culpa del Fr\u00edo",
-        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
-      },
-      "artists": [
-        {
-          "name": "Fonso",
-          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
-        }
-      ],
-      "duration_ms": 225001,
-      "name": "No Es Culpa del Fr\u00edo",
-      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1567,6 +1535,38 @@
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "No Es Culpa del Fr\u00edo",
+        "url": "https://open.spotify.com/album/5PTnhTsAXdjQN3ab7LN70b"
+      },
+      "artists": [
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "duration_ms": 225001,
+      "name": "No Es Culpa del Fr\u00edo",
+      "url": "https://open.spotify.com/track/35725mVBQ8DvjTCQ1Z2F9K"
     },
     {
       "added_at": "2023-07-28 18:57:29",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-07-28 18:57:29",
       "album": {
-        "name": "Soy un Extra\u00f1o",
-        "url": "https://open.spotify.com/album/5ZvDMLfhc8pjbqqFnb6SDi"
-      },
-      "artists": [
-        {
-          "name": "L E O",
-          "url": "https://open.spotify.com/artist/3NlTAtfmLjoRSJ0vzck3G2"
-        }
-      ],
-      "duration_ms": 154411,
-      "name": "Qu\u00e9 Decir?",
-      "url": "https://open.spotify.com/track/3QKDDd7Se1cthtt5viCa4h"
-    },
-    {
-      "added_at": "2023-07-28 18:57:29",
-      "album": {
         "name": "Ultravioleta",
         "url": "https://open.spotify.com/album/0jkMj6BjWylbc7sFz2sTAO"
       },
@@ -1699,6 +1683,26 @@
       "duration_ms": 314026,
       "name": "Ultravioleta",
       "url": "https://open.spotify.com/track/09YzJAn8N069K6JcQw4caJ"
+    },
+    {
+      "added_at": "2023-07-28 18:57:29",
+      "album": {
+        "name": "Curriculum Completo",
+        "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        },
+        {
+          "name": "Lautaro Lopez",
+          "url": "https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Curriculum Completo",
+      "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
     }
   ],
   "unique_name": "6PM Indie",

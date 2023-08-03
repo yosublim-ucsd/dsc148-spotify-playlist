@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,622 likes - 76 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,627 likes - 76 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 50 | [Nhớ Quê](https://open.spotify.com/track/0z5riOGlFSp6umUxbsH63I) | [Từ Như Tài](https://open.spotify.com/artist/4FIoUZ4oxNciUpioxvVRom) | [Nhớ Quê](https://open.spotify.com/album/2ItU4rDAiq5vrm1YGpZpkv) | 4:47 |
 | 51 | [Ra Giêng Anh Cưới Em](https://open.spotify.com/track/55J1gXnsdjFqKjn61g2iZj) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ), [Thu Hương](https://open.spotify.com/artist/1DiWVCApypzAM1If7yGBaS) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2YNFv8H3V2FPdTGGMJ0Dn5) | 4:30 |
 | 52 | [Miền Tây Thương Nhớ](https://open.spotify.com/track/4ZPyWUjFoHhSyA73lmaqOa) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Miền Tây Thương Nhớ](https://open.spotify.com/album/6k9COrPyTaqcfwadGhL2jm) | 5:16 |
-| 53 | [Tình Nhỏ Mau Quên](https://open.spotify.com/track/1EbchMb3W81Qj6m6ftU1EQ) | [Nam Cuong](https://open.spotify.com/artist/64vIV4nGYnWdHeioX3kIdA), [Ngọc Liên](https://open.spotify.com/artist/6xaXA45aKi0Up6xbS8pfqO) | [Tình Nhỏ Mau Quên](https://open.spotify.com/album/65vgee8zpVyhx9j40LU9fa) | 3:52 |
+| 53 | [Tình Nhỏ Mau Quên](https://open.spotify.com/track/1EbchMb3W81Qj6m6ftU1EQ) | [Nam Cường](https://open.spotify.com/artist/64vIV4nGYnWdHeioX3kIdA), [Ngọc Liên](https://open.spotify.com/artist/6xaXA45aKi0Up6xbS8pfqO) | [Tình Nhỏ Mau Quên](https://open.spotify.com/album/65vgee8zpVyhx9j40LU9fa) | 3:52 |
 | 54 | [Tết Về Miền Tây](https://open.spotify.com/track/07VnCAzjNOeKQZkWaC6UGE) | [Sona](https://open.spotify.com/artist/350AkrG58FEwakiQekOcZz) | [Tết Về Miền Tây](https://open.spotify.com/album/772mRepAs67iZ1rFgdpfBi) | 3:51 |
 | 55 | [Xin Đừng Trách Đa Đa](https://open.spotify.com/track/59dA5AuLlFUfKlcq2Bh7Yf) | [Trang Hạ](https://open.spotify.com/artist/05PlxNLGMoexJ15xuen24H) | [Xin Đừng Trách Đa Đa](https://open.spotify.com/album/3Etfj8Vz7QhBzHJNzHcEq7) | 5:28 |
 | 56 | [Cà Phê Võng](https://open.spotify.com/track/1uDt6TcR1A988HMS9K0gb9) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP), [Hoàng Thắng](https://open.spotify.com/artist/47PtOPp9mpr1SeZNvGFYht), [Minh Trâm](https://open.spotify.com/artist/5COSugSz0wAlKJQ65RCAv5) | [Cà Phê Võng](https://open.spotify.com/album/6up4hxcGKO33mXxr7mOlfF) | 4:10 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 75 | [Ốc Đắng Buồn Ai](https://open.spotify.com/track/1AbSvyQhinUaS8wtftF5B9) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb), [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj) | [Ốc Đắng Buồn Ai](https://open.spotify.com/album/4n0dyBkrvChXvEG3GVDtBB) | 5:42 |
 | 76 | [Tình Thắm Duyên Quê \(feat\. Tuấn Hải\)](https://open.spotify.com/track/08rPtjcJX0PAqCkjaYnVtf) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Tuấn Hải](https://open.spotify.com/artist/4B7hhylN1PiEpEMQ00RsBp) | [Tuyển Tập Các Ca Khúc Trữ Tình Dương Hồng Loan](https://open.spotify.com/album/1geEbghr8ji6MxvCgQdSaL) | 4:33 |
 
-Snapshot ID: `MCwwZTI5MDk5ZTM3MDAzMGFmYTkxM2U2ZThkNjAyNGEwZDA4NDVhZmY4`
+Snapshot ID: `MCw3MDNlNTI0NjExY2RkNmI1NWNhZDAxNmU3YThhOTRkYjAyN2UwMDIz`

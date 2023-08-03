@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 643118,
+  "num_followers": 643715,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDRmMGI2ODcwMDk5MWU0NGUzYjMzODU0NGNkMDg0NjdkZGZjOGIy",
+  "snapshot_id": "MCw1ZTAxMTA4NmJkYTllYTkyM2M5ZmIxOTJiOWNiMWY3NDdiYzY1ZGEx",
   "tracks": [
     {
       "added_at": "2022-06-03 16:36:24",
@@ -409,38 +409,6 @@
       "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Love and Rockets",
-        "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "duration_ms": 257825,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "In the Flat Field",
-        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Dark Entries",
-      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
-    },
-    {
       "added_at": "2023-01-06 06:22:16",
       "album": {
         "name": "Ceremony",
@@ -459,6 +427,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Milk & Kisses",
         "url": "https://open.spotify.com/album/2xWjRAaO5qYhsJSxmJp1IK"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 237600,
       "name": "Serpentskirt",
       "url": "https://open.spotify.com/track/5D8SzvASRr7V7ZrrXsh6SY"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Love and Rockets",
+        "url": "https://open.spotify.com/album/3lqy9ZOzLlwDTfXOkpubgU"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "duration_ms": 257825,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/7pfP8Z9M9KRUtzTLcnjem5"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Only Theatre of Pain",
         "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 175800,
       "name": "Spiritual Cramp",
       "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
-      },
-      "artists": [
-        {
-          "name": "Xmal Deutschland",
-          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Incubus Succubus II",
-      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Only Theatre of Pain",
         "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 134000,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Tocsin",
+        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
+      },
+      "artists": [
+        {
+          "name": "Xmal Deutschland",
+          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Incubus Succubus II",
+      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Everything!",
-        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
-      },
-      "artists": [
-        {
-          "name": "Tones On Tail",
-          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
-        }
-      ],
-      "duration_ms": 268773,
-      "name": "Go! - Club Mix",
-      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Heavenly Bodies",
         "url": "https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 286546,
       "name": "Break the Chain",
       "url": "https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Everything!",
+        "url": "https://open.spotify.com/album/440zYLMcBZhHc93WSGKDKo"
+      },
+      "artists": [
+        {
+          "name": "Tones On Tail",
+          "url": "https://open.spotify.com/artist/5aBEGOeWQCJfptic9xyaAb"
+        }
+      ],
+      "duration_ms": 268773,
+      "name": "Go! - Club Mix",
+      "url": "https://open.spotify.com/track/5El6bpLd8nYPsvWgZLdHio"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Is Nothing Sacred?",
-        "url": "https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8"
+        "name": "Express",
+        "url": "https://open.spotify.com/album/0frqimF9uZsUooB7DEUYgv"
       },
       "artists": [
         {
-          "name": "Lords Of The New Church",
-          "url": "https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk"
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
         }
       ],
-      "duration_ms": 205693,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV"
+      "duration_ms": 365706,
+      "name": "Holiday on the Moon",
+      "url": "https://open.spotify.com/track/6Tmvb9B7cFnTJXr2L2MCd8"
     }
   ],
   "unique_name": "Dark & Gothic",

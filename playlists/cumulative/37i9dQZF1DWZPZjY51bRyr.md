@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-148 songs - 7 hr 57 min
+153 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Clear Thoughts](https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Clear Thoughts](https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn) | 3:00 | 2023-02-17 |  |
 | [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 | 2023-02-17 |  |
 | [Clearings](https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Clearings](https://open.spotify.com/album/60o397RIevLIAx8f17RRss) | 2:40 | 2023-04-24 |  |
+| [Clouds](https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Clouds](https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh) | 2:14 | 2023-08-02 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-07-27 |  |
 | [Compass of Peace 528 Hz](https://open.spotify.com/track/3DTIsjo9y5o79xgRR90i4k) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Compass of Peace 528 Hz](https://open.spotify.com/album/7467l8lrE1EvSohK7cG8Ai) | 3:21 | 2023-07-10 |  |
 | [Dawn Of Day](https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Dawn Of Day](https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe) | 3:10 | 2023-02-17 |  |
@@ -73,6 +74,7 @@
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-02-17 |  |
 | [Harmonious Waves](https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Harmonious Waves](https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6) | 2:47 | 2023-07-10 |  |
 | [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2023-02-17 |  |
+| [Healing Serenade](https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Lotus Garden & Healing Serenade](https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ) | 3:02 | 2023-08-02 |  |
 | [In Everness](https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [In Everness](https://open.spotify.com/album/3askarTMsTIOOiFy338QD0) | 3:25 | 2023-05-19 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2023-02-17 |  |
 | [Into The Present](https://open.spotify.com/track/5rG57MF8yK7wej6MRlHjs1) | [Ijaya Gupta](https://open.spotify.com/artist/7uoqtxBclrIjUFV1Ov0tsk) | [Into The Present](https://open.spotify.com/album/651DX77ds7jckVS1NRH22G) | 3:19 | 2023-05-19 |  |
@@ -83,6 +85,7 @@
 | [Kalmte](https://open.spotify.com/track/6jS9nusSLKNAWdHpEwhljv) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Kalmte](https://open.spotify.com/album/1m6lov2C97FP0NesObnEeG) | 3:23 | 2023-05-19 |  |
 | [Lake Reflections](https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Lake Reflections](https://open.spotify.com/album/1F2pa78FOtgQdl1ni4I77p) | 3:49 | 2023-07-10 |  |
 | [Lemon Balm](https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi) | [Rex Imaleo](https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w) | [Landscapes](https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp) | 2:57 | 2023-03-03 |  |
+| [Let The Waves Carry You](https://open.spotify.com/track/10fDPZm1naD49AR3wkEXWg) | [Lunar Bliss](https://open.spotify.com/artist/3pPChrOJySpR5JYsGYmhg3) | [Let The Waves Carry You](https://open.spotify.com/album/2ek1KcqoL5K3kx8Vs9hcEC) | 2:52 | 2023-08-02 |  |
 | [Let Them Come](https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii) | [Yolof Palace](https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj) | [The Banks Of Juru](https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK) | 2:44 | 2023-02-17 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2023-02-17 |  |
 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-17 |  |
@@ -115,6 +118,7 @@
 | [Rishis](https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0) | [Skye Saraswati](https://open.spotify.com/artist/4mSdD05BfppgiCGUVKcUZ3) | [Rishis](https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2) | 3:23 | 2023-02-17 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2023-02-17 | 2023-03-21 |
 | [Sacred Spirit](https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Beyond My Senses](https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2) | 3:12 | 2023-02-17 |  |
+| [Sakshi / Witness](https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Samadhi](https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB) | 2:40 | 2023-08-02 |  |
 | [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 | 2023-07-27 |  |
 | [Samajhauta](https://open.spotify.com/track/3QH2cod0TPHpg12q2qBl7j) | [Rura Gazdar](https://open.spotify.com/artist/3742Q8HPuGpkrw2EXq9UbT) | [Samajhauta](https://open.spotify.com/album/1Ge5uhuyA0O9JTyxYEMCNW) | 2:35 | 2023-02-17 |  |
 | [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2023-02-17 |  |
@@ -131,6 +135,7 @@
 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2023-02-17 |  |
 | [Spatial Healing](https://open.spotify.com/track/3JJC1OPhvfUEkq2imeT9yu) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Spatial Healing](https://open.spotify.com/album/6x7ptkcLvOwjKEj3VzeuzI) | 2:58 | 2023-02-17 |  |
 | [Spiritual Sleep](https://open.spotify.com/track/3NxOODwM9R5KfibzsvTT2F) | [Queens of the Dream World](https://open.spotify.com/artist/3CyLUmnwr7NReZg4Hm4EWz) | [Dream Will End](https://open.spotify.com/album/2BX0VKPhfcUrCeITkQwKVu) | 2:36 | 2023-02-17 |  |
+| [Starting Fresh](https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Starting Fresh](https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl) | 2:52 | 2023-08-02 |  |
 | [Stilte](https://open.spotify.com/track/7JmuwjQIrdufPz4y7hQyfF) | [Femke Edelijn](https://open.spotify.com/artist/2iJS3V46m6nQHD74m6pD7G) | [Stilte](https://open.spotify.com/album/06VoObxzlK0aRzVpHm8FBE) | 3:14 | 2023-03-28 |  |
 | [Strings Of Serenity](https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Strings Of Serenity](https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX) | 2:51 | 2023-03-03 |  |
 | [Terrestrial](https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Terrestrial](https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l) | 3:03 | 2023-02-17 |  |
@@ -147,8 +152,8 @@
 | [Transcendent Whispers](https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Himalayan Breeze](https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh) | 4:08 | 2023-07-27 |  |
 | [Treetop Whisperer](https://open.spotify.com/track/3UiDIUA8MIxeAlHKQSVi6k) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Treetop Whisperer](https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN) | 3:09 | 2023-04-24 |  |
 | [Undertow](https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Undertow](https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4) | 2:40 | 2023-02-17 |  |
-| [Unresolved](https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Unresolved](https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy) | 1:47 | 2023-05-19 |  |
-| [Unwinding](https://open.spotify.com/track/6ZbZUKPNtQQkipcV7Fu23l) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Unwinding](https://open.spotify.com/album/3hV6kEItg6jQLl1D3a2zau) | 10:06 | 2023-07-27 |  |
+| [Unresolved](https://open.spotify.com/track/3zawTXeUhbN5nT4KOSyBiD) | [Hibisc](https://open.spotify.com/artist/0YTD5FFHn4tt6ikL8fNqyi) | [Unresolved](https://open.spotify.com/album/3UWJ1nwdG5r1ZqxygARaYy) | 1:47 | 2023-05-19 | 2023-08-03 |
+| [Unwinding](https://open.spotify.com/track/6ZbZUKPNtQQkipcV7Fu23l) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Unwinding](https://open.spotify.com/album/3hV6kEItg6jQLl1D3a2zau) | 10:06 | 2023-07-27 | 2023-08-03 |
 | [Vinyasa](https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Vinyasa](https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1) | 3:58 | 2023-02-17 |  |
 | [Wander](https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Wander](https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY) | 3:20 | 2023-03-03 |  |
 | [Waves](https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 3:02 | 2023-07-27 |  |

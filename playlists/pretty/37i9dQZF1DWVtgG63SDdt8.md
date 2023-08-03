@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,079 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,217 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 21 | [Take Me to the River \(I Will Swim\) \- Live](https://open.spotify.com/track/1HvOPVcjiikDVfNzHyYgsh) | [Alex Yurkiv](https://open.spotify.com/artist/5cnvv9cjeqXdosL5WCFujZ), [Thelma Costolo](https://open.spotify.com/artist/28toNbnExSdk3ejoeDbA4E) | [Take Me to the River \(I Will Swim\) \[Live\]](https://open.spotify.com/album/7zl8PxnU19yAmbYuy5FvYr) | 4:24 |
 | 22 | [This Is How We Know What Love Is](https://open.spotify.com/track/7Ang7ZFjMao4Xkiyl2M73v) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Jasmine Mullen](https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj) | [This Is How We Know What Love Is](https://open.spotify.com/album/0Oy6Fd3YTLFPmWrvfPr9GG) | 3:47 |
 | 23 | [Have It All](https://open.spotify.com/track/7oJ3d4BceZHyZjzyTMAqGc) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE), [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY) | [Have It All](https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX) | 3:56 |
-| 24 | [NOW](https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Faith Child](https://open.spotify.com/artist/1mymMIofTp8otIqM9XUhF2) | [NOW](https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv) | 3:43 |
+| 24 | [NOW](https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy) | [NOW](https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv) | 3:43 |
 | 25 | [Psalm 15 \(Who May Worship\)](https://open.spotify.com/track/25f89hesWxwRNoYd4g9G1o) | [Will Gray](https://open.spotify.com/artist/39bsOtHucw9K0HKX1wNM0C), [Sarah Téibo](https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT) | [Psalm 15 \(Who May Worship\)](https://open.spotify.com/album/6aJXtgBNwRk6uYcfY2FTsq) | 4:41 |
 | 26 | [Life Laid Down \- Live](https://open.spotify.com/track/2syGnPziG7jaysWGJ2Ov30) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Life Laid Down \(Live\)](https://open.spotify.com/album/149pPKRjcXR4QPgHIkYvqL) | 4:58 |
 | 27 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [YOU'RE MINE](https://open.spotify.com/track/0ika43Bh4ZerhBKWqJGi0Y) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [YOU'RE MINE](https://open.spotify.com/album/2Va2mNp8nQ5GWBqQSN9yO9) | 2:40 |
 | 100 | [boys don't cry.](https://open.spotify.com/track/1LgWU5tcPIc9prUvouAL7k) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [boys don't cry.](https://open.spotify.com/album/17Unz9MVuW4hYOoriIzvoy) | 2:30 |
 
-Snapshot ID: `MCwzYmIxMTBhOTE2MmJlZTAyMjdmZmU5ZjZiYjc1MDU1OGI3OGIzYzBl`
+Snapshot ID: `MCwzNmY5M2I4ODI5MzNlNGNlNWZhNjBmNTRlZmVlYjUzZjI4ODU3NjMz`

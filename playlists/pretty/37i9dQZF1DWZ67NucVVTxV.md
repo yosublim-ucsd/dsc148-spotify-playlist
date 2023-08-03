@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,352 likes - 90 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,413 likes - 90 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 89 | [Earth Song](https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo) | 3:03 |
 | 90 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 |
 
-Snapshot ID: `MCwzOGQ3NzY4ZTQyYWEwNmQ3MWQ4OTdjYjYwMzU1ODRhN2RlZjY2OGFh`
+Snapshot ID: `MCw0Zjg2OTdhOTUzMzNkZDlkZTBmZGNhNzk1N2E0ZTUyODE1Y2FjNGVk`

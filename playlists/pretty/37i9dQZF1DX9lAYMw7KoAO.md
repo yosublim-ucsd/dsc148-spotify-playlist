@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt">Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,228 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,375 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Blessings](https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Blessings](https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA) | 2:42 |
 | 50 | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy) | [Intimate Worshippers](https://open.spotify.com/artist/6cyrALoaNZdARL3FtcT1TG) | [Ukholo Lwam \(A Song of Hope\)](https://open.spotify.com/album/4KXmXlnwjO8xJvKLC0fBOf) | 4:12 |
 
-Snapshot ID: `MCwzOTFiOTc1ZTkzNWVmNmI1ODI4MDE4YjExMmE4NGVmMjZlOTc0OGQx`
+Snapshot ID: `MCwzYTQzYWFmYWIzNWQ5MzQ2Y2NhZjM4ODU2Y2M0MWU3ZDcxMTIwYjg4`

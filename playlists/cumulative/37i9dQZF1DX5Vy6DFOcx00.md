@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,069 songs - 2 day 9 hr 39 min
+1,071 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,8 +149,8 @@
 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-06 | 2023-07-01 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-10 | 2022-05-27 |
 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2022-05-20 | 2022-09-09 |
-| [Break](https://open.spotify.com/track/1G60WH7wGf6vgQeWjeG747) | [Aabhi](https://open.spotify.com/artist/2VRKeXrqbWcDqrBk4DfoVa) | [Break](https://open.spotify.com/album/4AG1KGToyd2LYY420mK3bC) | 2:57 | 2023-07-10 | 2023-07-19 |
-| [Break](https://open.spotify.com/track/6EyB8sI87Rt2lCcJ8NwizZ) | [chacee](https://open.spotify.com/artist/4XdBA418InPwEmrGA3iXX7) | [Break](https://open.spotify.com/album/6lgU86nSX0wlIqbCQnu1xo) | 2:57 | 2023-07-10 |  |
+| [Break](https://open.spotify.com/track/1G60WH7wGf6vgQeWjeG747) | [Aabhi](https://open.spotify.com/artist/2VRKeXrqbWcDqrBk4DfoVa) | [Break](https://open.spotify.com/album/4AG1KGToyd2LYY420mK3bC) | 2:57 | 2023-07-10 |  |
+| [Break](https://open.spotify.com/track/6EyB8sI87Rt2lCcJ8NwizZ) | [chacee](https://open.spotify.com/artist/4XdBA418InPwEmrGA3iXX7) | [Break](https://open.spotify.com/album/6lgU86nSX0wlIqbCQnu1xo) | 2:57 | 2023-07-10 | 2023-08-03 |
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2022-08-31 |
 | [Bubble Pop Electric](https://open.spotify.com/track/4A2vjMnkAWgPVqwl3Xc7pu) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:42 | 2021-12-29 | 2022-03-23 |
 | [Bustdown Rollie Avalanche](https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA) | [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bustdown Rollie Avalanche](https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ) | 2:45 | 2022-06-24 | 2022-08-31 |
@@ -312,6 +312,7 @@
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-06 | 2022-03-14 |
 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 | 2023-02-22 | 2023-03-07 |
 | [Favorite Song \- Sped Up](https://open.spotify.com/track/0IQyjnzXpI67yaW53rRbKx) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song \(Versions\)](https://open.spotify.com/album/3ZFvHAxaEzIiy7QAauFIet) | 2:40 | 2023-03-06 | 2023-03-28 |
+| [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-08-02 |  |
 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 | 2022-06-28 | 2022-07-18 |
 | [Figured Out](https://open.spotify.com/track/5QVkgEPCCTOcOI4Ix6ZmJ5) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Figured Out Imma Liar](https://open.spotify.com/album/6b3ARWhE8eO4S5jEpSkZ4i) | 2:26 | 2022-12-01 | 2022-12-16 |
 | [Fine](https://open.spotify.com/track/2Rpxbbx0rbA7leuAshGEH3) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Fine](https://open.spotify.com/album/5g58Fr5v70Ptk8EL1kjaFg) | 2:30 | 2022-11-16 | 2022-12-06 |
@@ -514,6 +515,7 @@
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-11 | 2023-01-14 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-01-13 | 2023-06-06 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-01-21 | 2022-02-14 |
+| [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 | 2023-08-02 |  |
 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/5fLwJEG6J7V6MS2gE833Le) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/68IgfE4Q34VLSDrv8MhqqD) | 1:52 | 2023-06-21 | 2023-06-23 |
 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 | 2023-06-21 |  |
 | [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-07-21 | 2022-11-11 |

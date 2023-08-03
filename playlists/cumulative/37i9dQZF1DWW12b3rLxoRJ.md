@@ -4,7 +4,7 @@
 
 > Súbele el volumen a La Firma\. Escucha los hits de esta competencia de Netflix.
 
-84 songs - 2 hr 55 min
+86 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Conexión](https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:40 | 2023-04-04 |  |
 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 | 2023-04-04 |  |
 | [Crezco](https://open.spotify.com/track/5CYB2aYfeoVD64kXkimgxJ) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:36 | 2023-04-12 |  |
+| [Cuero](https://open.spotify.com/track/03JYv2HP4s80sSuQRs8meh) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [De Vuelta Al Mundo](https://open.spotify.com/album/7aGYNNQwNDJC2q3XyQOeSs) | 3:19 | 2023-08-02 |  |
 | [De Donde Vengo](https://open.spotify.com/track/0EDNzuf97KScKug0Sov7Xu) | [Mila](https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:34 | 2023-04-12 |  |
 | [Decir Adiós](https://open.spotify.com/track/6VhKXXCWcy5lFRCK7d5W1C) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [OTRO NIVEL](https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP) | 2:14 | 2023-04-20 |  |
 | [DEJA VU](https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:58 | 2023-04-04 |  |
@@ -29,6 +30,7 @@
 | [El Patio](https://open.spotify.com/track/1EDphvXmUUXtEmdh8VlJK4) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [PA' LA CULTURA](https://open.spotify.com/album/4hRdAMX8tBRCWFhqRbD27k) | 1:38 | 2023-04-04 | 2023-04-15 |
 | [El Patio](https://open.spotify.com/track/1bOx45W02uPJF370I2cYnE) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:38 | 2023-04-20 |  |
 | [El Patio](https://open.spotify.com/track/46R6hzLoXGTl8HnPPRAOD4) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [PA' LA CULTURA](https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde) | 1:38 | 2023-04-12 | 2023-07-14 |
+| [En Otra Vida](https://open.spotify.com/track/0rrarGZv1ByDl0aootANBf) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [De Vuelta Al Mundo](https://open.spotify.com/album/7aGYNNQwNDJC2q3XyQOeSs) | 3:52 | 2023-08-02 |  |
 | [Explícale \(feat\. Bad Bunny\)](https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:43 | 2023-04-04 |  |
 | [Falsas Promesas](https://open.spotify.com/track/4iVmpDLh2cBdDKFRAtAa3E) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:42 | 2023-04-04 |  |
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2023-04-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2003. Photo : Eminem",
-  "num_followers": 14353,
+  "num_followers": 14370,
   "original_name": "Top Hits France 2003",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWM0NTU0ZTJjYjZjNjI5MGYxZTVhNjZkY2Q2N2ZjMmRlNGQxN2Nl",
+  "snapshot_id": "MCwwODdkMzU1NjliMWRhNzA5MWZkMzVhZDJiNjI2MDUxNjg1NWM5ZDY1",
   "tracks": [
     {
       "added_at": "2022-02-01 21:20:54",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
-        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
-      },
-      "artists": [
-        {
-          "name": "Junior Senior",
-          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
-        }
-      ],
-      "duration_ms": 181906,
-      "name": "Move Your Feet",
-      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Music & You",
         "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 212413,
       "name": "Make Luv",
       "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
     },
     {
       "added_at": "2022-02-01 21:20:54",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-02-01 21:20:54",
       "album": {
-        "name": "Summer Jam",
-        "url": "https://open.spotify.com/album/22ulz3GUuRiiVxQk2HlaW8"
-      },
-      "artists": [
-        {
-          "name": "The Underdog Project",
-          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Summer Jam - Radio Edit",
-      "url": "https://open.spotify.com/track/6L54wM12STr1kS8nPjPIaS"
-    },
-    {
-      "added_at": "2022-02-01 21:20:54",
-      "album": {
         "name": "Still Ghetto",
         "url": "https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 245773,
       "name": "Put That Woman First",
       "url": "https://open.spotify.com/track/3OQu3z3okKVmWxSXTTHak5"
+    },
+    {
+      "added_at": "2022-02-01 21:20:54",
+      "album": {
+        "name": "Summer Jam",
+        "url": "https://open.spotify.com/album/22ulz3GUuRiiVxQk2HlaW8"
+      },
+      "artists": [
+        {
+          "name": "The Underdog Project",
+          "url": "https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Summer Jam - Radio Edit",
+      "url": "https://open.spotify.com/track/6L54wM12STr1kS8nPjPIaS"
     },
     {
       "added_at": "2022-02-01 21:20:54",

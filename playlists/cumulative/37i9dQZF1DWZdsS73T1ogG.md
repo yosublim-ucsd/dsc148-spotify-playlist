@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Alex Rose
 
-680 songs - 1 day 12 hr 37 min
+681 songs - 1 day 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 | 2022-08-19 | 2022-11-12 |
 | [Baila Bien](https://open.spotify.com/track/49DcRL4LLu599I5xsrjcm9) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [15](https://open.spotify.com/album/6xBbDNMmLKYeB61xJvmKq6) | 3:17 | 2022-03-21 | 2022-06-04 |
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-06-03 | 2022-07-23 |
+| [BANDIDA](https://open.spotify.com/track/3iecNdnfVdLoGCoBG2wmaT) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [BANDIDA](https://open.spotify.com/album/0Gawwvg9JS6p24C2BpmyIb) | 3:49 | 2023-07-28 |  |
 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 | 2022-05-26 | 2022-07-23 |
 | [Bandido](https://open.spotify.com/track/4IjmpmsaSjbK1fXcMH06CA) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Bandido](https://open.spotify.com/album/5GD2QBJ93ajGxMQZNe3vVs) | 2:48 | 2023-02-17 | 2023-04-09 |
 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 | 2023-05-12 | 2023-07-22 |
@@ -330,7 +331,7 @@
 | [Las Cartas](https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu) | 3:32 | 2022-10-14 | 2022-11-12 |
 | [Las Cartas](https://open.spotify.com/track/1pOa85FwiJcbwyYTQFAZUM) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/7fctld92LQsFJrmqliUMYu) | 3:32 | 2022-09-16 | 2022-10-21 |
 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 | 2022-11-25 | 2023-02-18 |
-| [LAY LOW](https://open.spotify.com/track/55gmzY3X3LYdJLxGdJOOVx) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [LAY LOW](https://open.spotify.com/album/2saubcNNGXWLQ0vzvZfvLx) | 2:38 | 2023-04-28 |  |
+| [LAY LOW](https://open.spotify.com/track/55gmzY3X3LYdJLxGdJOOVx) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX) | [LAY LOW](https://open.spotify.com/album/2saubcNNGXWLQ0vzvZfvLx) | 2:38 | 2023-04-28 | 2023-08-03 |
 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 | 2023-02-10 | 2023-04-09 |
 | [Light Zone](https://open.spotify.com/track/5NNqDGrDCdEFBQNXZoYZdT) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Light Zone](https://open.spotify.com/album/0IeVTWuigUFBLtaL3zQBZC) | 3:17 | 2022-12-29 | 2023-03-11 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-03 | 2023-05-20 |

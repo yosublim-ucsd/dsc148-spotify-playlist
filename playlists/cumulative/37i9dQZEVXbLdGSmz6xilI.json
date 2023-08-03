@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "3107 3",
       "url": "https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F"
@@ -4470,7 +4470,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 281493,
       "name": "d\u1ef1 b\u00e1o th\u1eddi ti\u1ebft h\u00f4m nay m\u01b0a",
       "url": "https://open.spotify.com/track/7bFFUPBiF15n8m8RziqS4o"
@@ -6524,6 +6524,24 @@
       "duration_ms": 223012,
       "name": "I Need U - Remix",
       "url": "https://open.spotify.com/track/4pzjU0AnZa6Vfphk292e9Q"
+    },
+    {
+      "album": {
+        "name": "id 072019",
+        "url": "https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS"
+      },
+      "artists": [
+        {
+          "name": "W/N",
+          "url": "https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271704,
+      "name": "id 072019",
+      "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
     },
     {
       "album": {
@@ -9830,7 +9848,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 179668,
       "name": "N\u01a1i Ta S\u1ed1ng (feat. Long N\u00f3n L\u00e1 & Mikelodic)",
       "url": "https://open.spotify.com/track/67SnHLuHADZ2r5FkYbON0A"
@@ -10822,7 +10840,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
@@ -13624,7 +13642,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 194182,
       "name": "Tr\u01b0\u1edbc Khi Em T\u1ed3n T\u1ea1i",
       "url": "https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY"

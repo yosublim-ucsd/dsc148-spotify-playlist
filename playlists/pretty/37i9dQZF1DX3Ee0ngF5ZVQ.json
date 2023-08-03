@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 411919,
+  "num_followers": 412019,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTY3ZTFlZWEzYmY2MTM5Yzk2M2M4OWVhM2I5NGI3ZGFiYWJhMDA1",
+  "snapshot_id": "MCw1MGQ3MGQyY2M2YjFlYmMwNzNhMzU0MWEyM2VmZjE2ZjQ4MGMwYjli",
   "tracks": [
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Sometimes I Do",
-        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
-      },
-      "artists": [
-        {
-          "name": "Joe Peters",
-          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Sometimes I Do",
-      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
-    },
-    {
-      "added_at": "2023-08-01 17:04:46",
-      "album": {
-        "name": "Hell of a Life",
-        "url": "https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT"
-      },
-      "artists": [
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        }
-      ],
-      "duration_ms": 195401,
-      "name": "Hell of a Life",
-      "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
-    },
-    {
-      "added_at": "2023-08-01 17:04:46",
-      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4"
       },
@@ -1135,18 +1103,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Lowdown & Lonesome",
-        "url": "https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5"
+        "name": "Hell of a Life",
+        "url": "https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT"
       },
       "artists": [
         {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 271829,
-      "name": "Lowdown & Lonesome",
-      "url": "https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx"
+      "duration_ms": 195401,
+      "name": "Hell of a Life",
+      "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1163,6 +1131,38 @@
       "duration_ms": 272666,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX"
+    },
+    {
+      "added_at": "2023-08-01 17:04:46",
+      "album": {
+        "name": "Lowdown & Lonesome",
+        "url": "https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5"
+      },
+      "artists": [
+        {
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+        }
+      ],
+      "duration_ms": 271829,
+      "name": "Lowdown & Lonesome",
+      "url": "https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx"
+    },
+    {
+      "added_at": "2023-08-01 17:04:46",
+      "album": {
+        "name": "Sometimes I Do",
+        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+      },
+      "artists": [
+        {
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Sometimes I Do",
+      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Country Nights",
-        "url": "https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Country Nights",
-      "url": "https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Country Nights",
+        "url": "https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 217400,
+      "name": "Country Nights",
+      "url": "https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1475,22 +1475,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Josh Abbott Band and Friends, Vol. 1",
-        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        },
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 279115,
-      "name": "Don't It Make You Wanna Dance?",
-      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1595,18 +1591,22 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Still Have Some Cowboy Left",
-        "url": "https://open.spotify.com/album/2u9pcE8nJmW73LYV6rYbRG"
+        "name": "Josh Abbott Band and Friends, Vol. 1",
+        "url": "https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl"
       },
       "artists": [
         {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        },
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 201708,
-      "name": "Still Have Some Cowboy Left",
-      "url": "https://open.spotify.com/track/7DbQNgkKQobicPa8s0jRT1"
+      "duration_ms": 279115,
+      "name": "Don't It Make You Wanna Dance?",
+      "url": "https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+        "name": "Still Have Some Cowboy Left",
+        "url": "https://open.spotify.com/album/2u9pcE8nJmW73LYV6rYbRG"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+      "duration_ms": 201708,
+      "name": "Still Have Some Cowboy Left",
+      "url": "https://open.spotify.com/track/7DbQNgkKQobicPa8s0jRT1"
     },
     {
       "added_at": "2023-08-01 17:04:46",

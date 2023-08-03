@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 56483,
+  "num_followers": 56668,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWVlMzYwZGM0ZGNmODlhODUwZjZlNWYwNTkwN2E4Zjk4MWQwMDkw",
+  "snapshot_id": "MCw3ZDhhMWIxYjg3ZDhlZGEwZDJkN2U3M2UyYjk0MDRjMGU3M2I5ZTZl",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Risen",
-        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Behold Our God",
-      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "The Longing EP No. 3",
         "url": "https://open.spotify.com/album/6FtPavcTVLGwBth2axzR9I"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 355320,
       "name": "Called Me Higher",
       "url": "https://open.spotify.com/track/23AX1TW2CCpmqXtktvYe42"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Risen",
+        "url": "https://open.spotify.com/album/5g3hGU7hr02kjuEUUiLQLz"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Behold Our God",
+      "url": "https://open.spotify.com/track/5wtsUVV88h9jhtF4mOgxNN"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "30: Three Decades of Songs for the Church",
-        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        },
-        {
-          "name": "Brook Hills Music",
-          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
-        }
-      ],
-      "duration_ms": 292600,
-      "name": "Jesus, Thank You",
-      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Facing A Task Unfinished",
         "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
       },
@@ -887,6 +867,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Resurrecting - EP",
+        "url": "https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 264840,
+      "name": "Resurrecting (Studio Version)",
+      "url": "https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "Asaph's Arrows - EP",
         "url": "https://open.spotify.com/album/1GHtYOjEg073oStqoan99K"
       },
@@ -903,18 +899,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Resurrecting - EP",
-        "url": "https://open.spotify.com/album/0Pw8f54MEx8sIYpMYrIQSn"
+        "name": "30: Three Decades of Songs for the Church",
+        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        },
+        {
+          "name": "Brook Hills Music",
+          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
         }
       ],
-      "duration_ms": 264840,
-      "name": "Resurrecting (Studio Version)",
-      "url": "https://open.spotify.com/track/4m3rBNZbDBZ5adk4EnDi4s"
+      "duration_ms": 292600,
+      "name": "Jesus, Thank You",
+      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -987,22 +987,18 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
       },
       "artists": [
         {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        },
-        {
-          "name": "Will Reagan",
-          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
         }
       ],
-      "duration_ms": 394186,
-      "name": "Hidden (Live) [feat. Will Reagan]",
-      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
+      "duration_ms": 241013,
+      "name": "Speak O Lord",
+      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1019,22 +1015,6 @@
       "duration_ms": 224000,
       "name": "Come Thou Fount Of Every Blessing",
       "url": "https://open.spotify.com/track/0f9U92JG3vu8BH3PTvxySR"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Speak O Lord",
-      "url": "https://open.spotify.com/track/5S3KGLRJlrwZq0xfT3VLdV"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1087,6 +1067,26 @@
       "duration_ms": 346750,
       "name": "Shepherd of My Soul",
       "url": "https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Will Reagan",
+          "url": "https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP"
+        }
+      ],
+      "duration_ms": 394186,
+      "name": "Hidden (Live) [feat. Will Reagan]",
+      "url": "https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Simple Gospel (Live)",
-        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Head to the Heart (Live)",
-      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Oh! Great Is Our God! - EP",
         "url": "https://open.spotify.com/album/6Qwaa0eRLxUUOgZbopMY41"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 350226,
       "name": "Satisfied in You (Psalm 42)",
       "url": "https://open.spotify.com/track/0ML25KciIhm4UgAVKrDjAo"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Simple Gospel (Live)",
+        "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Head to the Heart (Live)",
+      "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Fire and Stone",
-        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 264480,
-      "name": "Far Kingdom",
-      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Posters",
         "url": "https://open.spotify.com/album/41mwyfJfSsfuELRYdC0q6v"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 235240,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/52Ow3Du0P5XMBIRvOMHXUj"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Fire and Stone",
+        "url": "https://open.spotify.com/album/5bbM7zS6XnUD0bGWve3QpT"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 264480,
+      "name": "Far Kingdom",
+      "url": "https://open.spotify.com/track/0FqK5zRZm46125vbLR7K6v"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Note To Self",
-      "url": "https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "The Undoing",
         "url": "https://open.spotify.com/album/3JvCAFSk7tXKtofbUtbJfA"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 244479,
       "name": "Cecie's Lullaby",
       "url": "https://open.spotify.com/track/4swc1KilG2ZCsF26hvz3Cq"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/4XYWS04Kkk8X1NiUR08Cpi"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/3w2Hvc5mh3Dt3QyYIhAHKQ"
     },
     {
       "added_at": "2023-02-18 04:59:55",

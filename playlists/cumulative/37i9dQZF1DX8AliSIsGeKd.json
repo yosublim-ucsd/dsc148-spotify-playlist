@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best new electronic music from Electronica to Techno. Cover: Pretty Pink",
+  "description": "The best new electronic music from Electronica to Techno. Cover: Vanita",
   "name": "Electronic Rising",
   "tracks": [
     {
@@ -5122,6 +5122,24 @@
       "duration_ms": 400523,
       "name": "Bom",
       "url": "https://open.spotify.com/track/2CefyeSJ9lfy7a912eZ0gc"
+    },
+    {
+      "album": {
+        "name": "BOND",
+        "url": "https://open.spotify.com/album/48uWS8U5HPrfgMQQN5LcOQ"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379093,
+      "name": "BOND",
+      "url": "https://open.spotify.com/track/6dnjaixd1oLBBHIKAJDIhW"
     },
     {
       "album": {
@@ -24016,7 +24034,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 177840,
       "name": "Manipulate",
       "url": "https://open.spotify.com/track/6318TrgQR9y7Uu3NOnQzG4"

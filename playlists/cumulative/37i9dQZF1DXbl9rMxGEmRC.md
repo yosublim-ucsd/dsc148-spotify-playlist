@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-454 songs - 1 day 15 hr 0 min
+455 songs - 1 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [The Book of Breath](https://open.spotify.com/track/7hA0Cv3sWhKIjKbpnMcg1G) | [Abbath](https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx) | [The Book of Breath](https://open.spotify.com/album/1YXcHOfyzrJduglh9NWgOG) | 4:35 | 2022-03-10 | 2022-07-25 |
 | [The Bride of Corinth](https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD) | [Theatres Des Vampires](https://open.spotify.com/artist/4vNrZHCyGyELnv8tAgZZRt) | [In Nomine Sanguinis](https://open.spotify.com/album/1gHTP0xHAJkLiiYtm3U6Oa) | 3:37 | 2021-12-17 | 2022-07-27 |
 | [The Calling](https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1) | [Saturnus](https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id) | [The Calling](https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0) | 6:59 | 2023-03-17 | 2023-05-13 |
+| [The Cambrian Explosion](https://open.spotify.com/track/0XDQEDR8gr6aaUY2jVpBXO) | [Alkaloid](https://open.spotify.com/artist/4KMQDFaAsPEKcqKzdvkYKc) | [The Cambrian Explosion](https://open.spotify.com/album/0poic6k1yB9r89F2JpXKDI) | 3:59 | 2023-07-28 |  |
 | [The Celestial Keeper](https://open.spotify.com/track/3OQ3r2qzMj1gBpfQpo4HEZ) | [Fall Of The Leafe](https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn) | [Evanescent, Everfading](https://open.spotify.com/album/1zv5yNwJ91m73bxYe0r87V) | 4:29 | 2023-02-15 | 2023-03-18 |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 | 2023-06-18 |
 | [The Dark \(Winter\)](https://open.spotify.com/track/451BYwGZF7lYLxkhJk1zCE) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [The Dark \(Winter\)](https://open.spotify.com/album/1K2Z23Ff5NNhERhuqhiAF2) | 7:31 | 2023-07-21 |  |
@@ -383,7 +384,7 @@
 | [The Dregs of Hades](https://open.spotify.com/track/03NK3EtH3txhiF6HiDH649) | [Lock Up](https://open.spotify.com/artist/0AKZrsOYW77C7QW1jzdhNX) | [The Dregs of Hades](https://open.spotify.com/album/2LAZb8cxJwce79vcz8gJCn) | 2:00 | 2021-12-17 | 2022-07-26 |
 | [The End Times](https://open.spotify.com/track/6FzzjKoj5Py692r0H7avNK) | [Saturnian Mist](https://open.spotify.com/artist/6AxkeLJs2XstRIeKqgSGTW) | [Shamatanic](https://open.spotify.com/album/1M5a4v5udsE4wUhKl3Lzi3) | 6:06 | 2021-12-17 | 2022-05-07 |
 | [The End We Start From](https://open.spotify.com/track/4daT1OtwHXyYPALKB2U87f) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [The End We Start From](https://open.spotify.com/album/5BtsN0Bkxk4TAGfJB0qhak) | 4:05 | 2023-07-03 |  |
-| [The Endless Multitude](https://open.spotify.com/track/2Slao5IkvxQCqt8P84KYJT) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [The Endless Multitude](https://open.spotify.com/album/6y6QjPmkMmz2APyxoLZ4V4) | 6:28 | 2023-06-16 |  |
+| [The Endless Multitude](https://open.spotify.com/track/2Slao5IkvxQCqt8P84KYJT) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [The Endless Multitude](https://open.spotify.com/album/6y6QjPmkMmz2APyxoLZ4V4) | 6:28 | 2023-06-16 | 2023-08-03 |
 | [The Entropic Queen](https://open.spotify.com/track/0lqpWwuvUWZeS9ItLGZMkk) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [The Entropic Queen](https://open.spotify.com/album/291tfqTN3GMnxAQyLqKba4) | 4:39 | 2022-04-08 | 2022-07-24 |
 | [The Eternal Sea](https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Heimdal](https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG) | 7:25 | 2023-03-03 | 2023-06-03 |
 | [The Fall Of Jotunheim](https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [The Fall Of Jotunheim](https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL) | 4:02 | 2021-12-17 | 2022-07-27 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTEzNTZmMmRmYWQwMWZlMTYxMDBlZTA1NjRkNzFmYjk5OGMxMWY4",
+  "snapshot_id": "MCxhMDRmYWNkOGE1NDJmZDEyNDc4MGRhM2FjMzAyOTU3ZDNmZGRmYWNl",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 338466,
-      "name": "Risen",
-      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "The Rebirth Of Kirk Franklin (Live)",
         "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 307733,
       "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 338466,
+      "name": "Risen",
+      "url": "https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "One Lord, One Faith, One Baptism",
         "url": "https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 368333,
       "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
       "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -707,6 +707,26 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        }
+      ],
+      "duration_ms": 368560,
+      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Rock Of Ages (Live)",
         "url": "https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 318666,
       "name": "Just For Me",
       "url": "https://open.spotify.com/track/1vXiQHSqnhnPCZrSmvkPqG"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        }
-      ],
-      "duration_ms": 368560,
-      "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Easter (feat. Todd Dulaney)",
         "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 427640,
       "name": "Easter (feat. Todd Dulaney)",
       "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/7e7Kn1acCuaq8owAQHt8dI"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/128ypdDlPrG9lpwGQzMiBQ"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live in Concert",
-        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
       },
       "artists": [
         {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
         }
       ],
-      "duration_ms": 573933,
-      "name": "Calvary",
-      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
+      "duration_ms": 297040,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
+        "name": "Live in Concert",
+        "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
       },
       "artists": [
         {
-          "name": "The Winans",
-          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
         }
       ],
-      "duration_ms": 297040,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
+      "duration_ms": 573933,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Joshua's Troop",
+        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "God Is Not Dead",
+      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live At Azusa 3",
         "url": "https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 436960,
       "name": "He Lives - Live",
       "url": "https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Joshua's Troop",
-        "url": "https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT"
-      },
-      "artists": [
-        {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "God Is Not Dead",
-      "url": "https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul"
     },
     {
       "added_at": "2023-04-09 08:49:39",

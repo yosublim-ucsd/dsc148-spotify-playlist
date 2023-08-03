@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 14984,
+  "num_followers": 14994,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNhMDY1ZGM5NWUyM2YwZGRmN2QyNjRiNTMzNDk1NmI0YzkxZjkw",
+  "snapshot_id": "MCxmMDgzZGI0NWZiNjNkZjIzZjUzZDY4OTIwNGUxN2I4ODhlYjM4MDdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+        "name": "Danzon Cubano, Vol. I",
+        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
       },
       "artists": [
         {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+          "name": "Mariano Merceron",
+          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
         }
       ],
-      "duration_ms": 293040,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
+      "duration_ms": 186644,
+      "name": "Emilio Amarra A Tu Perro",
+      "url": "https://open.spotify.com/track/5IT4KXtDnBXfW0ZJ8gAYTC"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzon Cubano, Vol. I",
-        "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
       },
       "artists": [
         {
-          "name": "Mariano Merceron",
-          "url": "https://open.spotify.com/artist/7vgusS7tDPWgOQsZsfuBx0"
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
         }
       ],
-      "duration_ms": 186644,
-      "name": "Emilio Amarra A Tu Perro",
-      "url": "https://open.spotify.com/track/5IT4KXtDnBXfW0ZJ8gAYTC"
+      "duration_ms": 293040,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -743,26 +743,6 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/0XCk9sZ4i4FUHHnKJHrjX9"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
         "name": "Danzon Cubano, Vol. I",
         "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 259765,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/3X0dPC4fhVM09yXmlzQkfc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/0XCk9sZ4i4FUHHnKJHrjX9"
     },
     {
       "added_at": "2022-08-02 23:28:22",

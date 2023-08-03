@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 188894,
+  "num_followers": 189606,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
+  "snapshot_id": "MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
-      },
-      "artists": [
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 509090,
-      "name": "Future Dust - Original Mix",
-      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "WANNA GO BANG",
         "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust - Original Mix",
+      "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Asura EP",
-        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 469612,
-      "name": "Asura",
-      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "The Seduction EP",
         "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Asura EP",
+        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 469612,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Hercules",
-        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 392008,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Never Forget",
         "url": "https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 183649,
       "name": "Never Forget",
       "url": "https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/4ovF2Pg29wZVZDPCSqYIRV"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 392008,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/56fFmIpNTFTcQSrfCNxeyu"
     },
     {
       "added_at": "2023-06-02 14:30:00",

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-546 songs - 21 hr 11 min
+547 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Requiem](https://open.spotify.com/track/2EIzEw3TdQ30XDSmD3R9bT) | [Sabuze](https://open.spotify.com/artist/2u8F3wXa6IjZM3sVTwQLag) | [Requiem](https://open.spotify.com/album/1HFaXg8WdveqgHIZXEK4Mz) | 1:44 | 2022-12-23 | 2023-05-06 |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 | 2023-03-31 |  |
-| [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 | 2023-07-14 |  |
+| [RITMO DE TREINO](https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT) | [YOUTHISENDING](https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX), [MC Pequeno Diamante](https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C) | [RITMO DE TREINO](https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz) | 1:42 | 2023-07-14 |  |
 | [RITUAL](https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [RITUAL](https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI) | 1:43 | 2022-11-03 | 2023-03-25 |
 | [ROADKILL](https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [ROADKILL](https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM) | 2:04 | 2022-09-02 | 2022-10-29 |
 | [ROGUE!](https://open.spotify.com/track/5VzcuUMmk1ElMCKQORCkC4) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [ROGUE!](https://open.spotify.com/album/0duKirYgihhKCEGnzXnPQm) | 2:06 | 2022-11-25 | 2023-02-18 |
@@ -448,7 +448,8 @@
 | [SLAUGHTER HOUSE](https://open.spotify.com/track/512GmOfa7bOg5IJcrVHMdy) | [Phonkha](https://open.spotify.com/artist/5LloPEToP2oZZGdSmh1TFU), [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [SLAUGHTER HOUSE](https://open.spotify.com/album/74VzeE1hiSnr1P2SsQ2m0L) | 2:31 | 2022-09-02 |  |
 | [SLAYER](https://open.spotify.com/track/6GubPXHfFG5cYUFZNl4vsZ) | [Ya$h](https://open.spotify.com/artist/6dvtf0mSE1nAC2vbStrrVG), [only1korob](https://open.spotify.com/artist/5G8Q8ZPaEwSl3oO0DpnUYB), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [SLAYER](https://open.spotify.com/album/6jeoIb83bE8HaEr1HvHTZj) | 2:53 | 2022-07-29 | 2022-09-24 |
 | [SMOKE IT OFF!](https://open.spotify.com/track/0mRaXMf9wwtkcW62t7zPm7) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/6LG5dTlYLzmgC6RRiGvsl1) | 1:57 | 2023-02-04 | 2023-08-02 |
-| [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2023-02-04 |  |
+| [SMOKE IT OFF!](https://open.spotify.com/track/1KEv0es8xWsrPU7VSFiZym) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/59i6c9Y4NtR28gdkQ4Bg0S) | 1:57 | 2023-02-04 | 2023-08-03 |
+| [SMOKE IT OFF!](https://open.spotify.com/track/4mMEvkDeY56be4l7Itb5aZ) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [SMOKE IT OFF!](https://open.spotify.com/album/4QVkiRbkPGu3KETjFzmf99) | 1:57 | 2023-02-04 |  |
 | [Smoke N Drift \- Phonk Version](https://open.spotify.com/track/7rNn8uJttKjnAcJXtlxLQQ) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X) | [Smoke N Drift \(Phonk Version\)](https://open.spotify.com/album/5Wdv4QxrMczOj6qbGHQ1Wn) | 2:09 | 2022-11-11 | 2022-12-10 |
 | [SNOWFLIGHT](https://open.spotify.com/track/7cZVKKjHHIig2CruOcSM8P) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [FROZEN HEIGHS](https://open.spotify.com/album/5zXQdtCqa9iugY2VU7UMLG) | 2:43 | 2022-02-04 | 2022-05-28 |
 | [SO TIRED](https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [SO TIRED](https://open.spotify.com/album/688ytwDXOttov235i5WAk8) | 2:52 | 2023-06-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2023 on <a href="spotify:user:sozoofficial">SOZO Playlists</a>! Cover: <a href="https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC?si=auw2mPeNRXaXZPrCoPFJ0g">Brooke Ligertwood</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 116,740 likes - 106 songs - 10 hr 29 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 116,755 likes - 106 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 18 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/4iaas0o0bFzalTLwhQTuBH) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/7a7spHufCfzU5ZO6O0nJJT) | 6:22 |
 | 19 | [Pour Over Me \- Live](https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Pour Over Me \(Live\)](https://open.spotify.com/album/3FOHB4HifsQur0uyQoOmTW) | 9:58 |
 | 20 | [Fill The Room \- Live](https://open.spotify.com/track/2fPHMY0y9v8liK2WLbm60r) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Overflow \(Live\)](https://open.spotify.com/album/34ySYJ3ZOxIi3PFoydDpJi) | 10:14 |
-| 21 | [Praise The Lord \- Live](https://open.spotify.com/track/5Hxcds4VSqx8sWJK0ZoRaj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Matthew Harris](https://open.spotify.com/artist/2NmSM4x3fsXni14MZJNueQ) | [Praise The Lord \(Live\)](https://open.spotify.com/album/1ZFTdand5Rxb5mkQUytVlo) | 3:51 |
+| 21 | [Praise The Lord \- Live](https://open.spotify.com/track/5Hxcds4VSqx8sWJK0ZoRaj) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Matthew Harris](https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN) | [Praise The Lord \(Live\)](https://open.spotify.com/album/1ZFTdand5Rxb5mkQUytVlo) | 3:51 |
 | 22 | [Here I Am To Worship \- Live](https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Ultimate Worship: Hillsong \(Live\)](https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL) | 3:40 |
 | 23 | [Plead The Blood \- Live](https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Plead The Blood + The Dove \(Live\)](https://open.spotify.com/album/39du73MQ23fX3ts4CqMFqE) | 7:21 |
 | 24 | [I've Witnessed It \- Single Version](https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:29 |

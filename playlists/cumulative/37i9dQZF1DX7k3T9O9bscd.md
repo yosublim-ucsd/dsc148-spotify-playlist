@@ -2,7 +2,7 @@
 
 ### [Neo\-Psychedelic Rock](https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd)
 
-> Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
+> Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
 289 songs - 23 hr 20 min
 
@@ -49,7 +49,7 @@
 | [Bulls](https://open.spotify.com/track/53wEWsjRb8gjZ7xr8BLzZu) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through the War \(Deluxe Edition\)](https://open.spotify.com/album/1oc26cvGUrojmXC0C4CmYl) | 6:40 | 2021-11-12 | 2022-07-29 |
 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 | 2021-11-12 |  |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-11-12 | 2022-06-18 |
-| [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 |  |
+| [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 | 2023-08-03 |
 | [Busca Ayuda](https://open.spotify.com/track/60zGVY9oWBrgvR4dMOyYjy) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Busca Ayuda](https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi) | 3:51 | 2023-03-16 | 2023-03-25 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-06-27 |
@@ -178,7 +178,7 @@
 | [Ninja Partisi](https://open.spotify.com/track/1civ8niQt12qzLrgiAeJ8I) | [Lalalar](https://open.spotify.com/artist/6CWQ7KWveleaeFagKCz26T) | [Ninja Partisi](https://open.spotify.com/album/4onGiuk6cVH5MTREVJb2ZX) | 2:35 | 2021-11-12 | 2022-07-19 |
 | [No Me Conoces](https://open.spotify.com/track/2dluCYr9wx0vkzp9bwrHqT) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [No Me Conoces](https://open.spotify.com/album/4UP0FdMJwjCiJxXRZfONDN) | 3:06 | 2022-02-12 | 2022-07-18 |
 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 | 2023-06-26 |  |
-| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 | 2022-10-03 |
+| [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 | 2022-09-30 |  |
 | [Norfolk Hotel](https://open.spotify.com/track/78YBItbz15ENXz3F67cDno) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unfold](https://open.spotify.com/album/7M9pKniOt8uH8sWQwdQFMD) | 4:34 | 2022-09-30 | 2023-03-08 |
 | [Nànnuflày](https://open.spotify.com/track/2ntjrFwp2AvA2vHTbJrgmX) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Elwan](https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE) | 5:03 | 2021-11-12 |  |
 | [Nànnuflày](https://open.spotify.com/track/3ufQJOCGyXCzoXIuGEAvpG) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Elwan](https://open.spotify.com/album/55iBUPoUCslfK6Wt1WKY2v) | 5:03 | 2021-11-12 | 2022-07-29 |

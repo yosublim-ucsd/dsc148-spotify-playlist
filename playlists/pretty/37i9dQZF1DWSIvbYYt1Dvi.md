@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > sain é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,977 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,057 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH) | 2:20 |
 | 50 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 
-Snapshot ID: `MCxkMDk3YTdiODZhMTYyNGY5NTc4MTI0YWE0ZWVhMDQ0OGUyM2FmZjU4`
+Snapshot ID: `MCwxZjdkYTEwNjAyOTUwMTI2YzNlNTdmM2IwYzFhYmMzMGVkZjliMTkz`

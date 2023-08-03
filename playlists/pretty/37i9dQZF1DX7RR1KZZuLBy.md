@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 88 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,628 likes - 88 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 87 | [Graves Into Gardens](https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:43 |
 | 88 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 |
 
-Snapshot ID: `MCw1ZmY4NjA0Njk4OWNlMWQzMDQzZTNhZGIzZWI4MjYyNjA5YzM2N2Yy`
+Snapshot ID: `MCxmYWFiMzVkODM3Y2Y0YjMyNDk4OTIwMzkwMDU0YWM2ZTgyYTg2NDcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,259 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,286 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NzAadCccWE.md) - [plain]
 | 79 | [Booyaka Style](https://open.spotify.com/track/6vpltvodYAxx3mmPn9DpDB) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [0860](https://open.spotify.com/album/0Qw8BLun3UNP3eTjKdDUML) | 4:19 |
 | 80 | [Spacey \- Doctor Jeep Remix](https://open.spotify.com/track/1k1pfKYdhsRwWL9VOJfimM) | [Bell Curve](https://open.spotify.com/artist/1DMtZ4G72tuqMxRiJNTkQf), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3), [Doctor Jeep](https://open.spotify.com/artist/1vBAyx7wNfBDrAmWsGDRdA) | [Unstable Orbit \(The Remixes\)](https://open.spotify.com/album/70XksiP2lIBxRpbo0UAjSo) | 6:01 |
 
-Snapshot ID: `MCw2N2NlODEwMGEyYWM0OTFmNDkwNDkyMDFmY2FjMjU0MmYxZjk3NDYx`
+Snapshot ID: `MCw4MTYxZmMwYzY2MGQ3NDYwNGZlODE1NzMwYWQzMDJhZmYzYjI1NGYy`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 311333,
+  "num_followers": 311437,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmUyMGEyN2EzOTIwNzJjZmYyNTM5MDIwYzFhMGM2ZjgxNDUwOWRk",
+  "snapshot_id": "MCw1ZjQwZTM0ZTZiZDQ5ZmRhOGFkMDJmNGE3MjYwZDdlYzc0M2VlOTFj",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 255500,
       "name": "We Are",
       "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd"
+      },
+      "artists": [
+        {
+          "name": "Dirty Freud",
+          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
+        },
+        {
+          "name": "Szou",
+          "url": "https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
       },
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd"
-      },
-      "artists": [
-        {
-          "name": "Dirty Freud",
-          "url": "https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S"
-        },
-        {
-          "name": "Szou",
-          "url": "https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Only Diamonds Cut Diamonds",
         "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 185168,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 185168,
+      "name": "Above",
+      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "What Kinda Music (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 189683,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "What Kinda Music (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 189683,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
     },
     {
       "added_at": "2022-06-20 14:19:42",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGFhYWNhNWE0ZDc2NDEzNWFkZTZhYjk2YTNkN2Q5NWY3MDIxYjRh",
+  "snapshot_id": "MCw4MWNjMjJjZjY5M2U2ZTZmNWVkMzQyYTY0OWQ5NTYwYWRlNTM0OWJm",
   "tracks": [
     {
       "added_at": "2022-06-20 14:23:17",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
     },
     {
       "added_at": "2022-06-20 14:23:17",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-06-20 14:23:17",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
-    },
-    {
-      "added_at": "2022-06-20 14:23:17",
-      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf"
+    },
+    {
+      "added_at": "2022-06-20 14:23:17",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB"
     },
     {
       "added_at": "2022-06-20 14:23:17",

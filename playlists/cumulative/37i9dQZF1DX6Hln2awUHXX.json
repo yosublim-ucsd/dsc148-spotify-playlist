@@ -2222,22 +2222,6 @@
           "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
         },
         {
-          "name": "Olga Legkova",
-          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
-        },
-        {
-          "name": "Andrei Popov",
-          "url": "https://open.spotify.com/artist/1j2yBOp3xiD7AsVJsW7HYY"
-        },
-        {
-          "name": "Yuri Vorobiev",
-          "url": "https://open.spotify.com/artist/2N20GV8gHRPvMrMW4pko8H"
-        },
-        {
-          "name": "Alexander Timchenko",
-          "url": "https://open.spotify.com/artist/6iQo3FrcMYOOjSFGls5gQK"
-        },
-        {
           "name": "Violeta Urmana",
           "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
         },
@@ -2246,8 +2230,24 @@
           "url": "https://open.spotify.com/artist/0QLk7WTsSEa7zhJg0B89FP"
         },
         {
+          "name": "Yuri Vorobiev",
+          "url": "https://open.spotify.com/artist/2N20GV8gHRPvMrMW4pko8H"
+        },
+        {
           "name": "Lia Shevtsova",
           "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
+        },
+        {
+          "name": "Olga Legkova",
+          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
+        },
+        {
+          "name": "Alexander Timchenko",
+          "url": "https://open.spotify.com/artist/6iQo3FrcMYOOjSFGls5gQK"
+        },
+        {
+          "name": "Andrei Popov",
+          "url": "https://open.spotify.com/artist/1j2yBOp3xiD7AsVJsW7HYY"
         },
         {
           "name": "Valery Gergiev",
@@ -2280,16 +2280,8 @@
           "url": "https://open.spotify.com/artist/4H643hPA44WZRSbvXiYwQ5"
         },
         {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Alexei Tanovitski",
-          "url": "https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+          "name": "Gary Lehman",
+          "url": "https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK"
         },
         {
           "name": "Violeta Urmana",
@@ -2300,20 +2292,28 @@
           "url": "https://open.spotify.com/artist/54B5CQqpjezJJcYpuslgAX"
         },
         {
-          "name": "Mariinsky Children's Chorus",
-          "url": "https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ"
-        },
-        {
-          "name": "Mariinsky Chorus",
-          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
+          "name": "Alexei Tanovitski",
+          "url": "https://open.spotify.com/artist/4Pxzsw0pdCfn67bW6bF66D"
         },
         {
           "name": "Nikolai Putilin",
           "url": "https://open.spotify.com/artist/0L9FBSnHsitCWR9pfBzzyJ"
         },
         {
-          "name": "Gary Lehman",
-          "url": "https://open.spotify.com/artist/1jkXtb0T1H2Zjp9O1WNgaK"
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Mariinsky Chorus",
+          "url": "https://open.spotify.com/artist/2esGRwnpJhd1gztq6qrbpO"
+        },
+        {
+          "name": "Mariinsky Children's Chorus",
+          "url": "https://open.spotify.com/artist/7g5bIiGt7w8drBwtBUoXZQ"
         }
       ],
       "date_added": "2021-10-29",

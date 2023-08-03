@@ -1,12 +1,12 @@
 {
   "description": "Sounds of birds, rain, and forest ambience.",
-  "num_followers": 962873,
+  "num_followers": 963050,
   "original_name": "Nature Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTRiYWZmNDJkNTdkMTE1ODdjNGY2ZTIzNzJlZDgxNzY3MmFmMDM5",
+  "snapshot_id": "MCwyYmYzNGFkNzYwZWFmNTRhNTJmMjZmYjM3ZGM2NDY2NjY0NDBjOTZi",
   "tracks": [
     {
       "added_at": "2023-06-20 11:27:48",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Ocean Calmness",
-        "url": "https://open.spotify.com/album/3XU2dLIkoFYTqIlpZOKpqA"
-      },
-      "artists": [
-        {
-          "name": "Aqua Mori",
-          "url": "https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X"
-        }
-      ],
-      "duration_ms": 126877,
-      "name": "Ocean Calmness",
-      "url": "https://open.spotify.com/track/3PRHjxciZrPsj9IVyv6sbF"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
         "name": "Rain Healing",
         "url": "https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 174000,
       "name": "Rain Healing",
       "url": "https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
+        "name": "Ocean Calmness",
+        "url": "https://open.spotify.com/album/3XU2dLIkoFYTqIlpZOKpqA"
+      },
+      "artists": [
+        {
+          "name": "Aqua Mori",
+          "url": "https://open.spotify.com/artist/57mq2ABiWJNQXkliuTjn8X"
+        }
+      ],
+      "duration_ms": 126877,
+      "name": "Ocean Calmness",
+      "url": "https://open.spotify.com/track/3PRHjxciZrPsj9IVyv6sbF"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Morning Forest Birds",
-        "url": "https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B"
-      },
-      "artists": [
-        {
-          "name": "Swedish Forest Birds",
-          "url": "https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N"
-        }
-      ],
-      "duration_ms": 178329,
-      "name": "Bird-watching",
-      "url": "https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
         "name": "Nature Hideout",
         "url": "https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
+        "name": "Morning Forest Birds",
+        "url": "https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B"
+      },
+      "artists": [
+        {
+          "name": "Swedish Forest Birds",
+          "url": "https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N"
+        }
+      ],
+      "duration_ms": 178329,
+      "name": "Bird-watching",
+      "url": "https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Spring Birds",
-        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
-      },
-      "artists": [
-        {
-          "name": "Nano Sounds",
-          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
-        }
-      ],
-      "duration_ms": 176100,
-      "name": "Relaxing Bird Sounds",
-      "url": "https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
         "name": "Thicket Winging",
         "url": "https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 376298,
       "name": "Lakeside Repose",
       "url": "https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
+      },
+      "artists": [
+        {
+          "name": "Nano Sounds",
+          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
+        }
+      ],
+      "duration_ms": 176100,
+      "name": "Relaxing Bird Sounds",
+      "url": "https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
+        "name": "Calming Rainforest Paradise",
+        "url": "https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Rainforest Serenade",
+      "url": "https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
         "name": "Jungle And Forest Sounds",
         "url": "https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 258000,
       "name": "Light Forest Rain Long",
       "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
-        "name": "Calming Rainforest Paradise",
-        "url": "https://open.spotify.com/album/1E7KduKpRq5w5iEYZujOVS"
-      },
-      "artists": [
-        {
-          "name": "The Forest Escape",
-          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Rainforest Serenade",
-      "url": "https://open.spotify.com/track/0dguPNtnbUCe083OmrABuA"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Water Sounds",
-        "url": "https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW"
-      },
-      "artists": [
-        {
-          "name": "Catching Sleep",
-          "url": "https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "Calming Wave Sound",
-      "url": "https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
         "name": "Organic Rain",
         "url": "https://open.spotify.com/album/683UAPLzNPkJg8K2tQQPdN"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 200000,
       "name": "Unaltered Rain",
       "url": "https://open.spotify.com/track/6lBKEeemzxQ4lWGFW9EfTi"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
+        "name": "Water Sounds",
+        "url": "https://open.spotify.com/album/1Fx0PVCZ7pDj3nvoLHHepW"
+      },
+      "artists": [
+        {
+          "name": "Catching Sleep",
+          "url": "https://open.spotify.com/artist/6qsH16CZ8j8s0RWRlgjyW2"
+        }
+      ],
+      "duration_ms": 230706,
+      "name": "Calming Wave Sound",
+      "url": "https://open.spotify.com/track/4lX2tuWNd6wUJqBnywOViu"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "precip",
-        "url": "https://open.spotify.com/album/2wmOEwDHDcPHuSkJM7NDcp"
+        "name": "Myanmar Rain",
+        "url": "https://open.spotify.com/album/47NVh2pWSGVJLL860oCXxR"
       },
       "artists": [
         {
-          "name": "Zuni",
-          "url": "https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6"
+          "name": "Mandalay Hill",
+          "url": "https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP"
         }
       ],
-      "duration_ms": 155827,
-      "name": "Taking Cover From Rain",
-      "url": "https://open.spotify.com/track/4h7CjznZSWhWp7hgotMUjM"
+      "duration_ms": 208000,
+      "name": "Rainforest During The Night",
+      "url": "https://open.spotify.com/track/166UFdIQFu7c7DKJy0bu6F"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Myanmar Rain",
-        "url": "https://open.spotify.com/album/47NVh2pWSGVJLL860oCXxR"
+        "name": "precip",
+        "url": "https://open.spotify.com/album/2wmOEwDHDcPHuSkJM7NDcp"
       },
       "artists": [
         {
-          "name": "Mandalay Hill",
-          "url": "https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP"
+          "name": "Zuni",
+          "url": "https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Rainforest During The Night",
-      "url": "https://open.spotify.com/track/166UFdIQFu7c7DKJy0bu6F"
+      "duration_ms": 155827,
+      "name": "Taking Cover From Rain",
+      "url": "https://open.spotify.com/track/4h7CjznZSWhWp7hgotMUjM"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "3D Audio Textures of Birds & Water",
-        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
       "artists": [
         {
-          "name": "Shaman",
-          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
         }
       ],
-      "duration_ms": 192250,
-      "name": "Close to the River, Birds Watching",
-      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
+      "duration_ms": 146000,
+      "name": "Light Forest Rain 1",
+      "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
+        "name": "3D Audio Textures of Birds & Water",
+        "url": "https://open.spotify.com/album/0IVTahDgPVYrsC56rid7Mu"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "Close to the River, Birds Watching",
+      "url": "https://open.spotify.com/track/05K6un84uxHhHlmel2WWnu"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
         "name": "Soul Healing Birds",
         "url": "https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
-      },
-      "artists": [
-        {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Light Forest Rain 1",
-      "url": "https://open.spotify.com/track/14oV03JSrcUShNmJw0qUvH"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Bird Life",
-        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
-      },
-      "artists": [
-        {
-          "name": "Beyond North",
-          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bird Life",
-      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
         "name": "Coffee & Rainy days",
         "url": "https://open.spotify.com/album/5D9WRlINa7DWtIiAl6YGtZ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 212000,
       "name": "Gentle Rain",
       "url": "https://open.spotify.com/track/1U5tJubfZ9KQ7mLiOnXx0g"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
+        "name": "Bird Life",
+        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
+      },
+      "artists": [
+        {
+          "name": "Beyond North",
+          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Bird Life",
+      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Nature's Rain, Oceans, Rivers",
-        "url": "https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo"
+        "name": "Rain Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
       },
       "artists": [
         {
-          "name": "Dozy Sounds",
-          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
         }
       ],
-      "duration_ms": 137244,
-      "name": "River Close with Birds - River",
-      "url": "https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE"
+      "duration_ms": 130548,
+      "name": "Morning Rain",
+      "url": "https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Rain Sounds Vol. 1",
-        "url": "https://open.spotify.com/album/5qyBJ814BTtn20m8dXbTxj"
+        "name": "Nature's Rain, Oceans, Rivers",
+        "url": "https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo"
       },
       "artists": [
         {
-          "name": "Worldwide Nature Studios",
-          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
         }
       ],
-      "duration_ms": 130548,
-      "name": "Morning Rain",
-      "url": "https://open.spotify.com/track/4rOmpvrIMLau6Hig9GSmp1"
+      "duration_ms": 137244,
+      "name": "River Close with Birds - River",
+      "url": "https://open.spotify.com/track/2KdUMPBKthc1lz3DascPlE"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "River Creek with Birds",
-        "url": "https://open.spotify.com/album/7D8W0fJf9Fbv2mNb2ytf8F"
-      },
-      "artists": [
-        {
-          "name": "Deep Sleep FX",
-          "url": "https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae"
-        }
-      ],
-      "duration_ms": 143822,
-      "name": "River Creek with Birds",
-      "url": "https://open.spotify.com/track/5CK7gGerbMibYcXaifKK27"
-    },
-    {
-      "added_at": "2023-06-20 11:27:48",
-      "album": {
         "name": "Healing Nature FX",
         "url": "https://open.spotify.com/album/7r5nyATm1tTfXTtWakmyry"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 126316,
       "name": "Forest And Wind",
       "url": "https://open.spotify.com/track/0lJyUC8jqlT0L8Ak1YqL1i"
+    },
+    {
+      "added_at": "2023-06-20 11:27:48",
+      "album": {
+        "name": "River Creek with Birds",
+        "url": "https://open.spotify.com/album/7D8W0fJf9Fbv2mNb2ytf8F"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep FX",
+          "url": "https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae"
+        }
+      ],
+      "duration_ms": 143822,
+      "name": "River Creek with Birds",
+      "url": "https://open.spotify.com/track/5CK7gGerbMibYcXaifKK27"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "Small Birds and Swirling Stream",
-        "url": "https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod"
+        "name": "The Forest Symphony",
+        "url": "https://open.spotify.com/album/7cdf3vtNr1DFNvuJ3ZgczE"
       },
       "artists": [
         {
-          "name": "Alisha Pearce",
-          "url": "https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln"
+          "name": "Nature Nerd",
+          "url": "https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO"
         }
       ],
-      "duration_ms": 149541,
-      "name": "Small Birds and Swirling Stream",
-      "url": "https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y"
+      "duration_ms": 109489,
+      "name": "The Sounds of Nature",
+      "url": "https://open.spotify.com/track/3gAE1tbD6F2oNPB2Ae1sal"
     },
     {
       "added_at": "2023-06-20 11:27:48",
@@ -1995,18 +1995,18 @@
     {
       "added_at": "2023-06-20 11:27:48",
       "album": {
-        "name": "The Forest Symphony",
-        "url": "https://open.spotify.com/album/7cdf3vtNr1DFNvuJ3ZgczE"
+        "name": "Small Birds and Swirling Stream",
+        "url": "https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod"
       },
       "artists": [
         {
-          "name": "Nature Nerd",
-          "url": "https://open.spotify.com/artist/6TH1CGqCrzFrdQFHiYWaaO"
+          "name": "Alisha Pearce",
+          "url": "https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln"
         }
       ],
-      "duration_ms": 109489,
-      "name": "The Sounds of Nature",
-      "url": "https://open.spotify.com/track/3gAE1tbD6F2oNPB2Ae1sal"
+      "duration_ms": 149541,
+      "name": "Small Birds and Swirling Stream",
+      "url": "https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y"
     },
     {
       "added_at": "2023-06-20 11:27:48",

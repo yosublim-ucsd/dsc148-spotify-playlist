@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 50306,
+  "num_followers": 50339,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3",
+  "snapshot_id": "MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Everybody Want Sum",
-        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Sheez Music",
-      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "What We Got Together",
         "url": "https://open.spotify.com/album/5uWedPD8C7hbLJ4iD3aV18"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 155933,
       "name": "Funk That Junk",
       "url": "https://open.spotify.com/track/5Lto3D5kr8dmalcZ0hRp2G"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Everybody Want Sum",
+        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Sheez Music",
+      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1407,18 +1407,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
+        "name": "Vs.",
+        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
       "artists": [
         {
-          "name": "Electro Deluxe",
-          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Daniel Merriweather",
+          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
         }
       ],
-      "duration_ms": 271054,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+      "duration_ms": 224832,
+      "name": "Losin' Streak (feat. Daniel Merriweather)",
+      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1455,22 +1459,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Vs.",
-        "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Daniel Merriweather",
-          "url": "https://open.spotify.com/artist/6HD2mo0Gz8wd8IbOXYwUfN"
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
         }
       ],
-      "duration_ms": 224832,
-      "name": "Losin' Streak (feat. Daniel Merriweather)",
-      "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
+      "duration_ms": 271054,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1615,26 +1635,6 @@
       "duration_ms": 165450,
       "name": "F.y.g",
       "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

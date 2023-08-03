@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-466 songs - 1 day 1 hr 58 min
+467 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-02-17 | 2023-04-22 |
 | [Boulangerie](https://open.spotify.com/track/36tuyoS2mGSzN7dMIuTHpM) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Heart Baby](https://open.spotify.com/album/5Hub95rVF5waxlr8LWgTFq) | 3:18 | 2021-03-10 | 2023-03-25 |
 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 | 2022-05-27 | 2023-04-23 |
-| [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-11-19 |  |
+| [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 | 2021-11-19 | 2023-08-03 |
 | [broken](https://open.spotify.com/track/1anwgwnvLAcrItcXMpc2Py) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [broken](https://open.spotify.com/album/7L4jwvvdwZjT0lcMDDGjlg) | 3:24 | 2021-03-10 | 2022-07-20 |
 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 | 2022-06-27 | 2023-06-01 |
 | [broken people](https://open.spotify.com/track/0GOffguGbp8RViiVFaPCU2) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [broken people](https://open.spotify.com/album/1c6RRctmMXed2DPqTrmPYq) | 3:22 | 2021-03-10 | 2022-07-30 |
@@ -287,6 +287,7 @@
 | [Not Too Late](https://open.spotify.com/track/0ig4lxtPqcFTUopvk57nQy) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Not Too Late](https://open.spotify.com/album/4vjxGn7u7g7MN3KEGnagOG) | 3:15 | 2022-03-11 | 2022-04-15 |
 | [Nothing Can Kill Us](https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 2:50 | 2021-11-19 | 2022-07-29 |
 | [Nothing To Lose](https://open.spotify.com/track/4bEdcyI0l4zX2Ut5m5Xrhw) | [Saint Nomad](https://open.spotify.com/artist/6DDZJCwSnNF361mUwPEm4G) | [Nothing To Lose](https://open.spotify.com/album/5iuJo58XqIENkyviBJ4dil) | 2:44 | 2021-03-10 | 2022-07-29 |
+| [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-06-30 |  |
 | [Odyssey](https://open.spotify.com/track/3ULSfbtXLBo4AehHye9ft9) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/69TTmajR0erSyTATVPd4cK) | 3:46 | 2023-06-30 | 2023-07-28 |
 | [OK OK](https://open.spotify.com/track/0UCSqy0XuSN3FUITKjtljZ) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [OK OK](https://open.spotify.com/album/17htbKcPmAWkYatIbrwSla) | 2:17 | 2021-03-10 | 2022-04-21 |
 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 | 2021-03-10 | 2022-05-27 |

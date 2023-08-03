@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 213119,
+  "num_followers": 213224,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
+  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Leon Ware",
-        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
-      },
-      "artists": [
-        {
-          "name": "Leon Ware",
-          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Why I Came to California",
-      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Friends and Buddies",
         "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 252026,
       "name": "Keep It Up",
       "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Leon Ware",
+        "url": "https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE"
+      },
+      "artists": [
+        {
+          "name": "Leon Ware",
+          "url": "https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Why I Came to California",
+      "url": "https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Goody Goody",
-        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
-      },
-      "artists": [
-        {
-          "name": "Goody Goody",
-          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
-        }
-      ],
-      "duration_ms": 383093,
-      "name": "It Looks Like Love",
-      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 280417,
       "name": "Crushed Ice",
       "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Goody Goody",
+        "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
+      },
+      "artists": [
+        {
+          "name": "Goody Goody",
+          "url": "https://open.spotify.com/artist/6eFek3d0IKoYQvVCqpS5z3"
+        }
+      ],
+      "duration_ms": 383093,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
     },
     {
       "added_at": "2022-09-05 16:54:43",

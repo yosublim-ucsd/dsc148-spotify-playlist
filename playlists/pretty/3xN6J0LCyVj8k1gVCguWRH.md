@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Some of Barack Obama&\#x27;s favorite summer songs\. Includes 22, 21 &amp; 20 editions + bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,771 likes - 211 songs - 13 hr 12 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 107,798 likes - 213 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,13 +211,15 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 201 | [Original](https://open.spotify.com/track/6SwJ1LmZlDfAXAAK69DD4s) | [ZeXzy](https://open.spotify.com/artist/3IwO7IAIsQn4UHafxRHESo) | [Original](https://open.spotify.com/album/5acvWxZ969AIuEZUfo2Zl0) | 2:17 |
 | 202 | [U](https://open.spotify.com/track/4W3E1iqokP4a7gxhmFVSQ7) | [DEVYN](https://open.spotify.com/artist/0bGqpP4SR4bLk3YGoCkUNa) | [U](https://open.spotify.com/album/2kH77BDSmtklpuKoiygYZ0) | 3:24 |
 | 203 | [Si Me Das Tu Vida](https://open.spotify.com/track/0bcy1ViuqTZzUODRz4f0hI) | [Carlo Meucci](https://open.spotify.com/artist/2m4YO3P3mXSrX52wPoH2xa) | [Si Me Das Tu Vida](https://open.spotify.com/album/2SF29zcTKB84GrSVAdQKGl) | 3:19 |
-| 204 | [WHO WANNA](https://open.spotify.com/track/3OHwyWngrL2JAh6RAkP604) | [DNO](https://open.spotify.com/artist/380XUYYaz6UgFWsJqqgokp) | [WHO WANNA](https://open.spotify.com/album/7JIQgeFjGHJg33xR22CfN4) | 2:48 |
-| 205 | [Snorkel](https://open.spotify.com/track/2WxLRzVS5Pn6YZEGV4gRF9) | [Gianni](https://open.spotify.com/artist/471tKsyg8QSWGj8DKb8wWx) | [Snorkel](https://open.spotify.com/album/0kKoiw4VwS76k0iQDGDhvd) | 2:54 |
-| 206 | [Purple Vibe](https://open.spotify.com/track/3t3i0UrUWY9peqGNv1FC0l) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Purple Vibe](https://open.spotify.com/album/0iix9XgCNDMrYeQ8YLUHoq) | 3:18 |
-| 207 | [I've Been Thinkin'](https://open.spotify.com/track/6MoPMnHRcbGhfKt2o10Ski) | [WeAreJackStrong](https://open.spotify.com/artist/2TwHvbBNrI0KWXu7Kmo6nO) | [I've Been Thinkin'](https://open.spotify.com/album/4QVzhy0uILAWTqTjaLFerE) | 4:01 |
-| 208 | [RGT](https://open.spotify.com/track/5a6OuYsZsNdynbsRMyrENl) | [RiViGi](https://open.spotify.com/artist/7hFivlSa04N5OKeTlKS4Ck) | [RGT](https://open.spotify.com/album/2kkm0zTtc2xDa7kJjx9Y3n) | 2:33 |
-| 209 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 |
-| 210 | [Free Bird](https://open.spotify.com/track/6ohZJm6vyUwfqD7btyXq8T) | [Tukei](https://open.spotify.com/artist/5dSg4m1es4pzxJGVB9b9r0) | [About a Girl](https://open.spotify.com/album/36xBEgKZ6mrDYJZ27i4Ogs) | 2:49 |
-| 211 | [Go Away \- Ruff Loaderz Remix](https://open.spotify.com/track/6gUF7Ttrzw6Ac5h5nqS9qr) | [Tammy Mariah](https://open.spotify.com/artist/3t5VkiTnKZaWLBxJKVDR63), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Go Away](https://open.spotify.com/album/72zS92lhmOqUapcjyJGkDr) | 2:48 |
+| 204 | [Ámame](https://open.spotify.com/track/4lVEs3EYFMkTifF8yv431e) | [Josh Galiano](https://open.spotify.com/artist/0GZ6S7003D6b9eikFZv3bb), [Dari Ferrari](https://open.spotify.com/artist/5FEBQmIIz1XSLMDOUm6QnP) | [Ámame](https://open.spotify.com/album/2goL997K0dt0lSLQiOZQIL) | 3:07 |
+| 205 | [WHO WANNA](https://open.spotify.com/track/3OHwyWngrL2JAh6RAkP604) | [DNO](https://open.spotify.com/artist/380XUYYaz6UgFWsJqqgokp) | [WHO WANNA](https://open.spotify.com/album/7JIQgeFjGHJg33xR22CfN4) | 2:48 |
+| 206 | [Venus](https://open.spotify.com/track/6mdDuI5mMFotaaqV6xdelZ) | [Wolf Frank](https://open.spotify.com/artist/1lHClXJkJvJBPmbmr0x4fI) | [Venus](https://open.spotify.com/album/2fumueCa5VrF5pHsOFuqeB) | 3:18 |
+| 207 | [Snorkel](https://open.spotify.com/track/2WxLRzVS5Pn6YZEGV4gRF9) | [Gianni](https://open.spotify.com/artist/471tKsyg8QSWGj8DKb8wWx) | [Snorkel](https://open.spotify.com/album/0kKoiw4VwS76k0iQDGDhvd) | 2:54 |
+| 208 | [Purple Vibe](https://open.spotify.com/track/3t3i0UrUWY9peqGNv1FC0l) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Purple Vibe](https://open.spotify.com/album/0iix9XgCNDMrYeQ8YLUHoq) | 3:18 |
+| 209 | [I've Been Thinkin'](https://open.spotify.com/track/6MoPMnHRcbGhfKt2o10Ski) | [WeAreJackStrong](https://open.spotify.com/artist/2TwHvbBNrI0KWXu7Kmo6nO) | [I've Been Thinkin'](https://open.spotify.com/album/4QVzhy0uILAWTqTjaLFerE) | 4:01 |
+| 210 | [RGT](https://open.spotify.com/track/5a6OuYsZsNdynbsRMyrENl) | [RiViGi](https://open.spotify.com/artist/7hFivlSa04N5OKeTlKS4Ck) | [RGT](https://open.spotify.com/album/2kkm0zTtc2xDa7kJjx9Y3n) | 2:33 |
+| 211 | [Lifestyle](https://open.spotify.com/track/5f9J4trMV4wy1yDciKy9Zh) | [Imthxfuture](https://open.spotify.com/artist/5WlZDIBOMnTL1gUUmvapG6) | [Lifestyle](https://open.spotify.com/album/3JhQroYCsiQhmDU1n475kh) | 2:57 |
+| 212 | [Free Bird](https://open.spotify.com/track/6ohZJm6vyUwfqD7btyXq8T) | [Tukei](https://open.spotify.com/artist/5dSg4m1es4pzxJGVB9b9r0) | [About a Girl](https://open.spotify.com/album/36xBEgKZ6mrDYJZ27i4Ogs) | 2:49 |
+| 213 | [Go Away \- Ruff Loaderz Remix](https://open.spotify.com/track/6gUF7Ttrzw6Ac5h5nqS9qr) | [Tammy Mariah](https://open.spotify.com/artist/3t5VkiTnKZaWLBxJKVDR63), [Ruff Loaderz](https://open.spotify.com/artist/5JOIrGvup0vD5VjodB62Ui) | [Go Away](https://open.spotify.com/album/72zS92lhmOqUapcjyJGkDr) | 2:48 |
 
-Snapshot ID: `NTM2NSxkZjkzYzIwNDg0ZTFjNWM4NjJlY2Q2N2U0NWQxMWY4NjUxN2Y3Njdl`
+Snapshot ID: `NTM3MixjNWE1MjY3YzMzNTU4ZWM0MWVhODNlYmJhYTU3MjRkNTVmNWFmYmNl`

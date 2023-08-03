@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: CHAI
 
-683 songs - 1 day 18 hr 44 min
+686 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [DIScommunication](https://open.spotify.com/track/69Xc4wPl8QDY5Mt9StUmQc) | [Rasen.](https://open.spotify.com/artist/6YP3gT2SzsGxYinr85SUSs) | [Togaru to Rasen.](https://open.spotify.com/album/3cfCCF47aaXjD3l8YB5GtF) | 2:57 | 2023-03-23 | 2023-03-29 |
 | [DOMBIESS](https://open.spotify.com/track/2U5932H4qdMDFegfvZ6RhS) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [DOMBIESS](https://open.spotify.com/album/6y0bTTNpuVCc9kPW7dy48r) | 2:21 | 2023-05-16 | 2023-05-18 |
 | [DOMBIESS](https://open.spotify.com/track/7DCN3bFIPq3Z51fis90DDr) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [DOMBIESS](https://open.spotify.com/album/6pBewdnRD0pDVNYFRrIcl8) | 2:21 | 2023-05-16 | 2023-06-07 |
-| [dominant](https://open.spotify.com/track/6jhTaDzyQaAprtb5jkUUT1) | [paionia](https://open.spotify.com/artist/2keUnfkvAavHXvVEvSf83e) | [PRODUCT](https://open.spotify.com/album/2cLIgKYvkPvWuzQteFaRrv) | 3:46 | 2023-08-01 |  |
+| [dominant](https://open.spotify.com/track/2TLiHD7syW3nhek7ExvHrM) | [paionia](https://open.spotify.com/artist/2keUnfkvAavHXvVEvSf83e) | [PRODUCT](https://open.spotify.com/album/07sY55TEuC9V9xTPaZTj3w) | 3:46 | 2023-08-01 |  |
+| [dominant](https://open.spotify.com/track/6jhTaDzyQaAprtb5jkUUT1) | [paionia](https://open.spotify.com/artist/2keUnfkvAavHXvVEvSf83e) | [PRODUCT](https://open.spotify.com/album/2cLIgKYvkPvWuzQteFaRrv) | 3:46 | 2023-08-01 | 2023-08-03 |
 | [don't call me queen](https://open.spotify.com/track/6LEN840bmAq5qa1z9ZXVZr) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:14 | 2023-05-10 | 2023-07-28 |
 | [Don't Obsess](https://open.spotify.com/track/1VPdPQ7xmxOyCQodIw24R0) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:52 | 2023-04-04 | 2023-04-12 |
 | [door](https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [door](https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc) | 3:47 | 2023-05-09 | 2023-05-11 |
@@ -138,7 +139,8 @@
 | [Fdf](https://open.spotify.com/track/6wL0CLtCHzui9KjyDrvWL5) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Fdf](https://open.spotify.com/album/6RDqH9ClqrKLPAYS1WecKF) | 3:38 | 2023-03-28 | 2023-04-05 |
 | [FIVE](https://open.spotify.com/track/1zn0JzlJ9NtW96a3ZCsTfV) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:30 | 2023-03-23 | 2023-04-19 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2023-01-12 |  |
-| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 |  |
+| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 | 2023-08-03 |
+| [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2023-08-01 |  |
 | [Flowing](https://open.spotify.com/track/0HLCzCW6ja01PiywKAgX6V) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Flowing](https://open.spotify.com/album/2gWO71K4dQhPqMbYK4MN2D) | 5:53 | 2023-07-27 |  |
 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 | 2023-06-27 | 2023-07-26 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 |  |
@@ -273,7 +275,8 @@
 | [narashite \- Audiotree Live Version](https://open.spotify.com/track/71fkJnR1lE164GspbrcFUA) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [HARU NEMURI on Audiotree Live](https://open.spotify.com/album/4VJQdztVh2Pkt6nOt7h1D3) | 3:17 | 2023-02-14 | 2023-03-29 |
 | [Natsu Tenshi](https://open.spotify.com/track/6ChVqC6I8TbLkbHez0bRwq) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Natsu Tenshi](https://open.spotify.com/album/2w9xpvHCmhTAQafp19EquG) | 3:52 | 2023-07-04 | 2023-07-19 |
 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 | 2023-04-04 | 2023-04-12 |
-| [NEO KAWAII, K?](https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP) | 2:34 | 2023-08-01 |  |
+| [NEO KAWAII, K?](https://open.spotify.com/track/2siIbMULAykz9QXLUYYMGL) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/0FKPgVDEbL8d6zAq5bFSEW) | 2:34 | 2023-08-01 |  |
+| [NEO KAWAII, K?](https://open.spotify.com/track/5jkxqNR8T2vYEJxFMVpBUW) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [NEO KAWAII, K?](https://open.spotify.com/album/3RCeV2YBV20IpFZl3WWnsP) | 2:34 | 2023-08-01 | 2023-08-03 |
 | [NEO TOKIO](https://open.spotify.com/track/0AVOwrlP4bIDhlgow1JiSt) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [NEO TOKIO](https://open.spotify.com/album/2Mp4PgoQYX6X4WprgjsIFo) | 2:37 | 2023-01-12 | 2023-01-18 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-24 | 2023-02-17 |
 | [NEW HEAVEN](https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [NEW HEAVEN](https://open.spotify.com/album/6D32g4mlYcDmRkphuDeK8c) | 15:00 | 2023-01-17 | 2023-02-03 |

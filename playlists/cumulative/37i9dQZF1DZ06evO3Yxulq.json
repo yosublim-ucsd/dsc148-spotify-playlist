@@ -49,6 +49,36 @@
     },
     {
       "album": {
+        "name": "Aleluya (Gloria al Rey) [Live]",
+        "url": "https://open.spotify.com/album/1dWPC7jkHgkohBmPz3zwZm"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Armando Sanchez",
+          "url": "https://open.spotify.com/artist/7q7TQRaFKtXF11dDH90IzI"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357785,
+      "name": "Aleluya (Gloria al Rey) - Live",
+      "url": "https://open.spotify.com/track/4L7IkK1GvTd36H4tOBkIIT"
+    },
+    {
+      "album": {
         "name": "Ancla",
         "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
       },
@@ -956,7 +986,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 343819,
       "name": "No Me Fallar\u00e1s (A\u00fan As\u00ed)",
       "url": "https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW"

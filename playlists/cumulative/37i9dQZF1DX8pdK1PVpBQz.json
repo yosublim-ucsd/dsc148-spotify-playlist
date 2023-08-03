@@ -4623,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "Blind Surgeon",
+        "url": "https://open.spotify.com/album/78Nr3p7YcQw1jjDl38VWYM"
+      },
+      "artists": [
+        {
+          "name": "THE\u00c5DORE",
+          "url": "https://open.spotify.com/artist/5g77htaAYDVJnQ70hBkdR1"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Blind Surgeon",
+      "url": "https://open.spotify.com/track/4TIiK2i7PFlHFTYEgb40Sj"
+    },
+    {
+      "album": {
         "name": "Blood On The Dancefloor",
         "url": "https://open.spotify.com/album/6t8sHzcPqMRdrB2QVwh3Mv"
       },

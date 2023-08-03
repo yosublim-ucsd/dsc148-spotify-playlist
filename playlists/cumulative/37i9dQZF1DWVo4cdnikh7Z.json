@@ -3651,6 +3651,36 @@
     },
     {
       "album": {
+        "name": "Eer Uravugal (From \"LGM\")",
+        "url": "https://open.spotify.com/album/1x5iKnTmef1g4K5NNCfqZM"
+      },
+      "artists": [
+        {
+          "name": "Ramesh Thamilmani",
+          "url": "https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Ravi G",
+          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "Nithyashree Venkataramanan",
+          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243913,
+      "name": "Eer Uravugal (From \"LGM\")",
+      "url": "https://open.spotify.com/track/0depHQU3XmxAEB4qbEEcF4"
+    },
+    {
+      "album": {
         "name": "Ella Ella - Ganster Gangaraju",
         "url": "https://open.spotify.com/album/7Ii0a6dZbDjmRkb0TegHqr"
       },
@@ -4556,7 +4586,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 153214,
       "name": "Gopura Poove Va (From \"Deivamachan\")",
       "url": "https://open.spotify.com/track/2zFNeBSyWPytAmwamFTgQo"
@@ -6378,7 +6408,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 260557,
       "name": "Kakkan Endra Mamanidhan (From \"Kakkan\")",
       "url": "https://open.spotify.com/track/5OSbUNw663t1hGVMF1cYbt"
@@ -7210,7 +7240,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 160000,
       "name": "Karaivathu Kadaley (From \"Raakadhan\")",
       "url": "https://open.spotify.com/track/0F1PN2wpM2U9ufX5LTO23f"
@@ -7946,7 +7976,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 210000,
       "name": "Kushi Title Song (From \"Kushi\")",
       "url": "https://open.spotify.com/track/1SuFZNCwocZu6lIp40GPmv"
@@ -7972,7 +8002,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Kushi Title Song (From \"Kushi\") (Tamil)",
       "url": "https://open.spotify.com/track/4a0SCd5iq23JqRBZO8j3ao"
@@ -8730,6 +8760,10 @@
         {
           "name": "Ravi G",
           "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         }
       ],
       "date_added": "2023-07-12",
@@ -9404,7 +9438,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 274000,
       "name": "Mescaline (From \"Raakadhan\")",
       "url": "https://open.spotify.com/track/03vyxk86I3vq4yLTaoKPuO"
@@ -11653,6 +11687,32 @@
     },
     {
       "album": {
+        "name": "Oru Ezhai Deivam (From \"Kakkan\")",
+        "url": "https://open.spotify.com/album/0UkAWX0C7Flek0j0mBiBoo"
+      },
+      "artists": [
+        {
+          "name": "Velmurugan",
+          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Ekadesi",
+          "url": "https://open.spotify.com/artist/2UgsCwpYI65SnAwpaokb9c"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324642,
+      "name": "Oru Ezhai Deivam (From \"Kakkan\")",
+      "url": "https://open.spotify.com/track/4ZBYvNfwE0E1FhvZScXOcX"
+    },
+    {
+      "album": {
         "name": "Paper Rocket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT"
       },
@@ -12490,7 +12550,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 257920,
       "name": "Pimpilikki",
       "url": "https://open.spotify.com/track/6JDCfNJqupwXIk2D2bT6pR"
@@ -12818,6 +12878,10 @@
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         }
       ],
       "date_added": "2023-07-12",
@@ -16406,7 +16470,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 202631,
       "name": "Tikki Tikki Tata",
       "url": "https://open.spotify.com/track/5Z0K5b68hblpK0P9MdG14V"
@@ -17544,7 +17608,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 324472,
       "name": "Vaa Veera (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/2FK51rLMRSqPMTouEG6Dfj"

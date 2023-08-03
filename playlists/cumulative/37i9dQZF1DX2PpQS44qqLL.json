@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 263346,
       "name": "Amor fasc\u00edname",
       "url": "https://open.spotify.com/track/34fUwEAJL7CI2ymqQ1TGyN"
@@ -7158,6 +7158,24 @@
       "duration_ms": 212245,
       "name": "Volvere",
       "url": "https://open.spotify.com/track/6wCPAfCrCLXUQhjnCumNz3"
+    },
+    {
+      "album": {
+        "name": "Hay Amores... Y Amores",
+        "url": "https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc"
+      },
+      "artists": [
+        {
+          "name": "Sergio Facheli",
+          "url": "https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211905,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0"
     },
     {
       "album": {

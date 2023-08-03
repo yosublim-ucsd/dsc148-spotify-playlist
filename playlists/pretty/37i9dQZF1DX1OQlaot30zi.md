@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Villabanks, Shiva, Rvfv, AVA e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,091 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,113 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [Mondo](https://open.spotify.com/track/59X6H3MkreCKMEIxxwgkt1) | [Omar Santana](https://open.spotify.com/artist/1YWiJW7jkySfhAb94IDQpP) | [Mondo](https://open.spotify.com/album/3h0Dm7yp5T6GEtIrJ2Yebt) | 3:13 |
 | 80 | [DALLA BOCCA DEL LEONE](https://open.spotify.com/track/7pJi1PluxYw3yUdQHI1Kmp) | [A1](https://open.spotify.com/artist/6rTM68RrcrscQ8LNIBhPsK) | [DALLA BOCCA DEL LEONE](https://open.spotify.com/album/0OKdhCbU3xKAEM8GhdMh58) | 3:09 |
 
-Snapshot ID: `MCxmZWM1MWFhMGIzNzI2OGIyYjkzZTgxMDI1OWRiZGIzNGMyZDA0OTVh`
+Snapshot ID: `MCw4ZGI1NWQyNmMxMjljYjgyMGY4YjBjNDdjYzdjNDEwYTc3NGRmZmEw`

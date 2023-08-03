@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Angel of the Streets",
+        "url": "https://open.spotify.com/album/1T96o8QM0mLzeZWIHPK0Om"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157375,
+      "name": "Angel of the Streets",
+      "url": "https://open.spotify.com/track/4jjKahC3wcNfl5sQ1P0yWl"
+    },
+    {
+      "album": {
         "name": "Another Half",
         "url": "https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy"
       },
@@ -12652,7 +12670,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 167866,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/3GIUq2N1YFL1KZe2zjw7qz"

@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 267632,
+  "num_followers": 267615,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWM4ZmM4MGJmZGU3ZDkwZTYxYWJhMjY5YmEyNzFiNGM4OWU1YjMw",
+  "snapshot_id": "MCw3MzQwM2YyZGNmN2Y5NTUzMDM4YjQyMjFhMjg1MzkzYmMyMzBhZDI1",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -319,6 +319,26 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "When You Believe - from The Prince of Egypt",
+      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Aladdin Special Edition",
         "url": "https://open.spotify.com/album/7bt2aty3lUo6Q1Ud8pthRz"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 160800,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/1hwdPQtFHISvZ9SXMkNrIK"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "When You Believe - from The Prince of Egypt",
-      "url": "https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "You Must Love Me",
+      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Slumdog Millionaire - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/2oJI1pZ52LD11fgIaxEdRx"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 319346,
       "name": "Jai Ho",
       "url": "https://open.spotify.com/track/4i3MgUew8ynhf49Qwr4IP4"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "You Must Love Me",
-      "url": "https://open.spotify.com/track/78JPL7uIfs6Imm57r1QETk"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Toy Story Favorites",
         "url": "https://open.spotify.com/album/3ngbNRREg1a0DBxQ2tJ936"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 213880,
       "name": "I Need To Wake Up",
       "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sooner or Later",
-      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
     }
   ],
   "unique_name": "Hollywood's Big Night",

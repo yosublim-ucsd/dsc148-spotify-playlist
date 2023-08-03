@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-328 songs - 20 hr 2 min
+329 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw) | [Rainee Blake](https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3) | [Closer](https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh) | 3:49 | 2022-08-09 |  |
 | [Come Around and Love Me](https://open.spotify.com/track/6lB0AAe5f8msn8vqUNkVsN) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around And Love Me](https://open.spotify.com/album/7Fy0ZdCb6q5RC0J6y0PN8t) | 3:04 | 2023-06-30 | 2023-07-29 |
-| [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 | 2023-05-19 |  |
+| [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 | 2023-05-19 | 2023-08-03 |
+| [Come Back Home](https://open.spotify.com/track/755XOeQGLAEknUSCBFvwtI) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:17 | 2023-05-19 |  |
 | [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-04 |  |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-09 |  |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-13 | 2023-03-25 |

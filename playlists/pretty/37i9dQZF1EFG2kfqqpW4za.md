@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 444 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 30 | [Música de Jah](https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:14 |
 | 31 | [Nossa História](https://open.spotify.com/track/5rKCM8XNjePhS9srpKPWYm) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 5:00 |
 | 32 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 |
-| 33 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
-| 34 | [Martim de Sá](https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:57 |
+| 33 | [Martim de Sá](https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:57 |
+| 34 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
 | 35 | [Um Novo Amanhecer \- Ao Vivo](https://open.spotify.com/track/0quexAwNw8E8AUjJAGdLlf) | [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Planta e Raiz no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/1WWkbeVJxqyVgfRemIBZjY) | 3:58 |
 | 36 | [Reggae de Terreiro \(Ciência do Quintal\)](https://open.spotify.com/track/5VdkYKtQEESduHKaxG0hpV) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Jorge Du Peixe](https://open.spotify.com/artist/2yS2oUDkJ9M5xdCZLjnzL8) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 5:06 |
 | 37 | [Fogo e Água](https://open.spotify.com/track/1b6Vidw42PX4RJWbCFaCQP) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 4:18 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 59 | [Sensei \(feat\. Helio Bentes\)](https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 4:09 |
 | 60 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `MjgxODIzNzAsMDAwMDAwMDBkYjYzMGYxMDBkNDRkMGM0YzRiYjQzYzM0NWIzMjY4Yw==`
+Snapshot ID: `MjgxODM4MTAsMDAwMDAwMDBkNmFlNzdmNTgyNDM0OTc0NTUwNTE3MjhkOWNlMWRjYw==`

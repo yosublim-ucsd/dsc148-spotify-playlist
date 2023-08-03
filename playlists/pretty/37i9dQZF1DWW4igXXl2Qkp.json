@@ -1,13 +1,53 @@
 {
   "description": "The best new Hip-Hop by independent artists and labels. Updates every Wednesday. Cover: <a href=\"spotify:artist:3yQMCDmPQPJlf6xJMzcnZL\">Chow Lee</a>",
-  "num_followers": 215005,
+  "num_followers": 215257,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWU5ZmMzZGExMzdmMGVkNmEzNTFjNmQ4OTQ4OGMzMzVkODkzYzEx",
+  "snapshot_id": "MCxlZTIxMjllZTQ1YzdhMmQ1M2Y5ZjIzNjgyMzkwMmE2NDEzNGJlNWM0",
   "tracks": [
+    {
+      "added_at": "2023-08-02 04:09:00",
+      "album": {
+        "name": "YUHEAME",
+        "url": "https://open.spotify.com/album/4uyOCYd8FfdEmpEecnmtVr"
+      },
+      "artists": [
+        {
+          "name": "TyFontaine",
+          "url": "https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4"
+        },
+        {
+          "name": "SJR",
+          "url": "https://open.spotify.com/artist/2RRjr5GZ4WbrXcz9ySV4gY"
+        },
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "duration_ms": 135211,
+      "name": "C'mon",
+      "url": "https://open.spotify.com/track/4zZEI1gBrPWpdYrPZWJHDM"
+    },
+    {
+      "added_at": "2023-08-02 04:36:47",
+      "album": {
+        "name": "ugly as fuck fr",
+        "url": "https://open.spotify.com/album/3b8F4SKEIl4hiEf20pbi6i"
+      },
+      "artists": [
+        {
+          "name": "Stone Cold Jzzle",
+          "url": "https://open.spotify.com/artist/7neg7L2aQRvIrkuVpiclvm"
+        }
+      ],
+      "duration_ms": 95468,
+      "name": "ugly as fuck fr",
+      "url": "https://open.spotify.com/track/0B6n9KAQMHyq4mqJXuj3NJ"
+    },
     {
       "added_at": "2023-06-28 13:52:04",
       "album": {
@@ -23,6 +63,22 @@
       "duration_ms": 162461,
       "name": "Bezzal Land",
       "url": "https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2"
+    },
+    {
+      "added_at": "2023-07-12 07:00:00",
+      "album": {
+        "name": "Making Love",
+        "url": "https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9"
+      },
+      "artists": [
+        {
+          "name": "Treety",
+          "url": "https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL"
+        }
+      ],
+      "duration_ms": 178824,
+      "name": "Making Love",
+      "url": "https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -41,6 +97,22 @@
       "url": "https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq"
     },
     {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Take No Loss",
+        "url": "https://open.spotify.com/album/7wJozRE4PEbtkaunQkdGLn"
+      },
+      "artists": [
+        {
+          "name": "Al-Doms",
+          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Take No Loss",
+      "url": "https://open.spotify.com/track/6yIyL5IczTvWlMndlKXtRu"
+    },
+    {
       "added_at": "2023-07-12 07:00:00",
       "album": {
         "name": "SUPERSEXXXYSUMMER",
@@ -57,20 +129,56 @@
       "url": "https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ"
     },
     {
-      "added_at": "2023-07-26 04:00:00",
+      "added_at": "2023-08-02 04:09:00",
       "album": {
-        "name": "HUNNIBUN",
-        "url": "https://open.spotify.com/album/5dI9g0Jt0YhqRiQN57w9t9"
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv"
       },
       "artists": [
         {
-          "name": "FLEE",
-          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
+          "name": "Yung Pooda",
+          "url": "https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
         }
       ],
-      "duration_ms": 104594,
-      "name": "HUNNIBUN",
-      "url": "https://open.spotify.com/track/2xXhtxILUKEeCUVs9Qf6R3"
+      "duration_ms": 170765,
+      "name": "Somebody (Explicit)",
+      "url": "https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp"
+    },
+    {
+      "added_at": "2023-08-02 04:09:00",
+      "album": {
+        "name": "Time Lost",
+        "url": "https://open.spotify.com/album/1oDjaZuzYA2AR2UBeUYzlu"
+      },
+      "artists": [
+        {
+          "name": "Major Nine",
+          "url": "https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE"
+        }
+      ],
+      "duration_ms": 161750,
+      "name": "Time Lost",
+      "url": "https://open.spotify.com/track/4nEW595LAMPzRpkEJaDtDh"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
+        "name": "The Tale Of King Hendrix",
+        "url": "https://open.spotify.com/album/77rPPDgoLg6lcdz6BiZKS0"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "Kick The Cup",
+      "url": "https://open.spotify.com/track/7DCCPxnYlgJ4ygq0WkkmGJ"
     },
     {
       "added_at": "2023-07-26 04:00:00",
@@ -91,6 +199,22 @@
     {
       "added_at": "2023-07-26 04:00:00",
       "album": {
+        "name": "Rich & Jaded",
+        "url": "https://open.spotify.com/album/31ZFqAoVgjxyY6mwxV2VZh"
+      },
+      "artists": [
+        {
+          "name": "Real Slummy",
+          "url": "https://open.spotify.com/artist/53LWf3K7p5ElELiezWaleL"
+        }
+      ],
+      "duration_ms": 108769,
+      "name": "Balmain Paris",
+      "url": "https://open.spotify.com/track/6BP9KQxqWEBoQrhwxugjcI"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
         "name": "SZN 2",
         "url": "https://open.spotify.com/album/1Ex7GXej7dLQ1DU7UiEZQM"
       },
@@ -103,6 +227,38 @@
       "duration_ms": 73025,
       "name": "YALL BLOWING MINES",
       "url": "https://open.spotify.com/track/0l8VaQ80N0l03wmiBipHBy"
+    },
+    {
+      "added_at": "2023-08-02 04:09:00",
+      "album": {
+        "name": "Shadows with a Blunt (Ruff Kutz II)",
+        "url": "https://open.spotify.com/album/1VT5qPHMZo2He4dYL4dZ9z"
+      },
+      "artists": [
+        {
+          "name": "A-Kil",
+          "url": "https://open.spotify.com/artist/0HAFuqnN3f0EJy4VdOHium"
+        }
+      ],
+      "duration_ms": 249790,
+      "name": "SMILE",
+      "url": "https://open.spotify.com/track/7GJY1hH5HyCO9AyYIN3HKK"
+    },
+    {
+      "added_at": "2023-07-12 07:00:00",
+      "album": {
+        "name": "Even Angels Cry",
+        "url": "https://open.spotify.com/album/1enh91yqFweTpPqDUP7I1g"
+      },
+      "artists": [
+        {
+          "name": "PETROS",
+          "url": "https://open.spotify.com/artist/2kRc6Pdf9Jt1fJgrAysiOm"
+        }
+      ],
+      "duration_ms": 118235,
+      "name": "Even Angels Cry",
+      "url": "https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO"
     },
     {
       "added_at": "2023-07-26 04:00:00",
@@ -137,20 +293,36 @@
       "url": "https://open.spotify.com/track/6Y1nNd6fuIFcbOvTYWhQ2K"
     },
     {
-      "added_at": "2023-07-12 07:00:00",
+      "added_at": "2023-08-02 04:09:00",
       "album": {
-        "name": "Making Love",
-        "url": "https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9"
+        "name": "Deceitful",
+        "url": "https://open.spotify.com/album/1PkI3BMxx77IGHi18eoOZ7"
       },
       "artists": [
         {
-          "name": "Treety",
-          "url": "https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL"
+          "name": "Tel Money",
+          "url": "https://open.spotify.com/artist/0tZEZDemDVkndCOnjHyrAW"
         }
       ],
-      "duration_ms": 178824,
-      "name": "Making Love",
-      "url": "https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H"
+      "duration_ms": 228205,
+      "name": "Deceitful",
+      "url": "https://open.spotify.com/track/0UDvzsHbNCIqKWcKfR2W9l"
+    },
+    {
+      "added_at": "2023-07-26 04:00:00",
+      "album": {
+        "name": "HUNNIBUN",
+        "url": "https://open.spotify.com/album/5dI9g0Jt0YhqRiQN57w9t9"
+      },
+      "artists": [
+        {
+          "name": "FLEE",
+          "url": "https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p"
+        }
+      ],
+      "duration_ms": 104594,
+      "name": "HUNNIBUN",
+      "url": "https://open.spotify.com/track/2xXhtxILUKEeCUVs9Qf6R3"
     },
     {
       "added_at": "2023-07-19 04:00:00",
@@ -205,52 +377,40 @@
       "url": "https://open.spotify.com/track/2qBjjoInzpq2OtlxMdAB6p"
     },
     {
-      "added_at": "2023-07-26 04:00:00",
+      "added_at": "2023-08-02 04:09:00",
       "album": {
-        "name": "Rich & Jaded",
-        "url": "https://open.spotify.com/album/31ZFqAoVgjxyY6mwxV2VZh"
+        "name": "Any Given Scheme Day",
+        "url": "https://open.spotify.com/album/7hiKjRALDT8VuvNokpLVFn"
       },
       "artists": [
         {
-          "name": "Real Slummy",
-          "url": "https://open.spotify.com/artist/53LWf3K7p5ElELiezWaleL"
+          "name": "Monday Night",
+          "url": "https://open.spotify.com/artist/2McZu1EnlbfSEz7TG5jTQ3"
+        },
+        {
+          "name": "Nitty Blanco",
+          "url": "https://open.spotify.com/artist/26PZ7draKxKZyznhh4Wqpu"
         }
       ],
-      "duration_ms": 108769,
-      "name": "Balmain Paris",
-      "url": "https://open.spotify.com/track/6BP9KQxqWEBoQrhwxugjcI"
+      "duration_ms": 165944,
+      "name": "Convinced",
+      "url": "https://open.spotify.com/track/1GlfXjdVNECLDikJRRg3Vu"
     },
     {
-      "added_at": "2023-07-26 04:00:00",
+      "added_at": "2023-08-02 04:09:00",
       "album": {
-        "name": "The Tale Of King Hendrix",
-        "url": "https://open.spotify.com/album/77rPPDgoLg6lcdz6BiZKS0"
+        "name": "Make It Boom",
+        "url": "https://open.spotify.com/album/0svUbzZ908kF2f6AcAs8j4"
       },
       "artists": [
         {
-          "name": "King Hendrick$",
-          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+          "name": "LeVeon Bell",
+          "url": "https://open.spotify.com/artist/7DNfpmCwtLVE6RVFYWaN5w"
         }
       ],
-      "duration_ms": 154482,
-      "name": "Kick The Cup",
-      "url": "https://open.spotify.com/track/7DCCPxnYlgJ4ygq0WkkmGJ"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "Take No Loss",
-        "url": "https://open.spotify.com/album/7wJozRE4PEbtkaunQkdGLn"
-      },
-      "artists": [
-        {
-          "name": "Al-Doms",
-          "url": "https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Take No Loss",
-      "url": "https://open.spotify.com/track/6yIyL5IczTvWlMndlKXtRu"
+      "duration_ms": 140595,
+      "name": "Make It Boom",
+      "url": "https://open.spotify.com/track/4skAu73SkZYXC7qpDn0fnh"
     },
     {
       "added_at": "2023-07-26 04:00:00",
@@ -319,22 +479,6 @@
     {
       "added_at": "2023-07-19 04:00:00",
       "album": {
-        "name": "POPSTAR",
-        "url": "https://open.spotify.com/album/4Vo7MdEU444vesnHfHWi4b"
-      },
-      "artists": [
-        {
-          "name": "Tac",
-          "url": "https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "POPSTAR",
-      "url": "https://open.spotify.com/track/1cv1fc7ROfBivIBXrTLpEj"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
         "name": "Stop Playing",
         "url": "https://open.spotify.com/album/4NTOhajbvWZBuzdC0Rjfh3"
       },
@@ -347,22 +491,6 @@
       "duration_ms": 124085,
       "name": "Boner",
       "url": "https://open.spotify.com/track/3rALLrKGsYRLXBYceGnZXB"
-    },
-    {
-      "added_at": "2023-07-12 07:00:00",
-      "album": {
-        "name": "Even Angels Cry",
-        "url": "https://open.spotify.com/album/1enh91yqFweTpPqDUP7I1g"
-      },
-      "artists": [
-        {
-          "name": "PETROS",
-          "url": "https://open.spotify.com/artist/2kRc6Pdf9Jt1fJgrAysiOm"
-        }
-      ],
-      "duration_ms": 118235,
-      "name": "Even Angels Cry",
-      "url": "https://open.spotify.com/track/1pvCpLYXBn713dHe7cjZVO"
     },
     {
       "added_at": "2023-06-28 13:52:04",
@@ -379,22 +507,6 @@
       "duration_ms": 100122,
       "name": "Na Na Na",
       "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
-    },
-    {
-      "added_at": "2023-06-14 16:00:00",
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "SkeeYee",
-      "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
     },
     {
       "added_at": "2023-05-17 16:00:00",
@@ -801,26 +913,6 @@
       "url": "https://open.spotify.com/track/72GWqrm4hPOJQ8zh3qf1bf"
     },
     {
-      "added_at": "2023-07-12 07:00:00",
-      "album": {
-        "name": "Retail Addict",
-        "url": "https://open.spotify.com/album/17KYcQXKlBQ6ENAkVhfQAC"
-      },
-      "artists": [
-        {
-          "name": "Ghostluvme",
-          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
-        },
-        {
-          "name": "Lil Gotit",
-          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Retail Addict",
-      "url": "https://open.spotify.com/track/1icVhtcnPEk9SBIIpmh50P"
-    },
-    {
       "added_at": "2023-06-21 16:00:00",
       "album": {
         "name": "NIGHTCAP",
@@ -887,26 +979,6 @@
       "duration_ms": 144914,
       "name": "DON'T COUNT ME OUT",
       "url": "https://open.spotify.com/track/4Rc8EXnq3AUZ5lziyRTpYV"
-    },
-    {
-      "added_at": "2023-06-14 16:00:00",
-      "album": {
-        "name": "Angela Bassett (Radio Edit)",
-        "url": "https://open.spotify.com/album/3zr2Sx5df4utliKGc7kgur"
-      },
-      "artists": [
-        {
-          "name": "LORD JAH-MONTE OGBON",
-          "url": "https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0"
-        },
-        {
-          "name": "Denzel Davon",
-          "url": "https://open.spotify.com/artist/3JnBzcREiYxw4N1hka7HJG"
-        }
-      ],
-      "duration_ms": 209278,
-      "name": "Angela Bassett - Radio Edit",
-      "url": "https://open.spotify.com/track/38u2C9aUAoYCsY9on5Qgvh"
     },
     {
       "added_at": "2023-06-07 16:00:00",
@@ -1005,26 +1077,6 @@
       "url": "https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN"
     },
     {
-      "added_at": "2023-05-31 13:09:44",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo"
-      },
-      "artists": [
-        {
-          "name": "Dom Corleo",
-          "url": "https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F"
-        },
-        {
-          "name": "Yung Kayo",
-          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "S3 X",
-      "url": "https://open.spotify.com/track/0Gm3lagTye1zcIJkF8wh7c"
-    },
-    {
       "added_at": "2023-05-24 16:00:00",
       "album": {
         "name": "lost n' found",
@@ -1121,22 +1173,6 @@
       "url": "https://open.spotify.com/track/6pO0ZoWeeXoa3xOZH0eRzF"
     },
     {
-      "added_at": "2023-05-17 16:00:00",
-      "album": {
-        "name": "Sex For Breakfast",
-        "url": "https://open.spotify.com/album/5VDKGBeuR8JL94hmeAX91D"
-      },
-      "artists": [
-        {
-          "name": "Asoh Black!",
-          "url": "https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg"
-        }
-      ],
-      "duration_ms": 92400,
-      "name": "Sex For Breakfast",
-      "url": "https://open.spotify.com/track/6FdwRsOEOYBDPwdMyCK1LF"
-    },
-    {
       "added_at": "2023-05-10 16:00:00",
       "album": {
         "name": "That Boat Sailed",
@@ -1179,22 +1215,6 @@
       "duration_ms": 130619,
       "name": "summer heat",
       "url": "https://open.spotify.com/track/7lQiTriCtJYEXaK3Lz1foK"
-    },
-    {
-      "added_at": "2023-05-10 16:00:00",
-      "album": {
-        "name": "GOOD GUYS",
-        "url": "https://open.spotify.com/album/3rco725IKm4H8xoReOKUE6"
-      },
-      "artists": [
-        {
-          "name": "OD",
-          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
-        }
-      ],
-      "duration_ms": 152904,
-      "name": "GOOD GUYS",
-      "url": "https://open.spotify.com/track/68tqTEwnCTQzGZKyB0fB1E"
     },
     {
       "added_at": "2023-04-12 16:34:45",
@@ -1251,22 +1271,6 @@
       "duration_ms": 236054,
       "name": "Didn't They Know",
       "url": "https://open.spotify.com/track/6Xdc8szFsACleon5lP6rBI"
-    },
-    {
-      "added_at": "2023-05-03 16:00:00",
-      "album": {
-        "name": "Know Me",
-        "url": "https://open.spotify.com/album/1Biwvw8IsdXoNxNmu8mVZ0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Home",
-          "url": "https://open.spotify.com/artist/1FfDs6OihC3kY6Vfs1p0oa"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Know Me",
-      "url": "https://open.spotify.com/track/4NFED5LmGWoE2s8DLLJdfC"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ?si=09f41d2c8af64483">Forrest Frank</a> and <a href="https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk?si=eb81ee17c6974f97">Chandler Moore</a> of <a href="https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV?si=e7329a2c54c54fea">Maverick City Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,566,807 likes - 99 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,567,173 likes - 99 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 98 | [Something Better](https://open.spotify.com/track/2oMV6710ZfkU1ZTtZrhyHL) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Something Better](https://open.spotify.com/album/2WM90lCeuhwcW30awCgFtN) | 3:01 |
 | 99 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 
-Snapshot ID: `MCw0MGRlZmNjMzM1Yjk1OGEwYjRiZjkyYzBjZmZkMzZhOGUzZjBiYzQy`
+Snapshot ID: `MCw2ZTM4ZGI5Y2I0N2ExOTA2ZGExNjM3NDEzN2IyZjNiNzkwZmI5YjU4`

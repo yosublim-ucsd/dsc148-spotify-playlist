@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,940 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,025 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 11 | [Kuch ghadi aur](https://open.spotify.com/track/3pwYsNSjZNzcp9wOt28gVI) | [Samiir](https://open.spotify.com/artist/6E4rMwXlr9mQh5BbSlw3oR), [Avanish Bhalla](https://open.spotify.com/artist/5RJvc3CEkxK4WVkeKzu9Dc) | [Kuch ghadi aur](https://open.spotify.com/album/6PD8Mtm1k4teXgjIY2QPRw) | 4:08 |
 | 12 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 |
 | 13 | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \- Trending](https://open.spotify.com/track/5nJR43Y1coIT3QPchuCGfw) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Tere Vaaste \(From "Zara Hatke Zara Bachke"\) \[Trending\]](https://open.spotify.com/album/2KHpvJmpbbLlWMH1eY1vWh) | 2:56 |
-| 14 | [Acche Hain](https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Acche Hain](https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt) | 2:16 |
+| 14 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 |
 | 15 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 |
 | 16 | [Tu Jo Yahan](https://open.spotify.com/track/1fULK4j53eq4WKcf3HM49K) | [Sreejone](https://open.spotify.com/artist/5Gc5Dav4w12nqmXwFce9Ik), [Musiciankur](https://open.spotify.com/artist/7zO6WL2IncO3uF24faEIXo) | [Tu Jo Yahan](https://open.spotify.com/album/3P9fCFad8hbkKU8GXCC4cC) | 3:06 |
-| 17 | [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 |
+| 17 | [Acche Hain](https://open.spotify.com/track/6dxq28SkzTofI0p7mAarhl) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Acche Hain](https://open.spotify.com/album/5Q875wNYcM8u0jQJav8mDt) | 2:16 |
 | 18 | [Baarishon Mein](https://open.spotify.com/track/5vy3eZEsqsDH06DVtyvuLj) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Baarishon Mein](https://open.spotify.com/album/28cnP6Q0Nk6D0Ty7spGDWq) | 3:43 |
 | 19 | [Tu](https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2) | [JEKS](https://open.spotify.com/artist/6aXh2DuJMdQBtd235sTUrl) | [Tu](https://open.spotify.com/album/5I7KqxcjKqJDX6Ne2yDLrR) | 2:16 |
 | 20 | [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Patang](https://open.spotify.com/track/6RD9dthWpHuwQj1CDENCZD) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:35 |
 | 75 | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 |
 
-Snapshot ID: `MCw1NWY4NWE3MWQ4ZDJlYWRjZDVlZTBjODA1ZjlmYzIyN2FmNjg4N2Fm`
+Snapshot ID: `MCwyMGQ0MGQ2Njk3ODRkYmM0ZGY3MDVhNjBmNjU0OWMxZDkzZGRjMTg4`

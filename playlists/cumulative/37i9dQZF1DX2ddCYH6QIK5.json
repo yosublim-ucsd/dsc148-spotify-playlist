@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Tanzcaf\u00e9 Attersee, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Luca Malina, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 192433,
       "name": "All The Voices",
       "url": "https://open.spotify.com/track/2r2Tnqvp9ByZNTqKm38jnY"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 150000,
       "name": "Augen",
       "url": "https://open.spotify.com/track/0igeCyTuzvZJff1u4qQwaZ"
@@ -2526,7 +2526,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 187000,
       "name": "Click On It",
       "url": "https://open.spotify.com/track/1YQBSstf3y6GMI9ojqgolg"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 152040,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/2qyv57mrpBiKXfelbGLfFW"
@@ -2674,6 +2674,24 @@
       "duration_ms": 188755,
       "name": "Come, Show Me the Horizon",
       "url": "https://open.spotify.com/track/72owOvEGttiWajeDRBA7Cy"
+    },
+    {
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/6avNboztlF6tRjNX6Ww5Dm"
+      },
+      "artists": [
+        {
+          "name": "PHILIAZ",
+          "url": "https://open.spotify.com/artist/5tSLRFfKpAjS2sfBHJHwHH"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201451,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/63rcli8BBqokoWyMNaCK0p"
     },
     {
       "album": {
@@ -3817,6 +3835,24 @@
     },
     {
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/5Uejj3L5Yh5F9OOKHDkEYH"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Raschke",
+          "url": "https://open.spotify.com/artist/6IJSvFITTxANPakKiCYyl7"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396865,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/66sBQP4haQGislypMN3reX"
+    },
+    {
+      "album": {
         "name": "Dysfunctioning",
         "url": "https://open.spotify.com/album/2nf9BfbSilt2jcW5t9rUXJ"
       },
@@ -4818,7 +4854,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 214287,
       "name": "For What",
       "url": "https://open.spotify.com/track/6inNQGUkPTJtRZpaPnUohf"
@@ -6570,6 +6606,24 @@
       "duration_ms": 245186,
       "name": "I have a name",
       "url": "https://open.spotify.com/track/5xxLJFfElhJs5QwHlMZvjC"
+    },
+    {
+      "album": {
+        "name": "I Know I Know",
+        "url": "https://open.spotify.com/album/5zWZQgA11DddgmjVMwjHGo"
+      },
+      "artists": [
+        {
+          "name": "THE DAYZE",
+          "url": "https://open.spotify.com/artist/1O0o7ilqNyOF1RLEPsGwVj"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169272,
+      "name": "I Know I Know",
+      "url": "https://open.spotify.com/track/44KjEhXcSFZC4O0b6Piivp"
     },
     {
       "album": {
@@ -9249,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "Skinny Dipping",
+        "url": "https://open.spotify.com/album/3fqCFFaVvL05Dd49oyULrQ"
+      },
+      "artists": [
+        {
+          "name": "Pete Gel\u00e9e",
+          "url": "https://open.spotify.com/artist/3hnWBzPHPTCjeWKsMcsFTW"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "Night Dive",
+      "url": "https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA"
+    },
+    {
+      "album": {
         "name": "No Hero, That's Fine",
         "url": "https://open.spotify.com/album/7djkSeB0OSaTIJG1REj2A1"
       },
@@ -9577,6 +9649,24 @@
     },
     {
       "album": {
+        "name": "N\u00fcchtern",
+        "url": "https://open.spotify.com/album/6WUXZIaIWBs3ZFLHqPUSTQ"
+      },
+      "artists": [
+        {
+          "name": "conan.luis",
+          "url": "https://open.spotify.com/artist/1H9Smm4OzNFwBB0BELY2PD"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "N\u00fcchtern",
+      "url": "https://open.spotify.com/track/5icCIjVswBQXGwnlgqMoJN"
+    },
+    {
+      "album": {
         "name": "Oasen aus Beton",
         "url": "https://open.spotify.com/album/2mIiJXegxXcGa8LFIp8URd"
       },
@@ -9870,7 +9960,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 263900,
       "name": "Only Lovers Left Alive",
       "url": "https://open.spotify.com/track/6hLG0nWEe7PckF4Y2PL07r"
@@ -12442,7 +12532,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 174607,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/1JHhyEM8FNdJejI8USxNiR"
@@ -13499,6 +13589,24 @@
     },
     {
       "album": {
+        "name": "Treibsand",
+        "url": "https://open.spotify.com/album/5r35nREw8nJLbHzpT2V1g2"
+      },
+      "artists": [
+        {
+          "name": "Trinity Sander",
+          "url": "https://open.spotify.com/artist/1mXFDXaPzu1OF1axZ119ZM"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "Treibsand",
+      "url": "https://open.spotify.com/track/2qZWNzN3Wwd1DmDQD2i3x7"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6b510MW2DE4m6icWc4AOOP"
       },
@@ -13532,6 +13640,24 @@
       "duration_ms": 180186,
       "name": "tristesse",
       "url": "https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ"
+    },
+    {
+      "album": {
+        "name": "Trust Me When I Lie",
+        "url": "https://open.spotify.com/album/1L0JNUvXNjaRiSZGxGBn8Z"
+      },
+      "artists": [
+        {
+          "name": "Luca Malina",
+          "url": "https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "Trust Me When I Lie",
+      "url": "https://open.spotify.com/track/669pBel16P5pZJxM20T7OA"
     },
     {
       "album": {
@@ -13770,6 +13896,24 @@
       "duration_ms": 240131,
       "name": "Unruhe",
       "url": "https://open.spotify.com/track/3jpM2iPMEEYbGb0wrG3kVO"
+    },
+    {
+      "album": {
+        "name": "Unsaid",
+        "url": "https://open.spotify.com/album/6nRaAuElEpQIiRTKwTTVmR"
+      },
+      "artists": [
+        {
+          "name": "Fabian Kuhn",
+          "url": "https://open.spotify.com/artist/3lBb4DsNd7uLyDrKk0XGbL"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249052,
+      "name": "Unsaid",
+      "url": "https://open.spotify.com/track/1hcclZ8pSg2yYlQc6XqoMT"
     },
     {
       "album": {
@@ -14127,6 +14271,28 @@
     },
     {
       "album": {
+        "name": "Wakey Wakey",
+        "url": "https://open.spotify.com/album/2taD0rdLPqkfKSIgcVcox8"
+      },
+      "artists": [
+        {
+          "name": "Pepper Levain",
+          "url": "https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m"
+        },
+        {
+          "name": "Dolly Vara",
+          "url": "https://open.spotify.com/artist/2AoMS8Eez9IpWKVsocz4in"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Wakey Wakey",
+      "url": "https://open.spotify.com/track/6WgkOAS4j7FableCK8NXEj"
+    },
+    {
+      "album": {
         "name": "Walking",
         "url": "https://open.spotify.com/album/4eP64eOXW0KChEQM0JgfQw"
       },
@@ -14304,7 +14470,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 204199,
       "name": "What I Couldn't Say",
       "url": "https://open.spotify.com/track/119IJyBIJ6EBCpzyBisJWe"
@@ -14950,7 +15116,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 193464,
       "name": "You",
       "url": "https://open.spotify.com/track/2zsrxAAFXM0Q8lOtDak3XR"

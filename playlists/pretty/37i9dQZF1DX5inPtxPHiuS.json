@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 84312,
+  "num_followers": 84325,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWQ3ZmU1NWRjNTFmOWE2ZjJjMTJiYmEwODE5ZTQ5N2YyNDdkOWFj",
+  "snapshot_id": "MCw3Y2E1ZDE5NzIxYjg2N2U3NDMxMTcxNTc0OTIyYjFhMTA0NjM4Y2E2",
   "tracks": [
     {
       "added_at": "2023-04-14 06:55:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Primavera Febril",
-        "url": "https://open.spotify.com/album/4YUGotNFarS1TGff1FkzeN"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Techo de Astros y Truenos: Fen\u00f3menos",
-      "url": "https://open.spotify.com/track/4Bz2qeU43gmHUavvtLGOKP"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Ni\u00f1o Gigante",
         "url": "https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 297456,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1YKizTW9cW02HAUdMgThf8"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Primavera Febril",
+        "url": "https://open.spotify.com/album/4YUGotNFarS1TGff1FkzeN"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Techo de Astros y Truenos: Fen\u00f3menos",
+      "url": "https://open.spotify.com/track/4Bz2qeU43gmHUavvtLGOKP"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
+        "name": "Amor Biling\u00fce",
+        "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "Ekhymosis",
+          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
         }
       ],
-      "duration_ms": 152386,
-      "name": "Baracunatana",
-      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
+      "duration_ms": 231262,
+      "name": "De Madrugada",
+      "url": "https://open.spotify.com/track/2BTIyjyThg5vaXiWBh9Vxj"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Amor Biling\u00fce",
-        "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
       },
       "artists": [
         {
-          "name": "Ekhymosis",
-          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
         }
       ],
-      "duration_ms": 231262,
-      "name": "De Madrugada",
-      "url": "https://open.spotify.com/track/2BTIyjyThg5vaXiWBh9Vxj"
+      "duration_ms": 152386,
+      "name": "Baracunatana",
+      "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -615,30 +615,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Delirio",
-        "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
-      },
-      "artists": [
-        {
-          "name": "Los Makenzy",
-          "url": "https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s"
-        },
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        },
-        {
-          "name": "Pipe Bravo",
-          "url": "https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq"
-        }
-      ],
-      "duration_ms": 210378,
-      "name": "Delirio",
-      "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -667,6 +643,30 @@
       "duration_ms": 196826,
       "name": "Planetas",
       "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Delirio",
+        "url": "https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI"
+      },
+      "artists": [
+        {
+          "name": "Los Makenzy",
+          "url": "https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s"
+        },
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "Pipe Bravo",
+          "url": "https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq"
+        }
+      ],
+      "duration_ms": 210378,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
     },
     {
       "added_at": "2023-04-14 06:55:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-14 06:55:00",
       "album": {
-        "name": "Marteko Euriak",
-        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
-      },
-      "artists": [
-        {
-          "name": "1280 Almas",
-          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
-        }
-      ],
-      "duration_ms": 175724,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
-    },
-    {
-      "added_at": "2023-04-14 06:55:00",
-      "album": {
         "name": "Antiamor",
         "url": "https://open.spotify.com/album/0uIgAixzHB6PT6MChRONXu"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223654,
       "name": "Antiamor",
       "url": "https://open.spotify.com/track/5vLg2iDE8pb6uLu11e1Vvf"
+    },
+    {
+      "added_at": "2023-04-14 06:55:00",
+      "album": {
+        "name": "Marteko Euriak",
+        "url": "https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT"
+      },
+      "artists": [
+        {
+          "name": "1280 Almas",
+          "url": "https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM"
+        }
+      ],
+      "duration_ms": 175724,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb"
     },
     {
       "added_at": "2023-04-14 06:55:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,843 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,891 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 34 | [La Diferencia](https://open.spotify.com/track/74nYy9TioHzoaPghz6m77N) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Mariachi Hit Parade](https://open.spotify.com/album/1lQUnQ5cmgVuNBgJLFIv3A) | 3:11 |
 | 35 | [Un Idiota \- En Vivo](https://open.spotify.com/track/4SOuLV8CIh8hrcfLL4BjLK) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 3:07 |
 | 36 | [Porqué No Le Calas \- Live](https://open.spotify.com/track/0Dft414yW63Hh7t5xlb8El) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [1 Vida – 3 Historias Despedida De Culiacan \(En Vivo Desde Culiacan, Mexico 2012\)](https://open.spotify.com/album/504V91nbehQse2zsrqNzHs) | 3:01 |
-| 37 | [Albur De Amor \- En Vivo](https://open.spotify.com/track/3l5svGQecEgyZBTbQClaVp) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [¡En Vivo!](https://open.spotify.com/album/31XZVGSpZN7OpJxSunWcmY) | 4:16 |
+| 37 | [La Malagueña \- En Vivo](https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Con Ustedes..\. Car10s Rivera en Vivo](https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2) | 4:53 |
 | 38 | [Me Nace del Corazón \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/6q2RdCyxpwrAY4dpXBJiKQ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:44 |
 | 39 | [Nube Viajera \- En Vivo Desde El Teatro Real](https://open.spotify.com/track/6CxF5ueVVqHgRDAwJG8XFG) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias Reales \(En Vivo Desde El Teatro Real\)](https://open.spotify.com/album/1Psmz14dcKR0QEyoUeGxXP) | 4:02 |
-| 40 | [La Malagueña \- En Vivo](https://open.spotify.com/track/0QK9r9sfr18lojfOIwPZE2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Con Ustedes..\. Car10s Rivera en Vivo](https://open.spotify.com/album/249ZBjtCsCYklCPuQDqyo2) | 4:53 |
+| 40 | [Albur De Amor \- En Vivo](https://open.spotify.com/track/3l5svGQecEgyZBTbQClaVp) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [¡En Vivo!](https://open.spotify.com/album/31XZVGSpZN7OpJxSunWcmY) | 4:16 |
 | 41 | [Por Mujeres Como Tú \- En Vivo](https://open.spotify.com/track/0LnyfUMO40rj29KE1Sg5jr) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [La Familia Aguilar En Vivo \(Live At The Plaza De Toro / Mexico City, MX / July 1998\)](https://open.spotify.com/album/3nCp3IP8zWaB6fndlAORwh) | 4:08 |
 | 42 | [Eso Y Más \- En Vivo](https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 2:37 |
 | 43 | [Acá Entre Nos \- En Vivo](https://open.spotify.com/track/5Bi3rrdkYjLlUIl37G3WEx) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 3:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
 | 75 | [Medley Kumbia \- En Vivo Auditorio Nacional](https://open.spotify.com/track/1JQvy1GtDGypfEHN8ys9fw) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Lucero En Vivo Auditorio Nacional](https://open.spotify.com/album/6oKLH9JQpGvD7qU11xS5ZD) | 7:21 |
 
-Snapshot ID: `MCwxYjcxN2Q5NTkyY2IzN2NiMTdhODQ0NzFhOWE3NWYyMWI4YTczODJj`
+Snapshot ID: `MCxlYTljODk1YmY1ZDJhYWMwNThjOGViZWFhM2RiM2ViMDVhMTA5NGM2`

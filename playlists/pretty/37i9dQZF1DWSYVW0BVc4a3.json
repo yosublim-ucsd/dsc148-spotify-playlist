@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Chris Stussy",
-  "num_followers": 91000,
+  "num_followers": 91163,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWY3NWRlNjdiN2IwZDkyNGRkYmEzOTdhMmIzOGZkMGU5NjQ4NmVm",
+  "snapshot_id": "MCw0ZTk2NjU5NjMzMzJjYThiMTM5YzY4MWRiZjc2MzM3ZGFmYmYzYmIz",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Syren",
+        "url": "https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "duration_ms": 197822,
+      "name": "Syren",
+      "url": "https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Opal (Four Tet Remix)",
         "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 214560,
       "name": "Hear you calling",
       "url": "https://open.spotify.com/track/7Lub88e9lun7Q4EsHm0HPW"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Syren",
-        "url": "https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Reb\u016bke",
-          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
-        }
-      ],
-      "duration_ms": 197822,
-      "name": "Syren",
-      "url": "https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Beyond Us (Hatshepsut Version)",
         "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 291304,
       "name": "I Need You - Adriatique Remix",
       "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1063,26 +1063,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "This Feeling (Yotto Remix)",
-        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
+        "name": "You Are My Guide",
+        "url": "https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 236078,
-      "name": "This Feeling - Yotto Remix",
-      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
+      "duration_ms": 214332,
+      "name": "You Are My Guide",
+      "url": "https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1107,6 +1099,30 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "This Feeling (Yotto Remix)",
+        "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 236078,
+      "name": "This Feeling - Yotto Remix",
+      "url": "https://open.spotify.com/track/5fZVPAWdFrPmqFZ4eZPjob"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 259838,
       "name": "All That I Lost",
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "You Are My Guide",
-        "url": "https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 214332,
-      "name": "You Are My Guide",
-      "url": "https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Euphoria (Solomun Remix)",
-        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 173079,
-      "name": "Euphoria (Solomun Remix) - Edit",
-      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Florianopolis",
         "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 141467,
       "name": "Florianopolis",
       "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Euphoria (Solomun Remix)",
+        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 173079,
+      "name": "Euphoria (Solomun Remix) - Edit",
+      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1591,6 +1591,34 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "The Dream (feat. Martina Camargo)",
+        "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 210156,
+      "name": "The Dream (feat. Martina Camargo)",
+      "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
       },
@@ -1643,6 +1671,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Criseide",
         "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
       },
@@ -1659,22 +1703,6 @@
       "duration_ms": 383562,
       "name": "Criseide",
       "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1759,34 +1787,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "The Dream (feat. Martina Camargo)",
-        "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Theus Mago",
-          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 210156,
-      "name": "The Dream (feat. Martina Camargo)",
-      "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Rej EP",
         "url": "https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4"
       },
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Fuck what u heard",
-        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 220166,
-      "name": "Fuck what u heard",
-      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Daka",
         "url": "https://open.spotify.com/album/40GiZj6Qkd45nMo4N1X10V"
       },
@@ -1835,26 +1815,6 @@
       "duration_ms": 390000,
       "name": "Daka - Original Mix",
       "url": "https://open.spotify.com/track/0h8bhIOhbhzmr1qIqSGm8p"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Mistery Lady",
-        "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
-      },
-      "artists": [
-        {
-          "name": "Curol",
-          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
-        },
-        {
-          "name": "Soulmanic",
-          "url": "https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Mistery Lady",
-      "url": "https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1879,6 +1839,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Mistery Lady",
+        "url": "https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle"
+      },
+      "artists": [
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "Soulmanic",
+          "url": "https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Mistery Lady",
+      "url": "https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Talkin' Drums",
         "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Fuck what u heard",
+        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        }
+      ],
+      "duration_ms": 220166,
+      "name": "Fuck what u heard",
+      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
     },
     {
       "added_at": "2023-07-28 04:01:00",

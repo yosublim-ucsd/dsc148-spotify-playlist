@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "\u00a1Mujeres de los Andes, a todo volumen! En portada Renata Flores.",
+  "description": "\u00a1Mujeres de los Andes, a todo volumen! En portada Diana Burco.",
   "name": "EQUAL Andes",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 190912,
       "name": "Br\u00fajula",
       "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "R\u00edo Abajo",
+        "url": "https://open.spotify.com/album/4VhTCEsjEYiXcI84mSERsJ"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189810,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1TCKFV4RdnrifdkLlkZrgi"
+    },
+    {
+      "album": {
         "name": "Cobarde (feat. Sergio George)",
         "url": "https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo"
       },
@@ -894,6 +912,24 @@
       "duration_ms": 197525,
       "name": "Coraz\u00f3n Ruidoso",
       "url": "https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Encuentre",
+        "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176056,
+      "name": "Cuando Te Encuentre",
+      "url": "https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV"
     },
     {
       "album": {
@@ -1128,7 +1164,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 186179,
       "name": "Distinta",
       "url": "https://open.spotify.com/track/2fs7BuWEsmOR7tuY7ZJWHY"
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 154500,
       "name": "ESMERALDAS (Vainarara_Bm_80BPM)",
       "url": "https://open.spotify.com/track/0YxqvalYueKU5d8kiIwxos"
@@ -1897,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL"
+    },
+    {
+      "album": {
         "name": "Mis Amores",
         "url": "https://open.spotify.com/album/1spQ6P6TdE9gqf14SoKJQa"
       },
@@ -2142,7 +2196,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 163579,
       "name": "Mar\u00eda Parado Bellido",
       "url": "https://open.spotify.com/track/67kQIZGMAN0WruRBPz3RWC"
@@ -2226,6 +2280,24 @@
       "duration_ms": 140423,
       "name": "Mesero",
       "url": "https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf"
+    },
+    {
+      "album": {
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159835,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
     },
     {
       "album": {
@@ -3144,7 +3216,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 195652,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT"
@@ -3622,7 +3694,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 184934,
       "name": "Tu Fuego",
       "url": "https://open.spotify.com/track/5pGdSWa7CAE0KJ7CXDe4rj"
@@ -3770,6 +3842,54 @@
       "duration_ms": 235968,
       "name": "Una Noche Mas",
       "url": "https://open.spotify.com/track/0YvNCaMdtxglEGFNiT9qye"
+    },
+    {
+      "album": {
+        "name": "Unidas",
+        "url": "https://open.spotify.com/album/2UuopgokCMe4KDooWHzFeh"
+      },
+      "artists": [
+        {
+          "name": "Wendy Sulca",
+          "url": "https://open.spotify.com/artist/3LY2cnBt6jqLEdJco5NBE2"
+        },
+        {
+          "name": "Renata Flores",
+          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+        },
+        {
+          "name": "Naysha",
+          "url": "https://open.spotify.com/artist/3twpCez0hiCslbriudLrxQ"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276300,
+      "name": "Unidas",
+      "url": "https://open.spotify.com/track/6GHaBE6agqqTithZth0rkk"
+    },
+    {
+      "album": {
+        "name": "Usted Ya Perdi\u00f3",
+        "url": "https://open.spotify.com/album/2sNQVKaUadzfu2fm6AI3HQ"
+      },
+      "artists": [
+        {
+          "name": "Diana Burco",
+          "url": "https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i"
+        },
+        {
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180103,
+      "name": "Usted Ya Perdi\u00f3",
+      "url": "https://open.spotify.com/track/4QSapki0YhY3b1Wc1E49Ic"
     },
     {
       "album": {

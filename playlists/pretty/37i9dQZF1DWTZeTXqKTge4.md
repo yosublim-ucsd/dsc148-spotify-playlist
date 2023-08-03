@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: GreenWoodz
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,244 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,252 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 10 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 |
 | 11 | [Je suis Lui](https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Sous Pression](https://open.spotify.com/album/4Wqm3skMPygg27BNMtNEDw) | 2:03 |
 | 12 | [Danger](https://open.spotify.com/track/4JdgWyLRVKbc1GIt6lQq65) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Danger](https://open.spotify.com/album/2lPUIS3WxptrQYXAmJTAoD) | 3:04 |
-| 13 | [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes\*](https://open.spotify.com/artist/7vwAuZT67T4G3lGUaKCZwH) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:42 |
+| 13 | [Many Men](https://open.spotify.com/track/5Hknkme6xbFMFZSznFQmUx) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Many Men](https://open.spotify.com/album/7fJ0Kv2ZFAr56IeVm3CRla) | 2:42 |
 | 14 | [VISA](https://open.spotify.com/track/67g2ofnMNzwzUbbNt0eyPk) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl) | [VISA](https://open.spotify.com/album/1hslnP6PutZgrEVGYuBLjz) | 2:36 |
 | 15 | [Big AK](https://open.spotify.com/track/2hADPyFVEeSQcKPP9BSI9q) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Big AK](https://open.spotify.com/album/4NLnvzkJvogzebsHJELswl) | 1:37 |
 | 16 | [Infréquentable](https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Infréquentable](https://open.spotify.com/album/4nDCSy5NZBecRnBWr1LYiV) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 |
 | 75 | [CAMÉLÉON](https://open.spotify.com/track/4eGyyIrOWWGlBbdt0xZTMI) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [CAMÉLÉON](https://open.spotify.com/album/1wC9LZFmdvqfeqFtKOOcYE) | 3:23 |
 
-Snapshot ID: `MCwzY2E5NDNlYWNiZTQxMWJiMDYxOGY3NTg1MDk0YWViZGFhZjNhMDM5`
+Snapshot ID: `MCxmNWJlYWUyYjk4YzczMDE1MDY1YzU5YjI5OGNjNTQzYmNjY2UyNjk3`

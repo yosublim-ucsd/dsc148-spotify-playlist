@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 101263,
+  "num_followers": 101333,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjI2NDhkMDllY2MzZDhjMDQyMzRlYWY5NDdjMmYzYmUwNDEyZTRm",
+  "snapshot_id": "MCxjMTZjNjQ1NDFhNzkyMDRkZWVmODdmZmUyMDYyMWEzM2M0ODNmNGQx",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -231,22 +231,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "HAAT",
-        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 150821,
-      "name": "HAAT - Instrumental",
-      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N"
       },
@@ -263,18 +247,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Rudimentary",
-        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
+        "name": "HAAT",
+        "url": "https://open.spotify.com/album/2U7D4ig5znapF4r32R2mFn"
       },
       "artists": [
         {
-          "name": "Ballpoint",
-          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 129098,
-      "name": "Spectra",
-      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
+      "duration_ms": 150821,
+      "name": "HAAT - Instrumental",
+      "url": "https://open.spotify.com/track/0pnrPBK0MYReAMf6l4RTWf"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -291,6 +275,22 @@
       "duration_ms": 177882,
       "name": "west",
       "url": "https://open.spotify.com/track/53euCZa2GQ6kN18ZxU1dbf"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Rudimentary",
+        "url": "https://open.spotify.com/album/7H2EfXZ6vwDEcRqg3fWjFy"
+      },
+      "artists": [
+        {
+          "name": "Ballpoint",
+          "url": "https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC"
+        }
+      ],
+      "duration_ms": 129098,
+      "name": "Spectra",
+      "url": "https://open.spotify.com/track/0wW2h34ktVMnLMKZG57FRk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "The Ace",
         "url": "https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 144968,
       "name": "The Ace",
       "url": "https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
-      },
-      "artists": [
-        {
-          "name": "Jewlz",
-          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap",
-        "url": "https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9dine",
-          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap (Instrumental)",
-      "url": "https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/3D4AoTdYFTk0kWbSd9kBR8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 122587,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/0H1tDY1dWsJk4f7Y9TmzdN"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap",
+        "url": "https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap (Instrumental)",
+      "url": "https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u0628\u0627\u0631\u062f",
-        "url": "https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C"
-      },
-      "artists": [
-        {
-          "name": "Deeb",
-          "url": "https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt"
-        }
-      ],
-      "duration_ms": 86360,
-      "name": "\u0633\u0645\u0631\u0627\u0621",
-      "url": "https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Mawj",
         "url": "https://open.spotify.com/album/3ylLnuEqOipXkEbJcHGj7W"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 207274,
       "name": "Mawj",
       "url": "https://open.spotify.com/track/4x7i7pSaI036ZYYeTwBLou"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "\u0627\u0644\u0633\u0644\u0627\u0645 \u0627\u0644\u0628\u0627\u0631\u062f",
+        "url": "https://open.spotify.com/album/5RkeVX6ftHFDMBkNlCzt0C"
+      },
+      "artists": [
+        {
+          "name": "Deeb",
+          "url": "https://open.spotify.com/artist/7pjuu5qyxT0hyCdUbhmyDt"
+        }
+      ],
+      "duration_ms": 86360,
+      "name": "\u0633\u0645\u0631\u0627\u0621",
+      "url": "https://open.spotify.com/track/2qfcSQjjn699Zp0uFiUUBX"
     },
     {
       "added_at": "2022-03-22 11:23:16",

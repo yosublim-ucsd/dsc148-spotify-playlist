@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: DURDN
 
-991 songs - 2 day 13 hr 6 min
+993 songs - 2 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [FLOATING EYES](https://open.spotify.com/track/5trmKu2TPm87vYS1xqouAj) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [BEANIE](https://open.spotify.com/album/0Unuh962T4V4QakKGMahUg) | 3:12 | 2022-09-20 | 2022-11-30 |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2022-07-12 | 2023-04-19 |
 | [Florida](https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg) | [itachi](https://open.spotify.com/artist/20xzByUKmZViuEx3OIf0yo) | [Florida](https://open.spotify.com/album/4XYhmwSli2isT42Tle10Ux) | 2:52 | 2022-07-21 | 2022-08-17 |
-| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 |  |
+| [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 | 2023-08-03 |
+| [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2023-08-01 |  |
 | [flowers](https://open.spotify.com/track/7Eg3cExvmyurdw2VZwcOAJ) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [flowers](https://open.spotify.com/album/6dtq4C39es0fbPxv9o0jhY) | 4:20 | 2023-08-01 |  |
 | [Flying Son](https://open.spotify.com/track/72BAt7jfsMZrSu99Jns0Ax) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Flying Son](https://open.spotify.com/album/0pCgjJk5SFy6HiptKInlil) | 4:22 | 2023-03-21 | 2023-04-12 |
 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 | 2023-06-27 |  |
@@ -334,7 +335,8 @@
 | [Mole Dancer](https://open.spotify.com/track/6k3ly6qAbRNXmQXmupnMeV) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Mole Dancer](https://open.spotify.com/album/5jqbDLLn8s2nZWUQbsDi2S) | 3:24 | 2022-04-27 | 2022-05-25 |
 | [MOONRAKER](https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [MOONRAKER](https://open.spotify.com/album/0wEbthaJbMzqMJ02LipHXN) | 3:05 | 2022-11-15 | 2023-01-13 |
 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-03-22 | 2022-06-15 |
-| [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 |  |
+| [More Bitter, Mocha Better](https://open.spotify.com/track/0lm5AVNYD2D7wpoy9M6Xqh) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5hn610tVThK7GHm2XJKCiD) | 3:50 | 2023-08-01 | 2023-08-03 |
+| [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 | 2023-08-01 |  |
 | [Morning](https://open.spotify.com/track/1AFRB52O6jDHRVLWTr5c1y) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Morning](https://open.spotify.com/album/0WqH9nFhGSOrAwu8nVEmkM) | 3:05 | 2022-02-17 | 2022-02-23 |
 | [muse](https://open.spotify.com/track/6XWpWjw67Zi5edXcbUnqQV) | [YOLK](https://open.spotify.com/artist/2xYLcZf0kXruMDlEeiGaIn) | [muse](https://open.spotify.com/album/2TyNsyTZjsX4Zv0VurnFvk) | 4:00 | 2023-03-21 | 2023-03-29 |
 | [MUSICA](https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [FICTION](https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE) | 4:08 | 2022-07-19 | 2022-08-17 |

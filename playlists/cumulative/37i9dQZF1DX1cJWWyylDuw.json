@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Negative Energy",
+        "url": "https://open.spotify.com/album/30Ggyx6pEhcfLDLJ5mtXEh"
+      },
+      "artists": [
+        {
+          "name": "VEXED",
+          "url": "https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238625,
+      "name": "Anti-Fetish",
+      "url": "https://open.spotify.com/track/1DNJEei0Cn2KoUl8U3SyCe"
+    },
+    {
+      "album": {
         "name": "Anti-Fetish",
         "url": "https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU"
       },
@@ -604,7 +622,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 248600,
       "name": "Axe of Kindness",
       "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
@@ -734,7 +752,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 296327,
       "name": "Barren and Breathless Macrocosm",
       "url": "https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3"
@@ -752,7 +770,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 240000,
       "name": "Bathe in the Flame",
       "url": "https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib"
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 275875,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/3x55ZUGp740NTVGOySqsBI"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Borderline Existence",
       "url": "https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 295714,
       "name": "Bullets in My Teeth",
       "url": "https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9"
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 225391,
       "name": "Deathtouch",
       "url": "https://open.spotify.com/track/4ihxHSh37giw8ANfu8PqlP"
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 192772,
       "name": "Desolate Specter",
       "url": "https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 213125,
       "name": "Devil In Me",
       "url": "https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv"
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 233250,
       "name": "Empress",
       "url": "https://open.spotify.com/track/59Dai1T2TOvlWvMJR6OVdi"
@@ -2812,7 +2830,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-12",
+      "date_removed": null,
       "duration_ms": 174970,
       "name": "Erotic Depravity",
       "url": "https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs"
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 243029,
       "name": "Eulogy of Ashes",
       "url": "https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7"
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 162413,
       "name": "Everything Bleeds",
       "url": "https://open.spotify.com/track/4z3D0mWD3L1Qzo07naNHlh"
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 148560,
       "name": "FRESH BONES",
       "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 231989,
       "name": "From Nothing",
       "url": "https://open.spotify.com/track/5OejDZoN7KYcDUZhj9gxNL"
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 117906,
       "name": "Gutless",
       "url": "https://open.spotify.com/track/4NxyQN1Jc59dNeGsqYfmEo"
@@ -4102,7 +4120,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 243219,
       "name": "Heritage (feat. Will Ramos of Lorna Shore)",
       "url": "https://open.spotify.com/track/5La2TvUuKFEV4pqnEitmU3"
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 256788,
       "name": "In Tenebris",
       "url": "https://open.spotify.com/track/0d0ECn7EN2uaczZyPSvbyx"
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-09",
+      "date_removed": null,
       "duration_ms": 159124,
       "name": "Left in the Wake",
       "url": "https://open.spotify.com/track/6lg5kxB52nm8w0Tq3C1iEi"
@@ -5123,6 +5141,24 @@
     },
     {
       "album": {
+        "name": "Amongst The Low & Empty",
+        "url": "https://open.spotify.com/album/22Jf4cycfboklXm8lwrljV"
+      },
+      "artists": [
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243874,
+      "name": "Malady",
+      "url": "https://open.spotify.com/track/3cD4OgJyoj28hvnjdw7BqG"
+    },
+    {
+      "album": {
         "name": "Malady",
         "url": "https://open.spotify.com/album/4Jd5siItwcUoDND7YU2ogV"
       },
@@ -5134,7 +5170,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 243874,
       "name": "Malady",
       "url": "https://open.spotify.com/track/4XX4hnmMNemLHsTd8WZx8M"
@@ -5152,7 +5188,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 340409,
       "name": "Malediction",
       "url": "https://open.spotify.com/track/0uT6SSzA93yxuWZea8bmxk"
@@ -5538,7 +5574,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 109200,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP"
@@ -5556,7 +5592,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 181097,
       "name": "New Gods",
       "url": "https://open.spotify.com/track/5wDscoENTsVsW6gvCLsLpX"
@@ -5592,7 +5628,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 228304,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
@@ -5682,7 +5718,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 213733,
       "name": "No One's Above",
       "url": "https://open.spotify.com/track/1tL1eSbnVwjhttYr8ixETm"
@@ -5892,7 +5928,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 287532,
       "name": "Of Fury",
       "url": "https://open.spotify.com/track/3fXkk7saX1dqX0o1dSWnvg"
@@ -5946,7 +5982,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 225440,
       "name": "On Wings of Carnage",
       "url": "https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr"
@@ -6488,7 +6524,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 234294,
       "name": "Rage",
       "url": "https://open.spotify.com/track/02QeZiw8x1s0AXUZCETOGI"
@@ -7276,7 +7312,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 254500,
       "name": "Stained In Rot",
       "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
@@ -7298,7 +7334,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 184285,
       "name": "Stay Out of My Swamp",
       "url": "https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH"
@@ -7554,7 +7590,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 230073,
       "name": "The Amygdala Chorus",
       "url": "https://open.spotify.com/track/5tmJCrDqstthNnM4MtWDk9"
@@ -7666,7 +7702,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 158365,
       "name": "The Cycle Of Violence : Chapter 1",
       "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
@@ -7738,7 +7774,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 285366,
       "name": "The Failsafe Fallacy",
       "url": "https://open.spotify.com/track/7i0yLsdCMj0GbkqlpVKAhS"
@@ -7864,7 +7900,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 239750,
       "name": "The Offering",
       "url": "https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy"
@@ -8048,7 +8084,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 209034,
       "name": "The Soil",
       "url": "https://open.spotify.com/track/1zwypBAsxWePrtVBaabDmf"
@@ -8272,7 +8308,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Traumadoll - Withdrawal Edition",
       "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
@@ -8770,7 +8806,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 250933,
       "name": "What I Would Give",
       "url": "https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1"

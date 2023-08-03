@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-656 songs - 1 day 15 hr 18 min
+658 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-23 | 2021-05-24 |
 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/4VmlZdGnrtNpiCJFXplGrP) | 2:44 | 2021-08-29 | 2021-08-30 |
+| [CAKE](https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [KILL MY DOUBT](https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik) | 3:18 | 2023-08-02 |  |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-01-13 | 2022-05-05 |
 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 | 2023-06-12 | 2023-07-06 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-24 | 2021-11-25 |
@@ -506,7 +507,7 @@
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2023-02-28 | 2023-03-02 |
 | [思念即地獄](https://open.spotify.com/track/7EougyUYWZdE1zCzsCA1Sx) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [思念即地獄](https://open.spotify.com/album/611grh8eoY6RDvhbhaVtj0) | 4:00 | 2021-05-21 | 2021-07-31 |
 | [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 | 2022-12-03 |
-| [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 |  |
+| [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 | 2023-08-03 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-02-25 |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-08-26 | 2022-12-25 |
 | [愛因斯坦羅森橋](https://open.spotify.com/track/0jAoid0myjkSA854F5GZGJ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 1:38 | 2021-12-05 | 2021-12-06 |
@@ -534,7 +535,7 @@
 | [春夏秋冬 A Balloon's Journey](https://open.spotify.com/track/4VWE88XtRQXmOH0JPzwN5T) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [REVISIT](https://open.spotify.com/album/05tspedDVm17HyfEJJ1E0R) | 4:12 | 2021-04-03 | 2023-04-04 |
 | [春秋](https://open.spotify.com/track/2WVbMoHdWCspdiEa7OnG1D) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [No\. Eleven](https://open.spotify.com/album/4SFTHZzZXGAXE7E1cd9bjt) | 4:19 | 2021-03-27\* | 2022-07-03 |
 | [是但求其愛](https://open.spotify.com/track/4IkQXb1IdIziAJmO3FODo7) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [是但求其愛](https://open.spotify.com/album/2R9j6chH2WczYgHTbG0FQx) | 4:29 | 2021-03-27\* | 2021-05-16 |
-| [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2021-12-16 |  |
+| [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2021-12-16 | 2023-08-03 |
 | [時光倒流一句話](https://open.spotify.com/track/63QmxPL3QlchvXcHLsI6UM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [時光倒流一句話](https://open.spotify.com/album/4IynRAJW9IVPnitLGtydpt) | 4:13 | 2021-03-27\* | 2021-12-05 |
 | [時光倒流一句話](https://open.spotify.com/track/1V7V9ekndGc7vqE3hVUKmA) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 4:14 | 2021-12-05 | 2022-09-05 |
 | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/track/1ubjsQj2DEqPMqC5CCwMEw) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE), [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [時間的初衷 \(電影《一秒拳王》主題曲\)](https://open.spotify.com/album/0ModZiFlJ4homzkNeuRATU) | 5:27 | 2021-03-27\* | 2021-09-10 |
@@ -569,6 +570,7 @@
 | [沒有翅膀的天使](https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [沒有翅膀的天使](https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe) | 3:18 | 2023-04-29 |  |
 | [洗面](https://open.spotify.com/track/3a9EtOIDDtBel1IEXf6fYl) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Cleanse](https://open.spotify.com/album/34T3MdB25TSeAooi2QxCRz) | 3:51 | 2023-06-03 | 2023-06-27 |
 | [浪漫殺死巨蟹座](https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [浪漫殺死巨蟹座](https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw) | 4:04 | 2023-07-22 |  |
+| [濤](https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [濤](https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI) | 3:52 | 2023-08-02 |  |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 | 2023-04-20 |
 | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/track/6rLZknU66zYG9Q2NI4fCYl) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/album/6wYuPp9Bt8JVDtxImuGng0) | 4:07 | 2022-11-18 | 2023-03-19 |
 | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 | 2023-03-17 |  |

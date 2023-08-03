@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,280 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,417 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 6 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
 | 7 | [Glasgow Love Theme \- From "Love Actually"](https://open.spotify.com/track/2LhA68Vm5k6lh0QenNFrDV) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [The Royal Philharmonic Concert Orchestra/Paul Bateman](https://open.spotify.com/artist/3QC1ekeybpRvrDEaGQW34n), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 2:09 |
 | 8 | [My Neighbour TOTORO](https://open.spotify.com/track/7iqFh7Vftu6YfwZCSekgtU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Dream Songs: The Essential Joe Hisaishi](https://open.spotify.com/album/0QdrFLgqjMzhaXDd0UmU1T) | 4:07 |
-| 9 | [Liz On Top Of The World \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/6QuCKdMsTW8ppnUiFmxJLF) | [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice OST](https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd) | 1:22 |
+| 9 | [Liz On Top Of The World \- From "Pride & Prejudice" Soundtrack](https://open.spotify.com/track/6QuCKdMsTW8ppnUiFmxJLF) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Pride and Prejudice OST](https://open.spotify.com/album/31qEnY1MFmGwOdgjLLClPd) | 1:22 |
 | 10 | [Gabriel's Oboe](https://open.spotify.com/track/6opPrJUpq4Pl5c84eCwLmo) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Mission: Music From The Motion Picture](https://open.spotify.com/album/2fOlcWrSR032MxwMCQe9LA) | 2:14 |
 | 11 | [Hollow in the Ferns](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 |
 | 12 | [Toss A Coin To Your Witcher \- Solo Piano Version](https://open.spotify.com/track/2ITcTvOeKgwLGjmmZrpdCW) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Sonya Belousova & Giona Ostinelli](https://open.spotify.com/artist/6UgYjZpbEWBZL491Qzxw2E) | [Toss A Coin To Your Witcher \(Solo Piano Version\)](https://open.spotify.com/album/1mxxBPAxd3l5XVUtLEB4BM) | 3:19 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MCxjZDY2MzYwNTk3OGM3NmE2OGExZDE5NmJkZGUxZjU1ZjExZGY0ZjU3`
+Snapshot ID: `MCw1Zjk4M2U0Y2M4YmU4NzI4Y2NkZDc0YzUwMTZhYTgzYzdkNWQ0MDYz`

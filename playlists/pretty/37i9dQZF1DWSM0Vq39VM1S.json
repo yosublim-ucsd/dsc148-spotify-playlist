@@ -1,12 +1,12 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e.",
-  "num_followers": 145565,
+  "num_followers": 145677,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjE3NzdkMjRjNWMxNDQ3OGQ0NTUzYmIxNzAzNTMzMGUxNzE1N2Mx",
+  "snapshot_id": "MCwwZWI5ZTUxYTJlYjUxZTYwNjY1NTBiYjQ2YjBkNzY3OGZkOGU0NWMw",
   "tracks": [
     {
       "added_at": "2023-07-27 12:00:43",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 285640,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Glory Box",
+      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
     },
     {
       "added_at": "2023-07-27 12:00:43",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Haven (from Life Is Strange)",
         "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 172500,
       "name": "Haven (from Life Is Strange)",
       "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2023-07-27 12:00:43",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-07-27 12:00:43",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
-    },
-    {
-      "added_at": "2023-07-27 12:00:43",
-      "album": {
         "name": "Laissez-moi danser",
         "url": "https://open.spotify.com/album/66BR3VEZqTOgclJxBlClQK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 172360,
       "name": "Laissez-moi danser",
       "url": "https://open.spotify.com/track/1LBLEAMse3jta25SKwGs37"
+    },
+    {
+      "added_at": "2023-07-27 12:00:43",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR"
     },
     {
       "added_at": "2023-07-27 12:00:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 
 > Colourful songs to kickstart your Holi party! Cover \- Yeh Jawaani Hai Deewani
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,776 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,762 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 23 | [Sawan Mein Lag Gayi Aag](https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ginny Weds Sunny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC) | 3:46 |
 | 24 | [Nachange Saari Raat](https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Junooniyat](https://open.spotify.com/album/3rOUlh3cVzmQBB8c7EAke1) | 4:11 |
 | 25 | [The Disco Song](https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Nazia Hassan](https://open.spotify.com/artist/5hW7KULTxMzCDnqaV7LASR) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:42 |
-| 26 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 |
+| 26 | [Tum Hi Ho Bandhu](https://open.spotify.com/track/1IOk1Cz69BasUkFgsyVxp3) | [Beatrice](https://open.spotify.com/artist/1dpqTYhm668HHTWSvE9jyM), [yusha571](https://open.spotify.com/artist/4USN2fYVJnUWvtNu9dRaIa), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg), [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Tum Hi Ho Bandhu](https://open.spotify.com/album/6DLy76kjeCrKoXJUeUy4AI) | 4:42 |
 | 27 | [Naach Meri Rani](https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Naach Meri Rani](https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo) | 3:32 |
 | 28 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 29 | [Let's Nacho](https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoTxNXfb9hu.md) - [plain]
 | 49 | [High Rated Gabru](https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Nawabzaade](https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk) | 2:59 |
 | 50 | [Aaj Ki Party](https://open.spotify.com/track/1vmQPVE7vbgSZ12C8MlKX8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13) | [Bajrangi Bhaijaan](https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t) | 4:40 |
 
-Snapshot ID: `MCw4ODM4MzFkMjIwNmYzZDY1MDVlYTcyNzg5YzhkZTc5Mzc3Mzg1ZWE4`
+Snapshot ID: `MCwyNTUwNGI2ZGRjNGY0Y2M5OTBjOGQ5OWU3Yjc0NDkwYTJjNjdkYjg2`

@@ -4,7 +4,7 @@
 
 > The biggest festival music of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-176 songs - 9 hr 10 min
+177 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Flame](https://open.spotify.com/track/5K3dTaVxbZUOzJwFJhbj2A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Flame](https://open.spotify.com/album/7GJsQ9W5MqX0as7C8xgs4G) | 2:51 | 2022-07-29 | 2022-08-20 |
 | [Forever](https://open.spotify.com/track/2ZuyWj6ageq2TqvHdx5WFm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [Forever \(feat\. Crooked Bangs\)](https://open.spotify.com/album/12GplONMUz7ZXOumsh2FWc) | 2:23 | 2023-02-06 | 2023-07-29 |
 | [Heartbeat](https://open.spotify.com/track/39TcT0lUnag46B6eukkLlM) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Heartbeat](https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0) | 2:59 | 2023-07-20 |  |
+| [Heartbeat \- BLK RSE Remix](https://open.spotify.com/track/1f3XYvmKK8Qc9APKlJ15zC) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Heartbeat \(BLK RSE Remix\)](https://open.spotify.com/album/5K78j7QvCOzOyTu6hqWQTw) | 3:01 | 2023-08-02 |  |
 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-06 |  |
 | [Here And Now](https://open.spotify.com/track/6bCaAFSdevhK1Hw2ya6Cdz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [MiteX](https://open.spotify.com/artist/6HOEVqW2JrpV56Slza9BXq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Here And Now EP](https://open.spotify.com/album/00gWoK8sxHKCRqTwiKEogM) | 3:11 | 2023-07-11 |  |
 | [Here With You](https://open.spotify.com/track/312ScazNcrS408yUVIGrPC) | [Jordi Sans](https://open.spotify.com/artist/2aIdkBxgg1fhkWPiEXGqP0) | [Here With You](https://open.spotify.com/album/3KToxcWG2LFewyjNFLVfNb) | 3:56 | 2022-07-29 | 2022-12-03 |

@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 174899,
+  "num_followers": 175070,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGViYjBjYmM0NWVmNGEyNzczMGE4Y2E5ODVjMzJmZDBkNDc2Nzg3",
+  "snapshot_id": "MCwwMWU4YWJlYTc1Yjg1MThjZGQxOTg3MmE5NzYwZDU1MDEyYWQ2ZjU2",
   "tracks": [
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Ten\u00eda Raz\u00f3n",
-        "url": "https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 173826,
-      "name": "Ten\u00eda Raz\u00f3n",
-      "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Firepit",
         "url": "https://open.spotify.com/album/7tc649AUN4dKzigGFICXR9"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 167156,
       "name": "So Sick Of Me",
       "url": "https://open.spotify.com/track/7tGr0hPFQcgEy8bwxTVzX8"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Ten\u00eda Raz\u00f3n",
+        "url": "https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 173826,
+      "name": "Ten\u00eda Raz\u00f3n",
+      "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Payback (feat. Knucks)",
-        "url": "https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA"
-      },
-      "artists": [
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Payback (feat. Knucks)",
-      "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Passed Tense",
         "url": "https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 241087,
       "name": "Passed Tense",
       "url": "https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Payback (feat. Knucks)",
+        "url": "https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Payback (feat. Knucks)",
+      "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
     },
     {
       "added_at": "2023-01-25 16:56:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Annrain Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,363 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,372 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Alam Mo Ba](https://open.spotify.com/track/7Aqz3OPr2Pjpz2asXS3Ior) | [Ascend](https://open.spotify.com/artist/2dk0BwYzQwTjT8LUNoqoYE) | [Alam Mo Ba](https://open.spotify.com/album/6GWjVmC6ZxB9Yub5mXXymC) | 4:33 |
 | 75 | [Biglaan \(feat\. King Promdi\)](https://open.spotify.com/track/3a9nrbtqAwqNZ2zTtcNuiE) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49), [King Promdi](https://open.spotify.com/artist/6Mp2h4C9XeFduDTfhoTmtQ) | [Biglaan \(feat\. King Promdi\)](https://open.spotify.com/album/2MY1dDcU42g5NX3WFhOeIx) | 4:01 |
 
-Snapshot ID: `MCw3YjllY2E1ZjhjNjRhOTM4YWE5ZTkwMzRmMmUxMTdiYWMzZTk0MDJi`
+Snapshot ID: `MCwxMDI3YWE2NTMyYjlkYjNmMGU1NjE1MzM2MDY5NTlmMjI1NDQ0YjI0`

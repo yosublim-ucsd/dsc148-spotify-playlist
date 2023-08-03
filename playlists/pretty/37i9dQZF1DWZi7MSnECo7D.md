@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Garotas Suecas
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,704 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,701 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 |
 | 70 | [Revés De Tudo](https://open.spotify.com/track/5gXCL3ne8NsLNKuiyN3jRm) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [V](https://open.spotify.com/album/6bQw2aNY06eokyQwc2IaK4) | 4:21 |
 
-Snapshot ID: `MCxiNzQ0OTQ5MTY0MWNiYjM4ZGRhMmViMDAxNzJlZTNjMWU1MTFlYjFk`
+Snapshot ID: `MCw1YzQ3MTczYTA4NTEyNTM1Y2ZlMmM0N2NkZDJiNjYzMzdhNGM0MjUw`

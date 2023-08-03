@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,203 likes - 81 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,207 likes - 81 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 80 | [Sundance Freestyle](https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Sundance Freestyle](https://open.spotify.com/album/1VLKy8mG3PRUw7RjPho6i6) | 1:50 |
 | 81 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
 
-Snapshot ID: `MCwzODQxMWJhNjc5OWMyODkwNmEyNTUxZjEzMGZlYzljODc1MWNiZGUz`
+Snapshot ID: `MCxjNDVhYzk3MmMzNzdhN2Q1MjYyNjY1ZTE3M2MzZTBhMTY4ZTRhMGEy`

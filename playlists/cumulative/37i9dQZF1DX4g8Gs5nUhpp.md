@@ -2,9 +2,9 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: ERIK
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: GREY D
 
-189 songs - 12 hr 8 min
+190 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [hai mươi hai \(22\)](https://open.spotify.com/track/6K2RhGsliOVLgj7iUaayuD) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [hai mươi hai \(22\)](https://open.spotify.com/album/11eMyrE2NYK8q0W43GbR5v) | 3:58 | 2022-05-27 | 2022-10-06 |
 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 | 2023-07-05 |  |
 | [Hình Trái Tim](https://open.spotify.com/track/1hyDeosKOqqI4YcqFgzNlQ) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F), [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [Hình Trái Tim](https://open.spotify.com/album/7oS4wfpgF8ISnA0TBQwqmA) | 3:56 | 2023-01-11 | 2023-02-01 |
+| [id 072019](https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD) | [id 072019](https://open.spotify.com/album/7ftthhLvgY5KSMOcpQsMCS) | 4:31 | 2023-08-02 |  |
 | [Khi Em Lớn](https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Khi Em Lớn](https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU) | 3:48 | 2022-05-27 |  |
 | [Khác Biệt To Lớn Hơn](https://open.spotify.com/track/7CVdUE4KKpZkmHYAGVN0o4) | [Trinh Thang Binh](https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N), [Liz Kim Cương](https://open.spotify.com/artist/6pYrL6H11sEmjp5ZJytWmK) | [Khác Biệt To Lớn Hơn](https://open.spotify.com/album/4NwKHyjNEf456fHaEQFw9d) | 4:12 | 2022-06-28 | 2022-07-27 |
 | [Không Còn Em](https://open.spotify.com/track/1RGA13K66cABN7nYek6WNk) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN) | [Không Còn Em](https://open.spotify.com/album/7k9BqIUVoIQNaSOS62wbd1) | 3:54 | 2023-07-21 |  |

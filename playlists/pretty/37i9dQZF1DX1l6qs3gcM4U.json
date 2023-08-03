@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.  ",
-  "num_followers": 177937,
+  "num_followers": 178087,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDBhNjUyZjhjZGM2Zjc2NzUyNTI0ZWZlMThkZGEyYTY0MDUyODVm",
+  "snapshot_id": "MCxiYjYzNWRhMDRhNzZjMTcwYTYxZTdmOWZhMmNkNzNmY2Q5ZWM2Yzk3",
   "tracks": [
     {
       "added_at": "2023-07-27 23:00:00",
@@ -951,6 +951,34 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
+      },
+      "artists": [
+        {
+          "name": "Dam\u00e1sio Brothers",
+          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
+        },
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Ney Chiqui",
+          "url": "https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        }
+      ],
+      "duration_ms": 237341,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Versos & Poesias #5: Sintonia",
         "url": "https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw"
       },
@@ -995,34 +1023,6 @@
       "duration_ms": 476029,
       "name": "Versos & Poesias #5: Sintonia",
       "url": "https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
-      },
-      "artists": [
-        {
-          "name": "Dam\u00e1sio Brothers",
-          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
-        },
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Ney Chiqui",
-          "url": "https://open.spotify.com/artist/56hCHYdCpPCLU1fzXAIObp"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 237341,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
-        "name": "Cuiar Assim",
-        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Arieth Feij\u00f3",
-          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Cuiar Assim",
-      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
         "name": "Waridu (LBEATZ Sessions #1)",
         "url": "https://open.spotify.com/album/2QBRALabDdpMzrE0Jd7gRT"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 190410,
       "name": "Waridu - LBEATZ Sessions #1",
       "url": "https://open.spotify.com/track/6D1rnxTxNfHCtD3KlXcy4m"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
+        "name": "Cuiar Assim",
+        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Arieth Feij\u00f3",
+          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "Cuiar Assim",
+      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
     },
     {
       "added_at": "2023-07-27 23:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-07-27 23:00:00",
       "album": {
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
+      },
+      "artists": [
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        }
+      ],
+      "duration_ms": 192641,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
+    },
+    {
+      "added_at": "2023-07-27 23:00:00",
+      "album": {
         "name": "Tellin Me Something",
         "url": "https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
-    },
-    {
-      "added_at": "2023-07-27 23:00:00",
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
-      },
-      "artists": [
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        }
-      ],
-      "duration_ms": 192641,
-      "name": "Mad Love",
-      "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
     },
     {
       "added_at": "2023-07-27 23:00:00",

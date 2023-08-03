@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,263 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,285 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 4 | [Back Into It](https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Back Into It](https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX) | 3:18 |
 | 5 | [Already Rich](https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Already Rich](https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed) | 2:25 |
 | 6 | [Apologies](https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Apologies](https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP) | 3:10 |
-| 7 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
+| 7 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
 | 8 | [Gangsta Funktion](https://open.spotify.com/track/6zf4CGnqsjZ3ID3SljDTTe) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng), [Mr\. Criminal](https://open.spotify.com/artist/1RbUvxpoXRKRcxVtcQ8YyV), [Mr\. Shadow](https://open.spotify.com/artist/0KFDhShITLPG6xBOQPs997), [Young Dopey](https://open.spotify.com/artist/44EaeGoLuzauHa9tp2OjON) | [Gangsta Funktion](https://open.spotify.com/album/1xJLCrKULv99mjawtglBO0) | 3:53 |
 | 9 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
-| 10 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
+| 10 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
 | 11 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
 | 12 | [It's Officially Done](https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [It's Officially Done](https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD) | 2:56 |
 | 13 | [Cola](https://open.spotify.com/track/7D70PoGMH9pSfzgaFpZryQ) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Cola](https://open.spotify.com/album/4ZdpoOFdB3l1R06apBLXn8) | 3:08 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 30 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 
-Snapshot ID: `MCxmYmZlY2EzNjBmMjgwNDA5ZmVlMDdhYzc5Yjk5MWE1YTk4ZmIxMDU3`
+Snapshot ID: `MCwyMTQ5NGNjMDA4M2Q4MGFhNGY5OGZjYTgxZGNlMTM1NmFkNmRlYmQ0`

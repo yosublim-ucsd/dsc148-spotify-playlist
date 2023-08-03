@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 
 > The essential recordings from the beginning of the Post Bop era\. Cover: Freddie Hubbard
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,640 likes - 100 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,653 likes - 100 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 53 | [Suite Sioux](https://open.spotify.com/track/64rHDxDhz71GtHxs5QBsQ5) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Red Clay](https://open.spotify.com/album/1EKOKpUcbqvwxFcmek60Za) | 8:44 |
 | 54 | [Love Bird](https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Dear John C.](https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1) | 3:49 |
 | 55 | [Free For All](https://open.spotify.com/track/7vX1ZW62qw7wMEib872JmN) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Best Of Art Blakey](https://open.spotify.com/album/1UqQnjYh6B04eH4vDhjlJS) | 11:09 |
-| 56 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
-| 57 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 |
+| 56 | [Theme From Mr\. Broadway](https://open.spotify.com/track/2HFdLKXIT03e3GZABHw7K3) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:43 |
+| 57 | [Mr\. Jin \- Remastered](https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Indestructible](https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx) | 7:04 |
 | 58 | [Rebirth](https://open.spotify.com/track/0CmhyVSciWqxDxw94eC6p5) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Sahara](https://open.spotify.com/album/0njsEE2XyDZFPXUWiMNrBl) | 5:18 |
 | 59 | [Pumpkin](https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J) | 5:23 |
 | 60 | [Head Start \- Rudy Van Gelder Edition / 2006 Digital Remaster](https://open.spotify.com/track/0knaLLhdMU69U4byKTIeim) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Happenings](https://open.spotify.com/album/4TbWPn2fJUrQc924iTylFi) | 5:14 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 78 | [The Fox \- Remastered 2014](https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 8:00 |
 | 79 | [Chasin' The Trane \- Live At The Village Vanguard, 1961](https://open.spotify.com/track/1B8Wgwl8jM0k75FjDSy5SX) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Live At The Village Vanguard](https://open.spotify.com/album/4EXNLdBIHvX40boSdW7dc5) | 16:11 |
 | 80 | [Idle While \- Remastered 2002/Rudy Van Gelder Edition](https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 6:37 |
-| 81 | [Omega \- Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering](https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Let Freedom Ring \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw) | 8:30 |
-| 82 | [Black Fire \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ) | 6:56 |
-| 83 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
+| 81 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
+| 82 | [Easterly Winds \- Remastered 2004](https://open.spotify.com/track/1XZrDnwGRDzElcXigwhUSb) | [Jack Wilson](https://open.spotify.com/artist/1MJpO71ShS9nmFAbT6KM2n) | [Easterly Winds \(Remastered\)](https://open.spotify.com/album/1Xist2IJU302l9yVzyVoYz) | 5:56 |
+| 83 | [Black Fire \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/3hVs1j5bcQaTdmOaby65RL) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Black Fire](https://open.spotify.com/album/2XOQztLkohDDWZH8DEECkQ) | 6:56 |
 | 84 | [One Shirt \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/6JmgSVF28ADJ3S8KWODQuk) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 7:30 |
 | 85 | [Village Greene](https://open.spotify.com/track/0zowXbXX2KisRPIvUAw56X) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Puttin' It Together](https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp) | 5:11 |
 | 86 | [Tee \- Remastered 2009/Rudy Van Gelder Edition](https://open.spotify.com/track/4Jfk9tUIZOmwmNb86Qd9uu) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Spring \(Remastered\)](https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10) | 10:29 |
 | 87 | [The Beach](https://open.spotify.com/track/3HQ5oxrVucyUP6XPkiQEyc) | [Gary Burton Quartet](https://open.spotify.com/artist/2vB9VR5CJ70elfI1wWrvBl) | [Lofty Fake Anagram](https://open.spotify.com/album/4oSUqIo6gVVZc61Z6JCCfF) | 3:42 |
 | 88 | [Jasper \- Rudy Van Gelder/24Bit Digital Remaster/2002](https://open.spotify.com/track/0bkhgAfg6QJn1oYbxIHhSo) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Dialogue](https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2) | 8:29 |
-| 89 | [Right Now](https://open.spotify.com/track/4PVeDBramTVleRgBV9TkRi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Right Now](https://open.spotify.com/album/18bi2UuLLBj78oai30goPA) | 9:29 |
+| 89 | [Omega \- Rudy Van Gelder Edition; 2003 Digital Remaster; 24 Bit Mastering](https://open.spotify.com/track/6v9Dj4ouMavS8IAcRtvf9l) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Let Freedom Ring \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/7cDdrBZaImUjYGqkir7bVw) | 8:30 |
 | 90 | [Consequence \- Remastered](https://open.spotify.com/track/0wl0WUMMe94DuZhc4qKe7X) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Consequence](https://open.spotify.com/album/1fIhToDoSSkcQa0L0DK2Dx) | 5:32 |
 | 91 | [In The Truth](https://open.spotify.com/track/2QdzdWDxxwG1XJdL4iAX4U) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [The Ultimate](https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp) | 5:02 |
 | 92 | [Sometimes Joie](https://open.spotify.com/track/3pWTTgjiIuyVEUsHsZ03I5) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [The Ultimate](https://open.spotify.com/album/2ppTwBc53nvo0GEtQ53XSp) | 10:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wgMWPqc1oG.md) - [plain]
 | 99 | [Breaking Point \- Remastered 2004](https://open.spotify.com/track/45wnqKMg6CEL48lWMqCvQt) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Breaking Point](https://open.spotify.com/album/0FeZbhuzIoD7E5ru2eDpIH) | 10:19 |
 | 100 | [Melonae's Dance \- Remastered](https://open.spotify.com/track/6E9PgCW9kMhkIZuuCXcc5K) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 6:46 |
 
-Snapshot ID: `MCw4NjhjNTc3ZTgyN2Y5MjRkYzc2NDIwN2E2OWJkMmJhZWVmMDhjZjJk`
+Snapshot ID: `MCw5YzM2ZjM5NzA3Y2VkZThjMmI0ZDljMTgzYTJiYWZhNjVmZDY4YjVk`

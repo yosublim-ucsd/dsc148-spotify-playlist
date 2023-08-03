@@ -573,6 +573,32 @@
     },
     {
       "album": {
+        "name": "Extra - Ordinary Man",
+        "url": "https://open.spotify.com/album/6cjnJoGXjx3ITSuqug5xbo"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Danger Pilla",
+      "url": "https://open.spotify.com/track/4kouboIMeUzyGc1jXbUxet"
+    },
+    {
+      "album": {
         "name": "Bhoothaddam Bhaskar Narayana",
         "url": "https://open.spotify.com/album/5Xb3QbKLMWwDxmx9fpQgbI"
       },
@@ -1442,7 +1468,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 210000,
       "name": "Kushi Title Song (From \"Kushi\")",
       "url": "https://open.spotify.com/track/1SuFZNCwocZu6lIp40GPmv"
@@ -1460,7 +1486,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Kushi Title Song (From \"Kushi\") (Telugu)",
       "url": "https://open.spotify.com/track/3Trl1pPBlTQfzWvHDlTvfR"
@@ -2197,7 +2223,7 @@
         },
         {
           "name": "Elvya",
-          "url": "https://open.spotify.com/artist/0j6orYEm2h3LKSGHDOL5gk"
+          "url": "https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N"
         },
         {
           "name": "Mickey J. Meyer",
@@ -3412,7 +3438,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-03",
       "duration_ms": 275625,
       "name": "Urike Urike",
       "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"

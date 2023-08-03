@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Ghita Askari
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,101 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,182 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [CLONES](https://open.spotify.com/track/20Qs2YytFIhWlw278Pd8B8) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [CLONES](https://open.spotify.com/album/4eAI0f1nna07Mz5v86KgNe) | 2:04 |
 | 50 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 |
 
-Snapshot ID: `MCxjYzdkNGUzM2FjZGM2MDNkNmRhNTg3MTViYzg4NTUyODA3YjlkYzE5`
+Snapshot ID: `MCwwMTg5ZDNkYWE2YzhiOGFjYmMwOWU0ZmY1YjgzMDg3MjRmNWQyODY0`

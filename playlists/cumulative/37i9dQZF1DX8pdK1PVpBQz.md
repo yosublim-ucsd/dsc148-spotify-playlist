@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Georgia Gets By\. Artwork: Isu Kim
 
-2,434 songs - 5 day 13 hr 49 min
+2,435 songs - 5 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Bleeding Heart](https://open.spotify.com/track/5BZiyGEE1tVT7FB0OAwj3y) | [Phi11a](https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS) | [Bleeding Heart](https://open.spotify.com/album/2omuBvFGk5J3y8abZaITLz) | 2:42 | 2023-03-01 | 2023-03-29 |
 | [Blessings](https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [Bitner Brown](https://open.spotify.com/artist/7hFXMhSb2iI4bJcxfcwQmM) | [Blessings](https://open.spotify.com/album/1m37BOYIflgwLuB3ekRfA5) | 3:00 | 2022-09-28 | 2022-11-17 |
 | [Bleu \- Radio Edit](https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Bleu](https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid) | 3:48 | 2022-02-16 | 2022-03-10 |
+| [Blind Surgeon](https://open.spotify.com/track/4TIiK2i7PFlHFTYEgb40Sj) | [THEÅDORE](https://open.spotify.com/artist/5g77htaAYDVJnQ70hBkdR1) | [Blind Surgeon](https://open.spotify.com/album/78Nr3p7YcQw1jjDl38VWYM) | 3:30 | 2023-08-02 |  |
 | [Blood On The Dancefloor](https://open.spotify.com/track/1cPviWA9nXoYMl5wW4dQMz) | [NYNE](https://open.spotify.com/artist/6UAsg7BxuQBh72q5RWkXem) | [Blood On The Dancefloor](https://open.spotify.com/album/6t8sHzcPqMRdrB2QVwh3Mv) | 3:33 | 2023-05-10 | 2023-06-08 |
 | [Bloom](https://open.spotify.com/track/55iJOJkqH5nxjPh9uAh3nI) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf) | [HANDSOME GANG: Every Second We Try](https://open.spotify.com/album/2qXEzsvihC6CHwkHw0qOga) | 3:55 | 2023-06-22 | 2023-07-13 |
 | [Bloom](https://open.spotify.com/track/2aPkMz5csdBf20EjdzTPOr) | [Peach Fur](https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz), [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [Bloom](https://open.spotify.com/album/5un4PNtcREYAkCks4TInNm) | 3:57 | 2022-11-23 | 2022-12-01 |

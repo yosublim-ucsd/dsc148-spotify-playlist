@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,545 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,662 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 23 | [If You Don't Want My Love](https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [If You Don't Want My Love](https://open.spotify.com/album/1hgaSQNHek8k8M16BlDxS6) | 2:26 |
 | 24 | [Shinin'](https://open.spotify.com/track/7pyLO6s46ahQ7Mgl4krzU5) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Shinin'](https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4) | 2:57 |
 | 25 | [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 |
-| 26 | [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 |
+| 26 | [Come Back Home](https://open.spotify.com/track/755XOeQGLAEknUSCBFvwtI) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:17 |
 | 27 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 28 | [I Wanna Love](https://open.spotify.com/track/4Dk6Knrvqxp3aYARRGieaj) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [I Wanna Love](https://open.spotify.com/album/78T8IZb2NrmSNtItn2fiWd) | 3:56 |
 | 29 | [Untitled Visions](https://open.spotify.com/track/3j2pDRd8tiJiMgZ7RknuXu) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Untitled Visions](https://open.spotify.com/album/7tTFdS6eCjitmnXD8HqyUq) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 99 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 100 | [Dry](https://open.spotify.com/track/4ug40UefedjvTEXuuIZaQA) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [Nine Lives](https://open.spotify.com/album/34sLLcb1XwY8KD0fIcabjH) | 4:09 |
 
-Snapshot ID: `MCwyNjM2NzA2MjIzNTMyZmViMzEyYWNjMjZjMTljMjcwMWY1NzdjNDU0`
+Snapshot ID: `MCw4Y2RiMTc0YmZkYmM0MTg3ZWY1NzljOTFlNjNkMzgzY2Q5NjhkOTU5`

@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-206 songs - 11 hr 32 min
+209 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [ECLIPSE](https://open.spotify.com/track/3FoiMgXMrO3D5FeJuotKyZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:29 | 2022-05-23 |  |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2022-05-23 |  |
 | [Face](https://open.spotify.com/track/46C0toppaJOPT6VYYdixV8) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy) | 3:28 | 2022-05-23 | 2022-07-29 |
-| [Face](https://open.spotify.com/track/5Z9I7qD6pPsAyWMBZTnjAw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:28 | 2022-05-23 |  |
+| [Face](https://open.spotify.com/track/5Z9I7qD6pPsAyWMBZTnjAw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:28 | 2022-05-23 | 2023-08-03 |
+| [Face](https://open.spotify.com/track/5sAuJgcO45I2Y3F5CAowAe) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:28 | 2022-05-23 |  |
 | [Fall in Love](https://open.spotify.com/track/2UoliG4yLL0PSXJaTo22Jg) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [When My Love Blooms \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0EPhS9fBHZJtxB7sm9ScTJ) | 3:22 | 2022-05-23 |  |
 | [Fall in Love](https://open.spotify.com/track/4lpMmdpOCEc2LJVgTFny46) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [When My Love Blooms \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2GDTaNWlrHYenTpVsCb5ay) | 3:22 | 2022-05-23 | 2022-07-29 |
 | [Fall in Love](https://open.spotify.com/track/4sJjKC2OTZwqcJ4U6pkb01) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ), [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [When My Love Blooms \(Original Television Soundtrack\)](https://open.spotify.com/album/30YV3hJFnPGQOQRU1lv8bP) | 3:22 | 2022-05-23 | 2022-11-14 |
@@ -148,8 +149,9 @@
 | [Take Me To You](https://open.spotify.com/track/1BR9Y1N9OLNMqEGcKAdy0K) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:14 | 2022-05-23 |  |
 | [Take Me To You](https://open.spotify.com/track/4CtTi2tSRjUc6vABWAgUNp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:14 | 2022-05-23 | 2022-07-29 |
 | [Take You Down \(Feat\. Coogie\)](https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 3:27 | 2022-05-23 |  |
+| [Teenager](https://open.spotify.com/track/00epHVn0WOaXiT3UhpIINp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:09 | 2022-05-23 |  |
 | [Teenager](https://open.spotify.com/track/6D7PMEnCmHMC5WJb2HOGc3) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy) | 3:09 | 2022-05-23 | 2022-07-29 |
-| [Teenager](https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:09 | 2022-05-23 |  |
+| [Teenager](https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:09 | 2022-05-23 | 2023-08-03 |
 | [Thank You](https://open.spotify.com/track/4zqhiObNLChqnBSEzR9Jla) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:46 | 2022-05-23 |  |
 | [Thank You](https://open.spotify.com/track/6VJBgozq1aryUtpNOOLKb1) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Eyes On You](https://open.spotify.com/album/2k15VazqnRuva8vbh1iZWA) | 3:46 | 2022-05-23 | 2022-07-29 |
 | [Thank You, Sorry](https://open.spotify.com/track/1i1B47g1uwOPR2qeBYMshE) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love : Last Piece](https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij) | 3:43 | 2022-05-23 | 2022-07-29 |
@@ -178,7 +180,8 @@
 | [Why Why Why](https://open.spotify.com/track/7KJFzhA8d0IpIZLNt367Po) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Why Why Why](https://open.spotify.com/album/5MkkiVN4hu8eQ4vTTuma2q) | 2:39 | 2023-01-03 |  |
 | [WOLO](https://open.spotify.com/track/2A27zEZagIqtgpzLtnmjbb) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:04 | 2022-05-23 |  |
 | [WOLO](https://open.spotify.com/track/3xGbos6JtVvcD8Y7kk3V57) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [<Present : YOU> &ME Edition](https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA) | 3:04 | 2022-05-23 | 2022-07-29 |
-| [You Are](https://open.spotify.com/track/0onCsNOWfUMt1ERQ0TI9Zt) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:20 | 2022-05-23 |  |
+| [You Are](https://open.spotify.com/track/0onCsNOWfUMt1ERQ0TI9Zt) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf) | 3:20 | 2022-05-23 | 2023-08-03 |
+| [You Are](https://open.spotify.com/track/5THFfbp23EcJsygTyiBDzJ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy) | 3:20 | 2022-05-23 |  |
 | [You Are](https://open.spotify.com/track/6NyPIDsbl4hEm9tFKcKzsU) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy) | 3:20 | 2022-05-23 | 2022-07-29 |
 | [You Calling My Name](https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:14 | 2022-05-23 |  |
 | [ZERO](https://open.spotify.com/track/4IAXVS8vOGoY89nWAAe1OH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:48 | 2022-05-23 | 2022-07-29 |

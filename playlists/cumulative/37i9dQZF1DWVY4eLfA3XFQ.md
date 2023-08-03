@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring SIDEPIECE
 
-1,198 songs - 2 day 21 hr 19 min
+1,199 songs - 2 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [Live Is Life](https://open.spotify.com/track/3TojJdhEJcj2eTtOjKUqQi) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [ATIØPE](https://open.spotify.com/artist/3a8hvN6h6yukZCh1k8tmDF) | [Live Is Life](https://open.spotify.com/album/02xGsQl2qAGOqXYTyW1lZC) | 2:43 | 2023-06-09 |  |
 | [Live Stream](https://open.spotify.com/track/4a0aQKQ59K9owKjzg9c5N9) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m) | [Live Stream](https://open.spotify.com/album/78dGfFLXlYwHzJ7TJ2nLXI) | 4:05 | 2021-11-26 | 2022-04-23 |
 | [Live Stream \- Noizu Remix](https://open.spotify.com/track/44wKNLBs2kjyY5KqjWqY0z) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m) | [Live Stream \(Noizu Remix\)](https://open.spotify.com/album/6MY8C5VVAizFXfEgDeTnin) | 3:03 | 2023-06-30 |  |
+| [Living](https://open.spotify.com/track/5EdYBFZarevg1JlmzmTYnA) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [NOVODOR](https://open.spotify.com/artist/05Jkv3CdlsPA96MC8ZYLhY) | [Living](https://open.spotify.com/album/5cSslgXPIBdWdvneiyt35H) | 3:25 | 2023-07-28 |  |
 | [Lo Que Siento](https://open.spotify.com/track/5rPvnCH5uQKoaiB2biRFUK) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Lo Que Siento](https://open.spotify.com/album/4y3hcyQJTVQxM4ZWRvmdxS) | 2:49 | 2023-03-10 | 2023-04-09 |
 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 | 2023-07-07 |  |
 | [Loca People](https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Loca People](https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs) | 2:38 | 2023-02-03 | 2023-07-22 |
@@ -1155,7 +1156,7 @@
 | [We Don’t Need \- Club Edit](https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need \(Club Edit\)](https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7) | 2:38 | 2022-03-25 | 2022-08-13 |
 | [We Got The Fire](https://open.spotify.com/track/4KGBFbXNCKNC6ZPwdhx0eq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/2YvvywJmJkenbmYQAAkkzy) | 3:21 | 2022-08-26 | 2022-09-24 |
 | [We Make It Pop](https://open.spotify.com/track/4VH8x8g1v3BfERMMEHpudm) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [We Make It Pop](https://open.spotify.com/album/1xSKqKJAjZseHGYhBnVXgw) | 2:16 | 2022-08-19 | 2022-11-29 |
-| [We So Future](https://open.spotify.com/track/6EjgnrMiuRAIVoQ3QH3Ap2) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [SPNCR](https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR), [Awsumo](https://open.spotify.com/artist/5Gi2KJXdtV5biO7CzhhmO1) | [We So Future](https://open.spotify.com/album/4SJ6ky44MUmNhIkVIBTRqM) | 3:03 | 2023-04-28 |  |
+| [We So Future](https://open.spotify.com/track/6EjgnrMiuRAIVoQ3QH3Ap2) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [SPNCR](https://open.spotify.com/artist/5Jjs8bJVBiSdsxuvjoAKRR), [Awsumo](https://open.spotify.com/artist/5Gi2KJXdtV5biO7CzhhmO1) | [We So Future](https://open.spotify.com/album/4SJ6ky44MUmNhIkVIBTRqM) | 3:03 | 2023-04-28 | 2023-08-03 |
 | [Welcome To Reality](https://open.spotify.com/track/5oWPQpv9x811gPEDaX74Jd) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Welcome To Reality](https://open.spotify.com/album/01iIi34TpDqaxY64cjfzsB) | 2:59 | 2023-05-19 | 2023-06-17 |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [Jaded](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2021-11-26 | 2022-04-29 |
 | [Westside Trippin](https://open.spotify.com/track/6FUCfttIpDffqKo2JLIf5A) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [State Of Mind / Westside Trippin](https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ) | 3:35 | 2023-02-24 | 2023-04-30 |

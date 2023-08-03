@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,997 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,728 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 28 | [誰が為](https://open.spotify.com/track/5WMxky8j2WtDQtVAHFwqyB) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [誰が為](https://open.spotify.com/album/13ghpfyEQoSpAhnTAe8wFu) | 4:05 |
 | 29 | [鉄の檻](https://open.spotify.com/track/72Ssvonm3MdboS2EVssX5R) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [鉄の檻](https://open.spotify.com/album/5XuQ3aHlkeBIkmyS3mBIEC) | 4:25 |
 | 30 | [軌跡](https://open.spotify.com/track/2LNotRHCiZowAajdcToX0W) | [ラックライフ](https://open.spotify.com/artist/35AeYLIKrorZDAxsb40vVZ) | [軌跡](https://open.spotify.com/album/3DffhFQupk8k115ROCm7IV) | 3:21 |
-| 31 | [NAME](https://open.spotify.com/track/3FVoVvl5qCGGwW1grb1rG4) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [TVアニメ『好きな子がめがねを忘れた』オープニング主題歌「NAME」](https://open.spotify.com/album/1XJFg9e04qjHWliZWusqDD) | 3:29 |
-| 32 | [メガネゴーラウンド](https://open.spotify.com/track/2yTxnxmUNj2MxSxlMdtdEh) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [TVアニメ『好きな子がめがねを忘れた』エンディング主題歌「メガネゴーラウンド」](https://open.spotify.com/album/4a5ukB9wEIQlMSshOlxXqC) | 3:35 |
+| 31 | [NAME](https://open.spotify.com/track/0hC6oGwPVaP3dTqyDf9h4G) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [The Girl I Like Forgot Her Glasses Opening Theme "NAME"](https://open.spotify.com/album/04Cozcb8KxpFD3kxVjj5sT) | 3:29 |
+| 32 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 |
 | 33 | [La Muse perdue](https://open.spotify.com/track/5sRs39Var3IyQEP3Ls3ZaW) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [La Muse perdue](https://open.spotify.com/album/3cRj4H2iySQcwo9sBFz8Bz) | 4:07 |
-| 34 | [ニューサンス](https://open.spotify.com/track/72xSsgDcaQgd1FBUwOM8rw) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [TVアニメ「スパイ教室」2nd season エンディングテーマ「ニューサンス」](https://open.spotify.com/album/2HC1dbBWNHB5IsvczQRsvu) | 2:56 |
-| 35 | [楽園](https://open.spotify.com/track/0es7TqT1GKiHBt2HBTucXm) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [TVアニメ「スパイ教室」2nd season オープニングテーマ「楽園」](https://open.spotify.com/album/00g46gA2zF1kGM4CJCrgSK) | 3:33 |
+| 34 | [NUISANCE](https://open.spotify.com/track/2DTB5VfIXCYf4WVmOK2VqB) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [ENDING THEME NUISANCE FROM TV SERIES ”SPY CLASSROOM” 2ND SEASON](https://open.spotify.com/album/3d8jNva9LVnONzcOPuRMh4) | 2:56 |
+| 35 | [RAKUEN](https://open.spotify.com/track/35pKROYkFXQ11gitlxaV1g) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [OPENING THEME RAKUEN FROM TV SERIES ”SPY ROOM” 2ND SEASON](https://open.spotify.com/album/7mWGlRMvpMYGksGpZhOLNd) | 3:33 |
 | 36 | [トコシエスタ](https://open.spotify.com/track/5NigQtxhXjVsgy9IZjCnL8) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [トコシエスタ](https://open.spotify.com/album/7LcXqq2ETXZWYnqJ8JDeLe) | 3:27 |
 | 37 | [Guruguru Live](https://open.spotify.com/track/1vdYPvIKC9ekIGbUWmTP2z) | [由崎司\(CV:鬼頭明里\)](https://open.spotify.com/artist/3DZPDkF2LcgJBefu3J1k6k) | [Guruguru Live](https://open.spotify.com/album/3bkqSeYL7wnAqEvDr7zRYc) | 3:52 |
 | 38 | [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 |
-| 39 | [テレポーテーション](https://open.spotify.com/track/6KzG63636Wugv4OnqX0I5w) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [テレポーテーション](https://open.spotify.com/album/1oNSoTBJL0wo9N4DuUITFA) | 3:43 |
+| 39 | [テレポーテーション](https://open.spotify.com/track/0RX8Z1fQQrXVJ7obomHWTT) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [POLAROID](https://open.spotify.com/album/6jgC5RsGSLVAYv5F3IsmGs) | 3:43 |
 | 40 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 |
 | 41 | [はじめちまったんだ](https://open.spotify.com/track/08rwyzt6FhIMuHQMQrLE88) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [はじめちまったんだ](https://open.spotify.com/album/73jV7F1HM6uUPlNtmlTi7f) | 4:43 |
 | 42 | [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [バグちゃん](https://open.spotify.com/track/6MjzbRuEpkmP7fwvwaUF4T) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [バグちゃん\(TVアニメ「聖者無双\~サラリーマン、異世界で生き残るために歩む道\~オープニングテーマ\)](https://open.spotify.com/album/1TuhgrZsLfLks3CRShYoq7) | 3:37 |
 | 85 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 
-Snapshot ID: `MCxkMmRlZWNkM2NkMTVhNWE0MzI2MDdhMDNhNmNhODYxNTFmYjJiZWVl`
+Snapshot ID: `MCwyYWYwNTViMDg1ZjE2OWRiMWNlMjE3NTdlYjQ3ZWNkNDc1ZGQwYWNk`

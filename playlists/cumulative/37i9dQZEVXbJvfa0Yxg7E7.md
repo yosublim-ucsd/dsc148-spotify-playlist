@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,218 songs - 2 day 15 hr 12 min
+1,219 songs - 2 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-16 | 2023-01-02 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-30 | 2022-12-29 |
 | [Italia](https://open.spotify.com/track/3h2IRgTZrU4hSNCePszT23) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [UNDERGRUNN](https://open.spotify.com/album/6bO8ArMi8JRmdXBSdb99PZ) | 2:50 | 2022-04-07 |  |
+| [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 | 2023-08-02 |  |
 | [Ja, Vi Elsker Dette Landet](https://open.spotify.com/track/0GEeVI8Wa1KXGTStgBUerG) | [N/A](https://open.spotify.com/artist/0TssKMrMlrXSxIwNrghB1V), [Bodø Domkor](https://open.spotify.com/artist/6QQCeD7ZErV1xQnlyjaFHF) | [Fagert Er Landet](https://open.spotify.com/album/4xd4aloOZg3LAxNnhDPuFB) | 3:11 | 2021-05-19 | 2023-05-20 |
 | [Ja, vi elsker dette landet \- alle 8 vers](https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE) | [Rikard Nordraak](https://open.spotify.com/artist/1HIBjVzHAL7l9dOnKllH5J), [Bjørnstjerne Bjørnson](https://open.spotify.com/artist/11LPmaVCc0NqqKm7x4mDeb), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U), [THE STAFF BAND OF THE NORWEGIAN ARMED FORCES](https://open.spotify.com/artist/3xYnbdPOwx0r5ett9Hhoq9), [Schola Cantorum](https://open.spotify.com/artist/7kHhGP2Cm5z0YZsxuuoPo1), [Ingar Bergby](https://open.spotify.com/artist/5wgwZ42k45KFtRKHUgQhmI), [Tone Bianca Sparre Dahl](https://open.spotify.com/artist/059bRJ2h0NY1NDMaT21fSU) | [Ja, vi elsker](https://open.spotify.com/album/2fI9O9AauAKVT8RbkIobkY) | 8:39 | 2021-05-19 | 2022-05-20 |
 | [Jag kommer](https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:22 | 2023-05-18 | 2023-05-20 |
@@ -994,7 +995,7 @@
 | [Side Effects](https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Side Effects](https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg) | 2:17 | 2023-02-18 | 2023-02-24 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-16 |
 | [SIPPER](https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ), [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [SIPPER](https://open.spotify.com/album/1darpI3AUMsbJdlIWOfx0x) | 2:15 | 2023-04-15 | 2023-05-14 |
-| [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 |  |
+| [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-08-03 |
 | [Sjanse](https://open.spotify.com/track/3BlC5oQOpIB9F6tsgjAT78) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Sjanse](https://open.spotify.com/album/7DC2fbntLBHzWTjbkDoLxI) | 3:00 | 2023-07-01 | 2023-07-14 |
 | [Sju Fjell](https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Sju Fjell](https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ) | 2:58 | 2021-03-27\* | 2021-10-12 |
 | [Skal ikke gråte](https://open.spotify.com/track/5cUqVMM5kxpkud2kKK7LCi) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Skal ikke gråte](https://open.spotify.com/album/6C9NqMXDFXBFbq8fI3tpFY) | 3:24 | 2023-01-23 | 2023-03-05 |

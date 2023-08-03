@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 
 > Ambient and percussion to move the body and heal the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,721 likes - 105 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,880 likes - 105 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SEFZskKvKB.md) - [plain]
 | 104 | [Empty Nest](https://open.spotify.com/track/7EXaHleHFbECQcHRB4zc5i) | [Nirvana Handpan](https://open.spotify.com/artist/5HGiYfzLihy6ko4T5231Pw) | [Empty Nest](https://open.spotify.com/album/6Sh1KdQm1FyXcGkUfe0Xqn) | 2:50 |
 | 105 | [Sundran Outdoor](https://open.spotify.com/track/5Mm6wKongnMc6ruflc3KyB) | [Maximikiz](https://open.spotify.com/artist/0YlEZ0L8FwH6HMXW5jf4JC) | [Sundran Outdoor](https://open.spotify.com/album/5zqIbFcQtKwaiZCGaZMqWD) | 2:58 |
 
-Snapshot ID: `MCw1NTk2OWMwMGViOGI0YjdiMWRmMjQzZGI0NTY5ZGNjMTdmMTA0NzIx`
+Snapshot ID: `MCwxMDhmMmRlZmRjYjk0ZmFiOWQ1ZDZhN2NiYzlhMzg1ZTMwNDRkNDc3`

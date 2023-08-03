@@ -1,12 +1,12 @@
 {
   "description": "Ease out and balance your energies with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Anuradha Pal",
-  "num_followers": 891,
+  "num_followers": 1014,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGRiZTRiYjA1ZjQ1ZDMxZDQ4MzU1MDRkODZhMWU5MjAzMWJmYTNl",
+  "snapshot_id": "MCxkZmU3NGM1YmFiNTkxYWU0MzAxNDhiMGQ4N2IxMWUzODE4NGE3NmUw",
   "tracks": [
     {
       "added_at": "2023-06-20 11:40:39",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
+        "name": "Indian Tabla Meditations",
+        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+      },
+      "artists": [
+        {
+          "name": "Music Of Tabla",
+          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+        }
+      ],
+      "duration_ms": 272718,
+      "name": "Mumbai",
+      "url": "https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
         "name": "Tala Matrix",
         "url": "https://open.spotify.com/album/7K5JvSfWk1vQNdS9V5DNxu"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 279800,
       "name": "Palmistry",
       "url": "https://open.spotify.com/track/2xGQZzzc66Lx5budDmYqB6"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
-        "name": "Taaleem",
-        "url": "https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj"
-      },
-      "artists": [
-        {
-          "name": "Anuradha Pal",
-          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
-        }
-      ],
-      "duration_ms": 570506,
-      "name": "Drut Teentaal (Tabla solo)",
-      "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -247,34 +247,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Indian Tabla Meditations",
-        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+        "name": "Taaleem",
+        "url": "https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj"
       },
       "artists": [
         {
-          "name": "Music Of Tabla",
-          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
         }
       ],
-      "duration_ms": 272718,
-      "name": "Mumbai",
-      "url": "https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
-        "name": "Wonderwall Music",
-        "url": "https://open.spotify.com/album/6ujnCnLIJtjLgKGk68Q66m"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 64922,
-      "name": "Tabla and Pakavaj",
-      "url": "https://open.spotify.com/track/3vBZGFw8f12TOP930Wh65z"
+      "duration_ms": 570506,
+      "name": "Drut Teentaal (Tabla solo)",
+      "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -295,6 +279,22 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
+        "name": "Wonderwall Music",
+        "url": "https://open.spotify.com/album/6ujnCnLIJtjLgKGk68Q66m"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 64922,
+      "name": "Tabla and Pakavaj",
+      "url": "https://open.spotify.com/track/3vBZGFw8f12TOP930Wh65z"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
         "name": "Royalty Free Music For Films & TV - Vol. 2",
         "url": "https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq"
       },
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Pakhawaj",
-        "url": "https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4"
-      },
-      "artists": [
-        {
-          "name": "Bhavani Shankar",
-          "url": "https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME"
-        }
-      ],
-      "duration_ms": 375785,
-      "name": "Peace and Meditation",
-      "url": "https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "TablaTrap",
         "url": "https://open.spotify.com/album/0k3N7vIB6q6AKwQN1XycNQ"
       },
@@ -339,6 +323,38 @@
       "duration_ms": 220488,
       "name": "TablaTrap",
       "url": "https://open.spotify.com/track/0iw0rCaC2gw63fo8MqI0Hn"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Indian Tabla Meditations",
+        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+      },
+      "artists": [
+        {
+          "name": "Music Of Tabla",
+          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+        }
+      ],
+      "duration_ms": 236669,
+      "name": "Tabla Music",
+      "url": "https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Pakhawaj",
+        "url": "https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4"
+      },
+      "artists": [
+        {
+          "name": "Bhavani Shankar",
+          "url": "https://open.spotify.com/artist/25fjGNyVfjtes1KDulSKME"
+        }
+      ],
+      "duration_ms": 375785,
+      "name": "Peace and Meditation",
+      "url": "https://open.spotify.com/track/2l1wiFcG92EeSuKOBlAoQm"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Indian Tabla Meditations",
-        "url": "https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE"
+        "name": "Tabla Solo Part 02",
+        "url": "https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1"
       },
       "artists": [
         {
-          "name": "Music Of Tabla",
-          "url": "https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4"
+          "name": "Umesh Parmar",
+          "url": "https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM"
         }
       ],
-      "duration_ms": 236669,
-      "name": "Tabla Music",
-      "url": "https://open.spotify.com/track/4WVSDMP0lEEDf2dy6FTzs6"
+      "duration_ms": 125465,
+      "name": "Tabla Solo Part 02",
+      "url": "https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -411,18 +427,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Tabla Solo Part 02",
-        "url": "https://open.spotify.com/album/5D2wJ32N8tomjXleZ3nPf1"
+        "name": "Tabla Teental Kayda (Instrumental)",
+        "url": "https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI"
       },
       "artists": [
         {
-          "name": "Umesh Parmar",
-          "url": "https://open.spotify.com/artist/62NeeJFOOstCoM3ssdK6WM"
+          "name": "Aryan Gohariya",
+          "url": "https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR"
         }
       ],
-      "duration_ms": 125465,
-      "name": "Tabla Solo Part 02",
-      "url": "https://open.spotify.com/track/0R4VRpS9fwAyKP7jKVfvMk"
+      "duration_ms": 326034,
+      "name": "Tabla Teental Kayda - Instrumental",
+      "url": "https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -439,22 +455,6 @@
       "duration_ms": 201613,
       "name": "Tabla and the Beat",
       "url": "https://open.spotify.com/track/6CJS8wSAtOvd6oDSzPefCH"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
-        "name": "Tabla Teental Kayda (Instrumental)",
-        "url": "https://open.spotify.com/album/2KK1CB9xmlZCxzIH56llYI"
-      },
-      "artists": [
-        {
-          "name": "Aryan Gohariya",
-          "url": "https://open.spotify.com/artist/6H4EMQVeJtpdTVfcNm6WbR"
-        }
-      ],
-      "duration_ms": 326034,
-      "name": "Tabla Teental Kayda - Instrumental",
-      "url": "https://open.spotify.com/track/7s3BAzAXgYfJ72R6HXhBhi"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Dum Tak Revolution, Vol. 3",
-        "url": "https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs"
-      },
-      "artists": [
-        {
-          "name": "Khader Ahmad",
-          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
-        }
-      ],
-      "duration_ms": 253045,
-      "name": "Tab Tabla",
-      "url": "https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
         "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
-        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
+        "name": "Dum Tak Revolution, Vol. 3",
+        "url": "https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs"
       },
       "artists": [
         {
-          "name": "Kamalesh Maitra",
-          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
+          "name": "Khader Ahmad",
+          "url": "https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg"
         }
       ],
-      "duration_ms": 588133,
-      "name": "Raag Bhupal Todi",
-      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
+      "duration_ms": 253045,
+      "name": "Tab Tabla",
+      "url": "https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI"
     },
     {
       "added_at": "2023-06-25 04:36:23",
@@ -547,18 +531,18 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "The Sound of Indian Tabla",
-        "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
+        "name": "The World's Musical Traditions, Vol. 10: Tabla Tarang--Melody on Drums",
+        "url": "https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ"
       },
       "artists": [
         {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+          "name": "Kamalesh Maitra",
+          "url": "https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51"
         }
       ],
-      "duration_ms": 222626,
-      "name": "Khandam",
-      "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
+      "duration_ms": 588133,
+      "name": "Raag Bhupal Todi",
+      "url": "https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ"
     },
     {
       "added_at": "2023-06-20 11:40:39",
@@ -579,6 +563,22 @@
       "duration_ms": 348615,
       "name": "Tabla Solo - Taal Rupak",
       "url": "https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "The Sound of Indian Tabla",
+        "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Khandam",
+      "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
     },
     {
       "added_at": "2023-06-25 05:02:36",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-06-20 11:40:39",
       "album": {
-        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
-        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
-      },
-      "artists": [
-        {
-          "name": "Adho Vrikshasana",
-          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
-        }
-      ],
-      "duration_ms": 380995,
-      "name": "Tabla Music for Meditation",
-      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
-    },
-    {
-      "added_at": "2023-06-20 11:40:39",
-      "album": {
         "name": "Shared Moments",
         "url": "https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 526767,
       "name": "Tani Avartanam",
       "url": "https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw"
+    },
+    {
+      "added_at": "2023-06-20 11:40:39",
+      "album": {
+        "name": "Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music",
+        "url": "https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44"
+      },
+      "artists": [
+        {
+          "name": "Adho Vrikshasana",
+          "url": "https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx"
+        }
+      ],
+      "duration_ms": 380995,
+      "name": "Tabla Music for Meditation",
+      "url": "https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN"
     },
     {
       "added_at": "2023-06-20 11:40:39",

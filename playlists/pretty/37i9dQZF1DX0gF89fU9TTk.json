@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 120693,
+  "num_followers": 120753,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNiNjE3YjZlOGVlZmIwYTFhOGE4Yzc2ZmE3MWM2NzQ2MzUyMzZh",
+  "snapshot_id": "MCxhYzY4MjJlNmVjOTg1YjM2YTlmMzk2MjBjYWUzNDM0ZGIwNzY0Y2My",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -399,18 +399,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Be Okay - EP",
-        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
       },
       "artists": [
         {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 194374,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
+      "duration_ms": 238666,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO"
+        "name": "Be Okay - EP",
+        "url": "https://open.spotify.com/album/1nyPbs5sNmjvgJyqcm78EZ"
       },
       "artists": [
         {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Kingdom Come",
-      "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
+      "duration_ms": 194374,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2kHntZREc5lLhN6jItWVut"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 124160,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "White Noise",
-        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
-      },
-      "artists": [
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        },
-        {
-          "name": "Chris Howland",
-          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
-        }
-      ],
-      "duration_ms": 227500,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Canyon Worship 2021",
         "url": "https://open.spotify.com/album/3MZH0Cvtpcxg0k0IxU2WYQ"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        },
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1195,26 +1195,18 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Changed (OHKI Roller Rink Remix)",
-        "url": "https://open.spotify.com/album/4FtWjqvPIP9z14HySePRU2"
+        "name": "Fear Not",
+        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "OHKI",
-          "url": "https://open.spotify.com/artist/7rbSaznCAHxWrxMZl1Pw7N"
-        },
-        {
-          "name": "OHKI Roller Rink",
-          "url": "https://open.spotify.com/artist/3rd86ElAskGURkO7Z5egCw"
+          "name": "FEARLESS BND",
+          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
         }
       ],
-      "duration_ms": 182758,
-      "name": "Changed - OHKI Roller Rink Remix",
-      "url": "https://open.spotify.com/track/4fmIuMxX51eASane0ri7h1"
+      "duration_ms": 333890,
+      "name": "Not a Chance",
+      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1235,18 +1227,26 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Fear Not",
-        "url": "https://open.spotify.com/album/3oCv2Kpfd1y9SFgbl2TQx7"
+        "name": "Changed (OHKI Roller Rink Remix)",
+        "url": "https://open.spotify.com/album/4FtWjqvPIP9z14HySePRU2"
       },
       "artists": [
         {
-          "name": "FEARLESS BND",
-          "url": "https://open.spotify.com/artist/7sj3k8KPGd3B5gvtpcdlZP"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "OHKI",
+          "url": "https://open.spotify.com/artist/7rbSaznCAHxWrxMZl1Pw7N"
+        },
+        {
+          "name": "OHKI Roller Rink",
+          "url": "https://open.spotify.com/artist/3rd86ElAskGURkO7Z5egCw"
         }
       ],
-      "duration_ms": 333890,
-      "name": "Not a Chance",
-      "url": "https://open.spotify.com/track/1jjJ1foYTZBcwnq7Ot92YB"
+      "duration_ms": 182758,
+      "name": "Changed - OHKI Roller Rink Remix",
+      "url": "https://open.spotify.com/track/4fmIuMxX51eASane0ri7h1"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "You Tell Me",
-        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+        "name": "Clouds Are Clearing: Mixtape 1A",
+        "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
       },
       "artists": [
         {
-          "name": "One Common",
-          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         }
       ],
-      "duration_ms": 180600,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+      "duration_ms": 159000,
+      "name": "Higher Than Mine (Remix)",
+      "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
     }
   ],
   "unique_name": "Hits UP",

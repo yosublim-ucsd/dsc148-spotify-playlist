@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 
 > 
 
-[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 43 songs - 2 hr 33 min
+[trin](https://open.spotify.com/user/tjoslin05) - 0 like - 44 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,5 +51,6 @@ pretty - [cumulative](/playlists/cumulative/2umhFr6VmhHDDT1Tdlc8s4.md) - [plain]
 | 41 | [No Rush](https://open.spotify.com/track/6uF872FviEDxImISjPD4Hs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 2:12 |
 | 42 | [All You Gotta Be When You're 23 Is Yourself](https://open.spotify.com/track/0ppPrxfIry7uMvM7djyFX6) | [Free Cake For Every Creature](https://open.spotify.com/artist/3oqgxdumaZZ5hOt2ykwYTQ) | [Talking Quietly of Anything With You](https://open.spotify.com/album/65uA55viVzKnJ3veAi180n) | 2:26 |
 | 43 | [Flirting with Her](https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo) | [Sir Babygirl](https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls) | [Crush on Me](https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu) | 3:50 |
+| 44 | [7 years](https://open.spotify.com/track/4jQDJPgw3qkc1T2f1safdy) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [BJ Burton](https://open.spotify.com/artist/79qKFHLgvS3SEabYpohRHz) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:15 |
 
-Snapshot ID: `ODAsZTE2M2Y5OTY2ZDFiY2Y4NTE1YzgzNjQ3NDRjYmE1MmE1MWY3ZTI2Ng==`
+Snapshot ID: `ODEsNDc3ZDY1ZjJlNDNmMjBlYjQ4NzIxNDYzYTA4MjVmOWRjOTVkZGQ4ZQ==`

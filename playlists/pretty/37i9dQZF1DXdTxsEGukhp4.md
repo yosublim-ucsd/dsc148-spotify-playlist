@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 崎山蒼志
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,490 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,560 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [you are my curse](https://open.spotify.com/track/7qALdDJNziRn0URhWKRh6P) | [nyamura](https://open.spotify.com/artist/07ug3BRvzioh7LjHtTDgF6) | [you are my curse](https://open.spotify.com/album/0sXGHTRKpnvRcmnqYVsDa3) | 2:20 |
 | 50 | [繋いだ手](https://open.spotify.com/track/3YMt4l4fQRqL18peB4AuYY) | [MINAMI](https://open.spotify.com/artist/1JEdEHubWKD5Qr6pDIyCEy) | [繋いだ手](https://open.spotify.com/album/0TLOkRatBwCXj9PgBXWNg6) | 3:37 |
 
-Snapshot ID: `MCw4N2FjYTFjZDJlMjZjOTdhZThiZTU0NmJmZmU2NTgyMzUyYzQwYjEx`
+Snapshot ID: `MCxkNjhhMTM2MDBhZWFkNmQwM2U3ZjI1YTg0NTk1ZWZiNDFkYmM1YmJi`

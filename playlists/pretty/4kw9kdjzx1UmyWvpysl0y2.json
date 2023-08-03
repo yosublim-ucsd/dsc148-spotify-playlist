@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127244,
+  "num_followers": 127237,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMzNixkYzIyOGZlODA4MDAyYTg1MzZjZjJjNjc0M2IyODI4NjVkZWM3NzU2",
+  "snapshot_id": "NDMzNyxlODZiNzBlMGYwMmQ5NjFlM2QwN2I1MmE0NTYxYmEyZWY0YTdlZGM0",
   "tracks": [
+    {
+      "added_at": "2023-08-02 18:43:07",
+      "album": {
+        "name": "High Enough",
+        "url": "https://open.spotify.com/album/1a9TrMvaBz287m64GsDsak"
+      },
+      "artists": [
+        {
+          "name": "Grant",
+          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
+        },
+        {
+          "name": "Will Jay",
+          "url": "https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/6qv0ptzHveUZEy4cwxoRg3"
+    },
     {
       "added_at": "2023-08-01 20:58:23",
       "album": {
