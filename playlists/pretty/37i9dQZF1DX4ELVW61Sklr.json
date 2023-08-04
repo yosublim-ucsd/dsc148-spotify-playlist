@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.",
-  "num_followers": 168060,
+  "num_followers": 168053,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzZmNjNiODUxMDRjZWU5Y2NjOWFmYmEwMmQwYzZlODhmZTYyYjNh",
+  "snapshot_id": "MCw1YzgzOTEzMjdmMTg3ZTc5OTlhZjVjNTJhMmNlNmNhYThmMjgyMGZj",
   "tracks": [
     {
       "added_at": "2022-11-25 20:23:30",
@@ -225,6 +225,22 @@
       "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
     },
     {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Give Love At Christmas",
+        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 365720,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
+    },
+    {
       "added_at": "2022-12-02 05:00:00",
       "album": {
         "name": "Peppermint Tea",
@@ -243,22 +259,6 @@
       "duration_ms": 189412,
       "name": "Peppermint Tea",
       "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "Give Love At Christmas",
-        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 365720,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
-        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
       },
       "artists": [
         {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 360133,
-      "name": "Soul Holidays",
-      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
+      "duration_ms": 287426,
+      "name": "I Can Hardly Wait 'Til Christmas",
+      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
+        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
+        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
         }
       ],
-      "duration_ms": 287426,
-      "name": "I Can Hardly Wait 'Til Christmas",
-      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
+      "duration_ms": 360133,
+      "name": "Soul Holidays",
+      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -831,6 +831,22 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
         "name": "Christmas After Midnight",
         "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 250266,
       "name": "Glory To The King - His Gift Version",
       "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
-        "name": "It's Christmas",
-        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Give Love On Christmas Day",
-      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -913,24 +913,20 @@
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
     },
     {
-      "added_at": "2022-11-25 20:23:30",
+      "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "What Christmas Means",
-        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
       },
       "artists": [
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
-        },
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Be Mine For Christmas",
-      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -949,20 +945,24 @@
       "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
     },
     {
-      "added_at": "2021-12-15 17:30:29",
+      "added_at": "2022-11-25 20:23:30",
       "album": {
-        "name": "Christmas in Baltimore",
-        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+        "name": "What Christmas Means",
+        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
       },
       "artists": [
         {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 216933,
-      "name": "Favorite Time of Year",
-      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
+      "duration_ms": 257399,
+      "name": "Be Mine For Christmas",
+      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Star Bright",
-        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Williams",
-          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "Christmas With Babyface",
         "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193400,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
     },
     {
       "added_at": "2022-11-25 20:23:30",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2021-12-15 17:30:29",
       "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "The Christmas Song (feat. Chaka Khan)",
-      "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
-    },
-    {
-      "added_at": "2021-12-15 17:30:29",
-      "album": {
         "name": "He Is Christmas",
         "url": "https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 275026,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/5ou7qxprOCJkbNgxJLygwo"
+    },
+    {
+      "added_at": "2021-12-15 17:30:29",
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "The Christmas Song (feat. Chaka Khan)",
+      "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
     },
     {
       "added_at": "2021-12-15 17:30:29",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
     },
     {
+      "added_at": "2022-11-25 20:23:30",
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
+    },
+    {
       "added_at": "2021-12-15 17:30:29",
       "album": {
         "name": "Still Home For The Holidays",
@@ -1319,22 +1335,6 @@
       "duration_ms": 299829,
       "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
       "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
-    },
-    {
-      "added_at": "2022-11-25 20:23:30",
-      "album": {
-        "name": "Christmas With Babyface",
-        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276960,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
     }
   ],
   "unique_name": "R&B Christmas",

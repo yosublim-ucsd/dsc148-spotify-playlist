@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3590658,
+  "num_followers": 3590747,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDJhNDMzYWUxNTJjZDA1Y2M4YmYwNWRiMmI1ZWFlNzMwZTE4MTUz",
+  "snapshot_id": "MCw1YWFmOWFiYTEyYTlhZTMzNDc5NmQ5MDY3OGIyOTZjODgwMzg3MjVi",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Your Smiling Face",
-      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -59,34 +43,34 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 456640,
-      "name": "Deacon Blues",
-      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
+      "duration_ms": 165400,
+      "name": "Your Smiling Face",
+      "url": "https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb"
     },
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
         }
       ],
-      "duration_ms": 257868,
-      "name": "Reminiscing - Remastered 2010",
-      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -103,6 +87,22 @@
       "duration_ms": 235373,
       "name": "If You Leave Me Now",
       "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 456640,
+      "name": "Deacon Blues",
+      "url": "https://open.spotify.com/track/61AK5ICbKk20h1dFS3mXuu"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -153,36 +153,20 @@
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
-      "added_at": "2023-03-20 17:07:41",
+      "added_at": "2023-08-03 13:17:37",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 223133,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
+      "duration_ms": 197706,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered 2010",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Abandoned Luncheonette",
         "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
       },
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 381998,
+      "name": "Lyin' Eyes - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
         "name": "Toto",
         "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 233866,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 381998,
-      "name": "Lyin' Eyes - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -763,6 +763,22 @@
       "duration_ms": 218826,
       "name": "Cool Night",
       "url": "https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/15taea6JZLAfG5OX0pzfG6"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1195,22 +1211,6 @@
       "duration_ms": 270333,
       "name": "Fountain Of Sorrow",
       "url": "https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
-        "name": "Goodbye Girl",
-        "url": "https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd"
-      },
-      "artists": [
-        {
-          "name": "David Gates",
-          "url": "https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "Never Let Her Go",
-      "url": "https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p"
     }
   ],
   "unique_name": "Soft Rock",

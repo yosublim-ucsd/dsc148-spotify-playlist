@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 187028,
+  "num_followers": 187218,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjhiN2VjYWE0MzNjNTg3YWM4NzcwNzU0MDdlOTBmOTNjODE5MWZk",
+  "snapshot_id": "MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Reality Testing",
-        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
-      },
-      "artists": [
-        {
-          "name": "Lone",
-          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
-        }
-      ],
-      "duration_ms": 289082,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Transient Random-Noise Bursts With Announcements",
         "url": "https://open.spotify.com/album/0XwFmkEzDFl5KrVG5z0lE6"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 306133,
       "name": "Pack Yr Romantic Mind",
       "url": "https://open.spotify.com/track/4CxKeyGN8tyBf04mYx4GgC"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Reality Testing",
+        "url": "https://open.spotify.com/album/2JBrH4OqnSCUKXqFEEakkK"
+      },
+      "artists": [
+        {
+          "name": "Lone",
+          "url": "https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI"
+        }
+      ],
+      "duration_ms": 289082,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/0Ip2pWYQmo8NUxKql20QPk"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Bright Serpent",
-        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
-      },
-      "artists": [
-        {
-          "name": "Inwards",
-          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "At Height",
-      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "A Mineral Love",
         "url": "https://open.spotify.com/album/1XyvqZhfSsxO03MesQpaQn"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+        "name": "Bright Serpent",
+        "url": "https://open.spotify.com/album/1VukT3w77oaLOgkQWkznwu"
       },
       "artists": [
         {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+          "name": "Inwards",
+          "url": "https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse"
         }
       ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+      "duration_ms": 232960,
+      "name": "At Height",
+      "url": "https://open.spotify.com/track/4n7Cl2IPm0wQpJq63moUKc"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1231,6 +1215,22 @@
       "duration_ms": 246706,
       "name": "Kodomotachi",
       "url": "https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "FTLOG",
-        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 247869,
-      "name": "FTLOG",
-      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Short And Sweet",
         "url": "https://open.spotify.com/album/3RjQU5PBpd46ZVVV556Xqq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 293306,
       "name": "I Think Of You",
       "url": "https://open.spotify.com/track/36D5zut2til58ggxAbTFy7"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "FTLOG",
+        "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 247869,
+      "name": "FTLOG",
+      "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "I Will Make Room for You (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 497500,
-      "name": "I Will Make Room for You - Four Tet Remix",
-      "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "I Will Make Room for You (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 497500,
+      "name": "I Will Make Room for You - Four Tet Remix",
+      "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "L.O.S.S.",
-        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
-      },
-      "artists": [
-        {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
-        }
-      ],
-      "duration_ms": 267250,
-      "name": "Nobody New Around You",
-      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Lost My Body (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 167986,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
     },
     {
       "added_at": "2022-02-03 02:43:26",

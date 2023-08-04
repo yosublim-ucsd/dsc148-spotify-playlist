@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
@@ -2051,7 +2051,7 @@
     },
     {
       "album": {
-        "name": "Yes We Can Can",
+        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
         "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
       },
       "artists": [

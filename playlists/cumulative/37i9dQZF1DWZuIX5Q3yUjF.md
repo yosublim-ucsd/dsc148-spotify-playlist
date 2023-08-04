@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Saintess
+> Il meglio dell'R&B italiano\. Cover: Yosef
 
-369 songs - 18 hr 13 min
+371 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [BLU](https://open.spotify.com/track/6w4QgM7NJgyIxAOVdvMR32) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [BLU](https://open.spotify.com/album/4sMPCLZ2dW95sOp9pOCfTm) | 3:35 | 2023-02-23 |  |
 | [BOLLA](https://open.spotify.com/track/59hITQBriwhFRILx6xJBra) | [Bonsai](https://open.spotify.com/artist/4EKEOzsltTuwD2kKuDKd6t) | [REWIND EP](https://open.spotify.com/album/6tudu1HtN2VinixmMMOXYZ) | 3:48 | 2022-10-13 | 2023-01-13 |
 | [BOLLICINE](https://open.spotify.com/track/3YNZBHzSKxfEvv801uyh72) | [Bravo, Bravissimo](https://open.spotify.com/artist/6st78j54gm9fHJfB9ZKdh4), [ERMEN](https://open.spotify.com/artist/3TYembMUmgKhhLtNU76qCq) | [BOLLICINE](https://open.spotify.com/album/6ocpHIE7koGfyal8hdeXau) | 2:45 | 2023-06-22 |  |
+| [Bordeaux](https://open.spotify.com/track/6K4c1neXmVgj2qWOZTcGvi) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Bordeaux](https://open.spotify.com/album/1BwPqLtg1Ilkj2qLEgpPVB) | 2:49 | 2023-08-03 |  |
 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 | 2022-07-14 |  |
 | [Brava](https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Brava](https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM) | 3:10 | 2023-07-20 |  |
 | [Britney](https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG) | [Scozia](https://open.spotify.com/artist/06kIJSKCJs2NoULdMDwEh9) | [Britney](https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE) | 3:09 | 2022-05-05 | 2022-06-03 |
@@ -48,6 +49,7 @@
 | [California](https://open.spotify.com/track/6MCemM0G5xKhsiqD97OOvU) | [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay), [heysimo](https://open.spotify.com/artist/2V4pebFMSQHlTH3K3dOs2A), [Harley](https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F), [Etto](https://open.spotify.com/artist/1MYtROZnFeQPvmuQv7hKKK) | [California](https://open.spotify.com/album/7ktPpSLTAJ4mcnfZxQBXnN) | 2:31 | 2022-06-02 | 2022-11-25 |
 | [Cambio di scena](https://open.spotify.com/track/4CmhDQAXV7lbRTMcOMbjbe) | [Lauryyn](https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4) | [Cambio di scena](https://open.spotify.com/album/4j8Tha0jOLgoYg7uUMiJXj) | 2:49 | 2023-05-25 |  |
 | [candy baby](https://open.spotify.com/track/2ccgyfy8iZzVuZUgYP6ueJ) | [johara](https://open.spotify.com/artist/5c4D7WHqD6FZggQ3K4atAh) | [dreamy pills](https://open.spotify.com/album/6R8g6IWzvtxuBNAInUfcwJ) | 3:10 | 2022-05-05 | 2022-07-01 |
+| [CAOTICA](https://open.spotify.com/track/5Vh7cwTM43jfQHq8iMFtZc) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [CAOTICA](https://open.spotify.com/album/48Uk2Z5KiJK9CmNUQt4ODM) | 3:11 | 2023-08-03 |  |
 | [Capita](https://open.spotify.com/track/3Lve3UdDi0J2hdCVED05Rl) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Capita](https://open.spotify.com/album/0SFoxBDFHXZGFevTRDTqdA) | 2:45 | 2023-03-23 | 2023-06-09 |
 | [Cartier](https://open.spotify.com/track/2qRv0ExcJ4Hyqqm4CTg1Gm) | [Joana](https://open.spotify.com/artist/6ETXNuvHYlQcCmfsgBI4s9) | [Cartier](https://open.spotify.com/album/3CVuAiTH0LQNp4pSB3Mmjb) | 2:54 | 2022-07-28 | 2022-12-02 |
 | [CASSIOPEA](https://open.spotify.com/track/7i6tbPGFbaACOw0shXx26I) | [Chiara Grispo](https://open.spotify.com/artist/5nDEqav82qoReyDvxDs0l8) | [CASSIOPEA](https://open.spotify.com/album/2ssgKtNXgzQxH4iUhhWegs) | 2:33 | 2023-01-12 | 2023-03-10 |
@@ -231,7 +233,7 @@
 | [Non mi vuoi più bene](https://open.spotify.com/track/1JDLPzD8ZfFR1sQN6enws4) | [Ugo Crepa](https://open.spotify.com/artist/2Dnl3zSlmEnQKW5bsqfROS), [Dutch Nazari](https://open.spotify.com/artist/2mHrcXHBgPciUOYh3JHISu), [foolviho](https://open.spotify.com/artist/5jey6WrdNNxrVwujdDzDQY) | [Non mi vuoi più bene](https://open.spotify.com/album/0QRXE7xhIGxl70M1jIjOdC) | 3:27 | 2022-06-16 | 2022-09-23 |
 | [non siamo crazy in love](https://open.spotify.com/track/6Xv6BTZfLTsOQgkPIIg1Nd) | [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [non siamo crazy in love](https://open.spotify.com/album/4w9xShJXyN7CWh1ShpkUFN) | 2:51 | 2023-07-13 |  |
 | [Non ti sento più](https://open.spotify.com/track/3hdAL9JFNGFRbO4MhzIaVR) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Non ti sento più](https://open.spotify.com/album/70poOsHGDl7urLq0sfhPKH) | 3:01 | 2022-06-09 | 2022-12-02 |
-| [Not Here to Please](https://open.spotify.com/track/7wYqphBeILgsLCS5pbX4sI) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Not Here to Please](https://open.spotify.com/album/5fOLGwwkZ28LvPan6fXQGl) | 2:28 | 2023-06-08 |  |
+| [Not Here to Please](https://open.spotify.com/track/7wYqphBeILgsLCS5pbX4sI) | [SAMI](https://open.spotify.com/artist/6wVT2CEFalop28vEC7y726), [Ge Oh](https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q) | [Not Here to Please](https://open.spotify.com/album/5fOLGwwkZ28LvPan6fXQGl) | 2:28 | 2023-06-08 | 2023-08-04 |
 | [Notte D’Amore](https://open.spotify.com/track/2hXhj3y3RNoLAFulvBxhHj) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [D'Amore](https://open.spotify.com/artist/0yjjCja9FIK0ROO6HLMiO4), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [Sex Festival](https://open.spotify.com/album/7AYKXAgXmauHwXVdJH2Iwn) | 2:36 | 2022-09-01 |  |
 | [NRP](https://open.spotify.com/track/6DRAc2zO6ZjYywTq6yz5on) | [Bietto](https://open.spotify.com/artist/3Sip9AdfwfvfVITTR7Unxf), [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk) | [NRP](https://open.spotify.com/album/658EUyLGFHcSayRPuT0yed) | 2:45 | 2022-12-08 | 2023-01-13 |
 | [Nunn 'o voglio sape'](https://open.spotify.com/track/31i7zRLLh1MyLfk2mblk0d) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [Nunn 'o voglio sape'](https://open.spotify.com/album/0Jz3rP9MZ3VUrMKSlRkBH8) | 2:52 | 2022-09-08 | 2023-02-24 |
@@ -296,7 +298,7 @@
 | [Sei come il mare](https://open.spotify.com/track/1kHDTbfeX2dD9WqRX8Ft6I) | [Zell](https://open.spotify.com/artist/6UbUUnpLLgfZs27Tzsd6te) | [Sei come il mare](https://open.spotify.com/album/6Z4HDKzevkIIi9OynwpP4s) | 3:38 | 2022-05-05 | 2022-05-27 |
 | [Sei Diventata](https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF) | [DepSure](https://open.spotify.com/artist/56l6kzGxdc7vmWY9WGKe6z), [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Sei Diventata](https://open.spotify.com/album/7z0slYrWLiphPOMOdPTvBl) | 3:22 | 2022-06-09 | 2022-07-29 |
 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 | 2023-06-08 | 2023-07-21 |
-| [SEMIMENTI](https://open.spotify.com/track/4K6aRIb9AnPWGyvZeGAY1E) | [Francesco Savini](https://open.spotify.com/artist/2gJTQtqoLBEtaCZhbdPI63) | [SEMIMENTI](https://open.spotify.com/album/0qLLBJDZK03y0W4RvlAuix) | 3:02 | 2023-07-13 |  |
+| [SEMIMENTI](https://open.spotify.com/track/4K6aRIb9AnPWGyvZeGAY1E) | [Francesco Savini](https://open.spotify.com/artist/2gJTQtqoLBEtaCZhbdPI63) | [SEMIMENTI](https://open.spotify.com/album/0qLLBJDZK03y0W4RvlAuix) | 3:02 | 2023-07-13 | 2023-08-04 |
 | [Sempre Indietro](https://open.spotify.com/track/4zEmCO5vajFjB3UxcS72F9) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Sempre Indietro](https://open.spotify.com/album/06zmjnqSxJbJN3wvSb9v0m) | 2:43 | 2022-09-22 | 2022-11-11 |
 | [Senza Te](https://open.spotify.com/track/1WBOwvRPgq6UqPTvXBHF4i) | [Auua](https://open.spotify.com/artist/2tnzSiqtkZbBZMshF406i9) | [Senza Te](https://open.spotify.com/album/3GmzaEJniZOLhoQCKoJYdP) | 2:51 | 2023-02-23 | 2023-05-12 |
 | [Senza te](https://open.spotify.com/track/0xaEoFkggmekGfQaTwuwk0) | [Claudiemme](https://open.spotify.com/artist/0rsPkjYrNx37GnqkIOeMPW) | [Senza te](https://open.spotify.com/album/3sRLsdqgQ2ewYQxlPI48nu) | 3:24 | 2022-05-05 | 2022-05-27 |

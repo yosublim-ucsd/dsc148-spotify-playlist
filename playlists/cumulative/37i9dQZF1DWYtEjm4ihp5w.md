@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Smallx
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
 143 songs - 7 hr 33 min
 

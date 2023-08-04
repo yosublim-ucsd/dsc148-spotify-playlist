@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2?si=dcb330485ac242f6">Marcos Witt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,278 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,514 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
 | 100 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 |
 
-Snapshot ID: `MCw4ZDQzNGQ3ZTNhZTgwZmFmMjVlN2E1MjE1YzY1ZTkyNWI4ODE3MGM2`
+Snapshot ID: `MCw1ZjlkMWU2MmZlZGQ4N2Y2MTU0MTNmNmFmNDY2OWEwYWFmOTBkNGJj`

@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Iluminado",
+        "url": "https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Aguarela",
+      "url": "https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW"
+    },
+    {
+      "album": {
         "name": "ALK",
         "url": "https://open.spotify.com/album/0siZdhz3ZguKw6Xrgh4Fw0"
       },
@@ -248,10 +266,28 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 201931,
       "name": "Andal\u00e9",
       "url": "https://open.spotify.com/track/0rYRDCNedo3Pg9VTQd4aRT"
+    },
+    {
+      "album": {
+        "name": "CASTANHO",
+        "url": "https://open.spotify.com/album/2NYhVEDTSEwvNrW7qs7IOU"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "ANTI-ANTES",
+      "url": "https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB"
     },
     {
       "album": {
@@ -677,6 +713,24 @@
     },
     {
       "album": {
+        "name": "Conto Bafiento",
+        "url": "https://open.spotify.com/album/3QRH1H6QoLo6mjDaLAaryZ"
+      },
+      "artists": [
+        {
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Conto Bafiento",
+      "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
+    },
+    {
+      "album": {
         "name": "Anatomia de GROG",
         "url": "https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y"
       },
@@ -858,7 +912,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 135724,
       "name": "ELA QUERIA MAIS",
       "url": "https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg"
@@ -1038,7 +1092,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 216488,
       "name": "Fato treino do City",
       "url": "https://open.spotify.com/track/6FnE1Y3iWcvVHFB3oLC0vB"
@@ -1568,7 +1622,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 145100,
       "name": "Louca Life",
       "url": "https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso"
@@ -2376,6 +2430,24 @@
       "duration_ms": 142341,
       "name": "Por Enquanto",
       "url": "https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C"
+    },
+    {
+      "album": {
+        "name": "Festival da Can\u00e7\u00e3o 2023",
+        "url": "https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Povo",
+      "url": "https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH"
     },
     {
       "album": {

@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6449\)
+## Playlists \(6451\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2140,7 +2140,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- Post Malone](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Feid](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -2758,6 +2758,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Latin Pop Classics](/playlists/pretty/37i9dQZF1DX6ThddIjWuGT.md)
 - [Latin Pop Today](/playlists/pretty/37i9dQZF1DX1QnNyJOBQBv.md)
 - [Latin R&B](/playlists/pretty/37i9dQZF1DX2MJVTOdWtbm.md)
+- [Latin Trap GOATs](/playlists/pretty/37i9dQZF1DX8SbPlhaSW0T.md)
 - [Latin songs you should save ✚](/playlists/pretty/37i9dQZF1DWXwq2EYhP9Qz.md)
 - [Laurel Canyon Legends](/playlists/pretty/37i9dQZF1DWUKTqLl4oNGg.md)
 - [Lauren London's Taste](/playlists/pretty/37i9dQZF1DX1iGVUchf9EL.md)
@@ -3861,6 +3862,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Reggae Party](/playlists/pretty/37i9dQZF1DXa8n42306eJB.md)
 - [Reggae al Sur](/playlists/pretty/37i9dQZF1DX20S3TU4dlyR.md)
 - [Reggae en Español](/playlists/pretty/37i9dQZF1DWVYs6zNzJ0ci.md)
+- [Reggaeton GOATs](/playlists/pretty/37i9dQZF1DXc3ieCsYlA5Z.md)
 - [Reggaeton Sexy](/playlists/pretty/37i9dQZF1DX1ziQH0F90kL.md)
 - [Reggaeton for Breakfast](/playlists/pretty/37i9dQZF1DWUArRC04H8rI.md)
 - [Reggaeton: El Inicio](/playlists/pretty/37i9dQZF1DX0oAhAessKvf.md)

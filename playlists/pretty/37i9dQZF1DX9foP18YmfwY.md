@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Colo de Deus
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,781 likes - 70 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,938 likes - 70 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 4 | [Jardim](https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Ir\. Samuel Maria](https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b) | [Jardim](https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR) | 8:14 |
 | 5 | [Queima de Novo \- Live](https://open.spotify.com/track/3cSLVcoB6WLztIf8fqZxOq) | [Tony Allysson](https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU) | [Deus É Poderoso pra Fazer: Live Session](https://open.spotify.com/album/3jXBzdhvrT6qURsIfDXnHm) | 8:38 |
 | 6 | [Tudo É do Pai](https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Tudo É do Pai](https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X) | 6:36 |
-| 7 | [Sopra Sobre os Ossos \- Ao Vivo](https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Sopra Sobre os Ossos](https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR) | 4:33 |
-| 8 | [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 |
+| 7 | [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 |
+| 8 | [Sopra Sobre os Ossos \- Ao Vivo](https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Sopra Sobre os Ossos](https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR) | 4:33 |
 | 9 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 |
 | 10 | [Casa](https://open.spotify.com/track/52UwxcBnQeWh4HeMngkuVs) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Casa](https://open.spotify.com/album/0ii9sn33qDORUI8FZsWRFk) | 4:59 |
 | 11 | [Retrovisor](https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Retrovisor](https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi) | 3:38 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Mãe, Me Defende do Mal](https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Mãe, Me Defende do Mal](https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K) | 5:00 |
 | 70 | [Nosso General](https://open.spotify.com/track/68TNC5h0T9ykt0zIqKVrsG) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Nosso General](https://open.spotify.com/album/4oTvhv5yHSHK3Kjqsab01T) | 3:23 |
 
-Snapshot ID: `MCxkNGExYjM2MTdlYTc3MDNkNDVjYjVhYjFjYjg5NGFhOWEyNzliYmNj`
+Snapshot ID: `MCxhNGUxY2NiMTU2ODk5OTViZDBiNTJkNmFjNGVkZGNkZjgxZDYwNjJm`

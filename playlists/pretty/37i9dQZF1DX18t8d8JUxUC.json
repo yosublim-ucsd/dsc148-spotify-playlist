@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Caloncho",
-  "num_followers": 14162,
+  "num_followers": 14191,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODJmODViYjlkZjNmMTE1Y2U5ZTM2NmM2YTA4OTE3N2NjZDQyN2Ni",
+  "snapshot_id": "MCw5MjhiNjAyNGJhZGM0YzJiOWNmMGJkNDZlMGNjYzEzMTZjNTQ5M2Rm",
   "tracks": [
     {
       "added_at": "2023-07-28 20:28:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-07-28 20:28:03",
       "album": {
-        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
-        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 236301,
-      "name": "Te Lo Debo Contar",
-      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
-    },
-    {
-      "added_at": "2023-07-28 20:28:03",
-      "album": {
         "name": "Cicadas",
         "url": "https://open.spotify.com/album/5jxsaf37OKx46MFdzgJXIa"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2023-07-28 20:28:03",
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+        "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
+        "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
       },
       "artists": [
         {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
         }
       ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+      "duration_ms": 236301,
+      "name": "Te Lo Debo Contar",
+      "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
     },
     {
       "added_at": "2023-07-28 20:28:03",
@@ -1051,6 +1035,22 @@
       "duration_ms": 219807,
       "name": "Casa en el \u00e1rbol",
       "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2023-07-28 20:28:03",
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     },
     {
       "added_at": "2023-07-28 20:28:03",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-07-28 20:28:03",
       "album": {
-        "name": "Mi otra mitad",
-        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo \u00c1vila",
-          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
-        }
-      ],
-      "duration_ms": 229524,
-      "name": "Mi otra mitad",
-      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
-    },
-    {
-      "added_at": "2023-07-28 20:28:03",
-      "album": {
         "name": "Un Solo Vientre",
         "url": "https://open.spotify.com/album/4klUqNMjFqtTdR0Zzajow6"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 218448,
       "name": "Un Solo Vientre",
       "url": "https://open.spotify.com/track/652EkO5aFAC08No1JV0zqs"
+    },
+    {
+      "added_at": "2023-07-28 20:28:03",
+      "album": {
+        "name": "Mi otra mitad",
+        "url": "https://open.spotify.com/album/28f6eNKzlSv0UNngwG61AB"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo \u00c1vila",
+          "url": "https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6"
+        }
+      ],
+      "duration_ms": 229524,
+      "name": "Mi otra mitad",
+      "url": "https://open.spotify.com/track/5fWCQmxJjAcOerUkpDTr1g"
     },
     {
       "added_at": "2023-07-28 20:28:03",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-07-28 20:28:03",
       "album": {
-        "name": "El Faro",
-        "url": "https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "El Faro",
-      "url": "https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od"
-    },
-    {
-      "added_at": "2023-07-28 20:28:03",
-      "album": {
         "name": "Entre Los Dos",
         "url": "https://open.spotify.com/album/5Srz3FfVqMwxs1e84LqVqs"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2023-07-28 20:28:03",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+        "name": "El Faro",
+        "url": "https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
         }
       ],
-      "duration_ms": 238946,
-      "name": "Una Fecha En El Calendario",
-      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
+      "duration_ms": 188000,
+      "name": "El Faro",
+      "url": "https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od"
     },
     {
       "added_at": "2023-07-28 20:28:03",
@@ -1231,6 +1215,22 @@
       "duration_ms": 209200,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/3LMgh9j8noZZnredEUYlDC"
+    },
+    {
+      "added_at": "2023-07-28 20:28:03",
+      "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "Una Fecha En El Calendario",
+      "url": "https://open.spotify.com/track/5OXMu7jOqr8f6R2JLYNncO"
     },
     {
       "added_at": "2023-07-28 20:28:03",

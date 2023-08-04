@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Moha MMZ
+> Le meilleur du rap français version cloud\. Photo : Djadja & Dinaz
 
-247 songs - 12 hr 28 min
+248 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Energy](https://open.spotify.com/track/3nN9fK77Fd7UvVKngaNSpE) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Émotions éphémères](https://open.spotify.com/album/7Kj4sIbP6sLyLLOVyzpt31) | 2:48 | 2022-07-14 | 2022-07-29 |
 | [Entouré](https://open.spotify.com/track/0QCYP1iOuCR01mwtWkmZSd) | [Kevni](https://open.spotify.com/artist/02WdyNlw433XSxlOPC7FhA) | [Entouré](https://open.spotify.com/album/3yDoo7wmxIX6MRwKSMY2bL) | 3:24 | 2022-12-29 | 2023-02-10 |
 | [Et Toi](https://open.spotify.com/track/1dKMbHYfQld5oGdGsKX3nP) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Et Toi](https://open.spotify.com/album/1fYdxA0MikkymfSFfgkFpt) | 3:26 | 2022-12-01 | 2023-03-25 |
+| [EVIDEMMENT](https://open.spotify.com/track/3fj5hmowVufbUNFjumf53c) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [EVIDEMMENT](https://open.spotify.com/album/3Fav6XiT6V60c4Em1atEnh) | 2:58 | 2023-08-03 |  |
 | [Exit \#04 \- Stamina](https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Exit \#04 \- Stamina](https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk) | 3:23 | 2022-09-08 | 2022-11-11 |
 | [Fall in love](https://open.spotify.com/track/5LTHUMgaJp001MAKlotwr9) | [A$tro Boi](https://open.spotify.com/artist/3z3ZlPSstN29UKnGUTbgVJ) | [L'inconnue d'en face](https://open.spotify.com/album/0w6oQvHWjelePItuPAjIOD) | 2:43 | 2023-04-27 | 2023-05-26 |
 | [Fantôme](https://open.spotify.com/track/1bKWOseEU3s1CytXqsKVgQ) | [Bené](https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn) | [Rosa Nera](https://open.spotify.com/album/2XKWzcLBAFZREXmcvlMNb7) | 3:39 | 2023-03-02 | 2023-04-14 |
@@ -126,7 +127,7 @@
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
 | [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 | 2022-12-09 |
 | [L'âme du phoenix](https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Origine](https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz) | 3:28 | 2023-04-06 |  |
-| [L'étoile qui brille le plus](https://open.spotify.com/track/5Urdl8iZ5iAHeIxFjOHjr3) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [L'étoile qui brille le plus](https://open.spotify.com/album/5osFSzc0wxRd9woC2OoXzY) | 2:14 | 2023-06-15 |  |
+| [L'étoile qui brille le plus](https://open.spotify.com/track/5Urdl8iZ5iAHeIxFjOHjr3) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [L'étoile qui brille le plus](https://open.spotify.com/album/5osFSzc0wxRd9woC2OoXzY) | 2:14 | 2023-06-15 | 2023-08-04 |
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |
 | [La Villa](https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4) | [Rouge Carmin](https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS) | [La Villa](https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54) | 2:26 | 2023-05-18 | 2023-06-23 |

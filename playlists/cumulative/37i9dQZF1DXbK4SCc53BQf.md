@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-85 songs - 5 hr 35 min
+86 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 | 2020-11-24 |  |
 | [Camino Al Cielo \(Versión Merengue\)](https://open.spotify.com/track/4JAg4oa9Q99uIGzkj6S829) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 3:24 | 2020-11-24 |  |
 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 | 2020-11-24 | 2023-06-30 |
+| [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 | 2020-11-24 |  |
 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 | 2020-11-24 |  |
 | [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 | 2020-11-24 | 2023-06-10 |
 | [De Vuelta](https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [De Vuelta](https://open.spotify.com/album/6ZbWg7zKqSDAn41W6QhxWm) | 3:26 | 2020-11-24 | 2022-07-24 |
@@ -36,7 +37,7 @@
 | [Es Imposible](https://open.spotify.com/track/2E32QoPYNwwQLpwlSCyIhX) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Indestructible](https://open.spotify.com/album/01DU4Brb6WmObvkqdsVWiN) | 3:31 | 2020-11-24 |  |
 | [Fiesta](https://open.spotify.com/track/5BoyMsxh4nET9KiiWW1BgX) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Fiel](https://open.spotify.com/album/0jPkJNUVPwugoSZWs63orG) | 4:38 | 2020-11-24 |  |
 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 | 2020-11-24 |  |
-| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 |  |
+| [Hay Un Lugar](https://open.spotify.com/track/5tulhFuDxAUP9v8n0UkDup) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:44 | 2020-11-24 | 2023-08-04 |
 | [Hermoso Nombre](https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Ven Te Estado Esperando](https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d) | 5:49 | 2020-11-24 |  |
 | [Hora de Cantar](https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT) | [Gilvan Santana](https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds) | [Redenção e Liberdade](https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr) | 3:36 | 2020-11-24 | 2023-07-07 |
 | [Hoy Veré Su Gloria](https://open.spotify.com/track/3A7r0LzUXp0pxWR4AfhLV5) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [Hoy Veré Su Gloria](https://open.spotify.com/album/1xCt6Bwx2DPoSh6EGBIlOv) | 4:34 | 2020-11-24 |  |

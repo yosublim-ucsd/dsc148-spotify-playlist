@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 344410,
+  "num_followers": 344753,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmZiZTMyZDUxNmZjNzYzNDcwOTZhYzk3YWY5Mzk1ZGI5YjdjYTJm",
+  "snapshot_id": "MCxlZTk1NmUzYzNhMmRlMzI0NWFiYTk3YWE5NThmNDM2ZGRkNmE2N2Vi",
   "tracks": [
     {
       "added_at": "2023-07-28 08:47:25",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Ich schwanke noch",
-        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
-      },
-      "artists": [
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        }
-      ],
-      "duration_ms": 209358,
-      "name": "Ich schwanke noch",
-      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 180252,
       "name": "Hulapalu",
       "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Das geht ab - Wir feiern die ganze Nacht",
+      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Mama Laudaaa",
         "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 215976,
       "name": "Mama Laudaaa",
       "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Das geht ab - Wir feiern die ganze Nacht",
-      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Disco Pogo",
-      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "DORFDiSKO ZWEi",
         "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Reim (Expanded Edition)",
         "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
       },
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Dorfdisko",
         "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
         "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
         "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 223671,
       "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
       "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
-        "name": "Party Chaos",
-        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        },
-        {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Strobo Pop",
-      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -911,6 +891,26 @@
       "duration_ms": 139159,
       "name": "Partyanimal",
       "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
-    },
-    {
-      "added_at": "2023-07-28 08:47:25",
-      "album": {
         "name": "Knicklicht",
         "url": "https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 138400,
       "name": "Knicklicht",
       "url": "https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c"
+    },
+    {
+      "added_at": "2023-07-28 08:47:25",
+      "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
     },
     {
       "added_at": "2023-07-28 08:47:25",
@@ -1307,18 +1307,26 @@
     {
       "added_at": "2023-07-28 08:47:25",
       "album": {
-        "name": "So viel gemeinsam",
-        "url": "https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 136246,
-      "name": "So viel gemeinsam",
-      "url": "https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     }
   ],
   "unique_name": "Malle Party 2023",

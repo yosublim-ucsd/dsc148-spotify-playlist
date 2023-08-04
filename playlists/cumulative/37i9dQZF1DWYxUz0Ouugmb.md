@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
 
-160 songs - 10 hr 8 min
+162 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 | 2021-11-25 | 2022-03-25 |
 | [L](https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA) | 3:40 | 2023-04-13 |  |
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2022-08-18 | 2023-04-14 |
+| [LDR \- Live](https://open.spotify.com/track/6wsHEkpLbtPJtCrx33qK9G) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [LDR \(Live\)](https://open.spotify.com/album/7lvBy6sKkWTXb22LBghHnG) | 5:03 | 2023-08-03 |  |
 | [Leave](https://open.spotify.com/track/0EoKAD9I7OOOohRmmVvtIT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:07 | 2022-09-01 | 2023-04-14 |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 | 2022-07-29 |
@@ -126,6 +127,7 @@
 | [RUNAWAY W ME](https://open.spotify.com/track/7pzfaLBUK9WvVT2ageCLZ5) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RUNAWAY W ME](https://open.spotify.com/album/0e5zw8a0EjqapZqc7Fkmv4) | 3:01 | 2022-03-24 | 2023-04-14 |
 | [sahabat](https://open.spotify.com/track/2CTq462kUxg8yu9oWt3seb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [sahabat](https://open.spotify.com/album/6UfIzBcTa1Zrkl8R2TicQo) | 4:46 | 2021-11-25 | 2022-03-25 |
 | [Sambel Terasi](https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sambel terasi](https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1) | 4:59 | 2021-11-25 | 2022-03-25 |
+| [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2023-08-03 |  |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-06-09 | 2023-04-14 |
 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 | 2021-11-25 | 2022-03-25 |
 | [Selamanya Kita](https://open.spotify.com/track/1VQeq5W6s0gUgz9M81Vz5L) | [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Selamanya Kita](https://open.spotify.com/album/5rKh1EYXDOswbhjK4diBZx) | 4:24 | 2022-12-01 | 2023-04-14 |

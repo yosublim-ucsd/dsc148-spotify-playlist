@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Ivonne Galaz en portada.",
-  "num_followers": 55569,
+  "num_followers": 55592,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTRkMDE4ODM3MTUwMjI2NDUyZjMxMTc0YzJjZDcyZTJhNTZlMGVk",
+  "snapshot_id": "MCxjMDYzNDI0ZjVhOWM5MjU4ODQ5NDg4NDFkNWI3NGQ4ZTRhZWNiMjcx",
   "tracks": [
     {
       "added_at": "2023-07-21 06:00:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
+        "name": "El Brillo De Tus Ojitos",
+        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
+      },
+      "artists": [
+        {
+          "name": "Dorian Guerra",
+          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "El Brillo De Tus Ojitos",
+      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
         "name": "Pensamientos Grandes",
         "url": "https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 243472,
       "name": "Pensamientos Grandes",
       "url": "https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
-        "name": "El Brillo De Tus Ojitos",
-        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
-      },
-      "artists": [
-        {
-          "name": "Dorian Guerra",
-          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "El Brillo De Tus Ojitos",
-      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "De Este Lado",
-        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
-      },
-      "artists": [
-        {
-          "name": "Jose Torres El Rey De Alto Mando",
-          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "De Este Lado",
-      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "No He Parado",
         "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 143172,
       "name": "No He Parado",
       "url": "https://open.spotify.com/track/5JiK07lh0kf80tyy1d9j9S"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
+      },
+      "artists": [
+        {
+          "name": "Jose Torres El Rey De Alto Mando",
+          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "De Este Lado",
+      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Ojitos Lindos",
-        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        },
-        {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
-        }
-      ],
-      "duration_ms": 165919,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/47I5OpIC5kzWFrEKXM3I2V"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 175588,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/5R5VL0m76ZCO0YIvI6T8uU"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Ojitos Lindos",
+        "url": "https://open.spotify.com/album/5qcpDJhLdRHhLxoOhcFYE6"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        },
+        {
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+        }
+      ],
+      "duration_ms": 165919,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6JYE09qjRvxvGZBxPNOTw1"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
         "name": "Calibrado",
         "url": "https://open.spotify.com/album/6kuu3p0fmwiqm81d4M3Rwz"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 142591,
       "name": "Calibrado",
       "url": "https://open.spotify.com/track/0Wkz1MEP9L5aB0lHgkSj0q"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "La Tostada",
         "url": "https://open.spotify.com/album/0p0bDZxCPtc2NKmlnQin5j"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 215568,
       "name": "La Tostada",
       "url": "https://open.spotify.com/track/1iHDT9mosEvwDMHgROl0Vp"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2023-07-21 06:00:00",

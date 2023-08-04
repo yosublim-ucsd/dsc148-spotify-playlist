@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Carnival Sounds getting you ready for Toronto Caribbean Carnival 2023 curated by D' Bandit
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,611 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,892 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 49 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
 | 50 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 51 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
-| 52 | [Shay'mpempe Amapiano Mix](https://open.spotify.com/track/2zEubbwXFFI7bb3B0etgBf) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3BwYXyhg61oe5XyrGfzJbg), [Ribby De Deejay](https://open.spotify.com/artist/7EZoW1TtCANKJa8r4TlmA9), [Rhino](https://open.spotify.com/artist/5jWLqtFEAW8fVtwGo7gArt) | [Shay'mpempe Amapiano Mix](https://open.spotify.com/album/4jfFgrCgBblCVt5FeZfAlm) | 5:55 |
+| 52 | [Shay'mpempe \- Amapiano Mix](https://open.spotify.com/track/0s85XRTiQaWh8AUsYbLsg1) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3q8eLo12KCxX4GTdg0rKmc), [Ribby De Deejay](https://open.spotify.com/artist/5dEEE7WHk9fFoftJj0qMAw), [Rhino](https://open.spotify.com/artist/03rDpz3TCm2mNgtJzDXP48) | [Shay'mpempe \(Amapiano Mix\)](https://open.spotify.com/album/6jWvHykPy2gL17a9CWJG58) | 5:49 |
 | 53 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 |
 | 54 | [Hall of Fame](https://open.spotify.com/track/1fOEsuhzqsvMyAtXiQIUyl) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Hall of Fame](https://open.spotify.com/album/22GpOUbiqmiZSuK8wnLvYB) | 3:37 |
 | 55 | [Warming up \( Top Soil Riddim\)](https://open.spotify.com/track/5yGvLAXhtKq4fruVpwkumv) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M), [AkaiiUsweet](https://open.spotify.com/artist/1jMUtFpjX61sjfVXlSM81W) | [Warming up \( Top Soil Riddim\)](https://open.spotify.com/album/4b2iRZmikTGAD9l9YgoFKu) | 2:41 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 75 | [Look Back](https://open.spotify.com/track/3uU6YtcCzVCSNZf1GILbqK) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Look Back](https://open.spotify.com/album/1Jd5fzgBFj1pAudc2AOdVP) | 2:31 |
 | 76 | [Down Dey \- Refix](https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Parry Jack](https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA), [All Star Brass](https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa) | [Down Dey \(Refix\)](https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY) | 2:53 |
 
-Snapshot ID: `MCxkNWMxNGM4MjQ1YzFjZjI0NTMzOGE3YmI5ZjQ4YzUzZjI2ODExMzZh`
+Snapshot ID: `MCw5ZWJmNTNkYmFjN2YzODdlOTE1NjQ3MmI0NjliMTc2YmJhYmZlNWE3`

@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-248 songs - 14 hr 51 min
+250 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [420](https://open.spotify.com/track/3YwPUBBP5zKXqnsmpbOKka) | [Boconas](https://open.spotify.com/artist/5QUMXH6cu4OHbGqT4uQRJI) | [420](https://open.spotify.com/album/5TWt1ln4nz4OxObp3QJPqW) | 2:36 | 2022-01-20 | 2022-07-17 |
 | [A 1200 Km](https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 3:49 | 2022-01-20 |  |
 | [Adentro](https://open.spotify.com/track/3BcPEUw07yHdDs5X5wnOrj) | [Sugar Tampaxxx](https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY) | [Adentro](https://open.spotify.com/album/1kCEfjse4QNQu9pGKWhj7i) | 2:26 | 2022-01-20 | 2022-07-26 |
-| [Adentro](https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j) | [Sugar Tampaxxx](https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY) | [Adentro](https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv) | 2:26 | 2023-04-14 |  |
+| [Adentro](https://open.spotify.com/track/44OwKucmVixOi8pTVcWb1j) | [Sugar Tampaxxx](https://open.spotify.com/artist/0EMyouR696ghk1LQclnhUY) | [Adentro](https://open.spotify.com/album/1fdUbx7XkVlR5BYuKV5sIv) | 2:26 | 2023-04-14 | 2023-08-04 |
 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 | 2022-01-20 |  |
+| [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 | 2023-08-03 |  |
 | [Alas](https://open.spotify.com/track/1lIh2zJc6BwFVfMeWokLU5) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Alas](https://open.spotify.com/album/7qifZIZNs3McHYi31DRzak) | 3:20 | 2022-01-20 | 2022-07-23 |
 | [Amanece Alimaña](https://open.spotify.com/track/58eBeXMtDWfekjL1CfgBmq) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Amanece Alimaña](https://open.spotify.com/album/6PE2MLlzZgxj0KvrcOrwtG) | 3:40 | 2022-01-20 | 2022-09-15 |
 | [Amapola](https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Gabinete De Curiosidades](https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ) | 3:15 | 2022-01-20 |  |
@@ -29,6 +30,7 @@
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-06-16 |  |
 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 | 2022-01-20 |  |
 | [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 | 2022-01-20 | 2023-04-15 |
+| [AVE MARÍA](https://open.spotify.com/track/5d7RuDDWI7TcCNWJMsaUqN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [LA SANTÍSIMA TRINIDAD](https://open.spotify.com/album/42YySIet0Gr5dtERZBsFt0) | 1:58 | 2023-08-03 |  |
 | [Avion Aterrizando](https://open.spotify.com/track/4dPvcT1zazU3ohYldotSpc) | [Diana Nylon](https://open.spotify.com/artist/7yTjWvb65d481CWZKveRU0), [Fabi Cantilo](https://open.spotify.com/artist/3sjefht4ptSmCcrK30r4gO) | [El Ciudadano](https://open.spotify.com/album/1NoQ5A2fF1EX4bkmze6n73) | 2:21 | 2022-01-20 | 2022-06-30 |
 | [Azul Casi Morado](https://open.spotify.com/track/53WX4UMylwqJgD2gBEfzpV) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [Rock en Español \- Lo Mejor de Santa Sabina](https://open.spotify.com/album/2LddSTGHKllDX9vLwc9PGH) | 4:16 | 2022-01-20 | 2022-07-28 |
 | [Azul Casi Morado](https://open.spotify.com/track/2UU9JV6RUuyveQWqq3xlBF) | [Santa Sabina](https://open.spotify.com/artist/0lH5Hx6QpVa9TS0Vm6ItTP) | [15 Años de Exitos](https://open.spotify.com/album/3R1IPI5OFMNFXrd7PfgZW6) | 4:17 | 2022-07-15 |  |
@@ -107,7 +109,7 @@
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-01-20 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-01-20 | 2023-06-11 |
 | [Hola](https://open.spotify.com/track/0xaQtF5PbFqrlIz2iVQs8h) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Hola](https://open.spotify.com/album/1qZ7f9jaPpmrL1NZko5CZu) | 2:05 | 2022-01-20 | 2023-05-14 |
-| [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 |  |
+| [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 | 2022-01-20 | 2023-08-04 |
 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 | 2022-01-20 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
 | [Imagina](https://open.spotify.com/track/36YLNt1sPqaFJw2LXyXHZH) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Latidos y Culebras](https://open.spotify.com/album/3AP47uH2hSqW7k1xeJcEFF) | 3:11 | 2022-01-20 | 2022-07-26 |

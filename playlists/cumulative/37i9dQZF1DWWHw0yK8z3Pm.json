@@ -4347,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339040,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF"
+    },
+    {
+      "album": {
         "name": "Pretending",
         "url": "https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY"
       },
@@ -4358,7 +4376,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 339040,
       "name": "Pretending",
       "url": "https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib"

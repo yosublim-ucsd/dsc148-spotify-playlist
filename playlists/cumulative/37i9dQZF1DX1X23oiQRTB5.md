@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Gazo x Damso au top de la première playlist de rap français !
+> Werenoi au top de la première playlist de rap français !
 
-183 songs - 9 hr 24 min
+184 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [FLEURS \(feat\. Tiakola\)](https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:30 | 2022-12-08 |  |
 | [FRAUDE](https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [FRAUDE](https://open.spotify.com/album/1ds595bn2azH1sYiG38A66) | 3:08 | 2022-06-09 | 2022-12-02 |
 | [Freestyle LVL UP 1](https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 1](https://open.spotify.com/album/3TwCsRI1sJRIUi6SPcFPhq) | 1:54 | 2023-05-11 | 2023-06-16 |
-| [Freestyle LVL UP 2](https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 2](https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF) | 2:29 | 2023-06-01 |  |
+| [Freestyle LVL UP 2](https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 2](https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF) | 2:29 | 2023-06-01 | 2023-08-04 |
 | [Fuego](https://open.spotify.com/track/1mBdiyA2OUySEprEEOKJ6g) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Fuego](https://open.spotify.com/album/1gKn9d5OHN2aUw9FHRFD4C) | 3:31 | 2022-01-06 | 2022-06-24 |
 | [Full black](https://open.spotify.com/track/1WcBhct7iVXliYorbEKTql) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 2:29 | 2022-08-18 | 2022-10-21 |
 | [Full black](https://open.spotify.com/track/3GdWREHnpwt24gHOxqKbOo) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xNkM6KOf8SQqeNOHTYlzD) | 2:29 | 2022-01-13 | 2022-07-29 |
@@ -169,6 +169,7 @@
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 | 2022-12-02 |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-02-23 |  |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
+| [Shavkat](https://open.spotify.com/track/1A3eBtA4ath65H7PFySd6l) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Shavkat](https://open.spotify.com/album/1CYQrHXkE52a8tlhiqUR1x) | 3:39 | 2023-08-03 |  |
 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 | 2022-02-10 | 2022-04-01 |
 | [Si j'savais](https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Si j'savais](https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC) | 3:43 | 2022-05-19 | 2022-11-18 |
 | [Signé](https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Signé](https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh) | 3:00 | 2023-06-29 |  |

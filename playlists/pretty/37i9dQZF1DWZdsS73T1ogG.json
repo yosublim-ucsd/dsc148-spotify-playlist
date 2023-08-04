@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alex Rose",
-  "num_followers": 521982,
+  "num_followers": 522049,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmIxZGNjNzYzYTY0NTliYmMzNGM2NTU1NmFkYTRlOWI3NjY4NWJk",
+  "snapshot_id": "MCw0OWNjODBmZTA0YzJjMDhiY2FhOTQyZjA5NDRjZTI4MTk1NzAyM2Vm",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "R\u00c1PIDO",
+        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "R\u00c1PIDO",
+      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Podemos Repetirlo",
         "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "R\u00c1PIDO",
-        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "R\u00c1PIDO",
-      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -731,18 +731,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+        "name": "ASQUEROSO",
+        "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
+      "duration_ms": 159245,
+      "name": "ASQUEROSO",
+      "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -767,22 +771,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "ASQUEROSO",
-        "url": "https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3"
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "ZECCA",
-          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 159245,
-      "name": "ASQUEROSO",
-      "url": "https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs"
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "MI DROGA",
-      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "BILLBOARD",
         "url": "https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Wazap",
-        "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 199828,
-      "name": "Wazap",
-      "url": "https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m"
+      "duration_ms": 163240,
+      "name": "MI DROGA",
+      "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -899,6 +879,26 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Wazap",
+        "url": "https://open.spotify.com/album/4zPUHAm8acUOimx9Ywd1On"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 199828,
+      "name": "Wazap",
+      "url": "https://open.spotify.com/track/2WM2zohc2bo6HrxUSRZP1m"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1459,6 +1459,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Mi Juego",
+        "url": "https://open.spotify.com/album/5NqPSRJYwQpOfC46NxS7jL"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Mi Juego",
+      "url": "https://open.spotify.com/track/03WbAqjXZhxbItGhhjYe2m"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Una Noche Loca",
         "url": "https://open.spotify.com/album/28YLk4yInrLrxXPlsjqMN1"
       },
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Mi Juego",
-        "url": "https://open.spotify.com/album/5NqPSRJYwQpOfC46NxS7jL"
-      },
-      "artists": [
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "Mi Juego",
-      "url": "https://open.spotify.com/track/03WbAqjXZhxbItGhhjYe2m"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Perdon\u00e9monos",
         "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
       },
@@ -1515,6 +1515,30 @@
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        }
+      ],
+      "duration_ms": 247840,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1551,30 +1575,6 @@
       "duration_ms": 180588,
       "name": "Xexo",
       "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "VAQUERITA",
+        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 152970,
+      "name": "VAQUERITA",
+      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Mi Vicio (Remix)",
         "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 190194,
       "name": "Hola",
       "url": "https://open.spotify.com/track/4sh30wQyEolLcZMr3SurPr"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "VAQUERITA",
-        "url": "https://open.spotify.com/album/2anh30EglEFPGLCy741Q2Q"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 152970,
-      "name": "VAQUERITA",
-      "url": "https://open.spotify.com/track/10Z3XfqcjouvPfh9D3baLF"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "CHIQUITA",
+      "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "triste pero siempre mami",
         "url": "https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 139716,
       "name": "hotel san juan",
       "url": "https://open.spotify.com/track/5Di7ARBdcVfesKYlcyCdun"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1959,22 +1959,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/2Qx6ZrlVmywBp2UV9XGJNu"
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         },
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 177728,
-      "name": "CHIQUITA",
-      "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
+      "duration_ms": 206639,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -2087,30 +2087,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "D.N.D (feat. Nio Garcia)",
-        "url": "https://open.spotify.com/album/2bvnyGn8HgeYVkqjIrQaxr"
+        "name": "TRIP 21",
+        "url": "https://open.spotify.com/album/5qacSayUg0QNvxkVmJkATS"
       },
       "artists": [
         {
-          "name": "Los G4",
-          "url": "https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s"
+          "name": "Chris Palace",
+          "url": "https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 240303,
-      "name": "D.N.D (feat. Nio Garcia)",
-      "url": "https://open.spotify.com/track/5dpV98IziKB0xupnrXUe9E"
+      "duration_ms": 222857,
+      "name": "ACHO MAMI",
+      "url": "https://open.spotify.com/track/0RzYHfzAH2dNLvDpVa5HGD"
     }
   ],
   "unique_name": "el nuevo urbano",

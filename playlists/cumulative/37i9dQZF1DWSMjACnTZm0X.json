@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Daddy ohh",
+        "url": "https://open.spotify.com/album/4jFB19VG7Zn6lCSxve8QRI"
+      },
+      "artists": [
+        {
+          "name": "Willy Will",
+          "url": "https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Daddy ohh",
+      "url": "https://open.spotify.com/track/576ny2Fu52p2iacJxWKYn6"
+    },
+    {
+      "album": {
         "name": "Dangerous Love (DJ Ganyani & De Mogul Remix)",
         "url": "https://open.spotify.com/album/2IUiQgkfKXwrH08ALZSwLC"
       },
@@ -1548,6 +1566,28 @@
       "duration_ms": 193274,
       "name": "Koo Koo Fun (feat. Tiwa Savage & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H"
+    },
+    {
+      "album": {
+        "name": "Kool Sana",
+        "url": "https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh"
+      },
+      "artists": [
+        {
+          "name": "Flomine",
+          "url": "https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs"
+        },
+        {
+          "name": "L5VAV",
+          "url": "https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "Kool Sana",
+      "url": "https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe"
     },
     {
       "album": {

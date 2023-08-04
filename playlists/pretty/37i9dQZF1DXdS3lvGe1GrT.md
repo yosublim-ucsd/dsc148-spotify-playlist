@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,210 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,351 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 94 | [Better Somehow](https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Better Somehow](https://open.spotify.com/album/2PB1n9ej3Ib53qDVmVpeXT) | 3:58 |
 | 95 | [Matter](https://open.spotify.com/track/7hEvYHGa0Ln9TQU2ui0WUY) | [Family Stereo](https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT) | [Matter](https://open.spotify.com/album/0hIh8Z6PY3Hs0dGyGDkYLp) | 6:45 |
 | 96 | [Ordinary Ways](https://open.spotify.com/track/0MzFMTIinu35De9kWpbjwf) | [North Arm](https://open.spotify.com/artist/33Fqrr2sZZ96XLPbzWJY95) | [Ordinary Ways](https://open.spotify.com/album/2S4mCEVxpPualfHSUfDtZq) | 3:40 |
-| 97 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 |
+| 97 | [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 |
 | 98 | [Proof of Life](https://open.spotify.com/track/6lZFNwjvb5BXMoajkKn5ql) | [Gold Dust](https://open.spotify.com/artist/2gMFCVbKNRDr7HxnSnWMZ8) | [The Late Great Gold Dust](https://open.spotify.com/album/7Cvs3WHr3bCwaV5Mloh6b5) | 3:46 |
 | 99 | [Skin The Oasis](https://open.spotify.com/track/1WGDy1DOOgVftzivJb8bup) | [Barbarisms](https://open.spotify.com/artist/7sbmLqY3ZQGtMOiH4niuk3) | [Old Hat](https://open.spotify.com/album/2rw2OPJXMrFhnfllnL1o64) | 3:47 |
 | 100 | [carnegie hall](https://open.spotify.com/track/7xAOjVo97wD5xdcHWvnxkB) | [two blinks, i love you](https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO) | [ep 1](https://open.spotify.com/album/3Gzd8ARjcAKybw51XnnpSw) | 4:45 |
 
-Snapshot ID: `MCwwODg2ZTU4ZjM2ZDA1NjNmNjA3NjU4ZjVmM2NjOGM1NDJmZDE5ZjJl`
+Snapshot ID: `MCwyNTViODJhNGU5NWIzYTljZjViZTAzNTdhNjk0MDg4MGYzOGJkMmY3`

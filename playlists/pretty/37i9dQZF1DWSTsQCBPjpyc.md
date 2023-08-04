@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,462 likes - 70 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,505 likes - 70 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 |
+| 1 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
 | 2 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 |
 | 3 | [Love Is a Simple Thing](https://open.spotify.com/track/3c7uIxCmV1OTcSCNwSJOaT) | [Davide Pannozzo](https://open.spotify.com/artist/22GGo3ysvMZTPCsqW2b07T) | [Love Is a Simple Thing](https://open.spotify.com/album/43IcXDQeid37UJyedcReq8) | 4:09 |
 | 4 | [Black Cat Bone](https://open.spotify.com/track/2gYivJOIcjugPaCvrNBr9g) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Live From The Archive](https://open.spotify.com/album/4RbQ9bMWVgaPj8X5nHDnOD) | 9:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 69 | [Family Curse](https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Satisfaction Guaranteed](https://open.spotify.com/album/6ahYoElwPwWuaPEY75Gd6O) | 4:37 |
 | 70 | [Phone Booth](https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Heavy Picks\-The Robert Cray Band Collection](https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI) | 3:29 |
 
-Snapshot ID: `MCwwNmFjZmM5ZGQwYmY4MWY3MWIyNWMzN2Q1ZGM1ODg1YWQxZDMwOTYw`
+Snapshot ID: `MCxhMzFkZTJiNmY3YzU4MDIwMzE1MmUwMDgyNmE3YTk1OTBhYmM3ZDNm`

@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Mitski
 
-1,210 songs - 2 day 23 hr 38 min
+1,211 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,7 +840,8 @@
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-11 | 2022-06-11 |
 | [Postman](https://open.spotify.com/track/0xXuP97Ap5hThLMNjVVRZq) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Postman b/w Magazine](https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z) | 2:40 | 2022-01-28 | 2022-02-26 |
 | [Pretenders](https://open.spotify.com/track/3ju40mNCppD9IIBA6Whw61) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Pretenders / Snowy Owl](https://open.spotify.com/album/7pm8B4hEadVF4jkzTRsxum) | 3:01 | 2022-02-18 | 2022-03-26 |
-| [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-02 |  |
+| [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 | 2023-08-02 |  |
+| [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-02 | 2023-08-04 |
 | [Pretty In Possible](https://open.spotify.com/track/4Q5LWPIKCuV6LRdDeqOYM7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:36 | 2023-02-17 | 2023-06-03 |
 | [PREYING MANTIS !](https://open.spotify.com/track/4HbvPMuan90tStQxIoJ4rn) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY](https://open.spotify.com/album/02FnZYyHb5AccBVtO4OnjV) | 3:27 | 2023-05-26 |  |
 | [Prism Through Which I Perceive](https://open.spotify.com/track/6gSfTwZnDAXeugVRTjslry) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [Prism Through Which I Perceive](https://open.spotify.com/album/2zeDQYKROc3OnqwtdKA04J) | 1:00 | 2022-02-11 | 2022-03-12 |

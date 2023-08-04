@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,502 likes - 100 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,583 likes - 100 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 49 | [Blowback \- Edit](https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Blowback](https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5) | 5:09 |
 | 50 | [The Slide Song](https://open.spotify.com/track/3V4rZhVqZ4EcaagkxUaqn0) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Pure Phase](https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a) | 3:52 |
 | 51 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 |
-| 52 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
-| 53 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
-| 54 | [Shelter from the Rain](https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 4:03 |
-| 55 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
+| 52 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
+| 53 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
+| 54 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
+| 55 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 |
 | 56 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
-| 57 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 |
-| 58 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
-| 59 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM) | 4:42 |
+| 57 | [Shelter from the Rain](https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 4:03 |
+| 58 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM) | 4:42 |
+| 59 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 | 60 | [The Sun In The Trees](https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS) | [Dan Caine](https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A) | [Into The Mountains](https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15) | 3:23 |
 | 61 | [Dragoon](https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dragoon](https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp) | 3:03 |
 | 62 | [I Would Stare into the Sun with You Forever](https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 6:32 |
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 77 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 |
 | 78 | [Leaking Light](https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB) | [Lachlan R\. Dale](https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9) | [Leaking Light](https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG) | 2:54 |
 | 79 | [Dusk](https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Dusk](https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV) | 4:22 |
-| 80 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 |
-| 81 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
-| 82 | [\(not\) alone](https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u) | [Johannes Baumer](https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt) | [\(not\) alone](https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx) | 4:39 |
-| 83 | [Next Level](https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK) | [Flumina](https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT) | [Next Level](https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu) | 3:34 |
+| 80 | [Next Level](https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK) | [Flumina](https://open.spotify.com/artist/1MyApt7j3WMkLfcww8SQvT) | [Next Level](https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu) | 3:34 |
+| 81 | [The Blurred Horizon](https://open.spotify.com/track/3VabinWYofsmVNxaqwEtaM) | [Tuesday The Sky](https://open.spotify.com/artist/2uRoyJPNj6VqsIYhRQSa6Q) | [The Blurred Horizon](https://open.spotify.com/album/5dV6WbZFE6pFBDty0iSHLi) | 3:56 |
+| 82 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
+| 83 | [\(not\) alone](https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u) | [Johannes Baumer](https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt) | [\(not\) alone](https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx) | 4:39 |
 | 84 | [Astronomer](https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Home](https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig) | 3:50 |
-| 85 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 |
-| 86 | [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 |
+| 85 | [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 |
+| 86 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 |
 | 87 | [10](https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR) | [10](https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP) | 2:51 |
 | 88 | [Pavan II](https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h) | 8:01 |
 | 89 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [Barren](https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Barren](https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN) | 10:16 |
 | 100 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
 
-Snapshot ID: `MCxhNzFjZjUxMTNiNWMzZjkyOGIxZmU2YzJlYTgzMjU4NTBlNWU5YjEw`
+Snapshot ID: `MCxjNTA0MzkzYjkxMGI4ZjllZDk3NGMwNGRjNzk5M2ZjY2IwZDNjNzdl`

@@ -312,10 +312,28 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 185920,
       "name": "Cena de Cinema",
       "url": "https://open.spotify.com/track/3j3zsk14X899YcwhFA7Gte"
+    },
+    {
+      "album": {
+        "name": "Cena de Cinema",
+        "url": "https://open.spotify.com/album/42cHx17kSgYo3AquBdksRt"
+      },
+      "artists": [
+        {
+          "name": "Lob\u00e3o",
+          "url": "https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186078,
+      "name": "Cena de Cinema",
+      "url": "https://open.spotify.com/track/2NkoOvdm5Nq3Q2NhwaVL3U"
     },
     {
       "album": {

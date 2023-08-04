@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Victor Ruz & Caspian Marvin",
-  "num_followers": 1703,
+  "num_followers": 1706,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjJlYzg5MmIxMjEzNWRiYzIyYmU1ZTA3M2YwNjViNWU1ZDUyNDQ2",
+  "snapshot_id": "MCw1Mjk3MjcwYjA0NTA0Y2MwZDgwMTJkZGU4YWY4MDU1NTA4NDA0ZjMw",
   "tracks": [
     {
       "added_at": "2023-07-21 06:10:04",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-07-21 06:10:04",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 133537,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
-    },
-    {
-      "added_at": "2023-07-21 06:10:04",
-      "album": {
         "name": "Nkwata Bulungi (Bailamos)",
         "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
       },
@@ -355,18 +339,18 @@
     {
       "added_at": "2023-07-21 06:10:04",
       "album": {
-        "name": "Bitimba",
-        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/5jHk9XRushK0QWe6yamCPW"
       },
       "artists": [
         {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         }
       ],
-      "duration_ms": 147590,
-      "name": "Bitimba",
-      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
+      "duration_ms": 133537,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
     },
     {
       "added_at": "2023-07-21 06:10:04",
@@ -387,6 +371,22 @@
       "duration_ms": 186947,
       "name": "Tutu Mama",
       "url": "https://open.spotify.com/track/3J12BNX50z4OsGpmihm4LG"
+    },
+    {
+      "added_at": "2023-07-21 06:10:04",
+      "album": {
+        "name": "Bitimba",
+        "url": "https://open.spotify.com/album/385Gp4V1QwGJt8Aa4Swut5"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 147590,
+      "name": "Bitimba",
+      "url": "https://open.spotify.com/track/6jGG78uh7FunvMuqa4kv9K"
     },
     {
       "added_at": "2023-07-21 06:10:04",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-07-21 06:10:04",
       "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+        }
+      ],
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+    },
+    {
+      "added_at": "2023-07-21 06:10:04",
+      "album": {
         "name": "Kika Buka",
         "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
-    },
-    {
-      "added_at": "2023-07-21 06:10:04",
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
     },
     {
       "added_at": "2023-07-21 06:10:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-21 06:10:04",
       "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
-    },
-    {
-      "added_at": "2023-07-21 06:10:04",
-      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -819,6 +803,42 @@
       "duration_ms": 175072,
       "name": "Fertilizer",
       "url": "https://open.spotify.com/track/10JDfsIelDol1IxN2PCEnG"
+    },
+    {
+      "added_at": "2023-07-21 06:10:04",
+      "album": {
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
+    },
+    {
+      "added_at": "2023-07-28 10:51:53",
+      "album": {
+        "name": "Salary",
+        "url": "https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry"
+      },
+      "artists": [
+        {
+          "name": "Ugaboys",
+          "url": "https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe"
+        },
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Salary",
+      "url": "https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669"
     },
     {
       "added_at": "2023-07-21 06:10:04",
@@ -859,22 +879,6 @@
     {
       "added_at": "2023-07-21 06:10:04",
       "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-07-21 06:10:04",
-      "album": {
         "name": "Leaving Summer",
         "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
       },
@@ -899,38 +903,18 @@
     {
       "added_at": "2023-07-21 06:10:04",
       "album": {
-        "name": "Kimugunyu",
-        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
       "artists": [
         {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
         }
       ],
-      "duration_ms": 180781,
-      "name": "Kimugunyu",
-      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
-    },
-    {
-      "added_at": "2023-07-21 06:10:04",
-      "album": {
-        "name": "Love Marijuana",
-        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
-      },
-      "artists": [
-        {
-          "name": "C. Wyne Nalukalala",
-          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Love Marijuana",
-      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
       "added_at": "2023-07-21 06:10:04",
@@ -947,6 +931,22 @@
       "duration_ms": 156055,
       "name": "Wangi",
       "url": "https://open.spotify.com/track/5TXU3a3csDRY2vyqEGItBK"
+    },
+    {
+      "added_at": "2023-07-21 06:10:04",
+      "album": {
+        "name": "Kimugunyu",
+        "url": "https://open.spotify.com/album/3IXuIkjdJIq5tnLin2bIgE"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 180781,
+      "name": "Kimugunyu",
+      "url": "https://open.spotify.com/track/6DjcHOzwOfYYwy6fOnZMhS"
     }
   ],
   "unique_name": "Made In Uganda",

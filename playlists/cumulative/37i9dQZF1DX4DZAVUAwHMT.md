@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: YONAKA
+> The UK's biggest rock playlist\. Cover: VUKOVI
 
-270 songs - 14 hr 44 min
+276 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-07-20 | 2023-07-28 |
 | [Begin Again](https://open.spotify.com/track/60LKpOJR8e1rentSnw7hzx) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Begin Again](https://open.spotify.com/album/7bZ2dfnfp3tdDUe63e55Vr) | 2:53 | 2023-06-01 |  |
 | [Better Way Out](https://open.spotify.com/track/2OVvGwLJ9IYY9wxPzissxv) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Better Way Out](https://open.spotify.com/album/1i1rVDmckHqPKFtxDrHM8d) | 4:36 | 2023-06-29 |  |
+| [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 |  |
 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 | 2023-03-08 | 2023-03-09 |
 | [Black Tank Top](https://open.spotify.com/track/6OTzR46oNM6tZbO0VBBRWr) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [Black Tank Top](https://open.spotify.com/album/6uV6qHsSUlF9BLri72I0qJ) | 3:21 | 2023-01-13 | 2023-03-03 |
 | [Blame](https://open.spotify.com/track/5gqd2N6igMx397BpzS9jsi) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Blame](https://open.spotify.com/album/1WjBjv6eT79b9RNJzJU8ou) | 2:54 | 2023-06-15 | 2023-07-28 |
@@ -58,6 +59,7 @@
 | [Cherophobe](https://open.spotify.com/track/5N2s4ZcU9sAuEHlnOMGzny) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Cherophobe](https://open.spotify.com/album/628bjj2XYcW0GISs7ei2fC) | 4:16 | 2023-04-13 | 2023-06-02 |
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2023-03-08 | 2023-03-09 |
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2023-01-13 | 2023-02-03 |
+| [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-03 |  |
 | [Cut the Cord](https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [A Fistful of Peaches](https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea) | 3:29 | 2023-03-17 | 2023-03-25 |
 | [CYAN1DE \(feat\. PETE WENTZ\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 | 2023-01-13 | 2023-02-24 |
 | [C’est Comme Ça](https://open.spotify.com/track/3jRZBWdbVNtY1zYW8OSFAb) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [C'est Comme Ça](https://open.spotify.com/album/5CvDSn3WpHWMLJUZRfnqxo) | 2:29 | 2023-01-13 | 2023-02-10 |
@@ -68,6 +70,7 @@
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-05-05 |
 | [Died in My Twenties](https://open.spotify.com/track/5jugjQMGL2QNFdxfl12o5G) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Died in My Twenties](https://open.spotify.com/album/53dbOtnbcErPBsWtvaVFM2) | 3:07 | 2023-01-20 | 2023-04-21 |
 | [Do Or Die](https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN) | [Do Or Die](https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9) | 2:50 | 2023-02-10 | 2023-06-23 |
+| [dose no\. 2](https://open.spotify.com/track/1oRTzF2rBqLGm1goxeflIm) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [The Maine](https://open.spotify.com/album/40ptDph9mAXMnkZJKRe3UM) | 2:54 | 2023-08-03 |  |
 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 | 2023-07-20 |  |
 | [Dress](https://open.spotify.com/track/2ptbBxMTCbFBefVMXwrdSC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:23 | 2023-03-08 | 2023-03-09 |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-03-24 | 2023-06-09 |
@@ -183,7 +186,7 @@
 | [OK](https://open.spotify.com/track/6qNMS8hywSVyaFcH3LqwEn) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [OK](https://open.spotify.com/album/6xF3774il7mBjTAqfgIpeg) | 3:44 | 2023-02-17 | 2023-07-07 |
 | [Okay That's Me](https://open.spotify.com/track/4GwpXgHffb9W4tW7Ee8uAn) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Okay That's Me](https://open.spotify.com/album/1AlRwqxW1pi4JxP3jthq58) | 3:11 | 2023-01-13 | 2023-02-03 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-04-14 |
-| [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-25 |  |
+| [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-25 | 2023-08-04 |
 | [Orbit](https://open.spotify.com/track/5szx7r9yarz9Duw9F0NT6w) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV) | 3:32 | 2023-04-20 | 2023-04-30 |
 | [Orbit](https://open.spotify.com/track/659YVcaiUXCKtdizsyHkND) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Orbit](https://open.spotify.com/album/6WnZa9u2hVV2jgPTSelyjX) | 3:32 | 2023-04-27 | 2023-05-12 |
 | [Out of My Mind](https://open.spotify.com/track/1bQG1BtFDU8ZFGpbyDKxm1) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Out of My Mind](https://open.spotify.com/album/1RVaXdSt6BPNwO9f4BPN33) | 3:32 | 2023-01-13 | 2023-01-20 |
@@ -205,6 +208,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-20 | 2023-05-19 |
+| [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-03 |  |
 | [Return My Head](https://open.spotify.com/track/7hbvq2vHYcYTgRs2tJgiel) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Return My Head](https://open.spotify.com/album/7268G8ZBtoLP1tU5y4FtBW) | 2:45 | 2023-01-13 | 2023-03-03 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2023-03-08 | 2023-03-09 |
 | [Ruin Your Night](https://open.spotify.com/track/0gWPthWTDVcV4cBCyuaYxV) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Ruin Your Night](https://open.spotify.com/album/6kIHeuiJfhPGq6eo68hfqV) | 4:01 | 2023-01-13 | 2023-03-03 |
@@ -216,6 +220,7 @@
 | [Scissors](https://open.spotify.com/track/0jIXZaSMj34eUHgMJcWxvk) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Scissors](https://open.spotify.com/album/5JaPTF6lQBgfvhPb7zjYo2) | 4:39 | 2023-07-20 |  |
 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 | 2023-03-08 | 2023-03-09 |
 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-01-27 | 2023-03-10 |
+| [Shades of Blue](https://open.spotify.com/track/5UAw33lzKlqJNBDQkzcgwi) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Shades of Blue](https://open.spotify.com/album/2zduWdJOVRh6YiQ0rSNzmn) | 3:50 | 2023-08-03 |  |
 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 | 2023-07-13 |  |
 | [SHE’S MY \(SEXI BOY\)](https://open.spotify.com/track/6foPSxr70ZhG1ZVu03JzYS) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [My Favorite Blue Jeans](https://open.spotify.com/album/1L0YVLNDSQLKXkX1H5Dyl8) | 2:16 | 2023-01-13 | 2023-02-03 |
 | [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 | 2023-05-18 | 2023-05-26 |
@@ -225,7 +230,7 @@
 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 | 2023-02-03 | 2023-04-21 |
 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 | 2023-05-04 |  |
 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 | 2023-01-13 | 2023-03-03 |
-| [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:16 | 2023-07-13 |  |
+| [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 | 2023-07-13 |  |
 | [Spit.](https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Spit.](https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx) | 4:08 | 2023-03-08 | 2023-03-09 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-29 |  |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-03 | 2023-04-21 |
@@ -251,6 +256,7 @@
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-20 | 2023-02-17 |
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2023-06-29 |  |
 | [Things Ain't Always What They Seem](https://open.spotify.com/track/3sUVfJ3HLD24ZluLjWnFJu) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Bilk](https://open.spotify.com/album/0FAWcffpYAfrKGmv9yxd2J) | 3:57 | 2023-02-10 | 2023-03-10 |
+| [This Isn't Me](https://open.spotify.com/track/2foKNLF3iIbX8cs0NyGMB2) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [This Isn't Me](https://open.spotify.com/album/7IOGKde0zgOWxGdImhJ0TN) | 3:37 | 2023-08-03 |  |
 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 | 2023-07-20 |  |
 | [Tightrope \(Walking on a Wire\)](https://open.spotify.com/track/49LcaMiwb4jRwkhLjsxcgD) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:23 | 2023-03-10 | 2023-05-19 |
 | [Token Appreciation Society](https://open.spotify.com/track/7h93bsTZBsTqVWQjLEP1M8) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Token Appreciation Society](https://open.spotify.com/album/0qrfFlQZxrYP8SjP3u0bsn) | 3:30 | 2023-05-25 | 2023-07-14 |

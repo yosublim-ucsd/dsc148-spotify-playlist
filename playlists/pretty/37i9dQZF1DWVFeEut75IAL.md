@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 
 > The most calming classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,011 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,434 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFeEut75IAL.md) - [plain]
 | 64 | [Seven Days Walking / Day 1: Ascent](https://open.spotify.com/track/4NqknSuLbtn77F73YzNVBf) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking](https://open.spotify.com/album/5Otajf16kZ0zkVZWhu7LtO) | 5:37 |
 | 65 | [Suite d'orchestre dans le style ancien, Op\. 2: II\. Sarabande\. Mesto](https://open.spotify.com/track/3C8Xxgad3ejXfJ0RiJq9G1) | [Albéric Magnard](https://open.spotify.com/artist/6vXWehXddAhqxqCAbUeQYa), [Philharmonisches Orchester Freiburg](https://open.spotify.com/artist/7zW6AJzj7refzE8uu9W8jA), [Fabrice Bollon](https://open.spotify.com/artist/3TatLwCeXp89VYjOQVyJjZ) | [Magnard: Orchestral Works](https://open.spotify.com/album/5cNzmh737G2dscX93MDeZh) | 2:09 |
 
-Snapshot ID: `MCxlOTlmYTcyNWEzZGUyNTVmMDg4Nzk3YTZhOWQzZTQ3MWM0YzkzNGM0`
+Snapshot ID: `MCwzMGJmODZlZDZjMTQ2YjA4NzVkM2EwZDc4OWU1ODRlN2M2ZDRhNTQ0`

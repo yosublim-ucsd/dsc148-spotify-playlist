@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria.",
-  "num_followers": 275758,
+  "num_followers": 275845,
   "original_name": "Suor EDM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmVlZjJkOGRiYWNjN2RkMTE1ZDEzNjAxZjRjZjQ5M2U1OGQwYTEx",
+  "snapshot_id": "MCw5OWVkMjY0YmIwZjFkY2ExYzBiNTY5YmE0YTZlODYxZjBkYjU2MmE3",
   "tracks": [
     {
       "added_at": "2023-07-28 16:29:31",
@@ -539,6 +539,30 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
+        "name": "Esta Vida (VINNE Remix)",
+        "url": "https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Esta Vida - VINNE Remix",
+      "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
         "name": "The Age of Love 2022",
         "url": "https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE"
       },
@@ -611,30 +635,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Esta Vida (VINNE Remix)",
-        "url": "https://open.spotify.com/album/3tRAT5guWju2w4NquyECo8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "VINNE",
-          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Esta Vida - VINNE Remix",
-      "url": "https://open.spotify.com/track/3ClKsM5f06HfEpzNhmQeY0"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "Psycho Killer",
         "url": "https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-07-28 16:29:31",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
-    },
-    {
-      "added_at": "2023-07-28 16:29:31",
-      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2023-07-28 16:29:31",
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no"
     },
     {
       "added_at": "2023-07-28 16:29:31",

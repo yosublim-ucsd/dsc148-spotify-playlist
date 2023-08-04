@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,335 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,336 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 35 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
 | 36 | [Di Nobo](https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB) | 3:15 |
 | 37 | [Me Duele el Alma](https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi) | [Jesse Garcia](https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn) | [Me Duele el Alma](https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy) | 5:03 |
-| 38 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 |
-| 39 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 |
+| 38 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 |
+| 39 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 |
 | 40 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 |
 | 41 | [Bandolera](https://open.spotify.com/track/0KXcutfBJQKPaIumj3IMZf) | [Joan Cases](https://open.spotify.com/artist/0fPtHhRntsy2ZAcs9aURCL) | [Bandolera](https://open.spotify.com/album/714MZUZdQNlqxM2fkM7Brw) | 2:48 |
 | 42 | [Copacabana](https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Copacabana](https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
 | 50 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 
-Snapshot ID: `MCwwZGVmNDUwOGEyNzE0MWM0ZWU2ZDFjN2FmNDVmODUwZjg5ZDI1ZmVh`
+Snapshot ID: `MCxlNGU2NWRjYTFkMGM3MzY2ZjkzYTQ2N2JlMzUxYjQ0OTgyYzk4MmE1`

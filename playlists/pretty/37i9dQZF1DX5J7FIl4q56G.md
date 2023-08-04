@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Dying Wish
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,247 likes - 67 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,441 likes - 67 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 14 | [Rapture](https://open.spotify.com/track/5b3X1tBzVqGoru8gJELTgh) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [Reader of the Runes \- Rapture](https://open.spotify.com/album/02YyhNf4V9EVBU2fpGGBrj) | 6:19 |
 | 15 | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/track/73JmAiEVuWR9z2EVQo8Ni5) | [Incantation](https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz) | [Homunculus \(Spirit Made Flesh\) IX](https://open.spotify.com/album/6H3ZsGKvAFFhrZ8O2hBSxN) | 4:37 |
 | 16 | [I Saw God On 10th St.](https://open.spotify.com/track/6xd4Jcu9k8xvjx4XM9AG6B) | [Duff McKagan](https://open.spotify.com/artist/3KEe5d2p5jKihMMvuXVhr1) | [I Saw God On 10th St.](https://open.spotify.com/album/1nlqGkBXFLDKHjM4ddCd6Z) | 3:05 |
-| 17 | [Reign Of Darkness \- Live](https://open.spotify.com/track/6oLZqzELC97xr2GPtLpyQj) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Decade Of Hate \(Live in Melbourne 2023\)](https://open.spotify.com/album/3Y8Sa6PVQ5bxHH2IewjIr3) | 4:44 |
+| 17 | [Reign of Darkness \- Live](https://open.spotify.com/track/6oLZqzELC97xr2GPtLpyQj) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Decade of Hate \(Live in Melbourne 2023\)](https://open.spotify.com/album/3Y8Sa6PVQ5bxHH2IewjIr3) | 4:44 |
 | 18 | [Consign To Oblivion \- Live at the Afas Live](https://open.spotify.com/track/76B4WwUShRWjjOOA6146Hb) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Consign To Oblivion \(Live At The Afas Live\)](https://open.spotify.com/album/4o0xfqGPoackkoZpDPIhgl) | 9:58 |
 | 19 | [DREAMKILLER](https://open.spotify.com/track/3txHjiJxp36SBzNTmQJmXt) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Amongst The Low & Empty](https://open.spotify.com/album/22Jf4cycfboklXm8lwrljV) | 4:11 |
 | 20 | [Priest](https://open.spotify.com/track/3ZPTA2HR92LjhnAVB9IGfF) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [Judas](https://open.spotify.com/album/4IxyBm76ZDCU4vDSE94KMt) | 5:19 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [Starring Role](https://open.spotify.com/track/1BJ1zXV1zS8hkesUaZEyu3) | [Till The Dirt](https://open.spotify.com/artist/3bJBvA9DFvhQGhCMlYrQnL) | [Starring Role](https://open.spotify.com/album/1D5ussZ0v5FGJZ2Ojfs4X1) | 3:57 |
 | 67 | [Bleak](https://open.spotify.com/track/0OJexI4iMsyjUO6iAKdaqE) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Bleak](https://open.spotify.com/album/0FGGHfPcz6V0AyDSRgEsiY) | 3:09 |
 
-Snapshot ID: `MCw0M2E5ZjYwYTFmNzM3MmU4ZmUwN2VmN2Y0OTZlZjE4ODEyMzJhYTZk`
+Snapshot ID: `MCwyNjk2YjQ5NmE5NDhkZGY4OTJmNzVkNzMxYTU0YmM5OTZlYzA2YWEy`

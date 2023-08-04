@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Lesti
+> Dendang Dangdut teratas\. Cover: Wika Salim, 3 Pemuda Berbahaya
 
-109 songs - 8 hr 25 min
+112 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Kau Tercipta Bukan Untukku](https://open.spotify.com/track/2q9f86CdlaXOr6vD3HJK6R) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Sebelas Duabelas](https://open.spotify.com/album/6deRNyvv7AgrJWaA9xx5u8) | 4:21 | 2021-08-23 |  |
 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 | 2023-05-11 |  |
+| [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 | 2023-08-03 |  |
 | [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2021-08-23 |  |
 | [Konco Rindu](https://open.spotify.com/track/5KXY2olwTQxjhbX6plooNV) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Konco Rindu](https://open.spotify.com/album/4zoCn0RSzcqyAvf3gEjn1i) | 5:05 | 2021-08-23 | 2023-03-31 |
 | [Ku Puja Puja](https://open.spotify.com/track/13p3Fu1HTCPsUXQ8JGxVEz) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Ku Puja Puja](https://open.spotify.com/album/7xH7H47nIFy8825YlQPeTv) | 4:55 | 2021-08-23 |  |
@@ -61,6 +62,7 @@
 | [Lagi Syantik](https://open.spotify.com/track/2t65pJQA9BpPXehQLkOydo) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/0IQVxZ7YaLlnnoy4v7I61t) | 3:49 | 2021-08-23 |  |
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2022-07-29 |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-08-23 |  |
+| [Madu Merah \- Cover](https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z) | [Madu Merah \(Cover\)](https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo) | 4:18 | 2023-08-03 |  |
 | [MANDI MADU](https://open.spotify.com/track/3pp46cFnbZd0gFm6FwvPyL) | [Elvy Sukaesih](https://open.spotify.com/artist/0yXW1N9QI9cp5Lw2Wdle8Q) | [MANDI MADU](https://open.spotify.com/album/2QPyodnyZngiTLtR5l5L5L) | 3:57 | 2021-08-23 |  |
 | [Marlina](https://open.spotify.com/track/4aqSBMVmU6mYvAnIbnyOHr) | [Thomas Djorghi](https://open.spotify.com/artist/1PgpMO3k0MFsIbKT3sQFkI) | [Marlina](https://open.spotify.com/album/7myo2qt1Y3C97HsnmQCONr) | 4:05 | 2023-02-02 |  |
 | [Mataharimu](https://open.spotify.com/track/7hrrK9IGXA1V30nLkLI7Ei) | [Sridevi](https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3) | [Mataharimu](https://open.spotify.com/album/2vmrg3VSTLe3uMvwofdVQq) | 5:17 | 2023-02-16 | 2023-07-14 |
@@ -84,6 +86,7 @@
 | [Pergi](https://open.spotify.com/track/6QCnymtBJNwdv6pIipGk4T) | [Jihan Audy](https://open.spotify.com/artist/7KlMqMCZbUE9rYpa95R2CV) | [Pergi](https://open.spotify.com/album/1VDEAgE1vlNpwTrBbpSG2Y) | 4:06 | 2021-08-23 |  |
 | [Perjalanan Cinta](https://open.spotify.com/track/7mAj5C8G5OGxbtrEuxTL4i) | [Ucie Sucita](https://open.spotify.com/artist/03qsCoduQN1ffTfhVCijJp), [Sule](https://open.spotify.com/artist/7dFuuEw7vtremmH04grgC6) | [Perjalanan Cinta](https://open.spotify.com/album/0dRuc3F24fnfzP9AW5d4qp) | 4:08 | 2023-05-25 |  |
 | [Perlahan](https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Perlahan](https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG) | 5:00 | 2021-08-23 |  |
+| [Racun Asmara](https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Racun Asmara](https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf) | 6:11 | 2023-08-03 |  |
 | [Rasa Yang Salah](https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rasa Yang Salah](https://open.spotify.com/album/6jVMOyooGnu49SsAZyuObH) | 4:47 | 2021-08-23 |  |
 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 | 2021-08-23 |  |
 | [Salahkah Aku](https://open.spotify.com/track/377ZMIKzLmBAYx3BTdNISv) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Salahkah Aku](https://open.spotify.com/album/6TdZuqZQ4wdzTL0rl3WmzP) | 5:27 | 2023-05-18 |  |

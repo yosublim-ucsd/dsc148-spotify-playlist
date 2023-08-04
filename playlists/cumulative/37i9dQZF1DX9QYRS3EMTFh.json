@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Sean Paul",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 138687,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4oYsDGK6eFXB1zg6pWb1Hj"
@@ -736,6 +736,24 @@
       "duration_ms": 155744,
       "name": "Big Woman Thing",
       "url": "https://open.spotify.com/track/6j8NRVBuVs5IGr9AKuw3vp"
+    },
+    {
+      "album": {
+        "name": "Prophecy",
+        "url": "https://open.spotify.com/album/6QC9wozEHeMaEUiipw3gnC"
+      },
+      "artists": [
+        {
+          "name": "Venssy",
+          "url": "https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Bless Mo Life",
+      "url": "https://open.spotify.com/track/57hfbNwAYXznJHgAGnxHya"
     },
     {
       "album": {
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 138901,
       "name": "Discreet",
       "url": "https://open.spotify.com/track/1DvwTv5wKJHGG8kPIohLz2"
@@ -2084,7 +2102,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 148000,
       "name": "God a Bless Me",
       "url": "https://open.spotify.com/track/6bi6SUcKHh9NzvSELB75hT"
@@ -2286,6 +2304,28 @@
       "duration_ms": 177600,
       "name": "HEAVY",
       "url": "https://open.spotify.com/track/7gLBmiTRzVqJ9curo0dj1N"
+    },
+    {
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/4SanS6XsSjGHaaZrUSpvWp"
+      },
+      "artists": [
+        {
+          "name": "Limitless",
+          "url": "https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136337,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/5y5b7bIG6JJpMwWI7Ok1X0"
     },
     {
       "album": {
@@ -3874,7 +3914,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 174351,
       "name": "One Life",
       "url": "https://open.spotify.com/track/2H88Kxs8ckt4vFXUDsIsrf"
@@ -4734,6 +4774,28 @@
       "duration_ms": 158400,
       "name": "Shatta Twist",
       "url": "https://open.spotify.com/track/290QMvxXhz9mPiOIqFiuTh"
+    },
+    {
+      "album": {
+        "name": "Shattating",
+        "url": "https://open.spotify.com/album/7Bxpa2dzcyI2V8jo2IlpTF"
+      },
+      "artists": [
+        {
+          "name": "Dj Lub's",
+          "url": "https://open.spotify.com/artist/1aZt6Dd236InaXbBMB0soh"
+        },
+        {
+          "name": "Its Natascha",
+          "url": "https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142574,
+      "name": "Shattating",
+      "url": "https://open.spotify.com/track/3vvIfLyuYnd8DHjcIk8JWy"
     },
     {
       "album": {
@@ -6048,6 +6110,24 @@
       "duration_ms": 141140,
       "name": "Ya Skin Fit",
       "url": "https://open.spotify.com/track/2atvj9otOqIen4CELIbaR0"
+    },
+    {
+      "album": {
+        "name": "Yaad Man",
+        "url": "https://open.spotify.com/album/3h9olV9TVlXzKDypvElsFH"
+      },
+      "artists": [
+        {
+          "name": "D'yani",
+          "url": "https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Yaad Man",
+      "url": "https://open.spotify.com/track/2e8tkd6PJvOdQWs52oJHvn"
     },
     {
       "album": {

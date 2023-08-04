@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: Zino Vinci
+> No tags, no labels \- just free form\. Cover: KhakiKid
 
-296 songs - 15 hr 41 min
+297 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 | 2022-06-24 | 2022-07-12 |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-10-23 |  |
 | [Make U Go](https://open.spotify.com/track/5V6TcpbAtz5Q0HC0G6XJhF) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Make U Go](https://open.spotify.com/album/4lppAXoOGn4goUQZXs4xPn) | 3:34 | 2022-06-24 | 2022-07-27 |
+| [maradona](https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [sand bebé](https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS) | 2:56 | 2023-08-04 |  |
 | [Mare](https://open.spotify.com/track/3maTgl5AL7QJoCsQA9odoW) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 3:29 | 2022-06-24 | 2022-07-29 |
 | [Mask On](https://open.spotify.com/track/7zxtj0SKcfBMYWnf7nYrsG) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [Mask On](https://open.spotify.com/album/7HLBka5H2JbrWwWYhFCpOl) | 2:49 | 2022-06-24 | 2022-07-29 |
 | [Mass Appeal](https://open.spotify.com/track/0ME3OZZQKxsbaSaUHoJDOj) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW), [Quentin Miller](https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9) | [Mass Appeal](https://open.spotify.com/album/0SA9Sb5L8q7qHKaa8xMok3) | 3:27 | 2022-06-24 | 2022-07-29 |
@@ -194,7 +195,7 @@
 | [Nothing](https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Nothing](https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu) | 2:56 | 2022-07-17 | 2022-10-24 |
 | [Nothing Aint Free](https://open.spotify.com/track/5OZ3EeCeWeMK6QenTPMUxV) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ) | [Nothing Aint Free](https://open.spotify.com/album/2vuJDL1lEBn3jGXVmyrSxu) | 2:32 | 2023-05-15 | 2023-06-17 |
 | [Nuisance](https://open.spotify.com/track/3zzWP6dp2Ib2LY9W2syakI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [IGLU NOISE](https://open.spotify.com/artist/4mzfxQIp2bIdE048E2xM26) | [Nuisance](https://open.spotify.com/album/1aGqmxguu0GkKxcHhBVeKo) | 2:32 | 2023-05-15 | 2023-05-19 |
-| [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 | 2022-07-17 |  |
+| [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 | 2022-07-17 | 2023-08-04 |
 | [OG lullaby](https://open.spotify.com/track/0IuObXV5COFvZJjELSYLoi) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [OG lullaby](https://open.spotify.com/album/6L2td8w9gFdnjSqVyi2fXT) | 2:16 | 2022-07-17 | 2022-07-25 |
 | [OK THEN](https://open.spotify.com/track/1NdXF2SJrcqfPhCR059DuR) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [OK THEN](https://open.spotify.com/album/7l8ClBpZUPT3hQOU865QFb) | 3:04 | 2023-05-19 | 2023-06-17 |
 | [Old School Flex \(feat\. D Double E & Izzy Bizu\)](https://open.spotify.com/track/2S0r90JG8zR9WjQ4PFXv2L) | [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Rudeboy Ting](https://open.spotify.com/album/2ISrnHufefjRkO5LdshN7o) | 3:45 | 2022-06-24 | 2022-07-28 |

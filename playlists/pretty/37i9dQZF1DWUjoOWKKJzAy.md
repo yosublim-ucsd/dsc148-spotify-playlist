@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,297 likes - 61 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,552 likes - 61 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cena de Cinema](https://open.spotify.com/track/3j3zsk14X899YcwhFA7Gte) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Box Lobão \- 81/91](https://open.spotify.com/album/5tr7OqRJmrQzQzdhrdNbdl) | 3:05 |
+| 1 | [Cena de Cinema](https://open.spotify.com/track/2NkoOvdm5Nq3Q2NhwaVL3U) | [Lobão](https://open.spotify.com/artist/3LWCuB9QxDmpLhhGwqU04N) | [Cena de Cinema](https://open.spotify.com/album/42cHx17kSgYo3AquBdksRt) | 3:06 |
 | 2 | [Exagerado](https://open.spotify.com/track/6L5EaSYdQDLQHhaNPUlUs1) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 3:45 |
 | 3 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
 | 4 | [Meu Erro](https://open.spotify.com/track/6P694ZjCWctbgzgh9qAmW8) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [D](https://open.spotify.com/album/6sIIMLooMGuw7oEja7uWTe) | 4:03 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 60 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 61 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MCwyYjA2NDY1YjYyMzZkZGY5Mjc3YzM2NGE0ZGVhNjI0ZTMwNmQxNGVh`
+Snapshot ID: `MCxjYmMxZWU5NmIwNmFlZGE4MGZlOTc1ZDNiZTRlMmZlNjVhM2Y4NmYx`

@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 58330,
+  "num_followers": 58363,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWQ2YTgwNDMyNTU1ZmUwNDM2MDQyNWFmODdlMzk5Y2Y1MzE0YTRk",
+  "snapshot_id": "MCxlNzUyNDgzNDVmY2Y1ZWM2ZjhmNzY5OTRmMjllN2ZhNTBkNTQxZGY1",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Matalib - COLORS Sudan",
+        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Matalib - COLORS Sudan",
+      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
         "url": "https://open.spotify.com/album/0VGa2gazFA7invA9hBmv4J"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 188852,
       "name": "\u064a\u0627\u0645\u0651\u0647 \u0645\u0648\u064a\u0644 \u0627\u0644\u0647\u0648\u0649 (feat. Frankly Jazz)",
       "url": "https://open.spotify.com/track/2fndQayJ2sGLs2q0WDS9Dt"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Matalib - COLORS Sudan",
-        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Matalib - COLORS Sudan",
-      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Revelation of Ecstasy and Rebellion",
-        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
-      },
-      "artists": [
-        {
-          "name": "Rim Banna",
-          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
-        }
-      ],
-      "duration_ms": 354760,
-      "name": "The Taste of Love",
-      "url": "https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
         "url": "https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 164691,
       "name": "\u0643\u064a\u0641 \u0627\u0644\u062d\u0628 \u0628\u0646\u0642\u0627\u0633",
       "url": "https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Revelation of Ecstasy and Rebellion",
+        "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
+      },
+      "artists": [
+        {
+          "name": "Rim Banna",
+          "url": "https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO"
+        }
+      ],
+      "duration_ms": 354760,
+      "name": "The Taste of Love",
+      "url": "https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
-        "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
+        "name": "Erjaa Shoufak",
+        "url": "https://open.spotify.com/album/4pGrKvclUJW5QbzY80hU3a"
       },
       "artists": [
         {
-          "name": "Roxs9",
-          "url": "https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru"
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
         }
       ],
-      "duration_ms": 268861,
-      "name": "\u062f\u0631\u0631",
-      "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
+      "duration_ms": 227280,
+      "name": "Erjaa Shoufak",
+      "url": "https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Erjaa Shoufak",
-        "url": "https://open.spotify.com/album/4pGrKvclUJW5QbzY80hU3a"
+        "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
+        "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
       },
       "artists": [
         {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+          "name": "Roxs9",
+          "url": "https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Erjaa Shoufak",
-      "url": "https://open.spotify.com/track/6mbo7f6VsjsgxQBkgGA9mv"
+      "duration_ms": 268861,
+      "name": "\u062f\u0631\u0631",
+      "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
     },
     {
       "added_at": "2022-05-09 08:05:11",

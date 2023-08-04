@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-56 songs - 4 hr 15 min
+57 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Amazing Grace](https://open.spotify.com/track/5c993xB4UZFWaTZ8mTBWLl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 4:12 | 2023-05-12 |  |
 | [Another Days Journey](https://open.spotify.com/track/3fyzeuKbcxC2iBST96BD59) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:06 | 2023-05-30 | 2023-06-03 |
 | [Blessed Assurance](https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Hymns](https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e) | 3:50 | 2023-05-12 |  |
-| [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:57 | 2023-05-12 |  |
+| [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/1CvwoAEl17W0b1f0ZgEbIm) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth of Kirk Franklin \(Live at Lakewood Church, Houston, TX \- June 16, 2000\)](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 5:57 | 2023-05-12 | 2023-08-04 |
+| [Caught Up \- Live at Lakewood Church, Houston, TX \- June 16, 2000](https://open.spotify.com/track/6IUzYQEPdvnsKqEn3o64iJ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Rebirth Of Kirk Franklin \(Live\)](https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce) | 5:57 | 2023-08-03 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/5qcAI2okoSPebBpM6f0hdz) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 3:34 | 2023-05-12 |  |
 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 | 2023-05-12 |  |
 | [Don't Give Up](https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:21 | 2023-05-12 |  |

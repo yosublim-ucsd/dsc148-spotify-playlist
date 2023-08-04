@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Esteman",
-  "num_followers": 132284,
+  "num_followers": 132331,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDJiYWU1NjMzY2U0ZDFiY2Q5Zjk2YWM1YWNiYzZhMDIyZGZlNTc4",
+  "snapshot_id": "MCxkNTRiZTZmNDUxYzFiZjAwYTk3NzU2MmU5ODAzMzQ3M2IzMTkyZTQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Fugitivo",
-        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
-      },
-      "artists": [
-        {
-          "name": "Robleis",
-          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Fugitivo",
-      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Pa Tanto",
         "url": "https://open.spotify.com/album/20ULysRftwowCX4GCySy6f"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 169629,
       "name": "Pa Tanto",
       "url": "https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Fugitivo",
+        "url": "https://open.spotify.com/album/1V0Tqj5kxCGZ4Fr6l32pVn"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Fugitivo",
+      "url": "https://open.spotify.com/track/6IWHrUE6laQtlobaAN0IKb"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mi vida en llamas (feat. Buscabulla)",
-        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 288624,
-      "name": "Mi vida en llamas (feat. Buscabulla)",
-      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+      "duration_ms": 267480,
+      "name": "jules",
+      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -575,18 +571,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+        "name": "Mi vida en llamas (feat. Buscabulla)",
+        "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
         }
       ],
-      "duration_ms": 267480,
-      "name": "jules",
-      "url": "https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3"
+      "duration_ms": 288624,
+      "name": "Mi vida en llamas (feat. Buscabulla)",
+      "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "El diablo en el cuerpo",
-        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 266875,
-      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "R\u00e1pido",
         "url": "https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 178252,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "El diablo en el cuerpo",
+        "url": "https://open.spotify.com/album/01KbLfiHLs7Z7fjWmSszif"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 266875,
+      "name": "Tienes una idea muy antigua del amor (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/1Khmt1sGdFE7hRzKCqC2yS"
     },
     {
       "added_at": "2023-07-21 04:00:00",

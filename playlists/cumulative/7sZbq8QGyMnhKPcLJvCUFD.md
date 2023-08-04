@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-343 songs - 17 hr 15 min
+344 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Can't You Feel It](https://open.spotify.com/track/7qw1FDLaNC5LA6kifisldI) | [MIDNIGHT CVLT](https://open.spotify.com/artist/6fT08N8EN9rPdbeWxXkNdX), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU) | [Can't You Feel It](https://open.spotify.com/album/1mdT842jxLeARBJpahEw6f) | 3:43 | 2022-09-20 | 2023-04-28 |
 | [Caramel](https://open.spotify.com/track/14StKF124FSjdGN5zizxeu) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [RUD](https://open.spotify.com/artist/6IJyibMKpIZOeGR8FlxzBb) | [Caramel](https://open.spotify.com/album/1GaCDSNcfWizabEX3El1vl) | 4:02 | 2022-08-19 | 2023-04-28 |
 | [Catching Feelings](https://open.spotify.com/track/31nf4tcEQwkjhWtKY0Odox) | [VERB](https://open.spotify.com/artist/1pRjBwChdQFuoYH6NiI3pe) | [Catching Feelings](https://open.spotify.com/album/12uiINa1SNssVPOXdYXXqq) | 2:25 | 2023-03-01 |  |
+| [Cereb](https://open.spotify.com/track/5U27BfsytyQfOn6zatsyTp) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Cereb](https://open.spotify.com/album/201kszqcsGij86IBeZvFnj) | 4:36 | 2023-08-03 |  |
 | [Champions](https://open.spotify.com/track/0TX9BlX5jJfMMinl7UWaPa) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Lunaar](https://open.spotify.com/artist/13utdDa4vewlnpTmTHZNma), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Champions](https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB) | 3:30 | 2022-04-23 | 2023-04-28 |
 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 | 2022-08-31 |  |
 | [Clown Around](https://open.spotify.com/track/6qpjU00lJs5rCGyh6mFar2) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Clown Around](https://open.spotify.com/album/4B9AKvwbLZajHo7eQAJF47) | 2:43 | 2023-06-16 |  |
@@ -237,7 +238,7 @@
 | [Overdrive](https://open.spotify.com/track/10okOJmLKcEysZuKFJ2lki) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Ellerslie](https://open.spotify.com/artist/6ouVw2vTrKmhK2XUsmUMHE) | [Overdrive](https://open.spotify.com/album/5Tp0z2WyBNhie2ryMj0q2A) | 3:13 | 2023-04-06 |  |
 | [Paper Walls](https://open.spotify.com/track/55RkSrohK0n8gI4DEwZbRV) | [Elliot Kings](https://open.spotify.com/artist/79ouDRepsDjwqL2ykIpoTm), [Riggs](https://open.spotify.com/artist/00UzP2XgbVMSTGBYlP35Tj), [Mykyl](https://open.spotify.com/artist/42Gj65Q4XQ9hMhLQE5hi7r) | [Paper Walls](https://open.spotify.com/album/5CCgQ6komBkLrELk7xknR9) | 2:46 | 2023-04-11 |  |
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 |  |
-| [paradise](https://open.spotify.com/track/3Am5nkSILnXq8LXq8dUQG6) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M) | [paradise](https://open.spotify.com/album/6I0s3voMRDUIpVHjGAP6dU) | 2:31 | 2023-07-27 |  |
+| [paradise](https://open.spotify.com/track/3Am5nkSILnXq8LXq8dUQG6) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ), [Ntsika](https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN) | [paradise](https://open.spotify.com/album/6I0s3voMRDUIpVHjGAP6dU) | 2:31 | 2023-07-27 |  |
 | [Party](https://open.spotify.com/track/4FULPITIQbUrszR2lZsoZZ) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Party](https://open.spotify.com/album/3y4HtUHYYXZ4wdI2OHxABQ) | 3:12 | 2022-12-21 | 2023-04-28 |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 | 2023-04-28 |
 | [PLAYAS NEVER DIE](https://open.spotify.com/track/43bEmGTSrAViM7cplkNaSM) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PLAYAS NEVER DIE](https://open.spotify.com/album/1tfZqv1gURs5EJTWduqwgv) | 2:30 | 2023-04-20 |  |

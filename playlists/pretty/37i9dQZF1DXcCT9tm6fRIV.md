@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,952 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,987 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 56 | [Adiós Muchachos](https://open.spotify.com/track/7oazB2sKLoBDC49smTIdoj) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Celebridades](https://open.spotify.com/album/5MOLEFcj4EcAda6ob8fUUL) | 2:28 |
 | 57 | [La Luz de un Fósforo \- En Vivo](https://open.spotify.com/track/293xyTq2gy7G5PFaMeBbmd) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:54 |
 | 58 | [Fugata](https://open.spotify.com/track/2Ifm6jyrzqpRZZrCcmX6W2) | [Quinteto Astor Piazzolla](https://open.spotify.com/artist/3ycM88bNGIojpJCVIOYkj8) | [Fugata](https://open.spotify.com/album/16AGklCV9Z4aCzVZP7sdFy) | 2:41 |
-| 59 | [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 |
-| 60 | [Quiero Verte una Vez Más](https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID) | [Roberto Siri](https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl) | [70 Años de Tango](https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk) | 3:48 |
+| 59 | [Quiero Verte una Vez Más](https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID) | [Roberto Siri](https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl) | [70 Años de Tango](https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk) | 3:48 |
+| 60 | [Las Ciudades](https://open.spotify.com/track/6RnCUy7PCF27LAOKmq0E8D) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Piazzolla & Amelita Baltar](https://open.spotify.com/album/30z0x3quz71hXLhKbfBaAw) | 4:36 |
 | 61 | [A Don Agustin Bardi](https://open.spotify.com/track/7BhH1HdsclSupDYIxvgLaa) | [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [Viejo Zen del Alma](https://open.spotify.com/album/3zis7pQusdinQyRtpkOjS0) | 3:19 |
 | 62 | [Cualquiera de Estas Noches](https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 3:53 |
 | 63 | [Sur](https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Rescatados](https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy) | 2:57 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 71 | [La casita de mis viejos \- Remastered](https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi), [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Sur \(Remastered\)](https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6) | 5:10 |
 | 72 | [Desencuentro](https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 2:38 |
 | 73 | [El Andariego](https://open.spotify.com/track/4j3uxMq69ROiwQpSCI2g2l) | [Julio Pane](https://open.spotify.com/artist/4LfXtXfhAtyH6Htp0x0mUV) | [A Las Orquestas](https://open.spotify.com/album/4p7RAcYL71hf4k4RBXGYUF) | 4:11 |
-| 74 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
-| 75 | [Fuimos \- En Vivo](https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 5:20 |
+| 74 | [Fuimos \- En Vivo](https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 5:20 |
+| 75 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
 | 76 | [Ave de Paso](https://open.spotify.com/track/3hkKjn76alBHAkN3rKESOk) | [Charlo](https://open.spotify.com/artist/3Ry0Bx0jq7Z6nbzTfcsvkL) | [Presentando a Charlo](https://open.spotify.com/album/0eZJ7lKZF1MpL2u4wy4bzm) | 3:11 |
 | 77 | [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 |
-| 78 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
-| 79 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
+| 78 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
+| 79 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |
 | 80 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 
-Snapshot ID: `MCw5OWZlNGQyNDQxMTc0MzM2YTBhY2RkN2IxYTRhNmVhNzBlOTM1ZTRh`
+Snapshot ID: `MCw5MTgwM2FlZjljOTlkMjEwN2Y3YmQ5NWQ3ZTM0YjdhNGExYzdlM2Y2`

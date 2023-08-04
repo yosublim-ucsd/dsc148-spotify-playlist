@@ -2,7 +2,7 @@
 
 ### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D?si=78078d9cb34f4592">Kelontae Gavin</a>
+> New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp?si=287f6a37be9f47cc">Erica Campbell</a>
 
 336 songs - 1 day 4 hr 52 min
 

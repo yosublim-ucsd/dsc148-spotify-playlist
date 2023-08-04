@@ -1,12 +1,12 @@
 {
   "description": "Classic tunes for the open road.",
-  "num_followers": 58775,
+  "num_followers": 58860,
   "original_name": "Canadian Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OWRhY2Q2YTE3YTI1ZDYwODYyZjk2NDI1ZTNhN2I5ODQ4NDcyNTQ0",
+  "snapshot_id": "MCxlNTRhODUwMGNhOTY3YTE2ODQwNzZmNTM0MjFmZjc0MTM1ZTI1MmRh",
   "tracks": [
     {
       "added_at": "2023-07-28 12:59:49",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-07-28 12:59:49",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Cuts Like A Knife",
-      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
-    },
-    {
-      "added_at": "2023-07-28 12:59:49",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 284093,
       "name": "All I Really Want - 2015 Remaster",
       "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm"
+    },
+    {
+      "added_at": "2023-07-28 12:59:49",
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Cuts Like A Knife",
+      "url": "https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR"
     },
     {
       "added_at": "2023-07-28 12:59:49",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-07-28 12:59:49",
       "album": {
-        "name": "You Forgot It In People",
-        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Anthems For A Seventeen Year-Old Girl",
-      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
-    },
-    {
-      "added_at": "2023-07-28 12:59:49",
-      "album": {
         "name": "Naveed",
         "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 244040,
       "name": "Starseed",
       "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+    },
+    {
+      "added_at": "2023-07-28 12:59:49",
+      "album": {
+        "name": "You Forgot It In People",
+        "url": "https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Anthems For A Seventeen Year-Old Girl",
+      "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
     },
     {
       "added_at": "2023-07-28 12:59:49",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-07-28 12:59:49",
       "album": {
-        "name": "Almost Naked",
-        "url": "https://open.spotify.com/album/4rE15VDZytTzb0139CTBdm"
+        "name": "In Good Time",
+        "url": "https://open.spotify.com/album/2JARrIac1A7awY7zEmAra7"
       },
       "artists": [
         {
-          "name": "Ruby Waters",
-          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
         }
       ],
-      "duration_ms": 200251,
-      "name": "Sweet Sublime",
-      "url": "https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV"
+      "duration_ms": 208480,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/408tRAknfYFqNE9F6tr6zg"
     }
   ],
   "unique_name": "Canadian Road Trip",

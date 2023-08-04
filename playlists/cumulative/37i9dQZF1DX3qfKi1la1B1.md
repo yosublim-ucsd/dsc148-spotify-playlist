@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-244 songs - 15 hr 56 min
+245 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2023-03-28 |  |
 | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/track/1OgRCIOlkWGrWMLXpKSuvm) | [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [A.S.A.P \~As slow as possible\~](https://open.spotify.com/album/0lwkjGUrX0qFHjDWv89M7e) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 | 2022-11-20 | 2023-01-11 |
-| [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 |  |
+| [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 | 2023-08-04 |
 | [ALONE](https://open.spotify.com/track/1ES7kph925ytu5O7lJhtav) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [SWING A SOUL](https://open.spotify.com/album/0HHc2bE8BCfMlqeijJZJLV) | 1:46 | 2023-06-22 |  |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 | 2023-01-13 |
 | [always](https://open.spotify.com/track/26dXOkhzMxLLNaUXt77HQc) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 2:52 | 2022-12-13 | 2023-05-30 |
@@ -206,6 +206,7 @@
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-14 | 2023-04-02 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2022-10-20 | 2023-01-25 |
 | [The Rings Of Saturn](https://open.spotify.com/track/6TCxTdyXZPcB17kqpJQzFP) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow \(Deluxe\)](https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz) | 3:23 | 2022-10-20 | 2022-11-18 |
+| [The Surge \- Edit](https://open.spotify.com/track/7zgqpFBkgX3ycNALKpVdhQ) | [Sandunes](https://open.spotify.com/artist/4exRwr38tW2DlCNGl2gIqn), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [The Surge](https://open.spotify.com/album/1Pt8oo4qJWdbFkAyzrmMfs) | 2:58 | 2023-08-03 |  |
 | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Therapy pt\. 2 \[Feat\. Mac Miller\]](https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF) | 3:22 | 2022-10-20 | 2022-11-23 |
 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 | 2022-10-20 |  |
 | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/track/3yJ57qr7LOU4cauQQwe50N) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Thousand Knives \- Thundercat Remodel](https://open.spotify.com/album/2QiROj647TO8FCCoKoojnA) | 5:26 | 2022-11-29 | 2022-12-14 |

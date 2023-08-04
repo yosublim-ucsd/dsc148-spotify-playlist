@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI?si=-dsmwHzdSjubu-tNTC6eTg\">Lasmid</a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L?si=bdcAMGVISMu1Fomr8oni7Q\">Fameye</a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 130285,
       "name": "Emotional Murder",
       "url": "https://open.spotify.com/track/1EunCW3ycj946sZueUp3kJ"
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "Freaky & Naughty",
+        "url": "https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Freaky & Naughty",
+      "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
+    },
+    {
+      "album": {
         "name": "Friday Night",
         "url": "https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO"
       },
@@ -1708,6 +1726,24 @@
       "duration_ms": 556190,
       "name": "Holding On - Live Dub Mix",
       "url": "https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP"
+    },
+    {
+      "album": {
+        "name": "Hosanna",
+        "url": "https://open.spotify.com/album/2ue26FOfSdSpiV47IOknYk"
+      },
+      "artists": [
+        {
+          "name": "Banzy Banero",
+          "url": "https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174485,
+      "name": "Hosanna",
+      "url": "https://open.spotify.com/track/1UcrPc3sarXiVaoYelfLbU"
     },
     {
       "album": {
@@ -2478,6 +2514,24 @@
       "duration_ms": 229345,
       "name": "Non Living Thing (feat. Oxlade)",
       "url": "https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw"
+    },
+    {
+      "album": {
+        "name": "Not God",
+        "url": "https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150055,
+      "name": "Not God",
+      "url": "https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH"
     },
     {
       "album": {
@@ -4240,7 +4294,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 303282,
       "name": "You Dey Feel The Vibe (Live)",
       "url": "https://open.spotify.com/track/1HYFDVX21R4LYMqjKjYXyN"

@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-312 songs - 21 hr 18 min
+313 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Behind Me](https://open.spotify.com/track/3dvLY6aOCjl3ufY3fykmzO) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Behind Me](https://open.spotify.com/album/5Vskn4NaSK6MfLoUm6PawW) | 6:20 | 2022-02-18 | 2022-07-29 |
 | [Behind Me](https://open.spotify.com/track/56aMKNhh10LMs7zzPvICNS) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx) | 6:20 | 2023-03-15 |  |
 | [Behind Me](https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 6:20 | 2022-07-14 | 2022-09-01 |
+| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-08-03 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [John Rarig](https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:41 | 2022-01-20 |  |
 | [Bird of Beauty](https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Bird of Beauty](https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej) | 4:55 | 2023-03-09 |  |
 | [Black Coffee](https://open.spotify.com/track/3jqy4CSWyFSze9NNKRaBR1) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:33 | 2022-03-17 |  |
@@ -116,7 +117,7 @@
 | [For All We Know](https://open.spotify.com/track/3wKXSiJ2OqbqPUXpppnjWh) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [Every Star Above](https://open.spotify.com/album/7EptFOAT6xWnPWJa9vDt4t) | 2:53 | 2022-07-14 |  |
 | [For Once In My Life \- Remastered/1994](https://open.spotify.com/track/3cco5vdDFUcGLEB8bf9jmo) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Welcome To My Love](https://open.spotify.com/album/5TdtCKPxkVHmWQWoRXxuXh) | 3:08 | 2022-01-20 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/3rvHtMwpZxmVtT1HB4zvvb) | [Teresa Brewer](https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP) | [Teresa Brewer And The Dixieland Band](https://open.spotify.com/album/3Co57v8XnblqHeFA8saGla) | 3:45 | 2022-01-20 |  |
-| [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2) | [Jazzy Sky](https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3) | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz) | 2:50 | 2022-03-17 |  |
+| [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2) | [Jazzy Sky](https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3) | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz) | 2:50 | 2022-03-17 | 2023-08-04 |
 | [Gone Again](https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB), [Vanisha Gould](https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag) | [In Her Words](https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv) | 4:27 | 2022-01-20 |  |
 | [Grey Season](https://open.spotify.com/track/3YV2Cyh7vwDXeQYMmqrwf9) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q), [Steve Cardenas](https://open.spotify.com/artist/3PI1YMvdT8Eunyd30D2PcM) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:56 | 2022-01-20 | 2022-08-15 |
 | [Hallelujah, I Love Him So \- First Sessions Outtake](https://open.spotify.com/track/1P8IC0DO01A93VHjQGHEIW) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Hallelujah, I Love Him So / Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/2E8I6DjTIdq7GITlFrnNEq) | 3:05 | 2022-04-14 | 2022-07-29 |

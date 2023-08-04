@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-269 songs - 19 hr 3 min
+270 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Rainy Night in NY](https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [A Rainy Night in NY](https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH) | 2:58 | 2022-10-20 |  |
 | [All My Love \- English Ver.](https://open.spotify.com/track/56JB3pqUaLaIozQ5j2tD7W) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [All My Love](https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat) | 3:23 | 2022-10-20 | 2023-01-13 |
 | [am 3:45](https://open.spotify.com/track/1P1mhYegu7cnXphz3QQZdB) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Inspiration is DEAD](https://open.spotify.com/album/5S0Oitj9VcF0Hc0olAVWIU) | 6:32 | 2023-06-13 | 2023-06-21 |
-| [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 | 2022-10-20 |  |
+| [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 | 2022-10-20 | 2023-08-04 |
 | [Arms](https://open.spotify.com/track/1B6SBaHIua9BXsL2IrNqj3) | [naomi paris tokyo](https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8) | [21SS](https://open.spotify.com/album/53wfpETmJBR5sfAo8O4JuF) | 3:52 | 2022-11-15 | 2022-12-13 |
 | [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 | 2022-11-01 |  |
 | [astronaut](https://open.spotify.com/track/7MyaO0sCEPGYAugCbltZsr) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [astronaut](https://open.spotify.com/album/4LAASJUTt0j2xtB79no0DH) | 4:38 | 2022-12-15 | 2022-12-21 |
@@ -135,6 +135,7 @@
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-06-28 |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-10-20 |  |
 | [Tameiki no Yukue](https://open.spotify.com/track/1MEikw4Wldu4j4EmLV21Bq) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 4:28 | 2023-01-31 |  |
+| [tegami \(for Fou Fou contemporary dance in Paris\)](https://open.spotify.com/track/6jpxv9SJDF2XhANInknCzZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [surf trip](https://open.spotify.com/album/2FCzOOYZc512CpXsu8PuSH) | 3:33 | 2023-08-03 |  |
 | [Tell Me Why](https://open.spotify.com/track/6StniiGea66FWIPEO27Kcz) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [LIFE SAVER](https://open.spotify.com/album/4yF5qFpQtH3DWlEW7uMQfI) | 4:48 | 2022-11-08 | 2022-11-23 |
 | [The Island Floating in the Light](https://open.spotify.com/track/3ZYapYQibgnlPZa4H7l0Xu) | [Yuichi Ohata](https://open.spotify.com/artist/50IocbI1ks9pFw7lsCSeLN) | ["The Island Floating in the Light" Original Soundtrack](https://open.spotify.com/album/5vVyIxZDI3IV65GhelvatU) | 5:00 | 2023-04-18 | 2023-05-24 |
 | [The Only](https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z) | [Yoshio Inoue](https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM) | [天使も悪魔も / The Only](https://open.spotify.com/album/6zoeqwoyAmNN0TV9cIZrzJ) | 6:15 | 2023-03-21 | 2023-03-29 |

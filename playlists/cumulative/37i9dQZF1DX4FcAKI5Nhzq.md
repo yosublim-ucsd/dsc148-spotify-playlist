@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: SHOWNU X HYUNGWON \(MONSTA X\)
+> Future K\-Pop hits! Cover: BBGIRLS
 
-841 songs - 1 day 22 hr 31 min
+844 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,9 +272,9 @@
 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 | 2023-07-03 |  |
 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-26 | 2023-07-05 |
 | [Freaky U](https://open.spotify.com/track/1GkbHdoS4SjM9X6mg4d9Wp) | [søye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Freaky U](https://open.spotify.com/album/5gZNpW5BCKqkI9CBsbxW5E) | 2:36 | 2023-07-27 |  |
-| [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-05-22 |  |
+| [FREEDOM](https://open.spotify.com/track/5UA91Wf0dAxnCPbFdJJv0a) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k) | [LIGHTS](https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla) | 3:31 | 2023-05-22 | 2023-08-04 |
 | [Freeze Tag](https://open.spotify.com/track/7CAZZTBrcyRj3PjENWOdBZ) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [UP2U](https://open.spotify.com/album/5javnnBjbP0ObEZafZtc7k) | 3:02 | 2022-11-24 | 2023-01-18 |
-| [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-20 |  |
+| [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-20 | 2023-08-04 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-10-15 |
 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 | 2023-01-31 | 2023-04-07 |
 | [G.B.T.B.](https://open.spotify.com/track/2snmVNiCZjld3lKI7BTQId) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [FACE US](https://open.spotify.com/album/2lgJVzhHmVMV2ga4eDVGtx) | 3:04 | 2020-10-13\* | 2021-01-11 |
@@ -333,6 +333,7 @@
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2021-02-22 | 2021-03-01 |
 | [HEYDAY \(Prod\. Czaer\)](https://open.spotify.com/track/35sE2Ehvd1GzBzAIC0zFIu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 2:24 | 2022-09-22 | 2023-03-07 |
 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-03-02 | 2023-06-23 |
+| [Higher](https://open.spotify.com/track/26n7qRPECV3eRym4ZNmv6g) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [Higher](https://open.spotify.com/album/3XCbt9ptOV4VMvHedWOj5V) | 3:26 | 2023-08-03 |  |
 | [Highteen](https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Highteen](https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW) | 3:01 | 2023-02-17 | 2023-04-14 |
 | [Hit The Bass](https://open.spotify.com/track/1NP5DSaxtvH6iAIOpXHdf2) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [WIN\-DOW](https://open.spotify.com/album/4dcwVvd7l0sAGBg0pSmKK2) | 3:30 | 2022-07-25 | 2022-09-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-27 | 2022-09-09 |
@@ -493,7 +494,7 @@
 | [More Than Words](https://open.spotify.com/track/2Dt5WidnA1Rq9bjtPNOA3J) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [More Than Words](https://open.spotify.com/album/61V2TjlRj5LKgAfN9HA12r) | 4:03 | 2021-04-13 | 2021-06-18 |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-03-31 | 2022-05-04 |
 | [MOVE](https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [WAY UP](https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4) | 3:32 | 2022-05-18 | 2022-08-18 |
-| [Movie Star](https://open.spotify.com/track/4W8ixcvNvwWW5cdYSNlsiz) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Movie Star](https://open.spotify.com/album/5JaoZz8TeXaVHXamr7H2GB) | 3:08 | 2023-05-17 |  |
+| [Movie Star](https://open.spotify.com/track/4W8ixcvNvwWW5cdYSNlsiz) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Movie Star](https://open.spotify.com/album/5JaoZz8TeXaVHXamr7H2GB) | 3:08 | 2023-05-17 | 2023-08-04 |
 | [Movin'](https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.1](https://open.spotify.com/album/1N3vXThYiEWjbR8xiYiF8H) | 3:23 | 2021-09-29 | 2021-11-05 |
 | [mumumumuch](https://open.spotify.com/track/15djITIu5osnO9yIT29r0Z) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO : THE BEST](https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW) | 3:29 | 2021-09-18 | 2021-11-12 |
 | [MY BAG](https://open.spotify.com/track/1t8sqIScEIP0B4bQzBuI2P) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:40 | 2022-04-05 | 2022-11-11 |
@@ -507,6 +508,7 @@
 | [Need U](https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [Need U](https://open.spotify.com/album/7F4uRzCZEm3TbUXsMfYFe2) | 3:31 | 2021-12-13 | 2022-01-17 |
 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 | 2022-07-29 | 2022-10-15 |
 | [Never Let Me Go \(Korean Ver.\)](https://open.spotify.com/track/53qhnJwezZdvrH2wyaG8hb) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [Never Let Me Go](https://open.spotify.com/album/0kv9JCJCu71C5g0Un6trnq) | 3:03 | 2023-02-09 | 2023-03-25 |
+| [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-08-03 |  |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-09-08 | 2023-02-24 |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2021-05-18 | 2021-10-06 |
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-02-18 |
@@ -539,6 +541,7 @@
 | [ONE AND A HALF](https://open.spotify.com/track/0yfhVon5XPlCRYNihFIUwu) | [Chuu](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [ONE AND A HALF](https://open.spotify.com/album/1JcWNzQIdI3hbCfWbH4Sib) | 3:29 | 2022-09-08 | 2022-11-09 |
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-08 | 2023-03-07 |
 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 | 2023-02-14 | 2023-04-14 |
+| [ONE MORE TIME](https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez) | [BBGIRLS](https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti) | [ONE MORE TIME](https://open.spotify.com/album/5o3vgo7t4tTTCVh9zSptML) | 3:07 | 2023-08-03 |  |
 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 | 2022-01-19 | 2022-02-23 |
 | [ONION \(feat\. Suk Hoon Chang\)](https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge) | [MIN](https://open.spotify.com/artist/7bQyiBFr2PtSTJ6WFBJCOe), [Suk Hoon Chang](https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW) | [ONION](https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM) | 3:42 | 2021-11-10 | 2021-12-14 |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2021-09-29 | 2021-12-14 |

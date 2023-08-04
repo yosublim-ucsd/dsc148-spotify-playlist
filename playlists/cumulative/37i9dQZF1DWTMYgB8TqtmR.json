@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 182600,
       "name": "Mitt hj\u00e4rta sl\u00e5r",
       "url": "https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i"
@@ -7196,6 +7196,24 @@
       "duration_ms": 197973,
       "name": "Sarkofag",
       "url": "https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c"
+    },
+    {
+      "album": {
+        "name": "Satellit",
+        "url": "https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181848,
+      "name": "Satellit",
+      "url": "https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz"
     },
     {
       "album": {

@@ -817,6 +817,28 @@
     },
     {
       "album": {
+        "name": "Date Night (feat. Morgan Evans)",
+        "url": "https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        },
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171667,
+      "name": "Date Night (feat. Morgan Evans)",
+      "url": "https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb"
+    },
+    {
+      "album": {
         "name": "Dates In Pickup Trucks",
         "url": "https://open.spotify.com/album/6zE2YtMcQHpgK2HQKr86UK"
       },
@@ -1168,7 +1190,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"

@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-107 songs - 5 hr 47 min
+108 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cada Diciembre](https://open.spotify.com/track/2jUDLQVevkcvu8H4BpRcmZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Navidad Con DEL](https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd) | 2:41 | 2022-11-25 |  |
 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 | 2022-11-25 | 2023-06-10 |
 | [Cumbia Navideña](https://open.spotify.com/track/2zI42OfeV1hiqKor0ZR1Ou) | [Tamarindo Norteño](https://open.spotify.com/artist/08iGmnBkoG9wJxPUtoGX8n) | [Cumbia Navideña](https://open.spotify.com/album/6uOaixrTIaSIuEwIP7ofOF) | 3:02 | 2022-11-25 | 2022-12-19 |
-| [Cumbia Sampuesana](https://open.spotify.com/track/4DT7amzC7kRipgLP0BHQhp) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Puro Cumbion](https://open.spotify.com/album/3FCRggpb1Ea1uGWvqB7YGQ) | 3:51 | 2022-11-25 |  |
+| [Cumbia Sampuesana](https://open.spotify.com/track/4DT7amzC7kRipgLP0BHQhp) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Puro Cumbion](https://open.spotify.com/album/3FCRggpb1Ea1uGWvqB7YGQ) | 3:51 | 2022-11-25 | 2023-08-04 |
+| [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 | 2022-12-22 |  |
 | [Cumbión Navideño](https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:27 | 2022-11-25 | 2023-03-04 |
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-25 |  |
 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 | 2022-11-25 |  |

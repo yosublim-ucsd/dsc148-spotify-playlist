@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 161990,
       "name": "EVERYTHING - Unscripted",
       "url": "https://open.spotify.com/track/55nSnL3pTde0hIsdLjah1z"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 188000,
       "name": "Just a Door",
       "url": "https://open.spotify.com/track/2Ki8mSsLlGpKAHYEMNniwO"
@@ -1884,6 +1884,24 @@
       "duration_ms": 155513,
       "name": "Love Is Sweet",
       "url": "https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE"
+    },
+    {
+      "album": {
+        "name": "Make a name for Yourself",
+        "url": "https://open.spotify.com/album/7M4iP8j8TIxDFjAzppH5Wc"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460000,
+      "name": "Make a name for Yourself",
+      "url": "https://open.spotify.com/track/4VVEF1ENX8w0XbGI1jhfT0"
     },
     {
       "album": {
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 160959,
       "name": "Never Leave Me",
       "url": "https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS"
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 773605,
       "name": "We Behold(Qavah Anthem)",
       "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"

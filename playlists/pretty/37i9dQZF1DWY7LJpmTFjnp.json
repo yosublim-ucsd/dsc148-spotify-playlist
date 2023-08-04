@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
-  "num_followers": 1003757,
+  "num_followers": 1003932,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjJkMGNjNGM1Y2Y2MGU0YmIwYTdkN2U4NTY3MmJkOTMyMjcxZDAz",
+  "snapshot_id": "MCw2YWI3ZWU2YWE4NDkyN2Y5MTAwOTQ2YzZiMjM3NDAxZDQzNDI4OTYx",
   "tracks": [
     {
       "added_at": "2023-07-28 06:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Tu Volver\u00e1s",
+      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
         "name": "\u00c9l No Lo Mat\u00f3",
         "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Tu Volver\u00e1s",
-      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1143,22 +1127,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Mun\u0303equita Sinte\u0301tica",
-        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 283488,
-      "name": "Mun\u0303equita Sinte\u0301tica",
-      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 274991,
       "name": "No Olvidamos",
       "url": "https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "Mun\u0303equita Sinte\u0301tica",
+        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 283488,
+      "name": "Mun\u0303equita Sinte\u0301tica",
+      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/4xtRNng8YVgDS8gTEFy1Sz"
+        "name": "Fierrro",
+        "url": "https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i"
       },
       "artists": [
         {
-          "name": "Carlos Feral",
-          "url": "https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC"
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
         }
       ],
-      "duration_ms": 158198,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/6FNI6bzYyUhzWJ3OZwXsP7"
+      "duration_ms": 266386,
+      "name": "Instintos Animales",
+      "url": "https://open.spotify.com/track/1aZReheYIMalvxMShvPzvg"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "Fierrro",
-        "url": "https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i"
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4xtRNng8YVgDS8gTEFy1Sz"
       },
       "artists": [
         {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+          "name": "Carlos Feral",
+          "url": "https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC"
         }
       ],
-      "duration_ms": 266386,
-      "name": "Instintos Animales",
-      "url": "https://open.spotify.com/track/1aZReheYIMalvxMShvPzvg"
+      "duration_ms": 158198,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/6FNI6bzYyUhzWJ3OZwXsP7"
     },
     {
       "added_at": "2023-07-28 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-28 06:00:00",
       "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 247884,
-      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
-    },
-    {
-      "added_at": "2023-07-28 06:00:00",
-      "album": {
         "name": "Pastel (En Vivo)",
         "url": "https://open.spotify.com/album/08eN1GFr5VWVFcPEJL9TOu"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 311200,
       "name": "Vivo - Pastel - En Vivo",
       "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"
+    },
+    {
+      "added_at": "2023-07-28 06:00:00",
+      "album": {
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 247884,
+      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
     },
     {
       "added_at": "2023-07-28 06:00:00",

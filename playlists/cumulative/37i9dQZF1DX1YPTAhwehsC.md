@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-756 songs - 1 day 10 hr 30 min
+757 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,8 @@
 | [Smokin' Kiki \(Lonnie\)](https://open.spotify.com/track/5eQuikw6kyxRvjOMIAZGZb) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Dollar Menu 4](https://open.spotify.com/album/07Mhy5JWKzHBaBdMCTfETC) | 2:09 | 2022-08-26 | 2022-09-03 |
 | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/track/1QQa1xdCx4t9DUgQH21Xoo) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Sniper Gang Freestyle Pt\. 2](https://open.spotify.com/album/6vOE77BmSitUxf8v4ZjUKW) | 2:44 | 2022-07-22 | 2022-09-24 |
 | [So DISRESPECTFUL](https://open.spotify.com/track/6tvFBQBdsLErOq4smfV231) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [So DISRESPECTFUL](https://open.spotify.com/album/1n1Dw6cutT1V0EaQjcPHjP) | 2:01 | 2023-03-10 | 2023-07-15 |
-| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-07-28 |  |
+| [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 | 2023-07-28 |  |
+| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-07-28 | 2023-08-04 |
 | [SPACE CADET](https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SPACE CADET](https://open.spotify.com/album/1t7uxPQC1hxn29ELxK6ysI) | 2:46 | 2022-07-22 | 2022-09-17 |
 | [Speak Up](https://open.spotify.com/track/1XgPkhPRp29fsTOUyXYuY6) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/2Yl5QSdrCOR2KLiNpBWUSN) | 1:44 | 2022-10-14 | 2022-10-22 |
 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 | 2022-10-21 | 2023-03-19 |

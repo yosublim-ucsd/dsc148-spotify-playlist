@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-289 songs - 18 hr 16 min
+290 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [Switch It On, Switch It Off](https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Switch It On, Switch It Off](https://open.spotify.com/album/0OcNRlzQwvWmGQ7DKHuLja) | 3:57 | 2023-05-19 |  |
 | [Symmetry \- Live from Nest Recorders](https://open.spotify.com/track/1FbwCAzXevb2GA9BwuiwxL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Live from Nest Recorders](https://open.spotify.com/album/4huIPiqLQRPL4tIKARWgJX) | 4:47 | 2022-02-25 |  |
 | [Symmetry \- Live from Nest Recorders](https://open.spotify.com/track/1zspnQbskedbSMqmNWBskK) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Live from Nest Recorders](https://open.spotify.com/album/3SRywIgKI22yQsky4ehnun) | 4:47 | 2021-07-30 | 2022-07-29 |
-| [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 | 2021-07-30 |  |
+| [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 | 2023-06-09 |  |
+| [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 | 2021-07-30 | 2023-08-04 |
 | [The Giver](https://open.spotify.com/track/0v7yE4Z9AKOgzkkCrqcX6O) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/3Jm9xunslITwDjh7Kn7TwQ) | 3:15 | 2021-07-30 | 2022-07-29 |
 | [The Giver](https://open.spotify.com/track/5bamaE0kFXh3Sf8fcVe3rN) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:15 | 2022-02-25 |  |
 | [The Meetings of the Waters](https://open.spotify.com/track/3wQXP3617fqclHgzA7dONN) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ) | 5:00 | 2021-07-30 |  |

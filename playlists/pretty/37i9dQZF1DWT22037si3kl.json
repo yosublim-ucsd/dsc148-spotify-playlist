@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Senndy",
-  "num_followers": 118789,
+  "num_followers": 118997,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzE3NjQxMTY0NDE4N2RkNjJkYjIwN2E4YzBiM2M3MzdlNmFjZDcy",
+  "snapshot_id": "MCxiN2FjMGNkNWRmNTk4YzYyMTE5M2M3MTRiYTllMTMyNjc2YWYxNWE2",
   "tracks": [
     {
       "added_at": "2023-07-28 18:02:48",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-07-28 18:02:48",
       "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
-    },
-    {
-      "added_at": "2023-07-28 18:02:48",
-      "album": {
         "name": "Mimo Caro",
         "url": "https://open.spotify.com/album/48rbpMh7icB1q0eDGPXzcB"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 249600,
       "name": "Mimo Caro",
       "url": "https://open.spotify.com/track/3ps209XATTFuOMkokgGywM"
+    },
+    {
+      "added_at": "2023-07-28 18:02:48",
+      "album": {
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
     },
     {
       "added_at": "2023-07-28 18:02:48",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2023-07-28 18:02:48",
       "album": {
-        "name": "Animais Traidores",
-        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "VEGA",
-          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Animais Traidores",
-      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
-    },
-    {
-      "added_at": "2023-07-28 18:02:48",
-      "album": {
         "name": "Ela Julgava Meus Erros",
         "url": "https://open.spotify.com/album/195A1RValgeQdDMR5psuih"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 161221,
       "name": "Playboy Preto",
       "url": "https://open.spotify.com/track/6h78CkYMNpGolZwhjBz3i9"
+    },
+    {
+      "added_at": "2023-07-28 18:02:48",
+      "album": {
+        "name": "Animais Traidores",
+        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "VEGA",
+          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Animais Traidores",
+      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
     },
     {
       "added_at": "2023-07-28 18:02:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Travis Scott, BIA, and more\. Cover: Offset & Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,423 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,572 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [All The Way Up](https://open.spotify.com/track/0LbyKoFKOsLhhEpg7BsKQo) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [All The Way Up](https://open.spotify.com/album/7jNtmENfhyfT0BL24uMdSH) | 1:53 |
 | 44 | [Charge It To The Game](https://open.spotify.com/track/4K0iTsnqYDDvimoeqlB7CO) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Charge It To The Game](https://open.spotify.com/album/7sc3vAtUD6QJtCm7HyZU6O) | 2:14 |
 | 45 | [Pissed Off Letter](https://open.spotify.com/track/58kHbG3stlNfRUoF8j4zVm) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Sincerely Mad](https://open.spotify.com/album/4wfGo9Fh83xeR6vJ6qMEpj) | 2:59 |
-| 46 | [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 |
+| 46 | [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 |
 | 47 | [AIN’T WANNA LEAVE](https://open.spotify.com/track/4GNOn9xDT3pNlPLgCdHLPF) | [Toure](https://open.spotify.com/artist/1OXhvSQDWPFqq6v2bhY17X), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [ALL I WANTED WAS EVERYTHING](https://open.spotify.com/album/1GYQoGUld5QjFCik6KaEGq) | 3:24 |
 | 48 | [Big Flex](https://open.spotify.com/track/4IHjN2Jpe2sxpgjUw8mw5M) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Big Flex](https://open.spotify.com/album/7FRAF4Vz0uVDows1aNUdV7) | 2:15 |
 | 49 | [C'mon](https://open.spotify.com/track/4zZEI1gBrPWpdYrPZWJHDM) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SJR](https://open.spotify.com/artist/2RRjr5GZ4WbrXcz9ySV4gY), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [YUHEAME](https://open.spotify.com/album/4uyOCYd8FfdEmpEecnmtVr) | 2:15 |
 | 50 | [On Time \(feat\. Toosii & Kiya Alexius\)](https://open.spotify.com/track/7iQel3LUsDF1M3O1j1ieVJ) | [Lg Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Kiya Alexius](https://open.spotify.com/artist/0MlycchPFXTw4Hicx2Ag1d) | [On Time](https://open.spotify.com/album/4aQqbYSW4fbCWDJLsTC2n8) | 2:52 |
 
-Snapshot ID: `MCxjZjgzNWQ0MzQxZWNhODNkZWFlNWI5YWRjY2Q2OWJmOThiMzUxN2Y3`
+Snapshot ID: `MCwzMGE1N2YzZTBjNTZjZjAyZjY3ZjZjY2EzNTgxMDA1NWI4NmEwODM3`

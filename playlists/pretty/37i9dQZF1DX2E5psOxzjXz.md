@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,483 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,507 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 55 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 | 56 | [Shola](https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Shola](https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N) | 2:33 |
 | 57 | [Mera Naam](https://open.spotify.com/track/7wcf94GFZJH4xrG9vs4CLC) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Mera Naam](https://open.spotify.com/album/1ZTq2Q3jHwjch9fWIN3LcB) | 4:01 |
-| 58 | [Bijli](https://open.spotify.com/track/3dGjm4MAro2jCe3I4cnK3X) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR) | [Bijli](https://open.spotify.com/album/6DxW5U5IR0VeRSFZA8kIuC) | 3:20 |
+| 58 | [Bijli](https://open.spotify.com/track/0sDu8LBWm8Qk9VnQuiuq46) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk) | [Bijli](https://open.spotify.com/album/3YihzfImoyCS98VPidioPe) | 3:20 |
 | 59 | [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 |
 | 60 | [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 |
 
-Snapshot ID: `MCw1ZTMyM2VmN2MwNjMyM2Q4NTIzZWViOTM2NDM1MGJkMjA5Yjc5NWNl`
+Snapshot ID: `MCxlN2MzY2E4MWI2ZjM2Y2I4YmVlMDNiZjA5ZmZlNmQ3NWM4MGExMzRm`

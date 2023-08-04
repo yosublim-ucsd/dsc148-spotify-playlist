@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,046 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,049 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 43 | [Cut Me Loose](https://open.spotify.com/track/7mLvwSjBFZxBGj7x4LYrIR) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Cut Me Loose](https://open.spotify.com/album/0cgxRe7Q9izoY03BpvkFYA) | 3:03 |
 | 44 | [Temporary Baby](https://open.spotify.com/track/7wbR9tAbacRzZVJS625xff) | [Omega Mighty](https://open.spotify.com/artist/4FCtfElPwKglbb2vOJhf6r), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Temporary Baby](https://open.spotify.com/album/1GZcwienCX2mcJHprGFxry) | 2:57 |
 | 45 | [Charlie Brown](https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0) | 2:49 |
-| 46 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 |
+| 46 | [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 |
 | 47 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 |
 | 48 | [Healing](https://open.spotify.com/track/7DH09N7VDPgCNP4CXn3QNp) | [Shann Aberdeen](https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O) | [Healing](https://open.spotify.com/album/7AgjKJQUmWxEcNH0v83tBz) | 1:47 |
 | 49 | [Spring Cleaning](https://open.spotify.com/track/1MlYhXyjpfNA0WbC7cYBli) | [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Spring Cleaning](https://open.spotify.com/album/4WwHFPtV5d0ielt0pDShvT) | 3:35 |
 | 50 | [Indecision](https://open.spotify.com/track/49X8D0rQGJLNktns56Dw4k) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Indecision](https://open.spotify.com/album/0fr7fMMKkVpkyoR2pPz9iR) | 3:26 |
 
-Snapshot ID: `MCw3YzY3MjlmMWRhMjk0ZmU0MTZmMzE2ZTdiNmYyY2Q1ZmY3MzI2ZmNk`
+Snapshot ID: `MCw1ODc5NzVhYjUzZTVjZWQ1ZWU3NThjMmU5OGEyN2Y5MzU1ODgzNTBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Anie Alerte
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,376 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,396 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Miscalculated](https://open.spotify.com/track/6jbyBrXQPHK3s0V0OfGp0P) | [Mike Squires](https://open.spotify.com/artist/59Q1RHoClIRbIUlf29cFsY), [Wasionkey](https://open.spotify.com/artist/29SpRodaj3Wqtwq2fWlyty), [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Miscalculated](https://open.spotify.com/album/1beccBq6D639FKHHNTnPeH) | 2:55 |
 | 100 | [Mr Diablo](https://open.spotify.com/track/0zJCVVMLdHKvpYbWCYjoyc) | [DonLex](https://open.spotify.com/artist/4uCFoJL7rPk1U3pndQL94Y) | [Mr Diablo](https://open.spotify.com/album/5lvLevWZg0Z8b1394RveBa) | 2:46 |
 
-Snapshot ID: `MCxiNTg1YmNiOGUxMTlhNjg0ZWRmNzcxMDdlZTEwZWQ0OTg1ODQwYjFh`
+Snapshot ID: `MCw3ZGZhN2E5YWM0MDhlZmEzNjc5MWQyYWVhZmI1ZDRkODNiODAzNzkz`

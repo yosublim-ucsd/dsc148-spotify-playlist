@@ -11854,10 +11854,28 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 230973,
       "name": "El Aguajal",
       "url": "https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z"
+    },
+    {
+      "album": {
+        "name": "El Mundo de los Pobres",
+        "url": "https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms"
+      },
+      "artists": [
+        {
+          "name": "Los Shapis",
+          "url": "https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234010,
+      "name": "El Aguajal",
+      "url": "https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p"
     },
     {
       "album": {
@@ -16971,7 +16989,7 @@
       "artists": [
         {
           "name": "Cortex",
-          "url": "https://open.spotify.com/artist/24ya4SiElYXuIC8jJZsjxF"
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
         }
       ],
       "date_added": "2022-07-12",
@@ -19923,7 +19941,7 @@
       "artists": [
         {
           "name": "Cortex",
-          "url": "https://open.spotify.com/artist/24ya4SiElYXuIC8jJZsjxF"
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
         }
       ],
       "date_added": "2022-07-27",
@@ -24780,10 +24798,28 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 218173,
       "name": "Mi Tallercito",
       "url": "https://open.spotify.com/track/4cJ8Mg8Naghx3ay4hP84on"
+    },
+    {
+      "album": {
+        "name": "El Mundo de los Pobres",
+        "url": "https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms"
+      },
+      "artists": [
+        {
+          "name": "Los Shapis",
+          "url": "https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218174,
+      "name": "Mi Tallercito",
+      "url": "https://open.spotify.com/track/5zGPBX8hllPCOsTomOwrCr"
     },
     {
       "album": {

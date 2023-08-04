@@ -4,7 +4,7 @@
 
 > Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music\. Cover: Allison Russell
 
-119 songs - 7 hr 9 min
+120 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [These Fires](https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Deluxe Version\)](https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU) | 2:51 | 2022-02-04 |  |
 | [These Things](https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 2:59 | 2021-10-22 |  |
 | [This Must Be The Place](https://open.spotify.com/track/66c2mzrZst8gyTRibuwL9O) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Tax Code 1: Telepathy of a Mammoth](https://open.spotify.com/album/4ZYeCQonqxWYWGqjmyqRwc) | 4:10 | 2022-06-03 |  |
-| [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-23 |  |
+| [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-23 | 2023-08-04 |
+| [To Watch the World Spin Without You](https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch the World Spin Without You](https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh) | 2:32 | 2023-06-23 |  |
 | [Troublemaker](https://open.spotify.com/track/3TyAGYeobwWPHwGrRTJAKl) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Black Hole Rainbow \(Deluxe Edition\)](https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU) | 3:32 | 2021-10-22 |  |
 | [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 | 2021-10-22 |  |
 | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/track/62WtKWDn027EHTVVQuOgHg) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Under the Devil's Knee \(feat\. Leyla McCalla, Allison Russell & Sunny War\)](https://open.spotify.com/album/6OWY4xTHqvmjJbTiHJ4wKa) | 5:36 | 2021-10-22 |  |

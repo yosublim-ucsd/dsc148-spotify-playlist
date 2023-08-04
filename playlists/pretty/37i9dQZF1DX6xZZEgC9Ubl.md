@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,623 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,009 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 50 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |
 | 51 | [Save Me, Please](https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [First Draft](https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX) | 2:07 |
 | 52 | [Love Letter](https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Catch Me If You Can](https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw) | 2:52 |
-| 53 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
-| 54 | [Never With You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never With You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 |
-| 55 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
+| 53 | [DANCE](https://open.spotify.com/track/4BgaAZ52ffIc6cRDn1oFVS) | [Yumi](https://open.spotify.com/artist/1FM51jrhnvagSuGSUv3kS2) | [LOST](https://open.spotify.com/album/2qAphOXzyfBXz4kOipCUeP) | 2:41 |
+| 54 | [On & On](https://open.spotify.com/track/3TfJtvgXTC0BIsRGXD3SLz) | [Thekidszn](https://open.spotify.com/artist/138UAIyJocdHT5PpR0iTJE) | [On & On](https://open.spotify.com/album/61Hb7wQBr2QyqEWFHvJoSM) | 2:16 |
+| 55 | [Never With You Again](https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Never With You Again](https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM) | 2:12 |
 | 56 | [NUMB](https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL) | [Ryan Oakes](https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7) | [A SERIES OF UNFORTUNATE EVENTS](https://open.spotify.com/album/1ZpqQpp46xjv4wVwGbFopM) | 3:35 |
 | 57 | [when we were 16](https://open.spotify.com/track/3X4sErWRnQCmhhZMGv6r51) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [when we were 16](https://open.spotify.com/album/1ngBIvObgRpFAouI0dRn4M) | 3:15 |
 | 58 | [MORBID MIND](https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIXED EMOTIONS](https://open.spotify.com/album/0boaHbYImj8KkpcFarxgiN) | 2:16 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 60 | [snowflake \(feat\. Jaden & Sarcastic Sounds\)](https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [tell me your feelings and i won't tell you mine](https://open.spotify.com/album/0nyUIJbb1bEIRCTpD2sQ2R) | 3:07 |
 | 61 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 |
 | 62 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 |
-| 63 | [Thing for Ya](https://open.spotify.com/track/53vqxI2N89pMUUmJMhxqrS) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt) | 2:09 |
-| 64 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
+| 63 | [Grey Lines](https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Grey Lines](https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj) | 2:48 |
+| 64 | [Thing for Ya](https://open.spotify.com/track/53vqxI2N89pMUUmJMhxqrS) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt) | 2:09 |
 | 65 | [Go Wild](https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk) | [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Go Wild](https://open.spotify.com/album/6XNZaASEHduRzthfI6bOrc) | 2:40 |
 | 66 | [Proud Of Myself](https://open.spotify.com/track/2P75W2mfYc9nRgUMPQnaWL) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Heart of Gold](https://open.spotify.com/album/3Wjov3XmeymLtwF6Euka6o) | 1:49 |
 | 67 | [KILL CUPID](https://open.spotify.com/track/5p29DSBwxS4hStGKr7NCCO) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [EAT YOUR HEART OUT](https://open.spotify.com/album/6jKFoCC2VYrb1MYYN4TAXC) | 4:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 96 | [Normal](https://open.spotify.com/track/5j2O2yeurM9fD2rgCPt7pD) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Normal](https://open.spotify.com/album/0vSwuVKVrx6L4RJuJkWiAL) | 2:42 |
 | 97 | [do it all](https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [do it all](https://open.spotify.com/album/4STyku6IDvnMxFVdRVdDdf) | 1:36 |
 | 98 | [Used and Abused](https://open.spotify.com/track/4Pm6w77iE9ZVfhfVlpZEZm) | [BraveSquid](https://open.spotify.com/artist/1hKnOXGQPqbLPJrzlUSmOX) | [Used and Abused](https://open.spotify.com/album/1w0MBnT1F7aOiiA7i04gmB) | 3:53 |
-| 99 | [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 |
-| 100 | [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 |
+| 99 | [Not a Home](https://open.spotify.com/track/1aDEr0TNgY3a9ea90UL0Mj) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [I'm The Dumb One](https://open.spotify.com/album/5yLRCGUTDJ3OL145u85Wpi) | 2:49 |
+| 100 | [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 |
 
-Snapshot ID: `MCwzOGU5NWFlODQ0ZmYwYzE3NDkxNjZmOTViY2FkZDZiYTQ5NWIxMjY1`
+Snapshot ID: `MCwxN2JhZTBmMjYyNmZhYzVmNTY0YzViODQ1ZTgwN2MyZThjNmQyMTM0`

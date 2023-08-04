@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=0XmLSTPMRw28DgCCiBeQkw\">Kingdmusic</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7?si=-inelc4KTWyiF65c12fYEQ\">Oufadafada</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -911,8 +911,48 @@
     },
     {
       "album": {
+        "name": "Ke Tshepile Wena (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/7FIoXi9TYAsAoEnWMGgNsh"
+      },
+      "artists": [
+        {
+          "name": "Oufadafada",
+          "url": "https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314219,
+      "name": "Ke Tshepile Wena - Amapiano Remix",
+      "url": "https://open.spotify.com/track/17fvvpCD8y1DRmawmYPoR5"
+    },
+    {
+      "album": {
         "name": "Keep me",
         "url": "https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h"
+      },
+      "artists": [
+        {
+          "name": "Stephen Willo",
+          "url": "https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa"
+        },
+        {
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 248999,
+      "name": "Keep me",
+      "url": "https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI"
+    },
+    {
+      "album": {
+        "name": "Keep me",
+        "url": "https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G"
       },
       "artists": [
         {
@@ -929,7 +969,7 @@
       "date_removed": null,
       "duration_ms": 248999,
       "name": "Keep me",
-      "url": "https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI"
+      "url": "https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg"
     },
     {
       "album": {
@@ -1314,7 +1354,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 271622,
       "name": "Ngena Noah",
       "url": "https://open.spotify.com/track/2ZpELNhluNriti4s2rcUK0"
@@ -1397,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Nkosi Sikelela uBaba",
+        "url": "https://open.spotify.com/album/4Jf2doGSsYsb0TI32fmvBB"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386977,
+      "name": "Nkosi Sikelela uBaba",
+      "url": "https://open.spotify.com/track/3DovCSCmydiBY6Tdu90imJ"
+    },
+    {
+      "album": {
         "name": "Nkosi Yethu Simakade",
         "url": "https://open.spotify.com/album/67ME23vgWOBTs4FU8MLaXE"
       },
@@ -1412,6 +1470,28 @@
       "duration_ms": 471040,
       "name": "Nkosi Yethu Simakade",
       "url": "https://open.spotify.com/track/3uT8mhU2exkks3TGbWo614"
+    },
+    {
+      "album": {
+        "name": "Nkosi Yezulu",
+        "url": "https://open.spotify.com/album/4S8k4jYJpnWfqYSa2QkImV"
+      },
+      "artists": [
+        {
+          "name": "Bulelani Ndebele",
+          "url": "https://open.spotify.com/artist/2pX4nkw7mBcGUmzKkJqtT6"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382441,
+      "name": "Nkosi Yezulu",
+      "url": "https://open.spotify.com/track/2UMAfpKFTCnNpDdNV4xFfE"
     },
     {
       "album": {
@@ -2258,6 +2338,24 @@
       "duration_ms": 487650,
       "name": "Wakhazimula - Live",
       "url": "https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm"
+    },
+    {
+      "album": {
+        "name": "Walats3(Life Giver)",
+        "url": "https://open.spotify.com/album/5dtz3U2rv8LsBVk2YE5CXH"
+      },
+      "artists": [
+        {
+          "name": "Perez Musik",
+          "url": "https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331044,
+      "name": "Walats3(Life Giver)",
+      "url": "https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc"
     },
     {
       "album": {

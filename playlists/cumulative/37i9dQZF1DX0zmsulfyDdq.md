@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-193 songs - 9 hr 22 min
+194 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,5 +201,6 @@
 | [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 | 2023-01-20 |  |
 | [You'll Be In My Heart \- Instrumental](https://open.spotify.com/track/62kKo1gIWTfZEyAks2NV7F) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Baby Sweet Dreams and Lullabies](https://open.spotify.com/album/16pvzqs551DZy6VrUVkLDg) | 1:30 | 2022-04-15 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/5ZEXmUHVvu8DHp0QWq0EAl) | [Disney Ukulele](https://open.spotify.com/artist/2L8azGZexr4bN58bhEB7wm), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Ukulele: Love](https://open.spotify.com/album/2H671Hg8bphx28BBFEP2pI) | 2:06 | 2022-04-29 |  |
+| [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

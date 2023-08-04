@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: LAUF",
+  "description": "Nieuwe Nederlandstalige hits vind je hier! Cover: Amina",
   "name": "Je Moerstaal",
   "tracks": [
+    {
+      "album": {
+        "name": "1000 Kansen",
+        "url": "https://open.spotify.com/album/03lpFMrj86wo2c41QWPLuQ"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157509,
+      "name": "1000 Kansen",
+      "url": "https://open.spotify.com/track/2yNswA6CootF9mdklJfUy0"
+    },
     {
       "album": {
         "name": "2022",
@@ -1478,6 +1496,24 @@
       "duration_ms": 164916,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/52idFfxIoylObbiWLQvpMq"
+    },
+    {
+      "album": {
+        "name": "Dronken Van De Liefde",
+        "url": "https://open.spotify.com/album/1aN9aD9PDloTXKDFs33v1f"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194654,
+      "name": "Dronken Van De Liefde",
+      "url": "https://open.spotify.com/track/0ArPL2xKFhG4oC2Pc4D4OQ"
     },
     {
       "album": {
@@ -3842,6 +3878,24 @@
       "duration_ms": 162537,
       "name": "Parfum",
       "url": "https://open.spotify.com/track/5fqAohRCfxIzqw5IuUtBiS"
+    },
+    {
+      "album": {
+        "name": "Pas Nu Ik Ons Ken",
+        "url": "https://open.spotify.com/album/3NOQNnOJcm9Sg1klAGbBNI"
+      },
+      "artists": [
+        {
+          "name": "Joost & Bar",
+          "url": "https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200461,
+      "name": "Pas Nu Ik Ons Ken",
+      "url": "https://open.spotify.com/track/3ArIRZp6Hc5yhhHWEAgCDD"
     },
     {
       "album": {

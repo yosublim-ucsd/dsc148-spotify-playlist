@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. Underside 821 en la casa.
+> Aquí vive el hip\-hop mexicano\. Gera MX, Peso Pluma y Herencia de Patrones en la casa.
 
-401 songs - 23 hr 50 min
+402 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Conmigo No](https://open.spotify.com/track/3FPP7nkUq0Q0wbsVzv9IeA) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Conmigo No](https://open.spotify.com/album/5S0kbNFGP70HdyQEA7fO0G) | 3:45 | 2022-01-28 | 2022-04-23 |
 | [Contra Corriente](https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Contra Corriente](https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12) | 3:29 | 2022-02-18 | 2022-09-17 |
 | [Cool Like Dat](https://open.spotify.com/track/0XnlNUYkMXpNESTtdrGk8O) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq), [La Guíshi Funk](https://open.spotify.com/artist/2ppo66CCmTdhe0okhe3iy1), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Cool Like Dat](https://open.spotify.com/album/0nhWsNAHopv82atzpgcNI2) | 2:19 | 2023-02-08 | 2023-02-18 |
-| [Corazón, Corazón](https://open.spotify.com/track/6cGoCIC9Uf7uMSEvYPpUVR) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Corazón, Corazón](https://open.spotify.com/album/4ixlKV41hN3JQvUb6E40Vr) | 3:58 | 2023-06-30 |  |
+| [Corazón, Corazón](https://open.spotify.com/track/6cGoCIC9Uf7uMSEvYPpUVR) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Corazón, Corazón](https://open.spotify.com/album/4ixlKV41hN3JQvUb6E40Vr) | 3:58 | 2023-06-30 | 2023-08-04 |
 | [Crime](https://open.spotify.com/track/5looKg8bc3CAzkmyxdgRCo) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Crime](https://open.spotify.com/album/01pdI6epcgosnIga9wcDhr) | 3:28 | 2023-05-26 | 2023-07-15 |
 | [Cruella](https://open.spotify.com/track/2Q7A5uNAnFjoZMdAFgesyU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Cruella](https://open.spotify.com/album/6d5YfXScfWlziWGQgu1RRs) | 2:37 | 2022-03-25 | 2023-03-04 |
 | [Cuando Huele](https://open.spotify.com/track/4QhOpSey4O0bnYVzXBcjtz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cuando Huele](https://open.spotify.com/album/2zToNcX1Rn7Y1LQI8BP3HD) | 3:22 | 2022-01-28 | 2022-02-12 |
@@ -140,6 +140,7 @@
 | [EYO](https://open.spotify.com/track/50VID8NClGL3T4eJQhl9IX) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:25 | 2022-01-28 | 2022-07-02 |
 | [Fact Check](https://open.spotify.com/track/4X1ihd94KGVZQiSu1Xct0Z) | [SUPIČIĆ](https://open.spotify.com/artist/6nmMdJBINPKVDb4kCCbQyU), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2) | [Fact Check](https://open.spotify.com/album/5Li2FGFEnUGoDu3hx7pSbL) | 3:31 | 2022-06-17 | 2022-06-29 |
 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 | 2022-01-28 | 2022-09-10 |
+| [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 | 2023-08-03 |  |
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-10 | 2023-05-06 |
 | [Flight 0006](https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V) | [Flight 0006](https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb) | 3:17 | 2022-01-28 | 2022-02-12 |
 | [Forty 7](https://open.spotify.com/track/5fcpj00RK5VDr1IxsLOJvh) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Forty 7](https://open.spotify.com/album/2DzXW0E5vbmrU5daYXiALc) | 4:08 | 2022-07-19 | 2023-03-11 |

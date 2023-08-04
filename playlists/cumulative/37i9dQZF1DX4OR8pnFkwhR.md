@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: DURDN
 
-993 songs - 2 day 13 hr 13 min
+994 songs - 2 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [SCENE!](https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [SCENE!](https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2) | 2:26 | 2023-05-16 | 2023-07-05 |
 | [Scent of home](https://open.spotify.com/track/1zWvRXh2Mn9aN9rstdelIP) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Scent of home](https://open.spotify.com/album/6iBoeNxGMFOTeX3ANDBjDR) | 3:26 | 2022-06-01 | 2022-06-22 |
 | [School](https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:50 | 2022-06-30 | 2022-07-13 |
+| [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 |  |
 | [September](https://open.spotify.com/track/7MfwIBaD6I4CsahHSqygDp) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September](https://open.spotify.com/album/2t5XtZE8VkUKuTjowVd0di) | 3:36 | 2022-09-29 | 2022-10-28 |
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
 | [shame](https://open.spotify.com/track/36pWB023d8A7lcpM9vG4G9) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [shame](https://open.spotify.com/album/2W8p3i2gNs6lt5BC6EA8Mh) | 3:26 | 2022-08-04 | 2022-08-19 |
@@ -502,7 +503,7 @@
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-05-31 |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2022-10-05 |
 | [Tag](https://open.spotify.com/track/4KW9CWZefqA2douIku4o1q) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Tag](https://open.spotify.com/album/2QFqc2godbhJLatZaSbDDT) | 3:25 | 2022-02-17 | 2022-03-02 |
-| [Taishitamondayo](https://open.spotify.com/track/5NfLH841TQ7XTEDZFF9RgY) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [69 Jewel Beetle](https://open.spotify.com/album/1gExqpFVHcJMiWmfb32PSF) | 4:32 | 2023-05-30 |  |
+| [Taishitamondayo](https://open.spotify.com/track/5NfLH841TQ7XTEDZFF9RgY) | [Yamato Mori](https://open.spotify.com/artist/6oekdBDEP3aA9j07IEal9w) | [69 Jewel Beetle](https://open.spotify.com/album/1gExqpFVHcJMiWmfb32PSF) | 4:32 | 2023-05-30 | 2023-08-04 |
 | [Take Me Maybe](https://open.spotify.com/track/0Sq6O7MvmJKmZxJEerxPte) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Take Me Maybe](https://open.spotify.com/album/52MbpIB9e7evYxkk6g84ut) | 3:27 | 2023-02-01 | 2023-02-15 |
 | [Talking Box](https://open.spotify.com/track/7fru0rxutpi08K7Q112saF) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [檸檬の日々](https://open.spotify.com/album/2ceMonx7yH4UDjM8jpUxZq) | 2:21 | 2022-02-17 | 2022-03-18 |
 | [Talking Box \(Dirty Pop Remix\)](https://open.spotify.com/track/5mqucSnaCVI1kW6ewrXYE2) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\)](https://open.spotify.com/album/0c4X7Zmx1pPBQkY9snWLZX) | 2:08 | 2022-03-17 | 2022-04-06 |

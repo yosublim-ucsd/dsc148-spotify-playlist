@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Grandma's Wish",
+        "url": "https://open.spotify.com/album/2nZymAc6SIUQ769WRPTKzz"
+      },
+      "artists": [
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        },
+        {
+          "name": "\u67ca\u4eba",
+          "url": "https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180721,
+      "name": "Let Go (feat. \u67ca\u4eba)",
+      "url": "https://open.spotify.com/track/4upoXNub9Rh9mXeoq9W1uy"
+    },
+    {
+      "album": {
         "name": "Little Red Riding Hood",
         "url": "https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3"
       },
@@ -2234,7 +2256,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 212786,
       "name": "STRAND",
       "url": "https://open.spotify.com/track/61Vx7YHbVM6gUOcqdPJLY5"
@@ -2936,6 +2958,24 @@
       "duration_ms": 229029,
       "name": "\u30b5\u30e9\u30d0",
       "url": "https://open.spotify.com/track/6uvfHyztTfI1JxIx8OWkhI"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+        "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+      "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
     },
     {
       "album": {

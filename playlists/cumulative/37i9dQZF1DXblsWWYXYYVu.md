@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-183 songs - 10 hr 14 min
+184 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 | 2022-03-04 | 2022-12-11 |
 | [Arms of a Lion](https://open.spotify.com/track/0zvAcSS9nyruBqRHZsbUfJ) | [Heather Morgan](https://open.spotify.com/artist/2oASyTmErmgYx5ueawNzRX), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Borrowed Heart](https://open.spotify.com/album/3lpNC3vjXCes2WvGEmfoD3) | 4:00 | 2021-04-19 | 2022-04-29 |
 | [Bella Dawn](https://open.spotify.com/track/7IQvBiko7E0Z6ryACl7y3A) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:49 | 2023-04-14 |  |
-| [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-21 |  |
+| [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-21 | 2023-08-04 |
+| [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-04-21 |  |
 | [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 | 2021-11-19 |  |
 | [Breathe](https://open.spotify.com/track/16SKS0Na572RmGeajx7ker) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz) | 2:17 | 2021-11-19 | 2022-07-29 |
 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 | 2021-04-19 |  |

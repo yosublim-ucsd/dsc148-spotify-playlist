@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 134967,
+  "num_followers": 135181,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Yjk3MzA1YmIzNTY5YzYyNzNlYjNkNDQ4Yzk5ZWViZmU2NmJmMGUy",
+  "snapshot_id": "MCwwYzdiOWZjMGU0YzI4ZTUwN2RmNDRhOTgyMzdkOWY2NjhmM2FiZThi",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "O Pai Espera Voc\u00ea Voltar",
+        "url": "https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj"
+      },
+      "artists": [
+        {
+          "name": "Thiag\u00e3o",
+          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+        }
+      ],
+      "duration_ms": 257488,
+      "name": "O Pai Espera Voc\u00ea Voltar",
+      "url": "https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Joquebede",
         "url": "https://open.spotify.com/album/3hZ3No3WTAU6auEonjkGNb"
       },
@@ -207,18 +223,34 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "O Pai Espera Voc\u00ea Voltar",
-        "url": "https://open.spotify.com/album/0BrQP6UrR3NBzDPeW6aQCj"
+        "name": "Salmos 33:3",
+        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
       },
       "artists": [
         {
-          "name": "Thiag\u00e3o",
-          "url": "https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw"
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
         }
       ],
-      "duration_ms": 257488,
-      "name": "O Pai Espera Voc\u00ea Voltar",
-      "url": "https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW"
+      "duration_ms": 159400,
+      "name": "Salmos 33:3",
+      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "God Feat. Me",
+        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 176934,
+      "name": "Mateus 6.6",
+      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -243,38 +275,6 @@
       "duration_ms": 174545,
       "name": "Viv\u00eancias",
       "url": "https://open.spotify.com/track/0jmfZfkd9y1aqT7nvyFssH"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "God Feat. Me",
-        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 176934,
-      "name": "Mateus 6.6",
-      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Salmos 33:3",
-        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
-      },
-      "artists": [
-        {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Salmos 33:3",
-      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Deus \u00e9 Bom",
-        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
-      },
-      "artists": [
-        {
-          "name": "Krawk",
-          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Deus \u00e9 Bom",
-      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Multiplica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 163183,
       "name": "Multiplica\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
+      },
+      "artists": [
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Deus \u00e9 Bom",
+      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
     },
     {
       "added_at": "2023-07-28 03:00:00",
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
+        "name": "Tesouro",
+        "url": "https://open.spotify.com/album/3iy6RkWquXFeUGiKjwejpT"
+      },
+      "artists": [
+        {
+          "name": "Doze Project",
+          "url": "https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez"
+        },
+        {
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        },
+        {
+          "name": "SALMAZO",
+          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "SevenRxni",
+          "url": "https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps"
+        }
+      ],
+      "duration_ms": 115555,
+      "name": "Tesouro",
+      "url": "https://open.spotify.com/track/6mHgRaolvfL4myzQOEi5FU"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
@@ -1259,38 +1291,6 @@
       "duration_ms": 196750,
       "name": "Fluindo no Esp\u00edrito",
       "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
-        "name": "Tesouro",
-        "url": "https://open.spotify.com/album/3iy6RkWquXFeUGiKjwejpT"
-      },
-      "artists": [
-        {
-          "name": "Doze Project",
-          "url": "https://open.spotify.com/artist/5SeJmolJVjYD3OvwBjU5ez"
-        },
-        {
-          "name": "P. Oliveira",
-          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
-        },
-        {
-          "name": "SALMAZO",
-          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
-        },
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "SevenRxni",
-          "url": "https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps"
-        }
-      ],
-      "duration_ms": 115555,
-      "name": "Tesouro",
-      "url": "https://open.spotify.com/track/6mHgRaolvfL4myzQOEi5FU"
     },
     {
       "added_at": "2023-07-28 03:00:00",

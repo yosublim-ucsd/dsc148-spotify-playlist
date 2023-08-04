@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-97 songs - 5 hr 12 min
+98 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A'yshtiny](https://open.spotify.com/track/4zfHwTLD44LYbz7HH1Lysg) | [Momen Rihan](https://open.spotify.com/artist/0CyOshhqVfUfmaBviztIeU) | [A'yshtiny](https://open.spotify.com/album/3tdL688raITLMsbWZ8tZxG) | 3:53 | 2022-10-10 |  |
 | [Akher Khiali](https://open.spotify.com/track/41FdOkXx25kXPZCfE9HYvl) | [Bader Alhomoudi](https://open.spotify.com/artist/0g7Qe6lsLO9rAO4GoWqfd6) | [Akher Khiali](https://open.spotify.com/album/0d4BpdGb5G1ljZLppOmzmy) | 2:49 | 2022-06-24 |  |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-06-24 |  |
+| [AMANA](https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [AMANA](https://open.spotify.com/album/7c2J6uQQaokBaxAEPQP8mK) | 2:46 | 2023-08-03 |  |
 | [April](https://open.spotify.com/track/2cqcyd0XgDqiJhPsVtTW8e) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT) | [Z5M](https://open.spotify.com/album/2qD60uCdyfhVd0tVNmLLDJ) | 3:42 | 2022-06-24 |  |
 | [Astahlik](https://open.spotify.com/track/2qCz9zvGLV479cUTzeXjNq) | [Ahmed Burhan](https://open.spotify.com/artist/7pWG2cgMJbZmMd2a0TqZJ0) | [Astahlik](https://open.spotify.com/album/20vCcB2a5j1MSStibILx1n) | 4:03 | 2022-06-24 | 2023-06-07 |
 | [Astronaut in the Ocean](https://open.spotify.com/track/27ErCu5vx463lPyabA87oi) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Astronaut in the Ocean](https://open.spotify.com/album/4JupiYe3WiIJwzA0BxXvXl) | 2:14 | 2022-06-24 | 2022-11-09 |
@@ -45,7 +46,7 @@
 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 | 2022-07-29 | 2022-09-01 |
 | [How Is This Love ?](https://open.spotify.com/track/35rIBWfvmrVoWpZljAqpv5) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l) | 3:14 | 2022-06-24 | 2022-09-29 |
 | [I'M HERE](https://open.spotify.com/track/0sQuYu2RP49JdqprLskHbB) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [I'M HERE](https://open.spotify.com/album/5RiGTzqHWdL9k5cYf5HvuG) | 2:10 | 2022-06-24 | 2022-07-13 |
-| [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 | 2022-06-24 |  |
+| [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 | 2022-06-24 | 2023-08-04 |
 | [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-06-24 | 2022-11-09 |
 | [Kaifi](https://open.spotify.com/track/7ceIt7Z5qwcRwiariXq4YC) | [Abdullah Trill](https://open.spotify.com/artist/0RdQVXvBEJSwpdfMfwfHOD) | [We Don't Quit](https://open.spotify.com/album/7hJPx3XoPujX4bUsO3xAhl) | 2:14 | 2022-06-24 | 2022-11-09 |
 | [Kam Molahza](https://open.spotify.com/track/4ZCLvKj9wtAX5HE0TWBihS) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [كام ملاحظة](https://open.spotify.com/album/4N1Lhxoue6GRiMnUtaWrIk) | 3:15 | 2022-10-20 |  |

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG\-F3cnSCubrrFrRWIHhw"> Jay Bahd</a>
 
-109 songs - 5 hr 35 min
+110 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Pa! \(feat\. Thywill & City Boy\)](https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:33 | 2022-08-18 |  |
 | [Perfect Timing](https://open.spotify.com/track/02p4zzOLuPuJwFK4jDMLpA) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/2HPDq4nWDFz0rwW3Il34Ek) | 3:28 | 2022-09-01 | 2022-10-14 |
 | [Plan B](https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Plan B](https://open.spotify.com/album/5BKLaEnrvktRKecn5Wqrem) | 3:08 | 2022-11-15 | 2022-12-09 |
+| [Pull Up](https://open.spotify.com/track/3cWvkCD9isTVUZ72ETXWyO) | [MAGESTY](https://open.spotify.com/artist/3V6xbGSuk5cJrzTAD0AG7p) | [Pull Up](https://open.spotify.com/album/3UwtSP7zqETH2kmP8HG1ww) | 3:36 | 2023-08-03 |  |
 | [Radio](https://open.spotify.com/track/3OJTZiHmdYT2USRnRglgnm) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/23XvGYaFe7fU1bRteOPIVj) | 2:52 | 2023-01-13 |  |
 | [Radio](https://open.spotify.com/track/3xtjad8irnJi2NXGUHknrp) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Radio](https://open.spotify.com/album/3e9ZA55qDYcenxT4REJ14g) | 2:52 | 2022-09-01 | 2023-02-25 |
 | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/track/4EPXk7ufo9aCCPHNnEN0lZ) | [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Terrist Carter](https://open.spotify.com/artist/0kSLW8DI5S6rqiJJD5f1zF), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Ride \(feat\. Terrist Carter & O'Kenneth\)](https://open.spotify.com/album/6VX52TW9PBvJAroJE1vHHt) | 2:48 | 2023-06-16 |  |
@@ -115,7 +116,7 @@
 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 | 2022-11-18 | 2023-01-28 |
 | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/track/07bE9klPJH5xfXyj5hNlq8) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Y3 Y3 DOM \(feat\. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth\)](https://open.spotify.com/album/3onPRPaXRaC4d7y2sqXgX4) | 4:23 | 2022-06-09 |  |
 | [Yaa Baby](https://open.spotify.com/track/4qSEMCwQCvv2BTsMQN6Wyv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Yaa Baby](https://open.spotify.com/album/2HW2hdH3U2Be05Ispz7Fyb) | 3:27 | 2023-03-29 |  |
-| [YAYE KOOM](https://open.spotify.com/track/3QQ223XEeXQWtRUeY9GC9O) | [KAAMA](https://open.spotify.com/artist/13YntzDxz3y0OHnqTJ5Tek), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [YAYE KOOM](https://open.spotify.com/album/46JfgWLpufanPHS4kJBtM4) | 3:27 | 2023-06-16 |  |
+| [YAYE KOOM](https://open.spotify.com/track/3QQ223XEeXQWtRUeY9GC9O) | [KAAMA](https://open.spotify.com/artist/13YntzDxz3y0OHnqTJ5Tek), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [YAYE KOOM](https://open.spotify.com/album/46JfgWLpufanPHS4kJBtM4) | 3:27 | 2023-06-16 | 2023-08-04 |
 | [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-09-30 | 2023-01-14 |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 97872,
+  "num_followers": 97878,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzlkMGMwZDVlMGEzMmEyYjY0ZTk5MjA2NDE4YzNkOTUwMzExMjU4",
+  "snapshot_id": "MCw3YWI4NGM1YzhjOTA4ZTY5NmUzZGZiOGZkYmI5ZGFhMmQ3Y2MwNjU5",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -967,6 +967,30 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "Have Yourself A Merry Little Christmas - SM STATION",
+        "url": "https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2"
+      },
+      "artists": [
+        {
+          "name": "Jay JungJae Moon",
+          "url": "https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Nile Lee",
+          "url": "https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8"
+        }
+      ],
+      "duration_ms": 291040,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1003,30 +1027,6 @@
       "duration_ms": 186533,
       "name": "Y earned (Feat. Gaeko, SOLE) (Prod. Primary, plusNONE)",
       "url": "https://open.spotify.com/track/5HbN3PIXPQiHRb3MKuqGO5"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas - SM STATION",
-        "url": "https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2"
-      },
-      "artists": [
-        {
-          "name": "Jay JungJae Moon",
-          "url": "https://open.spotify.com/artist/1j4rZondz64yRVHSGllqL6"
-        },
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        },
-        {
-          "name": "Nile Lee",
-          "url": "https://open.spotify.com/artist/52FvIIUS7sLLUn2mZEjWa8"
-        }
-      ],
-      "duration_ms": 291040,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 170232,
       "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
       "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
-      },
-      "artists": [
-        {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
-        }
-      ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1827,18 +1827,38 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "FNC LAB #2 'It's Christmas'",
-        "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
+        "name": "2016 United Cube Project Part 1",
+        "url": "https://open.spotify.com/album/1AUL3Llf8BPOs385tPSVla"
       },
       "artists": [
         {
-          "name": "FNC ARTIST",
-          "url": "https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0"
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        },
+        {
+          "name": "ABLE",
+          "url": "https://open.spotify.com/artist/0Y669kGV5Gru5RaumXTxtV"
+        },
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        },
+        {
+          "name": "Roh Ji Hoon",
+          "url": "https://open.spotify.com/artist/1prPVJQczG7kTTKCHFE2Rw"
+        },
+        {
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
+        },
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 230190,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
+      "duration_ms": 228508,
+      "name": "Special Christmas",
+      "url": "https://open.spotify.com/track/4mu8VqXQ8RDTvKIm3tqrTw"
     }
   ],
   "unique_name": "Christmas K-Pop",

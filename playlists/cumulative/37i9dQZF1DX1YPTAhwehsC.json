@@ -12614,7 +12614,7 @@
     {
       "album": {
         "name": "Somebody",
-        "url": "https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv"
+        "url": "https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N"
       },
       "artists": [
         {
@@ -12629,6 +12629,28 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170765,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv"
+      },
+      "artists": [
+        {
+          "name": "Yung Pooda",
+          "url": "https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
       "duration_ms": 170765,
       "name": "Somebody (Explicit)",
       "url": "https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp"

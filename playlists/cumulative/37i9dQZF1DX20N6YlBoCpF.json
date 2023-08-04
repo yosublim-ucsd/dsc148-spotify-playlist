@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM?si=5jeO3IagQwiYy5EQStjyfQ\">Janie Bay</a> & <a href=\"https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo?si=GoIqWsK-Q56kOOV2C81xKg\">Elandr\u00e9</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq?si=Z1m7gk8jQWuLa1Uov_3KNQ\">VAN WEST</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "As Jy Ja Wil S\u00ea",
+        "url": "https://open.spotify.com/album/4mjmIrMmG93i9HBqjBb4Zm"
+      },
+      "artists": [
+        {
+          "name": "B+C",
+          "url": "https://open.spotify.com/artist/3K4syqj9H8aPFqQF65Nvi9"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "As Jy Ja Wil S\u00ea",
+      "url": "https://open.spotify.com/track/3ECBJah06pnKgdXERzSmvj"
+    },
+    {
+      "album": {
         "name": "As Jy Kan Braai",
         "url": "https://open.spotify.com/album/180TPoiSgd6RKQGmYqdFMM"
       },
@@ -392,7 +410,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 229839,
       "name": "As Jy Kan Braai",
       "url": "https://open.spotify.com/track/1kGHyjmGix8e85svaGnLss"
@@ -758,7 +776,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 216774,
       "name": "Blom in Sy Wese",
       "url": "https://open.spotify.com/track/7lYqU1zRCCEjrSDUxErfEv"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 190558,
       "name": "Blou Diamant",
       "url": "https://open.spotify.com/track/1nIMlhH0GnXip9CcyJg3S3"
@@ -834,6 +852,24 @@
       "duration_ms": 191573,
       "name": "Blouwildebliksemsfontein",
       "url": "https://open.spotify.com/track/4CI94QI8IHTsF5IpFdWomb"
+    },
+    {
+      "album": {
+        "name": "Boer In My Hart",
+        "url": "https://open.spotify.com/album/4JL1ZXeecKOOsbZFRJnuqj"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230163,
+      "name": "Boer In My Hart",
+      "url": "https://open.spotify.com/track/3O2mkRrUcsxZGETDCWPSjy"
     },
     {
       "album": {
@@ -888,6 +924,24 @@
       "duration_ms": 209410,
       "name": "Boerenooi",
       "url": "https://open.spotify.com/track/6wkvjsw6zfFdWLwcEH12E8"
+    },
+    {
+      "album": {
+        "name": "Bokke",
+        "url": "https://open.spotify.com/album/54PjeSbxx8bwpbyr4k6GUe"
+      },
+      "artists": [
+        {
+          "name": "Die Boeries",
+          "url": "https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183067,
+      "name": "Bokke",
+      "url": "https://open.spotify.com/track/5toM4ksSArlIpZROh2Ca9Y"
     },
     {
       "album": {
@@ -1102,6 +1156,28 @@
       "duration_ms": 184121,
       "name": "Briefie Vir My Ma",
       "url": "https://open.spotify.com/track/5JB5DPTBSE1jIKlhm900i5"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLIES",
+        "url": "https://open.spotify.com/album/7cblMUnfwltJ5vInAAfzfW"
+      },
+      "artists": [
+        {
+          "name": "Bietjie Bella",
+          "url": "https://open.spotify.com/artist/59TKiquxtw1aEZQpCCiuBC"
+        },
+        {
+          "name": "Snacci",
+          "url": "https://open.spotify.com/artist/373NRUyodyMISLLxcN2qr1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177546,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/5fiaEbv8ZfAP7l0PWIhahl"
     },
     {
       "album": {
@@ -2756,7 +2832,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 227614,
       "name": "Hier's My Hand",
       "url": "https://open.spotify.com/track/1TlBRWlwuyZ7witxWCMPBZ"
@@ -2886,7 +2962,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 176727,
       "name": "Hou Aan Seil",
       "url": "https://open.spotify.com/track/7qETapAIiUsLxJxnUuezRC"
@@ -2926,6 +3002,24 @@
       "duration_ms": 260526,
       "name": "Hou Net Vas",
       "url": "https://open.spotify.com/track/5dc4tPt623wzxVNwF4cG9F"
+    },
+    {
+      "album": {
+        "name": "Hout",
+        "url": "https://open.spotify.com/album/5baWSAr3y3L2O5a4N7f7L6"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "Hout",
+      "url": "https://open.spotify.com/track/4KNYpaPn7MmUvq7YA4r8Gd"
     },
     {
       "album": {
@@ -3113,6 +3207,24 @@
     },
     {
       "album": {
+        "name": "IN MY DROME",
+        "url": "https://open.spotify.com/album/2ZNE0VqgjFXSmGOZUNhOOV"
+      },
+      "artists": [
+        {
+          "name": "Gerry Liberty",
+          "url": "https://open.spotify.com/artist/0KhAYgLjKgjeil6Eu7VoWq"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188833,
+      "name": "IN MY DROME",
+      "url": "https://open.spotify.com/track/6dCfA2DBPCNRsdSmlTWWRF"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
@@ -3293,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Jou O\u00eb Vertel Die Storie",
+        "url": "https://open.spotify.com/album/5uNFYx1OFleLqmoGcybgrl"
+      },
+      "artists": [
+        {
+          "name": "Willem van der Ryst",
+          "url": "https://open.spotify.com/artist/0cybbvrpFJAkzdexUvXHH1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Jou O\u00eb Vertel Die Storie",
+      "url": "https://open.spotify.com/track/5Bb6mEpK2rMxKVzh1WwpVy"
+    },
+    {
+      "album": {
         "name": "Jou Skoene",
         "url": "https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG"
       },
@@ -3326,6 +3456,24 @@
       "duration_ms": 282326,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0XdKQSbxsx8xwisuVMlJmF"
+    },
+    {
+      "album": {
+        "name": "Jy is genoeg",
+        "url": "https://open.spotify.com/album/7AAG6Ue4Co730HwR9mXg8c"
+      },
+      "artists": [
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211891,
+      "name": "Jy is genoeg",
+      "url": "https://open.spotify.com/track/2fdbtc6ZvSQAlizaU2VFSP"
     },
     {
       "album": {
@@ -3694,7 +3842,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 200341,
       "name": "Koe\u00eblvaste Hart",
       "url": "https://open.spotify.com/track/2zenDiT9mFWBYOtP9aYTW3"
@@ -4497,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "Marakas",
+        "url": "https://open.spotify.com/album/5PW1QI5M5ghXWrnYP9X4bs"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241063,
+      "name": "Marakas",
+      "url": "https://open.spotify.com/track/1CZuOrdzTTkkNeTIHU26WF"
+    },
+    {
+      "album": {
         "name": "Medals For Mothers",
         "url": "https://open.spotify.com/album/45VghDmrR2mKGhxTJnELoE"
       },
@@ -4642,6 +4808,24 @@
       "duration_ms": 214839,
       "name": "Misgeloop",
       "url": "https://open.spotify.com/track/3mALPrvV2CIHbWhF6Nw1pL"
+    },
+    {
+      "album": {
+        "name": "Moeg",
+        "url": "https://open.spotify.com/album/1IZOC8YN6GFWgRdsZGrtVr"
+      },
+      "artists": [
+        {
+          "name": "Rudi Kleingeld",
+          "url": "https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Moeg",
+      "url": "https://open.spotify.com/track/0t9uLw0ZL63rJPSQTBH94z"
     },
     {
       "album": {
@@ -5548,7 +5732,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 203390,
       "name": "Oos Wes Tuis Bes",
       "url": "https://open.spotify.com/track/1UviZtwpBCVxMLDJHjvjLq"
@@ -6104,7 +6288,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 175653,
       "name": "Sal Jy Vir My Wag - Demo Version",
       "url": "https://open.spotify.com/track/6BRv5v535Nd2ohKQQ4SrI6"
@@ -6925,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Super Sexy",
+        "url": "https://open.spotify.com/album/0BXw0w8YxOs8Kq2UUZ7veq"
+      },
+      "artists": [
+        {
+          "name": "Corra",
+          "url": "https://open.spotify.com/artist/4My68FFMdqNzlJljp7Fchv"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Super Sexy",
+      "url": "https://open.spotify.com/track/2CO1I60LEmkuZVivtyXDZ0"
+    },
+    {
+      "album": {
         "name": "Sweef",
         "url": "https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk"
       },
@@ -7062,7 +7264,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 185802,
       "name": "Teenoorgestelde Balans",
       "url": "https://open.spotify.com/track/3FRdBBlXcQMK2ewBPa4nXi"
@@ -7522,7 +7724,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 210757,
       "name": "Vellies op die dansvloer",
       "url": "https://open.spotify.com/track/57QHftF9VDcVq872mJxAi4"
@@ -8154,7 +8356,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 173357,
       "name": "Weskus Wyn",
       "url": "https://open.spotify.com/track/0OBxUSpC7q7KlJZ7EbusfC"

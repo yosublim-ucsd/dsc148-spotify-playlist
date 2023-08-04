@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-856 songs - 2 day 11 hr 45 min
+857 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [In The Heat Of The Night](https://open.spotify.com/track/3eAh3qyyASMRQV9639vPHi) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [In The Heat Of The Night](https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY) | 5:25 | 2022-01-05 |  |
 | [In The Mood](https://open.spotify.com/track/2CB4yzH1SBr0q85YniII0M) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Rush](https://open.spotify.com/album/57ystaP7WpAOxvCxKFxByS) | 3:33 | 2022-01-05 |  |
 | [In The Sun \- Remastered](https://open.spotify.com/track/6RnnbW4qp7lCTDITqbkbK0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 2:39 | 2022-01-05 |  |
-| [Inca Roads](https://open.spotify.com/track/0txIkFgdvURMOn35C2fvI3) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [One Size Fits All](https://open.spotify.com/album/4mp2SC1Wq9jZJINGPAKv0V) | 8:45 | 2022-01-05 |  |
+| [Inca Roads](https://open.spotify.com/track/0txIkFgdvURMOn35C2fvI3) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [One Size Fits All](https://open.spotify.com/album/4mp2SC1Wq9jZJINGPAKv0V) | 8:45 | 2022-01-05 | 2023-08-04 |
 | [Indian Reservation \(The Lament Of The Cherokee Reservation Indian\)](https://open.spotify.com/track/7MOQfm9Slst3cNvWLX8aFF) | [Paul Revere & The Raiders](https://open.spotify.com/artist/32HPpJAhgnGPT3V7UOggzi) | [Once Upon A Song](https://open.spotify.com/album/5SmixoDJyKoJl81odt4PiO) | 2:52 | 2022-01-05 | 2022-11-13 |
 | [Indian Reservation \(The Lament of the Cherokee Reservation Indian\)](https://open.spotify.com/track/3mDOHVY9MWZOTODSNF5GBj) | [Paul Revere & The Raiders](https://open.spotify.com/artist/32HPpJAhgnGPT3V7UOggzi), [The Raiders](https://open.spotify.com/artist/6VGkOHRnGhPYrzy9qM7CVj) | [Indian Reservation](https://open.spotify.com/album/6HJj4X26Xp7buj1zIfFjyb) | 2:51 | 2022-01-05 |  |
 | [Indian Reservation \(The Lament of the Cherokee Reservation Indian\) \(feat\. Mark Lindsay\)](https://open.spotify.com/track/0a5cCoXpBKGnUBYbd271f9) | [Paul Revere & The Raiders](https://open.spotify.com/artist/32HPpJAhgnGPT3V7UOggzi), [Mark Lindsay](https://open.spotify.com/artist/7kEOMdsEmZkTHgA4ibDz4h) | [Paul Revere & The Raiders: The Complete Columbia Singles](https://open.spotify.com/album/608nY4DdoRc4TkWkiSDYNo) | 2:56 | 2022-01-05 | 2022-07-28 |
@@ -591,6 +591,7 @@
 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 | 2022-01-05 |  |
 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 | 2022-01-05 |  |
 | [Rikki Don't Lose That Number](https://open.spotify.com/track/18a9EGG4xhRELv7bgAw5hb) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/2OUYJtDV6EmLkVyoHSuGIp) | 4:31 | 2022-01-05 | 2023-08-02 |
+| [Rikki Don't Lose That Number](https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Pretzel Logic](https://open.spotify.com/album/4XfN871nBIz6obaUDEzZXm) | 4:32 | 2022-11-17 |  |
 | [Rip This Joint](https://open.spotify.com/track/5F5UNt3WBzmUJ3irvfAi8w) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(Deluxe Version\)](https://open.spotify.com/album/1D0PTM0bg7skufClSUOxTP) | 2:23 | 2022-01-05 | 2022-07-29 |
 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 | 2022-01-05 |  |
 | [Rock 'n' Roll Fantasy \- 2009 Remaster](https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Desolation Angels \(2009 Remaster\)](https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp) | 3:17 | 2022-01-05 |  |

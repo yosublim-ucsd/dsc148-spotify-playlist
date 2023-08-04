@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Luca Malina, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,100 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,115 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 2 | [Unsaid](https://open.spotify.com/track/1hcclZ8pSg2yYlQc6XqoMT) | [Fabian Kuhn](https://open.spotify.com/artist/3lBb4DsNd7uLyDrKk0XGbL) | [Unsaid](https://open.spotify.com/album/6nRaAuElEpQIiRTKwTTVmR) | 4:09 |
 | 3 | [Dusk Till Dawn](https://open.spotify.com/track/66sBQP4haQGislypMN3reX) | [Stefanie Raschke](https://open.spotify.com/artist/6IJSvFITTxANPakKiCYyl7) | [Dusk Till Dawn](https://open.spotify.com/album/5Uejj3L5Yh5F9OOKHDkEYH) | 6:36 |
 | 4 | [I Know I Know](https://open.spotify.com/track/44KjEhXcSFZC4O0b6Piivp) | [THE DAYZE](https://open.spotify.com/artist/1O0o7ilqNyOF1RLEPsGwVj) | [I Know I Know](https://open.spotify.com/album/5zWZQgA11DddgmjVMwjHGo) | 2:49 |
-| 5 | [Wakey Wakey](https://open.spotify.com/track/6WgkOAS4j7FableCK8NXEj) | [Pepper Levain](https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m), [Dolly Vara](https://open.spotify.com/artist/2AoMS8Eez9IpWKVsocz4in) | [Wakey Wakey](https://open.spotify.com/album/2taD0rdLPqkfKSIgcVcox8) | 2:20 |
+| 5 | [Wakey Wakey](https://open.spotify.com/track/6WgkOAS4j7FableCK8NXEj) | [Pepper Levain](https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m), [Dolly Vara](https://open.spotify.com/artist/2AoMS8Eez9IpWKVsocz4in) | [Wakey Wakey](https://open.spotify.com/album/2taD0rdLPqkfKSIgcVcox8) | 2:28 |
 | 6 | [Night Dive](https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA) | [Pete Gelée](https://open.spotify.com/artist/3hnWBzPHPTCjeWKsMcsFTW) | [Skinny Dipping](https://open.spotify.com/album/3fqCFFaVvL05Dd49oyULrQ) | 3:48 |
 | 7 | [Nüchtern](https://open.spotify.com/track/5icCIjVswBQXGwnlgqMoJN) | [conan.luis](https://open.spotify.com/artist/1H9Smm4OzNFwBB0BELY2PD) | [Nüchtern](https://open.spotify.com/album/6WUXZIaIWBs3ZFLHqPUSTQ) | 3:19 |
 | 8 | [Treibsand](https://open.spotify.com/track/2qZWNzN3Wwd1DmDQD2i3x7) | [Trinity Sander](https://open.spotify.com/artist/1mXFDXaPzu1OF1axZ119ZM) | [Treibsand](https://open.spotify.com/album/5r35nREw8nJLbHzpT2V1g2) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Blumen auf meiner Haut](https://open.spotify.com/track/56TP62SmsPdbGDcRmkP1ze) | [Anton Verzani](https://open.spotify.com/artist/0EdR71Cjo7i162DzwAmaBc) | [Blumen auf meiner Haut](https://open.spotify.com/album/6WmNK68Ew5OhWx8Z07RffV) | 3:22 |
 | 80 | [Toxisch](https://open.spotify.com/track/0xXg49Q95WwUIVc3TC9eK7) | [Die Krux](https://open.spotify.com/artist/2SLzDQT4gRA9vDbUB2BxMp) | [Toxisch](https://open.spotify.com/album/5Bg0G5KWlxCY4JMVj6HPyT) | 3:18 |
 
-Snapshot ID: `MCxhNzYxOTZlMmIzMzI2ZGM4NzE0MTg1MDUzYjc5YmQwNjc3ZDg4Mzgx`
+Snapshot ID: `MCwwNjg5ODE4MzM0YmJkNDFkNjBiODY4ZWY1NmE0MjMyMGExNjM3Y2Zl`

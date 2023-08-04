@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Ovy on The Drums junto al Bendito 🙏🏼
 
-180 songs - 9 hr 33 min
+181 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 | 2022-09-30 |  |
 | [Bebiendo Sola](https://open.spotify.com/track/0wIIVkpeRLjoGAYkeYXevR) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 2:59 | 2022-09-06 | 2022-10-14 |
 | [BEBÉ](https://open.spotify.com/track/1hBzM78iz1nuD1kyUwSPVp) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [BEBÉ](https://open.spotify.com/album/46ycX8KVKKdbFFfdEU8OOp) | 2:21 | 2022-09-06 | 2022-09-17 |
-| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-29 |  |
+| [Bendición o Desgracia](https://open.spotify.com/track/2jMh4nHPNtayqz7MsAnoc9) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Bendición o Desgracia](https://open.spotify.com/album/67tBFPuqAgfDiMe2ee0gA3) | 2:43 | 2023-06-29 | 2023-08-04 |
 | [BESTIES](https://open.spotify.com/track/7eTv2OTr3aY5iKtFdBusoA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-02-24 | 2023-07-14 |
 | [BILLBOARD](https://open.spotify.com/track/0v205lIkVCvkk9gIMavuWc) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [BILLBOARD](https://open.spotify.com/album/4ahLGrhxB0ME8dtGoPI4iR) | 3:54 | 2023-06-29 |  |
 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 | 2022-09-06 | 2022-10-14 |
@@ -180,6 +180,7 @@
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-03-02 |  |
 | [Un Chance](https://open.spotify.com/track/7Ks7DH30EOvM88u2XKptIy) | [Flako Gallego](https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [Un Chance](https://open.spotify.com/album/3TDKC8cMJlGJiMCvs4tk5I) | 3:30 | 2022-09-30 | 2022-10-14 |
 | [Una Nota](https://open.spotify.com/track/0oMzHGuxjumkW4S4LdClhZ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE \(Deluxe Edition\)](https://open.spotify.com/album/0FY6R5PCvGh0VmKzuCNFkx) | 2:49 | 2022-09-06 |  |
+| [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-04 |  |
 | [Verano](https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Verano](https://open.spotify.com/album/3fAhHCHL12IjUVUMmImIUs) | 3:15 | 2023-04-21 |  |
 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-02 | 2023-04-22 |
 | [Vida Buena](https://open.spotify.com/track/2MMlie9z2Huecoyf7pcOYa) | [VHESE](https://open.spotify.com/artist/3v9la1GviN9d3oZqdFu4Gz), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [Vida Buena](https://open.spotify.com/album/4scpWAsBHsDM0Zual9MUKN) | 3:33 | 2023-07-28 |  |

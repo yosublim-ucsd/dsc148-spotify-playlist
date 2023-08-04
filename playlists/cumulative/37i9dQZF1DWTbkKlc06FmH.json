@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Glare EP",
+        "url": "https://open.spotify.com/album/3GoHBZf0ekERSB36XMoiQp"
+      },
+      "artists": [
+        {
+          "name": "Half Mile Beach Club",
+          "url": "https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332970,
+      "name": "All Sunlight Must Fade",
+      "url": "https://open.spotify.com/track/7l9SRbfxPegtQP2eSmXqyl"
+    },
+    {
+      "album": {
         "name": "The Family",
         "url": "https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy"
       },
@@ -2122,10 +2140,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
     },
     {
       "album": {
@@ -6152,7 +6188,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 261017,
       "name": "Silhouette (feat. Asako Toki)",
       "url": "https://open.spotify.com/track/5e8CIeIj0L1HPQqrX6MsnU"
@@ -8972,7 +9008,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 257687,
       "name": "\u77b3\u60da\u308c",
       "url": "https://open.spotify.com/track/7ImXxPecExYBbjmDEvdd4z"

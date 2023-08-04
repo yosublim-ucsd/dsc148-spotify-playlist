@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
-116 songs - 7 hr 20 min
+117 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Bedankt](https://open.spotify.com/track/7FkzmpfyTGOJjqD0WLFMsY) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Bedankt](https://open.spotify.com/album/7J3xT2IyPpLMxxZcipF98F) | 4:03 | 2023-02-10 |  |
 | [Bedankt Voor Alles](https://open.spotify.com/track/2uPLhDI0T71NTeG0Q2gQ08) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Bedankt Voor Alles](https://open.spotify.com/album/3T5LM45q5lptm3dz9x6r9h) | 4:30 | 2023-02-10 | 2023-05-12 |
 | [Beter In Herinnering](https://open.spotify.com/track/02vnlVFETKHKazMICFvJWA) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Dan Maar Genieten](https://open.spotify.com/album/0P1ywNbYXVAXt5zca1EIsm) | 3:20 | 2023-02-10 |  |
+| [Bijna September](https://open.spotify.com/track/0DNXeZj5MhL7LZdQDbznDO) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Bijna September](https://open.spotify.com/album/2ym14U1NP7ppRIUZAyrQoh) | 2:35 | 2023-08-03 |  |
 | [Bitterzoet](https://open.spotify.com/track/39He9xYIIOdK0pU3U9OjAs) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Bitterzoet](https://open.spotify.com/album/6i4IItGQSRvbdBguRDggMI) | 3:58 | 2023-02-10 | 2023-03-18 |
 | [Blijf Bij Mij \- Live](https://open.spotify.com/track/3iDaIXcvqurUTjJbaAu3Xb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Plugged \(Live\)](https://open.spotify.com/album/3GRkSdhiHZS9wepjQInp8v) | 3:00 | 2023-02-10 | 2023-05-12 |
 | [Bo](https://open.spotify.com/track/5kjSd4ji3luSzLWVJClQx2) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Roman \(Expanded Edition\)](https://open.spotify.com/album/7MQ3eqEq8KXImcFgWbjnKY) | 3:55 | 2023-02-10 | 2023-06-22 |

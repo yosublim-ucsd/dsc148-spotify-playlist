@@ -4,7 +4,7 @@
 
 > Listen to women in Canada, at full volume\. Cover: BAMBII
 
-940 songs - 2 day 1 hr 21 min
+941 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,8 @@
 | [Precious Pressure](https://open.spotify.com/track/02ZDVwSe8nFrCmhLaZruIN) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Precious Pressure](https://open.spotify.com/album/4WwSCGJW82tUfUX434T3Qx) | 3:14 | 2023-02-01 | 2023-03-02 |
 | [Press It](https://open.spotify.com/track/3y71AHtNzmdBOLuUFz9buu) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Fast & Furious: Drift Tape \(Phonk Vol 1\)](https://open.spotify.com/album/1XJGiLPpejKHhzovCVpQUY) | 2:01 | 2023-01-04 | 2023-02-02 |
 | [Pressing Matters](https://open.spotify.com/track/7mIm5DdxPrraYVtrbsaN9I) | [Mileena](https://open.spotify.com/artist/3zMmBYE6UVHfnURPeagEZu) | [Time Spent Running](https://open.spotify.com/album/6OTFlhMPbnTaZNGceucNSG) | 4:00 | 2023-07-05 |  |
-| [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-07-05 |  |
+| [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 | 2023-07-18 |  |
+| [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-07-05 | 2023-08-04 |
 | [Pretty](https://open.spotify.com/track/2ARyZvxGYqUaUgAtqwyBsq) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:49 | 2023-03-01 | 2023-04-06 |
 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2023-01-04 | 2023-04-06 |
 | [Pretty Girl Era \- Version Française](https://open.spotify.com/track/7czZJ0oMOdf5doqecs0CSi) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Pack](https://open.spotify.com/album/3Bc5Vgu3fmPIz2LWy6AV5N) | 2:35 | 2023-07-05 |  |

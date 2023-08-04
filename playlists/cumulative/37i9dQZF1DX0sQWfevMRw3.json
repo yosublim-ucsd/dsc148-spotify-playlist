@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 134794,
       "name": "ALDRIG LIGGA MED DIG NYKTER",
       "url": "https://open.spotify.com/track/4v1OAta8kFcAMWYzl2BJyx"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 161418,
       "name": "Bygda v\u00e5r",
       "url": "https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA"
@@ -2334,6 +2334,24 @@
       "duration_ms": 180004,
       "name": "DIN SOLDAT",
       "url": "https://open.spotify.com/track/6VP37CDkqkP15Qr7fH7z8s"
+    },
+    {
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/7eJPgcbO2zBslEqZWNWTuk"
+      },
+      "artists": [
+        {
+          "name": "TUAI",
+          "url": "https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160624,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/0c9kkAMkz7ALDL0bc1H9o8"
     },
     {
       "album": {
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 143973,
       "name": "GRUSV\u00c4G",
       "url": "https://open.spotify.com/track/5CLydITobjloGLCI3KogSO"
@@ -5646,7 +5664,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 123479,
       "name": "HATAR DIG",
       "url": "https://open.spotify.com/track/1ntGXeiRPChdQ8xYU6cOB1"
@@ -6270,7 +6288,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 133646,
       "name": "H\u00e5ll min hand - EPA RMX",
       "url": "https://open.spotify.com/track/4x4b5ijPiQ7W50t8bnRjAi"
@@ -7470,7 +7488,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 173562,
       "name": "Kom hem",
       "url": "https://open.spotify.com/track/19teyCxcTkj1HsjvczHi1n"
@@ -10563,6 +10581,28 @@
     },
     {
       "album": {
+        "name": "RAGGARDUDE",
+        "url": "https://open.spotify.com/album/3neMsFeLxEJlKq0g7my4RJ"
+      },
+      "artists": [
+        {
+          "name": "Mixkey",
+          "url": "https://open.spotify.com/artist/3cVke0V72E6FQALgHI99He"
+        },
+        {
+          "name": "MAXADE EMMI",
+          "url": "https://open.spotify.com/artist/3zj8ViMqOhJDhE2O2G7s9W"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147003,
+      "name": "RAGGARDUDE",
+      "url": "https://open.spotify.com/track/1rJiMT2E9Fvdw7IPV1lZor"
+    },
+    {
+      "album": {
         "name": "RAGGARDUDE & STORSTADSBRUDE",
         "url": "https://open.spotify.com/album/3hmsk6N1GKKBilHBBU2vSD"
       },
@@ -10762,7 +10802,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 178693,
       "name": "RAGGEN G\u00c5R",
       "url": "https://open.spotify.com/track/5tq2w7SbOai77pCgdi2hcI"
@@ -11160,7 +11200,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 131056,
       "name": "Rulla",
       "url": "https://open.spotify.com/track/348CX6i7lx7OQ5CQRwabQz"
@@ -11238,6 +11278,24 @@
       "duration_ms": 144924,
       "name": "Saint Tropez (feat. Irma)",
       "url": "https://open.spotify.com/track/5vJNNukmV73WwAnGmsPht8"
+    },
+    {
+      "album": {
+        "name": "SAMMA GAMLA VISA",
+        "url": "https://open.spotify.com/album/5o17aY9HLVzKzvRJqu0mGR"
+      },
+      "artists": [
+        {
+          "name": "Studavig\u00e5",
+          "url": "https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142602,
+      "name": "SAMMA GAMLA VISA",
+      "url": "https://open.spotify.com/track/1ErsB532xmfb3tTVHuSDj3"
     },
     {
       "album": {
@@ -12704,6 +12762,32 @@
       "duration_ms": 112409,
       "name": "STRIPPA I DITT VARDAGSRUM",
       "url": "https://open.spotify.com/track/4xIvjr1p5yzXJoDU6vCal3"
+    },
+    {
+      "album": {
+        "name": "STR\u00d6GA P\u00c5",
+        "url": "https://open.spotify.com/album/4mil0MRnKBKHXatuNZMTq9"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        },
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        },
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "STR\u00d6GA P\u00c5",
+      "url": "https://open.spotify.com/track/6S8MVPhjSUUs9O2H54jdM8"
     },
     {
       "album": {
@@ -14429,6 +14513,24 @@
     },
     {
       "album": {
+        "name": "VARJE DAG",
+        "url": "https://open.spotify.com/album/7duJOk9hLR32NhWvCHJIRw"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113164,
+      "name": "VARJE DAG",
+      "url": "https://open.spotify.com/track/6XOFvySycwkbmqxWfACN9D"
+    },
+    {
+      "album": {
         "name": "Nu tar vi nya tag (Deluxe Version)",
         "url": "https://open.spotify.com/album/2g973QdyTS21AKuObwBRX2"
       },
@@ -14535,6 +14637,24 @@
     },
     {
       "album": {
+        "name": "VI TAR EN RUNDA TILL",
+        "url": "https://open.spotify.com/album/5SalA67eMP7BlGiE56ZkNs"
+      },
+      "artists": [
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157818,
+      "name": "VI TAR EN RUNDA TILL",
+      "url": "https://open.spotify.com/track/76k4gxHA4VgTYoZyf21CKi"
+    },
+    {
+      "album": {
         "name": "VI \u00c4R SVERIGE (VM-l\u00e5t 2023)",
         "url": "https://open.spotify.com/album/43VmuukqpgihtMojRuajVA"
       },
@@ -14572,7 +14692,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 142838,
       "name": "VIKING",
       "url": "https://open.spotify.com/track/5K1oFOPUkwk0m1cRX9eVhq"
@@ -14726,6 +14846,32 @@
       "duration_ms": 172500,
       "name": "V\u00e4lkommen in",
       "url": "https://open.spotify.com/track/39OfP05u887i4HgQtXVLtD"
+    },
+    {
+      "album": {
+        "name": "V\u00c4RDEL\u00d6S",
+        "url": "https://open.spotify.com/album/46CTCBtHEt05hgOPMf3gLB"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "V\u00c4RDEL\u00d6S",
+      "url": "https://open.spotify.com/track/0nP2DjCKa5p1MzAZbRZYfB"
     },
     {
       "album": {
@@ -15334,7 +15480,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 168311,
       "name": "\u00c4RLIGT TALAT",
       "url": "https://open.spotify.com/track/26gs2p78lS40ECNZG81FiW"

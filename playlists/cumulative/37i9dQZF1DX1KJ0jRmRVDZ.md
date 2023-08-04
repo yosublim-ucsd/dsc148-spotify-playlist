@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-787 songs - 1 day 20 hr 57 min
+788 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [SHOWレース](https://open.spotify.com/track/1lzzRoO0fWyrlmwOQ6UztW) | [Nexus\-Cry](https://open.spotify.com/artist/5G8jDBkwGmPXonbtVj8nJX) | [SHOWレース](https://open.spotify.com/album/0cjT5braEI6LZAJSgw2IAV) | 3:17 | 2022-06-30 | 2022-07-24 |
 | [Sign](https://open.spotify.com/track/7lzZQ6lSsWPVrWgaAXX6pP) | [JASPĘR](https://open.spotify.com/artist/1pyg2ihnuRiqlkOxzRTXz7) | [Sign](https://open.spotify.com/album/2ujaRJAKxnDtIjyacSkZcH) | 3:47 | 2022-07-26 | 2022-07-29 |
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-16 | 2022-09-07 |
-| [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 | 2023-07-25 |  |
+| [six feet under](https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [six feet under](https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1) | 3:37 | 2023-07-25 | 2023-08-04 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-11 |  |
 | [Someday](https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Someday](https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3) | 5:18 | 2022-06-16 | 2022-06-21 |
 | [Spica](https://open.spotify.com/track/3cwEY2BH2SALUHFeHLW4VM) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Spica](https://open.spotify.com/album/6skxVBdc3IvchpbUBZVZGC) | 2:45 | 2023-06-08 |  |
@@ -385,6 +385,7 @@
 | [オノマトペ \(feat\. りりあ。\)](https://open.spotify.com/track/01QgSl0HCP4DmF3RAhkJYC) | [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [オノマトペ \(feat\. りりあ。\)](https://open.spotify.com/album/1yCynXWs7IiVd8t9Yc7mPH) | 2:46 | 2022-06-30 | 2022-07-13 |
 | [オルターエゴ](https://open.spotify.com/track/1xQk51ZFXt6Zf7d2xUNSN1) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [オルターエゴ](https://open.spotify.com/album/5QAR9vY3vVHQH63oloIr4f) | 3:42 | 2023-02-21 | 2023-03-29 |
 | [カフェラテのうた](https://open.spotify.com/track/7tNcsYmCL3V6g6nfa0no8y) | [MARiA](https://open.spotify.com/artist/3VLk5buofnRZwwAS0PhS7v), [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [カフェラテのうた](https://open.spotify.com/album/1KGH7DtNGM2HMzR5K1wkHq) | 3:26 | 2022-06-14 | 2022-07-17 |
+| [カペラ](https://open.spotify.com/track/0lfn44RYalEExLKXGFv3zb) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [夜天邂逅](https://open.spotify.com/album/6m70zkoxFXufdB4plRY327) | 3:16 | 2023-08-03 |  |
 | [カミツレと愛のブーケ](https://open.spotify.com/track/6OrAEeDI97fTMLFwW3zJc8) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [カミツレと愛のブーケ](https://open.spotify.com/album/4vTfg9crGl2Sd5hpebXjfM) | 3:33 | 2022-07-24 | 2022-07-28 |
 | [カルメン](https://open.spotify.com/track/2trg5QP7LvutSwDmApo7JN) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [カルメン](https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY) | 2:27 | 2022-06-13 | 2022-07-29 |
 | [カーテン](https://open.spotify.com/track/0EpYsp88EkLlaC8AmDIlMC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [カーテン](https://open.spotify.com/album/6shhbAZHrRdbqUhJvVWblA) | 2:43 | 2022-09-20 | 2022-09-22 |
@@ -498,7 +499,7 @@
 | [ミラ](https://open.spotify.com/track/3Nh3i6YBmVN9zHGFuMlwd2) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ミラ](https://open.spotify.com/album/5RLYmHgINEeyKJrWTDZr4c) | 2:56 | 2022-06-09 | 2022-07-29 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-06-09 | 2023-03-10 |
 | [メルトシティ](https://open.spotify.com/track/0PaphhsiFcynmB2pZEhLlX) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [メルトシティ](https://open.spotify.com/album/1pjgrbKpN6raYDVv2UI6sr) | 3:46 | 2023-07-25 |  |
-| [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 |  |
+| [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 | 2023-04-04 | 2023-08-04 |
 | [モノフォビア](https://open.spotify.com/track/4YT9358e87upxQxIGy2FVo) | [NEW \(te”nC\)^2](https://open.spotify.com/artist/3YzKiDDsf14CuftYBdSULa) | [モノフォビア](https://open.spotify.com/album/6B12Xztii6946TqS3eEvCk) | 2:59 | 2022-07-12 | 2022-07-15 |
 | [モンスター](https://open.spotify.com/track/16oPsrYE8HkBWndxdhiICa) | [肉チョモランマ](https://open.spotify.com/artist/6itRUVO6rDXpVdy7lIy7vu) | [モンスター](https://open.spotify.com/album/3JyS6hoaYJB8sCdGG8h7wD) | 3:09 | 2022-06-14 | 2022-07-01 |
 | [ユラユラダンスホール](https://open.spotify.com/track/4P2OObLmEOiFSPYcFJ3vst) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [ユラユラダンスホール](https://open.spotify.com/album/4x8lTZayekaLjKgpKV9La5) | 4:51 | 2023-07-27 |  |

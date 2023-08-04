@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Cover: Calvin Harris &amp; Sam Smith
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 116,673 likes - 125 songs - 6 hr 22 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 116,669 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

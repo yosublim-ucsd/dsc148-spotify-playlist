@@ -4,7 +4,7 @@
 
 > New music from Travis Scott, Drake, Central Cee and Offset.
 
-1,714 songs - 3 day 16 hr 30 min
+1,715 songs - 3 day 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1322,6 +1322,7 @@
 | [SHUT UP](https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SHUT UP](https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO) | 2:50 | 2020-02-21 | 2020-04-03 |
 | [Sick \(feat\. DaBaby\)](https://open.spotify.com/track/0BqyyCV8M6roYLRmNtiasC) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BOSS MAN](https://open.spotify.com/album/1YOx6ZVgiv9GEluUwBWevi) | 1:57 | 2020-03-13 | 2020-04-18 |
 | [Sick \(feat\. DaBaby\)](https://open.spotify.com/track/0SILPpXjFgZCwW64L1bamm) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 1:57 | 2020-04-18 | 2020-04-24 |
+| [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2023-08-03 |  |
 | [Side](https://open.spotify.com/track/0E4Xd8ILklQJzF1xJBTdGK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Side](https://open.spotify.com/album/2JdRx0dj3KFdm1tnT8buBK) | 2:28 | 2019-12-13 | 2019-12-20 |
 | [Side](https://open.spotify.com/track/0IwHGIyDy3GFw7TFfRQ3lP) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/3NfNZB1fjbfFm3vMdCrc0b) | 2:28 | 2019-12-20 | 2019-12-27 |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-06-17 | 2022-08-27 |

@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Lolly Talk
 
-133 songs - 7 hr 40 min
+134 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [和暖的風](https://open.spotify.com/track/0lQyky5oqyrhyBqIdudekJ) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [和暖的風](https://open.spotify.com/album/6hb981Qe8zzsC9q3llvaz2) | 2:40 | 2022-08-18 | 2023-04-14 |
 | [單曲循環症](https://open.spotify.com/track/51gq3Jza9a4YnBxMTuJ3Yj) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [單曲循環症](https://open.spotify.com/album/4iaRMIZsC3HcwSRcYNc1Cz) | 3:37 | 2023-06-01 |  |
 | [喺呢到大](https://open.spotify.com/track/79W5p1opeFvnKuUJYknlmu) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [喺呢到大](https://open.spotify.com/album/0vm4gUKKSPF5JNrfpUdsWh) | 2:55 | 2023-04-13 |  |
+| [四方帽之約](https://open.spotify.com/track/07DWpy6TvwVCmSfaiwAvna) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [四方帽之約](https://open.spotify.com/album/6IGeG2PWkQwGtuTYW0whUa) | 3:59 | 2023-08-03 |  |
 | [墜落](https://open.spotify.com/track/5kj1ATksYuR9lsvJT4mKh5) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [墜落](https://open.spotify.com/album/0s820jSGRWkb6fdcrNkBGb) | 3:17 | 2022-05-26 | 2023-04-14 |
 | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/track/39dOryTx3VzlSwmzEDdf7O) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [墜落 \(Novel Fergus Remix\)](https://open.spotify.com/album/15nzETgvAOJeGMhqmcDGAR) | 2:52 | 2022-06-23 | 2023-04-14 |
 | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/track/4KJi1DpJcn8sYANFF9qZBa) | [MC $oho & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [夢想成真2022 \(feat\. 譚仔女聲合唱團\)](https://open.spotify.com/album/6pIDMCqVB0GNi3b8GV3gjZ) | 3:47 | 2022-05-26 | 2023-04-14 |

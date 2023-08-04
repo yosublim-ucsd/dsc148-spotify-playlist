@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Zamilska
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,276 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,278 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 20 | [MAJUŚ](https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw) | [MAJUŚ](https://open.spotify.com/album/35FokD9pQ8OMZ1C0ZJHz7b) | 2:17 |
 | 21 | [Pokolenie Dobrobytu](https://open.spotify.com/track/6OxCw5grqlMYj1010p0z2a) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ), [Ajman](https://open.spotify.com/artist/0gYNB1eXvnjJc6OtvMLhYl) | [Pokolenie Dobrobytu](https://open.spotify.com/album/5ZT1TacfXPKtyKtixgQABS) | 3:14 |
 | 22 | [Shine](https://open.spotify.com/track/1BZrovLZ6QTTFxn4Ng4v2m) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reincarnation EP](https://open.spotify.com/album/6W74HIJEn8xY0swZtCJHDd) | 3:58 |
-| 23 | [Święta Betsy](https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Święta Betsy](https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B) | 2:49 |
-| 24 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
+| 23 | [Stalker](https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [Shyness!](https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto) | 3:30 |
+| 24 | [Święta Betsy](https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Święta Betsy](https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B) | 2:49 |
 | 25 | [Spytaj mnie](https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Straty](https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb) | 3:13 |
-| 26 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
-| 27 | [Poczuj Moją Magię](https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Poczuj Moją Magię](https://open.spotify.com/album/7DhvmxSAbN3vJuddh0V0o2) | 3:19 |
+| 26 | [Poczuj Moją Magię](https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF), [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [H8](https://open.spotify.com/artist/0D8D1VueigmXshI27sykHO) | [Poczuj Moją Magię](https://open.spotify.com/album/7DhvmxSAbN3vJuddh0V0o2) | 3:19 |
+| 27 | [Red Flag](https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR) | [Kamil Kempiński](https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df) | [Red Flag](https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u) | 2:48 |
 | 28 | [Pod Kapturem](https://open.spotify.com/track/0tGyB6w2ctetOyQylOsH8C) | [27.Fuckdemons](https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pod Kapturem](https://open.spotify.com/album/1w5CwDnHIM3aXOxJseMLWV) | 1:36 |
 | 29 | [Wiśnie](https://open.spotify.com/track/0frZIsYPQzYsbPZ2owz3yp) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [Wiśnie](https://open.spotify.com/album/36r8s1qS0kWuyJ75mTCPhG) | 2:42 |
 | 30 | [49 Groszy](https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [49 Groszy](https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66) | 2:20 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 53 | [Przypadki](https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Przypadki](https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG) | 3:10 |
 | 54 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 55 | [POKUSSA](https://open.spotify.com/track/3TCmVPkceNFsAWWKiKzGRB) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Pokussa Na Parkiecie](https://open.spotify.com/album/0rlVEb3I0UMhMGhPCmc0dv) | 2:56 |
-| 56 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
+| 56 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
 | 57 | [Evangelion](https://open.spotify.com/track/3inilFIpx5bJZuIoWESgKc) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Magister](https://open.spotify.com/album/7El3IrfgM2Sz2J9LLruD1h) | 2:40 |
 | 58 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
 | 59 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
-| 60 | [Język](https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Język](https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn) | 3:06 |
+| 60 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 
-Snapshot ID: `MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5`
+Snapshot ID: `MCxlMDY2NzczYjBlYzIzNGY4OTAwMGU3Nzg2MTVkMzNkNDE5MGYzNTU5`

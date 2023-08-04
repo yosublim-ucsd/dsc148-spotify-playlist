@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 36494,
+  "num_followers": 36551,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTI1MGQ5MDdjZDE4NjY4NzZhYzU2NWYyNTgxZDc1OTcwNzk0NmUy",
+  "snapshot_id": "MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -271,22 +271,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Esencia Solar",
-        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
-      },
-      "artists": [
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 129306,
-      "name": "Color Caf\u00e9",
-      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Sonido Amazonico",
         "url": "https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 257333,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Esencia Solar",
+        "url": "https://open.spotify.com/album/1pOY7m74U5eY0H7QdlTbN4"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 129306,
+      "name": "Color Caf\u00e9",
+      "url": "https://open.spotify.com/track/0Yy0tg52vRTXPB0bsU3e5T"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -911,6 +911,22 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Merecumb\u00e9 del cantinero",
+      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 338306,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/1M2SNsDjSIPRQ5TV0QmLc0"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Merecumb\u00e9 del cantinero",
-      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Caf\u00e9 Con Pan",
-      "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Caf\u00e9 Con Pan",
+      "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 272073,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
@@ -1167,6 +1151,22 @@
       "duration_ms": 176733,
       "name": "La Sitiera",
       "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/3pyH3BOeU7s9iezM5pFU0E"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 272073,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/0CFM8F4yHB33K2XOXurdwe"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1441,24 +1441,20 @@
       "url": "https://open.spotify.com/track/1msp0hCTvmv0SHkJaWZXHn"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Power of the Latin Music",
-        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+        "name": "Trio Nuevomexicano",
+        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Quantic and His Combo Barbaro",
-          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+          "name": "Lone Pi\u00f1on",
+          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
         }
       ],
-      "duration_ms": 283973,
-      "name": "Mambo Los Quantic",
-      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
+      "duration_ms": 239213,
+      "name": "La Xochipitzahuatl",
+      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1477,22 +1473,6 @@
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Trio Nuevomexicano",
-        "url": "https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b"
-      },
-      "artists": [
-        {
-          "name": "Lone Pi\u00f1on",
-          "url": "https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "La Xochipitzahuatl",
-      "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Court the Storm",
@@ -1507,6 +1487,26 @@
       "duration_ms": 176653,
       "name": "Michoacan",
       "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "The Power of the Latin Music",
+        "url": "https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Quantic and His Combo Barbaro",
+          "url": "https://open.spotify.com/artist/7zc5IwPnsT4IxqtsqVwcSN"
+        }
+      ],
+      "duration_ms": 283973,
+      "name": "Mambo Los Quantic",
+      "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/68Rb4XkOch4lhKtlD4fHHq"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
-        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
-      },
-      "artists": [
-        {
-          "name": "Karl Z\u00e9ro",
-          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Allo Mambo",
-      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "15 \u00c9xitos de los Zafiros",
@@ -1587,6 +1571,22 @@
       "duration_ms": 152027,
       "name": "Bossa Cubana",
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
+        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
+      },
+      "artists": [
+        {
+          "name": "Karl Z\u00e9ro",
+          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Allo Mambo",
+      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
     },
     {
       "added_at": "2022-01-11 03:10:29",

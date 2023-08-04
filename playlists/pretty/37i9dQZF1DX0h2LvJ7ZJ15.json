@@ -1,15 +1,31 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 926112,
+  "num_followers": 927569,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzM1OThhNjc2MjRiMjMwYmE5Mjk2NDk0MjI1Mjc4YzU5MzA2MDRh",
+  "snapshot_id": "MCw1MWYxMDE3NjExN2NhYzcyMGYwYTkwMDQ0MjFhY2RkZjU4NDFjZDZh",
   "tracks": [
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "The Lost Soul Down (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "duration_ms": 241111,
+      "name": "The Lost Soul Down - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Fluxxwave",
         "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "CRYSTALS (Remixes)",
         "url": "https://open.spotify.com/album/6Mm3ztOCaGqwRudNjtPyv5"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/3hfvzrj13TtfKq8P3WG2Q1"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "METAMORPHOSIS (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/4z0nL9bblVphvhmt8o15yO"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/02oUvHd9QhVUO4YYb7t9JM"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Close Eyes (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
@@ -113,7 +129,23 @@
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "Call Me (Slowed)",
+        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Me - Slowed",
+      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "sex money feelings die (slowed version)",
         "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
@@ -129,7 +161,7 @@
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Heat Waves (Expansion Pack)",
         "url": "https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh"
@@ -145,7 +177,7 @@
       "url": "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "I'm Geekin (Sped Up + Slowed Down)",
         "url": "https://open.spotify.com/album/6wmDz02Vg21p7tFEwxNBws"
@@ -161,7 +193,7 @@
       "url": "https://open.spotify.com/track/7s6Qiw4ArIssZ9QP5mxPRk"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Only Love Can Hurt Like This (Slowed Down Version)",
         "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
@@ -181,7 +213,7 @@
       "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "\u041e\u0442\u043a\u043b\u044e\u0447\u0430\u044e \u0442\u0435\u043b\u0435\u0444\u043e\u043d (Slowed)",
         "url": "https://open.spotify.com/album/6TKmUmRJInYDQbbGQ2Rf2H"
@@ -197,7 +229,27 @@
       "url": "https://open.spotify.com/track/7qwlUHDJI8aKwpuYVzuvoe"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "Shootout (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Shootout (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "New Home (Slowed)",
         "url": "https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq"
@@ -213,7 +265,7 @@
       "url": "https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "green to blue (slowed + reverbed)",
         "url": "https://open.spotify.com/album/0avfrXwfeSE0JWggiX288s"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/1MrSbSu9UNo7Aucwrf32WJ"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "School Rooftop (Intro) [Slowed Down Version]",
         "url": "https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv"
@@ -249,7 +301,7 @@
       "url": "https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Hands up! (Slowed)",
         "url": "https://open.spotify.com/album/4MRoilt5EIy78XbiemIdfZ"
@@ -273,7 +325,39 @@
       "url": "https://open.spotify.com/track/5QysgWndNifZvQ6RSjZVcZ"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
+        "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "3:15 - Slowed Down + Reverb",
+      "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Dandelions (slowed + reverb)",
         "url": "https://open.spotify.com/album/1UtDjgbJnpqtAhfeMrb4Qm"
@@ -297,91 +381,23 @@
       "url": "https://open.spotify.com/track/6cii6vbf1gITzGEpDrc5BP"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
-        "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
-        "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
+        "name": "Flare (Remixes)",
+        "url": "https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
         }
       ],
-      "duration_ms": 195428,
-      "name": "3:15 - Slowed Down + Reverb",
-      "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
+      "duration_ms": 161783,
+      "name": "Flare - Slowed",
+      "url": "https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Freddie's Inferno - Ghost Slowed",
-        "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "OG Ron C",
-          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Limbo - Ghost Slowed",
-      "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "drowning (remixes)",
-        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
-      },
-      "artists": [
-        {
-          "name": "Vague003",
-          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "drowning (slowed + reverb)",
-      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "prolly my spookiest beat (slowed + reverb)",
-        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
-      },
-      "artists": [
-        {
-          "name": "prodby668",
-          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "prolly my spookiest beat (slowed + reverb)",
-      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "The Arrival: Part I (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
-      },
-      "artists": [
-        {
-          "name": "Aaryan Shah",
-          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
-        }
-      ],
-      "duration_ms": 279250,
-      "name": "Renegade - (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "School Rooftop (Slowed Down Version)",
         "url": "https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ"
@@ -401,7 +417,107 @@
       "url": "https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "Freddie's Inferno - Ghost Slowed",
+        "url": "https://open.spotify.com/album/4Sc3qZCPGp2QXFcxYA8Mn2"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Limbo - Ghost Slowed",
+      "url": "https://open.spotify.com/track/6gHMPnovJioJRT5tvBAj5w"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
+      },
+      "artists": [
+        {
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
+        }
+      ],
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "It's Ok (Slowed)",
+        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 214371,
+      "name": "It's Ok - Slowed",
+      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "prolly my spookiest beat (slowed + reverb)",
+        "url": "https://open.spotify.com/album/5qB7QM6PhhJMZcg0zSRei1"
+      },
+      "artists": [
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "prolly my spookiest beat (slowed + reverb)",
+      "url": "https://open.spotify.com/track/0UYUdfqkHplLojTuEKMqtC"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "duration_ms": 279250,
+      "name": "Renegade - (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Sahara (Slowed)",
         "url": "https://open.spotify.com/album/4NMMVP429rm9L8YhUzBPMw"
@@ -417,7 +533,7 @@
       "url": "https://open.spotify.com/track/0gzcUqFgJrqyfXdkF8xkhk"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Living Life, In The Night (slowed)",
         "url": "https://open.spotify.com/album/6NoezhYM82PEROFIrhLIDY"
@@ -437,7 +553,31 @@
       "url": "https://open.spotify.com/track/5kcNmFn1llGqEw6tAKq1IQ"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
+      "album": {
+        "name": "LOOK DON'T TOUCH (STARE STARE STARE)",
+        "url": "https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "LOOK DON'T TOUCH - Slowed & Reverbed",
+      "url": "https://open.spotify.com/track/2xLCNc9jc87ujLXnG7wYM4"
+    },
+    {
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Swing Lynn (Slowed Version)",
         "url": "https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn"
@@ -453,7 +593,7 @@
       "url": "https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Mary On A Cross (slowed + reverb)",
         "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
@@ -469,7 +609,7 @@
       "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Black Out Days [Future Islands Remix (Slowed)]",
         "url": "https://open.spotify.com/album/51DQUyUCSwUuIErPPGUcFj"
@@ -497,7 +637,7 @@
       "url": "https://open.spotify.com/track/5tRnzF4v2KL72QQdCjopyt"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
@@ -513,7 +653,7 @@
       "url": "https://open.spotify.com/track/7laCR0yqvvRllmY0rAn2qb"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "No Idea (DJ Purpberry Chopped and Screwed)",
         "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
@@ -529,7 +669,7 @@
       "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Killshot (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
@@ -545,7 +685,7 @@
       "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Married In Vegas (Matoma Remix)",
         "url": "https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU"
@@ -565,7 +705,7 @@
       "url": "https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
@@ -589,7 +729,7 @@
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "help_urself (Alternates)",
         "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
@@ -605,7 +745,7 @@
       "url": "https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Banakula @ Meh (Original)",
         "url": "https://open.spotify.com/album/6ZnmsjIq9ZSe9MXwaZ6QQs"
@@ -625,7 +765,7 @@
       "url": "https://open.spotify.com/track/0aswWa6WvtPPCNSDTneSay"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Where's My Love (Slowed)",
         "url": "https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR"
@@ -641,7 +781,7 @@
       "url": "https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Bananza (Belly Dancer) [Remixes]",
         "url": "https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj"
@@ -665,7 +805,7 @@
       "url": "https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Go (Remixes)",
         "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
@@ -681,7 +821,7 @@
       "url": "https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Angel Baby (Slowed)",
         "url": "https://open.spotify.com/album/2QaCQEqA7YIW9cvYzDl33w"
@@ -705,7 +845,7 @@
       "url": "https://open.spotify.com/track/0oKCOb4l4P8B8dvGIksZE6"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Escapism.",
         "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
@@ -725,7 +865,7 @@
       "url": "https://open.spotify.com/track/4iQzqoAi1ETVOatMaHGptG"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Vision (Slowed)",
         "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
@@ -741,7 +881,7 @@
       "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "Unstoppable (The Remixes)",
         "url": "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU"
@@ -765,7 +905,7 @@
       "url": "https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu"
     },
     {
-      "added_at": "2023-07-13 19:40:25",
+      "added_at": "2023-08-03 13:04:48",
       "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
@@ -791,174 +931,6 @@
       "duration_ms": 138646,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Happier (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/05rI3acDbxhs9Hls0o78tZ"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240531,
-      "name": "Happier - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Dream Girl (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/2NlFPxPuRjjLrxAPDvFAiT"
-      },
-      "artists": [
-        {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Dream Girl - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "WASTELAND - CHOPPED NOT SLOPPED",
-        "url": "https://open.spotify.com/album/3DpamulE7VP1pDprRODb28"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        },
-        {
-          "name": "DJ Candlestick",
-          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
-        },
-        {
-          "name": "OG Ron C",
-          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
-        }
-      ],
-      "duration_ms": 307060,
-      "name": "JACKIE BROWN (CHOPNOTSLOP REMIX)",
-      "url": "https://open.spotify.com/track/2TqPcMoynCqfa7GbPQMIYA"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Love Me Back (Fayahh Beat) [Slowed + Reverb]",
-        "url": "https://open.spotify.com/album/3vAp0G0DDiQtbQ6p2jOQB3"
-      },
-      "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg"
-        },
-        {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
-        },
-        {
-          "name": "Slowed Radio",
-          "url": "https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k"
-        }
-      ],
-      "duration_ms": 182166,
-      "name": "Love Me Back (Fayahh Beat) - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "If By Chance (slowed + reverb)",
-        "url": "https://open.spotify.com/album/35myBC3ak9OPMye976nuI4"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        },
-        {
-          "name": "slater",
-          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
-        }
-      ],
-      "duration_ms": 384770,
-      "name": "If By Chance - slowed + reverb",
-      "url": "https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Faster (Slowed & Reverb)",
-        "url": "https://open.spotify.com/album/1SejSeWsVS6Kk7PIPsoy16"
-      },
-      "artists": [
-        {
-          "name": "A.Oonthebeat",
-          "url": "https://open.spotify.com/artist/1wEqe2EwOgePW2eQb0Du2J"
-        },
-        {
-          "name": "Jupyter",
-          "url": "https://open.spotify.com/artist/4J6FA22xD10UHtjrVHeWm9"
-        }
-      ],
-      "duration_ms": 199817,
-      "name": "Faster (Slowed & Reverb)",
-      "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Tard le soir..",
-        "url": "https://open.spotify.com/album/4nJ2ISjg5obAlwFWDd8EAL"
-      },
-      "artists": [
-        {
-          "name": "kobzx2z",
-          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
-        }
-      ],
-      "duration_ms": 145738,
-      "name": "Tard le soir..",
-      "url": "https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Freddie's Inferno - The Slow Descent",
-        "url": "https://open.spotify.com/album/69LXu03hHWw4zOaZwi7Zv2"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        },
-        {
-          "name": "OG Ron C",
-          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
-        }
-      ],
-      "duration_ms": 187810,
-      "name": "Limbo - ChopNotSlop Remix",
-      "url": "https://open.spotify.com/track/5r0X4MhcC7KjN2NQeonWlC"
     }
   ],
   "unique_name": "slowed and reverbed",

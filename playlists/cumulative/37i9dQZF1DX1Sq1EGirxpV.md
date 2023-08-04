@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Not Others\. \(남남의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-24 songs - 1 hr 35 min
+30 songs - 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,12 +13,18 @@
 | [Any song](https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Any song](https://open.spotify.com/album/7LYZM7I172wUjIKjCnxuAQ) | 3:47 | 2023-07-31 |  |
 | [Boat](https://open.spotify.com/track/2PrweoTShLVamfIdefEaek) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/5rQ22IrvP4D6z5dHcAS6De) | 3:11 | 2023-07-31 |  |
 | [Come Back Home](https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Seotaiji and Boys IV](https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva) | 3:55 | 2023-07-31 |  |
+| [Curated by Ahn Jae Wook](https://open.spotify.com/track/1YXMIJ11DDedhBzbqzZKUx) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:45 | 2023-08-03 |  |
+| [Curated by Choi Soo Young](https://open.spotify.com/track/2JA6Hh7YC1rzSbqQlcIiNz) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:45 | 2023-08-03 |  |
+| [Curated by Jeon Hye Jin](https://open.spotify.com/track/1G76I5eINrEWyLyuzc2Rke) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:45 | 2023-08-03 |  |
+| [Curated by Park Sung Hoon](https://open.spotify.com/track/0rk3oatAupEjST9I94Qgmd) | [Not Others](https://open.spotify.com/artist/7gAFa9eIYVgs5KTKXYl7BW) | [Not Others audio liners](https://open.spotify.com/album/142it3I6v0EUt97ZUbxPMr) | 0:53 | 2023-08-03 |  |
 | [Dandelion \- full ver.](https://open.spotify.com/track/64KOSEJ9ZlV75JPxro5Chp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Dandelion](https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk) | 5:48 | 2023-07-31 |  |
 | [Deviation](https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Purple Heart](https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS) | 4:02 | 2023-07-31 |  |
 | [Don't stay angry](https://open.spotify.com/track/5r4XV1UDXSwI3rZk8NzN2c) | [Solid](https://open.spotify.com/artist/2BDUxHuRu6XWVBmeRnbNcN) | [Light Camera Action!](https://open.spotify.com/album/3NbQoR0PIZQ0MxUuj6vl3M) | 4:28 | 2023-07-31 |  |
 | [HANGANG](https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [HANGANG](https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg) | 3:20 | 2023-07-31 |  |
 | [Kisss](https://open.spotify.com/track/3Bjb398kFNsNP0fwegVx1X) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Not Others, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6uMIdVmTVqPzJaBeknl48S) | 3:49 | 2023-07-31 |  |
 | [Kisss \- Instrumental](https://open.spotify.com/track/1tixN00iTjvvca2apcgqUQ) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Not Others, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6uMIdVmTVqPzJaBeknl48S) | 3:47 | 2023-08-01 |  |
+| [Like a Dream](https://open.spotify.com/track/3XkygPbUCWxhqLaS5U3KyN) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 | 2023-08-03 |  |
+| [Like a Dream \- Instrumental](https://open.spotify.com/track/0SpvJAaVaSrrta6Jap7AV0) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Not Others, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/7CYYhlUL2om7VTp8oLTb9Y) | 3:04 | 2023-08-03 |  |
 | [Move](https://open.spotify.com/track/4D1guAFjg5BS8Xx1aOqn3L) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7) | [Connected](https://open.spotify.com/album/3tizdmilWNGp9RQoli1Urb) | 4:00 | 2023-07-31 |  |
 | [Run With Me](https://open.spotify.com/track/1m8b3KFsAiGyjRc90ZfEB9) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Serenade](https://open.spotify.com/album/2McJE8dHLru3MgR1bcxdyF) | 4:30 | 2023-07-31 |  |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-07-31 |  |

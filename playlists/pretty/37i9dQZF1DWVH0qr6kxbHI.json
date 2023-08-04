@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 61278,
+  "num_followers": 61345,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmFkZmM4Nzg1M2U5MzdhMmE1ZjE4ZDZlNzUwYWIzODEyNmU2OGI1",
+  "snapshot_id": "MCxhNWI5OGQ5OWY4ZTIxZTc5ZjVmOGRmZjgxZmYxODBjYTUxNzY2ODlm",
   "tracks": [
     {
       "added_at": "2023-06-30 13:55:09",
@@ -555,18 +555,22 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "20 A\u00f1os De Amor",
-        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
+        "name": "Rocio Siempre",
+        "url": "https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn"
       },
       "artists": [
         {
-          "name": "Tamara",
-          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
+          "name": "Roc\u00edo Jurado",
+          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
+        },
+        {
+          "name": "Monica Naranjo",
+          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
         }
       ],
-      "duration_ms": 266986,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
+      "duration_ms": 455253,
+      "name": "Punto De Partida (with Monica Naranjo)",
+      "url": "https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV"
     },
     {
       "added_at": "2023-06-30 13:55:09",
@@ -619,22 +623,18 @@
     {
       "added_at": "2023-06-30 13:55:09",
       "album": {
-        "name": "Rocio Siempre",
-        "url": "https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn"
+        "name": "20 A\u00f1os De Amor",
+        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Jurado",
-          "url": "https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9"
-        },
-        {
-          "name": "Monica Naranjo",
-          "url": "https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO"
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
         }
       ],
-      "duration_ms": 455253,
-      "name": "Punto De Partida (with Monica Naranjo)",
-      "url": "https://open.spotify.com/track/75cWbqIqhfEfX8uOHlgWZV"
+      "duration_ms": 266986,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
     },
     {
       "added_at": "2023-06-30 13:55:09",

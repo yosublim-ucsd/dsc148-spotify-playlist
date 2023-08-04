@@ -863,6 +863,28 @@
     },
     {
       "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/0gs7l1DFGqOOjZgZZC6S1m"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170202,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/59zRrZhGyepFEsydKTFV1M"
+    },
+    {
+      "album": {
         "name": "For Heaven's Sake",
         "url": "https://open.spotify.com/album/5p7vmVJVnf9vPQ2dI5W5VW"
       },

@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-80 songs - 5 hr 31 min
+81 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Hoodoo She Do](https://open.spotify.com/track/0gxaFS6T8sUczecSuIgVv8) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Deluxe Edition](https://open.spotify.com/album/40O2V8Adg9cZCluTTeLEYU) | 3:47 | 2020-12-01 |  |
 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 | 2020-12-01 |  |
 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 | 2020-12-01 |  |
-| [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 | 2022-01-21 |  |
+| [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 | 2022-01-21 | 2023-08-04 |
+| [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 | 2022-01-28 |  |
 | [I'm Beginning To Wonder](https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 4:10 | 2020-12-01 |  |
 | [I'm Not Havin' It](https://open.spotify.com/track/3iXMRHn9xcnl50C2WqmqHg) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/6LC0JgaYxblH0m74rvvULm) | 3:13 | 2021-04-23 | 2022-07-25 |
 | [I'm Not Havin' It](https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl) | [Steve Cropper](https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S) | [Fire It Up](https://open.spotify.com/album/4Xsv6JN4IqEz3rXfPCBAkn) | 3:13 | 2021-04-23 |  |

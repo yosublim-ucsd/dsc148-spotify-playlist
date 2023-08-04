@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Xamã
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,250 likes - 79 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,347 likes - 79 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 37 | [Inevitável](https://open.spotify.com/track/3UOsMxiN3OdI7h7x6uzYu2) | [Helena Novais](https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG) | [Inevitável](https://open.spotify.com/album/4D5zioWfo0fINhVyjtfCyz) | 2:47 |
 | 38 | [Espero Ainda](https://open.spotify.com/track/2hXRDeIcV1lBrB8lV8imjQ) | [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97), [Mahal Pita](https://open.spotify.com/artist/13KepZHhR84vbrcLPVtmEF), [Dinho](https://open.spotify.com/artist/6T0EkNbGdhqyb5N5uMAI9p), [LR Beats](https://open.spotify.com/artist/76QB68tHPxjNOhncwYE0J7), [Chibatinha](https://open.spotify.com/artist/1ugAp6InWzuA4mPxWz3Pkt) | [Espero Ainda](https://open.spotify.com/album/6oJpnMMgIW48w5wAIQfMax) | 2:35 |
 | 39 | [Mulheres Que Correm](https://open.spotify.com/track/3nHGkfDBuQYixPflte8PSM) | [Bea Duarte](https://open.spotify.com/artist/5LwfyJYVJBnqzbueSiWQqe) | [Mulheres Que Correm](https://open.spotify.com/album/5ajBCpB4gYmVKTmSRIHd8I) | 2:59 |
-| 40 | [Fala na Cara](https://open.spotify.com/track/6KJMjyq2z5ngUgOn6h4AJM) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [Fala na Cara](https://open.spotify.com/album/141aZTogq1HRsyvY9sYgNB) | 3:05 |
+| 40 | [FALA NA CARA](https://open.spotify.com/track/6KJMjyq2z5ngUgOn6h4AJM) | [BAKA](https://open.spotify.com/artist/5LTxdV6qfcrjaJfjKkZu3o), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [FALA NA CARA](https://open.spotify.com/album/141aZTogq1HRsyvY9sYgNB) | 3:05 |
 | 41 | [Te Ver Sorrindo](https://open.spotify.com/track/6kHVVpIi9ISqALhgPfH5LD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Afetropia](https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc) | 2:37 |
 | 42 | [Midas](https://open.spotify.com/track/1Adaje7vCpt4qKaF5YfUb3) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0) | [Midas](https://open.spotify.com/album/3MHN5j12HKAm8ZKujTRaVL) | 3:34 |
 | 43 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 78 | [MUITA BAD pouca idade](https://open.spotify.com/track/459PsIi4TO1buNPxyuTWa4) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [MUITA BAD pouca idade](https://open.spotify.com/album/4l9naBe0iq14BJEmi2ItLw) | 3:08 |
 | 79 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Desculpa por Eu Não Te Amar](https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z) | 3:06 |
 
-Snapshot ID: `MCwwZGNlYWFiZmZiZjc1Y2Q1MzE4NjFlMzk4NmUxYWVlZDc0ZDAxOTg4`
+Snapshot ID: `MCw3ZDc5NTgyMDU3NGMzMGQwZmFhMGFkMGEwOGFiN2Y4ODVmM2M0OGQ1`

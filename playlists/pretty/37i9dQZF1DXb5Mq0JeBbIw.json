@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 456,
+  "num_followers": 505,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDI1NDhkMjJkOGRiYWU4MGNhNGI0YTNmNDZlMWFkYjQxNDI3Zjhi",
+  "snapshot_id": "MCxiZTBjNmI5ODI5ZmIxM2FhODJiM2JkYmY4ZWU4MDFkYzFiZGJiNDNk",
   "tracks": [
     {
       "added_at": "2023-02-10 06:37:00",
@@ -451,18 +451,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Can I Be Him (Acoustic Live Version)",
-        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
+        "name": "Mama (Acoustic)",
+        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Can I Be Him - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+      "duration_ms": 192277,
+      "name": "Mama - Acoustic",
+      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -483,22 +487,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Mama (Acoustic)",
-        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
+        "name": "Can I Be Him (Acoustic Live Version)",
+        "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 192277,
-      "name": "Mama - Acoustic",
-      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
+      "duration_ms": 305160,
+      "name": "Can I Be Him - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -681,30 +681,6 @@
       "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
     },
     {
-      "added_at": "2023-06-23 11:57:00",
-      "album": {
-        "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
-        "url": "https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 145521,
-      "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
-      "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
-    },
-    {
       "added_at": "2023-02-10 06:37:00",
       "album": {
         "name": "Chasing Cars (Acoustic)",
@@ -735,6 +711,30 @@
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
+    },
+    {
+      "added_at": "2023-06-23 11:57:00",
+      "album": {
+        "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
+        "url": "https://open.spotify.com/album/32PuH9hW02uz2iQLCKmXTv"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 145521,
+      "name": "Can\u2019t Forget You (feat. James Blunt) - Acoustic",
+      "url": "https://open.spotify.com/track/00REq7wkCPg0Cv4uLHUZ25"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
       "artists": [
         {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
+      "duration_ms": 230440,
+      "name": "This Is What It Takes",
+      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 230440,
-      "name": "This Is What It Takes",
-      "url": "https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg"
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/3EYPZf77N4PKCYbKpJAK7A"
     },
     {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
+    },
+    {
       "added_at": "2023-03-14 14:57:00",
       "album": {
         "name": "1979",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'm Sure He Loves You",
-        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "I'm Sure He Loves You",
-      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Be Here Now",
         "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 219133,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'm Sure He Loves You",
+        "url": "https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "I'm Sure He Loves You",
+      "url": "https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/2tdf8754oMOspLX4s4XAVV"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/78gNozh0NmyIMgpSOGX7Fz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Find You (Acoustic)",
         "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 195173,
       "name": "Find You - Acoustic",
       "url": "https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 245555,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        }
+      ],
+      "duration_ms": 236094,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Dancing (Mumbai Wedding)",
         "url": "https://open.spotify.com/album/4P5IZSjC7cXqXnS0CYhNhg"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 252346,
       "name": "Mirou",
       "url": "https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Wonderwall",
-        "url": "https://open.spotify.com/album/5dqiCzCXC1zrV6H6RDoLKe"
-      },
-      "artists": [
-        {
-          "name": "Ryan Innes",
-          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
-        }
-      ],
-      "duration_ms": 236094,
-      "name": "Wonderwall",
-      "url": "https://open.spotify.com/track/4b6ru8IDPaVNw4ccHjYOSg"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "I'm On Fire",
         "url": "https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f"
       },
@@ -1659,18 +1643,34 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "In Hindsight",
-        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
       },
       "artists": [
         {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 138220,
-      "name": "I don't mind if you don't mind (draft)",
-      "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
+      "duration_ms": 272680,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "When the Party's Over",
+        "url": "https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ"
     }
   ],
   "unique_name": "Soft Morning",

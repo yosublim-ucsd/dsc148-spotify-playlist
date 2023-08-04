@@ -1,12 +1,12 @@
 {
   "description": "You know em, you love em, these are indie pop hits.  Cover: Steve Lacy. ",
-  "num_followers": 3966,
+  "num_followers": 4144,
   "original_name": "Indie Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg3MzM4MzczZTY4ZGZiY2ZkMGM0ZDcyZTYxOWE0Nzk1ZGVhNDY0",
+  "snapshot_id": "MCwxYWI4ZTRiYWVhZjE3NjIxMTNjMTJjNjMwMTkxZDgwYjlmYTc3MjVj",
   "tracks": [
     {
       "added_at": "2023-07-10 22:39:32",
@@ -303,6 +303,22 @@
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "added_at": "2023-08-03 13:13:30",
+      "album": {
+        "name": "Faye Webster",
+        "url": "https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "I Know You",
+      "url": "https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o"
     },
     {
       "added_at": "2023-07-10 22:39:32",
@@ -1619,54 +1635,6 @@
       "duration_ms": 160000,
       "name": "Chinese New Year",
       "url": "https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k"
-    },
-    {
-      "added_at": "2023-07-10 22:39:32",
-      "album": {
-        "name": "Fresh Air",
-        "url": "https://open.spotify.com/album/6Jd5SAg6TVeYlXIu5F7Ia8"
-      },
-      "artists": [
-        {
-          "name": "HOMESHAKE",
-          "url": "https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u"
-        }
-      ],
-      "duration_ms": 155527,
-      "name": "Every Single Thing",
-      "url": "https://open.spotify.com/track/4lpHw4twMvrg0pjut49DZz"
-    },
-    {
-      "added_at": "2023-07-10 22:39:32",
-      "album": {
-        "name": "Skiptracing",
-        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
-      },
-      "artists": [
-        {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
-    },
-    {
-      "added_at": "2023-07-10 22:39:32",
-      "album": {
-        "name": "Cat Heaven",
-        "url": "https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw"
-      },
-      "artists": [
-        {
-          "name": "Roy Blair",
-          "url": "https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67"
-        }
-      ],
-      "duration_ms": 313663,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"
     }
   ],
   "unique_name": "Indie Pop Hits",

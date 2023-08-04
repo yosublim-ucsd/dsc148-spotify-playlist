@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=HOFOxELGRXucmtRYYaKkyg">Tyla</a>
 
-237 songs - 12 hr 42 min
+238 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Sungba](https://open.spotify.com/track/3KO1322zrWwGa8TWQDBFvg) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 3:10 | 2022-05-05 | 2023-05-05 |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-05-04 |  |
 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 | 2020-11-27 | 2022-05-06 |
+| [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/track/00pWq1F4xyqPWPeo0hiUu8) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [BGRZ](https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz) | [Talk 2 Me \(feat\. BGRZ\)](https://open.spotify.com/album/11JX0v0Diz3q0FUpB12Q1b) | 2:53 | 2023-08-03 |  |
 | [Talk Ni Cheap](https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Talk Ni Cheap](https://open.spotify.com/album/3xvkQ8HoEKB5cMklZTB6UW) | 3:11 | 2023-05-19 | 2023-05-27 |
 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 | 2022-05-05 | 2022-11-19 |
 | [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-19 |  |
@@ -216,7 +217,7 @@
 | [The One \(Chop Life\)](https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [The One \(Chop Life\)](https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl) | 3:16 | 2023-05-04 |  |
 | [This Year](https://open.spotify.com/track/72yBgL4r5tmrPnvDtBLqOI) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [This Year](https://open.spotify.com/album/5ZnsRZ5JTSOMDaQ9HjAufJ) | 3:10 | 2021-05-03 | 2022-05-06 |
 | [Thug Love](https://open.spotify.com/track/17uovpjxgRlZOAriKRsgfE) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Thug Love](https://open.spotify.com/album/3Bcj3vvXd5w0eEEiIw5nJO) | 2:14 | 2022-12-02 | 2023-05-05 |
-| [Tight](https://open.spotify.com/track/5SuIoPKlTWkfj2npFdlVRZ) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Tight](https://open.spotify.com/album/0h9SYhqQWX3Bqn5c1F6kiQ) | 3:20 | 2023-07-14 |  |
+| [Tight](https://open.spotify.com/track/5SuIoPKlTWkfj2npFdlVRZ) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Tight](https://open.spotify.com/album/0h9SYhqQWX3Bqn5c1F6kiQ) | 3:20 | 2023-07-14 | 2023-08-04 |
 | [Tight Condition](https://open.spotify.com/track/1sDAPYzFftbXW5fhMl0oKI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Continental Playlist](https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ) | 2:43 | 2023-05-04 |  |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2023-05-04 | 2023-06-28 |
 | [Too Early](https://open.spotify.com/track/4qZ8vQpRFqS15RGdE8skco) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Too Early](https://open.spotify.com/album/2ysvTBST3QhzfQWaAmSKLS) | 3:26 | 2023-05-04 | 2023-06-17 |

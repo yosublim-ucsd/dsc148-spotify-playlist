@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> La playlist che è come andare ai concerti\. SPEAKEASY in cover questa settimana!
+> La playlist che è come andare ai concerti\. CASX in cover questa settimana!
 
-511 songs - 1 day 4 hr 22 min
+513 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Habadash](https://open.spotify.com/track/36eksU9dcmYrFIifuZs4MU) | [V/Z](https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz), [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy), [Cathy Lucas](https://open.spotify.com/artist/4zpSU9qVWKxjzruKmoo71D) | [Haberdash](https://open.spotify.com/album/5CsVJEpeVIsaJ8WgvrxW8G) | 4:09 | 2023-06-01 | 2023-06-30 |
 | [Hail the Proper Karl](https://open.spotify.com/track/2KdBqtc2PFm0ptkGcEvbKk) | [Clever Square](https://open.spotify.com/artist/5Nx0K1JaqMJwJYAi2ZgKK2) | [Secret Alliance](https://open.spotify.com/album/6uFxFzfUjAWtesqxjz5dPd) | 2:24 | 2022-05-09 | 2022-06-03 |
 | [Hamsik](https://open.spotify.com/track/4KR8wGG7Z4shKUROWnafVM) | [Materazi Future Club](https://open.spotify.com/artist/3r3GpqKznuMo0r3ClPyrx2) | [Formazione Titolare](https://open.spotify.com/album/3AIJNEf2OJddIsxmBxX9I0) | 2:34 | 2022-12-01 | 2022-12-16 |
+| [HEATWAVES](https://open.spotify.com/track/572YsanwR4obpa6xq8J4Yu) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [HEATWAVES](https://open.spotify.com/album/6NAuR8JcZBwqxlxqEfqkoz) | 3:17 | 2023-08-03 |  |
 | [Heavy Metallo](https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Heavy Metallo](https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM) | 2:54 | 2023-04-14 | 2023-05-10 |
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-12 | 2022-07-15 |
 | [HEY NOI](https://open.spotify.com/track/3zC7HuEPnmhtDvIEFgtkwZ) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [HEY NOI](https://open.spotify.com/album/5rg0nCPqqkiaHL6QXpTF4K) | 2:45 | 2023-06-22 | 2023-07-28 |
@@ -449,6 +450,7 @@
 | [Superhero Dopeproof](https://open.spotify.com/track/6eQF2PeXF6zKjbm9w1JJzX) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superhero Dopeproof](https://open.spotify.com/album/7DTaDXygAePDZ4KuZI6AER) | 4:36 | 2023-03-23 | 2023-04-21 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-12 | 2022-12-16 |
 | [Sushi](https://open.spotify.com/track/2ph0Ra4BfxsYsbWckE1D0D) | [MILANOSPORT](https://open.spotify.com/artist/5Om07vNuCtNPdkHuYKkSNl) | [Sushi](https://open.spotify.com/album/1MwapmqKPVKshkWBJNvnfj) | 2:39 | 2023-06-29 | 2023-07-21 |
+| [Tangram](https://open.spotify.com/track/0xJNFB2ievxIj1RotyCVqU) | [Stegosauro](https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R) | [Stegosauro](https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N) | 3:20 | 2023-08-03 |  |
 | [Tatuaggi](https://open.spotify.com/track/1Dffk5dsW3B9DPuTsU2XmB) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [Tatuaggi](https://open.spotify.com/album/1GP0BAuJtxI9sCobdTSEsp) | 2:42 | 2022-07-29 | 2022-08-26 |
 | [TDC \(BoJack\)](https://open.spotify.com/track/57jUUESGFDZlaJ6IZrYCCp) | [HOOD](https://open.spotify.com/artist/5IbmWnYEykGQK5N8pUn8ng), [Sillage](https://open.spotify.com/artist/5tQCbzDeBy8NlI90GKQdf6) | [TDC \(BoJack\)](https://open.spotify.com/album/7hd7x8eej4bWiUMAxHK7oM) | 2:37 | 2022-07-07 | 2022-09-09 |
 | [Terra bruciata](https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa) | [Maura](https://open.spotify.com/artist/637853CZ5FohFDeBONa2D7) | [Terra bruciata](https://open.spotify.com/album/5SdBpJHfqcUcg03ZXZ0FpI) | 3:13 | 2023-03-09 | 2023-05-19 |

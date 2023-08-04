@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,455 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,564 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 71 | [My One And Only Love](https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 5:08 |
 | 72 | [If I Were A Bell \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [The Legendary Prestige Quintet Sessions](https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm) | 8:20 |
 | 73 | [I Didn't Know What Time It Was](https://open.spotify.com/track/1lAoG1TBej7gYJQ3UHUxjT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 10:02 |
-| 74 | [Stella By Starlight \- Remaster/2004](https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:55 |
-| 75 | [I Can't Get Started \- Instrumental](https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:57 |
+| 74 | [I Can't Get Started \- Instrumental](https://open.spotify.com/track/5OJw2p5rD4DwtGOCC438De) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 4:57 |
+| 75 | [Stella By Starlight \- Remaster/2004](https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:55 |
 | 76 | [A Child Is Born](https://open.spotify.com/track/51Dhv7qnslWTR3ixUzo2oz) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Still Digs Bill Evans](https://open.spotify.com/album/1NLGIv3lw2irzjONDrU28K) | 7:34 |
 | 77 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 |
 | 78 | [Lullaby of Birdland](https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano In The Background \(Expanded Edition\)](https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo) | 5:22 |
 | 79 | [Have You Met Miss Jones?](https://open.spotify.com/track/1e9NygW5Cd1T37OmQOz3ro) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Red Callender](https://open.spotify.com/artist/25l7ALS0IGoUzvsfYtcIRi), [Bill Douglass](https://open.spotify.com/artist/1shwhY3Rqo1z8BPnTLWpPN) | [The Best Of Art Tatum](https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms) | 4:45 |
-| 80 | [The Song Is You](https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:13 |
-| 81 | [Don't Blame Me \(Retake 1\)](https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 7:04 |
-| 82 | [Exactly Like You](https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:00 |
-| 83 | [They Can't Take That Away From Me](https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:18 |
+| 80 | [Don't Blame Me \(Retake 1\)](https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Criss\-Cross \(Expanded Edition\)](https://open.spotify.com/album/0QTVbs5gj4pbv3Je4fJ3VI) | 7:04 |
+| 81 | [Exactly Like You](https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:00 |
+| 82 | [They Can't Take That Away From Me](https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:18 |
+| 83 | [The Song Is You](https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:13 |
 | 84 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 |
 | 85 | [Blue Moon](https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [New Faces \- New Sounds, Wynton Kelly Piano Interpretations](https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu) | 3:11 |
 | 86 | [Beautiful Love \(Take 1\)](https://open.spotify.com/track/4DLOOs0FmQeEO6BWVxEwpX) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [Stars Fell On Alabama](https://open.spotify.com/track/21YUZQmqekadSlCCZpawCH) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 3:11 |
 | 100 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 
-Snapshot ID: `MCxjYzM2ODQ2N2YzOGU1ZWVjYjM1MjUyZTVjM2Q4M2I1YzJlZjM4OTkz`
+Snapshot ID: `MCwxNzNmNDY4YTRiOTllYWFlY2VkMWU1ZTBjZWVlOTViMzc5NTFmNmQ2`

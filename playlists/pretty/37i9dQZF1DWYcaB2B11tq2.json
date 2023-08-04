@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 375709,
+  "num_followers": 375906,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2U5Y2Q5ZTcwZWE3Yjc4Zjc4MGI3ODUzZjdkYmVjYWEzMDJlNzc5",
+  "snapshot_id": "MCwxYjUwYjg2OTk1ZjliZDQ3OTcxNWExMjMyODk5MGExN2VhNzllNWVk",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Incontrolable Amor",
-        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 333120,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "No M\u00e1s",
         "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 206865,
       "name": "No M\u00e1s",
       "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Incontrolable Amor",
+        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 333120,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Speak Revival",
-        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 367760,
-      "name": "Fullness",
-      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/5g3M3W1QqI4YYTFLjjnSfa"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 230005,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/7ziyHwHIJ81y5uaw8la5q6"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Speak Revival",
+        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 367760,
+      "name": "Fullness",
+      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
     },
     {
       "added_at": "2021-05-21 19:19:27",

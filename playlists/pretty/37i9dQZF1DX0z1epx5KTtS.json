@@ -1,31 +1,15 @@
 {
-  "description": "African dance party music from Paris to Abidjan. Photo : Mike Alabi",
-  "num_followers": 72267,
+  "description": "African dance party music from Paris to Abidjan. Photo : Serge Beynaud",
+  "num_followers": 72286,
   "original_name": "Coup\u00e9 D\u00e9cal\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWNhOWY5NDFlOWJlZDIzMmFhODllYWUzZmIwYTY2MzQ1OWIxMWNk",
+  "snapshot_id": "MCw1NTRlZWE2NDNjNTg0NjBlMjBhZTlmNGNmNzJhNjIxZGFkMDkxMGZj",
   "tracks": [
     {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "C'PAS L'AMOUR ON VA MANGER",
-        "url": "https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ"
-      },
-      "artists": [
-        {
-          "name": "Mike Alabi",
-          "url": "https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM"
-        }
-      ],
-      "duration_ms": 238208,
-      "name": "C'PAS L'AMOUR ON VA MANGER",
-      "url": "https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "M\u00f4k\u00f4d\u00f4",
         "url": "https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD"
@@ -41,23 +25,7 @@
       "url": "https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "M\u00f4g\u00f4 Fariman",
         "url": "https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl"
@@ -73,23 +41,7 @@
       "url": "https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Dibango Dibanga",
-        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
-      },
-      "artists": [
-        {
-          "name": "Bello Falcao",
-          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
-        }
-      ],
-      "duration_ms": 180321,
-      "name": "Dibango Dibanga",
-      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Soci\u00e9t\u00e9 Suspecte",
         "url": "https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM"
@@ -109,7 +61,39 @@
       "url": "https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Dibango Dibanga",
+        "url": "https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX"
+      },
+      "artists": [
+        {
+          "name": "Bello Falcao",
+          "url": "https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R"
+        }
+      ],
+      "duration_ms": 180321,
+      "name": "Dibango Dibanga",
+      "url": "https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "L'oracle",
         "url": "https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc"
@@ -125,7 +109,7 @@
       "url": "https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Do Do Do",
         "url": "https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT"
@@ -145,39 +129,23 @@
       "url": "https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "O'cho",
-        "url": "https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM"
+        "name": "C'PAS L'AMOUR ON VA MANGER",
+        "url": "https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ"
       },
       "artists": [
         {
-          "name": "Fior 2 Bior",
-          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+          "name": "Mike Alabi",
+          "url": "https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM"
         }
       ],
-      "duration_ms": 195134,
-      "name": "O'cho",
-      "url": "https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW"
+      "duration_ms": 238208,
+      "name": "C'PAS L'AMOUR ON VA MANGER",
+      "url": "https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Tchoutchou Kpangor",
-        "url": "https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07"
-      },
-      "artists": [
-        {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
-        }
-      ],
-      "duration_ms": 223636,
-      "name": "Tchoutchou Kpangor",
-      "url": "https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "C'est dos\u00e9",
         "url": "https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5"
@@ -193,39 +161,23 @@
       "url": "https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
-        "name": "1 \u00e0 1",
-        "url": "https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy"
+        "name": "O'cho",
+        "url": "https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM"
       },
       "artists": [
         {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
         }
       ],
-      "duration_ms": 212000,
-      "name": "1 \u00e0 1",
-      "url": "https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY"
+      "duration_ms": 195134,
+      "name": "O'cho",
+      "url": "https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
-      "album": {
-        "name": "Mon gar",
-        "url": "https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe"
-      },
-      "artists": [
-        {
-          "name": "Yilim",
-          "url": "https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Mon gar",
-      "url": "https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44"
-    },
-    {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Abidjan Paris",
         "url": "https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2"
@@ -261,7 +213,39 @@
       "url": "https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Tchoutchou Kpangor",
+        "url": "https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07"
+      },
+      "artists": [
+        {
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+        }
+      ],
+      "duration_ms": 223636,
+      "name": "Tchoutchou Kpangor",
+      "url": "https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "1 \u00e0 1",
+        "url": "https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "1 \u00e0 1",
+      "url": "https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Kabato",
         "url": "https://open.spotify.com/album/1T1kSNDG0W34MKT9E2eY6I"
@@ -281,7 +265,7 @@
       "url": "https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "On me guette",
         "url": "https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1"
@@ -297,7 +281,23 @@
       "url": "https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
+      "album": {
+        "name": "Mon gar",
+        "url": "https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe"
+      },
+      "artists": [
+        {
+          "name": "Yilim",
+          "url": "https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Mon gar",
+      "url": "https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44"
+    },
+    {
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Rein",
         "url": "https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Kiniwara",
         "url": "https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Le Secret",
         "url": "https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Ils Sont O\u00f9?",
         "url": "https://open.spotify.com/album/03HpoLkthTOHlr8pLLD42l"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3uNyP0B7IietcPg91GXqAT"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "\u00c9chauffement (Remix)",
         "url": "https://open.spotify.com/album/5oBjhFTdm6JAMsJfCxY1dR"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/7FrQ65IHw0NCJOPsm2mAML"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Rhythms of Zamunda (Music Inspired by the Amazon Original Movie: Coming 2 America)",
         "url": "https://open.spotify.com/album/3OelY3WvwTxAQGBGgdxEPn"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/5g9YSheBayQuouTCHXDJt6"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "C'est g\u00e2t\u00e9",
         "url": "https://open.spotify.com/album/0WAvLhOtVWCj7DiRtSi5MX"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5lFhAaksXwDqd0SCj9pK5V"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Allumez",
         "url": "https://open.spotify.com/album/1Svwz2URG49O0mj9XsrhVN"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/4b8vP4Nxy9RQF8ESYAtpyb"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Cocktail",
         "url": "https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Mademoiselle",
         "url": "https://open.spotify.com/album/2vA35OUTpM5gVmTPnTGSnC"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Chauffer le moteur",
         "url": "https://open.spotify.com/album/57EyQk4TpucFXj8yeMdCX3"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "CHINOISERIE",
         "url": "https://open.spotify.com/album/79ss8yAYY3VfYKJn3Nm8wD"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/5kH3FDNKaeiABMm8lUlIWq"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Best Of DJ Arafat",
         "url": "https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Sol\u00e9 Mol\u00e9",
         "url": "https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "L'ARGENT",
         "url": "https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Amour multiprise",
         "url": "https://open.spotify.com/album/34l6OhPm91L7kZgJUql3d9"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "X plus",
         "url": "https://open.spotify.com/album/40eJ0j3pOoezKyyGK6ZBvV"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Ketebo",
         "url": "https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Sur le beat",
         "url": "https://open.spotify.com/album/0vrSnFVV7uZ9AzQXpNi5Zz"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/2Mz0CKrmFgbLxfV44EbOcI"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Ambiance Mopacho",
         "url": "https://open.spotify.com/album/5QgIL8XeuoJgyqUeXEx1g6"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/2M4f4coh903vjprofqQcrW"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Blocage",
         "url": "https://open.spotify.com/album/5Ka7VNTZwPq9OslyBiS3Fu"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/1HliCFmp6TxhvMewIJlTs6"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Grimper",
         "url": "https://open.spotify.com/album/0CBbnnVg6MP4rtmHH8ocBf"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/1MhIUr4BPM6djNmuyIRmFm"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Mak\u00e9l\u00e9l\u00e9",
         "url": "https://open.spotify.com/album/2Q6UrODqAI7BZQuXPoSnuW"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/3NwMIcrPVesx13KiJoPtc3"
     },
     {
-      "added_at": "2023-07-27 22:00:00",
+      "added_at": "2023-08-03 22:01:00",
       "album": {
         "name": "Agama",
         "url": "https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l"

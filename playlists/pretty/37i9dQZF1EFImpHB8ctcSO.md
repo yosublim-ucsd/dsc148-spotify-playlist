@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 51 | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/track/4vm2JPCMQIc392b7DUnAPL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Can't You Tell? \(30 Days, 30 Songs\)](https://open.spotify.com/album/7oMCBEiG0ewZaODeskssLR) | 3:39 |
 | 52 | [Phoenix](https://open.spotify.com/track/3nci5qfpgQmf01JNKyMhtp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:56 |
 | 53 | [Amateur](https://open.spotify.com/track/0IsfUj7P0sMCCCa7yG2NPY) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:54 |
-| 54 | [That's How I Knew This Story Would Break My Heart](https://open.spotify.com/track/5L8e2K92EuSyhif3QKQUtU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 4:19 |
-| 55 | [Just Like Anyone](https://open.spotify.com/track/60rHs32xj50cUrKWrCpp8v) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 1:22 |
+| 54 | [Just Like Anyone](https://open.spotify.com/track/60rHs32xj50cUrKWrCpp8v) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 1:22 |
+| 55 | [That's How I Knew This Story Would Break My Heart](https://open.spotify.com/track/5L8e2K92EuSyhif3QKQUtU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 4:19 |
 | 56 | [Burn It Out](https://open.spotify.com/track/07I9CpmF7RBnKX4Gk9osqO) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 2:57 |
 | 57 | [Little Tornado](https://open.spotify.com/track/0ZQQCZKXk16fOyN7u1JnKF) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:23 |
 | 58 | [Suicide is Murder](https://open.spotify.com/track/3b3gGKj8NbZXr1saznk7tz) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:14 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 62 | [Disappeared](https://open.spotify.com/track/5Qp2RRwtmHEqR0oiCYuMti) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:24 |
 | 63 | [Stranger Into Starman](https://open.spotify.com/track/6yVTxxJyiUzHrqka3poTuZ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 1:31 |
 | 64 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
-| 65 | [Crazytown](https://open.spotify.com/track/2sEqiUBNSaOqQ32g7zp6KC) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:21 |
-| 66 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
+| 65 | [Little Bombs](https://open.spotify.com/track/4TSnXIBL47e8N5PXhivcHv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:49 |
+| 66 | [Crazytown](https://open.spotify.com/track/2sEqiUBNSaOqQ32g7zp6KC) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:21 |
 | 67 | [Soon Enough](https://open.spotify.com/track/6T5StNKrcVKGt1DMb9TKn3) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 3:59 |
 | 68 | [I Could Get Used to This](https://open.spotify.com/track/6qskiiPakXAiR3j0T6YLfv) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:04 |
 | 69 | [Real Bad News](https://open.spotify.com/track/2098UfrA6DC6aXZdmWWecs) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:53 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `MjgxODM4MTAsMDAwMDAwMDA0ZmFhOGFkNWQ3M2RiZWExNDQ1Y2U1NTgzZWQ3MWRkZg==`
+Snapshot ID: `MjgxODUyNTAsMDAwMDAwMDAyZDUwMzA2YmVjYjg1YzYxYjU0NWVhZTg0OGEwZDIyZg==`

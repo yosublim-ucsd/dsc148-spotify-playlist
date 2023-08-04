@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "EXTINCTION",
+        "url": "https://open.spotify.com/album/54G3JbRS2eMXGs7Jsy35gL"
+      },
+      "artists": [
+        {
+          "name": "CLOUD ZERO",
+          "url": "https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "EXTINCTION",
+      "url": "https://open.spotify.com/track/73BvUklH7Rcrhb0Hcr3gly"
+    },
+    {
+      "album": {
         "name": "EYE",
         "url": "https://open.spotify.com/album/1nzT6TLIT8QmZyrwl7sNfM"
       },
@@ -2181,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Karmic Effect",
+        "url": "https://open.spotify.com/album/2vu5m4qJmDHttnfWJrUqfr"
+      },
+      "artists": [
+        {
+          "name": "Maison2500",
+          "url": "https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140133,
+      "name": "Ketamine Chic",
+      "url": "https://open.spotify.com/track/0G6aak7tRrd7g4L66IrSLq"
+    },
+    {
+      "album": {
         "name": "KILLKA (Slowed & Sped Up)",
         "url": "https://open.spotify.com/album/05awX7x1jO8EdTa4KgdLPA"
       },
@@ -2425,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Look Twice!",
+        "url": "https://open.spotify.com/album/6LdLajtFJEi1KM5fzjMJ7j"
+      },
+      "artists": [
+        {
+          "name": "Brutei",
+          "url": "https://open.spotify.com/artist/3HYuXYKDa60x7qgnYTzHiw"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123809,
+      "name": "Look Twice!",
+      "url": "https://open.spotify.com/track/6gh0V6hYcMjeTu1mdGXRjO"
+    },
+    {
+      "album": {
         "name": "Lord Forgive Me",
         "url": "https://open.spotify.com/album/2Eca7jQMiSWHWCI4LiAmpj"
       },
@@ -2552,7 +2606,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 196437,
       "name": "L\u00f8rd\u00d8fTheDead",
       "url": "https://open.spotify.com/track/3DOMBdXxnFnbeM7dtSOOq3"
@@ -2578,6 +2632,24 @@
       "duration_ms": 123740,
       "name": "MAD!",
       "url": "https://open.spotify.com/track/0CGLVrRC9afMSY0Qai1wgv"
+    },
+    {
+      "album": {
+        "name": "Make It Boom",
+        "url": "https://open.spotify.com/album/0svUbzZ908kF2f6AcAs8j4"
+      },
+      "artists": [
+        {
+          "name": "LeVeon Bell",
+          "url": "https://open.spotify.com/artist/7DNfpmCwtLVE6RVFYWaN5w"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140595,
+      "name": "Make It Boom",
+      "url": "https://open.spotify.com/track/4skAu73SkZYXC7qpDn0fnh"
     },
     {
       "album": {
@@ -3977,6 +4049,24 @@
     },
     {
       "album": {
+        "name": "SHORT CIRCUIT",
+        "url": "https://open.spotify.com/album/4q6mDmOB3YhI6xrNMQKFW8"
+      },
+      "artists": [
+        {
+          "name": "MONOWIRE",
+          "url": "https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "SHORT CIRCUIT",
+      "url": "https://open.spotify.com/track/2uG7QUtz7owCcQr84JD7fG"
+    },
+    {
+      "album": {
         "name": "Rok Ali and the Addiction",
         "url": "https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST"
       },
@@ -4254,6 +4344,24 @@
       "duration_ms": 184363,
       "name": "SOURCEOFSTATIC",
       "url": "https://open.spotify.com/track/7zxFUBW9GbRNCynZFZozus"
+    },
+    {
+      "album": {
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/063CgIGxdjzxzvi9V0LIbG"
+      },
+      "artists": [
+        {
+          "name": "Woodboy Gee",
+          "url": "https://open.spotify.com/artist/1ZV2KmW1PKg82oqHxtAzbA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157032,
+      "name": "South Beach",
+      "url": "https://open.spotify.com/track/1MHE7zMr9iSvlMUXPppiA6"
     },
     {
       "album": {

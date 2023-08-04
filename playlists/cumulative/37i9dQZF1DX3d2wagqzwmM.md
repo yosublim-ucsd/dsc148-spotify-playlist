@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-323 songs - 17 hr 25 min
+324 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Revolution](https://open.spotify.com/track/4YtVNUrDjKbdrpkreAaz17) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Revolution](https://open.spotify.com/album/19EBg9uVXWeTh3T0MzAj7X) | 2:46 | 2023-03-16 |  |
 | [Ride With Me \(feat\. Kid Ink\) \- Blasterjaxx & Tungevaag Remix](https://open.spotify.com/track/5A72ceCUwcsMUqkzd5t5Nu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Ride With Me \(feat\. Kid Ink\) \[Blasterjaxx & Tungevaag Remix\]](https://open.spotify.com/album/4aelIqUCHvwZEigEXvL6SI) | 2:56 | 2022-04-14 | 2023-06-22 |
 | [Risk It All](https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Risk It All](https://open.spotify.com/album/72DWqm09UUQnBiKuvCU41H) | 3:20 | 2022-04-14 | 2022-07-28 |
+| [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 | 2023-08-03 |  |
 | [Rollin Up](https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Van Heden](https://open.spotify.com/artist/7ARg1U4yL7yEnaE3pf1gN0), [A\-Trick](https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW) | [Rollin Up](https://open.spotify.com/album/3THVd9cRFXnUKP3JLph0ZP) | 2:39 | 2023-01-19 | 2023-02-20 |
 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2023-07-27 |  |
 | [Run Away](https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Run Away](https://open.spotify.com/album/3gZDrYqECHtsaX6DI7QfRF) | 2:36 | 2022-04-14 | 2022-09-16 |
@@ -260,7 +261,7 @@
 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 | 2023-01-26 |  |
 | [SICK](https://open.spotify.com/track/5XFf7KH7vlpUck2XNHH3oY) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [SICK](https://open.spotify.com/album/25uoj4CZuISGnHNDQoNCjc) | 3:03 | 2022-07-28 |  |
 | [Sign Or Warning](https://open.spotify.com/track/32nZczHu0A8tFmqdwTsAOY) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Sign Or Warning](https://open.spotify.com/album/0dJxgVuRCp9SEtVPQRnU97) | 3:24 | 2022-04-14 | 2022-06-26 |
-| [Silence \- KAAZE Mix](https://open.spotify.com/track/3b4YKOb5I16PneRNGiy5bR) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Silence \(KAAZE Mix\)](https://open.spotify.com/album/3UxLfS40JbI3AFB3btzlz7) | 2:54 | 2022-07-28 |  |
+| [Silence \- KAAZE Mix](https://open.spotify.com/track/3b4YKOb5I16PneRNGiy5bR) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Silence \(KAAZE Mix\)](https://open.spotify.com/album/3UxLfS40JbI3AFB3btzlz7) | 2:54 | 2022-07-28 | 2023-08-04 |
 | [Silence \- KAAZE Mix](https://open.spotify.com/track/573rHwoPTl0uM820pXzJ7x) | [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Silence \(KAAZE Mix\)](https://open.spotify.com/album/061GAGaUcj73yLTTJErrke) | 2:54 | 2022-04-14 | 2022-07-29 |
 | [Skydance](https://open.spotify.com/track/0c5nqQNIH07Lh16AOjqEPQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Skydance](https://open.spotify.com/album/7Dur0wY6jLRi0anvrDNnxu) | 2:46 | 2022-04-14 | 2023-02-03 |
 | [Sloopkogel](https://open.spotify.com/track/58gWWPOLa3qYsWX2Hl1KRk) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Sloopkogel](https://open.spotify.com/album/3B33KBdNkcNBndG3T9Ir2K) | 3:05 | 2023-03-02 |  |

@@ -4,7 +4,7 @@
 
 > The best in Black music from Ireland\. Cover: Soulé
 
-123 songs - 6 hr 25 min
+124 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Talk Of The Town](https://open.spotify.com/track/549CKBALykqVi1XVPw9Fe6) | [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk Of The Town](https://open.spotify.com/album/2k4VLHICVK1SspHBWFhxeo) | 3:06 | 2022-03-17 | 2023-01-27 |
 | [Talk Of The Town](https://open.spotify.com/track/5UDz6sn2l8wxb8UiLwPuQi) | [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk Of The Town](https://open.spotify.com/album/2phDAPFkN9NhkOPaZmK6Nm) | 3:06 | 2022-03-17 |  |
 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 | 2021-10-26 | 2022-03-17 |
-| [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 | 2021-10-26 |  |
+| [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 | 2022-03-17 |  |
+| [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 | 2021-10-26 | 2023-08-04 |
 | [Taurus \- Mixed](https://open.spotify.com/track/69RsYSwSdKPghCZzBbt9ki) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [DJ\-Kicks: Jayda G](https://open.spotify.com/album/454VGat5iW01CvFYy8FCIZ) | 2:14 | 2021-10-26 | 2022-03-17 |
 | [The Florist](https://open.spotify.com/track/6XWtPJdsl08S7g5h23PCX7) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 3:21 | 2021-10-26 | 2022-03-17 |
 | [Tiger Woods](https://open.spotify.com/track/3HHBP8kxvTdtVPLtJK3hr3) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Demon Time Freestyle](https://open.spotify.com/album/7BuF8m5k6KLfucwp3T7X9e) | 3:51 | 2022-03-17 | 2022-07-29 |

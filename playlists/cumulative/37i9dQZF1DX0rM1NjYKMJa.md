@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Toronto Caribbean Carnival 2023 curated by D' Bandit
 
-344 songs - 18 hr 45 min
+345 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Scrub It Down](https://open.spotify.com/track/67dyt0UQvbHduHRVXddvt7) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Jooking Board Riddim](https://open.spotify.com/album/6194w5QugrwiXzn4OOqJAE) | 3:17 | 2021-08-26 | 2022-02-25 |
 | [Shake \- Remix](https://open.spotify.com/track/6UDBfvDRFXlBuyt0yWGTYz) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Shake \(Remix\)](https://open.spotify.com/album/6ypilXU7oBjXRihF4tzE09) | 3:29 | 2021-08-26 | 2022-02-25 |
 | [Shake The Place](https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Shake The Place](https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm) | 3:47 | 2023-02-21 |  |
-| [Shay'mpempe Amapiano Mix](https://open.spotify.com/track/2zEubbwXFFI7bb3B0etgBf) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3BwYXyhg61oe5XyrGfzJbg), [Ribby De Deejay](https://open.spotify.com/artist/7EZoW1TtCANKJa8r4TlmA9), [Rhino](https://open.spotify.com/artist/5jWLqtFEAW8fVtwGo7gArt) | [Shay'mpempe Amapiano Mix](https://open.spotify.com/album/4jfFgrCgBblCVt5FeZfAlm) | 5:55 | 2023-07-10 |  |
+| [Shay'mpempe \- Amapiano Mix](https://open.spotify.com/track/0s85XRTiQaWh8AUsYbLsg1) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3q8eLo12KCxX4GTdg0rKmc), [Ribby De Deejay](https://open.spotify.com/artist/5dEEE7WHk9fFoftJj0qMAw), [Rhino](https://open.spotify.com/artist/03rDpz3TCm2mNgtJzDXP48) | [Shay'mpempe \(Amapiano Mix\)](https://open.spotify.com/album/6jWvHykPy2gL17a9CWJG58) | 5:49 | 2023-07-10 |  |
+| [Shay'mpempe Amapiano Mix](https://open.spotify.com/track/2zEubbwXFFI7bb3B0etgBf) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3BwYXyhg61oe5XyrGfzJbg), [Ribby De Deejay](https://open.spotify.com/artist/7EZoW1TtCANKJa8r4TlmA9), [Rhino](https://open.spotify.com/artist/5jWLqtFEAW8fVtwGo7gArt) | [Shay'mpempe Amapiano Mix](https://open.spotify.com/album/4jfFgrCgBblCVt5FeZfAlm) | 5:55 | 2023-07-10 | 2023-08-04 |
 | [She Ready](https://open.spotify.com/track/7iMQcJkDfiEF07buHkUZCe) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out) | [Road Bounce Riddim](https://open.spotify.com/album/4sUT7BdvKj38vja03FATG4) | 3:17 | 2023-02-21 | 2023-07-11 |
 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 | 2023-07-10 |  |
 | [So Sweet](https://open.spotify.com/track/02w48ldiaiEY1Sc2Mga6Yt) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [So Sweet](https://open.spotify.com/album/7C3lQxKzE5bnOjb2A6Xrxj) | 3:04 | 2021-08-26 | 2022-07-31 |

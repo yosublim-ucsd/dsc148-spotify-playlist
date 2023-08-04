@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: UNE(\uc73c\ub124))",
-  "num_followers": 865820,
+  "num_followers": 866055,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzJjNDA1NDc2MWVmY2MwMDRlNzllMWQwNWU1NTMzOTU5ODFmOTlj",
+  "snapshot_id": "MCwzOGM2MjVjNDQ2ODAwODM0ZjRjNGY1MmI0YzdmMjgwZWJlMTM0ZTBk",
   "tracks": [
     {
       "added_at": "2023-07-31 16:06:05",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-07-31 16:06:05",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
-    },
-    {
-      "added_at": "2023-07-31 16:06:05",
-      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
+    },
+    {
+      "added_at": "2023-07-31 16:06:05",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 197613,
+      "name": "LOVE COUNTDOWN (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI"
     },
     {
       "added_at": "2023-07-31 16:06:05",

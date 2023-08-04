@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 169828,
+  "num_followers": 169934,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDcyODE2ODY2ODAyMDA2YmYxMWIxNTUzYzg2NTQyZGE3YjczYWZh",
+  "snapshot_id": "MCw2ZTQ2Y2ZiZTlhNzZhZGMzZDA1MWQ2NTE2ZTI1ZWIyNzk2OGM2NDM0",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Paris City Jazz",
-        "url": "https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS"
-      },
-      "artists": [
-        {
-          "name": "Bellaire",
-          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
-        }
-      ],
-      "duration_ms": 343911,
-      "name": "Paris City Jazz",
-      "url": "https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/5Dk6CuF9SdE23YdfJUZLDd"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 157440,
       "name": "Bring The Heat",
       "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Paris City Jazz",
+        "url": "https://open.spotify.com/album/74oUF61TEC97Wbh4y3YsPS"
+      },
+      "artists": [
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        }
+      ],
+      "duration_ms": 343911,
+      "name": "Paris City Jazz",
+      "url": "https://open.spotify.com/track/2HTzzn4hP4PHlX2nLotWF4"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Pearls (SILK Remix)",
         "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Dancing Queen",
-        "url": "https://open.spotify.com/album/4aMPmrlaiwuMxxq57bMFZB"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 174208,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/2ogG50cmJxJ6P8aRnQ8u7s"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Pass Me The Wine Please (My Body)",
-        "url": "https://open.spotify.com/album/14GfAKLoQ5oOKWpC7Qebri"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Pass Me The Wine Please (My Body) - Edit",
-      "url": "https://open.spotify.com/track/2SSKzTxfeLddZau6f6WDem"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Burnin' Up",
         "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 158740,
       "name": "Burnin' Up",
       "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Pass Me The Wine Please (My Body)",
+        "url": "https://open.spotify.com/album/14GfAKLoQ5oOKWpC7Qebri"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Pass Me The Wine Please (My Body) - Edit",
+      "url": "https://open.spotify.com/track/2SSKzTxfeLddZau6f6WDem"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1623,26 +1623,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Say It",
-        "url": "https://open.spotify.com/album/6vH7aziXmsqAO8KL7zOOkB"
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
       },
       "artists": [
         {
-          "name": "Fein Cerra",
-          "url": "https://open.spotify.com/artist/1OkT3YMHuOuDTIKsCJUWSm"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         },
         {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        },
-        {
-          "name": "Mizbee",
-          "url": "https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh"
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/4xac76l55QO0SktrL2iQeY"
+      "duration_ms": 186222,
+      "name": "Assumptions - Jengi Remix",
+      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1667,22 +1663,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Assumptions (Jengi Remix)",
-        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/6vH7aziXmsqAO8KL7zOOkB"
       },
       "artists": [
         {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Fein Cerra",
+          "url": "https://open.spotify.com/artist/1OkT3YMHuOuDTIKsCJUWSm"
         },
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
+        },
+        {
+          "name": "Mizbee",
+          "url": "https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh"
         }
       ],
-      "duration_ms": 186222,
-      "name": "Assumptions - Jengi Remix",
-      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
+      "duration_ms": 148571,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/4xac76l55QO0SktrL2iQeY"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "House Music (The Anthem)",
+        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
+      },
+      "artists": [
+        {
+          "name": "Tom Novy",
+          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
+        }
+      ],
+      "duration_ms": 256043,
+      "name": "House Music - Radio-Edit",
+      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Be Funky",
         "url": "https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 207105,
       "name": "Be Funky",
       "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "House Music (The Anthem)",
-        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
-      },
-      "artists": [
-        {
-          "name": "Tom Novy",
-          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
-        }
-      ],
-      "duration_ms": 256043,
-      "name": "House Music - Radio-Edit",
-      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Savane Colour EP",
+        "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Wakulewski",
+          "url": "https://open.spotify.com/artist/0OJHtyT4Hbh4LZ9VorqlEN"
+        }
+      ],
+      "duration_ms": 281628,
+      "name": "Savane Colour",
+      "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Head up High",
         "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 296000,
       "name": "Head up High - Radio Edit",
       "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Savane Colour EP",
-        "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Wakulewski",
-          "url": "https://open.spotify.com/artist/0OJHtyT4Hbh4LZ9VorqlEN"
-        }
-      ],
-      "duration_ms": 281628,
-      "name": "Savane Colour",
-      "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "EXPO Series 001",
         "url": "https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 391961,
       "name": "TALI",
       "url": "https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2287,6 +2287,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Tell You What It Is (Shermanology SoulTec Mix)",
+        "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Tell You What It Is - Shermanology SoulTec Mix",
+      "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Offenbach Anthem",
         "url": "https://open.spotify.com/album/1QmqhZWQqGiwAkpQ40gYyN"
       },
@@ -2299,6 +2319,22 @@
       "duration_ms": 344577,
       "name": "Offenbach Anthem",
       "url": "https://open.spotify.com/track/64HEmeFcnMSiBMLbfah3yx"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "OOH",
+        "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
+      },
+      "artists": [
+        {
+          "name": "Roog",
+          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
+        }
+      ],
+      "duration_ms": 172384,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2327,42 +2363,6 @@
       "duration_ms": 173392,
       "name": "Free - Ferreck Dawn Remix",
       "url": "https://open.spotify.com/track/0qaFVIeo7NYNi0WqycON6A"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "OOH",
-        "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
-      },
-      "artists": [
-        {
-          "name": "Roog",
-          "url": "https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh"
-        }
-      ],
-      "duration_ms": 172384,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/2gDPHig3qqmQAirerz12yd"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Tell You What It Is (Shermanology SoulTec Mix)",
-        "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Tell You What It Is - Shermanology SoulTec Mix",
-      "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2823,26 +2823,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Boiling Point",
-        "url": "https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Mica Paris",
-          "url": "https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO"
-        }
-      ],
-      "duration_ms": 152683,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Underground Is My Home (Remix)",
         "url": "https://open.spotify.com/album/1qHrzuLwX9ip1sNSkcjgW9"
       },
@@ -2863,6 +2843,26 @@
       "duration_ms": 360960,
       "name": "Underground Is My Home - Crazibiza Remix",
       "url": "https://open.spotify.com/track/3Ncgj12Qf2bmw6FAStRUB4"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Boiling Point",
+        "url": "https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Mica Paris",
+          "url": "https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO"
+        }
+      ],
+      "duration_ms": 152683,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
     },
     {
       "added_at": "2023-07-20 22:00:00",

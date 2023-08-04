@@ -94,7 +94,7 @@
 | [Never Meant To Call](https://open.spotify.com/track/5b5wCUEao71E5iME5fPl93) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant To Call](https://open.spotify.com/album/3TZUFqDwQsrmzY5d7cXYdy) | 2:57 | 2019-03-18 | 2022-06-03 |
 | [Never Meant To Call](https://open.spotify.com/track/6EsqBwYeOSZt70H8DAvPNZ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Never Meant to Call](https://open.spotify.com/album/6cHSPyCfHzEGfieuGuqFhz) | 2:57 | 2019-03-18 | 2022-10-28 |
 | [Nylon](https://open.spotify.com/track/4PfP4WMGO1ltuffPS27Bll) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Nylon](https://open.spotify.com/album/3F5itcyJtIPXSaMjrY0jao) | 4:14 | 2018-12-11 | 2022-07-29 |
-| [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 | 2018-12-11 | 2023-07-28 |
+| [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 | 2018-12-11 |  |
 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 | 2018-12-11 | 2023-07-06 |
 | [Our Story](https://open.spotify.com/track/7maiE63ONZi5yNKrOgDM5N) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/4OXuwBr50gwiaYgjBnUiOj) | 2:25 | 2018-12-11 | 2022-07-25 |
 | [Pinch](https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC) | 3:30 | 2019-06-07 |  |
@@ -141,6 +141,6 @@
 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 | 2018-12-11 | 2022-10-22 |
 | [Your Own Truth](https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM) | [James Forest](https://open.spotify.com/artist/6TWuwqkarDY2IXyFaGAQd4) | [Your Own Truth](https://open.spotify.com/album/4vwKFcNLE0kUe8tsb7M4I7) | 4:53 | 2019-05-24 |  |
 | [Zender](https://open.spotify.com/track/51WLmjgPAVhLnrjfQZ6tzh) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit EP](https://open.spotify.com/album/0gfvYcS9zeSgdaGc0nSEoN) | 3:53 | 2018-12-11 | 2022-07-29 |
-| [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 | 2018-12-11 |  |
+| [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 | 2018-12-11 | 2023-08-04 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

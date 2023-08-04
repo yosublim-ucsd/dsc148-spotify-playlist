@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 44949,
+  "num_followers": 44996,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw",
+  "snapshot_id": "MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz",
   "tracks": [
     {
       "added_at": "2023-02-13 15:38:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Esperare",
-        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Cuerdas",
-          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Esperare",
-      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Te Extra\u00f1o",
         "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 152874,
       "name": "Te Extran\u0303o",
       "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Esperare",
+        "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Cuerdas",
+          "url": "https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Esperare",
+      "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
+        "name": "Una Vez Mas",
+        "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Una Vez Mas",
+      "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 302093,
       "name": "Cucurrucuc\u00fa paloma",
       "url": "https://open.spotify.com/track/6JFqN2RNAlaHkskkf1wUtE"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
-        "name": "Una Vez Mas",
-        "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Una Vez Mas",
-      "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Tristango",
-        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
+        "name": "El Paciente",
+        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Isidoro",
-          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
+          "name": "Maribel Sur",
+          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
         }
       ],
-      "duration_ms": 199230,
-      "name": "Tristango",
-      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
+      "duration_ms": 212000,
+      "name": "El Paciente",
+      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "El Paciente",
-        "url": "https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo"
+        "name": "Tristango",
+        "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
       },
       "artists": [
         {
-          "name": "Maribel Sur",
-          "url": "https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf"
+          "name": "Jos\u00e9 Isidoro",
+          "url": "https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz"
         }
       ],
-      "duration_ms": 212000,
-      "name": "El Paciente",
-      "url": "https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r"
+      "duration_ms": 199230,
+      "name": "Tristango",
+      "url": "https://open.spotify.com/track/6juXPawVLvlQa75fXRylSZ"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Recuerdos De Mi Tierra",
-        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Premier",
-          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
-        }
-      ],
-      "duration_ms": 149623,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Chacra",
         "url": "https://open.spotify.com/album/3RGUHtnUlNuS5Lp1ZqhCWx"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 127068,
       "name": "Brisas",
       "url": "https://open.spotify.com/track/2fnzfTG0Cg1nkI0tboLzzx"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Recuerdos De Mi Tierra",
+        "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Premier",
+          "url": "https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea"
+        }
+      ],
+      "duration_ms": 149623,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/1Ph7ahP8j4viFmpXB4Krgj"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
-      },
-      "artists": [
-        {
-          "name": "Ferah Vargas",
-          "url": "https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Recuerdos De Mi Tierra",
         "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 181292,
       "name": "Se Me Olvido Otra Vez",
       "url": "https://open.spotify.com/track/2BJXH3hopfuJy4dTrb1gwj"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
+      },
+      "artists": [
+        {
+          "name": "Ferah Vargas",
+          "url": "https://open.spotify.com/artist/7I2QqjVyk5dDrmPSiJgT1h"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/4NVnCLyMVCOBgCcB2LzZrR"
     },
     {
       "added_at": "2023-02-13 15:38:00",

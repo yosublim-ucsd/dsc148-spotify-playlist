@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Winona Fighter \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,060 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,171 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 14 | [Life Of My Own Party](https://open.spotify.com/track/62krn7TdwsWiwz8ZRyEVyJ) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:36 |
 | 15 | [Freaks Like Us](https://open.spotify.com/track/0pkrzunmlf82L1kiYVlrPq) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Freaks Like Us](https://open.spotify.com/album/5yipTHYajYN2hHt2wYx8k3) | 4:54 |
 | 16 | [Games](https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Games](https://open.spotify.com/album/1MkvXneCkP1Aki2PsIQ0Fm) | 3:38 |
-| 17 | [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 |
+| 17 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 |
 | 18 | [Get Away](https://open.spotify.com/track/3xC0k93l0LjPtpudQVGJjM) | [All Things Blue](https://open.spotify.com/artist/01sLjLNQxogo8tXiVnuXty) | [Get Away](https://open.spotify.com/album/2pvYMPRxgFJd9Zofm1SZTv) | 2:43 |
 | 19 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 |
 | 20 | [Tangled dreams](https://open.spotify.com/track/375bXAagCpRqKryMnAPIFE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/3SF7QZpzKxAWJZCx1PyrgJ) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Somebody](https://open.spotify.com/track/4iInSQRwfbsw4asInzVDvs) | [Age of Madness](https://open.spotify.com/artist/6XptJlrboISPSqMhAOGChi) | [Somebody](https://open.spotify.com/album/6ZyuD3Hz03fRwk4bTT0yeC) | 3:36 |
 | 100 | [Cadillac](https://open.spotify.com/track/0KAxcmnTqf2g8ToqAkhKHd) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [Cadillac](https://open.spotify.com/album/7EIDHIB7Gg4JFTTnNWTuGP) | 3:02 |
 
-Snapshot ID: `MCw3MDIzMjBjMzc5ZWQyODQxZTc2Y2M3ZjQyNjMzZjcyMTQ2MDQ3YzEw`
+Snapshot ID: `MCxmN2U0ZGI4NDExZWE4ZGY5M2Q0NGEwZjA4YWU3M2ZlYmFlYTI4Nzg5`

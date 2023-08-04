@@ -5087,6 +5087,36 @@
     },
     {
       "album": {
+        "name": "Shay'mpempe (Amapiano Mix)",
+        "url": "https://open.spotify.com/album/6jWvHykPy2gL17a9CWJG58"
+      },
+      "artists": [
+        {
+          "name": "Muzzy D Pilot",
+          "url": "https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C"
+        },
+        {
+          "name": "Dj Mavuthela",
+          "url": "https://open.spotify.com/artist/3q8eLo12KCxX4GTdg0rKmc"
+        },
+        {
+          "name": "Ribby De Deejay",
+          "url": "https://open.spotify.com/artist/5dEEE7WHk9fFoftJj0qMAw"
+        },
+        {
+          "name": "Rhino",
+          "url": "https://open.spotify.com/artist/03rDpz3TCm2mNgtJzDXP48"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349483,
+      "name": "Shay'mpempe - Amapiano Mix",
+      "url": "https://open.spotify.com/track/0s85XRTiQaWh8AUsYbLsg1"
+    },
+    {
+      "album": {
         "name": "Shay'mpempe Amapiano Mix",
         "url": "https://open.spotify.com/album/4jfFgrCgBblCVt5FeZfAlm"
       },
@@ -5110,7 +5140,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 355056,
       "name": "Shay'mpempe Amapiano Mix",
       "url": "https://open.spotify.com/track/2zEubbwXFFI7bb3B0etgBf"

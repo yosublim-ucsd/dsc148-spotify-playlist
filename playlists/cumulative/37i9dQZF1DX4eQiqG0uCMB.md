@@ -4,7 +4,7 @@
 
 > Chill afro music to study with.
 
-230 songs - 11 hr 44 min
+231 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2022-06-09 | 2023-03-26 |
 | [FYN](https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:27 | 2022-06-09 | 2023-07-29 |
 | [FYN](https://open.spotify.com/track/5gdhbzqHrZsjc3Rf3SdeXE) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [FYN](https://open.spotify.com/album/2U86RJZhOyvFzLxZtol3fH) | 3:27 | 2022-06-09 | 2022-07-27 |
+| [Garden Lily](https://open.spotify.com/track/4YPpEhN0gk7Ctf7a6tELmS) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV) | [Garden Lily](https://open.spotify.com/album/0JLWiL0bVlAeJLLszt2TMg) | 2:17 | 2023-08-03 |  |
 | [Gateway Drug](https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Gateway Drug](https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1) | 2:38 | 2023-04-20 | 2023-05-12 |
 | [Gone Girl](https://open.spotify.com/track/5InfSqyrnWkRMvrynG52I6) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sweetness](https://open.spotify.com/album/4LIZDD51I8rr6OpdEX7S9a) | 4:13 | 2022-06-09 | 2022-07-26 |
 | [Good Girl](https://open.spotify.com/track/0ix0yhrZdHtrG7AwHEaXFi) | [Runda](https://open.spotify.com/artist/1ECPisHdyXxJzBSPaHCk0x) | [Good Girl](https://open.spotify.com/album/5KWvLxonPYNtgM6sfxxO26) | 2:57 | 2022-06-09 | 2022-07-21 |
@@ -157,7 +158,7 @@
 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 | 2022-06-09 | 2022-07-28 |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2022-07-28 | 2023-01-04 |
 | [Noba Bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Noba Bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 | 2023-01-27 | 2023-02-04 |
-| [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-05 |  |
+| [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-05 | 2023-08-04 |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-06-09 |  |
 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-14 | 2023-05-27 |
 | [Omalicha](https://open.spotify.com/track/5f8X74uHDBh0eFOL7g4CWt) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Omalicha](https://open.spotify.com/album/6SlEjoDoVojyRAkQuZhTxJ) | 3:45 | 2022-06-09 | 2022-07-28 |

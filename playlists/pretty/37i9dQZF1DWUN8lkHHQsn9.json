@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: Zamilska",
-  "num_followers": 5276,
+  "num_followers": 5278,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDE4ZWYwNzM0MjQyNmQ2MzU1MWQ5ZmQ2ODgxZWQ3NWZiNDJiNjc5",
+  "snapshot_id": "MCxlMDY2NzczYjBlYzIzNGY4OTAwMGU3Nzg2MTVkMzNkNDE5MGYzNTU5",
   "tracks": [
     {
       "added_at": "2023-07-10 22:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "\u015awi\u0119ta Betsy",
-        "url": "https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 169122,
-      "name": "\u015awi\u0119ta Betsy",
-      "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "Shyness!",
         "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
       },
@@ -423,6 +407,22 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
+        "name": "\u015awi\u0119ta Betsy",
+        "url": "https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 169122,
+      "name": "\u015awi\u0119ta Betsy",
+      "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
         "name": "Straty",
         "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 193942,
       "name": "Spytaj mnie",
       "url": "https://open.spotify.com/track/6dugfLsnravZDYkpSvCA7b"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -475,6 +459,22 @@
       "duration_ms": 199593,
       "name": "Poczuj Moj\u0105 Magi\u0119",
       "url": "https://open.spotify.com/track/3ovnajYisHHdypyq0OO7Ad"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Polska",
-        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
       "artists": [
         {
-          "name": "Raf Skowro\u0144ski",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 243062,
-      "name": "Polska",
-      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+        "name": "Polska",
+        "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
       "artists": [
         {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+          "name": "Raf Skowro\u0144ski",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+      "duration_ms": 243062,
+      "name": "Polska",
+      "url": "https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L"
     }
   ],
   "unique_name": "GLOW Polska",

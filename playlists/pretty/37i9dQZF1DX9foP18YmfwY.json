@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
-  "num_followers": 306781,
+  "num_followers": 306938,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGExYjM2MTdlYTc3MDNkNDVjYjVhYjFjYjg5NGFhOWEyNzliYmNj",
+  "snapshot_id": "MCxhNGUxY2NiMTU2ODk5OTViZDBiNTJkNmFjNGVkZGNkZjgxZDYwNjJm",
   "tracks": [
     {
       "added_at": "2023-07-28 03:00:00",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-07-28 03:00:00",
       "album": {
-        "name": "Sopra Sobre os Ossos",
-        "url": "https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 273428,
-      "name": "Sopra Sobre os Ossos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO"
-    },
-    {
-      "added_at": "2023-07-28 03:00:00",
-      "album": {
         "name": "Pelas M\u00e3os de Maria",
         "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 199344,
       "name": "Pelas M\u00e3os de Maria",
       "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
+    },
+    {
+      "added_at": "2023-07-28 03:00:00",
+      "album": {
+        "name": "Sopra Sobre os Ossos",
+        "url": "https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 273428,
+      "name": "Sopra Sobre os Ossos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO"
     },
     {
       "added_at": "2023-07-28 03:00:00",

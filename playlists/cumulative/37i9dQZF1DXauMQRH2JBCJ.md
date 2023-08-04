@@ -4,7 +4,7 @@
 
 > All your favorite Disney songs wrapped up with love!
 
-104 songs - 5 hr 14 min
+105 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,5 +112,6 @@
 | [You'll Be In My Heart](https://open.spotify.com/track/7C11GdiguhLd9j7Y6jHFm9) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C) | 1:36 | 2022-07-07 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/0loKEMa9DP6mLibdFMe6Uv) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Tarzan Original Soundtrack](https://open.spotify.com/album/6fBzYwBKjuO4hmhcGuklJM) | 1:36 | 2022-03-16 | 2022-07-29 |
 | [You'll Be In My Heart \- From "Tarzan"/Soundtrack Version](https://open.spotify.com/track/6ooMSK5ybtxI0to3kFiKhB) | [Glenn Close](https://open.spotify.com/artist/5gYZraqDisF60MICASfpWe), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Julie Andrews Selects Her Favorite Disney Songs](https://open.spotify.com/album/25pWkz2bfTai0wmf0CkTYA) | 1:37 | 2022-09-15 | 2022-11-13 |
+| [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

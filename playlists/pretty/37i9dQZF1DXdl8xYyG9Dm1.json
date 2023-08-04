@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A\"> Nasty C</a>",
-  "num_followers": 124185,
+  "num_followers": 124242,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmMxZDAzOTRkNzQ2NzEwOTViMjYzNWVlNTdiM2Y2NTc1YjYyYTcw",
+  "snapshot_id": "MCxhNDNjZWNjMmQwNDcwMzYzY2VmMjljOWM1ZjYyMDNmOTkyNzQyYWVm",
   "tracks": [
     {
       "added_at": "2023-07-28 00:01:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Trapiano, Vol. 1",
-        "url": "https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw"
-      },
-      "artists": [
-        {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Champuru Makhenzo",
-          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
-        }
-      ],
-      "duration_ms": 122958,
-      "name": "Next Up",
-      "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Clone Wars Vol. 5 - The Algorhythm",
         "url": "https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Trapiano, Vol. 1",
+        "url": "https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Champuru Makhenzo",
+          "url": "https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw"
+        }
+      ],
+      "duration_ms": 122958,
+      "name": "Next Up",
+      "url": "https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm"
     },
     {
       "added_at": "2023-07-28 00:01:00",

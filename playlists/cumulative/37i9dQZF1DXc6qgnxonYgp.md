@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Brodha V
 
-177 songs - 10 hr 16 min
+178 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Malayahan](https://open.spotify.com/track/2Gowv6eWJEr3M3DPmWttP7) | [Prabath G.](https://open.spotify.com/artist/0AFm8YfBJDCBkKaQD7pkWd), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Malayahan](https://open.spotify.com/album/1ss31NIReeyCznDVA1NxWX) | 2:50 | 2023-02-16 | 2023-03-10 |
 | [Mami](https://open.spotify.com/track/2cjrn6oI6BAs3d1KqkpSxB) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [Mami](https://open.spotify.com/album/7a4D0dQEbyuhfokz9cuvCI) | 2:58 | 2021-12-01 | 2022-06-09 |
 | [My Indian Girl](https://open.spotify.com/track/5budGGTak2cMuHm8XG9p3A) | [Switch \- Lock Up](https://open.spotify.com/artist/4JzjU9Er2Vd8k4HFNEFVC1) | [Savadi\(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:50 | 2021-12-01 | 2023-08-03 |
+| [My Indian Girls](https://open.spotify.com/track/2VQPI1L5lQsMqJVrTus7RS) | [Switch Lock Up](https://open.spotify.com/artist/0JMraP70dypedCsfesBle4) | [Savadi](https://open.spotify.com/album/4YwiMdmYDGix1E40Cu54Qm) | 3:50 | 2021-12-01 |  |
 | [My Name Is](https://open.spotify.com/track/0LNFIxnKhAMXzyxgDGKDRL) | [San T](https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb), [Suppliers](https://open.spotify.com/artist/3nWI57X6Dtnu7lbHwl3amD) | [Lord Poetry](https://open.spotify.com/album/4illQIaW2DayH6iEItSC7x) | 3:26 | 2023-06-05 |  |
 | [N.I.G.A](https://open.spotify.com/track/73ajgrXAIIMcRkkY8KI7Fk) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Dishonored](https://open.spotify.com/album/0Uwo5TPUBf1URumhDYPPrE) | 2:10 | 2022-01-05 | 2022-06-16 |
 | [Naakula Mookula](https://open.spotify.com/track/4OI0PCYI1lj9RiPWw6vIrY) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 2:22 | 2022-07-27 |  |
@@ -161,7 +162,7 @@
 | [Tamil Trap](https://open.spotify.com/track/2MPy86Yy9E2YucVBMM4QU2) | [All Mixed Up](https://open.spotify.com/artist/5C4NvJLN3b1nY5x9dK2LLc) | [Tamil Trap](https://open.spotify.com/album/7LFGgKYTa8Bs85zgQ3FLzB) | 4:26 | 2021-12-01 | 2022-06-16 |
 | [Thalapathy B'Day Tribute BGM](https://open.spotify.com/track/7authLhtQjmRUmqANVEDDk) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03), [Roshan Jamrock](https://open.spotify.com/artist/2ITH4nPbFeZ2Dj4zAIvl7S) | [Thalapathy B'Day Tribute BGM](https://open.spotify.com/album/2MAZc4WdG195Yd7SYqKJjj) | 0:58 | 2021-12-01 | 2023-03-10 |
 | [Thalayaatti Bommai \- From "Think Originals"](https://open.spotify.com/track/6AXVNRqao5TcomgIPWiWnm) | [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv), [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0) | [Thalayaatti Bommai \(From "Think Originals"\)](https://open.spotify.com/album/15kqLTDPwuLphV2mpl4sYc) | 3:27 | 2022-08-30 | 2023-01-14 |
-| [Thale Therikeh](https://open.spotify.com/track/08GeLdrMhg0rdXGLpY13aS) | [Switch Lock Up,Dan Shiv,Mc Syze](https://open.spotify.com/artist/1meHlKGqywoN7B3zfScKMm) | [Savadi \(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:55 | 2021-12-01 |  |
+| [Thale Therikeh](https://open.spotify.com/track/08GeLdrMhg0rdXGLpY13aS) | [Switch Lock Up,Dan Shiv,Mc Syze](https://open.spotify.com/artist/1meHlKGqywoN7B3zfScKMm) | [Savadi \(Individual Album Soundtrack\)](https://open.spotify.com/album/5tWjOWqOl4Sojh6j7V2DJJ) | 3:55 | 2021-12-01 | 2023-08-04 |
 | [Thani Aalu](https://open.spotify.com/track/7vQh7Cxd7QUeqhVbdSaC03) | [RANCH IN VEGAM](https://open.spotify.com/artist/5HkFSk43UzSWA8I3o6BEn2) | [Thani Aalu](https://open.spotify.com/album/1NVjX9xo0vtuW15E3P7jBQ) | 3:25 | 2023-01-16 | 2023-02-03 |
 | [Throgam](https://open.spotify.com/track/4x9WC6Lvq8f2kPaBmRNqXI) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR), [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax) | [Throgam](https://open.spotify.com/album/3IOQs8vCKRJv8TV6ks1tah) | 3:25 | 2021-12-07 | 2022-07-28 |
 | [Thunnindhu Sel](https://open.spotify.com/track/0x0Zys8tyGTaaAiDleN8WW) | [Ragu Branavan](https://open.spotify.com/artist/6m1vrQWvtpNlq3pJBvkAiF), [Veena AE](https://open.spotify.com/artist/7F5HmVLlQsLMdPq7Iz0CsK), [Vishagar Arunan](https://open.spotify.com/artist/2YF2ZSkdHzaDVmA3rJRr5e) | [Thunnindhu Sel](https://open.spotify.com/album/0lvptAqJBvMhYCtSqJMlXG) | 3:16 | 2022-08-11 | 2022-08-24 |

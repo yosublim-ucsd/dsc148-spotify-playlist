@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-210 songs - 13 hr 3 min
+211 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 | 2022-07-14 |  |
 | [Grey](https://open.spotify.com/track/6EWRRqhOPsm1eAtnDwx4fu) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [I'll Be Waiting For You \(In the Grey\)](https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f) | 3:52 | 2021-12-02 | 2022-07-29 |
 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 | 2022-07-14 | 2023-06-16 |
+| [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 | 2023-08-03 |  |
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2021-12-02 |  |
 | [Halsmandlar](https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Jag är sen igen](https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d) | 2:50 | 2022-07-14 |  |
 | [Halsmandlar](https://open.spotify.com/track/5fDkO5m4hWKR623AFCCrbE) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y), [Ævestaden](https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw) | [Halsmandlar](https://open.spotify.com/album/4nbvdV7aLwIoD2U3FhfWbk) | 2:50 | 2022-05-05 | 2022-07-29 |
@@ -168,7 +169,7 @@
 | [The Heart Has Many Rooms](https://open.spotify.com/track/5bqEcj9HKuMqE3lj17My9l) | [Queen of Sol](https://open.spotify.com/artist/1LgLjGDhGpG7Kb5ROb2vx2) | [The Heart Has Many Rooms](https://open.spotify.com/album/0W0BIG3H6ywbhhgaJUUJgh) | 2:37 | 2021-12-02 | 2021-12-27 |
 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/1ErKzGtRz3WhZgsXsP7RJy) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/2uRdTrtChn1rvFkDmAtL8N) | 3:49 | 2021-12-02 | 2022-07-29 |
 | [The Longer The Waiting \(The Sweeter The Kiss\)](https://open.spotify.com/track/2ewLTjnHNFIMwF1Zsx3f0T) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308), [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA) | [The Night Visitor](https://open.spotify.com/album/3n3p5tioTdiNksbGzTDImJ) | 3:51 | 2022-07-14 |  |
-| [The Man Who Isn't Here](https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA) | 3:50 | 2022-07-14 |  |
+| [The Man Who Isn't Here](https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA) | 3:50 | 2022-07-14 | 2023-08-04 |
 | [The Man Who Isn't Here](https://open.spotify.com/track/6ZiL7k1BRddpLgrS484kc7) | [Frøkedal](https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr) | [Hold On Dreamer](https://open.spotify.com/album/27zpUxeNAiCvCmHLOTpqWt) | 3:50 | 2021-12-02 | 2022-07-29 |
 | [The Moon and I](https://open.spotify.com/track/0Yy3ZQjbLJh3KTiODERwQ6) | [Dag Erik Oksvold](https://open.spotify.com/artist/4MtZY6vubmc8vgp1JxlMcs) | [The Moon and I](https://open.spotify.com/album/6rimVXalcENj2nTFRcvPZa) | 3:44 | 2023-07-13 |  |
 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 | 2022-07-14 |  |

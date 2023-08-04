@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Carmonies - Thumri",
+        "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
+      },
+      "artists": [
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        },
+        {
+          "name": "Sangeet Haldipur",
+          "url": "https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Aeri Sakhi",
+      "url": "https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP"
+    },
+    {
+      "album": {
         "name": "Albela",
         "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
       },
@@ -702,7 +724,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 359960,
       "name": "Mohanam",
       "url": "https://open.spotify.com/track/3QZfNbGGwSoh6dEcJyhXAs"
@@ -878,7 +900,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 194596,
       "name": "Piya Ki Najariya",
       "url": "https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl"
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 364796,
       "name": "Rangderi",
       "url": "https://open.spotify.com/track/2ALFUPMWGCS7tTvRCpIJpe"
@@ -1032,6 +1054,28 @@
       "duration_ms": 336866,
       "name": "Ranjish Hi Sahi",
       "url": "https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp"
+    },
+    {
+      "album": {
+        "name": "Carmonies - Thumri",
+        "url": "https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs"
+      },
+      "artists": [
+        {
+          "name": "Anusha Mani",
+          "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
+        },
+        {
+          "name": "Sangeet Haldipur",
+          "url": "https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241451,
+      "name": "Ras Ke Bhare",
+      "url": "https://open.spotify.com/track/72cqt5dDAiC8x2xz1shX2e"
     },
     {
       "album": {
@@ -1268,6 +1312,32 @@
       "duration_ms": 318655,
       "name": "Taqdeer",
       "url": "https://open.spotify.com/track/29Zb6OUOZJLz5orIK83S0s"
+    },
+    {
+      "album": {
+        "name": "Thaare Bina",
+        "url": "https://open.spotify.com/album/3yPCdVh7cFYiy8heF8s1eC"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Srinivas",
+          "url": "https://open.spotify.com/artist/2KYeJm60817LSIQtkgOffu"
+        },
+        {
+          "name": "Swaroop Khan",
+          "url": "https://open.spotify.com/artist/5hT3CHUnrkUFsgGAvEPSQC"
+        },
+        {
+          "name": "Sukanya Purkayastha",
+          "url": "https://open.spotify.com/artist/4MxomN78tgwq8HCasnFIIH"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323734,
+      "name": "Thaare Bina",
+      "url": "https://open.spotify.com/track/4qPEj1futdyovzkDQkbBcz"
     },
     {
       "album": {

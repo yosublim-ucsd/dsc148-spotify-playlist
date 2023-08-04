@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Bush",
-  "num_followers": 703524,
+  "num_followers": 703529,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGI5MmNlOGU1NTgwMzJlNDI3ZWIwY2Y2MWY2Y2IwYmMyZTEzMDg4",
+  "snapshot_id": "MCw1ODk0ZDMyMjcyYWMzMzA0OTU4ODBiYzkyZTExY2IyNmJiNDc2ZmE1",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -411,22 +411,18 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        },
-        {
-          "name": "Lukas Rossi",
-          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 197253,
-      "name": "Neurotic (feat. Lukas Rossi)",
-      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -447,18 +443,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        },
+        {
+          "name": "Lukas Rossi",
+          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
         }
       ],
-      "duration_ms": 217537,
-      "name": "Heartbreak Feels So Good",
-      "url": "https://open.spotify.com/track/2DIo5VoBB6X1GzgpGbmMIF"
+      "duration_ms": 197253,
+      "name": "Neurotic (feat. Lukas Rossi)",
+      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 220839,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 183693,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 220839,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Fear Of The Dawn",
         "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 234687,
       "name": "Heavy Is The Crown",
       "url": "https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Still There",
-        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "Still There",
-      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Worst Is On Its Way (Requiem Mass)",
-        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "Worst Is On It's Way - Requiem Mass / Live",
-      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7c3XCwT7Sp3BViQX3Xu0jp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 239000,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/7yE8ph42wlmzi3UQ8iLhCi"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Worst Is On Its Way (Requiem Mass)",
+        "url": "https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 244089,
+      "name": "Worst Is On It's Way - Requiem Mass / Live",
+      "url": "https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL"
     },
     {
       "added_at": "2023-07-28 03:01:00",

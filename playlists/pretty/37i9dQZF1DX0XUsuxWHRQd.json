@@ -1,12 +1,12 @@
 {
   "description": "New music from Travis Scott, Drake, Central Cee and Offset. ",
-  "num_followers": 15508969,
+  "num_followers": 15515974,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGFlMjk4MDJiOGFjNjU1MGZkZDU2MmJjMGY1YmQzMjBmZjkxZTEw",
+  "snapshot_id": "MCwyYTU4ODc4YTdjZWRjYzY1YTlkYjVmNzJlYWVhZTA5MTJhZTllZGRk",
   "tracks": [
     {
       "added_at": "2023-07-31 19:57:11",
@@ -179,6 +179,22 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2023-08-03 04:00:00",
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 312820,
+      "name": "SICKO MODE",
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
     },
     {
       "added_at": "2023-07-31 19:57:11",

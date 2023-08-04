@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxaFwRXIXnt.md) - [plain]
 
 > Classic songs from Bollywood's badshah, Shah Rukh Khan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,547 likes - 57 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,671 likes - 57 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxaFwRXIXnt.md) - [plain]
 | 21 | [Ruk Ja O Dil Deewane](https://open.spotify.com/track/619BqiArColRhmckgCGoG3) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Dilwale Dulhania Le Jayenge \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0B8uilns8kvIsnfyCgXsrj) | 5:12 |
 | 22 | [Phurrr \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/1Wmhz6pAesAAKh6Oy3zknL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Phurrr \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/0LZcrvfzpuW1IeIvM2OWay) | 3:24 |
 | 23 | [It's the Time to Disco](https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Loy Mendonsa](https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:33 |
-| 24 | [Dil Se Re](https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Anuradha](https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY), [Anupama](https://open.spotify.com/artist/1MQZbz2Dm4NyvUmTIYMqge) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:45 |
+| 24 | [Dil Se Re](https://open.spotify.com/track/30yySOIXHZYx94sLAySy2j) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Anuradha](https://open.spotify.com/artist/2Q0ItURCGZd8c7JF8kbjvY), [Chandralekha Annupamaa](https://open.spotify.com/artist/2qpBRQ66e1zdpzBVNklhSv) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:45 |
 | 25 | [Pretty Woman](https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Ravi "Rags" Khote](https://open.spotify.com/artist/7jhqJGN86YT2lS3i1HgO13) | [Kal Ho Naa Ho \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE) | 5:53 |
 | 26 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:56 |
 | 27 | [Kabhi Alvida Naa Kehna](https://open.spotify.com/track/4uXShFWajd1PTQzlW3P4jj) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kabhi Alvida Naa Kehna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4hYTERVUXY74XJdm8tyXBV) | 8:03 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxaFwRXIXnt.md) - [plain]
 | 56 | [Tu Mere Samne](https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 6:06 |
 | 57 | [Jaata Hai Tu Kahan](https://open.spotify.com/track/407QycChulo2g2SfEqMopF) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yes Boss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0ooiboxVpTb7Y1jI5WH8) | 5:40 |
 
-Snapshot ID: `MCwwODI3NjhhOGU1NWZmZWVkMzVlZjYxYjQ1OGExODAxMDdlZTk4MjFl`
+Snapshot ID: `MCw0NDE4OWJhYmY5MWQzODc1ZTcxMTEzZDdjNmY5NzAxZjhhMDQyNzEx`

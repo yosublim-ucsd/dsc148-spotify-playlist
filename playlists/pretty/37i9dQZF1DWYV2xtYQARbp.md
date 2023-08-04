@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,967 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,984 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 31 | [Do the Milkshake](https://open.spotify.com/track/0NlwS6WOV4gfDRXTFBGNlR) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 5:19 |
 | 32 | [I'll Wait](https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Ultraglide In Black](https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z) | 3:00 |
 | 33 | [Isolation](https://open.spotify.com/track/5WQVHv1Vw8VRE904vPsLsL) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:24 |
-| 34 | [Swampland](https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM) | [Scientists](https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1) | [Sedition](https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv) | 5:19 |
-| 35 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
+| 34 | [When You Touch Me](https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:57 |
+| 35 | [Swampland](https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM) | [Scientists](https://open.spotify.com/artist/6LTqstd1cGvRfEXaSkqoy1) | [Sedition](https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv) | 5:19 |
 | 36 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
 | 37 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
 | 38 | [Hanky\-Joe Digger](https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4) | [Speedball Baby](https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA) | [The Blackout](https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 | 50 | [Preaching the Blues](https://open.spotify.com/track/4qZrZqBRq0tAKJ3wE3Az3A) | [The Gun Club](https://open.spotify.com/artist/3Un18X4NF1bpjgUk44lUzn) | [Fire of Love](https://open.spotify.com/album/3OrGW7wRB8dIZ8EYrAkkWW) | 3:59 |
 
-Snapshot ID: `MCxjYTU4Mzc2ZTZlY2YzNmQwOTVhMmNhZjY0ZjExZDIyNzBlZmZiNThh`
+Snapshot ID: `MCxmMjhmNTY0ODk5OWI0MzgyYzk3N2UwMjdkNWNjYjE3NjIzM2RmMzEz`

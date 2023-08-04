@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Kizz Daniel & Becky G",
-  "num_followers": 112130,
+  "num_followers": 112179,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc5OTE0MTY1MzQyMGM5ZDFiNGY1NzU4ZGM2ZDQ5ZDQyOTE0OWQ5",
+  "snapshot_id": "MCw0YjllMmI1NmJhMWI2OTU0OGJlOWM4MTU1NzIzODY0YmQ2MzgzMzdl",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "MEN\u00da (Radio Edit)",
-        "url": "https://open.spotify.com/album/49Jwg3DkeFDsXFNLltho36"
-      },
-      "artists": [
-        {
-          "name": "Alcover",
-          "url": "https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "MEN\u00da - Radio Edit",
-      "url": "https://open.spotify.com/track/2IHEDJAnIppmhNtkTdXItU"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Se Fue",
         "url": "https://open.spotify.com/album/4j2DaQTBXSER398hI49Fkj"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 215240,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/00FmMXnkYZ0ymlNcacdB6O"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "MEN\u00da (Radio Edit)",
+        "url": "https://open.spotify.com/album/49Jwg3DkeFDsXFNLltho36"
+      },
+      "artists": [
+        {
+          "name": "Alcover",
+          "url": "https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "MEN\u00da - Radio Edit",
+      "url": "https://open.spotify.com/track/2IHEDJAnIppmhNtkTdXItU"
     },
     {
       "added_at": "2023-07-20 23:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. SPEAKEASY in cover questa settimana!",
+  "description": "La playlist che \u00e8 come andare ai concerti. CASX in cover questa settimana!",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -3550,6 +3550,24 @@
       "duration_ms": 154282,
       "name": "Hamsik",
       "url": "https://open.spotify.com/track/4KR8wGG7Z4shKUROWnafVM"
+    },
+    {
+      "album": {
+        "name": "HEATWAVES",
+        "url": "https://open.spotify.com/album/6NAuR8JcZBwqxlxqEfqkoz"
+      },
+      "artists": [
+        {
+          "name": "PEAKS!",
+          "url": "https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197674,
+      "name": "HEATWAVES",
+      "url": "https://open.spotify.com/track/572YsanwR4obpa6xq8J4Yu"
     },
     {
       "album": {
@@ -8232,6 +8250,24 @@
       "duration_ms": 159094,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/2ph0Ra4BfxsYsbWckE1D0D"
+    },
+    {
+      "album": {
+        "name": "Stegosauro",
+        "url": "https://open.spotify.com/album/5bG2cSyy0ePsZHL0J2Q07N"
+      },
+      "artists": [
+        {
+          "name": "Stegosauro",
+          "url": "https://open.spotify.com/artist/2XKNxYjB1IkZfmQIUnTi5R"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Tangram",
+      "url": "https://open.spotify.com/track/0xJNFB2ievxIj1RotyCVqU"
     },
     {
       "album": {

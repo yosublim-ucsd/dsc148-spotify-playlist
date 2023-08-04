@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 276459,
+  "num_followers": 276500,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDM2YjkwNjZjMzRmNGI2YjE4YWRmMTE5NTA2MjljNjNjN2Q0NDBi",
+  "snapshot_id": "MCxhOGRlYmJmOGM2OTJlMzk4NmM2ZDkxZGQxZjdiY2E0NGI0ZTJkNzg5",
   "tracks": [
     {
       "added_at": "2023-07-28 03:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+        }
+      ],
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Melhor Assunto (Bus Live Session)",
         "url": "https://open.spotify.com/album/5kNBIykzFFamaBRteogvJG"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 163311,
       "name": "Melhor Assunto - Bus Live Session",
       "url": "https://open.spotify.com/track/7xva0maR5No7LbH70UEj5M"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
-        }
-      ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "REWIND: Marina Peralta 10 Anos",
+        "url": "https://open.spotify.com/album/4CeavisdB3NP5ZdUaBNKoO"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 281186,
+      "name": "Garoa - REWIND",
+      "url": "https://open.spotify.com/track/5xKZkE6tJ2usQOZWriIVVa"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Um banda um",
         "url": "https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 176631,
       "name": "Deixa O Amor Fluir",
       "url": "https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "REWIND: Marina Peralta 10 Anos",
-        "url": "https://open.spotify.com/album/4CeavisdB3NP5ZdUaBNKoO"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 281186,
-      "name": "Garoa - REWIND",
-      "url": "https://open.spotify.com/track/5xKZkE6tJ2usQOZWriIVVa"
     },
     {
       "added_at": "2023-07-28 03:01:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
-      },
-      "artists": [
-        {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
-        }
-      ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
         "name": "Abre a Janela",
         "url": "https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 282560,
       "name": "Abre a Janela",
       "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     }
   ],
   "unique_name": "Praiana",

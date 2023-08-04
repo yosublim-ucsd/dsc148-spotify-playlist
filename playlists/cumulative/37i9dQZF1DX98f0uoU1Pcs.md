@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-511 songs - 1 day 3 hr 35 min
+512 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,8 @@
 | [Pay the Price](https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc) | [Glowing](https://open.spotify.com/artist/0bqQxnj2ZL4M2dZahKDZFm) | [Pay the Price](https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4) | 3:36 | 2023-03-01 |  |
 | [Peaceful Life](https://open.spotify.com/track/0gq6V1aodhiGhQhpMOZzY7) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [Peaceful Life](https://open.spotify.com/album/1WCP9j9mfD12JT7FpRiQV5) | 2:03 | 2021-10-07 | 2022-12-10 |
 | [Perth Traumatic Stress Disorder](https://open.spotify.com/track/4deF1pg0zExtb7SnbSLXHZ) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [I Love You Like A Brother](https://open.spotify.com/album/5PyPauobzmwT3iWtSjWNvK) | 2:15 | 2021-10-07 | 2022-01-08 |
-| [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 | 2023-05-22 |  |
+| [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 | 2023-05-22 | 2023-08-04 |
+| [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 | 2023-07-14 |  |
 | [Pigs Is Pigs](https://open.spotify.com/track/6wOfwjT2TowI9OJEnd07Yw) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 1:56 | 2022-01-07 | 2022-08-27 |
 | [Pillar On The Bridge Of You](https://open.spotify.com/track/3quyci0xdEjIRQBusVGDL2) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Pillar On The Bridge Of You](https://open.spotify.com/album/2FdeUBg9yKyD9910MoqoO8) | 3:17 | 2022-04-29 | 2022-11-09 |
 | [Pillar on the Bridge of You](https://open.spotify.com/track/3xLmKij70Eq5j5MsLCFYLt) | [BODEGA](https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5) | [Broken Equipment](https://open.spotify.com/album/7cQv9A3WQqO4qclDdN2gRB) | 3:17 | 2022-11-04 | 2023-04-09 |

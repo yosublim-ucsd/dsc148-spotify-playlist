@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Mike Alabi
+> African dance party music from Paris to Abidjan\. Photo : Serge Beynaud
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,267 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,286 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 |
-| 2 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 |
-| 3 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
-| 4 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 |
+| 1 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 |
+| 2 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 |
+| 3 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 |
+| 4 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 5 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
-| 6 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 |
-| 7 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 |
-| 8 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 |
-| 9 | [O'cho](https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [O'cho](https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM) | 3:15 |
-| 10 | [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 |
-| 11 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
-| 12 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 |
-| 13 | [Mon gar](https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Mon gar](https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe) | 3:30 |
-| 14 | [Abidjan Paris](https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye) | [Zagba Le Requin](https://open.spotify.com/artist/6hR5Mj1oe4yE7JOZsTFwvn), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Abidjan Paris](https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2) | 3:22 |
-| 15 | [Kabato](https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/1T1kSNDG0W34MKT9E2eY6I) | 3:25 |
-| 16 | [On me guette](https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt) | [Anaconda 512](https://open.spotify.com/artist/26taS43MiYz1bsD7q1QKQ9) | [On me guette](https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1) | 3:58 |
+| 6 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 |
+| 7 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 |
+| 8 | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/track/0OZBVVepaXa0b9FEyw5s6B) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM) | [C'PAS L'AMOUR ON VA MANGER](https://open.spotify.com/album/16upc0FlSYisk6HS2zFNiQ) | 3:58 |
+| 9 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
+| 10 | [O'cho](https://open.spotify.com/track/4VJhgXDBohg0UXEzTFM0NW) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [O'cho](https://open.spotify.com/album/3MmFDejF43RBq4ZepgixWM) | 3:15 |
+| 11 | [Abidjan Paris](https://open.spotify.com/track/0rYB2OWmVGIULPD33ZmBye) | [Zagba Le Requin](https://open.spotify.com/artist/6hR5Mj1oe4yE7JOZsTFwvn), [Doupi Papillon](https://open.spotify.com/artist/4oBgTIQASlIZHyKNkXZWoO), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Abidjan Paris](https://open.spotify.com/album/7xZ54t59ngop1xFTqIV8y2) | 3:22 |
+| 12 | [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 |
+| 13 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 |
+| 14 | [Kabato](https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/1T1kSNDG0W34MKT9E2eY6I) | 3:25 |
+| 15 | [On me guette](https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt) | [Anaconda 512](https://open.spotify.com/artist/26taS43MiYz1bsD7q1QKQ9) | [On me guette](https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1) | 3:58 |
+| 16 | [Mon gar](https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Mon gar](https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe) | 3:30 |
 | 17 | [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 |
 | 18 | [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 |
 | 19 | [Le Secret](https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Le Secret](https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic) | 3:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Makélélé](https://open.spotify.com/track/3NwMIcrPVesx13KiJoPtc3) | [Salvador Plaisir](https://open.spotify.com/artist/3mnbwUuwXpWSisTrAkfmZa), [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Makélélé](https://open.spotify.com/album/2Q6UrODqAI7BZQuXPoSnuW) | 3:02 |
 | 40 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 |
 
-Snapshot ID: `MCxmYWNhOWY5NDFlOWJlZDIzMmFhODllYWUzZmIwYTY2MzQ1OWIxMWNk`
+Snapshot ID: `MCw1NTRlZWE2NDNjNTg0NjBlMjBhZTlmNGNmNzJhNjIxZGFkMDkxMGZj`

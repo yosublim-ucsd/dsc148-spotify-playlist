@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 19891,
+  "num_followers": 19916,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2",
+  "snapshot_id": "MCw5ZmQ0NTViMDhmOGZjNjJmZmM2MjhjZWZjMjMwNTQ0MGZkZjhiMGNj",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Ni Juana la Cubana",
+        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
+      },
+      "artists": [
+        {
+          "name": "Rigo Dominguez Y Su Grupo Audaz",
+          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Cabaret Manana",
         "url": "https://open.spotify.com/album/4iusuKgQWQPNAWsIX7r5wJ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 193146,
       "name": "Juana La Cubana",
       "url": "https://open.spotify.com/track/54Lk2MxVaNuxkAw7j5mWkj"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Ni Juana la Cubana",
-        "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
-      },
-      "artists": [
-        {
-          "name": "Rigo Dominguez Y Su Grupo Audaz",
-          "url": "https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
+        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
+      },
+      "artists": [
+        {
+          "name": "Los Camperos de Valles",
+          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "El fandanguito - The Little Fandango",
+      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Aguita de Coco",
         "url": "https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 217813,
       "name": "Aguita de Coco",
       "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
-        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
-      },
-      "artists": [
-        {
-          "name": "Los Camperos de Valles",
-          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "El fandanguito - The Little Fandango",
-      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
     },
     {
       "added_at": "2023-01-23 22:42:50",

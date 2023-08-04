@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Cold Stares
 
-236 songs - 14 hr 52 min
+239 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bad Luck & The Blues](https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p) | 4:09 | 2023-06-23 |  |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-25 |  |
 | [Ball And Chain](https://open.spotify.com/track/0QQIcQzNDvqgiVhIpIQegS) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Ball And Chain](https://open.spotify.com/album/4d4u7hmfuqvEmuXEQXONnk) | 5:04 | 2021-04-09 | 2022-07-29 |
-| [Ballad of a Thin Man](https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Ballad of a Thin Man](https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT) | 6:33 | 2022-10-28 |  |
+| [Ballad of a Thin Man](https://open.spotify.com/track/2xwHS9jXykoQIEVzbQzycq) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is..\. 25](https://open.spotify.com/album/4AhbhmM5KARl99yljXbZ5m) | 6:33 | 2022-11-04 |  |
+| [Ballad of a Thin Man](https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Ballad of a Thin Man](https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT) | 6:33 | 2022-10-28 | 2023-08-04 |
 | [Be Your Own Invention](https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s) | [Henry's Funeral Shoe](https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f) | [Donkey Jacket](https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI) | 5:18 | 2020-10-16 |  |
 | [Between Me and the Devil](https://open.spotify.com/track/0Dt5wjxCps2aaTJnQyt4lb) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:08 | 2021-06-18 |  |
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 | 2023-06-08 |
@@ -144,7 +145,8 @@
 | [No More Fire](https://open.spotify.com/track/2yTZSzl6XflxCRU7NnnW8M) | [The Gravel Project](https://open.spotify.com/artist/1aM51hYWVvC9a4piqQcqD4) | [Many Miles Ahead](https://open.spotify.com/album/20KjNLIRKH70voeLo5ohqv) | 4:48 | 2022-03-04 |  |
 | [None of Your Business](https://open.spotify.com/track/6scQaEbZRJRSHlUecMPdMc) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [None of Your Business](https://open.spotify.com/album/6GN9W8VK95e9NLNOSFQkuX) | 3:20 | 2021-04-09 | 2023-05-06 |
 | [Notches](https://open.spotify.com/track/4aDBXR6cHLtxaO37iaQPml) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Notches](https://open.spotify.com/album/2NREQn8G282SFtYRyj2a0D) | 7:03 | 2021-07-23 | 2022-11-13 |
-| [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 | 2022-08-26 |  |
+| [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 | 2022-08-26 | 2023-08-04 |
+| [Nothing But The Blues](https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 3:21 | 2022-09-02 |  |
 | [Nothing Left To Lose](https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX) | [LoveSick Radio](https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ) | [Nothing Left To Lose](https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x) | 3:24 | 2021-04-09 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2020-10-16 |  |
 | [Off the Shelf](https://open.spotify.com/track/7KGqf7g0G2tY67oczknrUN) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Love Luck](https://open.spotify.com/album/2Rohycq7EGBbuJbYp3Z0G5) | 3:28 | 2020-10-16 |  |
@@ -178,7 +180,8 @@
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2022-06-10 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-03-03 | 2023-03-25 |
 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 | 2020-10-16 |  |
-| [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 |  |
+| [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 | 2022-03-04 | 2023-08-04 |
+| [Silver Paper](https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Legacy: A Tribute to Leslie West](https://open.spotify.com/album/2fHUmGoULVaRNzb0cPPzzL) | 3:26 | 2022-03-11 |  |
 | [Skin 'n Bone](https://open.spotify.com/track/6natqkD9pmwdr8Xr1VFliA) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Skin 'n Bone](https://open.spotify.com/album/2ZWSn4DgPq9jFuIj1wywPF) | 3:23 | 2021-06-11 | 2022-07-02 |
 | [So Long](https://open.spotify.com/track/0wjNy6Y2S0tZkykclifcRE) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:01 | 2022-12-09 | 2023-05-13 |
 | [So Long](https://open.spotify.com/track/34np7qi7qKvOsvqptdBUnq) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [So Long](https://open.spotify.com/album/74ERRFXX47XBkVarTGWixm) | 3:01 | 2022-12-09 | 2023-01-24 |

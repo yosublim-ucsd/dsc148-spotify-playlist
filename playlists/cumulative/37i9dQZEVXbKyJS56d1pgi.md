@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-900 songs - 2 day 2 hr 0 min
+901 songs - 2 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,7 +857,8 @@
 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 | 2023-01-21 | 2023-02-22 |
 | [Vacilão](https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Igow](https://open.spotify.com/artist/3Uees4yarZxpOrkxJsU8jA), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Vacilão](https://open.spotify.com/album/0Q3gwqKjsGoCv0JZGjyNrv) | 2:10 | 2023-03-24 | 2023-04-19 |
 | [Vai Lá Em Casa Hoje](https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vai Lá Em Casa Hoje](https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz) | 3:11 | 2022-01-16 | 2022-01-25 |
-| [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-29 |  |
+| [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-29 | 2023-08-04 |
+| [Vai Novinha Ah, Ah, Ah / Citação: O Chêro Da Carolina](https://open.spotify.com/track/0bfJWhn3r3UQBF8WYKWT4K) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/07uidtOs6W5DlZRepChs3Q) | 2:03 | 2023-08-03 |  |
 | [Vamos Com Tudo \(feat\. Preto Show\)](https://open.spotify.com/track/0HvaUKWOXnwAaTmoh4IBYy) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6), [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW) | [Vamos Com Tudo \(feat\. Preto Show\)](https://open.spotify.com/album/2fTzljF7q1dG2tXkoPBS9L) | 4:05 | 2021-06-16 | 2021-07-07 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 |  |
 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 | 2022-04-04 | 2022-10-23 |

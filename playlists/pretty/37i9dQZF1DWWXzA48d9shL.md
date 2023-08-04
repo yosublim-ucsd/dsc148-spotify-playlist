@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,252 likes - 100 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,678 likes - 100 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Situation](https://open.spotify.com/track/54s3N71zDs0M9HBPc5SEAK) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [GREAF](https://open.spotify.com/artist/7B9SeWW4K6HBgo4tGoCmjP) | [Situation](https://open.spotify.com/album/6iMDmTkNA9LyQyaGbdfyBt) | 1:48 |
 | 100 | [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 |
 
-Snapshot ID: `MCxiOWRmNjYwODAzN2I1YjE4ZDE0OTZmM2Q4YWEzZWIyYWZhZmRkZmFm`
+Snapshot ID: `MCxmYjJhZTgxYjU4ZWI2ODk0ZjdjNTg4NGJlMmM5ZGRhNGY1MGVhZjBh`

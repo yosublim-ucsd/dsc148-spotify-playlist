@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. lynks
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. grimes
 
-599 songs - 1 day 4 hr 17 min
+601 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/4oTC6fJ9zHfiyVyARI8BTe) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/album/0lECZgEfNA8676KlvMRzp9) | 2:39 | 2023-03-10 | 2023-04-07 |
 | [Count of three \(You can eat $\#@!\)](https://open.spotify.com/track/79MYMgdLnfA9aEkRB2MlQu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Count of three \(You can eat $\#@!\) – Nightcore ‘Sped\-up’ Version](https://open.spotify.com/album/0FeB4UDbTDXtxCvGC5WAMe) | 2:39 | 2023-03-03 | 2023-03-12 |
 | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [COZ I'M THAT MOTHERF\*CKIN](https://open.spotify.com/album/0vPUz1x0IchSUrBZqFKUb1) | 2:06 | 2023-01-13 | 2023-03-03 |
+| [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2023-08-03 |  |
 | [Crossing Guard](https://open.spotify.com/track/5l5B2UwA8Yp6kp1HwchSLx) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Crossing Guard](https://open.spotify.com/album/3kKS6RMfZJ8TMZJz8cTIxn) | 4:44 | 2023-01-20 | 2023-03-10 |
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-27 | 2023-07-07 |
 | [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 | 2023-01-22 |
@@ -305,6 +306,7 @@
 | [Internetgf](https://open.spotify.com/track/62Nr3aP2VXVmNySZmiJyOY) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Internetgf/Limousine](https://open.spotify.com/album/4pOHBb9AIat9b5aXujaBzJ) | 2:38 | 2022-09-07 | 2023-03-03 |
 | [Intrusive](https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Intrusive](https://open.spotify.com/album/4GC9GlW36nuWLHospvejOq) | 2:04 | 2022-05-26 | 2022-07-29 |
 | [Intrusive](https://open.spotify.com/track/277bSPoxSJT51c43jXVw7q) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 | 2022-07-28 | 2022-08-05 |
+| [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 | 2023-08-03 |  |
 | [iScream](https://open.spotify.com/track/1mGtSulwCCpDQoXHrrZ4Ur) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [iScream](https://open.spotify.com/album/1cB1LeV8nA8EZgxVUenuVV) | 3:23 | 2022-04-14 | 2022-04-20 |
 | [IT'S GONNA BE A LONG DAY](https://open.spotify.com/track/2AlXN2KTcdA6meQMrVluJu) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [IT'S GONNA BE A LONG DAY](https://open.spotify.com/album/6dMV4edUwlEBG6dP6XJ2SO) | 3:14 | 2022-08-18 | 2022-12-01 |
 | [IVE OFFICIALLY LOST ViSiON!!!!](https://open.spotify.com/track/4PXuZYWhkyGXQzfSRy2PW1) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:22 | 2023-01-27 | 2023-03-03 |
@@ -351,7 +353,7 @@
 | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/track/7l6IaO7sLMyvHfuqz2EkAO) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Lovesick \(feat\. OmenXIII\)](https://open.spotify.com/album/48nf5ENyYy7vnZ0dILcyu4) | 2:30 | 2023-05-12 |  |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-08 |  |
 | [M'Lady](https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 | 2023-01-21 | 2023-05-20 |
-| [Made It Past October](https://open.spotify.com/track/08GWRVbcOrqwJXUszRxAii) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Made It Past October](https://open.spotify.com/album/3bUmoJXvZA2HUKScrTfNEP) | 2:12 | 2023-03-10 |  |
+| [Made It Past October](https://open.spotify.com/track/08GWRVbcOrqwJXUszRxAii) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Made It Past October](https://open.spotify.com/album/3bUmoJXvZA2HUKScrTfNEP) | 2:12 | 2023-03-10 | 2023-08-04 |
 | [Maggots](https://open.spotify.com/track/4z273kPQy8lRomWDuwOrb4) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 2:18 | 2021-12-27 | 2023-02-09 |
 | [Major Waste](https://open.spotify.com/track/5MuPQoYQRnDTLKHcngLK32) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Major Waste](https://open.spotify.com/album/2dA5MOXJ7Zr0d45VYvvMy2) | 3:18 | 2022-03-25 | 2022-07-01 |
 | [Make Me Famous](https://open.spotify.com/track/0pOeZhJipQdF3qBiu1LjmC) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Make Me Famous](https://open.spotify.com/album/5xz5TT3z4Ik916eLPcaPr3) | 2:54 | 2022-05-19 | 2022-11-11 |
@@ -493,7 +495,7 @@
 | [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 | 2023-06-01 | 2023-06-30 |
 | [Skitz](https://open.spotify.com/track/2ziUaTw3sQHI9FHCVk6ob3) | [Yinyang](https://open.spotify.com/artist/5WesO65aRpHO5Cqjg8IMvA) | [Skitz](https://open.spotify.com/album/5zyNyDGWEAw2OnIGomFxCd) | 2:58 | 2021-12-27 | 2022-02-18 |
 | [Skullflower](https://open.spotify.com/track/5yEg8DS2WhVvX3kLQo1cA9) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:21 | 2022-07-21 | 2023-02-24 |
-| [Sleep](https://open.spotify.com/track/5fbZVhEcjSma29ifhegrdR) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sleep](https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq) | 3:13 | 2023-04-20 |  |
+| [Sleep](https://open.spotify.com/track/5fbZVhEcjSma29ifhegrdR) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Sleep](https://open.spotify.com/album/1teDDY70sVGEWaipW00Tiq) | 3:13 | 2023-04-20 | 2023-08-04 |
 | [slippery slope](https://open.spotify.com/track/358oKjk9CI5rAm3Pt48Va9) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [slippery slope](https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0) | 2:19 | 2023-03-30 | 2023-05-13 |
 | [SLOW DEATH](https://open.spotify.com/track/6891otyD7U6uyi2oaOmq7o) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49), [99zed](https://open.spotify.com/artist/7kjqkL4lIUyxO4HLzpRYo9) | [SLOW DEATH](https://open.spotify.com/album/60undiWwpuG3wqBmp0uhTV) | 2:15 | 2023-05-25 |  |
 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 | 2021-12-28 | 2022-01-06 |

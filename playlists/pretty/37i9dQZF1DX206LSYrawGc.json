@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 234697,
+  "num_followers": 235007,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjQzMTllYmQwYzE3YWE2MDZkYmM0NDNhNGQwY2VmY2QwNDJhZTU0",
+  "snapshot_id": "MCwxMzE4MmY1MjY1ZmI1MWY4MjMyYjYyOGVlY2ExYTQ0NjNjMWY5NjRm",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Open Up And Say . . . Ahh!",
-        "url": "https://open.spotify.com/album/1XKDdHnYVcbcguSX2pXoP8"
+        "name": "Skyscraper",
+        "url": "https://open.spotify.com/album/2mYFKWSxCYhLHSXsjLDmp4"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "David Lee Roth",
+          "url": "https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3"
         }
       ],
-      "duration_ms": 260224,
-      "name": "Every Rose Has Its Thorn",
-      "url": "https://open.spotify.com/track/5qaSekPPKHIEA1Yn0qkCaC"
+      "duration_ms": 243280,
+      "name": "Just Like Paradise",
+      "url": "https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM"
     }
   ],
   "unique_name": "80s Rock Drive",

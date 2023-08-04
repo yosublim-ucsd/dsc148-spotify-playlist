@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,954 likes - 97 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,993 likes - 97 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lskIHz70Ye.md) - [plain]
 | 96 | [High Tops](https://open.spotify.com/track/4Tp755Pl6kyXxnaA3CZY98) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [High Tops](https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA) | 2:53 |
 | 97 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 |
 
-Snapshot ID: `MCxkNzEzNTU1MDU2MTJmZGIwODE0ZDhjZmZlOTJlNGY4MmI4ZDQ3MzY1`
+Snapshot ID: `MCxmMmZjOTNmODNiODc2MDFmNTEyYWJhNzUzMWE1NjhiMjgwNTljYzc3`

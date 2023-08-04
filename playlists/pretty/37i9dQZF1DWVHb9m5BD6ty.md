@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 41 | [Brown](https://open.spotify.com/track/0c6YkDqJgpaX2kCTwXbrjj) | [Ama Millieir](https://open.spotify.com/artist/4IrUxLaGY463W3WD3ABWCa) | [Brown](https://open.spotify.com/album/1VYBVGhN5z43zG8j7ni4pq) | 3:00 |
 | 42 | [Shining](https://open.spotify.com/track/5QP2rGiVzDNAEsS5loaGck) | [BoyW1DR](https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb) | [Shining](https://open.spotify.com/album/6ehnt3b5Dlr5A0PA3E3KKK) | 3:09 |
 | 43 | [Wasting Time](https://open.spotify.com/track/56ebQiBJZnXsSZ8iTfCdqU) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Wasting Time](https://open.spotify.com/album/2iObfuLdk1Y0myNdPXl23U) | 3:02 |
-| 44 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
+| 44 | [Taurus](https://open.spotify.com/track/03jLQhVcW1wyHpGaATzbQW) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/65PxIf97kRctYT8rshapFc) | 3:06 |
 | 45 | [Golden](https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw) | 3:09 |
 | 46 | [Talk Of The Town](https://open.spotify.com/track/5UDz6sn2l8wxb8UiLwPuQi) | [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk Of The Town](https://open.spotify.com/album/2phDAPFkN9NhkOPaZmK6Nm) | 3:06 |
 | 47 | [Love Tonight](https://open.spotify.com/track/1aHXAZNGyetcsmDlPqBazn) | [Soulé](https://open.spotify.com/artist/1XRCocF9w2bZKho10CbDOP), [C Cane](https://open.spotify.com/artist/3iKIlc0XHCyQQf7yQqARkG) | [Love Tonight](https://open.spotify.com/album/5Lbxv2mUeOd8Ve8SOGMiX0) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 | 49 | [Tiger Woods](https://open.spotify.com/track/3TP4es7Z8PL11XHNExj0aB) | [Av9](https://open.spotify.com/artist/1jIj0KgtAmcGbI8aPILxej), [Chuks](https://open.spotify.com/artist/7aQgFbV1G32PxN1IunF4Hw), [Rose9](https://open.spotify.com/artist/2YnLovVFq1yb1i04StOpei) | [Tiger Woods](https://open.spotify.com/album/3kWPB2Q3oYywGaqW018mCB) | 3:51 |
 | 50 | [061](https://open.spotify.com/track/07zGUsX4t6zF4VQfa9hHDi) | [Denise Chaila](https://open.spotify.com/artist/2VjvDoPMZvWItuivXdoe5Y) | [061](https://open.spotify.com/album/5W3aa9ngdHTngZTE6f5hzw) | 3:14 |
 
-Snapshot ID: `MCwxZGFhYmU3OGJmZGRmOTc3NjM3YzJjOGQ0NzIxYWNmNTkzZWNlZTFj`
+Snapshot ID: `MCxlYTA1MGZjNTM0NmNlMWYwYjlmZjgzMzUzMTk1ZDRjYzY3MmM1Njhh`

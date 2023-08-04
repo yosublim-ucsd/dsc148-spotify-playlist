@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 91 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
 | 92 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
 | 93 | [Miracles](https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:16 |
-| 94 | [Around](https://open.spotify.com/track/00EIqQvoztV9Qfh7xEAP6d) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Alright](https://open.spotify.com/album/7nVd4b8dAUrR8LGcaPgz8R) | 2:30 |
+| 94 | [Around](https://open.spotify.com/track/5FdNZJwSaFLqT1AYhbGpio) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Cabo Blanco](https://open.spotify.com/album/0vwZRg44EvPwKdwRGul4Us) | 2:30 |
 | 95 | [Gem](https://open.spotify.com/track/4EWigRsUuQBFO7vCwTFFHW) | [Romeo + Juliet](https://open.spotify.com/artist/7FZu3dX3gmWstmpFvfpUo2) | [Raging Bull](https://open.spotify.com/album/7ALsOonjasgDlpU4OkXSyo) | 4:14 |
 | 96 | [2 Steppin'](https://open.spotify.com/track/4cbV9dRnFNNsfc5B6RAbLX) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [2 Steppin'](https://open.spotify.com/album/7gEURTKTw4fIvmmnSxT16h) | 2:50 |
 | 97 | [Prefecture](https://open.spotify.com/track/2mgaWlD0SH2B87EMftqqEL) | [The Bright Light Social Hour](https://open.spotify.com/artist/7oIZ8VPQ688hUQ3dQ4y6rD) | [Prefecture](https://open.spotify.com/album/61TiECWYYs43V3B1oVRU69) | 5:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 |
 | 100 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 |
 
-Snapshot ID: `MCwxN2JiOGNiMTU5ZDlhODFkMmYzOWFkNWVmODljZTg1ZjllYjNjMmRh`
+Snapshot ID: `MCwyNWI2ODg4MjdhYzU2ZDQ3NWZjMjI0NWMzMzFkZTY3ZWVmMmIwMmJj`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
+  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -483,26 +483,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Gl\u00f3ria a Deus nas Alturas",
-        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
-      },
-      "artists": [
-        {
-          "name": "Laura Morena",
-          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
-        },
-        {
-          "name": "Sullivan Dutra",
-          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
-        }
-      ],
-      "duration_ms": 242192,
-      "name": "Gl\u00f3ria a Deus nas Alturas",
-      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Apaixonado",
         "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 337537,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Gl\u00f3ria a Deus nas Alturas",
+        "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
+      },
+      "artists": [
+        {
+          "name": "Laura Morena",
+          "url": "https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU"
+        },
+        {
+          "name": "Sullivan Dutra",
+          "url": "https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki"
+        }
+      ],
+      "duration_ms": 242192,
+      "name": "Gl\u00f3ria a Deus nas Alturas",
+      "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
     },
     {
       "added_at": "2022-12-09 06:26:14",

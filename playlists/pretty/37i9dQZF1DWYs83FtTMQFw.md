@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Travis Scott, Gunna, The Weekend and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,243,104 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,243,691 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 96 | [Down In Atlanta](https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Down In Atlanta](https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp) | 2:44 |
 | 97 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
 
-Snapshot ID: `MCw3ZmFiOGIxNjE0NWNmMDA5NDYwNjUwMGFlYjk3YjhjYWI0ZDBjMDVm`
+Snapshot ID: `MCxhOTg3MDI4NDIzYjk5NmM4NTg0YzVkMjUyZDRhYjBkYWZiZDE2NjNi`

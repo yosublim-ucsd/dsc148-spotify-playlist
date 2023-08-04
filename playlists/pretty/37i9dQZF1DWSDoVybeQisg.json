@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1108667,
+  "num_followers": 1108954,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmNmZmRjZWJiYjExMGUzZTJmMDA1OTI2NWY5NTg5ODA0NjAzYTlh",
+  "snapshot_id": "MCxjYWFlMThjMDVkYTA1ODUzNjczYjMxM2Q2YTFhN2EyN2E3MzZlZDE3",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -319,18 +319,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+      "duration_ms": 312253,
+      "name": "Venus In Furs",
+      "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -367,22 +371,18 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 312253,
-      "name": "Venus In Furs",
-      "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
     },
     {
       "added_at": "2023-01-18 16:20:47",

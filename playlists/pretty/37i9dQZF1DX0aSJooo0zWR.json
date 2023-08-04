@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 186613,
+  "num_followers": 186711,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTgxNjUyYmM5NGJiZmRjNzk5ZmY3ZWU3YjgwZmYzODUwMmNlMTYz",
+  "snapshot_id": "MCxlYmFkMjQxZGMxM2QzYTQxOWUxZWNhNDc1OTVlZTYyMGNkNDA0NGRk",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -87,6 +87,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "The Aristocrats",
+        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
+      },
+      "artists": [
+        {
+          "name": "The Aristocrats",
+          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
+        }
+      ],
+      "duration_ms": 353666,
+      "name": "Bad Asteroid",
+      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "I Can See Your House From Here",
         "url": "https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 259360,
       "name": "The Red One",
       "url": "https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Aristocrats",
-        "url": "https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf"
-      },
-      "artists": [
-        {
-          "name": "The Aristocrats",
-          "url": "https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Bad Asteroid",
-      "url": "https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Collisions",
-        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
-      },
-      "artists": [
-        {
-          "name": "TAUK",
-          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
-        }
-      ],
-      "duration_ms": 300876,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Romantic Warrior",
         "url": "https://open.spotify.com/album/2mLtPMLV5nWE0rzjVvcEmt"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 313866,
       "name": "Medieval Overture - Instrumental",
       "url": "https://open.spotify.com/track/1wt87z7ipHD4uhCJLA2p4N"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Collisions",
+        "url": "https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK"
+      },
+      "artists": [
+        {
+          "name": "TAUK",
+          "url": "https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O"
+        }
+      ],
+      "duration_ms": 300876,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/05VH3gIVLBlbQdwIxhhIoW"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Brecker Bros",
+        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
+      },
+      "artists": [
+        {
+          "name": "The Brecker Brothers",
+          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
+        }
+      ],
+      "duration_ms": 350506,
+      "name": "Some Skunk Funk",
+      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
       "added_at": "2023-01-06 05:00:00",
       "album": {
         "name": "Layers",
@@ -351,22 +367,6 @@
       "duration_ms": 164622,
       "name": "Layers",
       "url": "https://open.spotify.com/track/33x06YtLX7JGoaxJqVKRZL"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Brecker Bros",
-        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
-      },
-      "artists": [
-        {
-          "name": "The Brecker Brothers",
-          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
-        }
-      ],
-      "duration_ms": 350506,
-      "name": "Some Skunk Funk",
-      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw"
     },
     {
+      "added_at": "2021-07-02 04:01:00",
+      "album": {
+        "name": "Space-Time",
+        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber Fusion",
+          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
+    },
+    {
       "added_at": "2021-04-02 05:01:00",
       "album": {
         "name": "Extension",
@@ -1087,22 +1103,6 @@
       "duration_ms": 579060,
       "name": "1 Year After",
       "url": "https://open.spotify.com/track/6Xj35C5FprsCMDLOe4oljd"
-    },
-    {
-      "added_at": "2021-07-02 04:01:00",
-      "album": {
-        "name": "Space-Time",
-        "url": "https://open.spotify.com/album/2pGpLfTURhKVeaH6xGGW5W"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber Fusion",
-          "url": "https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        }
+      ],
+      "duration_ms": 325040,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -1303,22 +1319,6 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        }
-      ],
-      "duration_ms": 325040,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1381,6 +1381,22 @@
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
     },
     {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
+      },
+      "artists": [
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
+    },
+    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "VHS Fireplace Love (Live)",
@@ -1403,22 +1419,6 @@
       "duration_ms": 164000,
       "name": "VHS Fireplace Love - Live",
       "url": "https://open.spotify.com/track/0KnOaVTR86BAG2v2sobFuy"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
       "added_at": "2022-09-23 04:01:00",

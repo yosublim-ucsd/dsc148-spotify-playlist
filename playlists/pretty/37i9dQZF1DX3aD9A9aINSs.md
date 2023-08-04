@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Derya Uluğ
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,851 likes - 49 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,058 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 48 | [Karanfil Ekeceğim](https://open.spotify.com/track/5diDixY3YahLkmLNnZgXNa) | [Sevcan Orhan](https://open.spotify.com/artist/18HQhVaGq9v0wM4u4YDW9A) | [Karanfil Ekeceğim](https://open.spotify.com/album/4pSitpQU82CpnJcDqwIG5N) | 3:30 |
 | 49 | [Son Defa](https://open.spotify.com/track/4EuFlsHDMfrXFK32j2P4uW) | [NVZ](https://open.spotify.com/artist/5EPTeGinAnGxr6mX3M2vbp) | [Son Defa](https://open.spotify.com/album/6YPzIhiR4LqVwU1SfskKd5) | 2:30 |
 
-Snapshot ID: `MCw2Njc2Mjc3ZGIzMTk3MDdkMzFmYTIyMWJlNGRlYWFmNGY2ZGQ3Zjkx`
+Snapshot ID: `MCw0OTgzMWRjNzkwYWYxM2NmNmZjOTMzNWRiODJkZjFkNDk5ODk4NzAz`

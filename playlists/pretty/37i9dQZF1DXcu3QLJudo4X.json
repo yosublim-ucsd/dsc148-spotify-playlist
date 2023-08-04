@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 57999,
+  "num_followers": 58098,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmE5NzI5MjgzYzhjM2FkZDA0Zjg0NGJkYTIwNzE3MTllNGNmM2Ex",
+  "snapshot_id": "MCxmYTBlZWZiMmVjYzg0YjVkMjMyYWQzOWE1NzdhMTYwMzBkNWExYmMw",
   "tracks": [
     {
       "added_at": "2023-04-06 13:07:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
         "name": "Jamming With Edward",
         "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 314373,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "Getting Ready... (World)",
+        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/7HIBn41u0vLwDlJKjp8Nmk"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -671,8 +671,8 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -699,22 +699,6 @@
       "duration_ms": 179813,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/3xY7sD1mmOiCAeDfVZ4Qv5"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
-        "name": "Texas Cannonball",
-        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -751,8 +735,24 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+        "name": "Texas Cannonball",
+        "url": "https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 187773,
-      "name": "Blues With A Feeling",
-      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2023-04-06 13:07:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-06 13:07:38",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Stack-O-Lee",
-      "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
-    },
-    {
-      "added_at": "2023-04-06 13:07:38",
-      "album": {
         "name": "Good Things Don't Happen Every Day",
         "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
+    },
+    {
+      "added_at": "2023-04-06 13:07:38",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Stack-O-Lee",
+      "url": "https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD"
     },
     {
       "added_at": "2023-04-06 13:07:38",

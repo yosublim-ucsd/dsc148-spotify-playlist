@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 281850,
+  "num_followers": 281955,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDk1NmI0ZDkyYjk3N2EwNDQ4YzA1ZjIzOTVkNjc0YTJkMDRkNTIy",
+  "snapshot_id": "MCxhY2E5NGEwMDJiOTIwNTljZDJhYzg1MDdlMGIyZTc3NGY5ZDc3OWU1",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Luke Bell",
+        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
+      },
+      "artists": [
+        {
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Where Ya Been?",
+      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Luke Bell",
-        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
-      },
-      "artists": [
-        {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Where Ya Been?",
-      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "My Gospel",
-        "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 261730,
-      "name": "I'll Be the One",
-      "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 300895,
       "name": "Weather",
       "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "My Gospel",
+        "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 261730,
+      "name": "I'll Be the One",
+      "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Daddy's Country Gold",
-        "url": "https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "Makin' Memories",
-      "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Pohorylle",
         "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 187306,
       "name": "Tehachapi",
       "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Daddy's Country Gold",
+        "url": "https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "Makin' Memories",
+      "url": "https://open.spotify.com/track/6Q2TsYhosD9BaHio4WLd3o"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "To Learn Her",
-      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Orphan Offering",
         "url": "https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 338814,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
-      },
-      "artists": [
-        {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
-        }
-      ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Mint Condition",
         "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 242493,
       "name": "Mint Condition",
       "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "I've Got a Way",
-        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waldon",
-          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Dirty Old Town",
-      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Road to Heaven",
         "url": "https://open.spotify.com/album/5RCUWKlWpbFjt5TgRns9aA"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 223091,
       "name": "Road to Heaven",
       "url": "https://open.spotify.com/track/0kmJsk0yNfxB1ICbKRpUzZ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I've Got a Way",
+        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
     },
     {
       "added_at": "2023-07-14 04:00:00",

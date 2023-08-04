@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: P!nk",
-  "num_followers": 916140,
+  "num_followers": 916146,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTUzYzY0NzNhNjc3NmQzODliMzIyODdmODQxNmNhNzY5MDA0Y2Rk",
+  "snapshot_id": "MCxlN2JlY2EyMDZhZjNiZWQ3ZmNlMTM1MTM5NWMzNmJhMWVlYTc1NGQx",
   "tracks": [
     {
       "added_at": "2023-08-02 04:00:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Qui\u00e9nes Son?",
+      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Cheat (feat. JoJo)",
         "url": "https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Qui\u00e9nes Son?",
-      "url": "https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Ping Pong",
+        "url": "https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Ping Pong",
+      "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Can I Shower At Yours",
         "url": "https://open.spotify.com/album/0fTLP9DCzyRXwn1un2prwj"
       },
@@ -299,22 +319,18 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Ping Pong",
-        "url": "https://open.spotify.com/album/78O50pRKdsnXqYBZaAdN15"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "Chanel",
-          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 159272,
-      "name": "Ping Pong",
-      "url": "https://open.spotify.com/track/1iNJJ72vb58cVLX5Wkbpwv"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -335,22 +351,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
       },
@@ -363,26 +363,6 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "WILLY",
-        "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
-      },
-      "artists": [
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        },
-        {
-          "name": "Pizzol",
-          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "WILLY",
-      "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -407,38 +387,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Alabama",
-        "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
+        "name": "WILLY",
+        "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
         },
         {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+          "name": "Pizzol",
+          "url": "https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK"
         }
       ],
-      "duration_ms": 214605,
-      "name": "Alabama",
-      "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
-      },
-      "artists": [
-        {
-          "name": "BELL WARISARA",
-          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
-        }
-      ],
-      "duration_ms": 251365,
-      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
+      "duration_ms": 165000,
+      "name": "WILLY",
+      "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -463,6 +427,26 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Alabama",
+        "url": "https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 214605,
+      "name": "Alabama",
+      "url": "https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf"
       },
@@ -483,6 +467,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy"
+      },
+      "artists": [
+        {
+          "name": "BELL WARISARA",
+          "url": "https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY"
+        }
+      ],
+      "duration_ms": 251365,
+      "name": "\u0e01\u0e47\u0e14\u0e35\u0e2d\u0e22\u0e39\u0e48\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "MAMA EH",
         "url": "https://open.spotify.com/album/5U8A7AUT8X995x5f269DpO"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Little Magic",
-        "url": "https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO"
-      },
-      "artists": [
-        {
-          "name": "Gigi\u708e\u660e\u71b9",
-          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
-        }
-      ],
-      "duration_ms": 178325,
-      "name": "Little Magic",
-      "url": "https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Qu\u00e9 Iron\u00eda",
         "url": "https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 267445,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Little Magic",
+        "url": "https://open.spotify.com/album/3IzP355xSCEj7E9cbD74dO"
+      },
+      "artists": [
+        {
+          "name": "Gigi\u708e\u660e\u71b9",
+          "url": "https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA"
+        }
+      ],
+      "duration_ms": 178325,
+      "name": "Little Magic",
+      "url": "https://open.spotify.com/track/19ZYJzZ3M2MWKOg81xfI73"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Kim Bilir",
-        "url": "https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM"
-      },
-      "artists": [
-        {
-          "name": "Eda Baba",
-          "url": "https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm"
-        }
-      ],
-      "duration_ms": 139881,
-      "name": "Kim Bilir",
-      "url": "https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Isla Mater",
         "url": "https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 191428,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "Kim Bilir",
+        "url": "https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM"
+      },
+      "artists": [
+        {
+          "name": "Eda Baba",
+          "url": "https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm"
+        }
+      ],
+      "duration_ms": 139881,
+      "name": "Kim Bilir",
+      "url": "https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Been You",
+        "url": "https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP"
+      },
+      "artists": [
+        {
+          "name": "Y ARA",
+          "url": "https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6"
+        }
+      ],
+      "duration_ms": 209833,
+      "name": "Been You",
+      "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Options (feat. Tamera & Bellah)",
         "url": "https://open.spotify.com/album/2y88atrEyn3HMKLgpkD6VB"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 224451,
       "name": "Options (feat. Tamera & Bellah)",
       "url": "https://open.spotify.com/track/0DZsGL1M6txb1dobjIqca5"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Been You",
-        "url": "https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP"
-      },
-      "artists": [
-        {
-          "name": "Y ARA",
-          "url": "https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6"
-        }
-      ],
-      "duration_ms": 209833,
-      "name": "Been You",
-      "url": "https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "A Dream of Bonnie and Clyde",
         "url": "https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 128710,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/7HhucprxrFJcoonHk8Oh2A"
-      },
-      "artists": [
-        {
-          "name": "Saya No\u00e9",
-          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/67U4ELgWMvHdnfYCTubs6e"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "There's Nothing Else",
-        "url": "https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq"
-      },
-      "artists": [
-        {
-          "name": "Assia Keva",
-          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
-        }
-      ],
-      "duration_ms": 222250,
-      "name": "There's Nothing Else",
-      "url": "https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/3JYJhlexDFk0pM5pESRgKc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 182535,
       "name": "come around",
       "url": "https://open.spotify.com/track/5aS72tjLvmMreeR0khCjcE"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "There's Nothing Else",
+        "url": "https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "duration_ms": 222250,
+      "name": "There's Nothing Else",
+      "url": "https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "S k\u00fdm si",
-        "url": "https://open.spotify.com/album/4O3BcLRXAMX6DhqqUM33Wx"
-      },
-      "artists": [
-        {
-          "name": "Ronie",
-          "url": "https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0"
-        }
-      ],
-      "duration_ms": 181132,
-      "name": "S k\u00fdm si",
-      "url": "https://open.spotify.com/track/00GESHDQTGkir7TfmWy01b"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "za wcze\u015bnie",
         "url": "https://open.spotify.com/album/6k9mMccxYIYw9KNc6aF7Ty"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 129565,
       "name": "za wcze\u015bnie",
       "url": "https://open.spotify.com/track/7y5c3BLzKZNDxMuz57fBO0"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "S k\u00fdm si",
+        "url": "https://open.spotify.com/album/4O3BcLRXAMX6DhqqUM33Wx"
+      },
+      "artists": [
+        {
+          "name": "Ronie",
+          "url": "https://open.spotify.com/artist/1u8P9isPGHQEgA3q3EN9x0"
+        }
+      ],
+      "duration_ms": 181132,
+      "name": "S k\u00fdm si",
+      "url": "https://open.spotify.com/track/00GESHDQTGkir7TfmWy01b"
     },
     {
       "added_at": "2023-08-02 04:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Gipsy chic // \u0254\u0131\u0265\u0254 \u028esd\u0131\u0183",
+        "url": "https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi"
+      },
+      "artists": [
+        {
+          "name": "Assurdit\u00e8",
+          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
+        }
+      ],
+      "duration_ms": 168300,
+      "name": "Figlie della Luna",
+      "url": "https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "Work-life Island",
         "url": "https://open.spotify.com/album/7idGTwDPcl1mh9oCnVC42d"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "Gipsy chic // \u0254\u0131\u0265\u0254 \u028esd\u0131\u0183",
-        "url": "https://open.spotify.com/album/67SNETlm4OzX9tryXgu3bi"
-      },
-      "artists": [
-        {
-          "name": "Assurdit\u00e8",
-          "url": "https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC"
-        }
-      ],
-      "duration_ms": 168300,
-      "name": "Figlie della Luna",
-      "url": "https://open.spotify.com/track/4SceTQLARIDQbsI5AT25iu"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "LIVE ARCHIVE",
         "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        }
-      ],
-      "duration_ms": 188948,
-      "name": "Bacchus",
-      "url": "https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
         "name": "Y Volviste a Decir Te Amo",
         "url": "https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 226443,
       "name": "Y Volviste a Decir Te Amo",
       "url": "https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6Kk6WqqqCM2ntCv3jxifau"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 188948,
+      "name": "Bacchus",
+      "url": "https://open.spotify.com/track/0Bm96DapZQH5f05Er9nBJQ"
     },
     {
       "added_at": "2023-08-02 14:04:23",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-08-02 04:00:00",
       "album": {
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
+      },
+      "artists": [
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 220081,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
+    },
+    {
+      "added_at": "2023-08-02 04:00:00",
+      "album": {
         "name": "A Goddess, WBU?",
         "url": "https://open.spotify.com/album/5Lrtc2ig97nGmvZ92T6lgQ"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 143506,
       "name": "Pap",
       "url": "https://open.spotify.com/track/64nGCCBJ8Gyb8Vqyavyk1B"
-    },
-    {
-      "added_at": "2023-08-02 04:00:00",
-      "album": {
-        "name": "Sur",
-        "url": "https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5"
-      },
-      "artists": [
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 220081,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx"
     }
   ],
   "unique_name": "EQUAL Global",

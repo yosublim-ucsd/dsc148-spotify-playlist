@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,643 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,717 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [The Well Run Dry](https://open.spotify.com/track/30b90XD4VP61a8h70iv31o) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Studio One Kings](https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj) | 2:33 |
 | 60 | [African Challenge](https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg) | [Zoot Simms](https://open.spotify.com/artist/3dP5i6gdh5Wulg5Zs1gRPx) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 3:13 |
 
-Snapshot ID: `MCw3Mjk0NDVjMzBlNWJiYzI5ZmEwZmU3OTAxY2Y1NjUyNjM1ZDhiNWY0`
+Snapshot ID: `MCxjY2E0ZWRkZTVkZjViN2I5YWFmZDkzOTE2OGMxYWUzYzZhMGZkNWQ2`

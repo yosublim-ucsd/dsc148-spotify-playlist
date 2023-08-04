@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: MOONY(\ubb34\ub2c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 449051,
+  "num_followers": 449207,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzgyZjEyZDA4ODc5ODJkZTRiN2EzYzczYTk5YzcxMmI5Y2ZhNzk2",
+  "snapshot_id": "MCxlYTVlMjljMjAwNTJjYjJjODVlMGRmM2Q1ZGMxYWU0NWUwZGI5MjQz",
   "tracks": [
     {
       "added_at": "2023-08-01 04:46:36",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Orange, You\u2019re Not a Joke to Me!",
-        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 220069,
-      "name": "Orange, You\u2019re Not a Joke to Me!",
-      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
-    },
-    {
-      "added_at": "2023-08-01 04:46:36",
-      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-08-01 04:46:36",
+      "album": {
+        "name": "Orange, You\u2019re Not a Joke to Me!",
+        "url": "https://open.spotify.com/album/1dmR4oRQ2rGx8uOVN0Ml6o"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 220069,
+      "name": "Orange, You\u2019re Not a Joke to Me!",
+      "url": "https://open.spotify.com/track/6eAVfkbRov3Md8RmQJrZb9"
     },
     {
       "added_at": "2023-08-01 04:46:36",
@@ -847,18 +847,22 @@
     {
       "added_at": "2023-08-01 04:46:36",
       "album": {
-        "name": "Don't be sad",
-        "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
+        "name": "- x - = +",
+        "url": "https://open.spotify.com/album/29UkENf2I78Np78nSQoKY7"
       },
       "artists": [
         {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+          "name": "UNE",
+          "url": "https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
         }
       ],
-      "duration_ms": 210850,
-      "name": "Don't be sad",
-      "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
+      "duration_ms": 181946,
+      "name": "- x - = + (feat. CHOILB)",
+      "url": "https://open.spotify.com/track/4LX2qcAZ2fYIYIBovSSM9U"
     }
   ],
   "unique_name": "In The K-Indie",

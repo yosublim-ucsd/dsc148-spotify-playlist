@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Dennis Dies Das\n",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: erob\u00e9\n",
   "name": "me right now",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 231545,
       "name": "(It Goes Like) Nanana - Edit",
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 157343,
       "name": "2 Baun",
       "url": "https://open.spotify.com/track/7gISDfQIKOQOltrKCSxhrQ"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 159428,
       "name": "Achilles",
       "url": "https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH"
@@ -1414,6 +1414,24 @@
       "duration_ms": 190758,
       "name": "Atlantis - Extra Sped Up Version",
       "url": "https://open.spotify.com/track/3u6PxWema1snbjLbFEyjkJ"
+    },
+    {
+      "album": {
+        "name": "atmen",
+        "url": "https://open.spotify.com/album/3DCW6dJuCcOyorYolGki0V"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162045,
+      "name": "atmen",
+      "url": "https://open.spotify.com/track/5dda6e2D2sflsPDsgmr3H7"
     },
     {
       "album": {
@@ -5003,6 +5021,24 @@
     },
     {
       "album": {
+        "name": "Du hast mich nie geliebt </3\u2026",
+        "url": "https://open.spotify.com/album/0EzmmuePkY1VrvGEpxyzuU"
+      },
+      "artists": [
+        {
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81220,
+      "name": "Du hast mich nie geliebt </3\u2026",
+      "url": "https://open.spotify.com/track/6aoadZIaPyAvIpfdkmonBX"
+    },
+    {
+      "album": {
         "name": "DU WAYST",
         "url": "https://open.spotify.com/album/5Aiq4lr1j8MlpwZ4F77OwD"
       },
@@ -5548,7 +5584,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 196758,
       "name": "Endorphine - Fabian Farell Remix",
       "url": "https://open.spotify.com/track/169dLSgepMhGniBRWpw4KZ"
@@ -5758,7 +5794,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 138135,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/76TxfaszpTgpoHm7FFLvc2"
@@ -6866,6 +6902,24 @@
       "duration_ms": 203613,
       "name": "F\u00fcr immer",
       "url": "https://open.spotify.com/track/4YCs039j51sP9kEw5AJILe"
+    },
+    {
+      "album": {
+        "name": "f\u00fcr immer aber nicht f\u00fcr jetzt (baumwall)",
+        "url": "https://open.spotify.com/album/4hOeYroGuI9Q7KxeFHmlLA"
+      },
+      "artists": [
+        {
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "f\u00fcr immer aber nicht f\u00fcr jetzt (baumwall)",
+      "url": "https://open.spotify.com/track/2BfqcEI98b5QSvZuYMP4H1"
     },
     {
       "album": {
@@ -8898,7 +8952,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -9777,6 +9831,24 @@
     },
     {
       "album": {
+        "name": "AUSTIN (Bonus)",
+        "url": "https://open.spotify.com/album/1F9LY06gadScF4g3g3BrDC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287428,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/4kD3OqYqX2kJCUTEscRBxO"
+    },
+    {
+      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/4nM6Os9s6gzVzsp4dLiSmn"
       },
@@ -9795,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Jumanji",
+        "url": "https://open.spotify.com/album/0WilVksURcWI6aoYZR1uzy"
+      },
+      "artists": [
+        {
+          "name": "NUGAT",
+          "url": "https://open.spotify.com/artist/74yjU6gHx05PeHAokao6DS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163318,
+      "name": "Jumanji",
+      "url": "https://open.spotify.com/track/2VSu92S27IfOZF2WaNBX5j"
+    },
+    {
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
       },
@@ -9810,6 +9900,32 @@
       "duration_ms": 164840,
       "name": "June",
       "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "album": {
+        "name": "Jung & dumm",
+        "url": "https://open.spotify.com/album/7dbIYBCmsxbiFxg5BWXwJn"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Maikel",
+          "url": "https://open.spotify.com/artist/2T1zM7AtA0Cd9u1m3PBFEY"
+        },
+        {
+          "name": "TYM",
+          "url": "https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Jung & dumm",
+      "url": "https://open.spotify.com/track/7xB3seU9qIPhm7UpVIEyeO"
     },
     {
       "album": {
@@ -10982,7 +11098,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 172386,
       "name": "Loser",
       "url": "https://open.spotify.com/track/12jrPVPfBPQ0tyPtrcVP4k"
@@ -11818,7 +11934,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 142999,
       "name": "Mh Mh",
       "url": "https://open.spotify.com/track/7nftwanrXNZxK2l1W6tmHl"
@@ -13727,6 +13843,24 @@
     },
     {
       "album": {
+        "name": "Ohne Mich",
+        "url": "https://open.spotify.com/album/0qMEyRbNjOGkgEvBeycow6"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194066,
+      "name": "Ohne Mich",
+      "url": "https://open.spotify.com/track/0zcq6aMdihYVyKwa3e6l0F"
+    },
+    {
+      "album": {
         "name": "Luftballon EP",
         "url": "https://open.spotify.com/album/5b34iA2RXnOrp4NWuazW5k"
       },
@@ -14259,6 +14393,24 @@
     },
     {
       "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "5LBS OF PRESSURE",
         "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
       },
@@ -14350,6 +14502,24 @@
       "duration_ms": 110078,
       "name": "paranoid (ayo)",
       "url": "https://open.spotify.com/track/1U8nyNKqFMnR2GXWmwudM1"
+    },
+    {
+      "album": {
+        "name": "Paris Paris",
+        "url": "https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176276,
+      "name": "Paris Paris",
+      "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
     },
     {
       "album": {
@@ -14838,7 +15008,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -15688,7 +15858,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 189800,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
@@ -15996,7 +16166,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 190250,
       "name": "SchwippSchwapp",
       "url": "https://open.spotify.com/track/2BfeKcPnZaqA1KRR0kgejS"
@@ -16494,6 +16664,28 @@
       "duration_ms": 111235,
       "name": "Sie Liebt Techno",
       "url": "https://open.spotify.com/track/3EngNejou3x0co3Ed68X7U"
+    },
+    {
+      "album": {
+        "name": "sie mag meine tattoos",
+        "url": "https://open.spotify.com/album/5jLlSHiUuNlbOd6cNDTH9m"
+      },
+      "artists": [
+        {
+          "name": "YFG Pave",
+          "url": "https://open.spotify.com/artist/4Ck46WZxqzpKUInvcgVF1C"
+        },
+        {
+          "name": "HE/RO",
+          "url": "https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136667,
+      "name": "sie mag meine tattoos",
+      "url": "https://open.spotify.com/track/4ERUoVWBlO3LADzrvGBUvv"
     },
     {
       "album": {
@@ -18807,6 +18999,24 @@
     },
     {
       "album": {
+        "name": "Trauma",
+        "url": "https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163253,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw"
+    },
+    {
+      "album": {
         "name": "Treesha",
         "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
       },
@@ -18848,6 +19058,36 @@
       "duration_ms": 158786,
       "name": "Trenchezzz (with Nemzzz)",
       "url": "https://open.spotify.com/track/7bdv0SJlscsRqi6giDwcLp"
+    },
+    {
+      "album": {
+        "name": "Treppenhaus",
+        "url": "https://open.spotify.com/album/0jsbXEF26ZTqjds5fAO7ui"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Treppenhaus",
+      "url": "https://open.spotify.com/track/7zRQCjAB2hz47xZS6wbbB5"
     },
     {
       "album": {
@@ -19792,6 +20032,24 @@
       "duration_ms": 152320,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/6yS4KuB6WaYFeuApxi4lCz"
+    },
+    {
+      "album": {
+        "name": "Vorbei",
+        "url": "https://open.spotify.com/album/0sAlI14mIh3YdVrw4DV01U"
+      },
+      "artists": [
+        {
+          "name": "LUZI",
+          "url": "https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/0okKqSsaDdXzYWZGUjSbRH"
     },
     {
       "album": {
@@ -20962,7 +21220,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 157605,
       "name": "Wie du lachst",
       "url": "https://open.spotify.com/track/3fSoQU2tCIy5mtDDIxbbsK"
@@ -21356,7 +21614,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 150666,
       "name": "Zeit bleibt stehen",
       "url": "https://open.spotify.com/track/5JvYE9xxAr9NRgjc0n9dK4"

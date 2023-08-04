@@ -2,7 +2,7 @@
 
 ### [All The Feels](https://open.spotify.com/playlist/37i9dQZF1DX7gIoKXt0gmx)
 
-> All the vibes\. All the feels\. 🫠
+> All the vibes\. All the feels\. 🫠 🙄
 
 262 songs - 15 hr 44 min
 

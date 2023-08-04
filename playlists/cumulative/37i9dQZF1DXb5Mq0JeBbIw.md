@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-220 songs - 12 hr 40 min
+221 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Hold On To Happiness](https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Hold On To Happiness](https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ) | 3:37 | 2022-05-30 |  |
 | [Home](https://open.spotify.com/track/3UyrU0pqcd2bOSe4nSOiAG) | [brodyn](https://open.spotify.com/artist/5Atytc4w4HE9vlkPs4tBXj) | [Home](https://open.spotify.com/album/3Ft6PiCb5djpCjIvERVTER) | 3:38 | 2022-05-30 | 2022-07-28 |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-30 |  |
-| [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 | 2022-05-30 |  |
+| [I don't mind if you don't mind \(draft\)](https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [In Hindsight](https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0) | 2:18 | 2022-05-30 | 2023-08-04 |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-11-07 |  |
 | [I Still Belong to You](https://open.spotify.com/track/54KQjLzWVSWwWaQeYMytMU) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Belong to You](https://open.spotify.com/album/653b0i9WleCKEdAjsCuOkm) | 3:33 | 2022-05-30 | 2022-07-29 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/39ifiZKJ8VCwgyQTWy9cyL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/4jkqzylbWYyqwzsBthivea) | 2:43 | 2022-06-24 | 2023-06-07 |
@@ -217,6 +217,7 @@
 | [When Does a Heart Move On](https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [When Does a Heart Move On](https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET) | 3:52 | 2022-05-30 | 2022-07-29 |
 | [When Does a Heart Move On](https://open.spotify.com/track/5q9hultY2qhd6sVB0DEEQf) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:52 | 2022-06-24 | 2022-11-21 |
 | [When the Party's Over](https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR) | 2:34 | 2022-06-24 | 2023-06-14 |
+| [When the Party's Over](https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When the Party's Over](https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb) | 2:34 | 2023-02-10 |  |
 | [When The Party's Over](https://open.spotify.com/track/6JZJ6ovrC4UNQMvkzKZmgZ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [When The Party's Over](https://open.spotify.com/album/7zsulBsG4hw2ZuQEFkztQF) | 2:34 | 2022-05-30 | 2022-07-29 |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 | 2022-05-30 |  |
 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 | 2022-05-30 | 2022-07-29 |

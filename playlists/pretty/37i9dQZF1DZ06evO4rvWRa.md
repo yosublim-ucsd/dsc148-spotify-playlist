@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,349 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,463 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 39 | [Blue](https://open.spotify.com/track/2DwNvCKsQLtLILczk3I9bA) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:37 |
 | 40 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
 | 41 | [That's What I Like \- Alan Walker Remix](https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [That's What I Like \(Alan Walker Remix\)](https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S) | 3:15 |
-| 42 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 |
-| 43 | [World We Used To Know](https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:41 |
+| 42 | [World We Used To Know](https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:41 |
+| 43 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 |
 | 44 | [Extremes](https://open.spotify.com/track/5nkkVqGi9YgFOwdbn4BYFM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Extremes](https://open.spotify.com/album/7h1PPe6YeLHGSu9gLRzQLj) | 2:29 |
 | 45 | [Routine](https://open.spotify.com/track/19TSNGmvdTtlxYn4YqYUMf) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [David Whistle](https://open.spotify.com/artist/7Hq6EHWg4kFI4BtsRx1MpO) | [Routine](https://open.spotify.com/album/4YWOoI3Fy2Mv2COZMiYN00) | 2:46 |
 | 46 | [All Around The World \(La La La\) \- Alan Walker Remix](https://open.spotify.com/track/3zwqiYQQblStb1qHxge8g7) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [All Around The World \(La La La\) \[Alan Walker Remix\]](https://open.spotify.com/album/77ePyl2cHKlMqKd1ciW2Ju) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08) | 4:10 |
 | 50 | [Out Of Love](https://open.spotify.com/track/1ez5ood0PsYP4Yi6KhYe7H) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:24 |
 
-Snapshot ID: `MjgxODMwMTgsMDAwMDAwMDA0OTZlZTlmYTIyODQ5ZGQ5NzhlZGU0OTRkMzg2NDZlZQ==`
+Snapshot ID: `MjgxODQ1MTIsMDAwMDAwMDBiZDViZjgzNWRjNzU0NDFmMTUyOGRlNTRiMzgyNDkzNg==`

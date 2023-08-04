@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-552 songs - 1 day 7 hr 9 min
+553 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Belmont Park](https://open.spotify.com/track/4qSDDMj8hSkjSMEybf3jdX) | [Alice Gray](https://open.spotify.com/artist/6bSM7pvpb0bMWHl9ZuCIs1) | [Belmont Park](https://open.spotify.com/album/63ugzV8wka0qYk5oDp4uNe) | 2:54 | 2022-03-18 | 2022-05-20 |
 | [Benadryl](https://open.spotify.com/track/0qyt9rdN0bxh3NWa6NBc9o) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:16 | 2020-10-13\* | 2021-07-17 |
 | [Better In My Head](https://open.spotify.com/track/3jJdf5jT0HOXcWlRkjHe52) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Better In My Head](https://open.spotify.com/album/4b8PewXDOnVY5V9QxlOvOd) | 3:21 | 2021-06-26 | 2021-07-10 |
-| [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-07 |  |
+| [Better Man](https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 2:52 | 2023-04-07 | 2023-08-04 |
 | [Better Not \(with Wafia\)](https://open.spotify.com/track/7n1940b6kHcaEewFSZXnXa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:42 | 2021-06-19 | 2021-12-24 |
 | [Better with You](https://open.spotify.com/track/7s2YoloTmfNK5udUDsv00O) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Better with You](https://open.spotify.com/album/4s5Vpl9QhDE28pRbO5EZSa) | 3:04 | 2022-03-11 | 2022-07-29 |
 | [betty](https://open.spotify.com/track/3IhtE4fkytdrtEfV34UzkD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:54 | 2021-09-25 | 2022-01-01 |
@@ -445,6 +445,7 @@
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-01 |  |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-10-23 | 2021-12-04 |
 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 | 2022-02-25 | 2022-10-15 |
+| [Some Things You’ll Never Know](https://open.spotify.com/track/4MAay2lkhRjskJuWlEuB5b) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Euphoric](https://open.spotify.com/album/4J2xyrxoURH3t6plYCEPhf) | 2:49 | 2023-07-30 |  |
 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 | 2020-10-13\* | 2020-11-18 |
 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 | 2022-03-25 | 2023-01-14 |
 | [Sometimes](https://open.spotify.com/track/2ObEl8XMk6XQIPGFZwAQa9) | [Cajsa Siik](https://open.spotify.com/artist/0YoNeQ5nyDVM6lRAhnzvk8) | [Sometimes](https://open.spotify.com/album/5QcY7Mu7dY9PeFRtKwNc8b) | 4:03 | 2022-12-16 | 2023-01-21 |

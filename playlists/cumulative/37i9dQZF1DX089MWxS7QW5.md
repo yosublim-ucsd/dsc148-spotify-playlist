@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & hottest K\-R&B is here\. \(Cover: Chanju\(찬주\)\)
+> 한국 R&B\. The new & hottest K\-R&B is here\. \(Cover: LEAFY \(리피\)\)
 
-215 songs - 12 hr 14 min
+216 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Strike](https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF) | [HANYE](https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL) | [Strike](https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t) | 4:24 | 2022-12-13 | 2023-04-28 |
 | [Stuck in](https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Stuck in](https://open.spotify.com/album/6QG23BFWlIJxcweb1nU0Rv) | 3:34 | 2023-01-18 |  |
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 | 2022-12-14 |
+| [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 |  |
 | [Sunset to Sunrise](https://open.spotify.com/track/5rkfygpzBJLd8LziK9nD61) | [YNR](https://open.spotify.com/artist/6KNsuFP4y43HfGwlgXGStK) | [Sunset to Sunrise](https://open.spotify.com/album/0W9lundQIEipTgxlmReGQo) | 2:34 | 2022-07-04 | 2022-11-07 |
 | [Swear](https://open.spotify.com/track/50X1UUiTcDjq0tTybkBSot) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1) | [Remember](https://open.spotify.com/album/4yHWe2xBs5mk0wNHafCUVH) | 3:20 | 2022-05-28 | 2022-07-05 |
 | [T.T.T \(Tell The Truth\) \(Feat\. Moon Sujin, NONE\)](https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [NONE](https://open.spotify.com/artist/03EV1JpYOKlc2jSXj0TQrM) | [T.T.T \(Tell The Truth\)](https://open.spotify.com/album/0yp3elCpF7Goy4DEw7dTfL) | 3:15 | 2023-03-27 |  |

@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> La playlist urban più grande d'Italia 🔥 Cover: Vale Pain
+> La playlist urban più grande d'Italia 🔥 Cover: Rhove
 
-335 songs - 16 hr 34 min
+336 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 | 2022-11-24 | 2023-04-28 |
 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 | 2023-06-22 |  |
 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-05-09 | 2022-05-23 |
-| [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-05-15 |  |
+| [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 | 2023-08-03 |  |
+| [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 | 2023-05-15 | 2023-08-04 |
 | [ANIMALE \(feat\. Noyz Narcos & The Whispers\)](https://open.spotify.com/track/0xZ2VIJQlVOY0SlMoQMzfD) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Armageddon](https://open.spotify.com/album/1EIX7SM9G5apJAPLAyjiAq) | 2:37 | 2022-06-02 | 2022-06-17 |
 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 | 2023-01-13 |  |
 | [ARMAGEDDON](https://open.spotify.com/track/3hCEneoWEdtkYfiWPgbhzr) | [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [ARMAGEDDON](https://open.spotify.com/album/0cTvIkr8DgCyEFRYfzHfyd) | 2:33 | 2022-05-19 | 2022-06-03 |

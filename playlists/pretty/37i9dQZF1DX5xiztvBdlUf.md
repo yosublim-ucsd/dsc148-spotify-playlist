@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,506 likes - 80 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,703 likes - 80 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 41 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
 | 42 | [DAWN \- Hayden James Remix](https://open.spotify.com/track/56TRkdp1HtLVtNuX8P3QbB) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [BRONSON Remixes N°.2](https://open.spotify.com/album/1hP7MPj4ZcjxqBGh4ILRoU) | 5:07 |
 | 43 | [You Can Dance Now](https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [You Can Dance Now](https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2) | 4:04 |
-| 44 | [Roda](https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9) | [Roda](https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1) | 4:45 |
-| 45 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
+| 44 | [Better In The Dark](https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Better In The Dark](https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax) | 5:52 |
+| 45 | [Roda](https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9) | [Roda](https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1) | 4:45 |
 | 46 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 | 47 | [Nefertari](https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Nefertari](https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h) | 4:01 |
 | 48 | [Speed of Sound](https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg) | [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej), [Zazou](https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1) | [Speed Of Sound](https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb) | 7:11 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 73 | [If We Only Had](https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [If We Only Had](https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R) | 5:05 |
 | 74 | [Orbits of Dust](https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Orbits of Dust](https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP) | 6:00 |
 | 75 | [Restless](https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb) | [ASHER SWISSA](https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM), [Ahmet Kilic](https://open.spotify.com/artist/5OyOddK42Hm0pENFDWxn39), [Lynn](https://open.spotify.com/artist/7nzbcK2bzEtoMgTQAwHQVl) | [Restless & Wild](https://open.spotify.com/album/47XQrAPZL4Ez2RGs3nkXHX) | 6:43 |
-| 76 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
-| 77 | [Back to the Days](https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [ZEBRA](https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ) | 3:34 |
+| 76 | [Back to the Days](https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [ZEBRA](https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ) | 3:34 |
+| 77 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 78 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 |
 | 79 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 | 80 | [Downtown](https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM) | [Literatura](https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc), [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8), [Junket](https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d) | [Downtown EP](https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl) | 7:44 |
 
-Snapshot ID: `MCxlNjE5YjNjMWIxNTUxZWQyNjIxYzE4YmE2ODI5OTczZmZiYWRmZWQ3`
+Snapshot ID: `MCxmYmYzYWYzMjVmNjAxMmZhMzMwMWYzZjliMDJmOGQyNmRlM2E3NjA0`

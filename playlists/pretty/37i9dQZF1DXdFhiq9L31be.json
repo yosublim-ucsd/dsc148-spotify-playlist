@@ -1,12 +1,12 @@
 {
   "description": "Stripped back recordings like nothing you\u2019ve heard before.  Cover: FINNEAS. ",
-  "num_followers": 157169,
+  "num_followers": 157202,
   "original_name": "Spotify Singles: Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjBiOTQ1ZGRmZTcwODQ2NDJjMjVhNzQ2YjZmN2JiOGI2MTAwNWI2",
+  "snapshot_id": "MCwwYzYwMGUxOTdhMGRlM2MyZWI3YzRiM2Q3MmZiZTVmZjNlMTRlNGRl",
   "tracks": [
     {
       "added_at": "2023-01-11 22:26:00",
@@ -436,22 +436,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
       },
       "artists": [
@@ -463,6 +447,22 @@
       "duration_ms": 176652,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Cover Me Up - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl"
     },
     {
       "added_at": "2023-01-11 22:26:00",
@@ -776,22 +776,6 @@
       "added_at": "2023-01-11 22:26:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 217058,
-      "name": "thank u, next - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
-    },
-    {
-      "added_at": "2023-01-11 22:26:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn"
       },
       "artists": [
@@ -803,6 +787,22 @@
       "duration_ms": 169121,
       "name": "Let Me Down Slowly - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z"
+    },
+    {
+      "added_at": "2023-01-11 22:26:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "thank u, next - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF"
     },
     {
       "added_at": "2023-01-11 22:26:00",

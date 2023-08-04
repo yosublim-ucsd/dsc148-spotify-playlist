@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: サザンオールスターズ
 
-723 songs - 1 day 23 hr 56 min
+724 songs - 1 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [still in me](https://open.spotify.com/track/0J76SgwTH0c1asB63nUFCJ) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/24NqXrbilncITglWtThf9l) | 3:45 | 2022-06-28 | 2022-07-27 |
 | [still in me](https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:45 | 2023-03-28 | 2023-05-10 |
 | [Strawberry Margarita](https://open.spotify.com/track/6TsRIgK1wGPQDy5dsv36AF) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Strawberry Margarita](https://open.spotify.com/album/5BLIyjQJxYW09jh0qh4QUQ) | 3:08 | 2022-11-01 | 2022-12-21 |
-| [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 | 2023-05-25 |  |
+| [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 | 2023-05-25 | 2023-08-04 |
 | [Strike It Out](https://open.spotify.com/track/13pExaXcujflZ57yN2QGuZ) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Strike It Out](https://open.spotify.com/album/1qNUFQXPkILH99sRywZ3E5) | 4:03 | 2022-05-12 | 2022-07-29 |
 | [Strike It Out](https://open.spotify.com/track/6Ecv0FwhjvF13fdnGbcQUu) | [MIYAVI](https://open.spotify.com/artist/7sBtBCNVRujQhaHDODkfTN) | [Strike It Out](https://open.spotify.com/album/36NZdT4c4aVOaCmC5swiMs) | 4:03 | 2022-09-13 | 2022-09-28 |
 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 | 2022-07-26 | 2023-05-10 |
@@ -699,6 +699,7 @@
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-04-11 |  |
 | [群青](https://open.spotify.com/track/06x5F8O4ZqSTgdo9EqiE3T) | [kariyushi58](https://open.spotify.com/artist/0JUEsKG18QuDt6SmyHDrnL) | [七色とかげ](https://open.spotify.com/album/38PMNzLOxdREwrxOS87crH) | 3:34 | 2022-05-10 | 2022-05-24 |
 | [聖者](https://open.spotify.com/track/517o2A0yrq1wb0yZN6K8MB) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [聖者](https://open.spotify.com/album/0pQaWBOfNMQHG6d9ApL7bP) | 3:26 | 2022-08-09 | 2022-09-13 |
+| [能動的三分間](https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [スポーツ](https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU) | 3:00 | 2023-08-01 |  |
 | [花降る空に不滅の歌を](https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [花降る空に不滅の歌を](https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM) | 4:24 | 2023-03-28 | 2023-05-10 |
 | [落下ドライブ](https://open.spotify.com/track/5VNBQNzwh1hTgt4pIi1Owl) | [benzo](https://open.spotify.com/artist/3hfD8RIdPqEcmH9AwCqc34) | [落下ドライブ](https://open.spotify.com/album/6nkuezwaJgpg10I4ByyoJr) | 4:11 | 2023-01-10 | 2023-01-18 |
 | [蜃気楼](https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 4:27 | 2023-06-27 | 2023-06-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,993 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,003 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 4 | [Time](https://open.spotify.com/track/34ncyljvlMvfj2yJDhPaJf) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [West on I\-10](https://open.spotify.com/album/2Xz0fS1DBBIjLRVkImPFD0) | 3:26 |
 | 5 | [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 |
 | 6 | [Lonely Love Song](https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Lonely Love Song](https://open.spotify.com/album/133u1HCKHE50wMw0PrcKFg) | 2:37 |
-| 7 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 |
+| 7 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 |
 | 8 | [Bella Dawn](https://open.spotify.com/track/7IQvBiko7E0Z6ryACl7y3A) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [SEA/SONS](https://open.spotify.com/album/5uS5w8V1auSyzYDsVgDQIQ) | 3:49 |
 | 9 | [Mountain](https://open.spotify.com/track/6w7lYjt4snWEjNQBoJW3kL) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Stolen Time Deluxe](https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds) | 2:23 |
 | 10 | [My Time Machine](https://open.spotify.com/track/6w40Bu1m2RH5BDWgiE2dpy) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [My Time Machine](https://open.spotify.com/album/57p4EJ9fkRKvav7qTI6x2a) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [I Will Stay](https://open.spotify.com/track/4Y0qZxIXZrb2CKonEwCDzf) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 2:34 |
 | 100 | [Old Time's Sake](https://open.spotify.com/track/3IQSmhYf1nst6Gp5BbW3xE) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Beginning of Things](https://open.spotify.com/album/24XNUmmNY44uGmG4aY001K) | 3:22 |
 
-Snapshot ID: `MCwxNzQyMDMzNGE0MzYwM2QyNDliZGMwNWUzZWIyYTI2NGVjMzhkNzg4`
+Snapshot ID: `MCxkOGM1MDg0ZDMzMGU4NWExYmNiOWI3ZDQzN2M3ZDc5YTFlMTk2NTQ2`

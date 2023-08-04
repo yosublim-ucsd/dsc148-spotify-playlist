@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: Juice Boy",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: Jocelyn 9.4.0",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 170204,
       "name": "sharp knife",
       "url": "https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ"
@@ -2058,6 +2058,24 @@
       "duration_ms": 153994,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/6G7o4jAd4EYFH0GDviT4lj"
+    },
+    {
+      "album": {
+        "name": "summer demo",
+        "url": "https://open.spotify.com/album/7AdpQwAJ7cXQfPfKbCFs6k"
+      },
+      "artists": [
+        {
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131374,
+      "name": "summer demo",
+      "url": "https://open.spotify.com/track/78Yls33IMHwaRZbJfkdRJH"
     },
     {
       "album": {
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 183002,
       "name": "\u4ed6\u6765\u65f6\u7684\u811a\u6b65",
       "url": "https://open.spotify.com/track/5D0dp4kKzO4nb3xXqTYCTk"
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 259435,
       "name": "\u5077\u8d70\u9752\u6625\u7684\u6b72\u6708",
       "url": "https://open.spotify.com/track/4NEt76oRzbOeJeGFmmG4nn"
@@ -3490,7 +3508,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 179081,
       "name": "\u53e5\u53f7\u60f3\u5ff5\u95ee\u53f7",
       "url": "https://open.spotify.com/track/7ka7lf2RSsKpBncHGrxE3A"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 273000,
       "name": "\u591a\u4e45\u624d\u61c2\u59b3\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4"
@@ -4382,7 +4400,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 220857,
       "name": "\u5e79\u6389\u4ed6",
       "url": "https://open.spotify.com/track/5FJtg2VtW8vI3mo8rxhAWW"
@@ -6022,7 +6040,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 214927,
       "name": "\u77e5\u9053\u4f60\u904e\u5f97\u4e0d\u592a\u597d\u6211\u5c31\u653e\u5fc3\u4e86 (feat. Teezy)",
       "url": "https://open.spotify.com/track/1XqSUfBkz9jacZOgOkwy2C"
@@ -6974,7 +6992,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 249721,
       "name": "\u932f\u904e",
       "url": "https://open.spotify.com/track/7rIwDvcfedU6IfqIcweezM"
@@ -6996,7 +7014,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 306546,
       "name": "\u966a\u4f60\u5931\u6557 (feat. \u5bfa\u4e8c)",
       "url": "https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl"

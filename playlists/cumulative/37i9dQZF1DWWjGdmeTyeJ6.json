@@ -62077,6 +62077,24 @@
     },
     {
       "album": {
+        "name": "rats in my walls",
+        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312459,
+      "name": "rats in my walls",
+      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
+    {
+      "album": {
         "name": "Rattlesnake",
         "url": "https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG"
       },
@@ -70002,7 +70020,7 @@
     {
       "album": {
         "name": "Somebody",
-        "url": "https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv"
+        "url": "https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N"
       },
       "artists": [
         {
@@ -70017,6 +70035,28 @@
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170765,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv"
+      },
+      "artists": [
+        {
+          "name": "Yung Pooda",
+          "url": "https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai"
+        },
+        {
+          "name": "Cool & Dre",
+          "url": "https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
       "duration_ms": 170765,
       "name": "Somebody (Explicit)",
       "url": "https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp"
@@ -75534,7 +75574,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 237442,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz"

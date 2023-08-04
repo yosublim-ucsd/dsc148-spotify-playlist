@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "Calmoshiya",
+        "url": "https://open.spotify.com/album/1xrLuscNmcMYH4xs0UHCCs"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Calmoshiya",
+      "url": "https://open.spotify.com/track/0k68HmAy5WgSZBcI7NW7cU"
+    },
+    {
+      "album": {
         "name": "Chal Bhool Ja",
         "url": "https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg"
       },
@@ -618,6 +640,24 @@
       "duration_ms": 135125,
       "name": "DARMIYAN",
       "url": "https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H"
+    },
+    {
+      "album": {
+        "name": "Industry2",
+        "url": "https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182018,
+      "name": "DESTINY",
+      "url": "https://open.spotify.com/track/2skHjbqgYwr83621d9phrL"
     },
     {
       "album": {
@@ -1190,7 +1230,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 161676,
       "name": "Kajal",
       "url": "https://open.spotify.com/track/0YVpNFgaEt2NFBAcUBiZU0"
@@ -1512,7 +1552,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 147297,
       "name": "Khwab - Reprise",
       "url": "https://open.spotify.com/track/1qPvV2Esdu9oenN7vXzlys"
@@ -2753,6 +2793,28 @@
     },
     {
       "album": {
+        "name": "Industry2",
+        "url": "https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I"
+      },
+      "artists": [
+        {
+          "name": "Arjun Kanungo",
+          "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+        },
+        {
+          "name": "Zaeden",
+          "url": "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163427,
+      "name": "Tu Hain",
+      "url": "https://open.spotify.com/track/0N3Z2AgLRFHbXXPWtJW372"
+    },
+    {
+      "album": {
         "name": "Tu Hi",
         "url": "https://open.spotify.com/album/39qaePyWjejpzWL4Yvy2l3"
       },
@@ -2880,7 +2942,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 241935,
       "name": "TUM JO SAATH HO",
       "url": "https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu"

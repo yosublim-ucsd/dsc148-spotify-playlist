@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Bad Gyalz",
+        "url": "https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159299,
+      "name": "Bad Gyalz",
+      "url": "https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv"
+    },
+    {
+      "album": {
         "name": "Badboy Flow EP",
         "url": "https://open.spotify.com/album/5y1yQHfS9MyvOuflJOeI4D"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 204137,
       "name": "Burn 'Em Down",
       "url": "https://open.spotify.com/track/43ohQwkTpSSgVdib9dJWj1"
@@ -568,7 +586,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 288000,
       "name": "Dissever",
       "url": "https://open.spotify.com/track/5ustxZkqst9khBjiGtmvdo"
@@ -776,6 +794,28 @@
       "duration_ms": 277241,
       "name": "Fateful Hour",
       "url": "https://open.spotify.com/track/5ZwvPXsvqWOr2XcDZ1ohu6"
+    },
+    {
+      "album": {
+        "name": "Feel It Deep Inside",
+        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153825,
+      "name": "Feel It Deep Inside",
+      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
     },
     {
       "album": {
@@ -1669,6 +1709,28 @@
     },
     {
       "album": {
+        "name": "Ready To Go (feat. Bright Sparks)",
+        "url": "https://open.spotify.com/album/6A3dg8xEOfWYIgLRETqprL"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Bright Sparks",
+          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212617,
+      "name": "Ready To Go (feat. Bright Sparks)",
+      "url": "https://open.spotify.com/track/20AFetMBmDCOBSalxv0YHv"
+    },
+    {
+      "album": {
         "name": "Revenant",
         "url": "https://open.spotify.com/album/4xztJfknT7CtmYNoQMllsn"
       },
@@ -2151,6 +2213,28 @@
     },
     {
       "album": {
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "album": {
         "name": "The Imposter",
         "url": "https://open.spotify.com/album/7gMeh3mBLtKh3VdlL9mx7b"
       },
@@ -2192,6 +2276,28 @@
     {
       "album": {
         "name": "Thinkin About",
+        "url": "https://open.spotify.com/album/32eqsdJ2XYeHt8FQhO7wlM"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159245,
+      "name": "Thinkin About",
+      "url": "https://open.spotify.com/track/5tPtDCQ6m8UoNPYrmesbFj"
+    },
+    {
+      "album": {
+        "name": "Thinkin About",
         "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
       "artists": [
@@ -2206,7 +2312,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 159245,
       "name": "Thinkin About",
       "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"

@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 15176,
+  "num_followers": 15342,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVhYTk4OWVhNDg0ZTE2OGUzNzY2ZDQwODM3ZGI2ZjY2YjIwYmYx",
+  "snapshot_id": "MCwxMTJlYWFiYTU5NGM0ZTBlMDlmOWZhYTVhMWJkZGI5MGM3ZGMwNTlh",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Life of Leisure",
+        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "New Theory",
+      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Free The Universe (Extended Version)",
         "url": "https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 289973,
       "name": "Get Free",
       "url": "https://open.spotify.com/track/0yhGTljYYHyP7phuxoKWiJ"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Life of Leisure",
-        "url": "https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "New Theory",
-      "url": "https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr"
-      },
-      "artists": [
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        }
-      ],
-      "duration_ms": 181149,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Seconds",
         "url": "https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 172496,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/7603o589huckPbiELnUKgu"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/2SDRefKHEIs8bWDACXPuVr"
+      },
+      "artists": [
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        }
+      ],
+      "duration_ms": 181149,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/63PEsIWyy3QgiPy4u5I9pG"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Love Songs: Part Two",
-        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "Love Songs: Part Two",
+        "url": "https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
         }
       ],
-      "duration_ms": 148706,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+      "duration_ms": 294211,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -771,6 +755,22 @@
       "duration_ms": 216923,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
       },
       "artists": [
         {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+      "duration_ms": 75429,
+      "name": "Easy Fraction",
+      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1183,18 +1183,34 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Breakbot",
-          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 75429,
-      "name": "Easy Fraction",
-      "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1211,22 +1227,6 @@
       "duration_ms": 117967,
       "name": "Can't See What Is Burning There - Mixed",
       "url": "https://open.spotify.com/track/4QWwyaxVCf7rY9ifMJaNTK"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Meet the Frownies",
-        "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
-      },
-      "artists": [
-        {
-          "name": "Mr Twin Sister",
-          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Meet the Frownies",
-      "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 233017,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Meet the Frownies",
+        "url": "https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S"
+      },
+      "artists": [
+        {
+          "name": "Mr Twin Sister",
+          "url": "https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Meet the Frownies",
+      "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Don't Call It Love - 12\" Version",
-      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Just EP",
         "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 372555,
       "name": "Just",
       "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        }
+      ],
+      "duration_ms": 385986,
+      "name": "Don't Call It Love - 12\" Version",
+      "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "All In All",
-        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 468113,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Love What Survives",
         "url": "https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Hunch Music",
-        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+        "name": "All In All",
+        "url": "https://open.spotify.com/album/2ROQYFuwNtresrGarebbjN"
       },
       "artists": [
         {
-          "name": "Hunee",
-          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 351207,
-      "name": "Rare Happiness",
-      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
+      "duration_ms": 468113,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/3ZGHAc7tq5CQzfK7HsobCa"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1635,6 +1619,22 @@
       "duration_ms": 229155,
       "name": "Without",
       "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Hunch Music",
+        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+      },
+      "artists": [
+        {
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+        }
+      ],
+      "duration_ms": 351207,
+      "name": "Rare Happiness",
+      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
     },
     {
       "added_at": "2023-05-17 20:35:57",

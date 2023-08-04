@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,073 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,134 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 49 | [223's \(feat\. 9lokknine\)](https://open.spotify.com/track/4sjiIpEv617LDXaidKioOI) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [9lokknine](https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm) | [223's \(feat\. 9lokknine\)](https://open.spotify.com/album/7cekEHNPgpKwVd9kJE9G8F) | 2:56 |
 | 50 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 
-Snapshot ID: `MCwyNjA3M2I1MjQxMDg4ODg2NGU4YjgzMDk4YzFhMzY3ZGI3MGY3ZTlk`
+Snapshot ID: `MCw5YzA2OWNlY2QxNmZlNmYyOGIyZmIzZTVmNjA0YTE5OTMxOTFkNTNm`

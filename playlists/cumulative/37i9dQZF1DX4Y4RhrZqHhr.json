@@ -5452,7 +5452,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 178266,
       "name": "La Cintura (feat. Flo Rida & Tini) - Remix",
       "url": "https://open.spotify.com/track/7cui0h7KoaifEFzekOl6zX"
@@ -9595,6 +9595,24 @@
     },
     {
       "album": {
+        "name": "Good Times Go",
+        "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141218,
+      "name": "Shut Me Up",
+      "url": "https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx"
+    },
+    {
+      "album": {
         "name": "Sicko Drop",
         "url": "https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS"
       },
@@ -10351,7 +10369,7 @@
         },
         {
           "name": "Giorgio Tuinfort",
-          "url": "https://open.spotify.com/artist/39unIFnj3C60Q4FtYdS7fW"
+          "url": "https://open.spotify.com/artist/0SuBGvT2VyiykK0uPcWYNB"
         },
         {
           "name": "Frederic Riesterer",

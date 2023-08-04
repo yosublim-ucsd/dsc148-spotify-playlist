@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-106 songs - 5 hr 18 min
+107 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [BAD 4 ME](https://open.spotify.com/track/0TWD1o0jWsTJmJuieyoucS) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:20 | 2023-03-30 | 2023-05-26 |
 | [BETTER ALONE](https://open.spotify.com/track/63GMEfty0JTpj3K3h4hRpU) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alainite](https://open.spotify.com/artist/0jz2Kq6n1hX6kAahNkutXH) | [BETTER ALONE](https://open.spotify.com/album/4VYfGqjme7LhRtizdBtOEC) | 2:37 | 2023-05-11 |  |
 | [BLOODY TEXTS](https://open.spotify.com/track/7dcBpya1pwmRYb66unLz2s) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Kbackwood$](https://open.spotify.com/artist/0GfZ4RpzRkEvev3OuLSpoj) | [BLOODY TEXTS](https://open.spotify.com/album/41FMllrWhJfvOG70np84SX) | 2:03 | 2023-03-31 | 2023-04-28 |
-| [Bookbag 2.0 Guitar](https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl) | [Alienzilla](https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0) | [Bookbag 2.0 Guitar](https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ) | 2:55 | 2023-05-25 |  |
+| [Bookbag 2.0 Guitar](https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl) | [Alienzilla](https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0) | [Bookbag 2.0 Guitar](https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ) | 2:55 | 2023-05-25 | 2023-08-04 |
 | [Bother Nobody](https://open.spotify.com/track/2mzpAycGwGcSsRxHG34lqS) | [Clayrocksu](https://open.spotify.com/artist/4y3cAqb2AntF9Fa0EyEj2Y) | [Bother Nobody](https://open.spotify.com/album/5fJdrmD8HeJUz3C8cJWkqq) | 3:00 | 2023-05-18 | 2023-05-26 |
 | [Buya Embo](https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf) | [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Buya Embo](https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV) | 2:50 | 2023-04-06 |  |
 | [Canadian Tuxedo](https://open.spotify.com/track/0jWOcfI6BIjeJswYXKXVhv) | [Tano Jackson](https://open.spotify.com/artist/3mm6gcWlR8bu5jtddiuRwa), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Canadian Tuxedo](https://open.spotify.com/album/5LhBwvU9Yo6TO0HuYCUSCg) | 3:10 | 2023-03-30 | 2023-07-08 |
@@ -60,7 +60,7 @@
 | [Local Celebrity Freestyle](https://open.spotify.com/track/0I2LREO8Z4vGRyrwDKUqNA) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Local Celebrity Freestyle](https://open.spotify.com/album/53QY4bP99xuye3uEJpzVoc) | 1:15 | 2023-07-07 |  |
 | [Long Live Anna](https://open.spotify.com/track/18Dtevm8jUe1VWfT5FmmJa) | [Gabila](https://open.spotify.com/artist/6N55yMrcfCYw8d7D4f86EE) | [XXXPRESSIONS](https://open.spotify.com/album/2C2bgq7t8LGIBvodQxRGC0) | 1:37 | 2023-03-30 | 2023-07-08 |
 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 | 2023-06-22 |  |
-| [LUV HRTS](https://open.spotify.com/track/5KXZZg0zFmF7Mtfpe1GZQ6) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [FLOWERBOI4000](https://open.spotify.com/album/0WBMyDzPknlx70r15Cnsse) | 2:50 | 2023-03-30 |  |
+| [LUV HRTS](https://open.spotify.com/track/5KXZZg0zFmF7Mtfpe1GZQ6) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [FLOWERBOI4000](https://open.spotify.com/album/0WBMyDzPknlx70r15Cnsse) | 2:50 | 2023-03-30 | 2023-08-04 |
 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 | 2023-03-30 |  |
 | [Mask On \[Feat\. Natasha Chansa\] \- Live From Lusaka](https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Natasha Chansa](https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw) | [As Above, So Below \(Deluxe\)](https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm) | 3:07 | 2023-05-11 |  |
 | [Mental](https://open.spotify.com/track/7LOAwqrKmdRI7DBUwMgMuz) | [mellomattsnumb](https://open.spotify.com/artist/3i8r2GXzgglzdqhV75IfRc) | [Mental](https://open.spotify.com/album/449bGATbfPpELidk3FDCLb) | 2:58 | 2023-05-05 |  |
@@ -111,6 +111,7 @@
 | [vibe again](https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [vibe again](https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x) | 3:24 | 2023-05-18 | 2023-06-27 |
 | [waiting room\~](https://open.spotify.com/track/1qtnkooyf2Q7GNAK6w3sQb) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [waiting room\~](https://open.spotify.com/album/0skQkcopAyXvozBn4nzzzx) | 2:37 | 2023-03-31 | 2023-05-06 |
 | [What's the Vibe](https://open.spotify.com/track/0FKkw6p2t57VZp8Ae8Gc1V) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [What's the Vibe](https://open.spotify.com/album/2vdcIrHOACvTep8tI9qY2K) | 2:30 | 2023-03-31 | 2023-04-28 |
+| [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 | 2023-08-03 |  |
 | [YOU A KILLER](https://open.spotify.com/track/4ndMSH7CMcN8z5xPZMCxhn) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [YOU A KILLER](https://open.spotify.com/album/7os16OIbe823TPlSR5OpHH) | 2:10 | 2023-04-27 | 2023-07-08 |
 | [You're Not Here](https://open.spotify.com/track/6TaF5av6uuDxtWayS9buWB) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monique Burger](https://open.spotify.com/artist/3GOf6SKBeQM7EQvRtSrBDQ) | [You're Not Here](https://open.spotify.com/album/0h2hJCS8yQxHBhN52Po1A6) | 3:00 | 2023-04-06 |  |
 | [Your Way](https://open.spotify.com/track/7a47pdpj2oVqHMpt6yUgA7) | [ApolloAwe](https://open.spotify.com/artist/7KMXyp935QuONhhhaxGtYP) | [Your Way](https://open.spotify.com/album/6T1P8GTIcQ3LhNA85EdORq) | 3:06 | 2023-03-31 |  |

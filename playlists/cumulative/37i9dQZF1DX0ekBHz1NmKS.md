@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-733 songs - 1 day 14 hr 45 min
+734 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Hundra år till](https://open.spotify.com/track/6QnCjXSIBaUY9FgB9g0fD4) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Du Gamla Du Nya](https://open.spotify.com/album/5jphm8Wj2TcNQi1PLjksV7) | 3:35 | 2022-03-10 | 2022-04-28 |
 | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/track/6cla7irIr3I99T63MGaPBR) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [Hundratusen \(feat\. GAMMAL\)](https://open.spotify.com/album/2HMz8xfQSrEgVLM5hMeC9R) | 3:39 | 2022-03-04 | 2022-07-28 |
 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 | 2023-02-23 | 2023-04-10 |
-| [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 |  |
+| [Häntextra](https://open.spotify.com/track/350vNDJoqRwYN1pKzAAFj7) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Horizon Inn](https://open.spotify.com/album/04GQbaJ5RCOHZu1P6zRan1) | 3:47 | 2023-05-25 | 2023-08-04 |
 | [Här tog det vackra slut](https://open.spotify.com/track/3T6OQHYXf8a0ExKgdF581H) | [Klockrent!](https://open.spotify.com/artist/6XFNM3VxPM64ATHs1EYJn9), [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Här tog det vackra slut](https://open.spotify.com/album/4wAsFZpd8dRNU2R5g0VLGO) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Höghusdrömmar](https://open.spotify.com/track/1LOeNFopjoNVYVpbKWjH2m) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Höghusdrömmar/070\-xxxx xxx](https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb) | 2:23 | 2022-03-17 | 2022-07-29 |
 | [Höghusdrömmar](https://open.spotify.com/track/6CGWB5faFPh4S7uItTb0Yx) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 2:23 | 2022-07-28 | 2022-09-16 |
@@ -624,6 +624,7 @@
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 | 2023-07-22 |
 | [Säg vad du vill](https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Säg vad du vill](https://open.spotify.com/album/09JUZALuWvwAN7No7W4lj7) | 3:28 | 2022-05-26 | 2022-07-28 |
 | [Ta på mig](https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ta på mig](https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4) | 3:22 | 2021-12-16 | 2022-03-09 |
+| [Tack vare dig](https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Tack vare dig](https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp) | 3:13 | 2023-08-03 |  |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 |  |
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |

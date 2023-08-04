@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Winona Fighter \| Artwork: Jim Klok
 
-1,062 songs - 2 day 9 hr 55 min
+1,063 songs - 2 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,8 @@
 | [Phenomenal](https://open.spotify.com/track/7zYN8fUmsp5KgHzj08vOSM) | [L'FREAQ](https://open.spotify.com/artist/6yIxwhGx8Mq6i1WwgRSfkQ) | [The End of the World](https://open.spotify.com/album/5ZNebgD5Qk2VWFqaXyP1fD) | 4:00 | 2022-11-30 | 2023-01-12 |
 | [Philadelphia](https://open.spotify.com/track/1j7SSFuMjTeKM6eesDiPtk) | [Dead Bars](https://open.spotify.com/artist/62LgTiq1iNnwvxvlmgnp78) | [Philadelphia](https://open.spotify.com/album/1Il1IBlnZY8Xv462xpKzNy) | 2:48 | 2022-10-26 | 2022-12-01 |
 | [Phone Booth](https://open.spotify.com/track/221dIk4DHWGGLNzlQmmOwG) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Phone Booth](https://open.spotify.com/album/1L3cueTE6Y6YkxHW2K5e4r) | 3:01 | 2023-05-10 | 2023-07-27 |
-| [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 | 2023-05-17 |  |
+| [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 | 2023-05-17 | 2023-08-04 |
+| [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 | 2023-08-02 |  |
 | [Pickles](https://open.spotify.com/track/650TMfLZY2yMvYXlCY7kup) | [Foyer Red](https://open.spotify.com/artist/5wKmTXJpyfGPogzkoyrfGF) | [Pickles](https://open.spotify.com/album/2eXBMvHUDIx8NNJi1XZS0h) | 3:54 | 2022-08-03 | 2022-10-27 |
 | [Pieces](https://open.spotify.com/track/3jwReFQ1Hmt2WNSqdSEIA7) | [FLAKE](https://open.spotify.com/artist/1Wa1fIdJf5bscEK7XjnBIU) | [Pieces](https://open.spotify.com/album/4bCLxCrBKmWHDVWZgA7htU) | 3:08 | 2023-03-08 | 2023-03-30 |
 | [Pining](https://open.spotify.com/track/44lic0pdQEEWdttQ3QtBjZ) | [Doctor Duck](https://open.spotify.com/artist/6RtzZVAYUU678EDDZ9Xxt5) | [Pining](https://open.spotify.com/album/66dsEPX0prXcPlYA645NiJ) | 3:39 | 2023-04-19 | 2023-05-18 |

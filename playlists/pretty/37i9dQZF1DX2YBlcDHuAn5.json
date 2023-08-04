@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3685,
+  "num_followers": 3694,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmEyMjhjZWEwYjNhODQxOTIyZmUzZGQ1ODRlMjc4M2I2MmVhODQw",
+  "snapshot_id": "MCxmNjEzODE3NTc4ODMxNDg2Y2UyYmZhNTdhM2I0ZGU3MGIyZWFiZDhj",
   "tracks": [
     {
       "added_at": "2023-07-14 08:40:48",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
-        "name": "King of a Land",
-        "url": "https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 273400,
-      "name": "Pagan Run",
-      "url": "https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio"
-    },
-    {
-      "added_at": "2023-07-14 08:40:48",
-      "album": {
         "name": "Buck",
         "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 124986,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
+    },
+    {
+      "added_at": "2023-07-14 08:40:48",
+      "album": {
+        "name": "King of a Land",
+        "url": "https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 273400,
+      "name": "Pagan Run",
+      "url": "https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio"
     },
     {
       "added_at": "2023-07-14 08:40:48",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-07-14 08:40:48",
       "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-07-14 08:40:48",
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 247666,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
-    },
-    {
-      "added_at": "2023-07-14 08:40:48",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
       "added_at": "2023-07-14 08:40:48",

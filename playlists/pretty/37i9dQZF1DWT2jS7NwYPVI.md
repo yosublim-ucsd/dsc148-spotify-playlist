@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Quarters of Change
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,904 likes - 111 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,976 likes - 111 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 52 | [One Chance](https://open.spotify.com/track/7dVfdbkxtx1JF4W8aONqB1) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Melodies on Hiatus](https://open.spotify.com/album/23zBt9O5whbd4zh23XAi11) | 3:47 |
 | 53 | [Highlands](https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Highlands](https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw) | 3:31 |
 | 54 | [Who's Laughing Now](https://open.spotify.com/track/7MtcgU2tdfXxVfzDZt08c9) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/5t3uODZ1VSYMBoIVQLxQXJ) | 3:38 |
-| 55 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:16 |
+| 55 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 |
 | 56 | [6 Pack and Cigarettes](https://open.spotify.com/track/1byxxkw33SsLEYNRKdmaOQ) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Gutter](https://open.spotify.com/album/0wjBE0IEyqotyrB9Uk2REe) | 2:54 |
 | 57 | [Never Fucked Up Once](https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 2:20 |
 | 58 | [Still Love](https://open.spotify.com/track/0ym6qGdEoI60PXIqNXKkx1) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Still Love](https://open.spotify.com/album/3m97vK8f1WWhSLiN17m0b7) | 3:44 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 110 | [Exit Signs](https://open.spotify.com/track/7ud416cuyDDgkQ8huXwqya) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Exit Signs](https://open.spotify.com/album/7E60li9AlGYQO7zHKryWu7) | 4:28 |
 | 111 | [So Different](https://open.spotify.com/track/1KsiHd11ajEuJa3gwTxktJ) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [So Different](https://open.spotify.com/album/1JVPvGnGGNzkWj9QCGxk5T) | 2:37 |
 
-Snapshot ID: `MCwwYWQyZDkxMzg1NjMzZDE2YmMyNDdlNTQ3Yzk1NWU4YWRiMTBiY2Q5`
+Snapshot ID: `MCw5YWZiMDVjNDgwOTk5NGU5ZTkwYWY3ZDRhYWY2NDNmYWNiNGE0YjQ2`

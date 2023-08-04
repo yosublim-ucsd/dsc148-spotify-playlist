@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 83841,
+  "num_followers": 83875,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzA4OTYwYmUyNjIxMTYyMDcwZjgyMzI3ZDIyNGEyMDZmMDdmM2Y3",
+  "snapshot_id": "MCw1MmY4MDE5YWI5OWNhNzAwMzllNDE4ZTM5NjZmYjg5NzBlNzFkYjli",
   "tracks": [
     {
       "added_at": "2023-07-28 17:59:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-28 17:59:16",
       "album": {
-        "name": "Muta",
-        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "China",
-      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
-    },
-    {
-      "added_at": "2023-07-28 17:59:16",
-      "album": {
         "name": "La Mejor Versi\u00f3n de Mi",
         "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 245701,
       "name": "La Mejor Versi\u00f3n de Mi",
       "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
+    },
+    {
+      "added_at": "2023-07-28 17:59:16",
+      "album": {
+        "name": "Muta",
+        "url": "https://open.spotify.com/album/4oZL1PUpRyjk5kH8NBq0rx"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "China",
+      "url": "https://open.spotify.com/track/4H1RVpE8PuOApXqUz4d9Gc"
     },
     {
       "added_at": "2023-07-28 17:59:16",

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Trouble Is... 25",
+        "url": "https://open.spotify.com/album/4AhbhmM5KARl99yljXbZ5m"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393586,
+      "name": "Ballad of a Thin Man",
+      "url": "https://open.spotify.com/track/2xwHS9jXykoQIEVzbQzycq"
+    },
+    {
+      "album": {
         "name": "Ballad of a Thin Man",
         "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
       },
@@ -304,7 +322,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 393586,
       "name": "Ballad of a Thin Man",
       "url": "https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6"
@@ -2488,10 +2506,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 201803,
       "name": "Nothing But The Blues",
       "url": "https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201803,
+      "name": "Nothing But The Blues",
+      "url": "https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd"
     },
     {
       "album": {
@@ -3108,10 +3144,32 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 206277,
       "name": "Silver Paper",
       "url": "https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh"
+    },
+    {
+      "album": {
+        "name": "Legacy: A Tribute to Leslie West",
+        "url": "https://open.spotify.com/album/2fHUmGoULVaRNzb0cPPzzL"
+      },
+      "artists": [
+        {
+          "name": "Leslie West",
+          "url": "https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE"
+        },
+        {
+          "name": "Charlie Starr",
+          "url": "https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206277,
+      "name": "Silver Paper",
+      "url": "https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g"
     },
     {
       "album": {

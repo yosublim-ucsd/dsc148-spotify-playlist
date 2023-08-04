@@ -4,7 +4,7 @@
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Cầm
 
-68 songs - 4 hr 1 min
+69 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [IYA.](https://open.spotify.com/track/3SBP53NRX6Rik4ufPlfrV8) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK) | [IYA.](https://open.spotify.com/album/67nTFHJgJjVvQ73BLUjXhJ) | 4:08 | 2022-09-09 |  |
 | [khi cô đơn em nhớ đến ai](https://open.spotify.com/track/3LfiZlWffAqGOAQ6sKjoJP) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 4:29 | 2022-09-09 |  |
 | [Khóc Cười](https://open.spotify.com/track/4xBQLlSh6dQrluFORd8muc) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Khóc Cười](https://open.spotify.com/album/3sdP4md71lVt7TFXBYEjap) | 3:31 | 2022-09-09 |  |
+| [Lovelyboy](https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Lovelyboy](https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY) | 2:57 | 2023-08-04 |  |
 | [Lại Gần Và Để Anh Ôm Em Lâu Hơn \- Acoustic Version](https://open.spotify.com/track/2RG8uz3hvNVAlVvzhVufhi) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:24 | 2022-09-09 |  |
 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 | 2022-09-09 |  |
 | [MOT NGUOI VI EM](https://open.spotify.com/track/6lmJXxTcLTe6bdgwSfTqhO) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [MOT NGUOI VI EM](https://open.spotify.com/album/4RdYWBn5Vw5SOYH0A30v1u) | 3:30 | 2022-09-09 |  |

@@ -440,7 +440,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 165454,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/70WgWpbCRbDAsOCHiDL9ve"
@@ -1186,6 +1186,28 @@
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy"
+    },
+    {
+      "album": {
+        "name": "Dahtor",
+        "url": "https://open.spotify.com/album/2Wodk3tCTbwz4BIONX4JOp"
+      },
+      "artists": [
+        {
+          "name": "C.I.C",
+          "url": "https://open.spotify.com/artist/3aXsyi1OrB31fQETNot0lw"
+        },
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "Dahtor",
+      "url": "https://open.spotify.com/track/7cajggDhww5RVtEN8XASI5"
     },
     {
       "album": {
@@ -2186,6 +2208,32 @@
       "duration_ms": 201639,
       "name": "IRE",
       "url": "https://open.spotify.com/track/3vowySAqVBASOj6qojv0e6"
+    },
+    {
+      "album": {
+        "name": "JAIYE EVERYDAY",
+        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
+      },
+      "artists": [
+        {
+          "name": "KIING LU",
+          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
+        },
+        {
+          "name": "DAPO TUBURNA",
+          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
+        },
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "JAIYE EVERYDAY",
+      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
     },
     {
       "album": {
@@ -4092,7 +4140,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 235081,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
@@ -4328,7 +4376,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 249286,
       "name": "Symbiosis",
       "url": "https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN"
@@ -4898,6 +4946,24 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "album": {
+        "name": "Chequemate",
+        "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149628,
+      "name": "Way Too Young",
+      "url": "https://open.spotify.com/track/6CpKnWXqOXKaRoYXZr78GK"
     },
     {
       "album": {

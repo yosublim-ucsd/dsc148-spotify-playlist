@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Legados Bachata",
+        "url": "https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Peter Nieto",
+          "url": "https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242374,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/3tYeEnUudAt7ulPdlMSNZO"
+    },
+    {
+      "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
       },

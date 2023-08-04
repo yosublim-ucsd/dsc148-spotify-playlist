@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 91584,
+  "num_followers": 91596,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzBmMmNmMzBlNGNlYzg4MmVjYTMxMmRmNmI1ZmM2YjFiYjg2Y2Nk",
+  "snapshot_id": "MCxlM2ZiZTc0M2IxZTIyMGE4OGZhM2Y3M2ZkMGMwMjUxN2JiMWE0NDUy",
   "tracks": [
     {
       "added_at": "2023-07-31 05:03:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-31 05:03:37",
       "album": {
-        "name": "\u7f8e",
-        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
-      },
-      "artists": [
-        {
-          "name": "KIRE",
-          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "\u7f8e",
-      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
-    },
-    {
-      "added_at": "2023-07-31 05:03:37",
-      "album": {
         "name": "\u5fc3\u5f15\u529b",
         "url": "https://open.spotify.com/album/7huuhQ6PkYl8cSDtGNqM6s"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": "2023-07-31 05:03:37",
       "album": {
+        "name": "\u4e07\u6709\u5f15\u529b",
+        "url": "https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX"
+      },
+      "artists": [
+        {
+          "name": "F*yy",
+          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "\u4e07\u6709\u5f15\u529b",
+      "url": "https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy"
+    },
+    {
+      "added_at": "2023-07-31 05:03:37",
+      "album": {
         "name": "\u6700\u5049\u5927\u7684\u4f5c\u54c1",
         "url": "https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa"
       },
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-07-31 05:03:37",
       "album": {
-        "name": "\u4e07\u6709\u5f15\u529b",
-        "url": "https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX"
+        "name": "\u7f8e",
+        "url": "https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG"
       },
       "artists": [
         {
-          "name": "F*yy",
-          "url": "https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE"
+          "name": "KIRE",
+          "url": "https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL"
         }
       ],
-      "duration_ms": 243783,
-      "name": "\u4e07\u6709\u5f15\u529b",
-      "url": "https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy"
+      "duration_ms": 144000,
+      "name": "\u7f8e",
+      "url": "https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf"
     },
     {
       "added_at": "2023-07-31 05:03:37",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-31 05:03:37",
       "album": {
+        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
+        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
+      },
+      "artists": [
+        {
+          "name": "Lara Liang",
+          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
+      "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
+    },
+    {
+      "added_at": "2023-07-31 05:03:37",
+      "album": {
         "name": "\u7535\u89c6\u5267\u300a\u4f60\u5fae\u7b11\u65f6\u5f88\u7f8e\u300b\u5f71\u89c6\u539f\u58f0\u5e26",
         "url": "https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-07-31 05:03:37",
       "album": {
-        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
-        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
       },
       "artists": [
         {
-          "name": "Lara Liang",
-          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+          "name": "Fahrenheit",
+          "url": "https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g"
         }
       ],
-      "duration_ms": 213240,
-      "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
-      "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
+      "duration_ms": 239000,
+      "name": "Only Have Feelings For You",
+      "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
     },
     {
       "added_at": "2023-07-31 05:03:37",
@@ -795,22 +811,6 @@
       "duration_ms": 175062,
       "name": "\u80fd\u4e0d\u80fd",
       "url": "https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb"
-    },
-    {
-      "added_at": "2023-07-31 05:03:37",
-      "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
-      },
-      "artists": [
-        {
-          "name": "Fahrenheit",
-          "url": "https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Only Have Feelings For You",
-      "url": "https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT"
     },
     {
       "added_at": "2023-07-31 05:03:37",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-07-31 05:03:37",
       "album": {
-        "name": "\u9e8b\u9e7f",
-        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 208711,
-      "name": "\u76f8\u898b\u4e0d\u6068\u665a",
-      "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
-    },
-    {
-      "added_at": "2023-07-31 05:03:37",
-      "album": {
         "name": "SUPERMAN",
         "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 244690,
       "name": "\u5169\u96bb\u6200\u4eba",
       "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
+    },
+    {
+      "added_at": "2023-07-31 05:03:37",
+      "album": {
+        "name": "\u9e8b\u9e7f",
+        "url": "https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 208711,
+      "name": "\u76f8\u898b\u4e0d\u6068\u665a",
+      "url": "https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1"
     },
     {
       "added_at": "2023-07-31 05:03:37",

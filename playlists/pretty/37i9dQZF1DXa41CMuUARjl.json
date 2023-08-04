@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from HUGEL & Francis Mercier.",
-  "num_followers": 446266,
+  "num_followers": 446415,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODcwNGIyNWYyYzRjZTQ4Y2QwZWU4YzJjZTcxZGZjMmQ0ZmFkYzIw",
+  "snapshot_id": "MCxhNDM1M2Q0N2E0MDcwZTViYzI2ZjAwNjRhMjZlNjgzNzViNTk0NzY0",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/55WbJrK5dCg3wRGo21JxRE"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 262071,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/0uv3BtICvv2Y4CWS3vIV28"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Mon Ch\u00e9ri",
         "url": "https://open.spotify.com/album/1ynKzYAVTv69on00dwnVRr"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0w3f9KcyAau2CzhOmMCTfV"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/55WbJrK5dCg3wRGo21JxRE"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
-      "duration_ms": 227504,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2XPLNZZ7CTnOzq54kZ6M6F"
+      "duration_ms": 262071,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0uv3BtICvv2Y4CWS3vIV28"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -803,6 +787,22 @@
       "duration_ms": 192834,
       "name": "How High",
       "url": "https://open.spotify.com/track/2Vmmht4V3AOxUAw9KxcluE"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0w3f9KcyAau2CzhOmMCTfV"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 227504,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2XPLNZZ7CTnOzq54kZ6M6F"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -943,30 +943,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Like An Old Dog (Enrico Sangiuliano Remix)",
-        "url": "https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Pixx",
-          "url": "https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 483692,
-      "name": "Like An Old Dog - Enrico Sangiuliano Remix",
-      "url": "https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "never worry - deluxe",
         "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 146657,
       "name": "ur so cute (feat. SEBii)",
       "url": "https://open.spotify.com/track/00lqKT7IuN6RrDrlyO8imU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Like An Old Dog (Enrico Sangiuliano Remix)",
+        "url": "https://open.spotify.com/album/0urbEfySrOpOBUz2rrSZc0"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Pixx",
+          "url": "https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 483692,
+      "name": "Like An Old Dog - Enrico Sangiuliano Remix",
+      "url": "https://open.spotify.com/track/02juAgzBtqbe2r0OJOTLLD"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "I Wanna Know (feat. RoRo)",
+        "url": "https://open.spotify.com/album/3RF3ZgwycBWHoxYfJyvplO"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 123006,
+      "name": "I Wanna Know (feat. RoRo)",
+      "url": "https://open.spotify.com/track/2YYrpLtBKH34wDAv3Dgjyi"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Flip It",
         "url": "https://open.spotify.com/album/6PJHyTELoBYcNHYKCe539Z"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 172320,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/0UTfh9gvdC7H1dAzBc0GE4"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "I Wanna Know (feat. RoRo)",
-        "url": "https://open.spotify.com/album/3RF3ZgwycBWHoxYfJyvplO"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 123006,
-      "name": "I Wanna Know (feat. RoRo)",
-      "url": "https://open.spotify.com/track/2YYrpLtBKH34wDAv3Dgjyi"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/05SiA6ixCjqBsV8b0AjI53"
+      },
+      "artists": [
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 139981,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/5SvkmljUj7irmBBD9RxR4B"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh"
       },
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/05SiA6ixCjqBsV8b0AjI53"
-      },
-      "artists": [
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 139981,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/5SvkmljUj7irmBBD9RxR4B"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Get Wompy",
         "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Power Over Me",
-        "url": "https://open.spotify.com/album/5GoRq07ep8swUL6cABUh4i"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
       },
       "artists": [
         {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
         }
       ],
-      "duration_ms": 273438,
-      "name": "Power Over Me",
-      "url": "https://open.spotify.com/track/3KSGxWlm4n9UlpOoWRrQUR"
+      "duration_ms": 259424,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1671,6 +1667,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Power Over Me",
+        "url": "https://open.spotify.com/album/5GoRq07ep8swUL6cABUh4i"
+      },
+      "artists": [
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 273438,
+      "name": "Power Over Me",
+      "url": "https://open.spotify.com/track/3KSGxWlm4n9UlpOoWRrQUR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Possessed",
         "url": "https://open.spotify.com/album/0x834cvJwd2lSbQ3Fa4a9I"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 392310,
       "name": "Possessed",
       "url": "https://open.spotify.com/track/1DcNtYSP4pTARn2tYGJmv9"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2hrzs0FBo5l2KH6WSoOpWM"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 259424,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5MMCASojxp6pTNlXzb6mmG"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1881,58 +1881,6 @@
       "url": "https://open.spotify.com/track/5UmvblfS0fpeZP21qbMrZ9"
     },
     {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/018AtOLRMX56tPvwf1Wjyg"
-      },
-      "artists": [
-        {
-          "name": "DYLAN RAFAEL",
-          "url": "https://open.spotify.com/artist/1t4Xr1cYgVl9IxRsMjczaT"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        }
-      ],
-      "duration_ms": 352384,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2sXZSTyigmvBT6JTW6KqPn"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "What We Gonna Do?",
-        "url": "https://open.spotify.com/album/3hidMRSnQFDTNbykqferx0"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 406103,
-      "name": "What We Gonna Do?",
-      "url": "https://open.spotify.com/track/5VYYPk1mp5gMaxQDhB43ti"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "I Want an Earth",
-        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
-      },
-      "artists": [
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
-        }
-      ],
-      "duration_ms": 362626,
-      "name": "I Want an Earth",
-      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
-    },
-    {
       "added_at": "2023-07-28 11:11:10",
       "album": {
         "name": "Gershwin",
@@ -1951,42 +1899,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "unbound promise",
-        "url": "https://open.spotify.com/album/1so94ZUdHuxPFBku35GYir"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/018AtOLRMX56tPvwf1Wjyg"
       },
       "artists": [
         {
-          "name": "warner case",
-          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
-        }
-      ],
-      "duration_ms": 294230,
-      "name": "unbound promise",
-      "url": "https://open.spotify.com/track/7IzKodYytoYCEqsKhG7XFL"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Funky Tees (Manny Cuevas'z Puerto Rican Rum on Acid Re-Edit)",
-        "url": "https://open.spotify.com/album/6pbTJ0Eak1irKEecynF9cv"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+          "name": "DYLAN RAFAEL",
+          "url": "https://open.spotify.com/artist/1t4Xr1cYgVl9IxRsMjczaT"
         },
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        },
-        {
-          "name": "Manny Cuevas",
-          "url": "https://open.spotify.com/artist/4pGOaio8xbahgmI0Bw5XHE"
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
         }
       ],
-      "duration_ms": 341408,
-      "name": "Funky Tees - Manny Cuevas'z Puerto Rican Rum on Acid Re-Edit",
-      "url": "https://open.spotify.com/track/340QB36dXsE6wP2l3VYqap"
+      "duration_ms": 352384,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2sXZSTyigmvBT6JTW6KqPn"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -2011,22 +1939,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/2GBQfdmbW7Rmxct2qOX44f"
+        "name": "What We Gonna Do?",
+        "url": "https://open.spotify.com/album/3hidMRSnQFDTNbykqferx0"
       },
       "artists": [
         {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Tayllor",
-          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
         }
       ],
-      "duration_ms": 184918,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/2fS859Giea2ZDR7wTZPYVw"
+      "duration_ms": 406103,
+      "name": "What We Gonna Do?",
+      "url": "https://open.spotify.com/track/5VYYPk1mp5gMaxQDhB43ti"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -2047,6 +1971,82 @@
       "duration_ms": 139545,
       "name": "Like That",
       "url": "https://open.spotify.com/track/008VOhg7mzGV3II1lmtbTJ"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "I Want an Earth",
+        "url": "https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN"
+      },
+      "artists": [
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 362626,
+      "name": "I Want an Earth",
+      "url": "https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "unbound promise",
+        "url": "https://open.spotify.com/album/1so94ZUdHuxPFBku35GYir"
+      },
+      "artists": [
+        {
+          "name": "warner case",
+          "url": "https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01"
+        }
+      ],
+      "duration_ms": 294230,
+      "name": "unbound promise",
+      "url": "https://open.spotify.com/track/7IzKodYytoYCEqsKhG7XFL"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/2GBQfdmbW7Rmxct2qOX44f"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/2fS859Giea2ZDR7wTZPYVw"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Funky Tees (Manny Cuevas'z Puerto Rican Rum on Acid Re-Edit)",
+        "url": "https://open.spotify.com/album/6pbTJ0Eak1irKEecynF9cv"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        },
+        {
+          "name": "Manny Cuevas",
+          "url": "https://open.spotify.com/artist/4pGOaio8xbahgmI0Bw5XHE"
+        }
+      ],
+      "duration_ms": 341408,
+      "name": "Funky Tees - Manny Cuevas'z Puerto Rican Rum on Acid Re-Edit",
+      "url": "https://open.spotify.com/track/340QB36dXsE6wP2l3VYqap"
     },
     {
       "added_at": "2023-07-28 04:01:00",

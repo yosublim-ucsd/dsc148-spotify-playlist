@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Jenna Paulette
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,019 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,139 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 18 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
 | 19 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 |
 | 20 | [Trenches](https://open.spotify.com/track/2HegYbfmMFwIIAjvMIc7e8) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo) | [Trenches](https://open.spotify.com/album/71uqGOKL1QEbwqtqTyFDTb) | 2:49 |
-| 21 | [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 |
-| 22 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/59lRASvykN3UQstK839tep) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:49 |
+| 21 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/59lRASvykN3UQstK839tep) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes the Album](https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU) | 2:49 |
+| 22 | [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 |
 | 23 | [Wild Palomino](https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:18 |
 | 24 | [Highways](https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 3:24 |
 | 25 | [She Can't Be Found](https://open.spotify.com/track/6T02bf5qIAVf8AndP9x2Ud) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [She Can't Be Found](https://open.spotify.com/album/6Ldm3L4Aa6YD5IiJfTc79l) | 4:27 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 65 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 |
 | 66 | [Haunted House](https://open.spotify.com/track/1wLfbqkQRZoKuqN0MG4vmX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Haunted House](https://open.spotify.com/album/6VIrPVixLcKYpMCHXZssKD) | 4:32 |
 | 67 | [Lowdown & Lonesome](https://open.spotify.com/track/4fRtgLI8kltC4EdU37Cahx) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [Lowdown & Lonesome](https://open.spotify.com/album/7e8Ka3g62QpJTm23DYLLm5) | 4:31 |
-| 68 | [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 |
+| 68 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
 | 69 | [If I Could Build a Bar](https://open.spotify.com/track/6X5N5onLc64czPlaTjJFTN) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Side B](https://open.spotify.com/album/3WwGfPHu0IGcPbREt6VZji) | 3:48 |
-| 70 | [My Dad And His Truck](https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [My Dad And His Truck](https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf) | 3:38 |
-| 71 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
-| 72 | ['Til I See You Again](https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | ['Til I See You Again](https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe) | 3:31 |
+| 70 | [Sometimes I Do](https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Sometimes I Do](https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn) | 3:21 |
+| 71 | [My Dad And His Truck](https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [My Dad And His Truck](https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf) | 3:38 |
+| 72 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
 | 73 | [When You Love Me](https://open.spotify.com/track/2Z3b4wnusCLmYFPQG7TLvZ) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [When You Love Me](https://open.spotify.com/album/6RkNkSfZSQOEq7Gq5Z0Qsv) | 3:16 |
-| 74 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
+| 74 | ['Til I See You Again](https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | ['Til I See You Again](https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe) | 3:31 |
 | 75 | [The Difference](https://open.spotify.com/track/3uNWpnSPJzkQ1lUHeYj30d) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Everything Is Different](https://open.spotify.com/album/2EnjX1v8kTq3Nq07xyngpb) | 3:35 |
 | 76 | [Last Goodbye](https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Last Goodbye](https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA) | 3:32 |
 | 77 | [Classic Again](https://open.spotify.com/track/1BquNUtf3tpIY1XaAPrXkk) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Classic Again](https://open.spotify.com/album/3ZyAS99kwhBRExYV6GY4tN) | 3:30 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 80 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 |
 | 81 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 |
 | 82 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 |
-| 83 | [Country Nights](https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Country Nights](https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5) | 3:37 |
+| 83 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 84 | [Family Affair](https://open.spotify.com/track/4ImB5tDz8EHehkCSLe6Ep7) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Family Affair](https://open.spotify.com/album/0zUXeQ5pqqy0FBCAiK4qWx) | 3:57 |
 | 85 | [Don’t Mess With Exes](https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Don’t Mess With Exes](https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956) | 3:27 |
-| 86 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
+| 86 | [Country Nights](https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Country Nights](https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5) | 3:37 |
 | 87 | [Honky Tonkin' About](https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv), [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Honky Tonkin' About](https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP) | 3:05 |
 | 88 | [Built Different](https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Built Different](https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn) | 3:00 |
 | 89 | [Might Be Getting over You](https://open.spotify.com/track/4en9gb3AKmJATNPy73d1gk) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [The Biggest Life](https://open.spotify.com/album/4qTMjGuzD8zYwzoej1TxxV) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
 | 100 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 
-Snapshot ID: `MCw1MGQ3MGQyY2M2YjFlYmMwNzNhMzU0MWEyM2VmZjE2ZjQ4MGMwYjli`
+Snapshot ID: `MCxiYTY3ZTFlZWEzYmY2MTM5Yzk2M2M4OWVhM2I5NGI3ZGFiYWJhMDA1`

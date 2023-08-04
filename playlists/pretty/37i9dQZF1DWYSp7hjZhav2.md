@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,650 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,748 likes - 85 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [All Night \(Garage Version\)](https://open.spotify.com/track/0pp5J5USoRAqy8gpkLQjPB) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [All Night](https://open.spotify.com/album/3NxVZjPxy8UgDGC3DT541A) | 6:16 |
 | 85 | [Equilibrium](https://open.spotify.com/track/5LxPUORcjvRUK3D6X45n7A) | [MRAK](https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY) | [Manifesto](https://open.spotify.com/album/3irdHO4M4coANVu3Le5ceN) | 3:36 |
 
-Snapshot ID: `MCxiMmIwMDA5ZTg5NzQ1Y2RkMGM2Y2Q0NDMzMzExNjg2ZTBiM2M0YTNl`
+Snapshot ID: `MCxlYjllMzBlMWIyYWFkZDFmYmUwMWQzMTM4MWQ3NjU5NzAyOWIwMzUw`

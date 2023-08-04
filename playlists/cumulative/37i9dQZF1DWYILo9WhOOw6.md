@@ -4,7 +4,7 @@
 
 > Use Delta frequencies for the best night's sleep.
 
-100 songs - 5 hr 10 min
+102 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 | 2023-01-20 |  |
 | [Chaturanga : Delta Sinus Beats](https://open.spotify.com/track/7bHmwz4ZsxlAwzMeXQaMCS) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 2:05 | 2023-01-20 |  |
 | [Dark Blue \(Delta 124 Hz \- 127 Hz\)](https://open.spotify.com/track/3XrAci11gTweKd4odCVBAO) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 2:46 | 2023-01-20 |  |
+| [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/track/6LS66LUZJybYyZ4OTLvYhd) | [Syntropic Mind](https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC) | [Deep Delta Sleep 96.8 Hz\-98.4 Hz](https://open.spotify.com/album/31X3Csbqb2ztASsvHZ7t4e) | 2:37 | 2023-08-03 |  |
 | [Deep Sleep 3 Hz Drone](https://open.spotify.com/track/279WfshbvRdtkSeHG69GMm) | [Dronal](https://open.spotify.com/artist/5JdRe38yBQW84oz1rjPvLL) | [Binaural Delta Sinus](https://open.spotify.com/album/5Nilmc6apWTsMi8cqBVjU9) | 3:45 | 2023-01-20 |  |
 | [Deep Sleep Delta Binaural 83.8Hz \- 85.2Hz](https://open.spotify.com/track/0s840ASDKgRxLob8pGgUJD) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Deep Sleep Delta Binaural 83.8Hz \- 85.2Hz](https://open.spotify.com/album/0HKx7gDLPJlyf4tKPI3AmZ) | 3:13 | 2023-01-20 |  |
 | [Deep Sleep Delta Waves 82 Hz \- 84 Hz](https://open.spotify.com/track/6L3R4jp8mpFt3Cs8ufY06v) | [Binaural Odyssey](https://open.spotify.com/artist/78S7eBwwMnjzkzATY2vGO6) | [Mind Exploration](https://open.spotify.com/album/2gin8S8bLJjVwlcHd0w0f3) | 2:59 | 2023-01-20 |  |
@@ -64,6 +65,7 @@
 | [Delta Sleep \(110Hz \- 112Hz\)](https://open.spotify.com/track/5II3JR3SauFzQbO16esuSp) | [8D Spheres](https://open.spotify.com/artist/6PQZnRaF4PpSSUryfJMQjf) | [Delta Sleep \(110Hz \- 112Hz\)](https://open.spotify.com/album/7EYzYzLZqLROiMFk6DoOj3) | 3:31 | 2023-01-20 |  |
 | [Delta Sleep \(Binaural 277hz/280hz\)](https://open.spotify.com/track/2BS1ddzTY1BI0DqiGkXgt6) | [Binaural Astro Lab](https://open.spotify.com/artist/3m4WGElodCVhxTVNuIjbWY) | [Delta Sleep \(Binaural 277hz/280hz\)](https://open.spotify.com/album/0p0QgKOab4ZHTTrpjIGGMJ) | 2:22 | 2023-01-20 |  |
 | [Delta Sleep 1.2Hz Binaural 79.5Hz \- 80.7Hz](https://open.spotify.com/track/0upYBpSKHQWFVNNLZRWaL7) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Sleep 1.2Hz Binaural 79.5Hz \- 80.7Hz](https://open.spotify.com/album/5PC8Ju5jmPyCHLECu338k8) | 3:22 | 2023-01-20 |  |
+| [Delta Sleep 72.4 Hz\-75.2 Hz](https://open.spotify.com/track/4cCM99ARZWKUJBAXY5mAxA) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [Delta Sleep 72.4 Hz\-75.2 Hz](https://open.spotify.com/album/4v5uiDuRqWCc3p80XBx0yI) | 3:04 | 2023-08-03 |  |
 | [Delta Sleep Binaural 80Hz \- 81.2Hz](https://open.spotify.com/track/5ztYXHxfznJEOJM2UMFGOf) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:12 | 2023-03-10 |  |
 | [Delta Sleep Binaural 82.7Hz \- 84Hz](https://open.spotify.com/track/7FXq4DGcyddOyOy3zj8iJF) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:06 | 2023-03-10 |  |
 | [Delta Sleep Binaural 84Hz \- 85.4Hz](https://open.spotify.com/track/5LytHS5LTpaVfyzvJ1Nc5E) | [Sleeposines](https://open.spotify.com/artist/26ZV8qtSHuFvztrDGKUKgG) | [Binaural Flow](https://open.spotify.com/album/7xpt0XmYE2LfQGfNZnQXFz) | 3:15 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Ryan SP, Mc Poze do Rodo e Mc Daniel, IZA, Henrique & Juliano, MC Hariel e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,900,490 likes - 99 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,900,945 likes - 99 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 37 | [Bota](https://open.spotify.com/track/1nBkIzTzPSWLqQhBWD1tYG) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Bota](https://open.spotify.com/album/3LbjDTbmdooVXbeya3NhnB) | 2:50 |
 | 38 | [Cara de Brabo](https://open.spotify.com/track/37xvhrWZJJNwVnlQnoQJVZ) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [Polly É O Mundo](https://open.spotify.com/album/1NGxABO4O2Sx2b4lI8JlxZ) | 6:18 |
 | 39 | [Pau Torando \- \(AgroPlay Verão\)](https://open.spotify.com/track/0444eTUxZFRyIyEL3GnFDD) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Francisco](https://open.spotify.com/artist/4d9ExYWhOcTwrHJgTl3tJg), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Pau Torando \(AgroPlay Verão\)](https://open.spotify.com/album/1uStBmZ48dYPyg9PsYSy8Y) | 2:27 |
-| 40 | [Boletocat](https://open.spotify.com/track/2byfGexH8VlP7krN3CCofn) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [KZA Produções](https://open.spotify.com/artist/5oLfGIdumPwxSIaGF3XmBJ) | [Boletocat](https://open.spotify.com/album/5L9AqHYLKLbhqPNCHmLOM7) | 2:09 |
+| 40 | [Boletocat](https://open.spotify.com/track/2byfGexH8VlP7krN3CCofn) | [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Boletocat](https://open.spotify.com/album/5L9AqHYLKLbhqPNCHmLOM7) | 2:09 |
 | 41 | [Tutorial](https://open.spotify.com/track/48wuHMFVFLK99UZ11h45Ey) | [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Tutorial](https://open.spotify.com/album/7E3tanKAsZIaxXT6V2jppA) | 2:44 |
 | 42 | [Então Tá Combinado \- Ao Vivo](https://open.spotify.com/track/3zhh5DJd9UKAUdz1ZpP8SM) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Então Tá Combinado \(Ao Vivo\)](https://open.spotify.com/album/2ase5wWeqPVyhh6Zfh2Tj3) | 2:57 |
 | 43 | [O Que Combina Comigo é Você \- Na Linha do Tempo, Ao Vivo](https://open.spotify.com/track/54nKwyAtpUR4qdtR18W9TS) | [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [O Que Combina Comigo é Você \(Na Linha do Tempo, Ao Vivo\)](https://open.spotify.com/album/70YPudPIpdrvkLOc8GHhZE) | 3:06 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 91 | [Psychedelic Switch](https://open.spotify.com/track/7zy2kNoeD72x2NEDaAsJOX) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:32 |
 | 92 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 |
 | 93 | [É Amor](https://open.spotify.com/track/3thyGiEboYoIVk1bJtg7ly) | [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [É Amor](https://open.spotify.com/album/5Qy9uedPNL0zdTRMQnRKjX) | 3:28 |
-| 94 | [Fiquei Só](https://open.spotify.com/track/1l4A5HI2yH5wdOaAr5BA7h) | [Paulinn](https://open.spotify.com/artist/06ZiA7jDKGmTX3ZuDDowzq), [prodbyxbs](https://open.spotify.com/artist/4iYHqOSNkPBqxv7eZIL9Ef), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m) | [Ladrão de Hype](https://open.spotify.com/album/65DTvV8bODZzRrcyUZ0vo7) | 1:56 |
+| 94 | [Fiquei Só](https://open.spotify.com/track/1l4A5HI2yH5wdOaAr5BA7h) | [Paulinn](https://open.spotify.com/artist/06ZiA7jDKGmTX3ZuDDowzq), [prodbyxbs](https://open.spotify.com/artist/4DkfuOqvrE32WpHLO4OVjF), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m) | [Ladrão de Hype](https://open.spotify.com/album/65DTvV8bODZzRrcyUZ0vo7) | 1:56 |
 | 95 | [Sincero](https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV) | [Fê Costa](https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1), [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Sincero](https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl) | 2:49 |
 | 96 | [Andando pela Orla](https://open.spotify.com/track/23MOQX2Zz1NUwV9W4l3GrE) | [Gabriel Won](https://open.spotify.com/artist/5GiglwDgFnmp58gvGjmT3r) | [Andando pela Orla](https://open.spotify.com/album/1kaDGikjEeuJsNrD4Ra6Jv) | 1:52 |
 | 97 | [Sugar Mama](https://open.spotify.com/track/2LZ8dfz3QNxj7qKlj31DBK) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Sugar Mama](https://open.spotify.com/album/5XStrLbjNWcEC61FXPeKfu) | 1:18 |
 | 98 | [Meu Bem\-Te\-Vi](https://open.spotify.com/track/7iuvVFHmmQmugGo0EbfyTY) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Meu Bem\-Te\-Vi](https://open.spotify.com/album/5nfzQ9wIIJFoNxJiT4ODLB) | 2:49 |
 | 99 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
 
-Snapshot ID: `MCw1Yjk1NDRkYjcwY2Y2OGUxZmNhYmNmNDllOTg5MjJmNTU1M2ZmODk4`
+Snapshot ID: `MCw2OTc2MGU2M2Y1ZThkZWM4ZWFhNDg0ZTEzOTUzMWEyMWRkNWVlOGYy`

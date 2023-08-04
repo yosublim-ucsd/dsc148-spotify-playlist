@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-2,989 songs - 6 day 15 hr 58 min
+2,990 songs - 6 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Clava'tEnMi](https://open.spotify.com/track/5AVIj9yq3sRNP6x5dNxXFa) | [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Clava'tEnMi](https://open.spotify.com/album/5mv1MhnoNomI2uSwGPdRem) | 2:09 | 2023-03-31 | 2023-04-22 |
 | [Clean](https://open.spotify.com/track/5uaNJ6LhylyBCTYNUy7z0C) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [ECHOES](https://open.spotify.com/album/4U2ZrbE8qKmOlYcEUuS9Hm) | 2:43 | 2022-08-05 | 2022-09-03 |
 | [Clean Up \(feat\. AJ Tracey\)](https://open.spotify.com/track/7nMOjcJglCFOLt3xqFL6Jg) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [7SZN](https://open.spotify.com/album/0YfyH2OjdzkOEvhZXuYb7P) | 3:22 | 2021-08-28 | 2021-10-16 |
+| [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 | 2023-07-28 |  |
 | [clones](https://open.spotify.com/track/4AsTCZVFI6KEYLgaAvbHpf) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [soft like steel](https://open.spotify.com/album/68gXvU5xZ9X2bqzUeFQMUk) | 3:05 | 2023-03-24 | 2023-04-15 |
 | [Close 2 Me](https://open.spotify.com/track/5Cum8G2noGvVOtxbBwHKpZ) | [2RISKY](https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru) | [Close 2 Me](https://open.spotify.com/album/09Fe7d7CY1TkBkKzj9qXMS) | 3:38 | 2023-07-14 |  |
 | [CLOSE FRIENDS](https://open.spotify.com/track/6efjURo7f1Bja9mGXjKqMA) | [Jonna Torres](https://open.spotify.com/artist/2RZ5MBBHsQ3bHQUPxF3MpD) | [CLOSE FRIENDS](https://open.spotify.com/album/0g7dAm9scVss0GoZoVvmDT) | 3:16 | 2023-01-06 | 2023-02-11 |

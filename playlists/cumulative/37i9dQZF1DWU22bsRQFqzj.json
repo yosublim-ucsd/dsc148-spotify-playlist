@@ -296,7 +296,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
@@ -365,6 +365,32 @@
     },
     {
       "album": {
+        "name": "Breaking Me (HUGEL Remix)",
+        "url": "https://open.spotify.com/album/7Kpv8JPOf6l8udsPJtKVe0"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171904,
+      "name": "Breaking Me - HUGEL Remix",
+      "url": "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
+    },
+    {
+      "album": {
         "name": "Call Me (with R3HAB & Timmy Trumpet)",
         "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
       },
@@ -424,6 +450,32 @@
       "duration_ms": 144240,
       "name": "Coincidance",
       "url": "https://open.spotify.com/track/4kFiTbKSJp6iUHnxNW2ovu"
+    },
+    {
+      "album": {
+        "name": "Cold Heart (Claptone Remix)",
+        "url": "https://open.spotify.com/album/5JBgwRYimrx2TNirTcbzzh"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183807,
+      "name": "Cold Heart - Claptone Remix",
+      "url": "https://open.spotify.com/track/3ck2KxuP99yTwWzdf8piiC"
     },
     {
       "album": {
@@ -528,7 +580,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-01",
+      "date_removed": null,
       "duration_ms": 166200,
       "name": "Day 'N' Nite - Martin Jensen Edit",
       "url": "https://open.spotify.com/track/0ou367q5bmco9pZNxq80iD"
@@ -832,7 +884,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
@@ -1614,7 +1666,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 127766,
       "name": "Shivers (Dillon Francis Remix) [Main Mix]",
       "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"

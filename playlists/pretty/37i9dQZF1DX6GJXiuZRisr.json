@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1509321,
+  "num_followers": 1509789,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDJmOTc3MTljYWYxODFkMzQzZjFhZGI5M2Q0OGI1ODY4MmY3NzZk",
+  "snapshot_id": "MCxiZDNjZmZlZDUwYTExM2JlMjlmMDVhMTc1Zjc4Y2ZiZDQwZTQxNGM4",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Losing Control (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 209056,
+      "name": "Losing Control (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
       },
@@ -851,26 +871,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Losing Control (feat. Nathan Nicholson)",
-        "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 209056,
-      "name": "Losing Control (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Cappadocia",
         "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "The Return (Edit)",
+        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
+      },
+      "artists": [
+        {
+          "name": "Pryda",
+          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Return - Edit",
+      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Say Hello EP",
         "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 207111,
       "name": "Say Hello",
       "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Return (Edit)",
-        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
-      },
-      "artists": [
-        {
-          "name": "Pryda",
-          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
-        }
-      ],
-      "duration_ms": 232380,
-      "name": "The Return - Edit",
-      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3Z7dA0IXA4xk4hIRtg9FuQ"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 231288,
       "name": "Hide and Seek - Le Youth Remix",
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/1o5GJh8M5rS4s5fE3Acq4m"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/79XeC0VG01wojLxzrk4Ypq"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 190200,
       "name": "Disco Voyager",
       "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh"
-      },
-      "artists": [
-        {
-          "name": "PALASTIC",
-          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"
     },
     {
       "added_at": "2023-07-28 04:01:00",

@@ -2,12 +2,13 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Nieuwe Nederlandstalige hits vind je hier! Cover: LAUF
+> Nieuwe Nederlandstalige hits vind je hier! Cover: Amina
 
-277 songs - 13 hr 21 min
+280 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1000 Kansen](https://open.spotify.com/track/2yNswA6CootF9mdklJfUy0) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [1000 Kansen](https://open.spotify.com/album/03lpFMrj86wo2c41QWPLuQ) | 2:37 | 2023-08-03 |  |
 | [2022](https://open.spotify.com/track/1QqQHrWGQrK0NhITVo1NYo) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [2022](https://open.spotify.com/album/7rbIRHZi9B5qBDYnlbBXFA) | 2:18 | 2023-02-23 | 2023-03-31 |
 | [22](https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC) | 2:53 | 2023-05-09 |  |
 | [5 Voor 12](https://open.spotify.com/track/7vblfnm2TktVX9LIK6KB3f) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [5 Voor 12](https://open.spotify.com/album/08j9Zb9JJVROWtMEFGI7zb) | 2:33 | 2023-02-23 | 2023-03-31 |
@@ -86,6 +87,7 @@
 | [Doodsbang](https://open.spotify.com/track/5CLWh2VzaJwNyfxNBMYEb7) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [FLEMMING](https://open.spotify.com/album/6JTROG4csRswIQjmmvujgy) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Down Met Jou](https://open.spotify.com/track/7zWceawn2oJgmlnSSXPxlm) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY), [Djé\-Rimo](https://open.spotify.com/artist/5a35K4Lx6ee2QY11vj7cGO) | [Down Met Jou](https://open.spotify.com/album/51UpNHvjjcnP1JhF0qj51M) | 2:58 | 2023-06-30 |  |
 | [Drijfzand](https://open.spotify.com/track/52idFfxIoylObbiWLQvpMq) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Drijfzand](https://open.spotify.com/album/4oaAZaecrX7QU4o2JYzcCr) | 2:44 | 2023-02-23 | 2023-04-07 |
+| [Dronken Van De Liefde](https://open.spotify.com/track/0ArPL2xKFhG4oC2Pc4D4OQ) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Dronken Van De Liefde](https://open.spotify.com/album/1aN9aD9PDloTXKDFs33v1f) | 3:14 | 2023-08-03 |  |
 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 | 2023-06-22 |  |
 | [Echt Verliefd Zijn](https://open.spotify.com/track/13FOKNJGRyqZljne7ejBa2) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Echt Verliefd Zijn](https://open.spotify.com/album/1TC2yKrKlrhmNV0BOguMfH) | 2:53 | 2023-05-18 |  |
 | [Een Chick Als \(Jade\)](https://open.spotify.com/track/6YoYAPb0z1TGznmifvmCwm) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Een Chick Als \(Jade\)](https://open.spotify.com/album/666tEvxOWEPvh65hK7KKVN) | 2:46 | 2023-07-27 |  |
@@ -208,6 +210,7 @@
 | [OVERSCHAT](https://open.spotify.com/track/4kwQiaBoC8lRtOAtoegKto) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [OVERSCHAT](https://open.spotify.com/album/0n2GLPc0fgHPKkVtib3PVx) | 2:32 | 2023-07-20 |  |
 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 | 2023-02-23 | 2023-04-28 |
 | [Parfum](https://open.spotify.com/track/5fqAohRCfxIzqw5IuUtBiS) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online/Offline](https://open.spotify.com/album/75jQXhlYruuc9JkLZBIVax) | 2:42 | 2023-02-23 | 2023-05-26 |
+| [Pas Nu Ik Ons Ken](https://open.spotify.com/track/3ArIRZp6Hc5yhhHWEAgCDD) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Pas Nu Ik Ons Ken](https://open.spotify.com/album/3NOQNnOJcm9Sg1klAGbBNI) | 3:20 | 2023-08-03 |  |
 | [Perfect](https://open.spotify.com/track/5II9sxBAPumEcpYQ3azCcT) | [Quessswho](https://open.spotify.com/artist/4Q23rm8jYyd2ft6Cm1MhwJ) | [Perfect](https://open.spotify.com/album/1PyesUCvtqfk5Jq4jSoq6D) | 3:02 | 2023-02-23 | 2023-03-18 |
 | [Plaatje](https://open.spotify.com/track/1RCxak1HohZMPlZMFaeg63) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Plaatje](https://open.spotify.com/album/68NmDfErCwLSWNbsIkHo5Q) | 2:32 | 2023-06-29 |  |
 | [Popstar](https://open.spotify.com/track/1GC9tmklZQlK4gae2qJUJa) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Verbinding](https://open.spotify.com/album/2cPEG61GY9UQVPuI00YRMw) | 2:14 | 2023-06-29 |  |

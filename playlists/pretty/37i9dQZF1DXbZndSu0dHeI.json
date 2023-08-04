@@ -1,12 +1,12 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 175330,
+  "num_followers": 175476,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2EzMjg2MzcxMzBlMjNmM2UxYWMwNWFkZTVhNTZhYzlhZmYyY2Qw",
+  "snapshot_id": "MCw3MGVmNjU0YTNmNTJjZDliODJkYWMwYzdhNjQ3NDdhZTAzMGQ5NTM5",
   "tracks": [
     {
       "added_at": "2022-08-05 10:31:40",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 163292,
       "name": "I Don't Wanna Be Funny Anymore",
       "url": "https://open.spotify.com/track/7fmqJC1yi3tyys0l72F9Ya"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "The Last Exit",
         "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 235093,
       "name": "Static",
       "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "I Can't Let Go",
-        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 212142,
-      "name": "Devil I Know",
-      "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "My Own Person",
         "url": "https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 264873,
       "name": "My Own Person",
       "url": "https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "Devil I Know",
+      "url": "https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/6kGLWfGeZQ9RZHcGis9KN6"
     },
     {
-      "added_at": "2023-05-18 14:23:33",
-      "album": {
-        "name": "Shelter",
-        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Somewhere In-Between",
@@ -1139,6 +1123,22 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2023-05-18 14:23:33",
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1205,20 +1205,20 @@
       "url": "https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2023-07-28 13:45:12",
       "album": {
-        "name": "Hannah Montana",
-        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+        "name": "Shell",
+        "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
       "artists": [
         {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
         }
       ],
-      "duration_ms": 145324,
-      "name": "Hannah Montana",
-      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+      "duration_ms": 140145,
+      "name": "Shell",
+      "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145324,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Blouse",
         "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
       },
@@ -1251,6 +1267,22 @@
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Look Out!",
+        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "Look Out!",
+      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1287,22 +1319,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
-      },
-      "artists": [
-        {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 242737,
       "name": "I Was Neon",
       "url": "https://open.spotify.com/track/4PXjrpBSAXim7Zm0W3yVjQ"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "The Sky Is Bleeding",
-        "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5bftrb8CIRhhCt5ufD7JUi"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

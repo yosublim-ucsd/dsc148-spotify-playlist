@@ -2,7 +2,7 @@
 
 ### [Arab Indie](https://open.spotify.com/playlist/37i9dQZF1DWUQM3rmTXpBR)
 
-> Alternative Arabic songs\. Cover: JadaL.
+> Alternative Arabic songs\. Cover: Idreesi
 
 165 songs - 10 hr 12 min
 

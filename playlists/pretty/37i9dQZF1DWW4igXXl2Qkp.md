@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,257 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,362 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 5 | [it is what it is](https://open.spotify.com/track/6utwQVdK6GvgDSS5mzjkkq) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:36 |
 | 6 | [Take No Loss](https://open.spotify.com/track/6yIyL5IczTvWlMndlKXtRu) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [Take No Loss](https://open.spotify.com/album/7wJozRE4PEbtkaunQkdGLn) | 2:26 |
 | 7 | [SUPERSEXXXYSUMMER](https://open.spotify.com/track/7JSS3hVa2GFlbbfFGQ09wZ) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SUPERSEXXXYSUMMER](https://open.spotify.com/album/2DO8tBAP1ihIvwYDyX5Qx4) | 2:45 |
-| 8 | [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 |
+| 8 | [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 |
 | 9 | [Time Lost](https://open.spotify.com/track/4nEW595LAMPzRpkEJaDtDh) | [Major Nine](https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE) | [Time Lost](https://open.spotify.com/album/1oDjaZuzYA2AR2UBeUYzlu) | 2:41 |
 | 10 | [Kick The Cup](https://open.spotify.com/track/7DCCPxnYlgJ4ygq0WkkmGJ) | [King Hendrick$](https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7) | [The Tale Of King Hendrix](https://open.spotify.com/album/77rPPDgoLg6lcdz6BiZKS0) | 2:34 |
 | 11 | [iwannaknow](https://open.spotify.com/track/1cFtl5Anb4WK4OkTVJwMrh) | [Matthew Ali](https://open.spotify.com/artist/3P0ckFbRO6oAmgflWXmM1E) | [ASB2](https://open.spotify.com/album/6fvOLyk3E5slggn3a0R7YW) | 3:37 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 62 | [Choosin Me](https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Choosin Me](https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb) | 2:15 |
 | 63 | [Fallin](https://open.spotify.com/track/7vK3keO8DihcplIp6umDgP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Fallin](https://open.spotify.com/album/1wt8UJYePXqJkNx2R7R32Q) | 2:21 |
 | 64 | [Feel Myself](https://open.spotify.com/track/5UZDa68agfhGslaVVOKphN) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF) | [Feel Myself](https://open.spotify.com/album/4aCOfAqQzqJCGIcB0M2y7f) | 2:04 |
-| 65 | [lost n' found](https://open.spotify.com/track/6thIPyL7yMjyQ9Qs0ollBt) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [lost n' found](https://open.spotify.com/album/1S8zojkGxW4G6xqRUAD5sW) | 1:44 |
+| 65 | [lost n' found](https://open.spotify.com/track/6W1XIIgFzg9xaLfZ4LyQQL) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [lost n' found](https://open.spotify.com/album/5XA9wNWZN5VJe4hlTYWef3) | 1:44 |
 | 66 | [Stickz & Stonez](https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Stickz & Stonez](https://open.spotify.com/album/2nDXO7UlMcjO51jAlyisu8) | 2:26 |
 | 67 | [ALL FALLS DOWN](https://open.spotify.com/track/3DbWMDyMubwbLQvWnK497U) | [4kmicheal](https://open.spotify.com/artist/1uYb1BpHdrFpCPAnzlNJYa) | [FREE THE BIRDS](https://open.spotify.com/album/5vdr0MZZHEYFCnfYJXIg5Q) | 2:15 |
 | 68 | [Life Notes](https://open.spotify.com/track/71JfRimpfjNuafEmoVfc8T) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [Life Notes](https://open.spotify.com/album/46e60rsbMek5SsTgox5Cjm) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [Stones](https://open.spotify.com/track/2TmcoeozCAFmtIK1LWAqNt) | [Shame Gang](https://open.spotify.com/artist/3lERpk1kWnCnrau3vcC8MA), [Sonny Miles](https://open.spotify.com/artist/5H9W2VTCkxdGYTgkTbZM6J) | [Better Late Than Never](https://open.spotify.com/album/03G2w5Yq1wbXkRslJutzYB) | 3:45 |
 | 75 | [Didn't They Know](https://open.spotify.com/track/6Xdc8szFsACleon5lP6rBI) | [A7 Celeb](https://open.spotify.com/artist/7nJcO36kKeP8wjrpJLLBd7), [Brother Tom Sos](https://open.spotify.com/artist/42CdfzvwQxU730Iod5qjyX) | [Didn't They Know](https://open.spotify.com/album/1y9FfvkOU2YHOJ5TdVMNsT) | 3:56 |
 
-Snapshot ID: `MCxlZTIxMjllZTQ1YzdhMmQ1M2Y5ZjIzNjgyMzkwMmE2NDEzNGJlNWM0`
+Snapshot ID: `MCxmNjE3OThjZGU0NzIwOTQ5MDA4MTQ3NjdkMDEwNDdlNDI5ZWRhZmUx`

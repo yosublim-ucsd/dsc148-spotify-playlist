@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & hottest K-R&B is here. (Cover: Chanju(\ucc2c\uc8fc))",
+  "description": "\ud55c\uad6d R&B. The new & hottest K-R&B is here. (Cover: LEAFY (\ub9ac\ud53c))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -3236,6 +3236,24 @@
       "duration_ms": 150250,
       "name": "SummerSweet",
       "url": "https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi"
+    },
+    {
+      "album": {
+        "name": "SUNNY SIDE UP",
+        "url": "https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl"
+      },
+      "artists": [
+        {
+          "name": "LEAFY",
+          "url": "https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Sunrise Surf",
+      "url": "https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9"
     },
     {
       "album": {

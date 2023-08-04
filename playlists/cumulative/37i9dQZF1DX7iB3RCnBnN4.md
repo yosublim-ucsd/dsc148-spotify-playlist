@@ -2,7 +2,7 @@
 
 ### [BILLIONS CLUB](https://open.spotify.com/playlist/37i9dQZF1DX7iB3RCnBnN4)
 
-> All the songs with more than 1 BILLION streams on Spotify\. Cover: Billie Eilish
+> All the songs with more than 1 BILLION streams on Spotify\. Cover: One Direction
 
 478 songs - 1 day 5 hr 9 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: VK Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,486 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,491 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 19 | [Ta Querendo 2](https://open.spotify.com/track/1ii4WFMBe6E84a3TME8cx9) | [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Ta Querendo 2](https://open.spotify.com/album/5gRPzKVrmz57Ndv3oanJSX) | 3:08 |
 | 20 | [Pede Tapa](https://open.spotify.com/track/0uni2JaTR39BMmTRcJ6JiV) | [OJhon](https://open.spotify.com/artist/4T5u1rPrwsk57uHGjticWq), [Toretto](https://open.spotify.com/artist/4Y7WtDnqiJrU6Ellq7GZYj), [D\-Hit](https://open.spotify.com/artist/2ykrmidRrayttblvRHx30p) | [Pede Tapa](https://open.spotify.com/album/2fIeYfD4w435dFRlhPXzz7) | 2:33 |
 | 21 | [Sal e Pimenta](https://open.spotify.com/track/41PSYvvRRloahcTUdYBchA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 3:26 |
-| 22 | [Fiquei Só](https://open.spotify.com/track/1l4A5HI2yH5wdOaAr5BA7h) | [Paulinn](https://open.spotify.com/artist/06ZiA7jDKGmTX3ZuDDowzq), [prodbyxbs](https://open.spotify.com/artist/4iYHqOSNkPBqxv7eZIL9Ef), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m) | [Ladrão de Hype](https://open.spotify.com/album/65DTvV8bODZzRrcyUZ0vo7) | 1:56 |
+| 22 | [Fiquei Só](https://open.spotify.com/track/1l4A5HI2yH5wdOaAr5BA7h) | [Paulinn](https://open.spotify.com/artist/06ZiA7jDKGmTX3ZuDDowzq), [prodbyxbs](https://open.spotify.com/artist/4DkfuOqvrE32WpHLO4OVjF), [Nova Alquimia](https://open.spotify.com/artist/00x2suT0e9HNLRhSRyLw3m) | [Ladrão de Hype](https://open.spotify.com/album/65DTvV8bODZzRrcyUZ0vo7) | 1:56 |
 | 23 | [Bastidores](https://open.spotify.com/track/4ptOv0UKkWD7r2bb0tDdt6) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4) | [Bastidores](https://open.spotify.com/album/4ouew1yc6RbWn19lPOdALG) | 2:18 |
 | 24 | [EURO](https://open.spotify.com/track/1XJg7v2Or4d5AbXeJv4Juj) | [EAGLE](https://open.spotify.com/artist/0ZqMXm6JYztVVqFXvHh7v3), [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [EURO](https://open.spotify.com/album/6TrWVT4JLluQJwstydSBZ1) | 3:09 |
 | 25 | [01 Não É 02](https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [01 Não É 02](https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl) | 2:08 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 73 | [Prometazina](https://open.spotify.com/track/5TPGZNFUWThxPkA95SR6fY) | [LP Freestyle](https://open.spotify.com/artist/55MsEWRF4BhHEQqWvtPHjv), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Prometazina](https://open.spotify.com/album/0aPlwNreucz647rjA6AWPj) | 3:02 |
 | 74 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCxiMzc2NzkzMTE1YzhmZTBkZTJhYTU2MzE2Y2YwM2NjNGE3MzAyYWUy`
+Snapshot ID: `MCxjYzhjZTFhNWU3NjFlY2MwYzhkODE5Mzk5YTMzOTg1MWJlZTA3YTU5`

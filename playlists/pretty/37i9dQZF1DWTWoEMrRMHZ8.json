@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Chico C\u00e9sar",
-  "num_followers": 342965,
+  "num_followers": 343047,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWE3NWJhZDYyMGM1MDY1OTI0NzgzYWY3ZTMzOGIyN2YxMWZiNmUz",
+  "snapshot_id": "MCw2MTVmZmFlN2Q1NDg2ZTY0MjlkNmIxMmM1Mjk4NWQyOWE5ZGRlZWMx",
   "tracks": [
     {
       "added_at": "2023-07-28 04:36:55",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Coment\u00e1rio a Respeito de John",
         "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 205215,
       "name": "Coment\u00e1rio a Respeito de John",
       "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
-        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 233391,
-      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
-      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 191418,
       "name": "Paula e Bebeto",
       "url": "https://open.spotify.com/track/62eMpHTC584YQztqxELhmK"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Sunsets For Somebody Else & Big Sur (Brasil Versions)",
+        "url": "https://open.spotify.com/album/4DgFZiSAbSzubaX5gY6Mgf"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "duration_ms": 233391,
+      "name": "Sunsets For Somebody Else (feat. Rog\u00ea) - Brasil Version",
+      "url": "https://open.spotify.com/track/1q4JXsjK3jgljGn3ZGtiQ1"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Morro Dois Irm\u00e3os",
-        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
-      },
-      "artists": [
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 259709,
-      "name": "Morro Dois Irm\u00e3os",
-      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Morro Dois Irm\u00e3os",
+        "url": "https://open.spotify.com/album/1r4A8xRMz97ApNkOg8rD16"
+      },
+      "artists": [
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 259709,
+      "name": "Morro Dois Irm\u00e3os",
+      "url": "https://open.spotify.com/track/0KFRKD16R8XL619JkEh241"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -959,18 +975,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+        "name": "Sangue Latino",
+        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
       },
       "artists": [
         {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+          "name": "Roberta Spindel",
+          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
+      "duration_ms": 187934,
+      "name": "Sangue Latino",
+      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -991,26 +1011,6 @@
       "duration_ms": 168681,
       "name": "Preciso Me Encontrar",
       "url": "https://open.spotify.com/track/6zN82PWvDughq3NzbUNIxR"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Sangue Latino",
-        "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
-      },
-      "artists": [
-        {
-          "name": "Roberta Spindel",
-          "url": "https://open.spotify.com/artist/4w4yHWFlpurx4MTWGy6cxR"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 187934,
-      "name": "Sangue Latino",
-      "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Lua e Estrela",
         "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 219098,
       "name": "Lua e Estrela",
       "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 229446,
+      "name": "Menino Bonito",
+      "url": "https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
         "name": "Tenho Sede",
         "url": "https://open.spotify.com/album/32GFhnNQcD177HFEO68C4C"
       },
@@ -1411,18 +1427,22 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 229446,
-      "name": "Menino Bonito",
-      "url": "https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo"
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2023-07-28 04:36:55",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Tarde Em Itapu\u00e3",
-      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
         "name": "Porto",
         "url": "https://open.spotify.com/album/6Usxsp50R9DWMOn26jlZCj"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 205360,
       "name": "Porto",
       "url": "https://open.spotify.com/track/5OfyMpThWxNX87z92GNerl"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 194443,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1567,38 +1583,6 @@
       "duration_ms": 182528,
       "name": "Teus Olhos em Mim",
       "url": "https://open.spotify.com/track/67oWKa0ZE7IjkHBDMEg8Hm"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 194443,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
-    },
-    {
-      "added_at": "2023-07-28 04:36:55",
-      "album": {
-        "name": "Longe Longe de Mim",
-        "url": "https://open.spotify.com/album/4Q0SqBQFjXeHgk8mURWowP"
-      },
-      "artists": [
-        {
-          "name": "Ava Rocha",
-          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
-        }
-      ],
-      "duration_ms": 206442,
-      "name": "Longe Longe de Mim",
-      "url": "https://open.spotify.com/track/3J490nepj3gEksEuHqZmfT"
     },
     {
       "added_at": "2023-07-28 04:36:55",
@@ -1647,6 +1631,22 @@
       "duration_ms": 264154,
       "name": "Tigresa - Ao Vivo no Coala Festival 2022",
       "url": "https://open.spotify.com/track/5LE9mtdwNWyZ1eLkfCB972"
+    },
+    {
+      "added_at": "2023-07-28 04:36:55",
+      "album": {
+        "name": "Longe Longe de Mim",
+        "url": "https://open.spotify.com/album/4Q0SqBQFjXeHgk8mURWowP"
+      },
+      "artists": [
+        {
+          "name": "Ava Rocha",
+          "url": "https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ"
+        }
+      ],
+      "duration_ms": 206442,
+      "name": "Longe Longe de Mim",
+      "url": "https://open.spotify.com/track/3J490nepj3gEksEuHqZmfT"
     },
     {
       "added_at": "2023-07-28 04:36:55",

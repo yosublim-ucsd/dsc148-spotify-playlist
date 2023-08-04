@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,749 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,746 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 3 | [Excuses](https://open.spotify.com/track/18ozEdfEItAJxK0s2xS4IU) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Second Kind](https://open.spotify.com/album/45lRnw6ZrXjQrgiNNKrsuu) | 2:49 |
 | 4 | [acting wild.](https://open.spotify.com/track/1pSJpxkh8wLL9fsWMBgq1q) | [tswai](https://open.spotify.com/artist/3xw3vchdbFdB7q7yeCfkVS), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [acting wild.](https://open.spotify.com/album/1hWSN9ZiBIYZCeuKwVPpRb) | 2:21 |
 | 5 | [ALL MINE](https://open.spotify.com/track/3NZtzTfqjbTaNt15451Vs8) | [Micah Acosta](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [ALL MINE](https://open.spotify.com/album/19xxFr7lY0iCr3DpzRc5zN) | 2:47 |
-| 6 | [LUV HRTS](https://open.spotify.com/track/5KXZZg0zFmF7Mtfpe1GZQ6) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [FLOWERBOI4000](https://open.spotify.com/album/0WBMyDzPknlx70r15Cnsse) | 2:50 |
-| 7 | [Your Way](https://open.spotify.com/track/7a47pdpj2oVqHMpt6yUgA7) | [ApolloAwe](https://open.spotify.com/artist/7KMXyp935QuONhhhaxGtYP) | [Your Way](https://open.spotify.com/album/6T1P8GTIcQ3LhNA85EdORq) | 3:06 |
-| 8 | [Buya Embo](https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf) | [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Buya Embo](https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV) | 2:50 |
-| 9 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 |
-| 10 | [Mental](https://open.spotify.com/track/7LOAwqrKmdRI7DBUwMgMuz) | [mellomattsnumb](https://open.spotify.com/artist/3i8r2GXzgglzdqhV75IfRc) | [Mental](https://open.spotify.com/album/449bGATbfPpELidk3FDCLb) | 2:58 |
-| 11 | [the pain that a human carries](https://open.spotify.com/track/5ze9r8qVvrAV0p7FovFSVi) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [the pain that a human carries can be healed](https://open.spotify.com/album/0TH967o2yOEUib97HfF7fC) | 5:30 |
-| 12 | [Mask On \[Feat\. Natasha Chansa\] \- Live From Lusaka](https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Natasha Chansa](https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw) | [As Above, So Below \(Deluxe\)](https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm) | 3:07 |
-| 13 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
-| 14 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 |
-| 15 | [One Sided](https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr) | [CallmeTino](https://open.spotify.com/artist/5xhs67TdK4JBvwUyQnMdsk) | [Self Conflicted.](https://open.spotify.com/album/3eqQOOzbHhwmaRXmoBoW9v) | 2:52 |
-| 16 | [Patience](https://open.spotify.com/track/2frpsQ4NPnuf4EE1HB1tbw) | [Maleikent](https://open.spotify.com/artist/3KDOZElfZs701H8KVRuoEZ), [MoAvnue](https://open.spotify.com/artist/5UFpbcUuicomaVH5OYiRc1) | [Patience](https://open.spotify.com/album/0v8tGz36BYVS4DWfx85Vhj) | 3:04 |
+| 6 | [Your Way](https://open.spotify.com/track/7a47pdpj2oVqHMpt6yUgA7) | [ApolloAwe](https://open.spotify.com/artist/7KMXyp935QuONhhhaxGtYP) | [Your Way](https://open.spotify.com/album/6T1P8GTIcQ3LhNA85EdORq) | 3:06 |
+| 7 | [Buya Embo](https://open.spotify.com/track/164ACyhEkCE1qmiTSG6sZf) | [Laliboi](https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ), [Spoek Mathambo](https://open.spotify.com/artist/3qw0OXlLhqI78xEWw9Ys8O) | [Buya Embo](https://open.spotify.com/album/35Ai9RRzaqROEzAHNetxQV) | 2:50 |
+| 8 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 |
+| 9 | [Mental](https://open.spotify.com/track/7LOAwqrKmdRI7DBUwMgMuz) | [mellomattsnumb](https://open.spotify.com/artist/3i8r2GXzgglzdqhV75IfRc) | [Mental](https://open.spotify.com/album/449bGATbfPpELidk3FDCLb) | 2:58 |
+| 10 | [the pain that a human carries](https://open.spotify.com/track/5ze9r8qVvrAV0p7FovFSVi) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [the pain that a human carries can be healed](https://open.spotify.com/album/0TH967o2yOEUib97HfF7fC) | 5:30 |
+| 11 | [Mask On \[Feat\. Natasha Chansa\] \- Live From Lusaka](https://open.spotify.com/track/4zU8TWHXwVNqhsHqlp5Tjz) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Natasha Chansa](https://open.spotify.com/artist/59okXWlsbRJ5hY5qK6JOjw) | [As Above, So Below \(Deluxe\)](https://open.spotify.com/album/44akZHx00MvxdyapuYlqAm) | 3:07 |
+| 12 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 |
+| 13 | [Ondine's Curse](https://open.spotify.com/track/4qxteXCD4RAGbJQH95eRRw) | [SEI SIREN](https://open.spotify.com/artist/70Z1TUPHxHkADZaWyJVlAl) | [Orca](https://open.spotify.com/album/7JSAAgAho49VU5dDRjCQxE) | 2:44 |
+| 14 | [One Sided](https://open.spotify.com/track/0W0s4QcraRtXxzkX92r5Zr) | [CallmeTino](https://open.spotify.com/artist/5xhs67TdK4JBvwUyQnMdsk) | [Self Conflicted.](https://open.spotify.com/album/3eqQOOzbHhwmaRXmoBoW9v) | 2:52 |
+| 15 | [Patience](https://open.spotify.com/track/2frpsQ4NPnuf4EE1HB1tbw) | [Maleikent](https://open.spotify.com/artist/3KDOZElfZs701H8KVRuoEZ), [MoAvnue](https://open.spotify.com/artist/5UFpbcUuicomaVH5OYiRc1) | [Patience](https://open.spotify.com/album/0v8tGz36BYVS4DWfx85Vhj) | 3:04 |
+| 16 | [YAKOYO](https://open.spotify.com/track/4pWKbOnBx45TWBFQl3k6ck) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [YAKOYO](https://open.spotify.com/album/2HDyAE2vT8mR31fsl3eUrl) | 2:52 |
 | 17 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 18 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 19 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
@@ -55,9 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 45 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 |
 | 46 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 |
 | 47 | [HURTING](https://open.spotify.com/track/3V2qkG0MbPwwMHUJNsxcuR) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [HURTING](https://open.spotify.com/album/4xpvcoxHFtD7JjRs0FyJ42) | 2:38 |
-| 48 | [Bookbag 2.0 Guitar](https://open.spotify.com/track/4EpuHY7NSrVFZrDjeC6qTl) | [Alienzilla](https://open.spotify.com/artist/3fUOUDEB0RGiwTtUqZoAx0) | [Bookbag 2.0 Guitar](https://open.spotify.com/album/2JRjapfYS0uhGqaYYPHntZ) | 2:55 |
-| 49 | [Alone At A Party](https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone At A Party](https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf) | 3:31 |
-| 50 | [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 |
-| 51 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 |
+| 48 | [Alone At A Party](https://open.spotify.com/track/2wBIK0D4z1VMTXQ33MixSJ) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [Alone At A Party](https://open.spotify.com/album/7A02kpN7DcoNEjUan9gjZf) | 3:31 |
+| 49 | [Dream](https://open.spotify.com/track/0gS6EgvQ5YxVxiqAsWRnFw) | [Lu+Fi](https://open.spotify.com/artist/3xFvlpW2g6u4m9MEsGr5Hl) | [Dream](https://open.spotify.com/album/7EdonZTj4jX986R521QplF) | 2:45 |
+| 50 | [Care For You](https://open.spotify.com/track/7tcp0h2ypx4PKJaw1Sn1je) | [BuDu](https://open.spotify.com/artist/3VVnkjuNmz9Vt2UpAZTCXB) | [Care For You](https://open.spotify.com/album/3hYqlV8cBdFnwy4dSR3elT) | 3:52 |
 
-Snapshot ID: `MCw1ODAwYzRhOWJjMmQxODljYTEwNWU5ZDhlMWE2MDhkMDliYzYxYzcz`
+Snapshot ID: `MCw0ODM0YjM5YTUzMjkxMWZkOTFhMDkyMTc2MDk3NWU4YjljY2Q2ZGQ2`

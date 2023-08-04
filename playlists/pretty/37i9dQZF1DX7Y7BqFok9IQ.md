@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: The Cold Stares
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,460 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,583 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 13 | [SAINTS & SIN](https://open.spotify.com/track/5sukydajInUaXEScc19Y5u) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [SAINTS & SIN](https://open.spotify.com/album/3bG3PgbM2zprEZ9TDHRB6x) | 3:56 |
 | 14 | [Between Me and the Devil](https://open.spotify.com/track/0Dt5wjxCps2aaTJnQyt4lb) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:08 |
 | 15 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 |
-| 16 | [Nothing But The Blues](https://open.spotify.com/track/148hZ6RBHxZbJGRGtlWSGQ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Nothing But The Blues](https://open.spotify.com/album/15ZVxuwdilZbGUIHpGXfxL) | 3:21 |
+| 16 | [Nothing But The Blues](https://open.spotify.com/track/6e9xUtsYzhChw0x7hfmxPd) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Voices](https://open.spotify.com/album/5h9lVJST3IV5he4zCQJCBt) | 3:21 |
 | 17 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
 | 18 | [Sugar and Spice](https://open.spotify.com/track/3pHvVcToKzumdjDX9tFEA9) | [Jocelyn & Chris Arndt](https://open.spotify.com/artist/2haWKVf4SjBUrihzS4ul3R) | [Sugar and Spice](https://open.spotify.com/album/6Trg7kt06NbO1FptXBdWJL) | 3:34 |
 | 19 | [Orbit](https://open.spotify.com/track/3AEsGn4OEy8LrP5SA8lOCe) | [Gooseberry](https://open.spotify.com/artist/4kwLF73fZC8zaZI5rwbBQV) | [Orbit](https://open.spotify.com/album/3A6rUe8ZaYgxd8p7MjH5Qt) | 4:13 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 21 | [The Way I Wanna Go](https://open.spotify.com/track/6rJnCbylhS9uUujttwYX4l) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [The Way I Wanna Go](https://open.spotify.com/album/0HgJ551rBgPx9sCY6UAOfK) | 5:48 |
 | 22 | [I Wanna Keep It](https://open.spotify.com/track/0XAJiy3zJ20ZTvNviK5zCV) | [Free Joel](https://open.spotify.com/artist/3ASOgqQ8AGJGdKo1zleOEP) | [I Wanna Keep It](https://open.spotify.com/album/4rAJbotu9bdOzBUWEJyalC) | 5:26 |
 | 23 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
-| 24 | [Ballad of a Thin Man](https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Ballad of a Thin Man](https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT) | 6:33 |
+| 24 | [Ballad of a Thin Man](https://open.spotify.com/track/2xwHS9jXykoQIEVzbQzycq) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is..\. 25](https://open.spotify.com/album/4AhbhmM5KARl99yljXbZ5m) | 6:33 |
 | 25 | [Testify \- Radio Edit](https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Testify \(Radio Edit\)](https://open.spotify.com/album/3gboQHxNh9JFRNk1A1tib4) | 4:13 |
 | 26 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 |
 | 27 | [Riders](https://open.spotify.com/track/6qqUXdg4bduFMCf83hZ1pm) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Riders](https://open.spotify.com/album/4ApVp6TSwuXfwmPP4qKtO4) | 3:40 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 82 | [Back to the Good](https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs) | [Chris Antonik](https://open.spotify.com/artist/55m5gPmPkNV7Ztg6vBDcvD) | [Morningstar](https://open.spotify.com/album/5ON1Hg65ctPjcsaoFfm52F) | 4:13 |
 | 83 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 | 84 | [Half\-Tongue](https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [ATW](https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC) | 4:35 |
-| 85 | [Silver Paper](https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Silver Paper](https://open.spotify.com/album/6Y6nPjdXZd0p7qAMiM3A9z) | 3:26 |
+| 85 | [Silver Paper](https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g) | [Leslie West](https://open.spotify.com/artist/0ks4E3VJXDIRABtxz2IiBE), [Charlie Starr](https://open.spotify.com/artist/2Oeaf5Pn9WzmxUIIsjs939) | [Legacy: A Tribute to Leslie West](https://open.spotify.com/album/2fHUmGoULVaRNzb0cPPzzL) | 3:26 |
 | 86 | [How High](https://open.spotify.com/track/4BYD2s44Gzhnpw9XsyhfKk) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [How High](https://open.spotify.com/album/5AImRUVECSvsxYnEeGVGMf) | 2:12 |
 | 87 | [Gone to Stay](https://open.spotify.com/track/7zXS22mqJWS5DoMktmsgHZ) | [John Norum](https://open.spotify.com/artist/6bLPZMOlLH9wiaQ0kO5nZh) | [Gone to Stay](https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E) | 4:16 |
 | 88 | [I Need To Be](https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X) | [The Cassaday Concoction](https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi) | [I Need To Be](https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp) | 4:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCw4NmQ3ZmU1ZjgyZGZiYjBiMjEwY2FkNTI4OTZjOWQ1MWI3MWEzZDFj`
+Snapshot ID: `MCxjZTMzYTQ1MmE2MGY4YWMyYjlmOTc2NTA1NTJiNWEwNTUwM2UyMDY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG?si=0v3V\-PEhRWyKj94k5GI6wg">WALWIN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,059 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,068 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Hand Her The Gun](https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [The Revive \(The Ascension 2 Prelude\)](https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz) | 2:38 |
 | 100 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
 
-Snapshot ID: `MCw5MGJiMjcyOGY3ZmQ1YmNlZjI5ZTJhNDYwNDYwYTdlNDg0NTdkMWVk`
+Snapshot ID: `MCw1YmU0M2VkZTA4OTJjMDkxYjFhMDI3MmE5YmQwYWEyODE2YjdlYzNi`

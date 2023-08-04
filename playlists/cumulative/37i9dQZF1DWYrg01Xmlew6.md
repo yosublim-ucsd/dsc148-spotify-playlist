@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Yung Snapp in cover.
 
-224 songs - 10 hr 29 min
+225 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [NA CRIATURA](https://open.spotify.com/track/5T9tDWyGQCkhasjfGVZabC) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [NA CRIATURA](https://open.spotify.com/album/07DTjfY4CXGe01KxN1HdwE) | 2:54 | 2022-05-10 | 2022-05-27 |
 | [NA STORIA](https://open.spotify.com/track/4tMC0vUpZnlYLPPukjy9ud) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [LOVE SEASON](https://open.spotify.com/album/4TAh5dyRd4oTnQDuRzrDPz) | 2:30 | 2022-12-15 | 2023-01-20 |
 | [NAPO\*\*\*\*NO](https://open.spotify.com/track/4y4wOYV6OJ2hlXeBFzazEO) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:48 | 2023-01-06 | 2023-03-18 |
+| [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/track/3FDmJlbAtx6u7m0REfhTxQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS) | [Napoletano RMX \(feat\. SLF\)](https://open.spotify.com/album/2vwJ8mtsNwTYCZHxIKHTDl) | 2:56 | 2023-08-03 |  |
 | [Niente](https://open.spotify.com/track/1BN4YTnHEAFAg5HRxIC1af) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile Vol\. 2](https://open.spotify.com/album/5533SD7HXknP7vKdshypG1) | 2:48 | 2023-05-10 | 2023-07-21 |
 | [NO BODYGUARD](https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [NO BODYGUARD](https://open.spotify.com/album/3tXUkUdnsMkOck4lN5ZX6F) | 2:52 | 2022-11-24 | 2023-04-21 |
 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 | 2022-05-10 | 2022-05-27 |

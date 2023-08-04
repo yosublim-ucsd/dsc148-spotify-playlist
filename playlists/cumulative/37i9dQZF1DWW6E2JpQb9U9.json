@@ -530,7 +530,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 250538,
       "name": "Ay, Qu\u00e9 Dios Boludo",
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
@@ -970,6 +970,24 @@
       "duration_ms": 205080,
       "name": "Carol - Vivo",
       "url": "https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF"
+    },
+    {
+      "album": {
+        "name": "Carretera Perdida (En Vivo)",
+        "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
+      },
+      "artists": [
+        {
+          "name": "Buitres",
+          "url": "https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290496,
+      "name": "Carretera Perdida - En Vivo",
+      "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
     },
     {
       "album": {
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 414120,
       "name": "Marad\u00f3 - En Vivo",
       "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
@@ -4030,7 +4048,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 230528,
       "name": "Se Fue al Cielo - En Vivo Luna Park",
       "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"

@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 726073,
+  "num_followers": 726145,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh",
+  "snapshot_id": "MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5",
   "tracks": [
     {
       "added_at": "2023-06-30 15:15:56",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
-        "name": "Chaghaf",
-        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Chaghaf",
-      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
         "name": "Agua e pipa",
         "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 202553,
       "name": "Agua e pipa",
       "url": "https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
       "added_at": "2023-06-30 15:15:56",
@@ -1323,6 +1323,46 @@
     {
       "added_at": "2023-06-30 15:15:56",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
+      },
+      "artists": [
+        {
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
+        },
+        {
+          "name": "Aitor Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 449454,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
+        "name": "Latlal",
+        "url": "https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV"
+      },
+      "artists": [
+        {
+          "name": "Fairplay",
+          "url": "https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U"
+        }
+      ],
+      "duration_ms": 357220,
+      "name": "Latlal",
+      "url": "https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1"
+    },
+    {
+      "added_at": "2023-06-30 15:15:56",
+      "album": {
         "name": "Izivunguvungu (Chlo\u00e9 Remix)",
         "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
@@ -1355,50 +1395,6 @@
       "duration_ms": 457843,
       "name": "Quetzal",
       "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
-      },
-      "artists": [
-        {
-          "name": "Billy Esteban",
-          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
-        },
-        {
-          "name": "Aitor Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 449454,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
-    },
-    {
-      "added_at": "2023-06-30 15:15:56",
-      "album": {
-        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
-        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
-      },
-      "artists": [
-        {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "Sariel Orenda",
-          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Dilmano Dilbero - Sariel Orenda Remix",
-      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
     }
   ],
   "unique_name": "Org\u00e1nica",

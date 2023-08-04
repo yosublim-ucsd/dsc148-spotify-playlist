@@ -4,13 +4,14 @@
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-33 songs - 2 hr 10 min
+34 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Piece Of Mind](https://open.spotify.com/track/4FhWqSmp6ROi6QVTgO1oJQ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:05 | 2022-10-25 |  |
+| [Anywhere But Here](https://open.spotify.com/track/1BX0orhjFpGQCbSNtHUpyO) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:09 | 2023-08-03 |  |
 | [Anywhere But Here](https://open.spotify.com/track/2jPYuI2SRCueYfdrMntkCq) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/7yspkJ99ueJylCjxHGEH77) | 3:09 | 2022-10-25 | 2023-01-24 |
-| [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 | 2022-10-28 |  |
+| [Anywhere But Here](https://open.spotify.com/track/5Uh2jLUewjnVWXA1LLjQQn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:09 | 2022-10-28 | 2023-08-04 |
 | [Back To Oblivion](https://open.spotify.com/track/3gj736rPpN4UutbCVWV62F) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:23 | 2022-10-25 |  |
 | [Bitemarks And Bloodstains](https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:39 | 2022-10-25 |  |
 | [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 | 2022-10-25 |  |

@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 138220,
       "name": "I don't mind if you don't mind (draft)",
       "url": "https://open.spotify.com/track/1LjSLMjMAZj6zvW6XLLzzr"
@@ -3864,6 +3864,24 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+    },
+    {
+      "album": {
+        "name": "When the Party's Over",
+        "url": "https://open.spotify.com/album/23Va4fs3LT53tTYFp2dvmb"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154732,
+      "name": "When the Party's Over",
+      "url": "https://open.spotify.com/track/2q4t8aNC8tSQyViXrTwOFJ"
     },
     {
       "album": {

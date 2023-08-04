@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,577 likes - 154 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,169 likes - 154 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 119 | [Maze \- 电视剧《永远的主君》原声音乐](https://open.spotify.com/track/6lWicdbY0xMkeLxYeswFxL) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Maze \(电视剧《永远的主君》原声音乐\)](https://open.spotify.com/album/7G73I4zSOc9jhxHFAgYIlS) | 3:46 |
 | 120 | [Let me hear you say](https://open.spotify.com/track/6wgC1bu0BIx0K9TBbkINDA) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:00 |
 | 121 | [Lucky](https://open.spotify.com/track/6BuUJqtxrQZWKOJFibfFFv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:17 |
-| 122 | [MOONWALKER](https://open.spotify.com/track/228kirGitpXyy0zD8mhrtp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:00 |
+| 122 | [MOONWALKER](https://open.spotify.com/track/2RevV77RPztZ3I4snuCzGU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:00 |
 | 123 | [Healing](https://open.spotify.com/track/1nyzf00hpVfBkHlZSVJuky) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:23 |
 | 124 | [Lilili Yabbay](https://open.spotify.com/track/55M6WlPDc8WID9UcmWjbYM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:31 |
 | 125 | [20](https://open.spotify.com/track/30KwJprbzKR4uXLKEG8dMM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 153 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 |
 | 154 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `MCwwYTRhMjAyN2I0ZGRhNzgyNTk4ZmNjNDgwMjNjMjdmY2JiZjQxNDI3`
+Snapshot ID: `MCxlOGFiZGVjNzE5YWQyNjZlMjc3ZmYzZWZhYWE4NmJkMjZjZDNhNGFl`

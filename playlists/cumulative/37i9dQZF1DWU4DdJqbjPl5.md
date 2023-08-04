@@ -4,7 +4,7 @@
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=sYH\-Jv0SSDeQl8GLBUd2oQ"> Xenia Manasseh  </a> and <a href="https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC?si=22eZiPH8QGCE4gtrdT8iyA"> Karun  </a>
 
-273 songs - 14 hr 34 min
+275 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Don't Lie](https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 2:36 | 2023-06-08 |  |
 | [Doorstep](https://open.spotify.com/track/3z9mt4k1wRSkHmBDfqUqIr) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Doorstep](https://open.spotify.com/album/2KqhIundDwNL9zo85Dj6d4) | 3:54 | 2022-04-21 | 2022-07-08 |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-19 | 2023-03-10 |
+| [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/7CSAqTFm0mlnIQOCtzi6NV) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 | 2023-08-03 |  |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-05-21 | 2023-01-20 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2021-12-02 | 2022-07-29 |
 | [emiliana](https://open.spotify.com/track/58ZvQ7RAd8PPLUU6lmNy7X) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Pop Hits Now](https://open.spotify.com/album/1YDU8JDHG7xdWimuRRdAaf) | 2:44 | 2022-06-08 | 2022-11-13 |
@@ -166,7 +167,7 @@
 | [Mar Azul](https://open.spotify.com/track/5gJyW5NeOsfNa2CSMES2h3) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Mar Azul](https://open.spotify.com/album/0pDADbq5FFUMkls9VeYW9g) | 3:13 | 2022-09-01 | 2022-09-23 |
 | [Maria](https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Maria](https://open.spotify.com/album/52JXwMJ5QOTZBWMCVHq0cy) | 2:33 | 2022-05-19 | 2022-07-08 |
 | [Mayana](https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Mayana](https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek) | 2:38 | 2021-12-02 | 2023-05-20 |
-| [Mayana](https://open.spotify.com/track/5WeLc7gPjNabQ1AMk5lxrl) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:38 | 2023-05-19 |  |
+| [Mayana](https://open.spotify.com/track/5WeLc7gPjNabQ1AMk5lxrl) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 2:38 | 2023-05-19 | 2023-08-04 |
 | [MEDITATE](https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 3:57 | 2023-04-20 |  |
 | [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 |  |
 | [Mine](https://open.spotify.com/track/1nzmbzGyRa3X8n3s0AAubj) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa), [TAIO](https://open.spotify.com/artist/6WuZ1saWkFrczv6G1inkOp) | [Lisa Oduor\-Noah](https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m) | 2:55 | 2022-02-11 | 2022-09-02 |
@@ -185,7 +186,8 @@
 | [Nikilewa](https://open.spotify.com/track/2Xsm7EXOpbddl18WKjoja6) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Nikilewa](https://open.spotify.com/album/4E9gUEvypryoC5xspqCRRk) | 3:31 | 2023-05-11 | 2023-05-20 |
 | [Nikita](https://open.spotify.com/track/7giomsoZgEbXFNTqS8Y683) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nikita](https://open.spotify.com/album/5L2vzVovIvzKKXD2nAYZtr) | 2:42 | 2021-11-11 | 2023-02-17 |
 | [Nobody Else](https://open.spotify.com/track/2dt5k4ChcpKmCi2KPyuxpK) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Nobody Else](https://open.spotify.com/album/67K6eADrJhLqy8r6sH2sUN) | 2:48 | 2022-02-17 | 2023-05-26 |
-| [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 |  |
+| [nwayi](https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [nwayi](https://open.spotify.com/album/2ytwmK8ETbEVZKueoNYKIQ) | 3:04 | 2023-06-02 | 2023-08-04 |
+| [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 | 2023-08-03 |  |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-01-20 |  |
 | [Ocean](https://open.spotify.com/track/1mlMiJJUAABI8l8FqkASd4) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Ocean](https://open.spotify.com/album/3LL5z8ulgCli45d1hCOqvT) | 3:10 | 2022-02-17 | 2023-02-04 |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-10 |  |

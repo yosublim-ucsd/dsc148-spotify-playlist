@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
-  "num_followers": 879929,
+  "num_followers": 880021,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTYxN2ZkM2EwZWEwMmY1YmM1ZDI0ZWVjZTJlMDcxYTI1ZDQ5YzQ5",
+  "snapshot_id": "MCw2MmMzOTcwMjZhYzdhMjI4OTY2NDFiZmE4ZjY3Yzk2ZTJlM2ZkMDMy",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Honest Offering (Live)",
+        "url": "https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 277347,
+      "name": "Honest Offering / I Surrender All - Live",
+      "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "I've Witnessed It (Live)",
         "url": "https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 269000,
       "name": "I've Witnessed It - Single Version",
       "url": "https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Honest Offering (Live)",
-        "url": "https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 277347,
-      "name": "Honest Offering / I Surrender All - Live",
-      "url": "https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Team Night (Live)",
+        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 273245,
+      "name": "Never Walk Alone - Live At Team Night",
+      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Steady Light (Live from LO Conference) [Deluxe]",
         "url": "https://open.spotify.com/album/6ZEB1zRmcJqnLMRKpkWLGt"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 625955,
       "name": "Open (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Team Night (Live)",
-        "url": "https://open.spotify.com/album/7eJTb3VeQuRdefsPSQ5lzO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 273245,
-      "name": "Never Walk Alone - Live At Team Night",
-      "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Greater: Live At Chapel",
-        "url": "https://open.spotify.com/album/5dmMZLUsmeYGEpL7Q2Fk3K"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 246345,
-      "name": "Beauty For Ashes - Live At Chapel",
-      "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "I Believe (Live At Shepherd Church)",
         "url": "https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 286318,
       "name": "I Believe - Live At Shepherd Church",
       "url": "https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Greater: Live At Chapel",
+        "url": "https://open.spotify.com/album/5dmMZLUsmeYGEpL7Q2Fk3K"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 246345,
+      "name": "Beauty For Ashes - Live At Chapel",
+      "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Behold Our God (Live at WorshipGod)",
-        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 340533,
-      "name": "Behold Our God - Live at WorshipGod",
-      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Forever & Amen",
         "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 590208,
       "name": "Forever & Amen (with Kari Jobe) - Live",
       "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Behold Our God (Live at WorshipGod)",
+        "url": "https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 340533,
+      "name": "Behold Our God - Live at WorshipGod",
+      "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Finished Work of Christ",
         "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Praise Is Yours (Live)",
         "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 237466,
       "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
       "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Greater (Live)",
-        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 400897,
-      "name": "Victory Of Jesus - Live",
-      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+        "name": "Greater (Live)",
+        "url": "https://open.spotify.com/album/3vD5fn6jCpUahEfJElUa6u"
       },
       "artists": [
         {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+      "duration_ms": 400897,
+      "name": "Victory Of Jesus - Live",
+      "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1735,6 +1735,22 @@
       "duration_ms": 376541,
       "name": "Thin Place - Live",
       "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Beyond My Wildest Dreams (Live)",
+        "url": "https://open.spotify.com/album/6TksHeNnRGFIFB0sgjifJC"
+      },
+      "artists": [
+        {
+          "name": "Bria Jean",
+          "url": "https://open.spotify.com/artist/43UtBCYgy0IcVMzggYPCXD"
+        }
+      ],
+      "duration_ms": 259131,
+      "name": "Beyond My Wildest Dreams - Live",
+      "url": "https://open.spotify.com/track/4ZDkFx2R8d3I5jXEc4bqDu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Beyond My Wildest Dreams (Live)",
-        "url": "https://open.spotify.com/album/6TksHeNnRGFIFB0sgjifJC"
-      },
-      "artists": [
-        {
-          "name": "Bria Jean",
-          "url": "https://open.spotify.com/artist/43UtBCYgy0IcVMzggYPCXD"
-        }
-      ],
-      "duration_ms": 259131,
-      "name": "Beyond My Wildest Dreams - Live",
-      "url": "https://open.spotify.com/track/4ZDkFx2R8d3I5jXEc4bqDu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pull Me Through (Live at King\u2019s House)",
         "url": "https://open.spotify.com/album/38dj7aDFY0P50sYYmfMGhr"
       },
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Steady Light (Live from LO Conference)",
+        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "duration_ms": 239922,
+      "name": "Steady Light - Live",
+      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Hold On To Me (feat. AHI) [Live]",
         "url": "https://open.spotify.com/album/1dy3Qh4lyyLcBqNKFV8Bq0"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 235146,
       "name": "Hold On To Me (feat. AHI) - Live",
       "url": "https://open.spotify.com/track/77VIQZNzTNDaqB6tFQvqzq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Steady Light (Live from LO Conference)",
-        "url": "https://open.spotify.com/album/6St8kQLFrmsjhtKySbp4Jv"
-      },
-      "artists": [
-        {
-          "name": "LO Worship",
-          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
-        }
-      ],
-      "duration_ms": 239922,
-      "name": "Steady Light - Live",
-      "url": "https://open.spotify.com/track/4C25Cy09CwtbyJkkMFLXCu"
     },
     {
       "added_at": "2023-05-19 04:00:00",

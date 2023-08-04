@@ -4,7 +4,7 @@
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-188 songs - 10 hr 32 min
+189 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Miracle](https://open.spotify.com/track/0TCk149bpoWtPn4QjGfpel) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu 조선로코 \- 녹두전 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5KIPerlwk34hDgSwUOAVm7) | 3:38 | 2022-05-27 | 2022-07-29 |
 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 | 2022-07-21 |  |
 | [Missed Connections](https://open.spotify.com/track/4jAh51yhz3LUtbm1p7vOfY) | [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Tempted OST Part.3](https://open.spotify.com/album/6gnnrJuB1MF1ikNG5nlhrM) | 3:56 | 2022-05-27 |  |
-| [MOONWALKER](https://open.spotify.com/track/228kirGitpXyy0zD8mhrtp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:00 | 2022-05-27 |  |
+| [MOONWALKER](https://open.spotify.com/track/2RevV77RPztZ3I4snuCzGU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:00 | 2023-07-28 |  |
+| [MOONWALKER](https://open.spotify.com/track/228kirGitpXyy0zD8mhrtp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:00 | 2022-05-27 | 2023-08-04 |
 | [MY I](https://open.spotify.com/track/0y3KqHpaqKhkHMM50HTeQy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:04 | 2022-05-27 |  |
 | [My My](https://open.spotify.com/track/2ofZmsQptNzgUfmbNlnPYI) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:05 | 2022-05-27 | 2022-07-29 |
 | [My My](https://open.spotify.com/track/4rnvC8St4YDHGuQdBEByRz) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:05 | 2022-07-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover:  <a href="https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER?si=aa07e4f23640494a">BIA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,183 likes - 120 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,179 likes - 120 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 119 | [Sadboy](https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:10 |
 | 120 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 
-Snapshot ID: `MCw2NDhmOWYzNGZmZjk2OWE2MjJkZTQ3NjRhYmEyNjA3NGNlNGI0ZTJm`
+Snapshot ID: `MCwzMmZkYzUzNzIwY2JhMTA5ZDM3MTc1MDY0ZjYzNzkyYWQzYTk3YmJl`

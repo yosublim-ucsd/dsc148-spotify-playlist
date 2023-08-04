@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 176385,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE"
@@ -858,6 +858,24 @@
       "duration_ms": 170232,
       "name": "Don't Lie (feat. Kuami Eugene)",
       "url": "https://open.spotify.com/track/1jCZy2BqlnxOrKdEBqmSIK"
+    },
+    {
+      "album": {
+        "name": "Don't Say Love (R&B Version)",
+        "url": "https://open.spotify.com/album/0suvINTZqdzzV37L4XR3tS"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180131,
+      "name": "Don't Say Love - R&B Version",
+      "url": "https://open.spotify.com/track/01FKgn2t3o8adgrrfkN0HQ"
     },
     {
       "album": {
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 201360,
       "name": "Flip A Switch. (feat. Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
@@ -1350,6 +1368,32 @@
       "duration_ms": 232284,
       "name": "Go back",
       "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
+    },
+    {
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247100,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI"
     },
     {
       "album": {
@@ -2173,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
+      "album": {
         "name": "Moonview hwy (mario kart)",
         "url": "https://open.spotify.com/album/5LRxddzcSprwxCvsS0C0LW"
       },
@@ -2254,7 +2316,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 179508,
       "name": "My Phone Can Die",
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
@@ -2763,6 +2825,28 @@
     },
     {
       "album": {
+        "name": "Ready For It (feat. Eric Bellinger)",
+        "url": "https://open.spotify.com/album/42fWXOdXkh3M5872YHc9zS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147394,
+      "name": "Ready For It (feat. Eric Bellinger)",
+      "url": "https://open.spotify.com/track/3TZaeEmGv6HsdARIAwvdIs"
+    },
+    {
+      "album": {
         "name": "I Thought It'd Be Different",
         "url": "https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX"
       },
@@ -3062,7 +3146,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 175527,
       "name": "Slide All Night",
       "url": "https://open.spotify.com/track/1pou1vJsBUcH1y7UmFmDVp"
@@ -3190,7 +3274,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 236786,
       "name": "Sorry (Won\u2019t Cut It)",
       "url": "https://open.spotify.com/track/6m4uEHjmZllsfB612MgxZe"

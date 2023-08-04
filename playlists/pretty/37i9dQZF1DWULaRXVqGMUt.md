@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,104 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,140 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 38 | [Long Tall Sally](https://open.spotify.com/track/60MAITKKhg7gofj3EH6xOM) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:30 |
 | 39 | [Boogie Woogie Man](https://open.spotify.com/track/7xbLsmxaQQDt8qVqqwuSuZ) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:42 |
 | 40 | [C\-Jam Boogie](https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1) | [Christian Bleiming](https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK) | [Piano\-Blues & Boogie\-Woogie](https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9) | 3:37 |
-| 41 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
-| 42 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 |
+| 41 | [Laci's Boogie](https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR) | [Luca Sestak](https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ) | [New Way](https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8) | 5:32 |
+| 42 | [Jessie's Boogie Woogie](https://open.spotify.com/track/4culQSSHZ2xGSq3EoH7BXu) | [Preacher Jack](https://open.spotify.com/artist/71fOxnw8iL0hye8dQTsSjn) | [Return Of The Boogie Man](https://open.spotify.com/album/15eemntusUQL8JekIGa6KU) | 2:57 |
 | 43 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
 | 44 | [Caroline's Boogie](https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:21 |
 | 45 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 68 | [Chimes Blues](https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd) | [Cow Cow Davenport Vol\. 1 \(1925\-1929\)](https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs) | 3:19 |
 | 69 | [Detroit Rocks](https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn) | [Montana Taylor](https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM) | [Detroit Rocks](https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH) | 3:25 |
 | 70 | [Okay](https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Okay](https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc) | 3:18 |
-| 71 | [Born to Lose](https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA) | [Carl Mcvoy](https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS) | [The Door to Sun Records: Ballads \(30 Timeless Favorites\)](https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T) | 2:21 |
-| 72 | [Piggly Wiggly Blues](https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5) | [James Crutchfield](https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc) | [St\. Louis Blues Piano Man](https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX) | 4:08 |
+| 71 | [Piggly Wiggly Blues](https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5) | [James Crutchfield](https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc) | [St\. Louis Blues Piano Man](https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX) | 4:08 |
+| 72 | [Born to Lose](https://open.spotify.com/track/4ATeMDyHp5xRbjgc8ie9sA) | [Carl Mcvoy](https://open.spotify.com/artist/4xR5npq7uf2U1vrUdNqyiS) | [The Door to Sun Records: Ballads \(30 Timeless Favorites\)](https://open.spotify.com/album/6ShzjEnENQbJP2xd1s5M4T) | 2:21 |
 | 73 | [Chicago Breakdown](https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 2:57 |
 | 74 | [State Street Jive](https://open.spotify.com/track/2SDm7Yn0uWuiimKzFpnoEW) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd), [Ivy Smith](https://open.spotify.com/artist/3Cn3MlNoC7D2vHMvjJgV2Y) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:01 |
 | 75 | [Bongo Boogie](https://open.spotify.com/track/0z54FzJQpU4t2qV1zGYrCj) | [Anisteen Allen](https://open.spotify.com/artist/5H7GMEfLmgBJlLlEltL1wF) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:40 |
 
-Snapshot ID: `MCxlZTk0ODU1ZGFkZGFiMDUwYTdkYTMzYjFlZDQ3YmY2OGZkNGNhMTE3`
+Snapshot ID: `MCxmMWZlYTMxN2RiOWU0NTdkY2ViYjEwOTE4ZjQ1YTNmYzlmMTQ4NzYy`

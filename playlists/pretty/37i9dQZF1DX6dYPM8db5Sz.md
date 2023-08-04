@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX?si=lVs8wzTzQrWvdwe\-v3w8sQ">Alice Phoebe Lou</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,595 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,596 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 49 | [Home has never been good to us](https://open.spotify.com/track/0VGw53FeCBukGIvYm7SiWH) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Home has never been good to us](https://open.spotify.com/album/2fXqcG7ZRuVjm2ypxB4gds) | 2:20 |
 | 50 | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/track/4Cx4C0D4w8zAgb2UFqfoPL) | [Cloud Illusions](https://open.spotify.com/artist/1E4Zlw4mvjAYIqFO6HxMBp) | [Beautiful Day \(Acoustic Cover\)](https://open.spotify.com/album/51zhilUUY6kaqSh5J3MHcF) | 4:05 |
 
-Snapshot ID: `MCwwZDE4YTQxNzliNzA1OGVjMzUyYzc4ODFmNDc1ZDQ5ZDZmZDI2NjRk`
+Snapshot ID: `MCxjOWRiNjNkODNhNWJmMTQ4ZGNlNjJlOGViNTNjZTBjYWVjZGI3NjIx`

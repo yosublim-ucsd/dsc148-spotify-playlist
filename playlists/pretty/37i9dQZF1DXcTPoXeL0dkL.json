@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 181941,
+  "num_followers": 182010,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTJiMjU5ZTQzNTgxODljY2FjMzdjNDk1ZWE3ZjNiODQ4YjIzMGIz",
+  "snapshot_id": "MCw1NDRiYjQzMjA0YzZkNDM3OTczYjZhOTNjZTgyNDY5NzM2YmIyOWY2",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Pa Que Te Enamores",
-        "url": "https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM"
-      },
-      "artists": [
-        {
-          "name": "Ivan Zuleta",
-          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
-        },
-        {
-          "name": "Ivan Villazon",
-          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "Tu Olvido",
-      "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
         "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
         "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 321160,
       "name": "Ay Hombe",
       "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
+        "name": "Pa Que Te Enamores",
+        "url": "https://open.spotify.com/album/0zYbs9xZl8BpKXjv74GeJM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Zuleta",
+          "url": "https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B"
+        },
+        {
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "Tu Olvido",
+      "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
-          "name": "Los Embajadores Vallenatos",
-          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 269191,
-      "name": "El Santo Cachon",
-      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+      "duration_ms": 287826,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -887,22 +891,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+        "name": "El Pueblo Quiere Al Cantante",
+        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 287826,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
+      "duration_ms": 259413,
+      "name": "Acompa\u00f1ame",
+      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "El Pueblo Quiere Al Cantante",
-        "url": "https://open.spotify.com/album/4YvcLEJNTyauk5WxurtREl"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
         }
       ],
-      "duration_ms": 259413,
-      "name": "Acompa\u00f1ame",
-      "url": "https://open.spotify.com/track/6a81IkZg2kejyjgIZUZKT0"
+      "duration_ms": 269191,
+      "name": "El Santo Cachon",
+      "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
     },
     {
       "added_at": "2023-02-07 01:31:56",

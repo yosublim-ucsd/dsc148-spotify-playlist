@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Mujer Cebra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,412 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,426 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 44 | [Eres loco](https://open.spotify.com/track/3I01b4oPHE9hqDadnlimzP) | [Rey Rata](https://open.spotify.com/artist/0DiBgHVIgP7uCL4ivSIFsA) | [Eres loco](https://open.spotify.com/album/1JnGi8pwVORei3fW4b7TTf) | 3:29 |
 | 45 | [DESTINO](https://open.spotify.com/track/3CfFoMST8KjybQgFqNisir) | [Pressive](https://open.spotify.com/artist/0A5tnsz3SjTXp9SOWc2Rx4), [Diego Colmenero](https://open.spotify.com/artist/4G6Yb2F1IWRU8pcR0WoPXO), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [DESTINO](https://open.spotify.com/album/6kCDDmRjG9VhdKzR6X6QAW) | 4:15 |
 | 46 | [El Lugar Equivocado](https://open.spotify.com/track/2z7EUGoUHLDbSNEBBBBghu) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Petricor](https://open.spotify.com/album/7Bd7ONvu9lXwtYJpC279dF) | 3:00 |
-| 47 | [Nocturno](https://open.spotify.com/track/2f84SuZ9u9xfxI301Y0fR9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/5mGNd7BvwbRtiHG9T8Gbgi) | 3:48 |
+| 47 | [Nocturno](https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh) | 3:48 |
 | 48 | [Sucio Roberto](https://open.spotify.com/track/4G9FCQpBs2yaikhfvz7eXU) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Sucio Roberto](https://open.spotify.com/album/3geoO9WoUJPtetZt5RxRwc) | 2:04 |
 | 49 | [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 |
 | 50 | [Preso en un Compás](https://open.spotify.com/track/5OszE1Qeakt2ja4ydLluOc) | [REOT](https://open.spotify.com/artist/4g6UBfhSci5JLutunDJUl4) | [Preso en un Compás](https://open.spotify.com/album/68Bfxww4zT5h3cwPSmuxKr) | 3:09 |
 
-Snapshot ID: `MCw0MWNlNGZkYWMzMDRhYzgxMWY0ZjQyZTVjZWY0YjcxMGZhMWRkMzEz`
+Snapshot ID: `MCw1N2Y5YTJkZjFiMzAwYmZhZjczMmI5NzMwZmE3YjhkZDI3ZjFkN2E2`

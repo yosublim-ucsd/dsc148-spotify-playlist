@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Gilga Sahid
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Masdddho
 
-186 songs - 15 hr 12 min
+189 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Full Senyum Sayang](https://open.spotify.com/track/1MgqHpz3FQLaaUSK7fhGvL) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/2JXj5teDGxv4RQ2KfWfSIy) | 4:06 | 2022-10-07 | 2023-02-18 |
 | [Full Senyum Sayang](https://open.spotify.com/track/5iJjv9LgIpgZglbfT7RvGS) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3djAwAaADJz4EVGZCJghLc) | 4:06 | 2022-07-01 | 2022-10-11 |
 | [Full Senyum Sayang](https://open.spotify.com/track/7k2TwP9u83aABMkNoQuBnn) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Full Senyum Sayang](https://open.spotify.com/album/3wy9IbCarGhOSaY3WY731C) | 4:06 | 2023-02-16 |  |
+| [Gali Prapatan](https://open.spotify.com/track/5a0RI1DJDKqLhGyTRyVIa8) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Gali Prapatan](https://open.spotify.com/album/3pkrZtfEYuCfIOWQMV0Y10) | 2:57 | 2023-08-03 |  |
 | [ganti ayang](https://open.spotify.com/track/1VvExYaGt1IaycmrJPR0ZO) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [ganti ayang](https://open.spotify.com/album/5lgxKOsUiNGYHhRqY6VgJQ) | 4:36 | 2022-07-01 | 2023-04-14 |
 | [Gemati](https://open.spotify.com/track/0h4lIaJoOYwf5Bxo05hEaK) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/2enGHcl2AbelLyrkd7VhkG) | 4:38 | 2022-11-14 | 2023-02-15 |
 | [Gemati](https://open.spotify.com/track/7dDEb68OZzExiNhVGQirut) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Gemati](https://open.spotify.com/album/6lxoEW6DXryJb8wP4wSz1d) | 4:38 | 2023-02-09 |  |
@@ -92,11 +93,13 @@
 | [Mendung Tanpo Udan](https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Mendung Tanpo Udan](https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE) | 5:05 | 2022-05-26 |  |
 | [Mergawe](https://open.spotify.com/track/5N2z1MNzKTszoXTZmPnwgG) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ) | [Mergawe](https://open.spotify.com/album/3msYUmQcFQO1D01tcyNmn5) | 3:50 | 2023-04-27 |  |
 | [Minggato](https://open.spotify.com/track/0pyIRAkOApRPrYThYzv1eF) | [Vita Alvia](https://open.spotify.com/artist/5zkv5DNu55fRGWGd7HGQka) | [Minggato](https://open.spotify.com/album/35ZdXSLT9YEhRHNmTzHKP2) | 4:03 | 2022-08-14 | 2022-11-14 |
+| [Mode Pesawat](https://open.spotify.com/track/5TMKZboiuzmIDuVQmuLgba) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Mode Pesawat](https://open.spotify.com/album/5IYPCtV8dI1fYlGABdDyKH) | 4:16 | 2023-08-03 |  |
 | [Moro Moro Teko \- From "Cidro Asmoro"](https://open.spotify.com/track/2Dbdw6yYIatVj2ka3tUa8l) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Moro Moro Teko \(From "Cidro Asmoro"\)](https://open.spotify.com/album/2A3Acl80HV6wwTqFiVURi8) | 4:46 | 2022-05-26 | 2022-11-14 |
 | [Mulyomu Mulyoku](https://open.spotify.com/track/2YuyuyKmfgtnK5GqZSJntw) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy) | [Mulyomu Mulyoku](https://open.spotify.com/album/48Lw2KHfTibGKGFoCdRhdA) | 2:50 | 2023-05-05 |  |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2022-05-26 |  |
 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 | 2023-07-13 |  |
 | [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-04-27 |  |
+| [Nemen](https://open.spotify.com/track/0Syc1MureY9jSdoaZRRS7o) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q), [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z) | [Nemen](https://open.spotify.com/album/4Do4u9R2HslN3jdu37rPR3) | 5:07 | 2023-08-03 |  |
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-01 |  |
 | [Nemu](https://open.spotify.com/track/1IDDrCfk1MedTTX3SIJrX6) | [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Nemu](https://open.spotify.com/album/1TQCT0n7uZa2JFzxP0xGv1) | 4:26 | 2023-07-24 |  |
 | [Neng Ngarep Moto](https://open.spotify.com/track/0CM5l5s1nmswT56EzrT7F2) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Neng Ngarep Moto](https://open.spotify.com/album/78OXxum7Wes8xs99bSuznr) | 5:55 | 2022-05-26 | 2023-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,476 likes - 48 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,550 likes - 48 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 47 | [Pièces de viole, Livre 3 \- Suite No\. 7 in G Major: No\. 92\. Prélude\. Lentement](https://open.spotify.com/track/2uzur7yhtXRMIoMQqgqCbd) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Mieneke van der Velden](https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp), [Glen Wilson](https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs) | [Marais: Pièces de viole](https://open.spotify.com/album/1U2A9ZPdjDpyeXVmsZWBSd) | 2:27 |
 | 48 | [Canarios](https://open.spotify.com/track/4wVfNcuFvJzBE5FQ5J479c) | [Gaspar Sanz](https://open.spotify.com/artist/1OdITJSYADZMOPRSyXlb3c), [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Thibault Cauvin](https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG) | 2:27 |
 
-Snapshot ID: `MCw3NTcyN2E4NGMxODViZDNkNjRjYTdkYzhmY2VmZDAxMWFlY2IyZDAw`
+Snapshot ID: `MCwzMzQ0ODQyMGY0YjFlZTdhMzFhMjQzZjU4MzJlZmRmYjg3NzM5Yzk5`

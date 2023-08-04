@@ -4,14 +4,15 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-82 songs - 7 hr 57 min
+83 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Real Good Time \- Libra Remix](https://open.spotify.com/track/5ttx47ANI7Z6HuDflC3Xd9) | [Burn In Noise](https://open.spotify.com/artist/3O4xHzuHaiM4UVNlSd44xK), [Loud](https://open.spotify.com/artist/2nhTi1cXehDDk7kRCRyBkR), [Libra](https://open.spotify.com/artist/4Up75wJWV1RbAZBasM5sqw) | [A Real Good Time \(Libra Remix\)](https://open.spotify.com/album/1uo0s3MIECrcQ90tzsmsC2) | 9:17 | 2022-03-04 |  |
 | [Acid](https://open.spotify.com/track/6t2Pa9izGXjBAJfTOnl9cg) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Freedom Fighters](https://open.spotify.com/artist/7Fmu1wTZGOG9b2w5qvM9XR) | [Acid](https://open.spotify.com/album/1VNNNnoGe0AphWS4jsxVWd) | 6:13 | 2022-03-04 |  |
 | [Acidify](https://open.spotify.com/track/4kXtFvuEEMz11UHMsyUag7) | [Lizard Madness](https://open.spotify.com/artist/593vsW9JljAGFUn59MNniP), [Creative Mind](https://open.spotify.com/artist/2WtYK1pVZjQDEEekPncuQ9) | [Acidify](https://open.spotify.com/album/2nDUrvHrHScFzmpOch9FWo) | 5:48 | 2022-03-04 |  |
-| [Afrodelia \- Original Mix](https://open.spotify.com/track/464B0BHg19O9onCyloJsHg) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/2AKkgypQBa3JcFQEa4zJPv) | 8:19 | 2022-03-04 |  |
+| [Afrodelia](https://open.spotify.com/track/7HXiibRLYnLmQeXZtzFKav) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/26VDoPXvmyr9Utq03BCP6u) | 8:15 | 2023-07-07 |  |
+| [Afrodelia \- Original Mix](https://open.spotify.com/track/464B0BHg19O9onCyloJsHg) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/2AKkgypQBa3JcFQEa4zJPv) | 8:19 | 2022-03-04 | 2023-08-04 |
 | [Ancient Fire](https://open.spotify.com/track/56fs6pRDSSWGdFgrmdGuhG) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Jesse Fox](https://open.spotify.com/artist/6KouCOw06pAsnWPfbaf3p5) | [Ancient Fire](https://open.spotify.com/album/3OjFlJ7GFvadwhNQ6pfGDF) | 5:35 | 2022-03-04 |  |
 | [Arabic Tales](https://open.spotify.com/track/7CZIav6rRTCgMdLFsXlfWl) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P) | [Arabic Tales](https://open.spotify.com/album/1rfDsJbfOlhe3j0m0YzYzS) | 6:50 | 2022-03-04 |  |
 | [Around](https://open.spotify.com/track/2GAXVfXJCfSi7obOc2hSz0) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3) | [Around](https://open.spotify.com/album/6hgJAzkzfp3BBQzIqP2DW8) | 4:30 | 2022-03-04 |  |

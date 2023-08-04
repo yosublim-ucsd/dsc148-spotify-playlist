@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-895 songs - 2 day 7 hr 20 min
+896 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -604,6 +604,7 @@
 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 | 2022-11-24 | 2023-02-18 |
 | [Teenager](https://open.spotify.com/track/2bmq7wwgtGVPPJ0vYpjcXq) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [World Wide Pop](https://open.spotify.com/album/6iUUKuRHlCy9GeKmIwbPRu) | 2:59 | 2022-08-03 | 2022-09-15 |
 | [tender icecream](https://open.spotify.com/track/1EzLPxQ7Ql4aIZkNCIEiqY) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Seasons.ep](https://open.spotify.com/album/6ZZqCvMiApoWGZfsCYVDAB) | 3:30 | 2022-08-24 | 2022-09-21 |
+| [TGIF](https://open.spotify.com/track/3horUXBBgEyTEAxfeT9c0P) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [TGIF](https://open.spotify.com/album/0aNeBf2SZFAUOYuyCBPU0c) | 2:51 | 2023-08-03 |  |
 | [The Dawn](https://open.spotify.com/track/5NCfFFDLWN4hfgphPRaFpn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [The Dawn](https://open.spotify.com/album/3pHBDWw0nnEPCoUrAutLej) | 3:49 | 2022-05-26 | 2022-06-29 |
 | [The Edge](https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF) | 2:43 | 2023-02-23 | 2023-06-07 |
 | [The Edge](https://open.spotify.com/track/7ErnaYalt2rUa9TZbq5fwU) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/2HnbfPdTfU6ALbVGxE7xID) | 2:43 | 2023-02-23 | 2023-02-25 |
@@ -873,7 +874,7 @@
 | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/track/0zwJIjcKcpkWqIJj9DwBzZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [眠らないでよ feat\. 原田郁子](https://open.spotify.com/album/6kSvRLfGtkjgoQDGcseEOr) | 4:17 | 2023-04-04 | 2023-04-06 |
 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 | 2023-02-21 | 2023-04-05 |
 | [窓](https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8) | [The World Will Tear Us Apart](https://open.spotify.com/artist/1GS838TTVSArwgjWcidfYV) | [窓/深呼吸](https://open.spotify.com/album/1ZI5gjnYMMz0wdbVMA1Ssb) | 4:26 | 2023-01-17 | 2023-01-25 |
-| [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 |  |
+| [笑い話の夜 \- album ver.](https://open.spotify.com/track/2x953wBThParvOKoGF0XBR) | [OYAT](https://open.spotify.com/artist/0btudUX9PgqqXZuRtdjpSh) | [笑い話の夜](https://open.spotify.com/album/12yN9ReJFF180pEX2IjEZY) | 4:40 | 2023-07-04 | 2023-08-04 |
 | [続・New York City](https://open.spotify.com/track/0SEtY9Z4GWq9i0sNyIttFA) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [続・New York City](https://open.spotify.com/album/2YGIs4EQXhDL9R9D1lz3WZ) | 4:42 | 2022-10-04 | 2022-10-28 |
 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 | 2022-10-11 | 2023-01-18 |
 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 | 2022-12-15 | 2023-06-07 |

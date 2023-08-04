@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 21272,
+  "num_followers": 21308,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2E0YjY4N2UyOGJiMmQ3OTM2ZjZlNDg5Mzk0NzI4OWYwZTMyYmEw",
+  "snapshot_id": "MCxkMTMxNDU0ZTkyYWVjYzkyY2M2MzZiODgxYjAyZmY1NWRlMjE5ZWI5",
   "tracks": [
     {
       "added_at": "2021-12-16 22:41:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Tierra Mala",
-        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        }
-      ],
-      "duration_ms": 289933,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 221440,
       "name": "La Colegiala",
       "url": "https://open.spotify.com/track/7rDIiNyDgqUb6WQOgskiiF"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Tierra Mala",
+        "url": "https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 289933,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Latin Vallenatos",
-        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
-      },
-      "artists": [
-        {
-          "name": "Vallenatos Nativos",
-          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
-        }
-      ],
-      "duration_ms": 214840,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Mar y Luna",
         "url": "https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 260466,
       "name": "Mar y Luna",
       "url": "https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+      },
+      "artists": [
+        {
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+        }
+      ],
+      "duration_ms": 214840,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
+        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+      },
+      "artists": [
+        {
+          "name": "Rossy",
+          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
+        }
+      ],
+      "duration_ms": 174278,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
         "name": "Muy Tropical y Bailable - 16 Exitos",
         "url": "https://open.spotify.com/album/4zqlca5cQmkCPhL0ZZr3P8"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
-        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
-      },
-      "artists": [
-        {
-          "name": "Rossy",
-          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
-        }
-      ],
-      "duration_ms": 174278,
-      "name": "Carola",
-      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Natusha & Kondor Band",
         "url": "https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3"
       },
@@ -1359,6 +1359,38 @@
       "duration_ms": 227333,
       "name": "El la Enga\u00f1\u00f3",
       "url": "https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "14 vallenatos sabroso",
+        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
+      },
+      "artists": [
+        {
+          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
+          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
+        }
+      ],
+      "duration_ms": 283103,
+      "name": "muero por verla luis mateus vallenato",
+      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Bailando Con Roberto Antonio",
+        "url": "https://open.spotify.com/album/0doc3F2HPyvkprfqQkyD3w"
+      },
+      "artists": [
+        {
+          "name": "Roberto Antonio",
+          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
+        }
+      ],
+      "duration_ms": 233053,
+      "name": "Nochesde Fantasia",
+      "url": "https://open.spotify.com/track/20gUAOtCVLjX2x3tUaNinY"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1383,22 +1415,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "14 vallenatos sabroso",
-        "url": "https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc"
-      },
-      "artists": [
-        {
-          "name": "14 vallenatos sabroso corta venas vol.1 exitos",
-          "url": "https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl"
-        }
-      ],
-      "duration_ms": 283103,
-      "name": "muero por verla luis mateus vallenato",
-      "url": "https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "El Mejor Int\u00e9rprete Tropical - 16 Exitos",
         "url": "https://open.spotify.com/album/5Hix3j0dTfiiRIcgGBp7yD"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "Bailando Con Roberto Antonio",
-        "url": "https://open.spotify.com/album/0doc3F2HPyvkprfqQkyD3w"
-      },
-      "artists": [
-        {
-          "name": "Roberto Antonio",
-          "url": "https://open.spotify.com/artist/1OuxoQIMrPUQOoshgkopYx"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "Nochesde Fantasia",
-      "url": "https://open.spotify.com/track/20gUAOtCVLjX2x3tUaNinY"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "M\u00e1s Romanticos",
         "url": "https://open.spotify.com/album/0mmIrqXHAeXwfOdgVoRxRY"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 287555,
       "name": "Hay Que Ser Fuerte",
       "url": "https://open.spotify.com/track/5CcE4WFbASAobJapMAIQI7"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
+        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
+      },
+      "artists": [
+        {
+          "name": "Party Tyme Karaoke",
+          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
+        }
+      ],
+      "duration_ms": 188717,
+      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
+      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1467,22 +1483,6 @@
       "duration_ms": 280880,
       "name": "Buscandote",
       "url": "https://open.spotify.com/track/2FtjaDTZOsJCjFWuNXqJUl"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
-        "name": "Party Tyme Karaoke - Latin Tropical Hits 9",
-        "url": "https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I"
-      },
-      "artists": [
-        {
-          "name": "Party Tyme Karaoke",
-          "url": "https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB"
-        }
-      ],
-      "duration_ms": 188717,
-      "name": "Oye (Made Popular By La Sonora Dinamita) [Karaoke Version]",
-      "url": "https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94"
     },
     {
       "added_at": "2021-12-16 22:41:17",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2021-12-16 22:41:17",
       "album": {
-        "name": "50 A\u00f1os",
-        "url": "https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM"
-      },
-      "artists": [
-        {
-          "name": "Gabino Pampini",
-          "url": "https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs"
-        }
-      ],
-      "duration_ms": 248778,
-      "name": "Me Recordaras",
-      "url": "https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld"
-    },
-    {
-      "added_at": "2021-12-16 22:41:17",
-      "album": {
         "name": "Cumbias, Cumbias",
         "url": "https://open.spotify.com/album/4IGwcswnHXPJ3b85cYEYhA"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 174733,
       "name": "El Pescador de Bar\u00fa",
       "url": "https://open.spotify.com/track/7pjSbRfTwv6sk8lHCWquZI"
+    },
+    {
+      "added_at": "2021-12-16 22:41:17",
+      "album": {
+        "name": "50 A\u00f1os",
+        "url": "https://open.spotify.com/album/03P9nkgd358tP9XIPxzKHM"
+      },
+      "artists": [
+        {
+          "name": "Gabino Pampini",
+          "url": "https://open.spotify.com/artist/6ATSWHl0DG8Qdy3YwbisJs"
+        }
+      ],
+      "duration_ms": 248778,
+      "name": "Me Recordaras",
+      "url": "https://open.spotify.com/track/0w5lgtOu6MFQQsnNQeuuld"
     }
   ],
   "unique_name": "\u00c9xitos de Balneario",

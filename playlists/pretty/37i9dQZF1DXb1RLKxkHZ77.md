@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,698 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,814 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 5 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 |
 | 6 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
 | 7 | [Retak Hatiku](https://open.spotify.com/track/2yMJuPe0zsr8bxjEY3dZTi) | [Iera Milpan](https://open.spotify.com/artist/5zz4cBU2JXvmlgFuiCmiPI) | [Retak Hatiku](https://open.spotify.com/album/0mT3VnoXzEFUJWCTOSXUe6) | 4:12 |
-| 8 | [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 |
+| 8 | [Trauma \(feat\. Aan Story\)](https://open.spotify.com/track/5mS6XpcsLnKxXrdvw4uzBk) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma \(feat\. Aan Story\)](https://open.spotify.com/album/42zqQhzRx05UFLDVY5XOvE) | 3:38 |
 | 9 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 |
 | 10 | [Gagal Bersembunyi](https://open.spotify.com/track/3uVXx4FZU0TawfkyQznFBr) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh), [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [Gagal Bersembunyi](https://open.spotify.com/album/7a9TXUUA5It9Cv5uyrdoVJ) | 4:02 |
 | 11 | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/track/3SSe3pzhdtPrVN0AqzUkx0) | [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [Mungkin Aku Tak Penting? \(feat\. Tish Errda\)](https://open.spotify.com/album/34fD5ynm6YJHkcwjADFnpr) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Kecundang](https://open.spotify.com/track/1EfguG6A84ob5TaMP7BmT2) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Selamat Tinggal Pujaan](https://open.spotify.com/album/29k6rNn6fU89ucu6UNadlo) | 2:28 |
 | 50 | [SWIPE](https://open.spotify.com/track/1FNfR4kZyozQ1unC5rQGC6) | [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [SWIPE](https://open.spotify.com/album/5mtgm2XTGhtLxxHcYC6XU0) | 2:40 |
 
-Snapshot ID: `MCxiMDVkZWRmYTg3YjVmOGI1NTM5MWUzNjg1ZWJhZjkyY2ExZDg5ODE2`
+Snapshot ID: `MCw0YWEzOGM0NTI3MGMyYTkyZGQ4YTBkM2VkMWUyMDUwOWU4MTk3ZWMy`

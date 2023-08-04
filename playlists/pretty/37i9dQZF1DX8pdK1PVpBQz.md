@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Georgia Gets By\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,946 likes - 101 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,958 likes - 101 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [Returning](https://open.spotify.com/track/2UE7TEA2o06VBoladluVrQ) | [Juice Webster](https://open.spotify.com/artist/72CbgBRSQw7tYyEvfSB3s4) | [Returning](https://open.spotify.com/album/7nHVlnlR7Wbg10hFnj0Eo4) | 4:05 |
 | 101 | [Tora](https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Pound For Pound](https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw) | 3:02 |
 
-Snapshot ID: `MCwwNTY5ZDQ4MjQ0NGM1YzUwOTUwYjllY2M4NDQ2YTdhZjk4ZGJjZGU5`
+Snapshot ID: `MCwxNmVlMDljZmYzODA0YzBlYjNjYTdiY2NmOTA1ZmEzOTA4MzlhYTBi`

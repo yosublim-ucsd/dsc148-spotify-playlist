@@ -4,7 +4,7 @@
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 44 min
+52 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Say It Back](https://open.spotify.com/track/1TJ8r9Y5EE1rVPLWKOwjmo) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 3:43 | 2022-09-16 |  |
 | [Sea Sick](https://open.spotify.com/track/0xg9zudXOKmQyMOfSI9ifp) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu), [Kat Edwards](https://open.spotify.com/artist/7FOpFtNApLbUrcz56UnkM4) | [Everything is Tenuous](https://open.spotify.com/album/1CauYGf4kborz50koSaKMd) | 4:53 | 2022-09-16 | 2022-10-13 |
 | [Some Cutting Sick](https://open.spotify.com/track/5NFtAVr1pSNC3vkmvQ2cA3) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:41 | 2022-09-16 | 2022-10-13 |
+| [Sonny](https://open.spotify.com/track/1HMAGmRUH8BdyvwyEAeJAR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Sonny](https://open.spotify.com/album/1x0RHJ05WgdGrAH8yA6Pq8) | 3:40 | 2023-08-03 |  |
 | [Southbound](https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 2:40 | 2022-09-16 |  |
 | [Spin and Collapse](https://open.spotify.com/track/5FjHVV2PuGFY1qdgdUAjoQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [If This Is All We're Going to Be](https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa) | 2:45 | 2022-09-29 |  |
 | [Stay](https://open.spotify.com/track/5mEZtqDRamPEyij3Qrmup9) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Stay](https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0) | 1:36 | 2022-09-16 |  |

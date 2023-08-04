@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Garden Lily",
+        "url": "https://open.spotify.com/album/0JLWiL0bVlAeJLLszt2TMg"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Garden Lily",
+      "url": "https://open.spotify.com/track/4YPpEhN0gk7Ctf7a6tELmS"
+    },
+    {
+      "album": {
         "name": "Gateway Drug",
         "url": "https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 184942,
       "name": "nwayi",
       "url": "https://open.spotify.com/track/7guk0rwtRbpnNVraNaIpfL"

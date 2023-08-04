@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Comedy & Tragedy: Act 1",
+        "url": "https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167301,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1eMN4JbZgKyksJNkEL7eb9"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb"
       },
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 167301,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b"

@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan hits in one playlist\. Cover: Victor Ruz & Caspian Marvin
 
-161 songs - 8 hr 22 min
+162 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Let Me Be](https://open.spotify.com/track/4lRjzQQEmIHIJGOTC0EnMp) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Let Me Be](https://open.spotify.com/album/42moN4auHkzRwvmCe1IV03) | 2:59 | 2023-06-09 | 2023-07-24 |
 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 | 2022-06-24 | 2023-02-05 |
 | [Love \- Remix](https://open.spotify.com/track/5yef0whc1psSC6RDmE5ObC) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Jaz On The Beat](https://open.spotify.com/artist/4K9uuaA2QxgKJtSX7uSwkf) | [Love \(Remix\)](https://open.spotify.com/album/7e5K2OZi6p0jEVRySYDEU0) | 3:02 | 2022-05-12 | 2022-08-20 |
-| [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 | 2022-12-02 |  |
+| [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 | 2022-12-02 | 2023-08-04 |
 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 | 2022-09-22 | 2023-04-22 |
 | [Magic \(fik\)](https://open.spotify.com/track/4FCISvpKDf3cia11vXffkF) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [King Kong](https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R) | 3:14 | 2022-10-07 | 2022-12-08 |
 | [Majje](https://open.spotify.com/track/0WtWi9rYWUAwq57vbA6y2k) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [AFRICAN MUSIC](https://open.spotify.com/album/7IHzR8vlurQJjUg9sP4T7E) | 3:30 | 2022-05-12 |  |
@@ -136,6 +136,7 @@
 | [Riri](https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Music for the Soul](https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K) | 3:35 | 2022-09-30 | 2023-07-19 |
 | [Riri](https://open.spotify.com/track/6uuhUQUMzrnEZdTaTwpgYZ) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/0YbmSdTyRouipTci3DtkQv) | 3:35 | 2022-05-12 | 2022-10-21 |
 | [Sakata](https://open.spotify.com/track/1vOBjsXST8IjLgoUZIwDU6) | [Authentically Plastic](https://open.spotify.com/artist/1Gum664eHo0JeNdHWb4hoY) | [Sakata](https://open.spotify.com/album/7oscxpiTiwjPlcBdqYa4uX) | 3:42 | 2022-07-22 | 2022-10-16 |
+| [Salary](https://open.spotify.com/track/78al3N9RaWJUDMhPS6Z669) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe), [Selecta Jeff](https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu) | [Salary](https://open.spotify.com/album/0ysAKohoYkEI47eHS9GPry) | 2:49 | 2023-07-28 |  |
 | [Sam Wange](https://open.spotify.com/track/1jYqTG4ARaCyfFoy9bgpH8) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Sam Wange](https://open.spotify.com/album/7DrWFE1PLDlV6LKavisV20) | 3:40 | 2023-06-30 |  |
 | [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 | 2023-02-10 | 2023-05-11 |
 | [Say your Mine](https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6) | [Jaye Major](https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S), [Anamie](https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb), [Dubem K](https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU) | [Say your Mine](https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg) | 3:46 | 2023-04-03 | 2023-05-16 |

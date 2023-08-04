@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: RL Grime
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,492 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,592 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 25 | [Gangsta Gangsta \(feat\. Baby Eazy\-E\)](https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Baby Eazy E](https://open.spotify.com/artist/4NyEOTt3m81ufeECwdoTn7) | [Westcoast G\-House Compilation](https://open.spotify.com/album/1gAz4AJT5hAhSM86RruUn8) | 3:21 |
 | 26 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
 | 27 | [Us](https://open.spotify.com/track/5f4l3uDDTNNGEtWaXHOIB9) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Us](https://open.spotify.com/album/1qBjGKwtuF8cCqybFwlgMM) | 3:04 |
-| 28 | [Birdz](https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:42 |
-| 29 | [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 |
+| 28 | [DAMN](https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 3:40 |
+| 29 | [Birdz](https://open.spotify.com/track/3LEztKH305u3WRpqKdG9Ch) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:42 |
 | 30 | [The Buzz \- Bonus Track](https://open.spotify.com/track/6HDUnr41uGjxhMTzI1Hjmt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Mataya](https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ), [Young Tapz](https://open.spotify.com/artist/0MH2SnPBynNlz9HRqC84ZK) | [Dark Night Sweet Light](https://open.spotify.com/album/0SZr5zdYHQyvyaZu4g6zeF) | 3:55 |
 | 31 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 32 | [Better With You](https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5), [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Better With You](https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb) | 3:12 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 89 | [Red Ish](https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:01 |
 | 90 | [Chicken Wang](https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Snappy Jit](https://open.spotify.com/artist/4liIX1dXOofAewkaoKrNHY) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 1:58 |
 | 91 | [NO TOMORROW](https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [NO TOMORROW](https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr) | 2:54 |
-| 92 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 |
-| 93 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
+| 92 | [SABER TOOTH](https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [SABER TOOTH](https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9) | 2:45 |
+| 93 | [Rumor](https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [WYN](https://open.spotify.com/artist/1mFo3mR5ZWTQbNg1RgWj2D) | [Rumor](https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh) | 4:38 |
 | 94 | [Active](https://open.spotify.com/track/7jcP7f7Gol3IS01nfj7zbG) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Active](https://open.spotify.com/album/23cA8OTwFVZZ4pIXgcDxJi) | 2:30 |
 | 95 | [In Motion \(feat\. Reo Cragun\)](https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [In Motion](https://open.spotify.com/album/71lqyPEsdWsJhqYhylY1vy) | 3:01 |
 | 96 | [Act Like You Know](https://open.spotify.com/track/0WEnWvpmtWqDCuuoxCMH5x) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Act Like You Know](https://open.spotify.com/album/3iaRAgVVvXiLaIXpfkPrtj) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Twitter](https://open.spotify.com/track/45NRSkN11nKunCO8gwswug) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Syaqish](https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq) | [Twitter](https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu) | 2:45 |
 | 100 | [Blinker](https://open.spotify.com/track/0KrMPgjnEpeV19n7liI59i) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:35 |
 
-Snapshot ID: `MCw1ZTQyNzQ4NjAxM2ExMDIxMGI2YTAxNDQwNzVjNjJmNGEwZTFhMDA5`
+Snapshot ID: `MCw5YjE5N2U2NDQ1MzI5YzEzMWNjZDlmMTFkYzcyMjRiMjFhMTgxMjgx`

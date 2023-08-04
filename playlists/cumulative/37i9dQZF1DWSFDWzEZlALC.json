@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 157692,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/3ARaFYOzYgmbyHNxYRlJZ2"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 174995,
       "name": "Feuer",
       "url": "https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 136498,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7vJUbd7bLIc50cA0NJqzNB"
@@ -3002,7 +3002,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 156093,
       "name": "Kippe",
       "url": "https://open.spotify.com/track/7EEkf0j8wet1TBSclluGGH"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
@@ -3863,6 +3863,42 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6HFpoX5uj1ANmxKr59lx2q"
+      },
+      "artists": [
+        {
+          "name": "Fynn Kliemann",
+          "url": "https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210340,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/4JI3UOyfrUS8MuVHVBHRSU"
+    },
+    {
+      "album": {
+        "name": "Paris Paris",
+        "url": "https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176276,
+      "name": "Paris Paris",
+      "url": "https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7"
+    },
+    {
+      "album": {
         "name": "paris syndrom (dach session)",
         "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
       },
@@ -3918,6 +3954,24 @@
       "duration_ms": 170146,
       "name": "passt nicht",
       "url": "https://open.spotify.com/track/0xFqVm6MhfcTr8pC69W6qY"
+    },
+    {
+      "album": {
+        "name": "Pflanzen",
+        "url": "https://open.spotify.com/album/5cXRRqIun2s8ZnZPCCIHWu"
+      },
+      "artists": [
+        {
+          "name": "Carla Ahad",
+          "url": "https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Pflanzen",
+      "url": "https://open.spotify.com/track/3i6KvLajKVAuux92xPK6ls"
     },
     {
       "album": {
@@ -4182,7 +4236,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 170178,
       "name": "Rosarot",
       "url": "https://open.spotify.com/track/66qpxAK9DfINxmLErrKLNz"
@@ -4356,10 +4410,28 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 145150,
       "name": "Sch\u00f6n/Scheisse",
       "url": "https://open.spotify.com/track/0EcO8AnnMVDQYL7T8RzG1R"
+    },
+    {
+      "album": {
+        "name": "Sekundenschlaf",
+        "url": "https://open.spotify.com/album/7vSpIPqyUwujwf3PxJmWtR"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153782,
+      "name": "Sekundenschlaf",
+      "url": "https://open.spotify.com/track/3nGHhdwp64mgOW4bOIjzZ2"
     },
     {
       "album": {
@@ -4725,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Superkraft",
+        "url": "https://open.spotify.com/album/0zdMpT5ovFKv42wOfvo54Z"
+      },
+      "artists": [
+        {
+          "name": "CONNY",
+          "url": "https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140755,
+      "name": "Superkraft",
+      "url": "https://open.spotify.com/track/3pRsPjpPnnCDGgNJZZiATR"
+    },
+    {
+      "album": {
         "name": "Suzuki Swift",
         "url": "https://open.spotify.com/album/7M0T6e64FpuuLSQ6BqeotP"
       },
@@ -4798,6 +4888,32 @@
       "duration_ms": 149266,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI"
+    },
+    {
+      "album": {
+        "name": "Teil vom Ganzen",
+        "url": "https://open.spotify.com/album/46WYDWDIojRYafGPTAsoTn"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "Macloud",
+          "url": "https://open.spotify.com/artist/1CQUPR60ihhBANxqwTZv8O"
+        },
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136533,
+      "name": "Teil vom Ganzen",
+      "url": "https://open.spotify.com/track/6QIlkQBSjeYyNbDSZrcwuJ"
     },
     {
       "album": {
@@ -5478,6 +5594,24 @@
       "duration_ms": 148000,
       "name": "Wein in Wien",
       "url": "https://open.spotify.com/track/45PyDjUsXPj5vGv2qX0N2W"
+    },
+    {
+      "album": {
+        "name": "Wellenl\u00e4ngen",
+        "url": "https://open.spotify.com/album/7trTZd6bZGQZjD3SQuMhSH"
+      },
+      "artists": [
+        {
+          "name": "Goldroger",
+          "url": "https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Wellenl\u00e4ngen",
+      "url": "https://open.spotify.com/track/6R2xBCoJhimKect9AxexdZ"
     },
     {
       "album": {

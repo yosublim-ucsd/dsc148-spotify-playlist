@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 197485,
+  "num_followers": 197528,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2IxZGUwOTE3NDM0Y2Y3MTM5NGNhMzA2YTRkMzZhNTAwYmMxYWVl",
+  "snapshot_id": "MCxkMWEzMzFhOWY4NDdkYjc4Nzg2Yjk1OGI3ODZjZGI3ZDUxMWY3Zjgw",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 210372,
-      "name": "Dancing in the Minefields",
-      "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love in the West",
         "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
       },
@@ -499,22 +483,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/3iq3Gnft3x4hLbejSHAYvJ"
       },
       "artists": [
         {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        },
-        {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
         }
       ],
-      "duration_ms": 226155,
-      "name": "Beautiful (feat. India.Arie)",
-      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+      "duration_ms": 210372,
+      "name": "Dancing in the Minefields",
+      "url": "https://open.spotify.com/track/0VK6LjfOx37YzDUkLtQS2p"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -531,6 +511,26 @@
       "duration_ms": 195160,
       "name": "Thank God I Got Her",
       "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        },
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 226155,
+      "name": "Beautiful (feat. India.Arie)",
+      "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Baby Will You Love Me",
-        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 213338,
-      "name": "Baby Will You Love Me",
-      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 158023,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/1LCiZ4QclxrAcuT1JhFM1D"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Baby Will You Love Me",
+        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "duration_ms": 213338,
+      "name": "Baby Will You Love Me",
+      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "No Far Away",
         "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 188613,
       "name": "Loving You Is Easy",
       "url": "https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "What A Heart Is Beating For",
-        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 224000,
       "name": "SHE",
       "url": "https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "What A Heart Is Beating For",
+        "url": "https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "I'm in Love With You",
-      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "How Much You Mean To Me",
         "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 218129,
       "name": "How Much You Mean To Me",
       "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "I'm in Love With You",
+      "url": "https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt"
     },
     {
       "added_at": "2023-01-31 10:01:12",

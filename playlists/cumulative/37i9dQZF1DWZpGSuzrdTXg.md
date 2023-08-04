@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-122 songs - 6 hr 59 min
+123 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Best Friend](https://open.spotify.com/track/3Tgw8MO3QaOKrSovX93OoT) | [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Best Friend](https://open.spotify.com/album/7DJoUssMTS1AkOfi2BUiiW) | 3:04 | 2022-12-22 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-12-22 |  |
 | [Blind Spot](https://open.spotify.com/track/5UHIwUItXXFoSUSuPulnpP) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Blind Spot](https://open.spotify.com/album/3FBrrFX3ePFvenJ3VJD5kN) | 3:21 | 2022-12-22 |  |
-| [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-05-04 |  |
+| [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-05-04 | 2023-08-04 |
+| [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-07-13 |  |
 | [Broken](https://open.spotify.com/track/7H0LEHtKUsz5bwp1juDZvw) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Broken](https://open.spotify.com/album/7oikaRbWRSqMSUYh3BDMSj) | 3:51 | 2022-12-22 |  |
 | [Brother Sun/Sister Moon \- acoustic](https://open.spotify.com/track/1BbWvpPdh9rpy0ELSgfx6e) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [Brother Sun/Sister Moon \(acoustic\)](https://open.spotify.com/album/19OUAko1152hDfFkY9PM4F) | 3:34 | 2022-12-22 |  |
 | [Burning Bodies \- Stripped Down Sessions](https://open.spotify.com/track/6u9zuTh8p4mZ6reEmtRY28) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Burning Bodies \(Stripped Down Sessions\)](https://open.spotify.com/album/5wVHMsxeEQWolOug4Z2odi) | 2:46 | 2023-04-27 |  |

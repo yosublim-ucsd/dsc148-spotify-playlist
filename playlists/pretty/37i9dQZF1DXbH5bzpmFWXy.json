@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Ryan Castro, Peso Pluma & SOG en portada.",
-  "num_followers": 137759,
+  "num_followers": 137891,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTVlMmVkMDY2ZTZlOTg4ZDkyNWU1ZGYzNjg4MzRhOWQ3YTYwOTBm",
+  "snapshot_id": "MCw0OTVmZjRiN2IzMjI5ZmM5OTUwMDllYzU2MDEzOThhYTE1Yzg1YTM5",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190575,
+      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "Querida",
         "url": "https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 188500,
       "name": "Querida",
       "url": "https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Vamos Aclarando Muchas Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190575,
-      "name": "Vamos Aclarando Muchas Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1479,22 +1479,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
         }
       ],
-      "duration_ms": 171434,
-      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
-      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
+      "duration_ms": 215132,
+      "name": "Es Mi Gusto",
+      "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1515,18 +1511,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
+        "name": "No Soy de All\u00e1",
+        "url": "https://open.spotify.com/album/3ZJokNTxSFe6fAE4bo5rAt"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         }
       ],
-      "duration_ms": 215132,
-      "name": "Es Mi Gusto",
-      "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
+      "duration_ms": 207000,
+      "name": "No Soy de All\u00e1",
+      "url": "https://open.spotify.com/track/2qm4wUO2XJeGxAM8nH7237"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "No Soy de All\u00e1",
-        "url": "https://open.spotify.com/album/3ZJokNTxSFe6fAE4bo5rAt"
+        "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+        "url": "https://open.spotify.com/album/3wfrXUOmmYvZybB6WJVZXY"
       },
       "artists": [
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 207000,
-      "name": "No Soy de All\u00e1",
-      "url": "https://open.spotify.com/track/2qm4wUO2XJeGxAM8nH7237"
+      "duration_ms": 171434,
+      "name": "SANTA FE KLAN | DJ TAO Turreo Sessions #473",
+      "url": "https://open.spotify.com/track/3yWjuT7dTTTnalhjME6T2F"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1739,6 +1739,26 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -1755,6 +1775,26 @@
       "duration_ms": 174522,
       "name": "CARNAL",
       "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "El Belic\u00f3n",
+        "url": "https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        }
+      ],
+      "duration_ms": 214397,
+      "name": "El Belicon",
+      "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1899,46 +1939,6 @@
       "duration_ms": 126498,
       "name": "Whiskey Con Agua",
       "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "El Belicon",
-        "url": "https://open.spotify.com/album/6l45wmyk7pToSObs3qSl94"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        }
-      ],
-      "duration_ms": 214397,
-      "name": "El Belicon",
-      "url": "https://open.spotify.com/track/15UfWisTMmHsMjkUUEAoAa"
     }
   ],
   "unique_name": "El Barrio MP3",

@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Na Hoon\-a\(나훈아\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-800 songs - 1 day 21 hr 45 min
+801 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [I love you](https://open.spotify.com/track/06xgzzMpFUR7zAzhzMlwbN) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART12](https://open.spotify.com/album/3JNEoCmGrewGUqgMWxdvGa) | 3:08 | 2022-04-22 | 2022-07-27 |
 | [I love you more than me](https://open.spotify.com/track/0TlpmOfc00nWbDekDwkMBY) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [I love you more than me](https://open.spotify.com/album/5hKkD9sHcYL2Eeahni2L8Z) | 4:11 | 2022-04-07 | 2022-07-26 |
 | [I love you more than me](https://open.spotify.com/track/44TKhC1koCNrslLPmGKu4A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 | 2022-04-22 | 2022-10-02 |
-| [I love you.](https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Woman](https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ) | 3:15 | 2022-04-21 |  |
+| [I love you.](https://open.spotify.com/track/3d9eSFbuAJzFNHf1ZUHS7X) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [Woman](https://open.spotify.com/album/0dpDBAo9MQgmbkz5yF9LGZ) | 3:15 | 2022-04-21 | 2023-08-04 |
 | [I miss you](https://open.spotify.com/track/5FncF5OtRdh6cubblocqcl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 4:00 | 2022-04-07 | 2022-07-21 |
 | [I only know love](https://open.spotify.com/track/5If8nZzi85yLy2hvQgrWJ4) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART1](https://open.spotify.com/album/37u0R2yo6C6LkVnaLsQ3Bh) | 3:02 | 2022-05-03 | 2022-07-29 |
 | [I really like you \(Shim Subong ver.\)](https://open.spotify.com/track/1nj2HesqkOUGUJ7glx3JYd) | [Saeun Kim](https://open.spotify.com/artist/6WUbQxe9Wzo5zFEr5iRNKz) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 2:51 | 2022-04-07 | 2022-06-14 |
@@ -463,6 +463,7 @@
 | [Old Song](https://open.spotify.com/track/4t4KJfgbViWprTyPCo2zvl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 4:19 | 2022-04-07 | 2022-07-29 |
 | [Olle](https://open.spotify.com/track/6BaHd4rHtl6bIo02EY8tj0) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:13 | 2022-04-22 | 2022-07-25 |
 | [On Your Side](https://open.spotify.com/track/46g4W1SZa9oQMDp1w7ItKI) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [On Your Side](https://open.spotify.com/album/6ICVii1l4RuNegMBBZ20ZW) | 3:06 | 2022-04-21 | 2022-07-16 |
+| [on your side](https://open.spotify.com/track/44ExXyftpKuTid27OwfnF9) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [on your side](https://open.spotify.com/album/1zGuwf2nqVE4C3DqMxgVD5) | 3:06 | 2023-07-24 |  |
 | [On Your Side](https://open.spotify.com/track/6DmrMG6iTGu2e086WHEPtw) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [On Your Side](https://open.spotify.com/album/3IJF1fOkMAMqnfcLKHjVjX) | 2:46 | 2023-07-24 |  |
 | [Once smile will bring once youth and once anger will bring once oldness.](https://open.spotify.com/track/6TduKL7PEDWAweV2X0Ah1j) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:00 | 2022-06-18 | 2022-07-02 |
 | [One bus](https://open.spotify.com/track/4iawxCTGMvlbm2YgaUCMR5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:42 | 2022-04-21 | 2022-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Fitts
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,072 likes - 82 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,097 likes - 82 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 45 | [Jude Law](https://open.spotify.com/track/15rPuany8XoTaijKHdAf4j) | [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Jude Law](https://open.spotify.com/album/11R4y65FAlmyj90tWtOEfl) | 3:32 |
 | 46 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
 | 47 | [4runner](https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2) | 4:25 |
-| 48 | [Easy](https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Easy](https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb) | 2:47 |
+| 48 | [Easy](https://open.spotify.com/track/1eMN4JbZgKyksJNkEL7eb9) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 1](https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh) | 2:47 |
 | 49 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
 | 50 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 |
 | 51 | [Introverted](https://open.spotify.com/track/23hY0BOxI8uDhVxxKtStBE) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Introverted](https://open.spotify.com/album/2uZ4tlQGq0AAhNvhYQp7pm) | 4:00 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 81 | [Surprise](https://open.spotify.com/track/23yqxyylT3ksA2rLjk3SPC) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Surprise](https://open.spotify.com/album/5n9g4YNR0HwYounEZShI93) | 3:27 |
 | 82 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 
-Snapshot ID: `MCwxMTk2YjgxZjQ2ZjNkMTNmN2NjYTRiODEwMjA3OGU0ZDBjMDQxODU3`
+Snapshot ID: `MCw4NjkzMjhkMmM1YjFjMDI2MGViODAxZjI2NzJlMjJlM2FkNzgxZGRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Nicky Jam, Maluma & The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,734,564 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,734,567 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 17 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 |
 | 18 | [Brisa](https://open.spotify.com/track/55D5YIajNyBqrpWCnmXuRr) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI) | [Brisa](https://open.spotify.com/album/3rVW7u5AB3qf6NGGAs2MdY) | 2:45 |
 | 19 | [PE$OS \- 2DEEP Remix](https://open.spotify.com/track/13VEuKLyYPyEhYnVmin5kS) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS \(2DEEP Remix\)](https://open.spotify.com/album/1vtOCTbr6WLRpBiBypXM8I) | 3:02 |
-| 20 | [LIBRE](https://open.spotify.com/track/1NkqNR5EokqtxGvFA1XblI) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Luxury Lane](https://open.spotify.com/artist/6a6voplni66Uh1LOQYEhvB) | [LIBRE](https://open.spotify.com/album/40UnqiHFg0ZS3RolOn4KYx) | 2:27 |
+| 20 | [LIBRE](https://open.spotify.com/track/1NkqNR5EokqtxGvFA1XblI) | [Icee Red](https://open.spotify.com/artist/6G98zoiC4js8JiF1uNOwQC), [Luxury Lane](https://open.spotify.com/artist/0cQvwLMjhOYO7OdcHtI1iK) | [LIBRE](https://open.spotify.com/album/40UnqiHFg0ZS3RolOn4KYx) | 2:27 |
 | 21 | [Pretty](https://open.spotify.com/track/443yevePndkhSsyk14tBIu) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM) | [Pretty](https://open.spotify.com/album/3eXpLdzG1MDgKVq6Hg7HE4) | 2:43 |
 | 22 | [Bololo](https://open.spotify.com/track/7aTZhSR00WrYUJXOn8V2nU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Bololo](https://open.spotify.com/album/4Rld5vncIN0XFmc7iCr9f2) | 2:38 |
 | 23 | [Tropicana \(La Noche\)](https://open.spotify.com/track/23dwwFPSWj3sH6IDAgeMh7) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana \(La Noche\)](https://open.spotify.com/album/2NGYvRg59cNCPL8JfYZ1wX) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 49 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 |
 | 50 | [Peligro](https://open.spotify.com/track/2rntkeZE5XNNEJGHd09PbZ) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl) | [Le Flame](https://open.spotify.com/album/3P9P6PWasGeuzZNiIBlcQV) | 2:54 |
 
-Snapshot ID: `MCw4YzE1ZDYxNjZkMTE4NGExODA3ZmQzMWZiMWZmMmFhOTI2MDkxY2U0`
+Snapshot ID: `MCxiOTk0MmQwMDE2N2QwMWIyMTU3ZGU2ODdhYzhlZmVlNGI0ZjVmMjA4`

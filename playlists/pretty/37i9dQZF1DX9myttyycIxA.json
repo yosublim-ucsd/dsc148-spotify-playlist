@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Geese",
-  "num_followers": 286416,
+  "num_followers": 286495,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOTQxN2QwYmRkODZiNDA1Yjg2N2U1ZTRiODgyNWQ1MWRiZjRjN2M5",
+  "snapshot_id": "MCwwZThmZDIxOTY0NDkxNjIwNmViZTllMjdhM2MxM2EzYzJlMTViZTM3",
   "tracks": [
+    {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "rats in my walls",
+        "url": "https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 312459,
+      "name": "rats in my walls",
+      "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
     {
       "added_at": "2023-07-28 17:21:38",
       "album": {
@@ -39,6 +55,38 @@
       "duration_ms": 314199,
       "name": "Glass Jaw",
       "url": "https://open.spotify.com/track/76koZv1MMQG2p9rypLMMl9"
+    },
+    {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "Happiness Is An 8 Ball",
+        "url": "https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 151483,
+      "name": "Happiness Is An 8 Ball",
+      "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Slugs",
+        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Slugs",
+      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
     },
     {
       "added_at": "2023-07-21 15:32:07",
@@ -73,22 +121,6 @@
       "url": "https://open.spotify.com/track/7i8XQTUczz7xyFdkSAdEg9"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Slugs",
-        "url": "https://open.spotify.com/album/4drcz2J9WKeNavODVfGjDR"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Slugs",
-      "url": "https://open.spotify.com/track/0i1cb1gW2i8AZn4FtlDioN"
-    },
-    {
       "added_at": "2023-07-21 15:32:07",
       "album": {
         "name": "She's On Fire",
@@ -103,6 +135,38 @@
       "duration_ms": 265160,
       "name": "She's on Fire",
       "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
+    },
+    {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "From Me to You",
+        "url": "https://open.spotify.com/album/333e8sycLvInCv5SVViLLt"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "duration_ms": 196125,
+      "name": "From Me to You",
+      "url": "https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL"
+    },
+    {
+      "added_at": "2023-07-26 16:11:31",
+      "album": {
+        "name": "Cheetah",
+        "url": "https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Cheetah",
+      "url": "https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY"
     },
     {
       "added_at": "2023-06-15 18:54:28",
@@ -137,20 +201,20 @@
       "url": "https://open.spotify.com/track/1e9MeUoNqaTNzdXOUdFlNu"
     },
     {
-      "added_at": "2023-07-26 16:11:31",
+      "added_at": "2023-08-03 20:47:17",
       "album": {
-        "name": "Cheetah",
-        "url": "https://open.spotify.com/album/1mOazGOQ77R9YHSjKNq4RF"
+        "name": "tapeworm / natural devotion 2",
+        "url": "https://open.spotify.com/album/4TJBJOEp2oEQnjz30ZECfO"
       },
       "artists": [
         {
-          "name": "Deux Visages",
-          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Cheetah",
-      "url": "https://open.spotify.com/track/3atT7O1PglLCaUQMpiiYsY"
+      "duration_ms": 192000,
+      "name": "natural devotion 2",
+      "url": "https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -215,6 +279,22 @@
       "duration_ms": 233272,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq"
+    },
+    {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/7bafTSha7WTSmnjwtxPAHW"
+      },
+      "artists": [
+        {
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+        }
+      ],
+      "duration_ms": 198767,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/7KoTMZi3QqWlsq1Nve63tR"
     },
     {
       "added_at": "2023-07-07 21:30:31",
@@ -317,6 +397,22 @@
       "url": "https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f"
     },
     {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "Surely",
+        "url": "https://open.spotify.com/album/0OcRephWE5hiCa0aTo16KA"
+      },
+      "artists": [
+        {
+          "name": "Nara's Room",
+          "url": "https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW"
+        }
+      ],
+      "duration_ms": 265468,
+      "name": "Surely",
+      "url": "https://open.spotify.com/track/7ySAkFmUIX2xj7DTMDC2Ej"
+    },
+    {
       "added_at": "2023-06-15 18:54:28",
       "album": {
         "name": "Rat Saw God",
@@ -379,6 +475,22 @@
       "duration_ms": 176996,
       "name": "4th of July",
       "url": "https://open.spotify.com/track/0rT9phb5EseNLh1Et7fkkJ"
+    },
+    {
+      "added_at": "2023-08-03 20:47:17",
+      "album": {
+        "name": "Someway Somehow",
+        "url": "https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo"
+      },
+      "artists": [
+        {
+          "name": "Party Nails",
+          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
+        }
+      ],
+      "duration_ms": 208677,
+      "name": "Someway Somehow",
+      "url": "https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D"
     },
     {
       "added_at": "2023-07-21 15:32:07",

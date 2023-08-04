@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: The hosts of this year's <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> , <a href="https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7">Tasha Cobbs Leonard</a>  and <a href="https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a">Jonathan McReynolds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,758 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,877 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Sunday Morning \(Thinkin ‘Bout You\)](https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N) | [Love & Other Dreams](https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75) | 4:50 |
 | 100 | [Good & Loved \(feat\. DOE\) \- Stellars 2020](https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Good & Loved \(feat\. DOE\) \[Stellars 2020\]](https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz) | 3:52 |
 
-Snapshot ID: `MCxhMWI3NjZlZDU2MzBiOTEwN2RmMWJjMjJmZjNjYmQzYjkyN2RiZTdj`
+Snapshot ID: `MCwwMGVlYTQxOTljOGViMjBlZDNhZTBlOTI2Zjg3MDEwNDVkZDJhYWJi`

@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 7747,
+  "num_followers": 7757,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmU5YzJjNGQzMzdiOGE4OWQ5ZDg3NDdkYmY3NTg2NzMyYzVhYjJj",
+  "snapshot_id": "MCxmZTIyMTE0NWUzYTI2ZjZkMWIwZWMyYjJiYmRhYjMyNjZmMmJiMTY1",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 123835,
+      "name": "no estamos bien",
+      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Demasiado",
         "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 177450,
       "name": "Free Your Mind - Spanish Version",
       "url": "https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 123835,
-      "name": "no estamos bien",
-      "url": "https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Superdependiente",
-        "url": "https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t"
-      },
-      "artists": [
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
-        }
-      ],
-      "duration_ms": 176511,
-      "name": "Superdependiente",
-      "url": "https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Art Collective",
         "url": "https://open.spotify.com/album/41jKiqVGALvP1u9L8VDGdu"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 172923,
       "name": "Art Collective",
       "url": "https://open.spotify.com/track/5j5WM5gbUoSMY1gOIytv2T"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Superdependiente",
+        "url": "https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 176511,
+      "name": "Superdependiente",
+      "url": "https://open.spotify.com/track/0NqzRK0JcMpcvv7c21tu3R"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 225587,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2023-07-28 20:39:17",

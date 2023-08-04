@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 413850,
+  "num_followers": 414196,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGM5NDMyNjk5OGMxYTI4N2YwYjUxZTJlZTJhNmJkZjAyN2RlOTk4",
+  "snapshot_id": "MCw1ODM0MDIwZjY5MTdkNWRlMzBhZWQ4NzYyMDJjZDIyY2RjNmVmOTU4",
   "tracks": [
     {
       "added_at": "2023-06-20 11:05:16",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Fictions",
-        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
-      },
-      "artists": [
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "The Boy Next Door (Special Edition)",
         "url": "https://open.spotify.com/album/1A5ThMX4BueAGS2d8geecc"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 261920,
       "name": "You've Got A Friend",
       "url": "https://open.spotify.com/track/7CbgvHE083TAjaRuEfwwgm"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Fictions",
+        "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
+      },
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Ultimate Collection",
-        "url": "https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u"
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
       },
       "artists": [
         {
-          "name": "Katie Melua",
-          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+          "name": "Changes",
+          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
         },
         {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+          "name": "Elin Bemark",
+          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
         }
       ],
-      "duration_ms": 259480,
-      "name": "What a Wonderful World (with Eva Cassidy)",
-      "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
+      "duration_ms": 272784,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -507,22 +507,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/7rriXPfGcOzdHmU6q7V8Vr"
+        "name": "Ultimate Collection",
+        "url": "https://open.spotify.com/album/4WQFtE9TndiTti4FJVZ33u"
       },
       "artists": [
         {
-          "name": "Changes",
-          "url": "https://open.spotify.com/artist/1sI1mmOgN7gtafSNe2po2R"
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
         },
         {
-          "name": "Elin Bemark",
-          "url": "https://open.spotify.com/artist/7yHtV4WKHAciBxQmKiX7RI"
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
         }
       ],
-      "duration_ms": 272784,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/12J3Vk6944iKANUQZcuidf"
+      "duration_ms": 259480,
+      "name": "What a Wonderful World (with Eva Cassidy)",
+      "url": "https://open.spotify.com/track/49GsE7zUrjEea5QXfP4NWS"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Don't Wait Too Long",
-      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244123,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Don't Wait Too Long",
+      "url": "https://open.spotify.com/track/2JgQULmVwV0J3Gds7YfBCu"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0ZnfdSj8QzEIZxVSaKkMYX"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 230826,
       "name": "Look Of Love",
       "url": "https://open.spotify.com/track/1wb7rKI0B6Bjgfvoscu32w"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 272990,
+      "name": "Sunset In The Blue",
+      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "C\u2019est si bon",
         "url": "https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Sunset In The Blue",
-      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 237813,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1235,22 +1239,18 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx"
       },
       "artists": [
         {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+      "duration_ms": 237813,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/20Wrb8zv1LCJYGeJDQetLK"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "My Funny Valentine (For Oskar and Eli)",
-        "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "My Funny Valentine (For Oskar and Eli)",
-      "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 388114,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "My Funny Valentine (For Oskar and Eli)",
+        "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "My Funny Valentine (For Oskar and Eli)",
+      "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
         "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
         "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 261706,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/3poigTO6JvjsQNcACZXTkm"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1715,22 +1715,6 @@
       "duration_ms": 160626,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/72kU4Ko701eDu4wWDBSrks"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/5xfRRvZe2OqiU4sXcUUUZ9"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1883,6 +1883,26 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
+      },
+      "artists": [
+        {
+          "name": "Silva & Steini",
+          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
+        },
+        {
+          "name": "J\u00f3el P\u00e1lsson",
+          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "If It Was",
+      "url": "https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 246672,
       "name": "Little Jazz Bird",
       "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
-      },
-      "artists": [
-        {
-          "name": "Silva & Steini",
-          "url": "https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c"
-        },
-        {
-          "name": "J\u00f3el P\u00e1lsson",
-          "url": "https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "If It Was",
-      "url": "https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "\"Moon River\"",
+        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "\"Moon River\"",
+      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "All the Way (feat. Jordan Officer)",
         "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
@@ -2071,22 +2087,6 @@
       "duration_ms": 243373,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/4VT4kkO2o3n4HRjBHmo1jo"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "\"Moon River\"",
-        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
-      },
-      "artists": [
-        {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "\"Moon River\"",
-      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
     },
     {
       "added_at": "2023-06-20 11:05:16",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2023-06-20 11:05:16",
       "album": {
+        "name": "Love is Never Too Late",
+        "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 217275,
+      "name": "Love is Never Too Late",
+      "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
+    },
+    {
+      "added_at": "2023-06-20 11:05:16",
+      "album": {
         "name": "Je Dis Oui!",
         "url": "https://open.spotify.com/album/02L3omBFDTHrt0rV39Zw0n"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 295298,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5zYb6Z1d2dUhpLBoC3NAp4"
-    },
-    {
-      "added_at": "2023-06-20 11:05:16",
-      "album": {
-        "name": "Love is Never Too Late",
-        "url": "https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 217275,
-      "name": "Love is Never Too Late",
-      "url": "https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l"
     },
     {
       "added_at": "2023-06-20 11:05:16",

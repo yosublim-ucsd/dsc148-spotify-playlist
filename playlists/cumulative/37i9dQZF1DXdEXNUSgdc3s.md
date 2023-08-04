@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-71 songs - 3 hr 39 min
+75 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alpha 6HZ](https://open.spotify.com/track/0D32zKm96iknCXO4fZDZKe) | [Amulett](https://open.spotify.com/artist/5jEi7bFTyCKl7NUgVtO90x) | [Binaural Movement](https://open.spotify.com/album/1hfV1O1wccF6G0IpR1Xnix) | 2:31 | 2023-04-28 |  |
 | [Alpha 8HZ](https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68) | [Schamanen](https://open.spotify.com/artist/6o3pIin2DmrRp7z2HMbIcT) | [Synchronized Beta](https://open.spotify.com/album/23X2NUStO3afzaR3uS6QU8) | 3:24 | 2023-04-28 |  |
 | [Alpha Blanket 85Hz \- 92Hz](https://open.spotify.com/track/69yGC4d8YCc0YdgRndEUha) | [High Lotion](https://open.spotify.com/artist/1ZqOGxgYcd5cYyak3ryY9Q) | [Alpha Blanket](https://open.spotify.com/album/4ytgWTRAzT1OCcfCZefm6J) | 3:57 | 2023-04-28 |  |
+| [Alpha Deep Relaxation 73 Hz \- 82 Hz](https://open.spotify.com/track/0cUa70KsQ28oRn2q6uZG03) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Alpha Deep Relaxation 73 Hz \- 82 Hz](https://open.spotify.com/album/2UkFLXADFHKfQr24oOEYQl) | 2:45 | 2023-08-04 |  |
 | [Alpha Drone 8 Hz](https://open.spotify.com/track/1xrw0MIXasQIaD9oLqE4qF) | [Mindful Behaviour](https://open.spotify.com/artist/5n24AejjkQFiXAnmqRhTpl) | [Alpha Brainwaves For Focus And Stress Reduction](https://open.spotify.com/album/77mSz4EuypK36VUyyA0wfm) | 3:36 | 2023-04-28 |  |
 | [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2023-04-28 |  |
 | [Alpha Focus Waves 128Hz \- 136Hz](https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:13 | 2023-04-28 |  |
@@ -41,6 +42,8 @@
 | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/track/5jBVAlyZXeFBa2J5Jhjqe1) | [ÅÄÖ123](https://open.spotify.com/artist/6EbQQGEGOAk7F4d4xPambE) | [Binaural Alpha Sinus 142 Hz \- 152 Hz](https://open.spotify.com/album/6KFPda28PBDkfLwTU6iUE5) | 2:21 | 2023-04-28 |  |
 | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/track/4yZW295RhtI2vdjNtDpLhb) | [Dramadoria](https://open.spotify.com/artist/7g1qKEMGMmdNxwndbNylbD) | [Binaural Alpha Sinus 220 Hz \- L 230 Hz \- R](https://open.spotify.com/album/5WsQeQf7nbbnqaHpw84MaQ) | 2:36 | 2023-04-28 |  |
 | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/track/1uehZz3zet1tN5VQ5Tv7un) | [Isochrone](https://open.spotify.com/artist/2AeECKGelGkRXNte7JEHBG) | [Binaural Alpha Sinus 300 Hz \- L 308 Hz \- R](https://open.spotify.com/album/7xKbQXC8GNb9mMFubfN3eK) | 3:22 | 2023-04-28 |  |
+| [Binaural Alpha Waves 112\-120 Hz](https://open.spotify.com/track/6aHo9DUh2VDc0JWku23lcT) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Binaural Alpha Waves 112\-120 Hz](https://open.spotify.com/album/7p98Mylf2dr9QQckZGleuf) | 2:44 | 2023-08-04 |  |
+| [Binaural Alpha Waves 92\-100 Hz](https://open.spotify.com/track/5j8zlkvyp0K5vcqG7mHYta) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Binaural Alpha Waves 92\-100 Hz](https://open.spotify.com/album/6AHnYAEW1h8PxiDHaC8cxX) | 2:40 | 2023-08-04 |  |
 | [Binaural Fantasies Alpha 8 hz](https://open.spotify.com/track/1HSSrFCjJi3mTeU3NU557T) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Binaural Fantasies](https://open.spotify.com/album/6qnS1w86iFPBCyANGiZk5s) | 2:38 | 2023-04-28 |  |
 | [Binaural Zone \- Alpha 150](https://open.spotify.com/track/3RqXnLzRlFgWrVcIEYJ0sw) | [E\_89](https://open.spotify.com/artist/7lu0xfLKqr9utgjmKO0oTP) | [Binaural Zone \- Alpha 142](https://open.spotify.com/album/2S2NWDqqoIb2TSxZYC5BYF) | 1:56 | 2023-04-28 | 2023-07-29 |
 | [Bridges Alpha Sinus 64\-74 Hz](https://open.spotify.com/track/4HEflYT5C1KKzUi9WQ1ysF) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Binaural Fantasies](https://open.spotify.com/album/6qnS1w86iFPBCyANGiZk5s) | 2:36 | 2023-04-28 |  |
@@ -79,5 +82,6 @@
 | [Total \- Alpha Sinus 65,4hz \- 68,5 hz](https://open.spotify.com/track/1w8ZPmlfAahvTwfSKxoRRn) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:52 | 2023-04-28 |  |
 | [Translucent \- Alpha Sinus 71,7 Hz \- 73,8 Hz](https://open.spotify.com/track/0BbLU0pwbzAzFkJjbl9KdJ) | [Electronic Waves](https://open.spotify.com/artist/76njKl9PZjeFGyXq6FXsKT) | [Deep Alpha Focus](https://open.spotify.com/album/268lE50iJ6lqOuLDAgAmMb) | 2:58 | 2023-04-28 |  |
 | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/track/7HvwaIF3Ip2ZhkCCbhvSGS) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Water \- Alpha Sinus 97Hz \- 104Hz](https://open.spotify.com/album/0Tfxcfud4NpOIj5oUWqZF9) | 2:10 | 2023-07-14 |  |
+| [Wind \- Alpha Sinus 84Hz \- 92Hz](https://open.spotify.com/track/2mAuJq6UEpRn3Zd81gkhZU) | [The Binaural Monk](https://open.spotify.com/artist/5pvkT3ytMcvZhh1CqW2C6B) | [Wind \- Alpha Sinus 84Hz \- 92Hz](https://open.spotify.com/album/5wRoH8y8isKFWDpCiVfwSy) | 2:10 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2023-05-24. Prior content cannot be recovered.

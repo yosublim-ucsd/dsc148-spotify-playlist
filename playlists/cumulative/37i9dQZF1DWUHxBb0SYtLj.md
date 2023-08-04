@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Assurditè
 
-705 songs - 1 day 11 hr 30 min
+706 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [MILLE PARE](https://open.spotify.com/track/5hS0qJZ28OfAlwNQksf2dV) | [Dalîlah](https://open.spotify.com/artist/4kFCCzVdhzXdi8utiuGSwh) | [MILLE PARE](https://open.spotify.com/album/7asiRDge0t8lPLC87RaAsZ) | 2:40 | 2023-06-07 | 2023-07-06 |
 | [Millemila](https://open.spotify.com/track/21Z6MRumkQbvgyfXPrrMrW) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Millemila](https://open.spotify.com/album/5TdbB1CB4H90cDWSHlBFNC) | 2:48 | 2021-12-07 | 2022-03-08 |
 | [Millemila](https://open.spotify.com/track/6DT748xDp7JJMVwdFikBiO) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 2:48 | 2022-11-30 | 2023-01-04 |
+| [Miracolo](https://open.spotify.com/track/2i7MkbZTsfzilYAfbtbCmX) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Miracolo](https://open.spotify.com/album/1qG8i890pbxiQ9O8yCd9Kj) | 2:23 | 2023-08-01 |  |
 | [Mon Amour](https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Mon Amour](https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH) | 3:23 | 2023-04-04 | 2023-06-08 |
 | [Mon Frère](https://open.spotify.com/track/0ECjuTZzoNxv8hRSYS05AX) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Mon Frère](https://open.spotify.com/album/4oNPumU0MDQmVBp22tZLil) | 2:51 | 2021-12-07 | 2022-02-03 |
 | [MONCLER](https://open.spotify.com/track/1TXyie8C4lvN2s2c49kuKX) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [MONCLER](https://open.spotify.com/album/2qWUY4m5MP4rlXaN7bu8ka) | 2:27 | 2023-05-02 | 2023-06-08 |
@@ -461,7 +462,7 @@
 | [Normale](https://open.spotify.com/track/25mgSXz1ReCIHvT2plf1hK) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Normale](https://open.spotify.com/album/6862NEYmkN43zArU81ALDm) | 3:14 | 2023-01-03 | 2023-02-09 |
 | [Notte Magica](https://open.spotify.com/track/4KQ8Qi0jg6fFYPEG1Syunf) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Notte Magica](https://open.spotify.com/album/6dOnZOQRQtg1JPC3C57NaB) | 3:52 | 2023-06-07 |  |
 | [Notturno](https://open.spotify.com/track/583K03BHY3GF6BgVgERG8f) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Notturno](https://open.spotify.com/album/3dLLEeVAfEE1JzS4BM7F4q) | 2:28 | 2022-02-02 | 2022-04-06 |
-| [noveam](https://open.spotify.com/track/58TMU8cW7IBkhlVmqSOhp5) | [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [Cose Da Discutere](https://open.spotify.com/album/18yGuik7WuRJ1hRyR439Ip) | 2:44 | 2023-07-05 |  |
+| [noveam](https://open.spotify.com/track/58TMU8cW7IBkhlVmqSOhp5) | [INVERNO](https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt) | [Cose Da Discutere](https://open.spotify.com/album/18yGuik7WuRJ1hRyR439Ip) | 2:44 | 2023-07-05 | 2023-08-04 |
 | [Numeri](https://open.spotify.com/track/7gSnlPaGSosD3JyDVGZ8VQ) | [Faiah](https://open.spotify.com/artist/7hzg3VDOR96ocHdkWyv1Nk) | [Numeri](https://open.spotify.com/album/15mzECFocQ42SHqziXomVD) | 3:00 | 2022-02-02 | 2022-04-06 |
 | [Nunn 'o voglio sape'](https://open.spotify.com/track/31i7zRLLh1MyLfk2mblk0d) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [Nunn 'o voglio sape'](https://open.spotify.com/album/0Jz3rP9MZ3VUrMKSlRkBH8) | 2:52 | 2022-10-06 | 2023-01-04 |
 | [Nuvole](https://open.spotify.com/track/6901QHtDW0N3wOPb7l8c1S) | [Tamì](https://open.spotify.com/artist/3DPniGk3KehPU6Z3dOy34Y) | [Nuvole](https://open.spotify.com/album/1DySqw1JhTFTLhFXjh3Xo5) | 4:09 | 2023-04-04 | 2023-05-03 |

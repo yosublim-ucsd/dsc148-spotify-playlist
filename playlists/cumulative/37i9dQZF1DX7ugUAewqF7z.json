@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "COUP D'ETAT",
+        "url": "https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224792,
+      "name": "CROOKED",
+      "url": "https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw"
       },
@@ -390,6 +408,24 @@
       "duration_ms": 225333,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/15ouO5mVTnfZnHkShDqioD"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
       "album": {
@@ -1215,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Breaking Heart",
+        "url": "https://open.spotify.com/album/7C3YPRZQVhmE7TStRdXshF"
+      },
+      "artists": [
+        {
+          "name": "T-ARA",
+          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194587,
+      "name": "\ub108 \ub54c\ubb38\uc5d0 \ubbf8\uccd0",
+      "url": "https://open.spotify.com/track/5vCXnSlbAEkuJ3w2O0ALan"
+    },
+    {
+      "album": {
         "name": "\ub2e4\uc12f\uc190\uac00\ub77d \uace8\ub4e0 \ud79b\ud2b8\uace1 \ubaa8\uc74c",
         "url": "https://open.spotify.com/album/0OKu2x5KBTXYjmACGASREU"
       },
@@ -1266,6 +1320,24 @@
       "duration_ms": 204613,
       "name": "\uc5f0\uc608\uc778",
       "url": "https://open.spotify.com/track/5s3ESdthJZaA4Tuqj3Nz8V"
+    },
+    {
+      "album": {
+        "name": "\uc5c4\ub9c8\uc758 \uc77c\uae30",
+        "url": "https://open.spotify.com/album/4CtBSFdCGAiZ5GapzP9J3b"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "\uc624\ube60",
+      "url": "https://open.spotify.com/track/2BqE61QmxAj3ZKc0xt2mtx"
     },
     {
       "album": {

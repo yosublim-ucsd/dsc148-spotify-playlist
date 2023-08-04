@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Blue.D\(블루디\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,732 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,748 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgmQDgebb6.md) - [plain]
 | 36 | [time](https://open.spotify.com/track/7KRcAAVwN5K4nDiQAhkDxe) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [balaclava](https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX) | 3:20 |
 | 37 | [WORK HARD PLAY HARD](https://open.spotify.com/track/7m4Ney6RDEtKQf6n52F1qA) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [WORK HARD PLAY HARD](https://open.spotify.com/album/6Efi04Cj81zpJVsPxpWDul) | 3:33 |
 | 38 | [Just like that](https://open.spotify.com/track/5J4QuUjueQBXaGZUWahaoi) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [i'm a mess](https://open.spotify.com/album/76hmAjUN9TMXBKC1qccRAs) | 2:55 |
-| 39 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 |
+| 39 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
 | 40 | [Imagine](https://open.spotify.com/track/624iXR8lRUaDBDIQxe3SBz) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [DJ Wegun](https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Imagine](https://open.spotify.com/album/7dEuc4k6n1DS9MhCNQbEQA) | 4:17 |
-| 41 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 |
+| 41 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 |
 | 42 | [always get lonely](https://open.spotify.com/track/3n7yfICjsQoCV66J403qms) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:26 |
 | 43 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 |
 | 44 | [Gimme Love](https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Gimme Love](https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl) | 3:32 |
-| 45 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
-| 46 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
+| 45 | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH) | [늑대가 나타났다 There is A Wolf](https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2) | 3:37 |
+| 46 | [lil](https://open.spotify.com/track/6TerrAOvgMvn63Ospl64HS) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [lil](https://open.spotify.com/album/2r7VOvH3L4dPEHkwPdLI4b) | 2:50 |
 | 47 | [stuck in my head](https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:49 |
 | 48 | [rotten on the inside](https://open.spotify.com/track/6gxaJhYFNYhzQWJH01JqR3) | [REBENN](https://open.spotify.com/artist/5U7QLjqqB4U8JCrGzpFqDR) | [rotten on the inside](https://open.spotify.com/album/2J4YACcLLKIiKOpFHhv4VU) | 2:57 |
 | 49 | [LIKE WATER REMIX \(Feat\. Jambino, XINSAYNE, toigo, J'Kyun\)](https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Slom](https://open.spotify.com/artist/0UswO8FFKS2tv6dzyNyJLD), [JAMBINO](https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K), [XINSAYNE](https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS), [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ) | [SLAY HOUSE REMIX](https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b) | 4:40 |
-| 50 | [Hate List \(Feat\. GIRIBOY\)](https://open.spotify.com/track/14QGX0o0nEN56istLMwFu6) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Emotional Train](https://open.spotify.com/album/4PwZ4NqcgZzq5yolCHGe59) | 3:08 |
+| 50 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 |
 
-Snapshot ID: `MCw1N2Q3Y2ExNjdjNzdmYjYxMTQxNWEwYTBkZWVhZGY1YTgzMGVkNTcw`
+Snapshot ID: `MCwzYmU4M2Q1YTU1ZjcyM2E1NmZhYjBkN2Q2MjVmZjRhODFhZDgwOGJk`

@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 112719,
+  "num_followers": 112885,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZGVhNGYwNjVkYTk1NDQxYzUwZmVmOTU3YTU1YmMxY2MwODVjZjdj",
+  "snapshot_id": "MCwyYzkxNjkxN2M2MDViN2FmODRmYTMzMjJmZjNhMzllYzI2OTRkNjEw",
   "tracks": [
     {
       "added_at": "2023-07-07 03:01:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-07 03:01:00",
       "album": {
-        "name": "\u00c9 Bonito de Ver",
-        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
-      },
-      "artists": [
-        {
-          "name": "Madayati",
-          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "\u00c9 Bonito de Ver",
-      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
-    },
-    {
-      "added_at": "2023-07-07 03:01:00",
-      "album": {
         "name": "Pra Voar / Posso Ser (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 261724,
       "name": "Pra Voar / Posso Ser - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X"
+    },
+    {
+      "added_at": "2023-07-07 03:01:00",
+      "album": {
+        "name": "\u00c9 Bonito de Ver",
+        "url": "https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3"
+      },
+      "artists": [
+        {
+          "name": "Madayati",
+          "url": "https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "\u00c9 Bonito de Ver",
+      "url": "https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt"
     },
     {
       "added_at": "2023-07-07 03:01:00",

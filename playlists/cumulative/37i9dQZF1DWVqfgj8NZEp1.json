@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Blackberry Winter",
+        "url": "https://open.spotify.com/album/0ZZvwmKr1BLxfveRtFucqt"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291560,
+      "name": "Blackberry Winter",
+      "url": "https://open.spotify.com/track/13WAHJVd17J6hN64YWVhSN"
+    },
+    {
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -3775,6 +3793,28 @@
     },
     {
       "album": {
+        "name": "Old Folks",
+        "url": "https://open.spotify.com/album/6YT9ySUntyPD7E8abxlRH6"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        },
+        {
+          "name": "Marek Konarski",
+          "url": "https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291103,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/41bXzDVMnCCqmeILLvcEby"
+    },
+    {
+      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -3790,7 +3830,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 291439,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/0xnWsv0kNVeONjhiFvEyWw"
@@ -4040,6 +4080,28 @@
       "duration_ms": 436000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
+    },
+    {
+      "album": {
+        "name": "Penelope",
+        "url": "https://open.spotify.com/album/4o5ne7NeRh669BmqrUo6Qh"
+      },
+      "artists": [
+        {
+          "name": "Karl-Martin Almqvist",
+          "url": "https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305977,
+      "name": "Penelope",
+      "url": "https://open.spotify.com/track/2HeCmF80vTyRHBOVf1pc22"
     },
     {
       "album": {
@@ -5316,6 +5378,28 @@
       "duration_ms": 434866,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1"
+    },
+    {
+      "album": {
+        "name": "Theme for Ernie",
+        "url": "https://open.spotify.com/album/4GuZjxfEnM6RDYTUBmEdNh"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Trio",
+          "url": "https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt"
+        },
+        {
+          "name": "Jerry Bergonzi",
+          "url": "https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302722,
+      "name": "Theme for Ernie",
+      "url": "https://open.spotify.com/track/6T0wTF7RhPphuQxhappP2u"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1060042,
+  "num_followers": 1060195,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTcxYTMyNDY1ODVkMzFhMzg4ZDlmZjIzYjBhNTVkZjExYjQyMDk2",
+  "snapshot_id": "MCxlYmFlYWUxM2QzOTY5Yzk5N2M1Y2NjOGMwYTgwNmM3ZDIyOGQxOTll",
   "tracks": [
     {
       "added_at": "2023-07-28 15:11:46",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Spark Seeker",
         "url": "https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 213069,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "All Her Favorite Songs (with Little Stranger)",
-        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 214753,
-      "name": "All Her Favorite Songs (with Little Stranger)",
-      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -955,18 +935,42 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+        "name": "All Her Favorite Songs (with Little Stranger)",
+        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 214753,
+      "name": "All Her Favorite Songs (with Little Stranger)",
+      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Sounds Of Summer (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
       },
       "artists": [
         {
           "name": "The Movement",
           "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 270314,
-      "name": "Take Me To The Ocean",
-      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
+      "duration_ms": 221621,
+      "name": "Sounds of Summer (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -983,6 +987,26 @@
       "duration_ms": 194420,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4Jd3a2zX1nzt145eDSQK3Y"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Trevor Young",
+          "url": "https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ"
+        }
+      ],
+      "duration_ms": 244184,
+      "name": "Things You Can't Control",
+      "url": "https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1087,22 +1111,38 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+        "name": "Cool & Collected",
+        "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
         },
         {
-          "name": "Trevor Young",
-          "url": "https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 244184,
-      "name": "Things You Can't Control",
-      "url": "https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im"
+      "duration_ms": 193941,
+      "name": "Cool & Collected",
+      "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 270314,
+      "name": "Take Me To The Ocean",
+      "url": "https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1123,26 +1163,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Sounds Of Summer (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 221621,
-      "name": "Sounds of Summer (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "IRL",
         "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
       },
@@ -1155,6 +1175,26 @@
       "duration_ms": 210573,
       "name": "IRL",
       "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Press Remix",
+        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 220841,
+      "name": "Press Remix",
+      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1223,46 +1263,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Cool & Collected",
-        "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 193941,
-      "name": "Cool & Collected",
-      "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Press Remix",
-        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 220841,
-      "name": "Press Remix",
-      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "There I Go",
         "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
         "name": "Say What You're Thinking",
         "url": "https://open.spotify.com/album/1q130S8gKNKgURMPj8KjCt"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "One Lovely Day",
         "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
       },
@@ -1451,18 +1451,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Down With You - Single",
-        "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
       },
       "artists": [
         {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+          "name": "Adam Friedman",
+          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
+        },
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
         }
       ],
-      "duration_ms": 210050,
-      "name": "Down With You",
-      "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
+      "duration_ms": 171764,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1487,62 +1491,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+        "name": "Down With You - Single",
+        "url": "https://open.spotify.com/album/3cSpydfTHQ3t8JXFFPTxaJ"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
         }
       ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
-      },
-      "artists": [
-        {
-          "name": "Adam Friedman",
-          "url": "https://open.spotify.com/artist/2XVvpzlWqk7Dmj8BgKx4k1"
-        },
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        },
-        {
-          "name": "Spragga Benz",
-          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
-        }
-      ],
-      "duration_ms": 156646,
-      "name": "I Miss You (with Spragga Benz)",
-      "url": "https://open.spotify.com/track/4dAGBHZk6GxsqxM3Kw6xYL"
+      "duration_ms": 210050,
+      "name": "Down With You",
+      "url": "https://open.spotify.com/track/4hd7l6rGzpqVL4PwHRamrA"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1567,18 +1527,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Early Prayers",
-        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+        "name": "Mood Swing",
+        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
       "artists": [
         {
-          "name": "Tomorrows Bad Seeds",
-          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        },
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Bad Seeds",
-      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
+      "duration_ms": 156646,
+      "name": "I Miss You (with Spragga Benz)",
+      "url": "https://open.spotify.com/track/4dAGBHZk6GxsqxM3Kw6xYL"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1595,6 +1559,42 @@
       "duration_ms": 179346,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
+        "name": "Early Prayers",
+        "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
+      },
+      "artists": [
+        {
+          "name": "Tomorrows Bad Seeds",
+          "url": "https://open.spotify.com/artist/4CfFkWbFTygKAWZmSJML3D"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Bad Seeds",
+      "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Too Late (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/1BhcWtGeEgy2VrJsD29oDC"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/4GQaGrECkozsbbjFEkTYL7"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"
+    },
+    {
+      "added_at": "2023-07-28 15:11:46",
+      "album": {
         "name": "Everyone Need Love (with Surfer Girl)",
         "url": "https://open.spotify.com/album/3jNCx0r3O3vZpAggBtM4Ew"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 203378,
       "name": "Everyone Need Love (with Surfer Girl)",
       "url": "https://open.spotify.com/track/3QO9GEmkPeqdRMh0Tdf95Q"
-    },
-    {
-      "added_at": "2023-07-28 15:11:46",
-      "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/4IVcJES0Og7KzrtA70DgC2"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/24nN6MHT8RXVLMPp5Xxfje"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2027,18 +2027,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
       "artists": [
         {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
         }
       ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
+      "duration_ms": 186845,
+      "name": "Love Her Anyways",
+      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
     },
     {
       "added_at": "2023-07-28 15:11:46",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2023-07-28 15:11:46",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
       },
       "artists": [
         {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
         }
       ],
-      "duration_ms": 186845,
-      "name": "Love Her Anyways",
-      "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2023-07-28 15:11:46",

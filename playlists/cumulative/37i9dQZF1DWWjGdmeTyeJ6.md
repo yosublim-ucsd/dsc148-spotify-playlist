@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Amie Blu\. Updates every Wednesday\. Artwork by Isu Kim.
 
-4,688 songs - 10 day 15 hr 48 min
+4,690 songs - 10 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3348,6 +3348,7 @@
 | [rapunzel](https://open.spotify.com/track/7LipjmyQZIhzs2xEBBTWWb) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 3:07 | 2022-11-30 | 2023-01-12 |
 | [Rash Devices](https://open.spotify.com/track/2mubBWUJIr8yYo3NlNs9g8) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [Us Ephemeral](https://open.spotify.com/album/25s8VKOfdaccZaD2VRv8Z5) | 5:02 | 2022-04-06 | 2022-04-14 |
 | [Rat](https://open.spotify.com/track/4yH0OJ8qFT7EYIQnWoFKBY) | [Nara's Room](https://open.spotify.com/artist/3HZtXP2NFVOKB6aNLCmpwW) | [Rat](https://open.spotify.com/album/6HMBp4Mo43zPsBhTiV2Nrf) | 4:10 | 2023-06-21 | 2023-06-29 |
+| [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-03 |  |
 | [Rattlesnake](https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Rattlesnake](https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG) | 4:56 | 2022-01-26 | 2022-02-17 |
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2022-11-30 | 2023-01-12 |
 | [Rave](https://open.spotify.com/track/2XQoQ7mvVzBqgZFSCYSXfb) | [Antss](https://open.spotify.com/artist/12bHqR5ggtW3Y9C7oPmwL2) | [Rave](https://open.spotify.com/album/2UEJfax2xoo39i7625ggDP) | 6:39 | 2022-09-28 | 2022-10-06 |
@@ -3774,7 +3775,8 @@
 | [Some Fries](https://open.spotify.com/track/2dWQBlnjp91yZhJZ9V8NgT) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Some Fries](https://open.spotify.com/album/5Nm2Zzs061hmSNfa8o0oOh) | 2:21 | 2023-04-26 | 2023-05-04 |
 | [Some Kind Of Drug](https://open.spotify.com/track/04ff2QCyhRMdSRrC7TTmis) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [The Nighttime Is All In The Timing](https://open.spotify.com/album/223TYLeVZ5uz67RB1SwTsA) | 4:11 | 2023-03-01 | 2023-03-09 |
 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 | 2022-10-19 | 2022-10-27 |
-| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-08-02 |  |
+| [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 | 2023-08-02 |  |
+| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-08-02 | 2023-08-04 |
 | [Somebody can love you](https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ) | [Young Combo](https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL) | [Somebody can love you](https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8) | 2:45 | 2023-04-12 | 2023-04-27 |
 | [Somebody I Know](https://open.spotify.com/track/0SDzyn3KL8KLsyWv0A35RV) | [Era](https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [Somebody I Know](https://open.spotify.com/album/3w0bqMf8AAQlAi5TyptKIn) | 3:54 | 2022-01-12 | 2022-01-20 |
 | [Somebody New](https://open.spotify.com/track/2Ts4YDZrOtredOQA03CKJK) | [nasha](https://open.spotify.com/artist/0uRgpyoMp4QUVmEEQXjjTi) | [Somebody New](https://open.spotify.com/album/2gsiCchSKnNJY36mNg4ZqG) | 3:09 | 2022-08-10 | 2022-08-25 |
@@ -4073,7 +4075,7 @@
 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-21 | 2022-09-29 |
 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 | 2023-07-13 | 2023-07-20 |
 | [Terra](https://open.spotify.com/track/6YuYFcFId4QJSKRJIlQ0Mv) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Terra](https://open.spotify.com/album/428oCUhlcJu90Riw93VHWV) | 5:51 | 2022-07-27 | 2022-08-04 |
-| [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-26 |  |
+| [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-26 | 2023-08-04 |
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-14 | 2023-06-29 |
 | [Terry And Julie](https://open.spotify.com/track/0HObOkJBJGS2Mk5QQimbwj) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Terry And Julie](https://open.spotify.com/album/1eVWMJvG6ILDqP4Um8cmfa) | 3:04 | 2023-07-26 | 2023-08-03 |
 | [Test Drive](https://open.spotify.com/track/0uNfVfWPTXc0OQpenU2Ejk) | [Dulcie](https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe) | [Test Drive](https://open.spotify.com/album/3P1kvhiXildaFMUSrxSdG4) | 2:52 | 2023-01-18 | 2023-01-26 |

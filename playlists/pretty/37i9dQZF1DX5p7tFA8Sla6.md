@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,339 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,378 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 26 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 27 | [Mothership Connection \(Star Child\)](https://open.spotify.com/track/7rLAPi81R7qlVqgXfykdEL) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 6:13 |
 | 28 | [Musicology](https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Musicology](https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK) | 4:24 |
-| 29 | [Bustin' Loose](https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [Bustin' Loose](https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub) | 7:42 |
-| 30 | [I Don't Believe You Want To Get Up And Dance \(Oops, Up Side Your Head\)](https://open.spotify.com/track/7l0nTXAz0gzUkKBU2EXP4G) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Greatest Hits](https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4) | 3:31 |
+| 29 | [I Don't Believe You Want To Get Up And Dance \(Oops, Up Side Your Head\)](https://open.spotify.com/track/7l0nTXAz0gzUkKBU2EXP4G) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Greatest Hits](https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4) | 3:31 |
+| 30 | [Bustin' Loose](https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa) | [Chuck Brown and the Soul Searchers](https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu) | [Bustin' Loose](https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub) | 7:42 |
 | 31 | [Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Graham Central Station](https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj) | 4:55 |
 | 32 | [Ffun](https://open.spotify.com/track/2H0nOH0pgs3DBoPoR852cC) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Secrets](https://open.spotify.com/album/2AI6n3Nzxts19gax5K23bm) | 4:11 |
 | 33 | [Cold Sweat](https://open.spotify.com/track/3GWM2gYAWWBrrh1h9F8DEc) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Get On The Good Foot](https://open.spotify.com/album/49ibE9W9vxZBPBV7wtZKFi) | 2:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 37 | [If It Ain't Funky Back It Up, Pt\. 1](https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s) | [Soopasoul](https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0) | [If It Ain't Funky Back It Up](https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5) | 2:33 |
 | 38 | [Too Hot Ta Trot](https://open.spotify.com/track/7sP4EhJqFnud6mrG6VbjQx) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Live!](https://open.spotify.com/album/3rH7V9hbxMtbKyJgROlDvz) | 5:37 |
 | 39 | [Standing On The Verge Of Getting It On](https://open.spotify.com/track/3JMtGlh9gg0UCN7E2MLZUj) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Standing On The Verge Of Getting It On](https://open.spotify.com/album/2o1DC3i9barPdh8EcWEnAf) | 5:10 |
-| 40 | [A Message from the Meters](https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Jeannie's Getdown](https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg) | 3:06 |
-| 41 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 |
+| 40 | [I'll Be With You](https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Ugly Ego](https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8) | 4:23 |
+| 41 | [A Message from the Meters](https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Jeannie's Getdown](https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg) | 3:06 |
 | 42 | [On a Good One](https://open.spotify.com/track/71nvrESAOkHt17x0n5pibQ) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo III](https://open.spotify.com/album/50FkN4h0tTESPCzIK6E7KX) | 3:29 |
 | 43 | [Bootzilla](https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 5:39 |
 | 44 | [Rock Me Again & Again & Again & Again & Again & Again](https://open.spotify.com/track/7cwuk7OJRQQEbuPMB1u67e) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Check Me Out If You Don't Know Me By Now](https://open.spotify.com/album/4xOLYBVbQ4auwndunGsaDa) | 3:28 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 53 | [Slippery When Wet](https://open.spotify.com/track/6Pb0WHqmmTL308Z2uQrNP1) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 3:17 |
 | 54 | [Funk Ain't Ova](https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [Desmond Foster](https://open.spotify.com/artist/3qqFMYoELTj4g9yzuQEALf) | [Stay Good](https://open.spotify.com/album/7KFdFOJJF84VbZ5rJjbyK7) | 3:51 |
 | 55 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 |
-| 56 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
+| 56 | [Yes We Can Can](https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Yes We Can Can: The Best Of The Blue Thumb Recordings](https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP) | 6:02 |
 | 57 | [Boogie Witcha, Baby](https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy) | [Larry Graham & Graham Central Station](https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5) | [My Radio Sure Sounds Good To Me](https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq) | 3:47 |
 | 58 | [Let's Work](https://open.spotify.com/track/5WLn10VIb6L9Z7O7FkYA99) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4) | 3:54 |
 | 59 | [Livin' It Up](https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1) | [Mandrill](https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5) | [Livin' It Up](https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy`
+Snapshot ID: `MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3`

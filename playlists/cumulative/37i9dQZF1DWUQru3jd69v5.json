@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Philip ed LJK in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. SPOOKYPBL in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "ADIOS (feat. Yunes LaGrintaa)",
+        "url": "https://open.spotify.com/album/4tGjr14oYsIMsLC9NQaeJ4"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        },
+        {
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "ADIOS (feat. Yunes LaGrintaa)",
+      "url": "https://open.spotify.com/track/5F5STJurlkKk31rguyet4N"
+    },
+    {
+      "album": {
         "name": "Again 'N' Again",
         "url": "https://open.spotify.com/album/1GaHmqWHW21a4RHPpCqsqY"
       },
@@ -770,6 +792,24 @@
       "duration_ms": 159000,
       "name": "ALBV",
       "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
+    },
+    {
+      "album": {
+        "name": "Allez les Gars",
+        "url": "https://open.spotify.com/album/0qsSYysDRyy9wSlbBqzEXa"
+      },
+      "artists": [
+        {
+          "name": "Bubu Doc",
+          "url": "https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165416,
+      "name": "Allez les Gars",
+      "url": "https://open.spotify.com/track/0ZVVkO991nkdDu6npYJQl1"
     },
     {
       "album": {
@@ -2694,7 +2734,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 170880,
       "name": "Che ne sai",
       "url": "https://open.spotify.com/track/2iWgpDNIAKHQm4kT6TaTaQ"
@@ -4176,7 +4216,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 89379,
       "name": "EKL #1",
       "url": "https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987"
@@ -4458,6 +4498,24 @@
       "duration_ms": 137922,
       "name": "FA BELLO",
       "url": "https://open.spotify.com/track/4miU3wAqdM1RXixC8CgFeB"
+    },
+    {
+      "album": {
+        "name": "FACETIME",
+        "url": "https://open.spotify.com/album/0KgrYKEicvfHzFBIg6Nfpb"
+      },
+      "artists": [
+        {
+          "name": "Red Roses",
+          "url": "https://open.spotify.com/artist/3dA6K34y5FCgngffHJTjpY"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133438,
+      "name": "FACETIME",
+      "url": "https://open.spotify.com/track/6sQFxf7r1RQv9Rc4MAYYrH"
     },
     {
       "album": {
@@ -7301,6 +7359,24 @@
     },
     {
       "album": {
+        "name": "LACRIME",
+        "url": "https://open.spotify.com/album/2QqzgI8IV6rzbHDGvv7Xzo"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "LACRIME",
+      "url": "https://open.spotify.com/track/4ENtTrEgDyusQQ5m8JCWnb"
+    },
+    {
+      "album": {
         "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
         "url": "https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD"
       },
@@ -7594,7 +7670,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 166274,
       "name": "LOGIN",
       "url": "https://open.spotify.com/track/6D4VFNUPmR79KOoZ7lm4Vi"
@@ -7896,7 +7972,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 145827,
       "name": "Mamma mia",
       "url": "https://open.spotify.com/track/7cUPqZgJGZZ3Ljg51wn1by"
@@ -8411,6 +8487,42 @@
     },
     {
       "album": {
+        "name": "Import-Export",
+        "url": "https://open.spotify.com/album/6mNGUrdydtHjGC5nlBueSD"
+      },
+      "artists": [
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/0Qc1IpcxqsHrZVetOWTWnl"
+    },
+    {
+      "album": {
+        "name": "MICHELLE",
+        "url": "https://open.spotify.com/album/0JKv3f49UstpHJWH5vXUNM"
+      },
+      "artists": [
+        {
+          "name": "Baby Sosa",
+          "url": "https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "MICHELLE",
+      "url": "https://open.spotify.com/track/3dUPppw4Pub8oNs6n4pc5f"
+    },
+    {
+      "album": {
         "name": "MILKA",
         "url": "https://open.spotify.com/album/4HrdgI2KCz1ROl1GlrumeR"
       },
@@ -8552,7 +8664,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 211206,
       "name": "Modus Operandi",
       "url": "https://open.spotify.com/track/14Dep7nFNka7vSw00d8pVp"
@@ -9430,7 +9542,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 125538,
       "name": "NUMERO 10",
       "url": "https://open.spotify.com/track/0D2aNZZMJ0EbBcxVzPzTXl"
@@ -11532,10 +11644,32 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 133103,
       "name": "SACRIFICIO (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/1ghLr2XLBgkTAInmmyuVnp"
+    },
+    {
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133103,
+      "name": "SACRIFICIO (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/6WGyWEsaTmhqnWFkaMFjV0"
     },
     {
       "album": {

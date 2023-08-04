@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Marioo & Alikiba",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux & Diamond Platnumz",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5Ej7ISZLQkj3UUpTnN2ONM"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139669,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/060Sdqj379wZ7kWho2kDd0"
+    },
+    {
+      "album": {
         "name": "Make You Dance",
         "url": "https://open.spotify.com/album/76JePhiYaCK9EM1T1U9yRT"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 191862,
       "name": "Kwikwi",
       "url": "https://open.spotify.com/track/6RdkggWArMBHrxBmKTvsaj"
@@ -2272,6 +2290,28 @@
       "duration_ms": 200000,
       "name": "Manzese",
       "url": "https://open.spotify.com/track/3YShLver8yW2GFaVyyo53s"
+    },
+    {
+      "album": {
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/6pn4PsDQDZ5BE2f50TihaU"
+      },
+      "artists": [
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/0ldVedbqs0hXp8ijwVUQoQ"
     },
     {
       "album": {
@@ -2782,7 +2822,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 225462,
       "name": "Mwanamke Imara",
       "url": "https://open.spotify.com/track/3lAc6ayKZdvtMLrhjla6hd"
@@ -3990,7 +4030,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 282477,
       "name": "Rafiki",
       "url": "https://open.spotify.com/track/4lh8Whj4Uk8o4c4LWelSfc"
@@ -4647,6 +4687,28 @@
     },
     {
       "album": {
+        "name": "Above & Beyond",
+        "url": "https://open.spotify.com/album/3ggNsXYLqKEx7Chc0Gl2BM"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252446,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/56AmWoxQ6J153kTtA7GqBE"
+    },
+    {
+      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/28I2Cswf6Ha0dOd6Yer1Ef"
       },
@@ -5138,6 +5200,32 @@
       "duration_ms": 236129,
       "name": "Wasiwasi",
       "url": "https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi"
+    },
+    {
+      "album": {
+        "name": "Waya",
+        "url": "https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC"
+      },
+      "artists": [
+        {
+          "name": "Benny Chill",
+          "url": "https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299415,
+      "name": "Waya",
+      "url": "https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP"
     },
     {
       "album": {

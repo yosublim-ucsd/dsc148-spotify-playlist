@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd?si=otIbe8yYTz6puy1WeFIcUg\"> AYL\u00d8</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh?si=bei5IcQ0Qe-2NnN2LjyV6g\"> Odeal </a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -750,32 +750,6 @@
     {
       "album": {
         "name": "Osapa London",
-        "url": "https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        },
-        {
-          "name": "Wax Bentayga",
-          "url": "https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "date_added": "2023-07-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 166956,
-      "name": "Bad B",
-      "url": "https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF"
-    },
-    {
-      "album": {
-        "name": "Osapa London",
         "url": "https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw"
       },
       "artists": [
@@ -798,6 +772,32 @@
       "duration_ms": 166956,
       "name": "BAD B",
       "url": "https://open.spotify.com/track/63YCwa2ES06NPy2XAVaZ2j"
+    },
+    {
+      "album": {
+        "name": "Osapa London",
+        "url": "https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Wax Bentayga",
+          "url": "https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173535,
+      "name": "Bad B",
+      "url": "https://open.spotify.com/track/405M8OiaiMjWyJ92jF9uPF"
     },
     {
       "album": {
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 166533,
       "name": "Co-Star",
       "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 156373,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql"
@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 109757,
       "name": "NEW ID",
       "url": "https://open.spotify.com/track/5mH7eZfw6JegSV0Cr4yTlC"
@@ -5894,6 +5894,36 @@
       "duration_ms": 192208,
       "name": "Not Worthy",
       "url": "https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS"
+    },
+    {
+      "album": {
+        "name": "Notoriously Fast (Kai Whiston Remix)",
+        "url": "https://open.spotify.com/album/2Uvqh83pMI4Giwf2Y7Uzsp"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "Izzy Spears",
+          "url": "https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P"
+        },
+        {
+          "name": "Kai Whiston",
+          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188089,
+      "name": "Notoriously Fast - Kai Whiston Remix",
+      "url": "https://open.spotify.com/track/26xvHwasf7kNG3WpP6a7qq"
     },
     {
       "album": {
@@ -6395,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "Prayed Up",
+        "url": "https://open.spotify.com/album/60fjJwS5uH6QA7EU6u8yHB"
+      },
+      "artists": [
+        {
+          "name": "Essilfie",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168179,
+      "name": "Prayed Up",
+      "url": "https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q"
+    },
+    {
+      "album": {
         "name": "prayers",
         "url": "https://open.spotify.com/album/3h22MOBNM1xtCMIjt5y6Lw"
       },
@@ -6750,6 +6798,24 @@
       "duration_ms": 147600,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/2HFLoomeTmyQK94ud7XHIb"
+    },
+    {
+      "album": {
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "album": {

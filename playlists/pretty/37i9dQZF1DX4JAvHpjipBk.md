@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Travis Scott, Post Malone, Offset & Cardi B, Mitski, Calvin Harris & Sam Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,145,473 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,149,752 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [What U Don't Know \(with Destin Laurel\)](https://open.spotify.com/track/2pS5hwMui1kJOUJt7KgWMg) | [XLOVCLO](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si), [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [What U Don't Know](https://open.spotify.com/album/39PtSuJVMoy7zC1RhTuDpL) | 2:33 |
 | 100 | [Monster In Me](https://open.spotify.com/track/4vyztsf6uzcuLF5gRDQYWt) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:34 |
 
-Snapshot ID: `MCw2MjIzMDZjMjUzNmY4ZGUwMmYzYTdjNDdiOGYyYjliYzc2NTBlNjVi`
+Snapshot ID: `MCxmYTk4N2ZiMDY0ZWI1MzZjNjJhNDAwOGQ0NWNhODI1Mjc4MDYxMGEz`

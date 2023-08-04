@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,217 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,396 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [Confidence](https://open.spotify.com/track/1ZCgUvDTcHTRsl0SqZyWSw) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Confidence](https://open.spotify.com/album/2RDDk8NMdeCBnKNYXdMI27) | 3:25 |
 | 32 | [Valley \- CalledOut Music Remix](https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf) | [DAYASOUL](https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Valley \(CalledOut Music Remix\)](https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp) | 3:07 |
 | 33 | [With Him](https://open.spotify.com/track/7s7wag1cue3SVabZAQjVwh) | [Kaye\-Marie](https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN) | [With Him](https://open.spotify.com/album/6U0fKpZM5MAnmN6QAgRftH) | 2:47 |
-| 34 | [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 |
+| 34 | [Keep me](https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G) | 4:08 |
 | 35 | [Vacancy](https://open.spotify.com/track/0LNqTJ4rUGKQDonUjgNnHu) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Vacancy](https://open.spotify.com/album/7l4JXG24cCuvA516fUg78P) | 4:19 |
 | 36 | [growing into my dreams](https://open.spotify.com/track/4GtT4W8Ze5bFJpxxy3m4Mh) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [growing into my dreams](https://open.spotify.com/album/1zN8J0Ci8C1k49ypLIzvfQ) | 2:05 |
 | 37 | [Last Summer](https://open.spotify.com/track/14Oh5LNkLWLwfAjOb7fy6h) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Carolena](https://open.spotify.com/artist/2wkSBnPx1Bh3sWfXNiFF1V) | [Last Summer](https://open.spotify.com/album/3H5SLdvYzz7ykaHvcyvQ7G) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [YOU'RE MINE](https://open.spotify.com/track/0ika43Bh4ZerhBKWqJGi0Y) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [YOU'RE MINE](https://open.spotify.com/album/2Va2mNp8nQ5GWBqQSN9yO9) | 2:40 |
 | 100 | [boys don't cry.](https://open.spotify.com/track/1LgWU5tcPIc9prUvouAL7k) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [boys don't cry.](https://open.spotify.com/album/17Unz9MVuW4hYOoriIzvoy) | 2:30 |
 
-Snapshot ID: `MCwzNmY5M2I4ODI5MzNlNGNlNWZhNjBmNTRlZmVlYjUzZjI4ODU3NjMz`
+Snapshot ID: `MCwzYmIxMTBhOTE2MmJlZTAyMjdmZmU5ZjZiYjc1MDU1OGI3OGIzYzBl`

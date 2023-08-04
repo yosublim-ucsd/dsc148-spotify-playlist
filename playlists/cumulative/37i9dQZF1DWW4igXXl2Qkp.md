@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:3yQMCDmPQPJlf6xJMzcnZL">Chow Lee</a>
 
-846 songs - 1 day 13 hr 5 min
+848 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,8 @@
 | [Look Ma I Did It](https://open.spotify.com/track/3uztfF7OXyy236dCjuCGqu) | [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/7aQ7J34jTVnrnbdXs2PA8V) | 2:57 | 2022-11-30 | 2023-01-12 |
 | [Lost Me](https://open.spotify.com/track/1gKDstFnwZNgvrE01YG7AA) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [Lost Me](https://open.spotify.com/album/0jXMtfh2sdBtRZ1Fu3UJwY) | 2:35 | 2022-08-03 | 2022-09-15 |
 | [Lost My Way](https://open.spotify.com/track/2VhPBoDDeW2bIyKmymRp7T) | [Asoh Black!](https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg) | [Lost My Way](https://open.spotify.com/album/67WpWQfxhrtaaw9P2kMkyM) | 2:25 | 2021-12-01 | 2022-01-14 |
-| [lost n' found](https://open.spotify.com/track/6thIPyL7yMjyQ9Qs0ollBt) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [lost n' found](https://open.spotify.com/album/1S8zojkGxW4G6xqRUAD5sW) | 1:44 | 2023-05-24 |  |
+| [lost n' found](https://open.spotify.com/track/6W1XIIgFzg9xaLfZ4LyQQL) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [lost n' found](https://open.spotify.com/album/5XA9wNWZN5VJe4hlTYWef3) | 1:44 | 2023-05-24 |  |
+| [lost n' found](https://open.spotify.com/track/6thIPyL7yMjyQ9Qs0ollBt) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [lost n' found](https://open.spotify.com/album/1S8zojkGxW4G6xqRUAD5sW) | 1:44 | 2023-05-24 | 2023-08-04 |
 | [love & confessions'](https://open.spotify.com/track/5flonwLJEWr9vN6fvgCa8W) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [Westin Wednesday, Vol\. 1](https://open.spotify.com/album/5bkJWzrbEomB0Vjvp8zMc2) | 2:34 | 2023-06-14 |  |
 | [Love a Trend](https://open.spotify.com/track/2sz5fxSw17HpplBSJA7N3v) | [Deric](https://open.spotify.com/artist/08nIFJLOyYWc5eWJCa4S8X) | [Love a Trend](https://open.spotify.com/album/2m88vILanuF9r4xAahwp5A) | 1:46 | 2023-07-12 |  |
 | [Love Language](https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw) | [Love Language](https://open.spotify.com/album/0YYIIcjmHW3mtiVaLStpOD) | 2:07 | 2023-06-21 |  |
@@ -694,7 +695,8 @@
 | [Snap](https://open.spotify.com/track/3vUEIN8YTK4v336xnfE5JW) | [Bbm Deion](https://open.spotify.com/artist/3n8s2GK3O39GiMdMas2buF) | [Snap](https://open.spotify.com/album/2qqQTvoL4MTV321j6jcQDc) | 2:37 | 2023-06-28 |  |
 | [Soda Pop](https://open.spotify.com/track/4rljlKPi0fkI6Lu0ySlIe9) | [$ir Abe](https://open.spotify.com/artist/0uY7BTLDOC5WbA3SlZYUV8) | [Soda Pop](https://open.spotify.com/album/3sFt6KykqwyiO2NDPq4owN) | 2:44 | 2022-09-07 | 2022-10-27 |
 | [Solar System](https://open.spotify.com/track/0QfHd0erwsF5oTFiWetfsr) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Solar System](https://open.spotify.com/album/3bwQ7dUluzGuivf2COLepc) | 2:34 | 2021-12-01 | 2022-01-14 |
-| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-08-02 |  |
+| [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 | 2023-08-02 |  |
+| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-08-02 | 2023-08-04 |
 | [Somebody can love you](https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ) | [Young Combo](https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL) | [Somebody can love you](https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8) | 2:45 | 2023-04-12 | 2023-07-13 |
 | [SOMEGUYDEZ FREESTYLE](https://open.spotify.com/track/5cjUkDnlyimGgWDLIEv5C5) | [Radamiz](https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju) | [SOMEGUYDEZ FREESTYLE](https://open.spotify.com/album/5PMkQFaRfXaPXoFNR1Ryg8) | 2:25 | 2022-09-02 | 2022-09-09 |
 | [Sorry Not Sorry](https://open.spotify.com/track/1MetT6jbSGkJqArcDltkW0) | [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry](https://open.spotify.com/album/0oABHFklKPZDDlUFAI05Wf) | 2:16 | 2022-02-23 | 2022-03-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=4h9axPT0SQSrdxb5feKJYw\">Inkabi Zezwe</a>.",
+  "description": "It's not a genre, it's a culture. Cover: <a href=\"https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=ZpkfBbF4TqSPM8qZ9VMLuQ\">Yallunder</a>.",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 388173,
       "name": "AMAKHOSI",
       "url": "https://open.spotify.com/track/3tYrdDOFWmraXH0Cy5nKCj"
@@ -794,6 +794,24 @@
       "duration_ms": 271713,
       "name": "Eyokuza",
       "url": "https://open.spotify.com/track/72gVqRVUJECbmu91Qu3fET"
+    },
+    {
+      "album": {
+        "name": "KUM",
+        "url": "https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P"
+      },
+      "artists": [
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222515,
+      "name": "Hlala Nam",
+      "url": "https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr"
     },
     {
       "album": {

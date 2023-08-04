@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,025 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,032 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 45 | [It Never Entered My Mind](https://open.spotify.com/track/1vP5Ceh1SrfOalU8Yc3XE9) | [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Wingspan](https://open.spotify.com/artist/1WBleZIOFSKVCm1OSON1qd) | [The Sequel](https://open.spotify.com/album/1k02v5raMzSZ7KJIBrJyum) | 6:32 |
 | 46 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 |
 | 47 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
-| 48 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 |
-| 49 | [I Remember Clifford](https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA) | [Art Farmer & Benny Golson Jazztet](https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp) | [The Complete Argo Mercury Sessions](https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG) | 3:12 |
+| 48 | [I Remember Clifford](https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA) | [Art Farmer & Benny Golson Jazztet](https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp) | [The Complete Argo Mercury Sessions](https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG) | 3:12 |
+| 49 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 |
 | 50 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 |
 | 51 | [I'm A Fool To Want You \- 2006 Digital Remaster](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |
 | 52 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 74 | [It Never Entered My Mind](https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Hans Andersson](https://open.spotify.com/artist/0u7AFb2NdypFhoLJ8tYH8I), [Johan Lofcrantz Ramsay](https://open.spotify.com/artist/3yV0vWr0YdP5rPERtUL775), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS) | [It Never Entered My Mind](https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq) | 6:15 |
 | 75 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
 
-Snapshot ID: `MCwzMmVjNzM3NWViOTVhMzFjNTI4MTc4OTlkYTNhMDk3YmY0NWZkZGVl`
+Snapshot ID: `MCw5MDQ0YTc0MmY0ZTVkNjlkNTgyYWNhYTk4MTRmNDg0MzRkYWY3Nzk4`

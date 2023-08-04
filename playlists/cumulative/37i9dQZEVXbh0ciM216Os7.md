@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-478 songs - 1 day 7 hr 42 min
+479 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Kant Nobody \(feat\. DMX\)](https://open.spotify.com/track/2ehLKvUsJq3EUAPpvT5GOM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Kant Nobody](https://open.spotify.com/album/6Qi8Hf2PW97oZP2a4Tvd24) | 3:00 | 2023-02-24 | 2023-03-04 |
 | [Kant Nobody \(feat\. DMX\)](https://open.spotify.com/track/2lc7pnLLVCrvllEDHZifAA) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Kant Nobody](https://open.spotify.com/album/5Ri0Ml4nBSK6AYF2zc7yjO) | 3:00 | 2023-02-24 | 2023-03-03 |
 | [Karma](https://open.spotify.com/track/1wWJHPexeqfKSVoaFOKgai) | [Elly Cooke](https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe) | [Karma](https://open.spotify.com/album/0B115uvmguqTBcB3jEZlJ3) | 3:10 | 2023-05-26 | 2023-06-17 |
+| [Key To Your Love \- Remastered 2023](https://open.spotify.com/track/7pGVuPUeGIMMynctL8soQ7) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 4:12 | 2023-07-28 |  |
 | [Kill You](https://open.spotify.com/track/22wq16DF6Ht8ZGizY061rx) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum \(Expanded Edition\)](https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1) | 3:40 | 2023-05-26 | 2023-06-18 |
 | [King Geedorah](https://open.spotify.com/track/6FrfCrMjxCHJ5xHhKG6qwF) | [LVRDDAPHNE](https://open.spotify.com/artist/3XMKdCjptq54Oa36bVHFeW), [King Geedorah](https://open.spotify.com/artist/77AKJs9SJqxHXbPgtJPKRa) | [King Geedorah](https://open.spotify.com/album/1XZYuNWlKIANZalBAHTq5T) | 1:57 | 2023-05-12 | 2023-05-28 |
 | [Knock](https://open.spotify.com/track/3OFmFAEAfxNyJRAW0wLmfb) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [X\-Raided](https://open.spotify.com/artist/3ROTuxpbVooOYY7OanW7No), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [BLISS](https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL) | 5:24 | 2023-07-28 |  |
@@ -249,7 +250,7 @@
 | [Living In A Haze \- Acoustic Version](https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze \(Acoustic Version\)](https://open.spotify.com/album/4Csna5Mo6vzOZlwCGCc2we) | 2:55 | 2023-06-02 | 2023-06-10 |
 | [Lofi And Chill \- 432 Hz](https://open.spotify.com/track/3JrEDpJpAlTmFgHZQty1Rl) | [Heavenly Realms](https://open.spotify.com/artist/37t9bT54d83HTqfWLET0Vj), [LoFi Bear](https://open.spotify.com/artist/2S49iNx8Jjd1P9hxuD0oRE) | [Lofi And Chill \(432 Hz\)](https://open.spotify.com/album/17nSP6VsrUPyhsAeQGaZJL) | 1:17 | 2023-03-10 | 2023-03-18 |
 | [Look at the Birds](https://open.spotify.com/track/7feB9jfrgVCNjJVpwQH3ja) | [Micah Thomas](https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO) | [Look At The Birds](https://open.spotify.com/album/4CegdJmZvCgu4zeUjeDqgP) | 8:10 | 2023-07-21 |  |
-| [Losin' My Touch \- Remastered 2023](https://open.spotify.com/track/3YKLYbUclwf9kmFcxa8Ab1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 5:06 | 2023-07-28 |  |
+| [Losin' My Touch \- Remastered 2023](https://open.spotify.com/track/3YKLYbUclwf9kmFcxa8Ab1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 5:06 | 2023-07-28 | 2023-08-04 |
 | [Lovesong](https://open.spotify.com/track/1rJzEVXTeGmEhYly9GxmrY) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p), [Drama Club](https://open.spotify.com/artist/3hrpJE5afivJl3uncJ4SWW) | [Lovesong](https://open.spotify.com/album/3PceYgXOI6BnaxPAYoCGd4) | 4:15 | 2023-02-17 | 2023-03-12 |
 | [Lucky](https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Lucky](https://open.spotify.com/album/4JvUT0RuTH3rYTp26QB5o4) | 4:01 | 2023-04-14 | 2023-05-07 |
 | [Making The Band \(Danity Kane\)](https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Making The Band \(Danity Kane\)](https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr) | 1:45 | 2023-06-30 | 2023-07-30 |

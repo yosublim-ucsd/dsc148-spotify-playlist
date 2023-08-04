@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw?si=PO2Z\_KZ6Rny84J54tvSmlA"> عبد الباسط حمودة و <a href="https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV?si=LROac5XuRleQt23P0C\_VKg"> عمر كمال
 
-222 songs - 16 hr 36 min
+223 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Sabaho Sabaho](https://open.spotify.com/track/5kJGXixlduyoU7gvhEHyiR) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Sabaho Sabaho](https://open.spotify.com/album/7eue5uvJOj9ov60xAZgAeR) | 3:22 | 2022-06-02 | 2022-12-21 |
 | [Salamtek Ya Demaghy](https://open.spotify.com/track/2mFJUSuJzpTmwn6TRK4cRB) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [Eldarb Fe Eleraq](https://open.spotify.com/album/0Wc6sOC2Sn496mXG4X0osq) | 4:38 | 2021-12-16 | 2023-05-12 |
 | [Sam3t Kalamkom Any](https://open.spotify.com/track/6hn5h9eNL9e3duK8GvhZc1) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Abdelsalam](https://open.spotify.com/artist/52bZNntY7uZF12QFyLb6lW) | [Sam3t Kalamkom Any](https://open.spotify.com/album/1T6PrKiCpf2OJMihEHqemY) | 4:57 | 2021-12-16 |  |
+| [Sebo Sebo](https://open.spotify.com/track/1Ce7B3wYTruivevd70dWik) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Sebo Sebo](https://open.spotify.com/album/0EuGRizTSmDVKvTt3Hzrxr) | 4:13 | 2023-08-02 |  |
 | [Sebona Fe Halna](https://open.spotify.com/track/2MxRJwyYumi6ODywLbL89k) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Sebona Fe Halna](https://open.spotify.com/album/4Fs2CAjgQ8yhTN1pFnOYER) | 4:32 | 2021-12-16 | 2022-07-29 |
 | [Segara Bonny](https://open.spotify.com/track/6akfrRhAakyPUzmc2YtbIq) | [Mahmoud El Hoseny](https://open.spotify.com/artist/52WZ9XbIIFLTKzL4PWAqBa) | [Segara Bonny](https://open.spotify.com/album/35Rcv9EjpOi3bQ6h91b08N) | 6:47 | 2021-12-30 | 2023-07-12 |
 | [Shecolata](https://open.spotify.com/track/2fd6l0ZnzcoxAkA8e8URtS) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Shecolata](https://open.spotify.com/album/36hOxzWm2uNQzLZrkLMidl) | 2:41 | 2021-12-16 | 2022-07-29 |

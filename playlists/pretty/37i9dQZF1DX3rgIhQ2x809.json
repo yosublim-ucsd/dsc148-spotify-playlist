@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69783,
+  "num_followers": 69795,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Mjg1Yjc5ZWI1Njc0ZGE5NDM1ODMzZGY3YzY3OTExNTUzNGM5ZjVi",
+  "snapshot_id": "MCw5ZmViNGNlMDUzODcwZDhhZmU0NzI3ZDk3MmU3OWRkMTdmNzI0Mzhj",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Toma",
-        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 162330,
-      "name": "Toma",
-      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Porche Carrera",
         "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 188737,
       "name": "Porche Carrera",
       "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Toma",
+        "url": "https://open.spotify.com/album/4cbxkM3zQSH8nGm9KQaIwF"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 162330,
+      "name": "Toma",
+      "url": "https://open.spotify.com/track/48iWXYdWMFNenABULLtopW"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Soy Lebron",
-        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Soy Lebron",
-      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Soy Lebron",
+        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Soy Lebron",
+      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1355,30 +1355,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 286767,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/6myrgqSgzhFhIhZxO87XsY"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/44B8PLdX1k6vzDtfUnwj5U"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1495,38 +1495,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Gozo",
-        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 203508,
-      "name": "Gozo",
-      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Nube",
         "url": "https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l"
       },
@@ -1567,6 +1535,38 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Gozo",
+        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 203508,
+      "name": "Gozo",
+      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Piky",
         "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "TAYYA",
-        "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "TAYYA",
-      "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "UNBROKEN",
         "url": "https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 234240,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/4MFjw5MqTZTiX3iOAk4mAA"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "TAYYA",
+        "url": "https://open.spotify.com/album/2LuYJPF8X45qRlUJb5vfGv"
+      },
+      "artists": [
+        {
+          "name": "Kris Floyd",
+          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "TAYYA",
+      "url": "https://open.spotify.com/track/0PmACpKJ9LCTSC9jWnMqen"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Dime Algo",
-        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
-      },
-      "artists": [
-        {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
-        }
-      ],
-      "duration_ms": 143639,
-      "name": "Dime Algo",
-      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Billete",
         "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 163777,
       "name": "Billete",
       "url": "https://open.spotify.com/track/1V8dcvEweRwM8vKnYCM9Ib"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Si Si",
-        "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
-      },
-      "artists": [
-        {
-          "name": "Osquel",
-          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
-        },
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "Si Si",
-      "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/0D7TME7LVUblhluJnxUT8n"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 197378,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Si Si",
+        "url": "https://open.spotify.com/album/7fJRgKViojIrwZFyrAl76b"
+      },
+      "artists": [
+        {
+          "name": "Osquel",
+          "url": "https://open.spotify.com/artist/2pG0eQLB8CbmmWWmjJi4yd"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "Si Si",
+      "url": "https://open.spotify.com/track/58C7oLoWmbVgBIR7r7A3Ao"
     },
     {
       "added_at": "2023-06-09 02:27:24",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Novos rappers, novos sons. Tamos juntos! Foto: B3L2.",
+  "description": "Novos rappers, novos sons. Tamos juntos! Foto: Pilitchi.",
   "name": "Ganda Cena",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 180571,
       "name": "Assumir",
       "url": "https://open.spotify.com/track/5K3Pc3hqI1dxSEEjwtAUcv"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 306523,
       "name": "Can\u00e7\u00e3o das Maias",
       "url": "https://open.spotify.com/track/5hDxZwVGoNpuA3JYFntfHS"
@@ -2229,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Deixa-me ir",
+        "url": "https://open.spotify.com/album/41IpZL7Rn6Tazqc8UpsXrf"
+      },
+      "artists": [
+        {
+          "name": "Westy",
+          "url": "https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237997,
+      "name": "Deixa-me ir",
+      "url": "https://open.spotify.com/track/4R3NIm33KTJll9OAJtSJJ9"
+    },
+    {
+      "album": {
         "name": "Dele Alli",
         "url": "https://open.spotify.com/album/5Ghz80EAzDqxa8ZcD5GjUE"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 142664,
       "name": "Escuta",
       "url": "https://open.spotify.com/track/2hnBtwMS2rEZ2tXNEgBYxt"
@@ -4386,7 +4404,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 127457,
       "name": "Horas Extra",
       "url": "https://open.spotify.com/track/2JnAYf8cKtS0V6ZIRa8LAY"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 142040,
       "name": "ICY",
       "url": "https://open.spotify.com/track/0kI80KIxfUea8CXEBCym6y"
@@ -5103,6 +5121,24 @@
     },
     {
       "album": {
+        "name": "Local Trapper",
+        "url": "https://open.spotify.com/album/46IBfuRF8kyPjXu6uyDZnd"
+      },
+      "artists": [
+        {
+          "name": "YVNG CIRIUS",
+          "url": "https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Local Trapper",
+      "url": "https://open.spotify.com/track/71han8vjg02xa6D26SKZK5"
+    },
+    {
+      "album": {
         "name": "Longe",
         "url": "https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q"
       },
@@ -5419,6 +5455,28 @@
     },
     {
       "album": {
+        "name": "Dreams Chasers EP Vol.1",
+        "url": "https://open.spotify.com/album/2m356u0GaEHrq0t5tnC3AS"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1fia200N",
+          "url": "https://open.spotify.com/artist/24tOhs7tfXtXhBTuzVWspw"
+        },
+        {
+          "name": "Boss Proud",
+          "url": "https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Mandato Di Captura (feat. Boss Proud)",
+      "url": "https://open.spotify.com/track/5Rg87Evf2mySqHq6dFY9de"
+    },
+    {
+      "album": {
         "name": "Many Men",
         "url": "https://open.spotify.com/album/5oPtD5FZsI36L1FVqUC6Rj"
       },
@@ -5476,6 +5534,24 @@
       "duration_ms": 187116,
       "name": "Many Men - Special Version",
       "url": "https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC"
+    },
+    {
+      "album": {
+        "name": "Marginal",
+        "url": "https://open.spotify.com/album/2sbqzhnlamC2cb1ITFcCsn"
+      },
+      "artists": [
+        {
+          "name": "Kaps",
+          "url": "https://open.spotify.com/artist/3LHoFLdOjSILRX0fMvfrjT"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135944,
+      "name": "Marginal",
+      "url": "https://open.spotify.com/track/2uiB8gSttF2l8sjNUO1yE0"
     },
     {
       "album": {
@@ -5916,7 +5992,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 210374,
       "name": "Momma Song",
       "url": "https://open.spotify.com/track/7lpuxNMONrQKAvwTAuzIBT"
@@ -6209,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "MY LUV",
+        "url": "https://open.spotify.com/album/0iMknSeRnMWVU6doR0IRrp"
+      },
+      "artists": [
+        {
+          "name": "Yxng Mike",
+          "url": "https://open.spotify.com/artist/1DcVHn395OKhu2km2pEEu6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149552,
+      "name": "MY LUV",
+      "url": "https://open.spotify.com/track/5Lt5Cf1ycEhTVTgvm5H1Da"
+    },
+    {
+      "album": {
         "name": "M\u00e3e",
         "url": "https://open.spotify.com/album/236X6ACE2wFYHUfust5gQe"
       },
@@ -6322,6 +6416,24 @@
       "duration_ms": 142148,
       "name": "Na Zona",
       "url": "https://open.spotify.com/track/2nryvguh2EFGc7jjJxyM4e"
+    },
+    {
+      "album": {
+        "name": "Nada Mais Interessa",
+        "url": "https://open.spotify.com/album/4CMlLGXMAUdsqOLWSJKkbC"
+      },
+      "artists": [
+        {
+          "name": "Ndozzi",
+          "url": "https://open.spotify.com/artist/7j54Jqg5u1ualZP093JHt2"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111930,
+      "name": "Nada Mais Interessa",
+      "url": "https://open.spotify.com/track/5V6iNdPfrNkRn1IK3e5JB5"
     },
     {
       "album": {
@@ -6640,6 +6752,24 @@
       "duration_ms": 179967,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/4Be3gPLc740ERIKPHCuFjU"
+    },
+    {
+      "album": {
+        "name": "No Time",
+        "url": "https://open.spotify.com/album/3sJYckxG419tIObfH0f7Mk"
+      },
+      "artists": [
+        {
+          "name": "Zt35",
+          "url": "https://open.spotify.com/artist/4yEpDApCiftRugkpN2sOVM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132927,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/2hQ1OweM2djoEunj1j9mPX"
     },
     {
       "album": {
@@ -7348,7 +7478,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 240111,
       "name": "P&R",
       "url": "https://open.spotify.com/track/33psD3z9V1ED0arYVfEDWd"
@@ -7442,7 +7572,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 148085,
       "name": "Parece F\u00e1cil",
       "url": "https://open.spotify.com/track/5XcX17u8DRl3YqBP4YxbcG"
@@ -7540,6 +7670,24 @@
       "duration_ms": 195223,
       "name": "PAZ",
       "url": "https://open.spotify.com/track/32QmWw2VFxoGkJI5XJT2YU"
+    },
+    {
+      "album": {
+        "name": "Pecado",
+        "url": "https://open.spotify.com/album/7dl9Z3heNAdJEJayrLALOU"
+      },
+      "artists": [
+        {
+          "name": "Pilitchi",
+          "url": "https://open.spotify.com/artist/4nDlpuHI1FcvN8RVEiixY4"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Pecado",
+      "url": "https://open.spotify.com/track/4X4GElslGhtmrFWcGyp0a4"
     },
     {
       "album": {
@@ -8562,7 +8710,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 194866,
       "name": "Roleta Russa",
       "url": "https://open.spotify.com/track/4z5RyQvfKuolwxfo9UhtbT"
@@ -8918,6 +9066,28 @@
       "duration_ms": 187682,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/1tMJTozkCDjpr0GHDQL7B4"
+    },
+    {
+      "album": {
+        "name": "Sa\u00fade & Sucesso",
+        "url": "https://open.spotify.com/album/07XilKgPB6uj1qwwPEPDPN"
+      },
+      "artists": [
+        {
+          "name": "Chav",
+          "url": "https://open.spotify.com/artist/1otM9dcrZZ5Tsquh17qzkS"
+        },
+        {
+          "name": "Amaro",
+          "url": "https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Sa\u00fade & Sucesso",
+      "url": "https://open.spotify.com/track/6AuyARczcoHFAvBZSqUfZR"
     },
     {
       "album": {
@@ -9400,6 +9570,24 @@
       "duration_ms": 193972,
       "name": "Sopro",
       "url": "https://open.spotify.com/track/0uaEyf97Q8WcUJNDnq6Cn1"
+    },
+    {
+      "album": {
+        "name": "S/ VERGONHA",
+        "url": "https://open.spotify.com/album/6joK8rFJW0rfyAKabP8g3T"
+      },
+      "artists": [
+        {
+          "name": "$heka",
+          "url": "https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139874,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/7LMqh05dl5Zr0XOM2ugHp4"
     },
     {
       "album": {
@@ -10934,7 +11122,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 168000,
       "name": "Yah!",
       "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"

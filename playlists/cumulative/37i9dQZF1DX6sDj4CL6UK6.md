@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover\- Taba Chake
 
-225 songs - 13 hr 5 min
+226 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [As I'm Getting Older](https://open.spotify.com/track/1BwO9XLe7M3Qc4wrZ69wk9) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [As I'm Getting Older](https://open.spotify.com/album/4KzZtZPmRN1YfdIWczXFb7) | 3:33 | 2022-03-25 | 2023-05-20 |
 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 | 2022-11-23 |  |
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-19 | 2023-05-24 |
-| [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 | 2023-08-02 |
+| [Bad for Me](https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Bad for Me](https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a) | 3:23 | 2022-03-25 |  |
 | [Bang Bang](https://open.spotify.com/track/5A0BU4G7Cj5HWfRMfgCKhe) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [Bang Bang](https://open.spotify.com/album/3C2a8WD61N3Q6lCaYnXywp) | 3:03 | 2022-11-17 | 2023-01-18 |
 | [Beautiful Day](https://open.spotify.com/track/1mhBPosKQsDnyMtJRCVkDf) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Beautiful Day](https://open.spotify.com/album/2Xp0U1Ug2UXkCZhlKEsh4I) | 3:36 | 2022-03-25 | 2022-06-30 |
 | [Because Because Because](https://open.spotify.com/track/3Ke8cQwRISvXEXXvHou7Rv) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Because Because Because](https://open.spotify.com/album/5nRXba9Mx7yK0FqrwneBvY) | 3:58 | 2023-07-10 |  |
@@ -76,7 +76,7 @@
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 | 2023-01-13 |
 | [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 |  |
-| [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 |  |
+| [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 | 2023-08-04 |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-03-25 | 2023-05-24 |
 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 | 2022-11-24 | 2023-05-24 |
 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 | 2023-07-20 |  |
@@ -92,7 +92,8 @@
 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 | 2023-04-30 |  |
 | [Horoscope](https://open.spotify.com/track/5aDF6F6LnLg27LMIUWVBqk) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Caution to the Wind](https://open.spotify.com/album/6159SMEuKlw2odRgPKtc3U) | 4:03 | 2022-03-25 | 2022-05-23 |
 | [I Can't Go Back To Sleep](https://open.spotify.com/track/6Ni5Bvv11v0KvqFddmUJC9) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [I Can't Go Back To Sleep](https://open.spotify.com/album/7F52Qrxl2V5moUvEHf5hAc) | 4:38 | 2022-03-25 | 2022-06-30 |
-| [I Grew Up \(feat\. Blackstratblues\)](https://open.spotify.com/track/0k9Z8DseQbtUh3zck3gRBB) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0P5iD8b8gRC1agi1zQavdB) | 4:48 | 2023-08-02 |  |
+| [I Grew Up](https://open.spotify.com/track/68ABR8sT09uiFgr8YeC7t4) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0N4N1mQUFxDkmjENLtSE7H) | 4:48 | 2023-08-02 |  |
+| [I Grew Up \(feat\. Blackstratblues\)](https://open.spotify.com/track/0k9Z8DseQbtUh3zck3gRBB) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [I Grew Up](https://open.spotify.com/album/0P5iD8b8gRC1agi1zQavdB) | 4:48 | 2023-08-02 | 2023-08-04 |
 | [I Saw You in a Dream](https://open.spotify.com/track/7mYEYvpOp49czRGOlQus9F) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [I Saw You in a Dream](https://open.spotify.com/album/33p2rB65gI3GQDxw0XdOzw) | 3:02 | 2022-03-25 | 2023-05-20 |
 | [I'll Get By](https://open.spotify.com/track/1ZHOSFoGjqE7k0Mpr1ofKx) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Unexpectedly](https://open.spotify.com/album/5L6mPVF4I314n4XrcVNyNq) | 4:19 | 2023-05-24 |  |
 | [i'm a mess](https://open.spotify.com/track/6I2gceToKVNSteaBQZeM41) | [Meghana Mokhasi](https://open.spotify.com/artist/1o2ZuDHSBbuSRRdPiBaSGW) | [living a daydream](https://open.spotify.com/album/1X41RF1XEDbFDoQeEi2MER) | 2:53 | 2022-09-09 | 2022-10-01 |

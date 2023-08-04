@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Texas](https://open.spotify.com/playlist/37i9dQZF1DX4ve1H90mNWg)
 
-> Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=52d3ff143f6947cb">Jastin Martin<a>
+> Texas music breaking waves\. <br/> Cover:  <a href="https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1?si=p9UUD7S\-TvabLVShoGN47A">Jastin Martin</a>
 
 511 songs - 1 day 0 hr 57 min
 

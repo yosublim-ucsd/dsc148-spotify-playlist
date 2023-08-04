@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,420,889 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,422,419 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Ai Eu Chorei \- Ao Vivo](https://open.spotify.com/track/5TPXcKSOlPaz2pkYbWiWHU) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [No Churrasco 2 \(Ao Vivo\)](https://open.spotify.com/album/6GwoKtfGlr1VGlrTU6Xb9u) | 2:56 |
 | 50 | [Acabei de Terminar \- Ao Vivo](https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Acabei de Terminar \(Ao Vivo\)](https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo) | 3:43 |
 
-Snapshot ID: `MCwxMDA3MWIxYmEzMDY1OWY0NzYzODAwMWI2OTMyOWY2MzVkZjk1ZTNj`
+Snapshot ID: `MCxkYzYxZjU1YTAzNWFmN2RkMjg3OWMyM2VkNjU1YzRjZTM0ZjA5MDFk`

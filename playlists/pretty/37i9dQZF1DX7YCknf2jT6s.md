@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,242 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,446 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Renewal](https://open.spotify.com/track/5IUOEqMpmnd8zQB35gDOWc) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb), [Josh Arcoleo](https://open.spotify.com/artist/1QLZJdUJBKFcoxWa6FYWsn) | [Renewal](https://open.spotify.com/album/53lb1aZRFeouaILyUq3sOT) | 5:39 |
 | 100 | [Something I'm Used To](https://open.spotify.com/track/0WPOVQw06XqsWGjDF2mdTj) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 1:10 |
 
-Snapshot ID: `MCwxZDVjYTVlMjgxZTM2YzNkMDBkNDZmMWU3NjdmODhkNjAxYjg4Nzgy`
+Snapshot ID: `MCxjNjUyZjFiNjY0ZDc1ODM2NzM3OTZmN2Q0OWI5YmNlNDMwNTBmYjQx`

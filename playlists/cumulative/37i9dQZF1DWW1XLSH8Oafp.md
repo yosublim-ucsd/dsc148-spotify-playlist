@@ -2,15 +2,16 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring piri & Tommy Villiers
+> ur on the list bb 🪐 featuring MCR\-T & horsegiirL
 
-682 songs - 1 day 14 hr 36 min
+684 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [\#4u](https://open.spotify.com/album/7lSFPJJSetFsOVLPvRqeP4) | 1:48 | 2022-05-20 | 2022-06-18 |
 | [\(\(\(\(diamond</3](https://open.spotify.com/track/5krXisvn7pl593ipTYvino) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [\(\(\(\(diamond</3](https://open.spotify.com/album/4CiEuKq5QOAm1lMKHOV6Bl) | 2:27 | 2022-06-10 | 2022-07-22 |
 | [.dancecore](https://open.spotify.com/track/3iELvZmsWYeA7caKjeWWOo) | [Casper Mcfadden](https://open.spotify.com/artist/5uh0sOdYjYSqXqSQqLA5cT) | [Audio Diary](https://open.spotify.com/album/6QIJzEby71ki5kbjfa2AhK) | 3:09 | 2022-03-04 | 2022-03-12 |
+| [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 | 2023-08-03 |  |
 | [1\-800\-GHETTOLICIOUS](https://open.spotify.com/track/7u6MpMQU3LujRn2rte9whp) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Miss Bashful](https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C) | [1\-800\-GHETTOLICIOUS](https://open.spotify.com/album/2tEztrGiQcQSz0xwWm8t1S) | 4:22 | 2023-06-16 |  |
 | [100 dollar bill](https://open.spotify.com/track/6qIyMGqZ0VAaVr5WF7PZcC) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [100 dollar bill](https://open.spotify.com/album/1ypuMUFmHI8rB97dBaLMLC) | 3:59 | 2021-11-19 | 2022-02-05 |
 | [160 DOWN THE A406](https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS) | 6:02 | 2021-07-23 | 2022-02-24 |
@@ -66,7 +67,7 @@
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-02-14 |  |
 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 | 2022-09-30 | 2023-05-26 |
 | [Banshee](https://open.spotify.com/track/60VxfR69YQf7KqvxTqs4dP) | [Dan Larkin](https://open.spotify.com/artist/2hbkBcgVkM8GVJQQuf5jy9), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Banshee](https://open.spotify.com/album/4jckpNyd7AyJhUHTUO4I4A) | 3:41 | 2022-09-30 | 2023-07-14 |
-| [Barbie Lifestyle \(From Barbie The Album\)](https://open.spotify.com/track/1wF0LojRXoBTqHSXLgEoiR) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm) | [Barbie Lifestyle \(From Barbie The Album\)](https://open.spotify.com/album/7JYp5jfnJnPcUI1p07OmmD) | 2:00 | 2023-07-06 |  |
+| [Barbie Lifestyle \(From Barbie The Album\)](https://open.spotify.com/track/1wF0LojRXoBTqHSXLgEoiR) | [kkbutterfly27xx](https://open.spotify.com/artist/10Ql0msZpTq98eDnRUqyqm) | [Barbie Lifestyle \(From Barbie The Album\)](https://open.spotify.com/album/7JYp5jfnJnPcUI1p07OmmD) | 2:00 | 2023-07-06 | 2023-08-04 |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-02-23 | 2022-08-27 |
 | [Be Mine](https://open.spotify.com/track/4f9ybK0C7tRtRXvWl7t1HA) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz) | [Be Mine LP](https://open.spotify.com/album/4iJzbjMFVcfN3mgcdB1jWQ) | 5:00 | 2021-12-17 | 2022-03-12 |
 | [Be Some Body](https://open.spotify.com/track/25etNFi42QQx8lc97rLp55) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Be Some Body](https://open.spotify.com/album/1T2D4Si1kGylfXkPj7VjyW) | 3:01 | 2022-05-27 | 2022-07-22 |
@@ -263,7 +264,7 @@
 | [Grays](https://open.spotify.com/track/5LLzSKWxCPkPDmScnUerZL) | [Boys Hotel](https://open.spotify.com/artist/3BQpGPX8wEhlKrICJuCmBd) | [Grays](https://open.spotify.com/album/7y8rIJ7Bav0DBK5chVlIHV) | 5:11 | 2022-10-21 | 2022-11-04 |
 | [guessabelle](https://open.spotify.com/track/5vf5A8GZM1m2obl3vHmZFQ) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [guessabelle](https://open.spotify.com/album/725oq2BOUlctmIJxwzlmWd) | 8:58 | 2022-03-11 | 2022-06-26 |
 | [Guest House](https://open.spotify.com/track/6grlBYKqpLsnZcoy9oa6tw) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 2:08 | 2022-04-01 | 2022-04-09 |
-| [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-17 |  |
+| [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-17 | 2023-08-04 |
 | [Gutterball](https://open.spotify.com/track/3qWiLB5CmJBr2KeU1zrgcS) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Gutterball](https://open.spotify.com/album/2BnJnXnhreOk6FRNbdmi93) | 3:32 | 2022-02-04 | 2022-06-18 |
 | [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 | 2023-06-16 |  |
 | [Hate Me](https://open.spotify.com/track/3ssp4lKrOF6w2gjvv7b1Ob) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Hate Me](https://open.spotify.com/album/791xaBWibssKKGL0Xromdb) | 2:39 | 2022-08-19 | 2022-12-03 |
@@ -375,6 +376,7 @@
 | [Look \- All Night Mix](https://open.spotify.com/track/21968f5xcqq01zWyipJ2FV) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0X7UabUgIpoV9CfQwkCn7o) | 2:42 | 2022-10-28 | 2023-02-02 |
 | [Look \- All Night Mix](https://open.spotify.com/track/2qmnDGzVVsutea3plrJsXf) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [Look \(All Night Mix\)](https://open.spotify.com/album/0zya05sL9tpRmmIuRXFLON) | 2:42 | 2022-10-28 | 2023-02-05 |
 | [Look \- All Night Mix](https://open.spotify.com/track/6f76PH2ajKmwzqE9B2QPy3) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM), [Rye Rye](https://open.spotify.com/artist/0S05AeePINj4CeTVMfysIu) | [4 New Hit Songs \*Remixes](https://open.spotify.com/album/5wpmAoT9ZcBQ1YAcloFVhj) | 2:42 | 2022-10-28 | 2023-07-14 |
+| [looking 4 me](https://open.spotify.com/track/5z0pJkbsGf6f95dKzd5OOk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [looking 4 me](https://open.spotify.com/album/0KQfZKiNtU7gMdX9txha8j) | 2:27 | 2023-08-03 |  |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-23 | 2022-03-12 |
 | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Lose It All \(I Don't Wanna\)](https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34) | 2:19 | 2023-07-06 |  |
 | [Lose Our Minds](https://open.spotify.com/track/3ct8fBd9ZmhZjAmFAE5u5P) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Lose Our Minds](https://open.spotify.com/album/286fCu34pH9RIuXoDWJNHJ) | 3:21 | 2022-04-29 | 2022-10-13 |

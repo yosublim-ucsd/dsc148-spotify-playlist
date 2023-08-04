@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13607,
+  "num_followers": 13609,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzBiYzVjMjc5NzkwNGU1YjlhMGRkMjUzY2MxMTIwNGEwZDc5MzNi",
+  "snapshot_id": "MCwyZjc4YzYyYWIwZjE0ZmMwYmM0OGM3MjA0MjczZDk0NDc4NzE5YjQ1",
   "tracks": [
     {
       "added_at": "2023-06-22 07:18:24",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 190345,
-      "name": "Just A Little Lovin'",
-      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Meet Me Around Midnight",
         "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 229613,
       "name": "One for My Baby",
       "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 190345,
+      "name": "Just A Little Lovin'",
+      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "If You Never Fall in Love with Me",
-      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "If You Never Fall in Love with Me",
+      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Cloudy (With a Chance of Rain)",
-        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
-      },
-      "artists": [
-        {
-          "name": "Katherine Kostoff",
-          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Cloudy (With a Chance of Rain)",
-      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "Dance Of Time",
         "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230093,
       "name": "You\u2019re Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Cloudy (With a Chance of Rain)",
+        "url": "https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB"
+      },
+      "artists": [
+        {
+          "name": "Katherine Kostoff",
+          "url": "https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Cloudy (With a Chance of Rain)",
+      "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 309706,
-      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
-      "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "A Seasonal Thing...SPRING",
         "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 303850,
       "name": "It's Not Easy Being Green",
       "url": "https://open.spotify.com/track/7jKskHwsl2QtLamOtaLRkb"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 309706,
+      "name": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "url": "https://open.spotify.com/track/5UDJSBScMFdnWIz9yvScFU"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1415,18 +1415,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+        "name": "Let's Sail Away",
+        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
       "artists": [
         {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+          "name": "Jeff Rupert",
+          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
         }
       ],
-      "duration_ms": 196413,
-      "name": "Getting To Know You",
-      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
+      "duration_ms": 283826,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1447,22 +1451,18 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
-        "name": "Let's Sail Away",
-        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
       },
       "artists": [
         {
-          "name": "Jeff Rupert",
-          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
-        },
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+      "duration_ms": 196413,
+      "name": "Getting To Know You",
+      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
     },
     {
       "added_at": "2023-06-22 07:18:24",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-06-22 07:18:24",
       "album": {
+        "name": "Dare That Dream",
+        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
+      },
+      "artists": [
+        {
+          "name": "Estelle Perrault",
+          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
+        }
+      ],
+      "duration_ms": 256972,
+      "name": "You Must Believe In Spring",
+      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+    },
+    {
+      "added_at": "2023-06-22 07:18:24",
+      "album": {
         "name": "Live at Unity",
         "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 141266,
       "name": "Melancholy March",
       "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2023-06-22 07:18:24",
-      "album": {
-        "name": "Dare That Dream",
-        "url": "https://open.spotify.com/album/1AdSm7UbxUBWBI0UgEteiB"
-      },
-      "artists": [
-        {
-          "name": "Estelle Perrault",
-          "url": "https://open.spotify.com/artist/7II0Oxp6gCx6MJwnWW8weP"
-        }
-      ],
-      "duration_ms": 256972,
-      "name": "You Must Believe In Spring",
-      "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
     },
     {
       "added_at": "2023-06-22 07:18:24",

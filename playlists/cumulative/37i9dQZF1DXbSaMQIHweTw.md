@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Yashraj
 
-101 songs - 5 hr 30 min
+102 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Koi Nahin](https://open.spotify.com/track/20JqSDFpB87KZUQyQOXz1i) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [XTACY](https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP) | [Koi Nahin](https://open.spotify.com/album/25isPCfIzXkzXFbWATN2Nn) | 2:57 | 2023-03-17 |  |
 | [KR L$DA SIGN](https://open.spotify.com/track/0usNFsDDoVMYVE732zM3QI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KR L$DA SIGN](https://open.spotify.com/album/0bskp8YuVeh7ZgV7Orq9cz) | 8:12 | 2023-03-17 |  |
 | [Kuch Karne Ka](https://open.spotify.com/track/4HisNsjVpJvU7ozK5UaF55) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Kuch Karne Ka](https://open.spotify.com/album/6DEupBzAyR68V9Nz5qDqun) | 1:05 | 2023-03-17 | 2023-04-25 |
+| [Kudi](https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Kudi](https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob) | 3:10 | 2023-08-03 |  |
 | [Kya Bataye](https://open.spotify.com/track/1Udjeeqkhb19f7sjvxq9xq) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Kya Bataye](https://open.spotify.com/album/5mE4IM60xy3qkfhsD3vhEh) | 4:05 | 2023-03-17 | 2023-04-25 |
 | [Kya Bolte Bro](https://open.spotify.com/track/2i5IXraFHeZE3ObclMKRPI) | [MEMAX](https://open.spotify.com/artist/244S5iHPahvRSus18nJVxu), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [MEMAX](https://open.spotify.com/album/4ipQDuUPOgxgihg0ZgLqfv) | 3:48 | 2023-03-17 |  |
 | [LA to Bombay](https://open.spotify.com/track/4dLvGPxXlDi9YdwIH11WOq) | [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [LA to Bombay](https://open.spotify.com/album/3TBz51RQKTu16bT3VIY2uz) | 2:56 | 2023-03-17 | 2023-04-25 |
@@ -95,7 +96,7 @@
 | [Samajh mein aaya kya?](https://open.spotify.com/track/2FcVvA6ltdOyvP4jUgOqfa) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Samajh mein aaya kya?](https://open.spotify.com/album/1FxCO5t2JevJGXQMgegUPK) | 4:33 | 2023-03-17 |  |
 | [Sath Mai](https://open.spotify.com/track/4oThKMygc8GyFYB82z8RAz) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Meme Machine](https://open.spotify.com/artist/08EMsXwlxsiyeC08Kjh2AS), [Swaalina](https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE) | [Sath Mai](https://open.spotify.com/album/6wlc1WXdX4kwGPCJ2hZBBe) | 3:17 | 2023-03-17 |  |
 | [Satya](https://open.spotify.com/track/1xSCr5uIndaHKFdO4s2V6B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:02 | 2023-03-17 |  |
-| [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-17 |  |
+| [Scene Change](https://open.spotify.com/track/5IVfZKvSkv8XtlswgBcmCE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Scene Change](https://open.spotify.com/album/5kbJnCRw1otr7gLtD515ZH) | 3:30 | 2023-03-17 | 2023-08-04 |
 | [Shana Bann](https://open.spotify.com/track/5ZTsPwtt7aCuzbWd5rDGys) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Shana Bann](https://open.spotify.com/album/2Tw9GDRPo2ITN5CbBFAkJn) | 3:48 | 2023-03-17 |  |
 | [Shehnai](https://open.spotify.com/track/2ywkj6sjyVBmq46wgIgIlw) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 2:33 | 2023-03-17 |  |
 | [Shy](https://open.spotify.com/track/4oIAC4u2X5yti76y62twzs) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Shy](https://open.spotify.com/album/2DLeX2WeY7j5nQdJaRkAG6) | 2:49 | 2023-03-17 |  |

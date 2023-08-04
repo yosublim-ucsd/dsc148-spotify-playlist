@@ -1045,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Cereb",
+        "url": "https://open.spotify.com/album/201kszqcsGij86IBeZvFnj"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276190,
+      "name": "Cereb",
+      "url": "https://open.spotify.com/track/5U27BfsytyQfOn6zatsyTp"
+    },
+    {
+      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/2Xfu9gcaWqUiFdjXFJToOB"
       },
@@ -4893,7 +4911,7 @@
         },
         {
           "name": "Ntsika",
-          "url": "https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M"
+          "url": "https://open.spotify.com/artist/0OJZLTuFdww9IGthPZE8uN"
         }
       ],
       "date_added": "2023-07-27",

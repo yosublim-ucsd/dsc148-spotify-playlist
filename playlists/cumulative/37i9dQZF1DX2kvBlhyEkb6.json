@@ -612,7 +612,7 @@
     {
       "album": {
         "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/6D1S57nQ7kUmnkpzPn8S9L"
+        "url": "https://open.spotify.com/album/09c1MXFFs5YJa9XehdeAiy"
       },
       "artists": [
         {
@@ -632,12 +632,12 @@
           "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
         }
       ],
-      "date_added": "2021-06-18",
+      "date_added": "2023-01-09",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 1281133,
       "name": "Piano Concerto No. 2 in G Major, Op. 44: I. Allegro brillante e molto vivace",
-      "url": "https://open.spotify.com/track/7MC3dEqNZjWPIKUWVqhEgX"
+      "url": "https://open.spotify.com/track/4FNO3hqavjX8Hr6TItn0Wy"
     },
     {
       "album": {
@@ -664,7 +664,67 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 1281133,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: I. Allegro brillante e molto vivace",
+      "url": "https://open.spotify.com/track/7MC3dEqNZjWPIKUWVqhEgX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/09c1MXFFs5YJa9XehdeAiy"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 871826,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: II. Andante non troppo",
+      "url": "https://open.spotify.com/track/3D8tvfw6tgfXwhafOGl9c5"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/6D1S57nQ7kUmnkpzPn8S9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
       "duration_ms": 871826,
       "name": "Piano Concerto No. 2 in G Major, Op. 44: II. Andante non troppo",
       "url": "https://open.spotify.com/track/6sU62yUzyjLB5MtkhA7kg7"

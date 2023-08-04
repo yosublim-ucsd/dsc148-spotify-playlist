@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt">Ada Ehi</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK">Nacee</a>
 
-307 songs - 1 day 4 hr 19 min
+309 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,14 +17,15 @@
 | [All I Want](https://open.spotify.com/track/4y8CtOVNQPenZK2ArhZE02) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH) | [Destination!](https://open.spotify.com/album/5oMsAkJPogSjaruQA9O8OK) | 3:36 | 2023-06-02 | 2023-06-23 |
 | [All My Days](https://open.spotify.com/track/6LjrkA4Qs96ZcdlC6sF1jM) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Rejoice Again](https://open.spotify.com/album/5Vd9mbXOqMKMZIZlN6wYkx) | 6:30 | 2023-06-16 | 2023-06-23 |
 | [All That I Need](https://open.spotify.com/track/5CEptMk8TjUxnEoe8haXDG) | [Manuel The Creator](https://open.spotify.com/artist/2T0gntIOQfKGq0t0xyMNkZ), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [All That I Need](https://open.spotify.com/album/6alYBAfGKfBay4xZaRi97O) | 3:03 | 2021-11-04 | 2023-04-28 |
-| [All the way](https://open.spotify.com/track/4lvZurxRtbkepGI9yE1YRw) | [ANOWI Noah](https://open.spotify.com/artist/46F10sHrFACpiNeOrXxnSY), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [All the way](https://open.spotify.com/album/65E6vK16UeRhr3yBFU78oX) | 2:20 | 2023-06-23 |  |
+| [All the way](https://open.spotify.com/track/4lvZurxRtbkepGI9yE1YRw) | [ANOWI Noah](https://open.spotify.com/artist/46F10sHrFACpiNeOrXxnSY), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG) | [All the way](https://open.spotify.com/album/65E6vK16UeRhr3yBFU78oX) | 2:20 | 2023-06-23 | 2023-08-04 |
 | [Already Blessed](https://open.spotify.com/track/1wDF5YNMYcGPMPwdNHwGmU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Already Blessed](https://open.spotify.com/album/04o03UBHKABx1rfESaAvk5) | 3:47 | 2023-05-26 | 2023-06-09 |
 | [Always God](https://open.spotify.com/track/7zbk4JGPAziL1DNv8MasHR) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Always God](https://open.spotify.com/album/2TckfbhLqj59dw5gYQ3wxu) | 9:04 | 2022-01-20 | 2023-05-05 |
 | [Always Win \(Solo Version\)](https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Always Win \(Solo Version\)](https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU) | 5:00 | 2020-08-12 | 2023-04-14 |
 | [Am not perfect](https://open.spotify.com/track/6MpgkBX2GiYgBe030qqIMz) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Am not perfect](https://open.spotify.com/album/1nAiJ2z1WzwLt4DHpIGrqX) | 2:08 | 2023-05-05 | 2023-05-12 |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 |  |
 | [Ascend](https://open.spotify.com/track/1rhgCARqlp1XCrnTz66y6Z) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Ascend](https://open.spotify.com/album/5FlHPCYzDDLhHsNTwmT3nm) | 9:59 | 2021-10-18 | 2023-04-01 |
-| [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-06-09 |  |
+| [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 | 2023-06-09 | 2023-08-04 |
+| [Aseda 3 Music \- Live](https://open.spotify.com/track/0WlZUtnSjrhcxCxAM4ZWC6) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda 3 Music \(Live\)](https://open.spotify.com/album/4ooUFS9MpoDPmblApehAqw) | 4:17 | 2023-08-04 |  |
 | [Awesome God](https://open.spotify.com/track/2tiRGU9qYi04MjQVHUI4qq) | [Tembalami](https://open.spotify.com/artist/4xKkR6aTDm0Qc9m9iXjMoZ) | [Faith Aid Kit](https://open.spotify.com/album/0IpkJUzNR2N5uyKzn88PyH) | 4:38 | 2018-10-01 | 2023-04-01 |
 | [Awuwedwa](https://open.spotify.com/track/3L7PwSbalLSeqjZEUv77SC) | [Brenda Mtambo](https://open.spotify.com/artist/1xq3iidMUB1FTy5c7WcfyC) | [Sane](https://open.spotify.com/album/1WDNkCLrjjTK3xDVKWwVCF) | 4:06 | 2023-05-12 | 2023-05-26 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-19 |  |
@@ -279,6 +280,7 @@
 | [VICTORY DANCE](https://open.spotify.com/track/0bRt230xIYDhNJ6fC1voSt) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [VICTORY DANCE](https://open.spotify.com/album/4HOinc1ltZLvIjmHlA2E2M) | 9:53 | 2023-04-28 | 2023-06-23 |
 | [Way Maker](https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1) | 5:06 | 2018-10-01 | 2023-04-01 |
 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 | 2023-03-31 | 2023-06-23 |
+| [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 | 2023-08-04 |  |
 | [We Raise A Sound](https://open.spotify.com/track/40GqiANrV567E5vyDvHlos) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise A Sound](https://open.spotify.com/album/6JnxMe1t7VH6RP1mcJJBcg) | 7:12 | 2021-01-22 | 2022-09-09 |
 | [We Raise a Sound](https://open.spotify.com/track/5mj8UgV1q3weOrDfXdn1jk) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121selah](https://open.spotify.com/artist/52yIVRZsu5TlIgsraHzELa) | [We Raise a Sound](https://open.spotify.com/album/0kS3yEDK9ECw0fhTi4WoeX) | 7:12 | 2021-01-22 | 2022-07-29 |
 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 | 2021-01-22 |  |

@@ -4,7 +4,7 @@
 
 > This is Miley Cyrus\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 4 min
+85 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Every Rose Has Its Thorn](https://open.spotify.com/track/2GFAmPwmQByPEeWcjiR8AE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Can't Be Tamed](https://open.spotify.com/album/69Pf9ExxwjhVFyosKsKWQu) | 3:48 | 2023-01-13 |  |
 | [Fall Down](https://open.spotify.com/track/4mWJSCa5i4HKPP71NbEqhF) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [\#willpower \(Deluxe\)](https://open.spotify.com/album/0VWYRbEcvJcPrqMGJirO6q) | 5:07 | 2023-01-13 |  |
 | [Feelin' Myself](https://open.spotify.com/track/26XUAwGZqQEyy8Ubhtj4kq) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:13 | 2023-01-13 |  |
-| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 |  |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 | 2023-08-04 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-10 |  |
 | [Fly On The Wall](https://open.spotify.com/track/2f6s0AcBRBE0vIOU0NMdXw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Breakout](https://open.spotify.com/album/0Yu3czJNOQ68fZgkvpjuHL) | 2:31 | 2023-01-13 |  |
 | [FU \(feat\. French Montana\)](https://open.spotify.com/track/6dDIOU6AqgLkrjFNPgvKY6) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:49 | 2023-01-13 |  |
 | [Gimme What I Want](https://open.spotify.com/track/4v8jmsVox8VwU5js3JHOJZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:31 | 2023-01-13 |  |

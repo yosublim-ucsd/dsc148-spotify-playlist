@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5990,
+  "num_followers": 5997,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
+  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Hey God",
-        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "Hey God",
-      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Vibes EP",
         "url": "https://open.spotify.com/album/6N2WWTRQAOV3LtLaWbNKQo"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 270658,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1EdUxZTtaa8ijHPaDlzL3l"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Hey God",
+        "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "Hey God",
+      "url": "https://open.spotify.com/track/35YbhHiWec53yRvrbz9org"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Eric (Long Live The King)",
-        "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
+        "name": "She Moved On",
+        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
       "artists": [
         {
-          "name": "Jack Biilmann",
-          "url": "https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX"
-        },
-        {
-          "name": "The Black Tide",
-          "url": "https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk"
+          "name": "McKinley James",
+          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Eric (Long Live The King)",
-      "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
+      "duration_ms": 167275,
+      "name": "She Moved On",
+      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "She Moved On",
-        "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
+        "name": "Eric (Long Live The King)",
+        "url": "https://open.spotify.com/album/6TQ4ttvwKNN3L7jiL6nF5h"
       },
       "artists": [
         {
-          "name": "McKinley James",
-          "url": "https://open.spotify.com/artist/3mddgnxcr3vrHOb9f8AavB"
+          "name": "Jack Biilmann",
+          "url": "https://open.spotify.com/artist/0VGhTaOPNUJgUfX7rOmzMX"
+        },
+        {
+          "name": "The Black Tide",
+          "url": "https://open.spotify.com/artist/1NiVVZq6AKDksPwDpeNbwk"
         }
       ],
-      "duration_ms": 167275,
-      "name": "She Moved On",
-      "url": "https://open.spotify.com/track/5JKu3vgydfzinPrv3tGq1c"
+      "duration_ms": 204666,
+      "name": "Eric (Long Live The King)",
+      "url": "https://open.spotify.com/track/4vLWMtNuVkaR3oph9zN8za"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
-      },
-      "artists": [
-        {
-          "name": "The Dust Coda",
-          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
-        }
-      ],
-      "duration_ms": 274612,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Buffalo Road",
         "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 178893,
       "name": "Buffalo Road",
       "url": "https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Walk The Wire",
+        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
+      },
+      "artists": [
+        {
+          "name": "Brent Lindsay",
+          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
+        }
+      ],
+      "duration_ms": 124218,
+      "name": "Walk The Wire",
+      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Walk The Wire",
-        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/0S3PWSSmdEbr39xZAY46oQ"
       },
       "artists": [
         {
-          "name": "Brent Lindsay",
-          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
+          "name": "The Dust Coda",
+          "url": "https://open.spotify.com/artist/710Hc46Lu4nxavbYDpEAzP"
         }
       ],
-      "duration_ms": 124218,
-      "name": "Walk The Wire",
-      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+      "duration_ms": 274612,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/2ze1OCYN4dtuOnZVVZVP8L"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -683,6 +683,22 @@
       "duration_ms": 322743,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/5mtGGswKLHP5o2piJtMepK"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Ain't Nobody (Pain)",
+        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -763,22 +779,6 @@
       "duration_ms": 235573,
       "name": "Good Love Goes Bad",
       "url": "https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Ain't Nobody (Pain)",
-        "url": "https://open.spotify.com/album/5iL02mu1gZpctWjwPrWpCW"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/0Mj8ijetNi0BccnaDAlYYF"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Flood of 2019",
-        "url": "https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Reynolds & Tombstone Mind",
-          "url": "https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46"
-        }
-      ],
-      "duration_ms": 239904,
-      "name": "Flood of 2019",
-      "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 134001,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Flood of 2019",
+        "url": "https://open.spotify.com/album/42elngIy8ZxlDdUBFu0Nlv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Reynolds & Tombstone Mind",
+          "url": "https://open.spotify.com/artist/6jusbN97Wy0bKDBLQ42V46"
+        }
+      ],
+      "duration_ms": 239904,
+      "name": "Flood of 2019",
+      "url": "https://open.spotify.com/track/0boDuN7zeEa1sWvsD7w2Hq"
     },
     {
       "added_at": "2023-07-21 15:58:03",

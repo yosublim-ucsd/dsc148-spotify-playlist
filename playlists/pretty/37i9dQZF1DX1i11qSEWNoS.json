@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 464879,
+  "num_followers": 465783,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2EzM2MzMWEwMDk1YTgyMjgwNWEyYWEzNTAxYjlmNzIyZWNmZGJi",
+  "snapshot_id": "MCwzYjZjNjE5NWI3MTBkMjc5NTE5NTllMDk2ODkxMTQyODM0NTU5YTYw",
   "tracks": [
     {
       "added_at": "2023-07-28 08:50:38",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 193690,
       "name": "Fine Day Anthem",
       "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 153674,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 153674,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        }
-      ],
-      "duration_ms": 131122,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "Heute Nacht",
         "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 204444,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        }
+      ],
+      "duration_ms": 131122,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Strada",
         "url": "https://open.spotify.com/album/28uZiaDg8bnR11Muf7m3xS"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 144400,
       "name": "Strada",
       "url": "https://open.spotify.com/track/5X6Ut0DYPzglxDQbh3PZ7h"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1155,34 +1155,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Durstl\u00f6scher",
-        "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "AVO",
-          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "Durstl\u00f6scher",
-      "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "TABU RMX",
         "url": "https://open.spotify.com/album/1tZuWiSl8PJUq8DHZcVYn7"
       },
@@ -1211,6 +1183,34 @@
       "duration_ms": 138181,
       "name": "TABU RMX",
       "url": "https://open.spotify.com/track/7DsflyKZZAMXFUzZtho9mr"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Durstl\u00f6scher",
+        "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "AVO",
+          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Durstl\u00f6scher",
+      "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Another Love",
-        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
-      },
-      "artists": [
-        {
-          "name": "OsTEKKe",
-          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
-        }
-      ],
-      "duration_ms": 145676,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 147680,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "Another Love",
+        "url": "https://open.spotify.com/album/0icW8M6Y5f3Vs8DNhWhtbt"
+      },
+      "artists": [
+        {
+          "name": "OsTEKKe",
+          "url": "https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA"
+        }
+      ],
+      "duration_ms": 145676,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1347,26 +1347,18 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Nothing but the Beat 2.0",
-        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+        "name": "Dorfkinder",
+        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Finnel",
+          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
         }
       ],
-      "duration_ms": 210093,
-      "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
-      "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
+      "duration_ms": 147844,
+      "name": "Dorfkinder",
+      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1395,6 +1387,30 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
+        "name": "Nothing but the Beat 2.0",
+        "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+      "url": "https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
         "name": "Leben am Limit",
         "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
       },
@@ -1411,18 +1427,26 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Dorfkinder",
-        "url": "https://open.spotify.com/album/1R8ny1P0qJBCTqHeoRwZLV"
+        "name": "EWIGKEIT (REMIX)",
+        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
       "artists": [
         {
-          "name": "Finnel",
-          "url": "https://open.spotify.com/artist/7C0CBOwkkOMnkehrvdMLrU"
+          "name": "erob\u00e9",
+          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
+        },
+        {
+          "name": "KXXMA",
+          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
+        },
+        {
+          "name": "Lyfrix",
+          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
         }
       ],
-      "duration_ms": 147844,
-      "name": "Dorfkinder",
-      "url": "https://open.spotify.com/track/6TJJfeL9UUi0xNnYvte2av"
+      "duration_ms": 137647,
+      "name": "EWIGKEIT - REMIX",
+      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1499,18 +1523,18 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Next!",
-        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
+        "name": "Turn All The Lights On",
+        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
       },
       "artists": [
         {
-          "name": "Seeed",
-          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
         }
       ],
-      "duration_ms": 206160,
-      "name": "Ding",
-      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+      "duration_ms": 137569,
+      "name": "Turn All The Lights On",
+      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1531,18 +1555,18 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "Turn All The Lights On",
-        "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
+        "name": "Next!",
+        "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
       },
       "artists": [
         {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+          "name": "Seeed",
+          "url": "https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV"
         }
       ],
-      "duration_ms": 137569,
-      "name": "Turn All The Lights On",
-      "url": "https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9"
+      "duration_ms": 206160,
+      "name": "Ding",
+      "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1563,30 +1587,6 @@
       "duration_ms": 160844,
       "name": "The Bad Touch 2k20",
       "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "WILDES DING",
-        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        },
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        }
-      ],
-      "duration_ms": 136204,
-      "name": "WILDES DING",
-      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
-    },
-    {
-      "added_at": "2023-07-28 08:50:38",
-      "album": {
         "name": "IN THE CLUB",
         "url": "https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4"
       },
@@ -1679,6 +1659,22 @@
       "duration_ms": 139206,
       "name": "IN THE CLUB",
       "url": "https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ"
+    },
+    {
+      "added_at": "2023-07-28 08:50:38",
+      "album": {
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+      },
+      "artists": [
+        {
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+        }
+      ],
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
     },
     {
       "added_at": "2023-07-28 08:50:38",
@@ -1699,18 +1695,22 @@
     {
       "added_at": "2023-07-28 08:50:38",
       "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+        "name": "WILDES DING",
+        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
       },
       "artists": [
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        },
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
         }
       ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+      "duration_ms": 136204,
+      "name": "WILDES DING",
+      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
     },
     {
       "added_at": "2023-07-28 08:50:38",

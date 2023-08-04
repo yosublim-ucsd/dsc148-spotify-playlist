@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Lovelyboy",
+        "url": "https://open.spotify.com/album/4xcw8Xlrbs2NA0o5hhrgBY"
+      },
+      "artists": [
+        {
+          "name": "Kim Kunni",
+          "url": "https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Lovelyboy",
+      "url": "https://open.spotify.com/track/17gjDrdge4XCwr3XGnykJu"
+    },
+    {
+      "album": {
         "name": "S\u00e2mflowers",
         "url": "https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m"
       },

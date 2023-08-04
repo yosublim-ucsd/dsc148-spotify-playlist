@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Ava Max
 
-600 songs - 1 day 6 hr 33 min
+601 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Hot Crush Lover](https://open.spotify.com/track/0J0ba8kZZw6r4SItlHKGlU) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/3WAh5TuJY4ywrAtbKOupK5) | 3:13 | 2022-04-08 | 2022-05-07 |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2022-07-29 | 2022-10-22 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-01 | 2022-11-19 |
-| [Hot One](https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ) | 1:50 | 2023-06-30 |  |
+| [Hot One](https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ) | 1:50 | 2023-06-30 | 2023-08-04 |
+| [Hot One](https://open.spotify.com/track/6FWWJsGO4CuQY3vWtOlBys) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/2A4cjpxbVEXHpvWPIjhJZb) | 1:50 | 2023-07-07 |  |
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-10-08 | 2023-01-28 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-15 | 2022-06-25 |
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-02-15 | 2022-06-18 |

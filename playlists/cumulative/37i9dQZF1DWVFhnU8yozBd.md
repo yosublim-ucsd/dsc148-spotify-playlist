@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7wXTWO45lqpUejDkike0Gf">Sofia Kourtesis</a>'s favorite tracks\. Updated regularly\. Curated by Sofia Kourtesis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-123 songs - 11 hr 25 min
+124 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [3210 \- Ross from Friends Remix](https://open.spotify.com/track/1PfbIpFjsS1BayUoqB3X7O) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [3210 \(Ross from Friends Remix\)](https://open.spotify.com/album/4julBAGYv4WmRXwhjJ2LPD) | 5:52 | 2023-01-09 |  |
 | [9 Years \- DJ Koze Remix](https://open.spotify.com/track/5EXuw91HUQM28mjkhGO4eM) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [DJ Koze Presents Pampa, Vol\. 1](https://open.spotify.com/album/41nRW0aXlNZbhCikDqtFzV) | 10:00 | 2023-01-09 |  |
 | [A83](https://open.spotify.com/track/2XjMKzVE2qm6ULEsuQvYqU) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [Belonging EP](https://open.spotify.com/album/4qybG1RPWVKdNUqMTC1myf) | 5:59 | 2023-01-09 |  |
-| [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-01-09 |  |
+| [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-01-09 | 2023-08-04 |
+| [Agua Congas](https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF) | 7:12 | 2023-01-09 |  |
 | [Amor en el Cielo](https://open.spotify.com/track/2pjgyameGahHsasUXS2ajF) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/4athIGponDiJRR4djOgwbJ) | 5:15 | 2023-01-09 | 2023-04-30 |
 | [Amor en el Cielo](https://open.spotify.com/track/3aRG0ktXmISKj6InRRlVEa) | [Beni Life](https://open.spotify.com/artist/6Lw0rQu6WBi2B1W3XBfUoW) | [Ritmo Fantasía: Balearic Spanish Synth\-Pop, Boogie And House \(1982\-1992\)](https://open.spotify.com/album/6hF1xbglHjBHYkv2FMtyiq) | 5:15 | 2023-01-09 |  |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2023-01-09 |  |

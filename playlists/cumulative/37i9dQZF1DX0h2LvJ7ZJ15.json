@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Call Me (Slowed)",
+        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Call Me - Slowed",
+      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
+    },
+    {
+      "album": {
         "name": "Assumptions / Call out My Name (Acoustic)",
         "url": "https://open.spotify.com/album/63rY7Ofwy3BZ5Knd5Pc0Ti"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 191000,
       "name": "Dream Girl - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
@@ -1076,6 +1094,24 @@
       "duration_ms": 192000,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/2VQa5cBJCYWrmqZYg17ii3"
+    },
+    {
+      "album": {
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
+      },
+      "artists": [
+        {
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
       "album": {
@@ -1268,7 +1304,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 199817,
       "name": "Faster (Slowed & Reverb)",
       "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
@@ -1334,6 +1370,24 @@
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
+    },
+    {
+      "album": {
+        "name": "Flare (Remixes)",
+        "url": "https://open.spotify.com/album/56aJPOiVqA3CV4qrfZ2a3I"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161783,
+      "name": "Flare - Slowed",
+      "url": "https://open.spotify.com/track/7aZxSDe8hgD8MXv8ukuCfT"
     },
     {
       "album": {
@@ -1636,7 +1690,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 240531,
       "name": "Happier - Slowed + Reverb",
       "url": "https://open.spotify.com/track/072Hl1zCG3UMxc7JBeQk7r"
@@ -1942,10 +1996,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 384770,
       "name": "If By Chance - slowed + reverb",
       "url": "https://open.spotify.com/track/27fMPdnYNuuFuSQrUNJkqj"
+    },
+    {
+      "album": {
+        "name": "It's Ok (Slowed)",
+        "url": "https://open.spotify.com/album/1sjKHrK5J9tVQi512c0Vrj"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214371,
+      "name": "It's Ok - Slowed",
+      "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
     },
     {
       "album": {
@@ -1986,7 +2058,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 307060,
       "name": "JACKIE BROWN (CHOPNOTSLOP REMIX)",
       "url": "https://open.spotify.com/track/2TqPcMoynCqfa7GbPQMIYA"
@@ -2084,7 +2156,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 187810,
       "name": "Limbo - ChopNotSlop Remix",
       "url": "https://open.spotify.com/track/5r0X4MhcC7KjN2NQeonWlC"
@@ -2179,6 +2251,32 @@
     },
     {
       "album": {
+        "name": "LOOK DON'T TOUCH (STARE STARE STARE)",
+        "url": "https://open.spotify.com/album/3quZlwSsK1qyhiwqLx95te"
+      },
+      "artists": [
+        {
+          "name": "ODECORE",
+          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
+        },
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "cade clair",
+          "url": "https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "LOOK DON'T TOUCH - Slowed & Reverbed",
+      "url": "https://open.spotify.com/track/2xLCNc9jc87ujLXnG7wYM4"
+    },
+    {
+      "album": {
         "name": "Sad Boy in Skirt",
         "url": "https://open.spotify.com/album/3nYeICl5v7EaHay8iQayhM"
       },
@@ -2242,7 +2340,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 182166,
       "name": "Love Me Back (Fayahh Beat) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA"
@@ -3093,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "Shootout (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140142,
+      "name": "Shootout (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
+    },
+    {
+      "album": {
         "name": "catch me when i fall",
         "url": "https://open.spotify.com/album/4Eo1mjhJuMnPGYDptdObyM"
       },
@@ -3340,10 +3460,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 145738,
       "name": "Tard le soir..",
       "url": "https://open.spotify.com/track/6SKUWBbE7N8TfymEPgW7fX"
+    },
+    {
+      "album": {
+        "name": "The Lost Soul Down (Slowed & Reverb)",
+        "url": "https://open.spotify.com/album/2nQUgF7PdSKzKOIagdHeqk"
+      },
+      "artists": [
+        {
+          "name": "NBSPLV",
+          "url": "https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241111,
+      "name": "The Lost Soul Down - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
     },
     {
       "album": {
@@ -3596,6 +3734,24 @@
       "duration_ms": 299572,
       "name": "Vision - Slowed",
       "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
+    },
+    {
+      "album": {
+        "name": "WASTE",
+        "url": "https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "WASTE - Slowed Version",
+      "url": "https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI"
     },
     {
       "album": {

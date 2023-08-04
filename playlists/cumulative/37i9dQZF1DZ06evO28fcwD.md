@@ -4,7 +4,7 @@
 
 > This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-122 songs - 8 hr 5 min
+123 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amazing Grace](https://open.spotify.com/track/0bA7InqHdTe6uwta4HNwOM) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Favourites \(Special Edition\)](https://open.spotify.com/album/3T8BcKcFCzyeMRft0Yeglt) | 3:29 | 2022-10-10 | 2023-07-21 |
 | [Amen](https://open.spotify.com/track/6AeCDWexqzKoNhfYt1GS7N) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Always With Us](https://open.spotify.com/album/0NP4VoQSMcTYoUxjl7SKJe) | 3:41 | 2021-12-28 |  |
 | [Awu Wemadoda](https://open.spotify.com/track/1xitjCzTxasyA9WBZMuKV9) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 3:22 | 2021-12-28 |  |
+| [Awu Wemadoda \- Club Mix](https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Wilt Claybourne](https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Awu Wemadoda](https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5) | 3:55 | 2023-08-03 |  |
 | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/album/2uGCLaCAJ7EuKCrPZVxf8X) | 6:41 | 2022-07-02 |  |
 | [Ayikh’ Indaw’ Enjengekhaya](https://open.spotify.com/track/4gjiWULubKgWGUWWeFIOGj) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ikhaya Nothando](https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V) | 3:34 | 2022-10-04 | 2022-10-13 |
 | [Because I Love You \(Wangithanda\)](https://open.spotify.com/track/2chiUXbH3MdDuX8zJXhLf7) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Songs of Peace & Love for Kids & Parents Around the World](https://open.spotify.com/album/31FxGtQiNwg7OUkEZ2WA9Q) | 4:42 | 2021-12-28 | 2023-06-21 |

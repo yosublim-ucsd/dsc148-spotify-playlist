@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. El Fantasma en portada.
 
-272 songs - 14 hr 33 min
+273 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 | 2022-02-22 |  |
 | [Antes De Llamarme](https://open.spotify.com/track/4ZPyBJfE4ICPFMxDKvLIAx) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Antes De Llamarte](https://open.spotify.com/album/7a5RxaCPugv9C25CytE9e8) | 2:38 | 2023-01-13 | 2023-02-14 |
 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7pNp2nI4VFoEGxWQqSDL8e) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Aplaca Tus Berrinches](https://open.spotify.com/album/66FijRk3dAcaEUv9gdFrjr) | 3:12 | 2022-09-23 | 2022-12-03 |
+| [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-03 |  |
 | [Así Fue](https://open.spotify.com/track/3ym5eQLIVfTRohYuirqtkm) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Así Fue](https://open.spotify.com/album/0n3eXavDKfCo1AMUwW3RNb) | 6:19 | 2021-12-27 |  |
 | [Así Soy Yo](https://open.spotify.com/track/1Nm7M7ZUO0HW63oF7HfTQv) | [Jose Manuel](https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr) | [Así Soy Yo](https://open.spotify.com/album/179OE8qVRwDBrc5WZheE2W) | 2:54 | 2022-09-23 | 2022-11-14 |
 | [Aunque No Te Pueda Ver](https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Aunque No Te Pueda Ver](https://open.spotify.com/album/60xzc8h8XAC2efuvdN0Ey0) | 2:48 | 2023-07-14 |  |
@@ -279,6 +280,6 @@
 | [Yo Te Amaré](https://open.spotify.com/track/7jPO9umUSUsyoaFwTwM5Ey) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Yo Te Amaré](https://open.spotify.com/album/0WdDQcrUytQdVggWjEkXtm) | 2:50 | 2022-04-22 | 2023-07-25 |
 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 | 2021-12-27 |  |
 | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54) | [ZAFIRO \(feat\. Pablo Hurtado\)](https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ) | 3:53 | 2023-06-30 |  |
-| [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/album/5jVd5hzHCWDJOPO3vi2Xch) | 2:50 | 2023-01-20 |  |
+| [¿Qué Le Pasó Al Niño?](https://open.spotify.com/track/37R5l0oHzlaqTqMgNTL5VR) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [¿Qué Le Pasó Al Niño?](https://open.spotify.com/album/5jVd5hzHCWDJOPO3vi2Xch) | 2:50 | 2023-01-20 | 2023-08-04 |
 
 \*This playlist was first scraped on 2022-07-04. Prior content cannot be recovered.

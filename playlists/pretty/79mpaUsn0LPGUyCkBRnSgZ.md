@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 230 songs - 14 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 231 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -238,5 +238,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 228 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 |
 | 229 | [Start Together](https://open.spotify.com/track/4SNT00TXXyb3WqzpW1YyEu) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 2:38 |
 | 230 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 |
+| 231 | [Down to the Waterline](https://open.spotify.com/track/0NnuQYRXNIzncgftfbTV3P) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:02 |
 
-Snapshot ID: `OTYyLGE0MWNmNWFiYjg5NDdkNjg4OGI1ZGNlZGY5ZWE0MDM3YjQzMTdiYWI=`
+Snapshot ID: `OTYzLGU5YzE5MjdjNTJhNzEwZDM1NjE5YzVjZGQwMTZmMGVlYTYyMmJjYzM=`

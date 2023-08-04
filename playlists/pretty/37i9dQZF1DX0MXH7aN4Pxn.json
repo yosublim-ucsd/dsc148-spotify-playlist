@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689279,
+  "num_followers": 689289,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjYyOWRhMjJlZjVjMjNlZmViOGZmMDdjMzEwMjM2ODhlZTlmMDY3",
+  "snapshot_id": "MCwzN2FmODAwOTZjY2IxMjRkMDlhNjU1ODQ5YzNkOTQxZWJkOGI3Yzgw",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        }
+      ],
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Out Of Nowhere",
         "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 171000,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 169910,
       "name": "Bad",
       "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1255,30 +1255,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Flowers (feat. Jaykae and MALIKA)",
-        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Jaykae",
-          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Flowers (feat. Jaykae and MALIKA)",
-      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Just Feels Tight",
         "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 116554,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Flowers (feat. Jaykae and MALIKA)",
+        "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Jaykae",
+          "url": "https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Flowers (feat. Jaykae and MALIKA)",
+      "url": "https://open.spotify.com/track/5aYWnrsYvJk8NT7PmUcxVN"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Hipcats",
-        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "Hipcats",
-      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Madan",
         "url": "https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 175612,
       "name": "Madan",
       "url": "https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Hipcats",
+        "url": "https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "Hipcats",
+      "url": "https://open.spotify.com/track/38HvJkH21S2bRciZHohv68"
     },
     {
       "added_at": "2022-12-31 15:51:36",

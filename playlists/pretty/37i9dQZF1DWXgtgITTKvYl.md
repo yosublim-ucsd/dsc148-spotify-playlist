@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,676 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,728 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 49 | [Follow The Fool](https://open.spotify.com/track/1M7oaMe4qLxXtuY8wlbcso) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Follow The Fool](https://open.spotify.com/album/1RdlpTc1kCOCr0mHfTdXu1) | 3:45 |
 | 50 | [Eyes](https://open.spotify.com/track/4aiHWfoe3Z3dwIvR7uNAGo) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 4:52 |
 | 51 | [Portrait](https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4) | [Portrait](https://open.spotify.com/album/28dDtNxyObSHx2v0fP3SnO) | 4:03 |
-| 52 | [Zeus in Chains](https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Zeus In Chains](https://open.spotify.com/album/0g71E3gzdQsWuO7wT3Z2dt) | 4:38 |
+| 52 | [Zeus in Chains](https://open.spotify.com/track/65eO1v5FQKMXWJMD4BLti5) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Inviolate](https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold) | 4:38 |
 | 53 | [Deep Waters](https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Deep Waters](https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ) | 3:29 |
 | 54 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 |
 | 55 | [Revel in Time](https://open.spotify.com/track/2CmQeA8YUtZDMp2tUsuqj1) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel in Time](https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk) | 4:37 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MCxjZDQ4NjhhNmMwZDAzYzFhYzUxZjI2MmQ3MmNjNWJjZDUxOTkxNTQ5`
+Snapshot ID: `MCxmMzY2YzZlNjhjYmQ4MDAzMmFiMDJlZDQyZTAwMGFhOGJhMWFkMTU5`

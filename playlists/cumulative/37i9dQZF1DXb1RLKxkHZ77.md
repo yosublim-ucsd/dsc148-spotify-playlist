@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Danial Kifli
 
-263 songs - 16 hr 32 min
+264 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,8 @@
 | [Tiba\-Tiba](https://open.spotify.com/track/17otQjCe9dkxA0mO2V9t2V) | [Quinn Salman](https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP) | [Tiba\-Tiba](https://open.spotify.com/album/6ko5b6vi9jZqTQXqkAXWOE) | 3:34 | 2022-09-28 | 2022-12-22 |
 | [TIME BOMB](https://open.spotify.com/track/4QbT2s3ugGXHd9RiGBGrwJ) | [Isaac Voo](https://open.spotify.com/artist/2RbnX7Zq1aPx7SIglk1Nxr) | [TIME BOMB](https://open.spotify.com/album/6zGzL01WmWa517dcmDQOGB) | 3:49 | 2022-08-10 | 2022-09-01 |
 | [Top Boi](https://open.spotify.com/track/49dHs04lUC9EmyhuXRFaJQ) | [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [Top Boi](https://open.spotify.com/album/7hEtiUHiYMmtpH8qESglmT) | 3:44 | 2022-05-25 | 2022-07-22 |
-| [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-06-07 |  |
+| [Trauma](https://open.spotify.com/track/6bOW2X3ffFoOpMfDoz91Q6) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma](https://open.spotify.com/album/6X4KUt8RZEuJnlXXX04JC9) | 3:38 | 2023-06-07 | 2023-08-04 |
+| [Trauma \(feat\. Aan Story\)](https://open.spotify.com/track/5mS6XpcsLnKxXrdvw4uzBk) | [Elsya](https://open.spotify.com/artist/4M207MF4iyxBGBXzx5HL3p), [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk) | [Trauma \(feat\. Aan Story\)](https://open.spotify.com/album/42zqQhzRx05UFLDVY5XOvE) | 3:38 | 2023-08-02 |  |
 | [Tulus](https://open.spotify.com/track/3IXfUTUTICN5nvlTtrbf4C) | [Adi Priyo](https://open.spotify.com/artist/6en0fgNdzRrJ22yM7Hl1zi), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Tulus](https://open.spotify.com/album/5zmZM7kyMQZwr6Gs4PSUMU) | 4:17 | 2023-04-05 | 2023-05-11 |
 | [Tunggu](https://open.spotify.com/track/7KHeoaLSpzMC0nHm1NFoI5) | [Elizabeth Tan](https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH) | [Tunggu](https://open.spotify.com/album/67L1sbtLvcyQ1zhqfDF3OC) | 2:54 | 2023-01-11 | 2023-03-02 |
 | [Ular](https://open.spotify.com/track/6SO0RhoIxu1vj7JZiZJdWE) | [Drama Band](https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR), [Sekumpulan Orang Gila](https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv) | [Ular](https://open.spotify.com/album/64HfSeQZfdTGVqM3nCxnZW) | 3:24 | 2022-10-27 | 2022-11-25 |

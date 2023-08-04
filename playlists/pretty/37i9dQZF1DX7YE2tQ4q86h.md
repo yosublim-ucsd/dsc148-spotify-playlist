@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,730 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,100 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 20 | [Space](https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Space](https://open.spotify.com/album/6BpecWwKN8nyJ3ke2YHZti) | 2:48 |
 | 21 | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Man I Am \(From Barbie The Album\)](https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh) | 3:07 |
 | 22 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 |
-| 23 | [Hot One](https://open.spotify.com/track/1HGYijnaimWpxBkxwNOQko) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/6mdumRNcYvRzSX8T8im1VZ) | 1:50 |
+| 23 | [Hot One](https://open.spotify.com/track/6FWWJsGO4CuQY3vWtOlBys) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Hot One](https://open.spotify.com/album/2A4cjpxbVEXHpvWPIjhJZb) | 1:50 |
 | 24 | [Elevation](https://open.spotify.com/track/6jgK2LT39KCezzBPUo45K2) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Elevation](https://open.spotify.com/album/6TEZ26b4VinBQTnkb2vuJ0) | 2:44 |
 | 25 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 |
 | 26 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [Hypnotized](https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [Hypnotized](https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U) | 3:02 |
 | 100 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 |
 
-Snapshot ID: `MCw4MjYyZTE1ODQwNDk2Zjg0ZTQ3MDI3OTZiNDkzNjc2MDE0YTBlZWQy`
+Snapshot ID: `MCw2NTEyZWYwMzJmMWFhMGIwYmY0OThhYjlkMjU1NDdjYmNhYWJjOTI0`

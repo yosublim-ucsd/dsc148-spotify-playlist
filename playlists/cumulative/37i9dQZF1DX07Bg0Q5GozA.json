@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: James Blake",
+  "description": "New music off the beaten track. Cover: Jaako Eino Kalevi",
   "name": "OFF POP",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 176340,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr"
@@ -816,6 +816,24 @@
       "duration_ms": 241053,
       "name": "Big Love - Eat Me Edit",
       "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
+    },
+    {
+      "album": {
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
       "album": {
@@ -1208,7 +1226,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
@@ -1474,6 +1492,24 @@
       "duration_ms": 220539,
       "name": "Dancing By Night",
       "url": "https://open.spotify.com/track/1NqpeHsy3Q5E5yM0dntvBa"
+    },
+    {
+      "album": {
+        "name": "Day Dreams",
+        "url": "https://open.spotify.com/album/2bb8gN0xF2BGAGrolED9zU"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225120,
+      "name": "Day Dreams",
+      "url": "https://open.spotify.com/track/03DGwbY8WataLlPkklkXKL"
     },
     {
       "album": {
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 227000,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/6tsnbyNrSbdxa96kM6F84i"
@@ -3441,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "I Forget",
+        "url": "https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248119,
+      "name": "I Forget",
+      "url": "https://open.spotify.com/track/3bjnUJccfgU23pL35NdFZs"
+    },
+    {
+      "album": {
         "name": "I Know, I Know",
         "url": "https://open.spotify.com/album/0UETdQXKfEJtzQoiiXV7Kz"
       },
@@ -3858,7 +3912,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 204899,
       "name": "Just The Once",
       "url": "https://open.spotify.com/track/1r6wNQnDUbhqXawf0s2Mlz"
@@ -4180,7 +4234,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 190080,
       "name": "Let's Break It Down",
       "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
@@ -4332,7 +4386,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 250573,
       "name": "Live And Learn",
       "url": "https://open.spotify.com/track/7ytT722LSvYw3GNdJOAcVu"
@@ -6579,6 +6633,42 @@
     },
     {
       "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/0d8gBiY0neOTYJmbd8Muw6"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/6zNm2BIV6gbsRRG0jwQA2d"
+    },
+    {
+      "album": {
+        "name": "Start Again",
+        "url": "https://open.spotify.com/album/2n5GoOI0mkA8zavtQ32xU3"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5A5bwcDikT756mRVs9gVCw"
+    },
+    {
+      "album": {
         "name": "Xtra",
         "url": "https://open.spotify.com/album/4Moj5LDMB4UGaWVo51y1RH"
       },
@@ -6956,6 +7046,24 @@
       "duration_ms": 251803,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6VkEyJbgKPyXtweiYsEPcj"
+    },
+    {
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/3vAzZOMM1BvxtVfKjyQI78"
+      },
+      "artists": [
+        {
+          "name": "Girl Ray",
+          "url": "https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7MCaMjjCH3TulSw4hIG3xx"
     },
     {
       "album": {

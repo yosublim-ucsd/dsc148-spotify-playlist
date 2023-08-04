@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-222 songs - 11 hr 39 min
+223 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:31 | 2023-04-19 |  |
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
 | [Drunk Arjan](https://open.spotify.com/track/71rQJuk3u0Hqjsx4Hunnjo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:16 | 2022-10-17 | 2022-11-16 |
+| [Dunia](https://open.spotify.com/track/191UibAfAOKYeA8vKv7MI9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:05 | 2023-08-03 |  |
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2022-08-22 |  |
 | [ELEVATED](https://open.spotify.com/track/6btas8Eignhw8yKp4VJvGi) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [ELEVATED](https://open.spotify.com/album/7tK9pQYQGTEduNW5i6V24t) | 3:20 | 2022-05-29 | 2022-09-03 |
 | [Everybody Hurts](https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:53 | 2022-06-01 |  |
@@ -160,7 +161,7 @@
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2022-05-29 | 2022-12-11 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2022-12-21 |  |
 | [Plug Talk](https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Plug Talk](https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7) | 2:42 | 2022-08-17 | 2022-09-17 |
-| [Psycho](https://open.spotify.com/track/4xMC6iIBZRWhNcbo4s16xK) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Pleasures](https://open.spotify.com/album/0JLiQngguKQOq3tntZn1xg) | 2:42 | 2023-07-05 |  |
+| [Psycho](https://open.spotify.com/track/4xMC6iIBZRWhNcbo4s16xK) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Pleasures](https://open.spotify.com/album/0JLiQngguKQOq3tntZn1xg) | 2:42 | 2023-07-05 | 2023-08-04 |
 | [Putt Sardara De](https://open.spotify.com/track/4E0ytkzNm1H6HCtMhroi8c) | [Davvy](https://open.spotify.com/artist/1vGOnQzBvNbdaaYBYzsU3z) | [Putt Sardara De](https://open.spotify.com/album/3Nil2VHLzpRrQ1HtInBsYi) | 2:13 | 2022-12-10 | 2022-12-22 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-04-04 |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2022-05-29 | 2022-11-19 |

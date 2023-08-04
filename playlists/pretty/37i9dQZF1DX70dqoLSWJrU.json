@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 61443,
+  "num_followers": 61532,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzNjZThiMWNkMWRlYTM0NmNkZmNhMWYxMGY3MDEyZTFkMWVmNWFl",
+  "snapshot_id": "MCwxOGVkMGFmNzJjM2QyNjNmMGU3MzRmODQ4NjA5NTgyYTliNDdjMDY2",
   "tracks": [
     {
       "added_at": "2023-06-21 13:25:39",
@@ -795,26 +795,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "April Fooled Me",
-        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 231400,
-      "name": "April Fooled Me",
-      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "I'll Be Seeing You",
         "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 404066,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/4IyuCMvAXWnalmM3ItK6OR"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "April Fooled Me",
+        "url": "https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "April Fooled Me",
+      "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "This Dream Of You",
         "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 287973,
       "name": "There's No You",
       "url": "https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/3rnxTrbJ23PQ0g4NNVadru"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "All For You (A Dedication To The Nat King Cole Trio)",
+        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "More Than You Know",
         "url": "https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 293700,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/78GkbIgSD0VI7ZV7bnBe5I"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Swingin' Easy",
-        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "If I Knew Then (What I Know Now)",
-      "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "All For You (A Dedication To The Nat King Cole Trio)",
-        "url": "https://open.spotify.com/album/2LYiJRZef5U6fmTH7hfsAg"
+        "name": "Swingin' Easy",
+        "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
         }
       ],
-      "duration_ms": 297173,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/6nNE5beP6eFlJi5IibOcQw"
+      "duration_ms": 153666,
+      "name": "If I Knew Then (What I Know Now)",
+      "url": "https://open.spotify.com/track/539rmOeWpAiY5qaula9NM9"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 211906,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/7cI4QJoyEMkjAfKrCptpMA"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
         "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
@@ -1335,22 +1319,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "It's All Over But The Swingin'",
-        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
-      },
-      "artists": [
-        {
-          "name": "Sammy Davis Jr.",
-          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
-        }
-      ],
-      "duration_ms": 280093,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Somewhere over the Rainbow",
         "url": "https://open.spotify.com/album/05c5UntOmZQ3DDX6R8PgHy"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 193813,
       "name": "Say It Isn't So",
       "url": "https://open.spotify.com/track/5LYRWSdYjVaUQUUBMNPD3e"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "It's All Over But The Swingin'",
+        "url": "https://open.spotify.com/album/02sL6dbfGEDaboX9PA5eyP"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
       },
@@ -1483,26 +1503,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Swedish Sensation",
         "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Roulette Sessions In Love",
+        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Somebody Else Is Taking My Place",
+      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 183986,
       "name": "There's No Such Thing As Love",
       "url": "https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Roulette Sessions In Love",
-        "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Somebody Else Is Taking My Place",
-      "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
     },
     {
       "added_at": "2023-06-21 13:25:39",

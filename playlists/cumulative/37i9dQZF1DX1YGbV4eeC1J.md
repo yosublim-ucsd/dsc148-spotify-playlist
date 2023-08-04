@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Marioo & Alikiba
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
 
-99 songs - 5 hr 42 min
+100 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Chombo](https://open.spotify.com/track/5iyiGl2swMh2Hoo3WtjMof) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Endless Love EP](https://open.spotify.com/album/293vnq26EV2uVbehBuavxk) | 3:24 | 2022-08-11 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/4tcINUMLwOk74IJqeoTv8W) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Closer](https://open.spotify.com/album/0w6C76lbJGFdiKQlwfYNPm) | 3:18 | 2022-08-18 | 2023-05-05 |
 | [Controller](https://open.spotify.com/track/4Bpkbim8Fxw8dSdqVFgzbX) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Controller](https://open.spotify.com/album/07kcDlbjoCj3aFEw63CDA2) | 3:05 | 2022-08-11 | 2022-12-17 |
-| [Dai](https://open.spotify.com/track/7kfS56uoLEzF0ZZGqCLO5h) | [Dufla](https://open.spotify.com/artist/4GoDK9fd6jIRjetgGZnmnC), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Dai](https://open.spotify.com/album/6z1HBn8vf6Nm9GU8KkT673) | 3:33 | 2023-07-06 |  |
+| [Dai](https://open.spotify.com/track/7kfS56uoLEzF0ZZGqCLO5h) | [Dufla](https://open.spotify.com/artist/4GoDK9fd6jIRjetgGZnmnC), [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn) | [Dai](https://open.spotify.com/album/6z1HBn8vf6Nm9GU8KkT673) | 3:33 | 2023-07-06 | 2023-08-04 |
 | [Dawa](https://open.spotify.com/track/6FIJbcrsBRPJ6aMD0pK6Gc) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr) | [Love & Vibes](https://open.spotify.com/album/1kHwfAtBDOcE1cWChXeGNa) | 3:15 | 2023-06-02 |  |
 | [Dusuma](https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1) | 3:33 | 2022-05-26 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-07-15 | 2023-01-13 |
@@ -102,6 +102,7 @@
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 | 2023-01-27 |
 | [Umeme](https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Umeme](https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI) | 3:48 | 2023-01-12 |  |
 | [Umenipata](https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Umenipata](https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi) | 2:58 | 2023-07-20 |  |
+| [Umeniweza](https://open.spotify.com/track/6tPnKaaMMBzCZaiGGflRmR) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Above & Beyond](https://open.spotify.com/album/3ggNsXYLqKEx7Chc0Gl2BM) | 3:44 | 2023-08-03 |  |
 | [Unanifaa](https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD) | [Taffa](https://open.spotify.com/artist/44lGZ9vJnHuATkGDWNB9vq) | [Unanifaa](https://open.spotify.com/album/1nTkTNj7XrcLcrGxkos0OG) | 3:16 | 2022-06-30 | 2023-03-03 |
 | [Unavyonipenda](https://open.spotify.com/track/6eAfkVy819EFu8xOdcwkFR) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Unavyonipenda](https://open.spotify.com/album/7y3gLS4YLeD5i9NhdTxvD6) | 3:44 | 2022-05-26 | 2022-09-30 |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 |  |

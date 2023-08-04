@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Sevendust
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,831 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,042 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Terminal](https://open.spotify.com/track/4Z9tWNJocirwz6btdF5Ocq) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Terminal](https://open.spotify.com/album/3f0WYqDiUWm4thElxyEoLG) | 3:40 |
 | 150 | [Bad Dog](https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Bad Dog](https://open.spotify.com/album/6a8l6w5G7T8xHJeJT7hRo7) | 3:29 |
 
-Snapshot ID: `MCxmNzM3NmJmNjJmMzZjOTdjYzE0OTgwZGU0NDVkYmFmNjQ0NTc0YTlk`
+Snapshot ID: `MCw1OWE2MDE1MTE1NzZiMmUwMDA1ZDIxNDUyODllMWFiNDU2NDg4ZThk`

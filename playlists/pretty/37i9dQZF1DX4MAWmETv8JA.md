@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Henrique Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,298 likes - 65 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,340 likes - 65 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 24 | [Pólvora](https://open.spotify.com/track/3gIMWNKpWj4d8aTeA6xUoT) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Acelero](https://open.spotify.com/album/1HYeTdgTn7FhtrAvJgVsCc) | 4:12 |
 | 25 | [Synapses in Amsterdam](https://open.spotify.com/track/1ZnHUp5jiWFkkN5u26UlmG) | [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [Synapses in Amsterdam](https://open.spotify.com/album/6iwNOZtaXqpD1qxlAJQpub) | 6:44 |
 | 26 | [Issues](https://open.spotify.com/track/4AE5YnXiGC6Hh5Tfk7HgtR) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Kurtt](https://open.spotify.com/artist/7JHmRze9V18uFjvrCktqxK) | [Issues](https://open.spotify.com/album/2JSkRQLNecYwolOHk24Y4A) | 4:45 |
-| 27 | [Afrodelia \- Original Mix](https://open.spotify.com/track/464B0BHg19O9onCyloJsHg) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/2AKkgypQBa3JcFQEa4zJPv) | 8:19 |
+| 27 | [Afrodelia](https://open.spotify.com/track/7HXiibRLYnLmQeXZtzFKav) | [Diksha](https://open.spotify.com/artist/4UyZSm3hzv2Nt5hIGC44g2) | [Afrodelia](https://open.spotify.com/album/26VDoPXvmyr9Utq03BCP6u) | 8:15 |
 | 28 | [Ancient Fire](https://open.spotify.com/track/56fs6pRDSSWGdFgrmdGuhG) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Jesse Fox](https://open.spotify.com/artist/6KouCOw06pAsnWPfbaf3p5) | [Ancient Fire](https://open.spotify.com/album/3OjFlJ7GFvadwhNQ6pfGDF) | 5:35 |
 | 29 | [Out There](https://open.spotify.com/track/0kh3tTHz3K7iop1tV4RRwI) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [Out There](https://open.spotify.com/album/0D4Bdip4BhTnmOB9Cd19Cs) | 6:05 |
 | 30 | [Galática](https://open.spotify.com/track/1FTnb2i88kwHAua4wP31I9) | [Vermont \(BR\)](https://open.spotify.com/artist/7aS93G9e7XG0GCUATQjqv0), [PIRAMD](https://open.spotify.com/artist/4ecOJ792RmcIiw2eJXPGAS) | [Galática](https://open.spotify.com/album/0wRct4idjnrcl03EZxSbc9) | 5:42 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MAWmETv8JA.md) - [plain]
 | 64 | [Focus](https://open.spotify.com/track/7gNgqRZaXarUWWirped72i) | [Telepatic](https://open.spotify.com/artist/5sEhJmaZzJgVskCBaOTgIa) | [Focus](https://open.spotify.com/album/4Bv7WZLfpA7pv11QaMBUnN) | 7:08 |
 | 65 | [DMT](https://open.spotify.com/track/6NHRWtAQTtCELvv3h0pGYq) | [Becker](https://open.spotify.com/artist/3WTaU5om1axaFsKlKchl2U), [Labirinto](https://open.spotify.com/artist/4ISuKZJYpsbU6JPD3vq0p1) | [DMT](https://open.spotify.com/album/2mIZCsIe92lDHxDC7BCxo5) | 7:30 |
 
-Snapshot ID: `MCw1OWEwMjk1MDllZjRmNDdlODZkMjVmZDZlODhjMDU4N2RiMWRiNDQ1`
+Snapshot ID: `MCw2OGRmZGIxMGJlMzE4NmZiOGFjMDIyZTYwYzEzMjgyZTA5NjJmMjEz`

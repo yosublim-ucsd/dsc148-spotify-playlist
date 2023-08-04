@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Ati242
 
-163 songs - 7 hr 2 min
+164 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [HANIMEFENDİ](https://open.spotify.com/track/7Ikg74SQrxu5DMpEEbestg) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 2:15 | 2023-06-15 |  |
 | [HANÇER](https://open.spotify.com/track/1HtUpVQAOS8fWcWRYHaCXV) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [HANÇER](https://open.spotify.com/album/5RW7KSlHEC9w1qTTUWadtq) | 2:23 | 2023-03-23 | 2023-04-07 |
 | [HAYIR](https://open.spotify.com/track/2V4rAqDOrVzthQXJ0PpoNW) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc) | [HAYIR](https://open.spotify.com/album/2hWeZlMbzNGdSAZo33Pahi) | 2:21 | 2023-01-26 | 2023-04-10 |
-| [HAYRAN KALICAN](https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAYRAN KALICAN](https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk) | 1:37 | 2023-04-20 |  |
+| [HAYRAN KALICAN](https://open.spotify.com/track/3ctKyKjBeJNtqqGaFNoJX8) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAYRAN KALICAN](https://open.spotify.com/album/2TFRTagsgrcP5FVOoFvhVk) | 1:37 | 2023-04-20 | 2023-08-04 |
 | [hep bir şeyler eksik](https://open.spotify.com/track/5LADOmbui5XFOpCk9n67RE) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [hep bir şeyler eksik](https://open.spotify.com/album/237jXHICSyd66ncjz3LIZ8) | 3:15 | 2023-07-20 |  |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 |  |
 | [IMPARATOR](https://open.spotify.com/track/5LOnarDCzVh4YcN7EOTzRC) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [IMPARATOR](https://open.spotify.com/album/4jnO704ysYulzHEMiY4AIy) | 2:09 | 2023-07-06 | 2023-07-28 |
@@ -114,6 +114,7 @@
 | [NKBİ](https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/1cMvvPcywFlOGLlAzSbYDz) | 2:57 | 2023-01-10 | 2023-06-23 |
 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 | 2023-01-10 |  |
 | [O Yeterdi Aslında](https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [O Yeterdi Aslında](https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF) | 3:07 | 2023-02-02 |  |
+| [Of Aman](https://open.spotify.com/track/47tPBTEZNCy6YEP0tn3tPi) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Of Aman](https://open.spotify.com/album/4uFmbRXLHZcsPanWVZFiBu) | 3:10 | 2023-08-03 |  |
 | [OLEY](https://open.spotify.com/track/7GJ0QYWfAdnJkgMShTRodn) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [OLEY](https://open.spotify.com/album/1DfTQGVNsHhPZ4a7QshWy9) | 2:19 | 2023-07-06 | 2023-07-21 |
 | [olsun](https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [olsun](https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej) | 2:04 | 2023-01-10 | 2023-05-05 |
 | [Olur Mu](https://open.spotify.com/track/45dj2Fx0LiZgSuXGnyLDRG) | [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2), [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Olur Mu](https://open.spotify.com/album/5cRthf9NEB9hzVdlZ0mtvm) | 3:29 | 2023-01-10 | 2023-03-10 |

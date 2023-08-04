@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 183636,
       "name": "Dil Teri Raah",
       "url": "https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm"
@@ -1684,6 +1684,24 @@
       "duration_ms": 230649,
       "name": "Teri Yaad",
       "url": "https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9"
+    },
+    {
+      "album": {
+        "name": "Tinka",
+        "url": "https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Tinka",
+      "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
     },
     {
       "album": {

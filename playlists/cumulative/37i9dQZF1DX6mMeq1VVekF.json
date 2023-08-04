@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: Zino Vinci",
+  "description": "No tags, no labels - just free form. Cover: KhakiKid",
   "name": "Free Form",
   "tracks": [
     {
@@ -2979,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "sand beb\u00e9",
+        "url": "https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176473,
+      "name": "maradona",
+      "url": "https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ"
+    },
+    {
+      "album": {
         "name": "Sounds of My World",
         "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
       },
@@ -3768,7 +3790,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 135450,
       "name": "Often",
       "url": "https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU"

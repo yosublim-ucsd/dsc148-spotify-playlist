@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Elle Coves
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,126 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,243 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [different but exactly like you](https://open.spotify.com/track/7IbkNoUqOuOSUeSqqxm56f) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [idk if this is it](https://open.spotify.com/album/6pCfsQZiAiWXx9zMctgxyj) | 3:47 |
 | 100 | [Melancholia High Season](https://open.spotify.com/track/5MM3IVs8N9edrTOTs7Ug60) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Melancholia High Season](https://open.spotify.com/album/13aLxThHnCfi8aEyFsNuh2) | 3:03 |
 
-Snapshot ID: `MCw0NmYzZmJlMGFmNGJlOWFlM2I2MzVhNWJkOGQ3YzgyYTY1ZmYxNWI1`
+Snapshot ID: `MCw3NzIwM2VmMGNlNjllODNlNDFjMTU5NzNhMjM4MzFjM2E4N2VkYzBh`

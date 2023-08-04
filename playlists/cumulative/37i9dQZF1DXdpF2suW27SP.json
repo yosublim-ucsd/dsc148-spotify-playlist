@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Van Zee entra na zona. ",
+  "description": "LON3R JOHNY e Plutonio entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -322,7 +322,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 197000,
       "name": "Aguarela",
       "url": "https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 228000,
       "name": "ANTI-ANTES",
       "url": "https://open.spotify.com/track/2vGtivisPxm14aTTgie6xB"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 176727,
       "name": "Apaga o Meu N\u00famero",
       "url": "https://open.spotify.com/track/2iYx9hAUSD5wz7cg5TVIbx"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 205000,
       "name": "Arrepios",
       "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 247200,
       "name": "Conto Bafiento",
       "url": "https://open.spotify.com/track/6oPbtUaYxVvQaRDwm61Sg8"
@@ -3047,6 +3047,28 @@
     },
     {
       "album": {
+        "name": "Habilidosa",
+        "url": "https://open.spotify.com/album/3OZ07lzQ352wTsJvnccElA"
+      },
+      "artists": [
+        {
+          "name": "Altifridi",
+          "url": "https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157059,
+      "name": "Habilidosa",
+      "url": "https://open.spotify.com/track/6UopYtiItZd9VWAKSaX8pF"
+    },
+    {
+      "album": {
         "name": "HALLYWUD",
         "url": "https://open.spotify.com/album/3lAS3tiXJyjOkyDYXCd5YS"
       },
@@ -3281,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Jura",
+        "url": "https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172300,
+      "name": "Jura",
+      "url": "https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8"
+    },
+    {
+      "album": {
         "name": "Juvena",
         "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
       },
@@ -3386,6 +3426,28 @@
       "duration_ms": 130666,
       "name": "Lado A Lado",
       "url": "https://open.spotify.com/track/36Hc6xUmjU1GBGlToS52tm"
+    },
+    {
+      "album": {
+        "name": "LEALDADE",
+        "url": "https://open.spotify.com/album/3ESeQ7G0QSjlrEWDUL3zPF"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/4VepL2VrfR6preU9a5MCsG"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "LEALDADE",
+      "url": "https://open.spotify.com/track/6Oe8f1lXxTF5wJ7c3AqDa1"
     },
     {
       "album": {
@@ -4991,6 +5053,28 @@
     },
     {
       "album": {
+        "name": "PI\u00d1A COLADA",
+        "url": "https://open.spotify.com/album/6q6fbeSpRFPvhC4hPEfJQ9"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        },
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "PI\u00d1A COLADA",
+      "url": "https://open.spotify.com/track/4r4PT8ztky9NfGINelXcxM"
+    },
+    {
+      "album": {
         "name": "Placas",
         "url": "https://open.spotify.com/album/0pTCFWtiniY7Mi4nQpFVvn"
       },
@@ -5100,7 +5184,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 174545,
       "name": "Povo",
       "url": "https://open.spotify.com/track/1QuMSpSKb8TddULszTHRDH"
@@ -5413,6 +5497,28 @@
     },
     {
       "album": {
+        "name": "ROCKSTAR LIFE",
+        "url": "https://open.spotify.com/album/5n5adLvzjFcSxTgNvCxVy0"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Apollo G",
+          "url": "https://open.spotify.com/artist/4spmzPX02Jg0rnuyIWFngi"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "ROCKSTAR LIFE",
+      "url": "https://open.spotify.com/track/4QAUKQbdBORbmpivFQtbRC"
+    },
+    {
+      "album": {
         "name": "Vida Rockstar",
         "url": "https://open.spotify.com/album/47PidTvTpM253ecxT58EF3"
       },
@@ -5623,6 +5729,24 @@
     },
     {
       "album": {
+        "name": "Senta",
+        "url": "https://open.spotify.com/album/1BLpB1sXHsOk8YkoJy9FRy"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142800,
+      "name": "Senta",
+      "url": "https://open.spotify.com/track/1BMCRtyxpM7LEbEsI7QWMc"
+    },
+    {
+      "album": {
         "name": "Senti Tanto",
         "url": "https://open.spotify.com/album/0SexRbV9z4iuJJeoDmTJp3"
       },
@@ -5814,6 +5938,32 @@
       "duration_ms": 180674,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/3cxAhKg83buLsTYlmSIi9x"
+    },
+    {
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4AIbDc2dSwBuS2FWefT7CK"
+      },
+      "artists": [
+        {
+          "name": "L-ALI",
+          "url": "https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy"
+        },
+        {
+          "name": "Lunn",
+          "url": "https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW"
+        },
+        {
+          "name": "benji price",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219611,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5JXo6j3iwoU7O7LzYNkXl5"
     },
     {
       "album": {
@@ -6590,7 +6740,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 135145,
       "name": "Viana Gaia",
       "url": "https://open.spotify.com/track/6CrtvGDQ0Nww9AfX2RR8fN"

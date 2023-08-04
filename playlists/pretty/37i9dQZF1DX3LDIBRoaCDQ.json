@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1521276,
+  "num_followers": 1521588,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWIxZGM3NmE4MjFiYWM3ZGYwNTYwYTYwNGFkNjI1ZmYwMjNhNjAy",
+  "snapshot_id": "MCw1MzgxMGQwYTY2MjUzMjc2M2I2ZjYyYzdlZTk4Y2IwNTllM2VlMTBi",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Runaways",
-        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
-      },
-      "artists": [
-        {
-          "name": "The Runaways",
-          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "Cherry Bomb",
-      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Unknown Pleasures (Collector's Edition)",
         "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 209039,
       "name": "Disorder - 2007 Remaster",
       "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Double Nickels on the Dime",
-        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
-      },
-      "artists": [
-        {
-          "name": "Minutemen",
-          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Corona",
-      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Candy Apple Grey",
         "url": "https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 210866,
       "name": "Don't Want to Know If You Are Lonely",
       "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Double Nickels on the Dime",
+        "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
+      },
+      "artists": [
+        {
+          "name": "Minutemen",
+          "url": "https://open.spotify.com/artist/0z6zRFzl5njXWLVAisXQBz"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Corona",
+      "url": "https://open.spotify.com/track/2LUVo82IKIpCuBNSaqF0G8"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Bad Brains",
-        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
-      },
-      "artists": [
-        {
-          "name": "Bad Brains",
-          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
-        }
-      ],
-      "duration_ms": 115040,
-      "name": "Sailin' On",
-      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Bad Brains",
+        "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "duration_ms": 115040,
+      "name": "Sailin' On",
+      "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Double Nickels on the Dime",
         "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 89666,
       "name": "Viet Nam",
       "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Marquee Moon",
-        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
-      },
-      "artists": [
-        {
-          "name": "Television",
-          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+        "name": "Marquee Moon",
+        "url": "https://open.spotify.com/album/630o1rKTDsLeIPreOY1jqP"
       },
       "artists": [
         {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+          "name": "Television",
+          "url": "https://open.spotify.com/artist/0S7Zur2g8YhqlzqtlYStli"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+      "duration_ms": 232960,
+      "name": "See No Evil",
+      "url": "https://open.spotify.com/track/2OaXmeYBJ0hcTmS3kxjJOx"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
         }
       ],
-      "duration_ms": 130826,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
+      "duration_ms": 167400,
+      "name": "All This and More",
+      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
         }
       ],
-      "duration_ms": 167400,
-      "name": "All This and More",
-      "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
+      "duration_ms": 130826,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/5Dl4cYpJHsmaMUlgTTViY6"
     }
   ],
   "unique_name": "Classic Punk",

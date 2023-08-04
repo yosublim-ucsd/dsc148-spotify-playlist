@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc?si=e66ef0f1ae57475f">KB</a>, <a href="https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL?si=346078290dcf4eb9">Niko Eme</a>, and <a href="https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG?si=a075aec763784561">Cardec Drums</a>
 
-4,076 songs - 11 day 9 hr 19 min
+4,077 songs - 11 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1933,7 +1933,8 @@
 | [Keep it To Myself](https://open.spotify.com/track/1igORpjnhIfzd8w9XX0Zxt) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Keep it To Myself](https://open.spotify.com/album/1wcravxON0Ag9e3lset1gQ) | 2:58 | 2023-03-24 | 2023-04-01 |
 | [Keep It Tucked](https://open.spotify.com/track/5WdF9KjUHtDRxvFKVKb2ay) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Keep It Tucked](https://open.spotify.com/album/6gKltvd9qQSwHuMdHuzDcM) | 2:39 | 2022-08-12 | 2022-08-27 |
 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 | 2023-03-17 | 2023-03-25 |
-| [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 | 2023-07-28 |  |
+| [Keep me](https://open.spotify.com/track/485pfExoalKd8eHKsQjMxI) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/2NE6OOUjecWcCvy8kPo37h) | 4:08 | 2023-07-28 | 2023-08-04 |
+| [Keep me](https://open.spotify.com/track/6VNixtccaXI23rKht6kQQg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa), [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Keep me](https://open.spotify.com/album/5RM33r3cYmWgSZCxwIyT0G) | 4:08 | 2023-07-28 |  |
 | [Keep My Eyes Up](https://open.spotify.com/track/1K79lWG1jzrZh4AY7uelBV) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [How To Start A Housefire](https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd) | 7:26 | 2023-01-27 | 2023-02-11 |
 | [Keep On Proving It \- Live](https://open.spotify.com/track/1YjQcIfdUki3GZemDcgqgW) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW), [Taku Mudere](https://open.spotify.com/artist/0vwGmATjvSL1WFEFBOxBxP) | [Keep On Proving It \(Live\)](https://open.spotify.com/album/4eMHvwwGtOo11ZkwEMu8ce) | 5:05 | 2022-03-04 | 2022-03-18 |
 | [Keep On Proving It \- Live](https://open.spotify.com/track/1QGhIp0Ggtntz0CRiZWtXA) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW), [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [Keep On Proving It \(Live\)](https://open.spotify.com/album/0l0j67YVD7EEaWkK41By0v) | 4:09 | 2022-12-09 | 2023-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > carving their own lane\. Cover: Jesse Mac Cormack, Gabrielle Shonk
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,223 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,233 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 24 | [Ring Ring](https://open.spotify.com/track/32BXY1XXmu2BGd7BC4b7ea) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Ring Ring](https://open.spotify.com/album/4T4lGbimAUcj50Zr7kSZ7h) | 2:43 |
 | 25 | [HHB](https://open.spotify.com/track/4WU87vmQbci92qkqtE4YGm) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [HHB](https://open.spotify.com/album/6PBP9Bdk8OG1CB43RD0NSy) | 3:12 |
 | 26 | [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 |
-| 27 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:16 |
+| 27 | [Soft Like a Flower](https://open.spotify.com/track/5vEiUEO3lxs9hTQkdOxflj) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Soft Like a Flower](https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV) | 3:18 |
 | 28 | [03:17](https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [03:17](https://open.spotify.com/album/6ewtnYBzfxTjxM7R5fL2qx) | 3:16 |
 | 29 | [Ride Or Die](https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Ride Or Die](https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP) | 3:04 |
 | 30 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Phantom](https://open.spotify.com/track/4xfk99hBLqPwiTvY7BnSyH) | [Pacoussa](https://open.spotify.com/artist/65qRZyXgZqOtnGIW4WRGtL), [Dozie](https://open.spotify.com/artist/0BO6alk4Yiy0la7D5o4mcf) | [Phantom](https://open.spotify.com/album/6bYa0DYAxFWjG26ZOp4rDE) | 2:30 |
 | 100 | [Shibari](https://open.spotify.com/track/7sx0yE5ZDoQlJhDx6uwii1) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Shibari](https://open.spotify.com/album/3KmBCZN13tpwXxT6QJKgvf) | 2:31 |
 
-Snapshot ID: `MCw4MDBiZGFlMzZhYmE2MDgxMjVhYmUxYjU0NzlhYzJhM2NmODFhNGE1`
+Snapshot ID: `MCwxMDcyYzRjYTJlN2QwNDE2NmUzNjZkNDIxY2ZlZTZlODYxMDczNDI4`

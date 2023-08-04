@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=\"https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV\">Reblah</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=\"https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH?si=ZIHuTJ8hTwma0c8lSSdDdg\">Greatman Takit</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -911,6 +911,28 @@
     },
     {
       "album": {
+        "name": "Confam",
+        "url": "https://open.spotify.com/album/7r0C7rE7lg3GjQX8Wuwzln"
+      },
+      "artists": [
+        {
+          "name": "Okey Sokay",
+          "url": "https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1"
+        },
+        {
+          "name": "Hugo David",
+          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Confam",
+      "url": "https://open.spotify.com/track/1AgHIQMl64yK84dbCuddpz"
+    },
+    {
+      "album": {
         "name": "Congratulations",
         "url": "https://open.spotify.com/album/6Y7LaoeSXPsarZXQtD49xk"
       },
@@ -1785,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Falala",
+        "url": "https://open.spotify.com/album/0LvzPRBuV6iLGBBuSLtP8u"
+      },
+      "artists": [
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176482,
+      "name": "Falala",
+      "url": "https://open.spotify.com/track/64VQFnOF4na9PpqsSeg36E"
+    },
+    {
+      "album": {
         "name": "Faraway",
         "url": "https://open.spotify.com/album/2Vsa1OG52P17RJmin9iHW2"
       },
@@ -1988,6 +2032,32 @@
       "duration_ms": 223032,
       "name": "FOLLOW",
       "url": "https://open.spotify.com/track/5iP9wtauchW9tyyBUQfNQg"
+    },
+    {
+      "album": {
+        "name": "Follow (Alternate Take)",
+        "url": "https://open.spotify.com/album/4fAZI0VHvYTgqrD1nYbOIg"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Clinton Flames",
+          "url": "https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye"
+        },
+        {
+          "name": "Baron Jay",
+          "url": "https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Follow - Alternate Take",
+      "url": "https://open.spotify.com/track/2Avtec3GXHt7Ti7xK8v5Xl"
     },
     {
       "album": {
@@ -2640,7 +2710,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 171293,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/56EaWv1kzi23HnfSo75UhI"
@@ -3388,6 +3458,24 @@
       "duration_ms": 324000,
       "name": "Imela",
       "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7mBjRZdYC0gN0du3ZKHHvK"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431120,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/7D4Dco7KtJWomSWYNbECA7"
     },
     {
       "album": {
@@ -4769,6 +4857,28 @@
     },
     {
       "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/03oY7DJFBBwsuTlcd73JwX"
+      },
+      "artists": [
+        {
+          "name": "Pst. Solomon TK",
+          "url": "https://open.spotify.com/artist/5OCApsR2lIZUqeCjVGoWqm"
+        },
+        {
+          "name": "JEHU",
+          "url": "https://open.spotify.com/artist/2Da7skpDbYblzAWcI1msVM"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158537,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/4wjGoZFssZXLlGl2z98dXr"
+    },
+    {
+      "album": {
         "name": "On My Case",
         "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
       },
@@ -5297,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Redeemed: The Collection",
+        "url": "https://open.spotify.com/album/2j4uDtyWHINYLsBbYtegRy"
+      },
+      "artists": [
+        {
+          "name": "Jlyricz",
+          "url": "https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243754,
+      "name": "Redeemed - Acoustic Version",
+      "url": "https://open.spotify.com/track/4VJcm3nLUJhGSCnf3OtScF"
+    },
+    {
+      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/63C1WsLa9DWwtZx2xCTT1X"
       },
@@ -5536,6 +5664,32 @@
       "duration_ms": 206897,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/3HUzd6rh0Seg1CNt6sUELc"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/0KLXJRTfekaxpXRzNTPYJa"
+      },
+      "artists": [
+        {
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147958,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/31yBW2Xp3GmUsZ2Ae1xpv1"
     },
     {
       "album": {
@@ -5854,6 +6008,28 @@
       "duration_ms": 157710,
       "name": "Testify",
       "url": "https://open.spotify.com/track/5Oep4LpOhQm0338vTTUhBt"
+    },
+    {
+      "album": {
+        "name": "The Head",
+        "url": "https://open.spotify.com/album/01ytqCBRi27L9mnCQrecQD"
+      },
+      "artists": [
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        },
+        {
+          "name": "Tobi Toun",
+          "url": "https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "The Head",
+      "url": "https://open.spotify.com/track/2Tfpo8UIXT5Y7DuG97grxm"
     },
     {
       "album": {
@@ -6470,7 +6646,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 223242,
       "name": "You Deserve",
       "url": "https://open.spotify.com/track/6xeAFtLxEnL48MqybiEAbX"

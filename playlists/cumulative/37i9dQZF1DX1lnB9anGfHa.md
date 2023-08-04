@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-195 songs - 13 hr 5 min
+196 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Normal Is Boring](https://open.spotify.com/track/7zBOPBfrGE165t4nKUXBs9) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe), [So Beast](https://open.spotify.com/artist/0BKQOZ5ah55hiPw8EMXxoE) | [Everything Burns](https://open.spotify.com/album/0IjZeZ1jjg3cguTdjhLhQP) | 4:42 | 2021-07-09 | 2022-10-23 |
 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 | 2020-10-20 |  |
 | [Not The News](https://open.spotify.com/track/7ypjELqhyUT3BBCws8kzKN) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1g4vEVvVVFvFju0gS0DMbh) | 3:57 | 2020-10-20 | 2022-07-29 |
+| [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 | 2023-08-03 |  |
 | [One](https://open.spotify.com/track/0T8rGG9QR9DjrbEoNsB3p5) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:54 | 2023-01-03 | 2023-04-01 |
 | [One at a Time](https://open.spotify.com/track/10M684gmSjBMcHNvG3VvpN) | [Lisel](https://open.spotify.com/artist/5KjVnwiRNQZjgM1BrHYoO3) | [One at a Time](https://open.spotify.com/album/5r6M5AjhnsRtmbSGbr1pVv) | 3:02 | 2023-02-15 | 2023-04-01 |
 | [Oracles](https://open.spotify.com/track/3RPWEhdvyH1CXphkYti8wc) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Oracles](https://open.spotify.com/album/7q9ambvRrxK3Cem9IvcD7s) | 6:50 | 2022-09-07 | 2023-02-25 |
@@ -179,7 +180,7 @@
 | [Voices](https://open.spotify.com/track/3Xuhi20r1A2FGQHAisL551) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 1:54 | 2020-10-20 |  |
 | [Wasting](https://open.spotify.com/track/24ecRdvvKcZCFdmebEJ1X8) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/4sdTiKZkufFUNlvtNcIiFh) | 5:50 | 2020-11-20 |  |
 | [Wasting](https://open.spotify.com/track/711LRE7rORixC5AVWIuzg4) | [The Soft Moon](https://open.spotify.com/artist/40HeNm05FEAxGx8gUOV4my) | [Deeper](https://open.spotify.com/album/7ewlDAUdwJlfgEzz5rj9xl) | 5:50 | 2020-11-20 | 2022-07-29 |
-| [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 | 2020-10-20 |  |
+| [Watch](https://open.spotify.com/track/6BTaOTV4R07QunBda62fR7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:28 | 2020-10-20 | 2023-08-04 |
 | [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2020-10-20 |  |

@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-848 songs - 2 day 7 hr 38 min
+849 songs - 2 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,10 @@
 | [Anything](https://open.spotify.com/track/4gLJ9owVOhrpVzQUCYoLoX) | [AB001](https://open.spotify.com/artist/7xxxjEnWtmZeBT3A4PxnY7), [Avid Dancer](https://open.spotify.com/artist/7x4bI6vTtMCONH8MVqI8WK) | [Anything](https://open.spotify.com/album/31FXtIiI1wjl5wCJ0JqPyp) | 3:58 | 2021-04-02 | 2022-04-18 |
 | [are you feeling it now](https://open.spotify.com/track/2Uj274jlxyajel5hE0bU9Z) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3mKs4imLrMH2rq2CTrSKlt) | 2:36 | 2023-03-06 |  |
 | [are you feeling it now](https://open.spotify.com/track/7BvU5P5RgbZ12LJdpF4iPK) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [blotter baby](https://open.spotify.com/album/3YCZdqadysSZff6XOXOM2d) | 2:36 | 2023-02-24 | 2023-06-10 |
-| [Around](https://open.spotify.com/track/00EIqQvoztV9Qfh7xEAP6d) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Alright](https://open.spotify.com/album/7nVd4b8dAUrR8LGcaPgz8R) | 2:30 | 2023-04-14 |  |
+| [Around](https://open.spotify.com/track/00EIqQvoztV9Qfh7xEAP6d) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Alright](https://open.spotify.com/album/7nVd4b8dAUrR8LGcaPgz8R) | 2:30 | 2023-04-14 | 2023-08-04 |
 | [Around](https://open.spotify.com/track/1rxlKYkqpoq67Pzw9YHTNE) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Around](https://open.spotify.com/album/6iLsJBQLbWdFRUeiuPnoc0) | 2:30 | 2023-04-14 | 2023-05-11 |
 | [Around](https://open.spotify.com/track/58W4eow72ceda18OWfqZol) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Around](https://open.spotify.com/album/1D1N4s26kktiCG5cspFnsL) | 2:30 | 2023-04-14 | 2023-07-09 |
+| [Around](https://open.spotify.com/track/5FdNZJwSaFLqT1AYhbGpio) | [Scotch Mist](https://open.spotify.com/artist/63da4AKQZcSLyqcTFvt8Uu) | [Cabo Blanco](https://open.spotify.com/album/0vwZRg44EvPwKdwRGul4Us) | 2:30 | 2023-04-14 |  |
 | [As You Move Through The World](https://open.spotify.com/track/1UoNPvDGbt1kWbT0TNdNvP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [As You Move Through The World](https://open.spotify.com/album/7jhhiPwTyiofLgRDrlGYej) | 7:35 | 2021-04-02 | 2022-04-21 |
 | [Asdikte Akal \- Yugen Blakrok Remix](https://open.spotify.com/track/3WP3mLYtwSeQWcc9NDXIUP) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94), [Kanif The Jhatmaster](https://open.spotify.com/artist/1Z4ZGwOFTMQiXjEC5XfYIi) | [Afrique Refait](https://open.spotify.com/album/60uhkJ0Jj8yrnk6YRpCJKl) | 3:49 | 2022-04-22 | 2022-07-29 |
 | [Attention](https://open.spotify.com/track/2U76RhZDZjih41gBygnces) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/1jrikGtnJksIVgzNzkVLRy) | 2:57 | 2021-04-02 | 2022-04-13 |

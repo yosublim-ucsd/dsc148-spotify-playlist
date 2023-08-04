@@ -4,7 +4,7 @@
 
 > That real soulful house sound\. Cover: Kerri Chandler
 
-145 songs - 17 hr 21 min
+146 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [Tonight](https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Lost & Found EP Vol\. 1](https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg) | 7:20 | 2022-09-13 |  |
 | [Touched The Sky](https://open.spotify.com/track/6m8sKsDYNuNEBeuDUrQhDF) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Mia Tuttavilla](https://open.spotify.com/artist/37h5VxkyYkfCMqzept4XcK) | [The World As I See It](https://open.spotify.com/album/1JEFJHVVR9HD6DhNPIo1Xg) | 7:36 | 2022-09-13 |  |
 | [Track 1 Revisited \- Reel to Reel Mix](https://open.spotify.com/track/3M29ceOrJWtL0Q6L4uXcbK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Track 1 Revisited \- Single](https://open.spotify.com/album/0Pri96DroxtJYpzIdAD42Z) | 5:48 | 2022-09-13 |  |
-| [Turn Me On](https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [XMAS Lounge Tunes \(Special Selected Lounge Tracks for Chilling Under the Christmas Tree\)](https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh) | 7:25 | 2023-03-07 |  |
+| [Turn Me On](https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [XMAS Lounge Tunes \(Special Selected Lounge Tracks for Chilling Under the Christmas Tree\)](https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh) | 7:25 | 2023-03-07 | 2023-08-04 |
 | [Turn Me On](https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:25 | 2022-09-13 | 2023-04-29 |
+| [Turn Me On](https://open.spotify.com/track/2zh8futZbM4gJ9x4ZV8Yu6) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Turn Me On](https://open.spotify.com/album/2H7dJqD0zZPrMdVrPHNpdY) | 7:25 | 2023-03-07 |  |
 | [Ugly Part of Me \- Terry Hunter Mix](https://open.spotify.com/track/0N0lb2ExXb6eCRwLVrpBRJ) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine Summer EP](https://open.spotify.com/album/0sLbMeLCTvBYnQv1YWb7NM) | 7:21 | 2022-09-13 |  |
 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 | 2022-09-13 |  |
 | [Watch Them Come \(Men from the Nile aka Roy Davis Jr.\)](https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28) | [Men From The Nile](https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO) | [The Afro Club Night](https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K) | 5:35 | 2022-09-13 |  |

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-502 songs - 1 day 1 hr 41 min
+503 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Hera](https://open.spotify.com/track/0gVR1CE3EiTnqOIgHLYO1c) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [YO NI KA](https://open.spotify.com/album/3HRhmAyzFPKFOhcomyH7FC) | 6:00 | 2023-01-25 | 2023-02-23 |
 | [Hey Shaa](https://open.spotify.com/track/7JumBFy1ngjLjfQyDsCraw) | [MJ Wemoto](https://open.spotify.com/artist/1K4l5pezBhs1hisWkoRbTe) | [Hey Shaa](https://open.spotify.com/album/4ZxR5fE5ydK8MAcCqFRpkN) | 4:35 | 2023-06-27 | 2023-07-27 |
 | [Hey, Stunner](https://open.spotify.com/track/6l7vf1NGO0GK0Y6IN5cFlK) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [A Night in The Hills](https://open.spotify.com/album/2x28Q8UJfZ4QK75QMqdMew) | 1:49 | 2023-06-05 | 2023-06-28 |
-| [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-26 |  |
+| [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-26 | 2023-08-04 |
+| [high](https://open.spotify.com/track/5qCpepbxfQr8Tjd81hqtq3) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [high](https://open.spotify.com/album/4Yx5Fulw5mJuDhzlCgCDiZ) | 1:59 | 2023-07-26 |  |
 | [Higher Mountains](https://open.spotify.com/track/2mvkApHbNkRGy6z33rRMzi) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS) | [Higher Mountains](https://open.spotify.com/album/0T2UhpspiNpb9ok07NUjeO) | 3:17 | 2023-02-22 | 2023-03-30 |
 | [Hii](https://open.spotify.com/track/2NybYJnrhNVE41MoRaN9hR) | [Hanstone](https://open.spotify.com/artist/3ng2KcHOkTc7LlDqPNJaxw) | [Hii](https://open.spotify.com/album/5nwakyBA2Yhl1joVx5gp7F) | 2:52 | 2023-01-25 | 2023-02-23 |
 | [Hillary](https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Hillary](https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09) | 2:51 | 2023-03-29 | 2023-06-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 29607,
+  "num_followers": 29710,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjM2N2Y4MmFmMDE3ZjM0OGE0YjRiMjY0ODllODAyZWM2N2Y0YjY0",
+  "snapshot_id": "MCw1MGQxOWY2NmVlMWZlMTI3ZGRmZGZkOTM0ZTI0OTBlMmYwZTlmZmQ4",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Wrong or Right",
+      "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 135682,
       "name": "Ain't Hard Enough (feat. Mozzy)",
       "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Wrong or Right",
-      "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
@@ -811,22 +795,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 151980,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 197413,
       "name": "Find A Way (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/3fqV2haNIJQ5nn8qyVLzpU"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 151980,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
     },
     {
       "added_at": "2022-10-01 20:14:07",

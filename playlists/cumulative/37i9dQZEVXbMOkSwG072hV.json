@@ -7709,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "Vivendo de Amor",
+        "url": "https://open.spotify.com/album/7n5DR1YC5aNHTBFBKzLUSc"
+      },
+      "artists": [
+        {
+          "name": "Melanina Carioca",
+          "url": "https://open.spotify.com/artist/1RVHk1teWy5ftUa7J4RiMj"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363773,
+      "name": "Deixa Se Envolver",
+      "url": "https://open.spotify.com/track/1tQGsgGQ9X1W04H3FL59vF"
+    },
+    {
+      "album": {
         "name": "Digo Ou N\u00e3o Digo",
         "url": "https://open.spotify.com/album/4DnjLKTRmVUCiVoQpFKV7O"
       },
@@ -8876,7 +8894,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
@@ -11754,6 +11772,32 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
+    },
+    {
+      "album": {
+        "name": "Fode Com os Raul Bigode",
+        "url": "https://open.spotify.com/album/33ugkXz4GOrraS8i2pviNq"
+      },
+      "artists": [
+        {
+          "name": "DJ NINOW 013",
+          "url": "https://open.spotify.com/artist/6zElii60gwdz8eYVy3LpiC"
+        },
+        {
+          "name": "Mc Dobella",
+          "url": "https://open.spotify.com/artist/04ujAxwTIuRd5Unjsf6nIw"
+        },
+        {
+          "name": "MC ZERO K",
+          "url": "https://open.spotify.com/artist/2KCx7PJFobnrMKzbdRtmHe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139520,
+      "name": "Fode Com os Raul Bigode",
+      "url": "https://open.spotify.com/track/6einQWKRBWArH6fg0HXdNr"
     },
     {
       "album": {
@@ -15024,7 +15068,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 197920,
       "name": "LALA",
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -16820,7 +16864,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 153120,
       "name": "Mata Rato do Casar\u00e3o 1.0",
       "url": "https://open.spotify.com/track/3iBssZbAfK6V7mIiqNMwEs"
@@ -23350,7 +23394,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-03",
+      "date_removed": null,
       "duration_ms": 160862,
       "name": "Polo Usa",
       "url": "https://open.spotify.com/track/7GIOobAlKojSiQ6ytFlxdU"

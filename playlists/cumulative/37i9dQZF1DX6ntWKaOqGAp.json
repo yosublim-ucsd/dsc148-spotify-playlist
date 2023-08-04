@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 207500,
       "name": "I Say No",
       "url": "https://open.spotify.com/track/2yRFTBM5biL3TfJ8HPnf7D"
@@ -4986,6 +4986,24 @@
       "duration_ms": 206333,
       "name": "Sayonara Sunset",
       "url": "https://open.spotify.com/track/256kYRsW0pTZ8KdR8BqEw7"
+    },
+    {
+      "album": {
+        "name": "scorpion.",
+        "url": "https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163593,
+      "name": "scorpion.",
+      "url": "https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND"
     },
     {
       "album": {
@@ -10337,6 +10355,24 @@
     },
     {
       "album": {
+        "name": "\u602a\u7363\u306e\u30b5\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/2e12G3Csy88WQeCNXRYVQo"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210960,
+      "name": "\u602a\u7363\u306e\u30b5\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/6RCM11KBFLJUtRcKG8l796"
+    },
+    {
+      "album": {
         "name": "\u604b\u3059\u308b (10YEARS THANK YOU)",
         "url": "https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo"
       },
@@ -10928,7 +10964,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 207624,
       "name": "\u6b7b\u3093\u3067\u304f\u308c",
       "url": "https://open.spotify.com/track/3zriGDrUvCWdY40Gd1xZGf"

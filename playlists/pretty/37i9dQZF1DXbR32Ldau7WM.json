@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock bands/artists in Japan right now! Cover: \u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-  "num_followers": 263582,
+  "num_followers": 263701,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmE3Zjc2ZjBkYzcxZWFlY2VlNzEwOTBlODE0MjEyNTYwZmQ2OGJi",
+  "snapshot_id": "MCxjZjVhNDRjZGFiNGFhYjQxZWMxYWExZTMxZThlMTU5NDdkZTJiYTIw",
   "tracks": [
     {
       "added_at": "2023-08-01 15:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-08-01 15:00:00",
       "album": {
-        "name": "Stray Hearts",
-        "url": "https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su"
+        "name": "\u30b9\u30dd\u30fc\u30c4",
+        "url": "https://open.spotify.com/album/5Gslq3e8XngG3BZfrpvhaU"
       },
       "artists": [
         {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
         }
       ],
-      "duration_ms": 273266,
-      "name": "Stray Hearts",
-      "url": "https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP"
+      "duration_ms": 180000,
+      "name": "\u80fd\u52d5\u7684\u4e09\u5206\u9593",
+      "url": "https://open.spotify.com/track/4veOvrYiK224LWEqHX39vv"
     }
   ],
   "unique_name": "Big in Japan",

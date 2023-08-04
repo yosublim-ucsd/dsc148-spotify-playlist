@@ -1,15 +1,31 @@
 {
-  "description": "Motion en good vibes! Cover: JZyNo, Lasmid",
-  "num_followers": 316167,
+  "description": "Motion en good vibes! Cover: Idaly",
+  "num_followers": 316189,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmIzYjk5YjhiZTQwMjA1MWM1ZDM4ZDViMjQ4YWU3NmQ4ODQ2OWU3",
+  "snapshot_id": "MCwyOTIxZDgwODE4ODJiMWZkZjM3MTZiNTYzMDRiZjcxNDVkYjUzMWMz",
   "tracks": [
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/0NxbEuuVrrTdKKAdBUZcmd"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 174231,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/6GCpMCbl9ZBiTfPP5awzFa"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Butta My Bread",
         "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
@@ -29,7 +45,27 @@
       "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "In Een Model",
+        "url": "https://open.spotify.com/album/3jpsjgmcPZNMLuOQoDhPhj"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        }
+      ],
+      "duration_ms": 150588,
+      "name": "In Een Model",
+      "url": "https://open.spotify.com/track/4gn2FQ04eSJeVwjo2AFFgV"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Bij Jou",
         "url": "https://open.spotify.com/album/1KSShe3h6ORfb22SYeyd5e"
@@ -49,7 +85,7 @@
       "url": "https://open.spotify.com/track/4uh4iZAe7nFBiUWI55XWib"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Oh Mama",
         "url": "https://open.spotify.com/album/2UuoPO0h5YiGSUJVpzDcZC"
@@ -69,7 +105,7 @@
       "url": "https://open.spotify.com/track/1KiHuQv3t1lAFZLCFP8DQR"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Big 7",
         "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
@@ -85,7 +121,7 @@
       "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/151p3pMxHoQ05WsfkIcT75"
@@ -109,7 +145,23 @@
       "url": "https://open.spotify.com/track/6CasF7OaFADJG3VwvzQ2CG"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6ZOM7TyYmkk4bvlmCfoWU6"
+      },
+      "artists": [
+        {
+          "name": "WAWA",
+          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
+        }
+      ],
+      "duration_ms": 154163,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/3QmyJLAuTN9bguipE7VepD"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "INTOXYCATED (feat. Dave)",
         "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
@@ -129,7 +181,7 @@
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Y Dor",
         "url": "https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR"
@@ -138,6 +190,10 @@
         {
           "name": "Soolking",
           "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Unleaded",
+          "url": "https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun"
         },
         {
           "name": "DYSTINCT",
@@ -149,7 +205,23 @@
       "url": "https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/3axtGv7LHI7lZ8Zt8z2dO2"
+      },
+      "artists": [
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        }
+      ],
+      "duration_ms": 120309,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/6ZQ8Fh1qXoOYW6FwXrZ7bP"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Rowanda",
         "url": "https://open.spotify.com/album/0w2FJiew9Pjcp63aATXuV5"
@@ -169,7 +241,7 @@
       "url": "https://open.spotify.com/track/32W2XSNHGRMPm3GKEuHm3r"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "GLA",
         "url": "https://open.spotify.com/album/2xkI2zWx4nms13XxtYAvTY"
@@ -185,7 +257,7 @@
       "url": "https://open.spotify.com/track/43RqGXpE5xCTw771Y4fiZY"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Bandz Up (feat. BKO)",
         "url": "https://open.spotify.com/album/7B7BC1U1DrXu3I0sJFYA4c"
@@ -205,7 +277,7 @@
       "url": "https://open.spotify.com/track/4Qg9rqLvxFga814H9UfJTT"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Move Ya Body (Remix)",
         "url": "https://open.spotify.com/album/1UPwNqmPMBRZEdcxzJC3Nd"
@@ -225,7 +297,7 @@
       "url": "https://open.spotify.com/track/6WJtPnYy2HHhVx6Pb9pU7v"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Caribbean Vibes",
         "url": "https://open.spotify.com/album/2JbSZltOtkiTo1dAGrwIY9"
@@ -245,7 +317,35 @@
       "url": "https://open.spotify.com/track/5jeR4FjVJYGxriYcyTEDpC"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "SHOW LEVEL",
+        "url": "https://open.spotify.com/album/0OOFwdbgZDy7YHfPda6Kga"
+      },
+      "artists": [
+        {
+          "name": "Saffeh",
+          "url": "https://open.spotify.com/artist/6eSYjiVkHcfFiHz8tBlSOz"
+        },
+        {
+          "name": "Giniio",
+          "url": "https://open.spotify.com/artist/128wdqk1CP0l82Ldrq0NGP"
+        },
+        {
+          "name": "Rich2Gether",
+          "url": "https://open.spotify.com/artist/7JEKwHEyxkl7GMIZmTVllb"
+        },
+        {
+          "name": "Jmani",
+          "url": "https://open.spotify.com/artist/32DUcL0EiSSAz8OSyuPrql"
+        }
+      ],
+      "duration_ms": 180734,
+      "name": "SHOW LEVEL",
+      "url": "https://open.spotify.com/track/70zjxnzPf4kwqVUhWsr5N9"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Talibans II",
         "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
@@ -265,7 +365,7 @@
       "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Mon Ami (feat. Henkie T & D-Double)",
         "url": "https://open.spotify.com/album/3r4A4JMc8vRfuuotF1t9AD"
@@ -289,7 +389,7 @@
       "url": "https://open.spotify.com/track/36Yj7rDYJRtTwN5Nrso5UH"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "On You",
         "url": "https://open.spotify.com/album/5bp391B0HgGAQkJPkeMPD5"
@@ -305,7 +405,7 @@
       "url": "https://open.spotify.com/track/2PqkhlBreytuG6r6si0QG3"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Boulevard",
         "url": "https://open.spotify.com/album/5tTid2yP3iK6VjX8b5HI3b"
@@ -325,7 +425,7 @@
       "url": "https://open.spotify.com/track/1bcS3Nwqv3zMiT4VRqrQSY"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Bommetje",
         "url": "https://open.spotify.com/album/5CTZNjSimovUzDXLcHtgpT"
@@ -349,7 +449,7 @@
       "url": "https://open.spotify.com/track/7fFjkURJahTVb9A8uAFEpf"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Doe Relax",
         "url": "https://open.spotify.com/album/1Go7CDqkwfpBunTk2ZPLzk"
@@ -365,7 +465,7 @@
       "url": "https://open.spotify.com/track/63ANt1keuFy8YUYwbG7mi0"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Wejow",
         "url": "https://open.spotify.com/album/4HOJg0p9my8mmHTZLKJGii"
@@ -385,7 +485,7 @@
       "url": "https://open.spotify.com/track/5DeZoZydKVTlOHkuDBIMsF"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA"
@@ -405,7 +505,7 @@
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Toeng Toeng",
         "url": "https://open.spotify.com/album/3dX8uFwKp561V60QjvVavG"
@@ -425,7 +525,7 @@
       "url": "https://open.spotify.com/track/1xwarEzNGWgd7JjEEIwbQF"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "YAWA",
         "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
@@ -441,7 +541,7 @@
       "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "OOGCONTACT",
         "url": "https://open.spotify.com/album/1kSMPD1fcePQIdlAD0ASEP"
@@ -457,7 +557,7 @@
       "url": "https://open.spotify.com/track/7GNsXfoKIunAEBT8y5bPDC"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Deadline",
         "url": "https://open.spotify.com/album/7uHzVmvjusgtUt2iPFk55t"
@@ -473,7 +573,7 @@
       "url": "https://open.spotify.com/track/2Sh6QeWB7TwzZzIwauIAlx"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Zijkant",
         "url": "https://open.spotify.com/album/1qtgFxrZ2hg0GW6uyXtf32"
@@ -493,7 +593,7 @@
       "url": "https://open.spotify.com/track/0OyF6nXazzwqcdPQe613aj"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -509,7 +609,7 @@
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Ghetto Party",
         "url": "https://open.spotify.com/album/00040GBRA1nFBnNrJyFGxx"
@@ -533,7 +633,7 @@
       "url": "https://open.spotify.com/track/0vrfhHCvK7AhITc5EI2u0l"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Slapen Jij",
         "url": "https://open.spotify.com/album/0Otq6CCBRFx675fOim2Cjp"
@@ -553,7 +653,7 @@
       "url": "https://open.spotify.com/track/3qOeRiVgIAMQMI8QU1JOfk"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Velletjes (Latin Remix)",
         "url": "https://open.spotify.com/album/1JC6rEIycuwRvsHHEuSfgN"
@@ -585,7 +685,7 @@
       "url": "https://open.spotify.com/track/1ZOSXQJ8lZzFCTnh7RlVzv"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "BANDZ (feat. Emms)",
         "url": "https://open.spotify.com/album/1Eg4xGkEqragj73c36aJ9P"
@@ -605,7 +705,7 @@
       "url": "https://open.spotify.com/track/42OHLSBaf8MQMOzJf2oBlq"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "WACHT MAMI",
         "url": "https://open.spotify.com/album/2K8LRpB5bNpgLWq2ymcyy7"
@@ -625,7 +725,7 @@
       "url": "https://open.spotify.com/track/2wcFwxWIv0RmZaWo2v5Y45"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Mulala",
         "url": "https://open.spotify.com/album/1IvhCuXq0CkOPbgr8BOvaH"
@@ -645,7 +745,7 @@
       "url": "https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Sende",
         "url": "https://open.spotify.com/album/4PgUs5VGBAEE5RHFrFJWdJ"
@@ -661,7 +761,7 @@
       "url": "https://open.spotify.com/track/0S7WVldHk76spNJDrLTNIE"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
@@ -681,7 +781,7 @@
       "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "African Boy",
         "url": "https://open.spotify.com/album/5p7qCTAQdNzDHuOXCB40pu"
@@ -705,7 +805,7 @@
       "url": "https://open.spotify.com/track/5E18EQAForpYG3lEiFdUpq"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Posa na bina",
         "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
@@ -721,7 +821,7 @@
       "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Ding (Soulely Remix)",
         "url": "https://open.spotify.com/album/1gseWuEddWg8dIECiyjtRv"
@@ -753,7 +853,7 @@
       "url": "https://open.spotify.com/track/0ywVbVuBlATBsdEBLgWPD2"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
@@ -781,7 +881,7 @@
       "url": "https://open.spotify.com/track/2yo9dRhpHG7b5AYgTGWfh5"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Summerpack",
         "url": "https://open.spotify.com/album/3TrJAgJbIerX8eIWUdtndB"
@@ -797,7 +897,7 @@
       "url": "https://open.spotify.com/track/19lK2hmq4p2KN617MGbId1"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Banana",
         "url": "https://open.spotify.com/album/76cChFmTxUn0kQVX7Asimp"
@@ -821,7 +921,7 @@
       "url": "https://open.spotify.com/track/6IbHxN543uDJ31Y8wpiHgZ"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Pussy Fit",
         "url": "https://open.spotify.com/album/0z5fDW1Nny5R2fKCK1XpVo"
@@ -841,7 +941,7 @@
       "url": "https://open.spotify.com/track/6Bks4z7g1KpbGsTKkT2AAY"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
@@ -857,7 +957,7 @@
       "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Voor Ons",
         "url": "https://open.spotify.com/album/3MY8fZjnPk1OYvnBh7PUNV"
@@ -873,7 +973,7 @@
       "url": "https://open.spotify.com/track/47x5hU2cxGgvteUSv5Dz35"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1vikym192WUofadPIdXtbl"
@@ -889,7 +989,7 @@
       "url": "https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Who Told You (feat. Drake)",
         "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
@@ -909,7 +1009,7 @@
       "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Respect The Pain 1",
         "url": "https://open.spotify.com/album/2IWDkp7lBkc1sAyIIU13P3"
@@ -925,7 +1025,7 @@
       "url": "https://open.spotify.com/track/1FlTaX2AKIEHOJOjhLoZMf"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "LATE NIGHT (feat. THABITI) [Remix]",
         "url": "https://open.spotify.com/album/7w0qf2wCJavt1Ckj1RXDSW"
@@ -953,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0PFFrqTdAUGb2x5qqvW2a1"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Ban Pami",
         "url": "https://open.spotify.com/album/3YQwlzf40HSktZ8hMSw2DF"
@@ -977,7 +1077,7 @@
       "url": "https://open.spotify.com/track/36T2XdhpmLFocIvJT7CafN"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/0Fhl0V0CU8WRvAH8U34ML8"
@@ -997,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4oYsDGK6eFXB1zg6pWb1Hj"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "3 Over 4",
         "url": "https://open.spotify.com/album/1VT72sgRUZAW7eOw12s6zI"
@@ -1021,7 +1121,7 @@
       "url": "https://open.spotify.com/track/50T8Qf9KSXqQzK3HjIAfrD"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Love Is Free",
         "url": "https://open.spotify.com/album/7wYYs2EijpabDYlSnC0YwL"
@@ -1041,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4qetc6GDgmlWtGXCclFiD7"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Claimen / Drank in Systeem",
         "url": "https://open.spotify.com/album/0cCAEhm4eZCi2H2Df4VNtS"
@@ -1061,7 +1161,7 @@
       "url": "https://open.spotify.com/track/5lSUGBMLikAwI9F4RSZ7Ja"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
@@ -1081,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
@@ -1101,7 +1201,7 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
@@ -1121,7 +1221,7 @@
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/0qcTSoE76QShVj8sLL2OIE"
@@ -1149,7 +1249,7 @@
       "url": "https://open.spotify.com/track/4L2UsmcqnAm73MeJOO8brv"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Blessed For Life",
         "url": "https://open.spotify.com/album/6HovnkV5kdKMmjLwfDglRg"
@@ -1165,7 +1265,7 @@
       "url": "https://open.spotify.com/track/7j44LmU0ovSnfg2CpPhUdK"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/6scuUVPKlS9ScVO2xOPymq"
@@ -1185,7 +1285,7 @@
       "url": "https://open.spotify.com/track/1V2RVZdPSzFTb1ITr25iSw"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Big Poppa (feat. Sam J'taime & Bartofso)",
         "url": "https://open.spotify.com/album/4N1xOqqWvbRTa9aWhoxHQg"
@@ -1209,7 +1309,7 @@
       "url": "https://open.spotify.com/track/7A8saQHtibJkuv5t8civXN"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "African Queen",
         "url": "https://open.spotify.com/album/2IwC4epMMOmp7p8uRB4rNF"
@@ -1229,7 +1329,7 @@
       "url": "https://open.spotify.com/track/14t79dNM4I9oyIX69BtWLe"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
@@ -1249,7 +1349,7 @@
       "url": "https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Toute La Night",
         "url": "https://open.spotify.com/album/0SABD3TM0FJTEZ8qls4OzU"
@@ -1273,7 +1373,7 @@
       "url": "https://open.spotify.com/track/6BCYTbYrUoOMcPVHwtM8gY"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Wili",
         "url": "https://open.spotify.com/album/2tPzPwHpkSEEeR2Njo5MQe"
@@ -1293,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1gFfVHvKnmKKQ7Cr3ymPCk"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
@@ -1309,7 +1409,7 @@
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Tek Tek (feat. MHD)",
         "url": "https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85"
@@ -1329,7 +1429,7 @@
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Love Colours (feat. Jmani)",
         "url": "https://open.spotify.com/album/7pguSiCrCSWgZdAN4NeeHV"
@@ -1349,7 +1449,7 @@
       "url": "https://open.spotify.com/track/05ttHgqp9JcJIuR3l3yxUj"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "MOOD3 (Glish)",
         "url": "https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb"
@@ -1373,7 +1473,7 @@
       "url": "https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Pornstar Martini",
         "url": "https://open.spotify.com/album/5hgm1McG0p0ugIJapzdcGf"
@@ -1401,7 +1501,7 @@
       "url": "https://open.spotify.com/track/7aJe1fs6N7hrWFCpukMAUC"
     },
     {
-      "added_at": "2023-07-30 22:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"

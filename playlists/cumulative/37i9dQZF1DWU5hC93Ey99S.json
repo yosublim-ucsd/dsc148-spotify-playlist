@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Love Disc",
+        "url": "https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "80HD",
+      "url": "https://open.spotify.com/track/5x9dNJ7IZbfvPTwLlag3np"
+    },
+    {
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf"
       },
@@ -485,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250415,
+      "name": "Butch",
+      "url": "https://open.spotify.com/track/1BVv7EhtErHUBe50h6XW20"
+    },
+    {
+      "album": {
         "name": "Call my name (MINNA REMIX)",
         "url": "https://open.spotify.com/album/5hmTmxeiwistivOz7Ocz71"
       },
@@ -649,6 +685,32 @@
     },
     {
       "album": {
+        "name": "Cycles (Darby Remix)",
+        "url": "https://open.spotify.com/album/2KMCFCIxT45zypf9SGaZpT"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "Isaiah",
+          "url": "https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Cycles - Darby Remix",
+      "url": "https://open.spotify.com/track/4P95ys389gp7LR9Al5RbDx"
+    },
+    {
+      "album": {
         "name": "Dancing is Healing (Disco Lines Remix)",
         "url": "https://open.spotify.com/album/7Ju707mu1m5Za5y2fFc741"
       },
@@ -734,6 +796,32 @@
       "duration_ms": 140666,
       "name": "Daybreak (with Zachary Knowles)",
       "url": "https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL"
+    },
+    {
+      "album": {
+        "name": "Daybreak (with Zachary Knowles) [Angrybaby Remix]",
+        "url": "https://open.spotify.com/album/5oICt4oowWols2LtqBdqDL"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        },
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173887,
+      "name": "Daybreak (with Zachary Knowles) - Angrybaby Remix",
+      "url": "https://open.spotify.com/track/1541aci0DCeaNlmPMYNvfW"
     },
     {
       "album": {
@@ -880,6 +968,24 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "album": {
@@ -1765,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "La le\u00e7on particuli\u00e8re",
+        "url": "https://open.spotify.com/album/0ZcIjW5V4jfAEAP2mcIJ5r"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "La le\u00e7on particuli\u00e8re",
+      "url": "https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw"
+    },
+    {
+      "album": {
         "name": "TANZPARTEI (Mixtape)",
         "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
       },
@@ -1780,6 +1908,24 @@
       "duration_ms": 205714,
       "name": "Lavendel",
       "url": "https://open.spotify.com/track/0lbjpK5PxeMycGZaZ1idNf"
+    },
+    {
+      "album": {
+        "name": "Leave The Water Still",
+        "url": "https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180175,
+      "name": "Leave The Water Still",
+      "url": "https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw"
     },
     {
       "album": {
@@ -2897,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200329,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA"
+    },
+    {
+      "album": {
         "name": "Say Yes To Heaven (sim0ne & Melo Nada Remix)",
         "url": "https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J"
       },
@@ -2964,6 +3128,32 @@
       "duration_ms": 283408,
       "name": "See This Through",
       "url": "https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx"
+    },
+    {
+      "album": {
+        "name": "See This Through (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/23EZlHdMqPutEYNt7uTguV"
+      },
+      "artists": [
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282890,
+      "name": "See This Through - George Fitzgerald Remix",
+      "url": "https://open.spotify.com/track/6lGy5cphcbocAN4X4gVVjr"
     },
     {
       "album": {
@@ -3062,6 +3252,28 @@
       "duration_ms": 242752,
       "name": "Slash - Giulia Tess Remix",
       "url": "https://open.spotify.com/track/1VRqhlpxAkHEIOSzLHg5TT"
+    },
+    {
+      "album": {
+        "name": "sleeping satellite",
+        "url": "https://open.spotify.com/album/5s4f2ehTsA304XkhUlCkoy"
+      },
+      "artists": [
+        {
+          "name": "Matr\u0113",
+          "url": "https://open.spotify.com/artist/0mUVjgWQLUlTuzafZdYeKK"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165992,
+      "name": "sleeping satellite",
+      "url": "https://open.spotify.com/track/63MQ2xbknPiLzGHLMEFt3Z"
     },
     {
       "album": {
@@ -3247,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/19djgC1ATwUgOqfweOtUQW"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2uZGQfnuG1ZLmBhtz06IEX"
+    },
+    {
+      "album": {
         "name": "REGULARITY",
         "url": "https://open.spotify.com/album/6r9yhMag0DL9ScLGhyFV5S"
       },
@@ -3389,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "then i run :/",
+        "url": "https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "then i run :/",
+      "url": "https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK"
+    },
+    {
+      "album": {
         "name": "There's Another Life 4 U / So Long",
         "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
       },
@@ -3440,6 +3688,24 @@
       "duration_ms": 202666,
       "name": "tidal wave",
       "url": "https://open.spotify.com/track/0GEHapw4SVFDM65BXvcSDX"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/3g4I1lrC7oDxUhVysMfxZD"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160840,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d"
     },
     {
       "album": {
@@ -3558,6 +3824,28 @@
       "duration_ms": 243555,
       "name": "Very Last Drop",
       "url": "https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ"
+    },
+    {
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5B1D7dZ3zbLtK48zqhS8cY"
+      },
+      "artists": [
+        {
+          "name": "Paraleven",
+          "url": "https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr"
+        },
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367766,
+      "name": "Wait for a Dream (feat. Baerd)",
+      "url": "https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep"
     },
     {
       "album": {
@@ -3837,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "win your love",
+        "url": "https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215413,
+      "name": "win your love",
+      "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
+    },
+    {
+      "album": {
         "name": "Yes 2 Heaven",
         "url": "https://open.spotify.com/album/2FXQNXwUJLYjiggs4QeqoC"
       },
@@ -3944,6 +4250,24 @@
       "duration_ms": 179844,
       "name": "Youthful Kids",
       "url": "https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3"
+    },
+    {
+      "album": {
+        "name": "Technicolour Places",
+        "url": "https://open.spotify.com/album/0AEYQ1ErcrYSaNtmq1NjzA"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "You\u2019re Everything",
+      "url": "https://open.spotify.com/track/31j0qU6GnhauFcJNnnbmMl"
     },
     {
       "album": {

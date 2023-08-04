@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,129 likes - 72 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,186 likes - 72 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 71 | [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 |
 | 72 | [2 Much 2 Handle](https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Alok Club Series 2023](https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT) | 3:08 |
 
-Snapshot ID: `MCxjOWQ1ODhhNTQzYTQ3NzExOGE5OTQ5NmI0MmEyN2U3ZjRmNDA4ZTUy`
+Snapshot ID: `MCxhODZiYjU3MGM1YTUyYTgwYTM2YTg2NzA2ODA0YjcxYmI5ZTgxYTY1`

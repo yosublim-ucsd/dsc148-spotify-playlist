@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 200727,
       "name": "Beta Karta Rap",
       "url": "https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5"
@@ -1064,6 +1064,28 @@
       "duration_ms": 198857,
       "name": "Kohinoor",
       "url": "https://open.spotify.com/track/6SNFuJXjkgauo3Kg9XJcj6"
+    },
+    {
+      "album": {
+        "name": "Kudi",
+        "url": "https://open.spotify.com/album/73ATQ9LpJkVKtUDTyZ9aob"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "Swaalina",
+          "url": "https://open.spotify.com/artist/2mIcM14FamHYPzBbHRIsPE"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190676,
+      "name": "Kudi",
+      "url": "https://open.spotify.com/track/0oRcVOYsdFICJsH5FD9Rj5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,091 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,125 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 34 | [Hooligan](https://open.spotify.com/track/6E2BbzUWoSmFXInBBzN0AT) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4ZCqXTmjVkYrhWMEO0qHtw) | 2:37 |
 | 35 | [Beyond The Lines](https://open.spotify.com/track/32Ml2Ne1O7r26vPi5M27yB) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Beyond The Lines](https://open.spotify.com/album/34Pey73JMexQK3Gwj13Y94) | 3:17 |
 | 36 | [priceless](https://open.spotify.com/track/3667F7zdsetcaPwwucYddi) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [Homunculu$](https://open.spotify.com/artist/7DNQRBgbj9BOYu3mz8dTyi) | [Delicate](https://open.spotify.com/album/78I7c2SxQsfWt23YyAAIyf) | 1:32 |
-| 37 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 |
-| 38 | [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 |
-| 39 | [Stoic](https://open.spotify.com/track/4cmqpvqVlJxPMPiQYLEQXX) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [KLOOZ](https://open.spotify.com/artist/35uGJqYaiI3VvbKh5XeKx4), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [19](https://open.spotify.com/album/50eJphAb6hdTsV26JrjsGW) | 2:49 |
+| 37 | [Stoic](https://open.spotify.com/track/4cmqpvqVlJxPMPiQYLEQXX) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [Minchanbaby](https://open.spotify.com/artist/1gbTvzWZ32tJXVmjgYPK2f), [KLOOZ](https://open.spotify.com/artist/35uGJqYaiI3VvbKh5XeKx4), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [19](https://open.spotify.com/album/50eJphAb6hdTsV26JrjsGW) | 2:49 |
+| 38 | [Speedy Freeky](https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Speedy Freeky](https://open.spotify.com/album/4gKphxVmdCNTp17WluW9ZO) | 2:55 |
+| 39 | [Motown Man](https://open.spotify.com/track/2KmPn6Stc0iZnyPBjnNT1o) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [FRIENDS & ME](https://open.spotify.com/album/4az8qpOF8NeGglYY3RRKLM) | 2:25 |
 | 40 | [PPAP](https://open.spotify.com/track/43VQeu11B8muwxxmTgklyI) | [AK\-69](https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh) | [The Race](https://open.spotify.com/album/7D6SzmtTlyIRrTwsyp7VA9) | 2:09 |
 | 41 | [SPEED UP](https://open.spotify.com/track/5jAmU8qZIEU2U6nGpgKszx) | [Jimmy Johns](https://open.spotify.com/artist/39arl4QmjqYbuq7GzoaTLj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [Lil Cotetsu](https://open.spotify.com/artist/7jzZKM2YWqoqz9m593uDEj) | [Aliveness](https://open.spotify.com/album/22K0VLMEIUt3FOaKlfsJyM) | 2:11 |
 | 42 | [B.G.P](https://open.spotify.com/track/7xD6PhbwNjeu5Vm5ewFRaX) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/09w0tkXVIM91R7cLPUC4hq) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 |
 | 50 | [Kamasu or Die](https://open.spotify.com/track/2wsYbaGE0LrBpFVvpTPmHH) | [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [ZORN](https://open.spotify.com/artist/1usR8ZFyugMzuO9eDDwMKU) | [Kamasu or Die](https://open.spotify.com/album/5lbYwvOXS7YZIdRdKvLaTw) | 3:41 |
 
-Snapshot ID: `MCw3NWUzNzU3NjJhOWIwNzY3OWUxMzI3ZDE1OTZmODNjOGI1ZTJiMjI0`
+Snapshot ID: `MCxiZmQxNTMzYTdjMWFjYmZkZmI3MzcyOTM1NmJkOWUwZTcyZDJmMmUz`

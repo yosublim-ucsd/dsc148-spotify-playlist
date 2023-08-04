@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-626 songs - 2 day 1 hr 29 min
+627 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Remembering](https://open.spotify.com/track/1J24vNYCuLaJ3qm0SioL8A) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [At Home](https://open.spotify.com/album/1dbVOkMdeJIdhfNP90VBMa) | 5:14 | 2022-10-27 |  |
 | [Romaria](https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0) | [Andy Sheppard Quartet](https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb) | [Romaria](https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY) | 5:11 | 2023-02-15 | 2023-07-13 |
 | [Rosita](https://open.spotify.com/track/3tzOXO0tEqbI4SCrSDhZ4J) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:02 | 2022-10-27 |  |
+| [Roy](https://open.spotify.com/track/3HtrgoW2iPVupeM8SU3718) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [on the tender spot of every calloused moment](https://open.spotify.com/album/6PTSXZ3c5ZsZzmYUD749ji) | 2:40 | 2023-06-21 |  |
 | [Ruby, My Dear](https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Thelonious Monk with John Coltrane \(OJC Remaster\)](https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy) | 6:21 | 2022-10-27 |  |
 | [Salt Peanuts](https://open.spotify.com/track/1xXydFs62EqOXFMPizVhn4) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 3:16 | 2022-10-27 |  |
 | [Sandu](https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 4:57 | 2022-10-27 |  |
@@ -459,7 +460,7 @@
 | [Smile](https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:33 | 2022-10-27 | 2023-07-02 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/5nfWH9Vn6PIaUnf2a9VthM) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 7](https://open.spotify.com/album/7Dp502glaAEcu6WzJiR7jG) | 3:55 | 2022-10-27 | 2023-07-09 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6c43P6dajhlC62yCOxkWKf) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Brownie: The Complete EmArcy Recordings Of Clifford Brown](https://open.spotify.com/album/7tJS8e9TvcDxD6M9DSqIra) | 3:14 | 2023-01-03 | 2023-04-09 |
-| [Smooch](https://open.spotify.com/track/2EgJi1CKzLgsbSRH7A5lcA) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:04 | 2022-10-27 |  |
+| [Smooch](https://open.spotify.com/track/2EgJi1CKzLgsbSRH7A5lcA) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:04 | 2022-10-27 | 2023-08-04 |
 | [So Tender](https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Standards, Vol\. 2](https://open.spotify.com/album/6fvZds34e7H5ICQ5HOWNbd) | 7:15 | 2022-10-27 |  |
 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 | 2022-10-27 |  |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/2CLZaxEWSVkteBpjhmyLRE) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [The Best Of The Blue Note Years](https://open.spotify.com/album/1nGkt50fYVSDGiEVCwf9Fc) | 6:33 | 2022-10-27 | 2023-02-01 |

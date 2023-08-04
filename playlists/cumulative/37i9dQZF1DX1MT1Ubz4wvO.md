@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Mujer Cebra en portada.
 
-1,558 songs - 3 day 19 hr 43 min
+1,559 songs - 3 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1044,7 +1044,8 @@
 | [Noches de Cumbia y Rock](https://open.spotify.com/track/0dAuo4OAOnq6SBadj6ONrh) | [Javier Sólo](https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy), [Casa Valdés](https://open.spotify.com/artist/4W9SOjwZVi72U7cc6odcuJ) | [Un Buzo en América](https://open.spotify.com/album/5PapgopCqJAcM9CL44mjAG) | 3:38 | 2022-10-21 | 2022-11-12 |
 | [Noches de Madrugada](https://open.spotify.com/track/0VHfGs67bu1uDUpjjpekc3) | [ERRE](https://open.spotify.com/artist/4JEY5WEJnYy38hhcpWb1f2), [Celine](https://open.spotify.com/artist/7JqN1WFu4GdAPsEUawSwyp) | [Noches de Madrugada](https://open.spotify.com/album/6xDH8tviWtDQVyfQOjAovL) | 3:07 | 2022-11-18 | 2022-12-03 |
 | [Nocivo](https://open.spotify.com/track/0VY6RTwhiUGDCoqLG4Hj0c) | [JAF](https://open.spotify.com/artist/3KsdiCqV04TOBhPWmk7u90) | [Nocivo](https://open.spotify.com/album/2yvwVVgJYwr4Eh19CSdyuk) | 3:33 | 2022-10-07 | 2022-10-15 |
-| [Nocturno](https://open.spotify.com/track/2f84SuZ9u9xfxI301Y0fR9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/5mGNd7BvwbRtiHG9T8Gbgi) | 3:48 | 2023-07-21 |  |
+| [Nocturno](https://open.spotify.com/track/2f84SuZ9u9xfxI301Y0fR9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/5mGNd7BvwbRtiHG9T8Gbgi) | 3:48 | 2023-07-21 | 2023-08-04 |
+| [Nocturno](https://open.spotify.com/track/7MozRXZtbP7cAy0rRFM2l9) | [Los Látigos](https://open.spotify.com/artist/4gQjSrUccdskocfsE4L1MF) | [Nocturno](https://open.spotify.com/album/31LflZmiS6wi2VDlaHJuGh) | 3:48 | 2023-07-28 |  |
 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 | 2022-08-26 | 2022-09-10 |
 | [Noni](https://open.spotify.com/track/16nmeXeSqHtKDH32kIufSd) | [Satón](https://open.spotify.com/artist/5Nvf8jPVGMPh1reinByBW5) | [Noni](https://open.spotify.com/album/4vTyEK3eVU5N24JZlviBNy) | 2:00 | 2023-06-23 | 2023-07-08 |
 | [Nos Entenderan](https://open.spotify.com/track/1wpJN9qrnF32mj4zzr8hbs) | [Making Movies](https://open.spotify.com/artist/1wFpAE8HCGoqaLjzRO51w9) | [XOPA](https://open.spotify.com/album/1Zsjy7A3Krl31ZrTifjHqP) | 3:39 | 2022-06-24 | 2022-07-02 |

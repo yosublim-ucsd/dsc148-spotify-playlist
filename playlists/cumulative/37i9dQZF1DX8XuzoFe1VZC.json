@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 156666,
       "name": "Arrepentido",
       "url": "https://open.spotify.com/track/1mq85Gjrq8OrkesA0IA9t2"
@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Donde No Nos Vean",
+        "url": "https://open.spotify.com/album/0AygnqHTY9OFIn8Gb68r8w"
+      },
+      "artists": [
+        {
+          "name": "The Sistars",
+          "url": "https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153063,
+      "name": "Donde No Nos Vean",
+      "url": "https://open.spotify.com/track/2gKiK9YuujE5D7IDKlxOQ3"
+    },
+    {
+      "album": {
         "name": "Dos Besitos",
         "url": "https://open.spotify.com/album/1lwLGfbG3i8IIe8k92yv58"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 184826,
       "name": "Ex (con La Joaqui)",
       "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 151988,
       "name": "LA NENA DE ARGENTINA",
       "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
@@ -1445,6 +1463,28 @@
     },
     {
       "album": {
+        "name": "LORO",
+        "url": "https://open.spotify.com/album/1HXRxYf1zHa5WZu70DXYCo"
+      },
+      "artists": [
+        {
+          "name": "Robleis",
+          "url": "https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "LORO",
+      "url": "https://open.spotify.com/track/55UW6NYVtbjUgX4vwEV3GQ"
+    },
+    {
+      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -1536,10 +1576,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 202854,
       "name": "Mami no llores",
       "url": "https://open.spotify.com/track/2KKIJwDbT4tbF9RdMg2aHC"
+    },
+    {
+      "album": {
+        "name": "Maquillada en la Cama",
+        "url": "https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218663,
+      "name": "Maquillada en la Cama",
+      "url": "https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF"
     },
     {
       "album": {
@@ -1780,7 +1838,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 152387,
       "name": "Mover El Bote",
       "url": "https://open.spotify.com/track/07N0qUjowbxVwgf4wVbXKB"
@@ -2310,6 +2368,24 @@
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "album": {
+        "name": "AFRODHIT",
+        "url": "https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144686,
+      "name": "Que Se V\u00e1",
+      "url": "https://open.spotify.com/track/7tSZyaZS1hHZ87RcZ2jAeB"
     },
     {
       "album": {
@@ -2942,7 +3018,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 167636,
       "name": "Tuya",
       "url": "https://open.spotify.com/track/40EWRKr8ElC61tOm9Um26X"

@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels",
-  "num_followers": 15735,
+  "num_followers": 15863,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmEyYmFlNTJkNzVhMzcyMmI2OGMyMTRmZDVkMWYyZDE4N2IzYTRh",
+  "snapshot_id": "MCwyYjczMWE4NGVkOWU2MzdiNTZlNzZlM2M4MjhjMGZhMTA3ODBiYWVh",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -75,6 +75,42 @@
       "duration_ms": 225142,
       "name": "Mysoul",
       "url": "https://open.spotify.com/track/6ntoVaDBf5Hc6cOIYBcaJg"
+    },
+    {
+      "added_at": "2023-07-28 11:27:32",
+      "album": {
+        "name": "thinkin' about you",
+        "url": "https://open.spotify.com/album/03nqonZ3inIazXypenyqLl"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "duration_ms": 137872,
+      "name": "thinkin' about you",
+      "url": "https://open.spotify.com/track/5IRzClFKHGNfPhQFhKD2IP"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "sleeping satellite",
+        "url": "https://open.spotify.com/album/5s4f2ehTsA304XkhUlCkoy"
+      },
+      "artists": [
+        {
+          "name": "Matr\u0113",
+          "url": "https://open.spotify.com/artist/0mUVjgWQLUlTuzafZdYeKK"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 165992,
+      "name": "sleeping satellite",
+      "url": "https://open.spotify.com/track/63MQ2xbknPiLzGHLMEFt3Z"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -181,20 +217,28 @@
       "url": "https://open.spotify.com/track/5xbCwWdi2a6qa7zOFc7Ej6"
     },
     {
-      "added_at": "2023-07-28 11:27:32",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "thinkin' about you",
-        "url": "https://open.spotify.com/album/03nqonZ3inIazXypenyqLl"
+        "name": "Daybreak (with Zachary Knowles) [Angrybaby Remix]",
+        "url": "https://open.spotify.com/album/5oICt4oowWols2LtqBdqDL"
       },
       "artists": [
         {
-          "name": "Rommii",
-          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Zachary Knowles",
+          "url": "https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI"
+        },
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
         }
       ],
-      "duration_ms": 137872,
-      "name": "thinkin' about you",
-      "url": "https://open.spotify.com/track/5IRzClFKHGNfPhQFhKD2IP"
+      "duration_ms": 173887,
+      "name": "Daybreak (with Zachary Knowles) - Angrybaby Remix",
+      "url": "https://open.spotify.com/track/1541aci0DCeaNlmPMYNvfW"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -211,6 +255,122 @@
       "duration_ms": 220625,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "what we had was real",
+        "url": "https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "what we had was real",
+      "url": "https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        },
+        {
+          "name": "PHEA",
+          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM"
+      },
+      "artists": [
+        {
+          "name": "Jordan Burns",
+          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Quiver",
+        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 181459,
+      "name": "Quiver",
+      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -231,6 +391,22 @@
       "duration_ms": 169453,
       "name": "Have Fun Forgetting About Me",
       "url": "https://open.spotify.com/track/532tXrhlAGohExwprUgERu"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/3g4I1lrC7oDxUhVysMfxZD"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/3P0Ic1PfrRQJWCNxzGcM2d"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -315,6 +491,38 @@
       "duration_ms": 243853,
       "name": "All Good - Jasper Tygner Remix",
       "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Love Disc",
+        "url": "https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "duration_ms": 157611,
+      "name": "80HD",
+      "url": "https://open.spotify.com/track/5x9dNJ7IZbfvPTwLlag3np"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200329,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -441,6 +649,22 @@
       "url": "https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR"
     },
     {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Leave The Water Still",
+        "url": "https://open.spotify.com/album/2rCUuPSpWfx1XUi0HApTjz"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 180175,
+      "name": "Leave The Water Still",
+      "url": "https://open.spotify.com/track/7IiLsCv7fvoqnZ95NPfRsw"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Close 2 U",
@@ -455,6 +679,30 @@
       "duration_ms": 181512,
       "name": "Close 2 U",
       "url": "https://open.spotify.com/track/35pDv7illobZwBuAESRD6g"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "See This Through (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/23EZlHdMqPutEYNt7uTguV"
+      },
+      "artists": [
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282890,
+      "name": "See This Through - George Fitzgerald Remix",
+      "url": "https://open.spotify.com/track/6lGy5cphcbocAN4X4gVVjr"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -487,22 +735,6 @@
       "duration_ms": 194730,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "what we had was real",
-        "url": "https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV"
-      },
-      "artists": [
-        {
-          "name": "Rommii",
-          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "what we had was real",
-      "url": "https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -539,6 +771,26 @@
       "duration_ms": 185864,
       "name": "HOLD YOU - Camden Cox Remix",
       "url": "https://open.spotify.com/track/5zLYT3Tp6GHABZr4eUJGFQ"
+    },
+    {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "La le\u00e7on particuli\u00e8re",
+        "url": "https://open.spotify.com/album/0ZcIjW5V4jfAEAP2mcIJ5r"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        },
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "La le\u00e7on particuli\u00e8re",
+      "url": "https://open.spotify.com/track/3NWRapFZSlpHXO38LW21rw"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -645,6 +897,22 @@
       "url": "https://open.spotify.com/track/0CxBI3tA8ZOUYTS0pPX45g"
     },
     {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Technicolour Places",
+        "url": "https://open.spotify.com/album/0AEYQ1ErcrYSaNtmq1NjzA"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "You\u2019re Everything",
+      "url": "https://open.spotify.com/track/31j0qU6GnhauFcJNnnbmMl"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Tennis Skirt (feat. Ella Boh)",
@@ -665,24 +933,20 @@
       "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6qqa82E8e1qMK9mv3OZ6uj"
+        "name": "feel something real",
+        "url": "https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N"
       },
       "artists": [
         {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        },
-        {
-          "name": "PHEA",
-          "url": "https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         }
       ],
-      "duration_ms": 165961,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/5s0S3Y5Ciq1suPbzRCKYpo"
+      "duration_ms": 208676,
+      "name": "feel something real",
+      "url": "https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -757,6 +1021,30 @@
       "url": "https://open.spotify.com/track/0w5ebrPN1s8eLSVfA63L20"
     },
     {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Cycles (Darby Remix)",
+        "url": "https://open.spotify.com/album/2KMCFCIxT45zypf9SGaZpT"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        },
+        {
+          "name": "Isaiah",
+          "url": "https://open.spotify.com/artist/3gsYxd24CST6We4T6MAtwT"
+        }
+      ],
+      "duration_ms": 178235,
+      "name": "Cycles - Darby Remix",
+      "url": "https://open.spotify.com/track/4P95ys389gp7LR9Al5RbDx"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "HOLD YOU (GUDFELLA Remix)",
@@ -821,6 +1109,26 @@
       "url": "https://open.spotify.com/track/5146r6RrR2ElhlrGr64Fuq"
     },
     {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/5B1D7dZ3zbLtK48zqhS8cY"
+      },
+      "artists": [
+        {
+          "name": "Paraleven",
+          "url": "https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr"
+        },
+        {
+          "name": "Baerd",
+          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+        }
+      ],
+      "duration_ms": 367766,
+      "name": "Wait for a Dream (feat. Baerd)",
+      "url": "https://open.spotify.com/track/1YfOwYwRmvCSTRRPnMYSep"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "what we had",
@@ -861,6 +1169,22 @@
       "url": "https://open.spotify.com/track/6xRhFcqq4FX9b0PFZU1j43"
     },
     {
+      "added_at": "2023-08-03 22:00:00",
+      "album": {
+        "name": "then i run :/",
+        "url": "https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "then i run :/",
+      "url": "https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "AM:PM (Remixes)",
@@ -885,20 +1209,20 @@
       "url": "https://open.spotify.com/track/6Hqia0eaXtwLUpZEGAhhjv"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM"
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/19djgC1ATwUgOqfweOtUQW"
       },
       "artists": [
         {
-          "name": "Jordan Burns",
-          "url": "https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS"
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk"
+      "duration_ms": 194769,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/2uZGQfnuG1ZLmBhtz06IEX"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -949,20 +1273,20 @@
       "url": "https://open.spotify.com/track/7hETh8TWWZ5u2oI0OhieCL"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+        "name": "win your love",
+        "url": "https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst"
       },
       "artists": [
         {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
         }
       ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
+      "duration_ms": 215413,
+      "name": "win your love",
+      "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1085,20 +1409,20 @@
       "url": "https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-08-03 22:00:00",
       "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
       "artists": [
         {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
         }
       ],
-      "duration_ms": 174545,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+      "duration_ms": 250415,
+      "name": "Butch",
+      "url": "https://open.spotify.com/track/1BVv7EhtErHUBe50h6XW20"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1155,22 +1479,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "TANZPARTEI (Mixtape)",
-        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1187,22 +1495,6 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Quiver",
-        "url": "https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO"
-      },
-      "artists": [
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 181459,
-      "name": "Quiver",
-      "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
     },
     {
       "added_at": "2023-07-07 04:00:00",

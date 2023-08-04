@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-332 songs - 19 hr 15 min
+333 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Fiamme negli occhi](https://open.spotify.com/track/60nw7bwqYjVsrccNjF6TMO) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Nostralgia](https://open.spotify.com/album/4PVi4qfN8fUIdE6sZXXQ0b) | 3:26 | 2022-05-05 | 2022-07-29 |
 | [Fino all'imbrunire](https://open.spotify.com/track/6CpNFssMc4OOKJ1mXlXD0o) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore che torni](https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc) | 4:13 | 2022-05-05 | 2022-06-15 |
 | [Fiori di Chernobyl](https://open.spotify.com/track/54PxYcGpSUCmlpGdFGTaYR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Fiori di Chernobyl](https://open.spotify.com/album/2YqJPEAO5DFRRjNug1lwW4) | 2:55 | 2022-05-05 | 2022-07-29 |
-| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-06-09 |  |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-06-09 | 2023-08-04 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-06-09 |  |
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-09-21 |  |
 | [Furore](https://open.spotify.com/track/2x9GwGubDShXuI7aWGX03J) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue) | [Furore](https://open.spotify.com/album/3aPQI4O4pG5anpWcsmMuTS) | 2:56 | 2023-02-28 | 2023-03-04 |
 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 | 2022-05-05 |  |

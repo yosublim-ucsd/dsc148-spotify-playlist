@@ -1,15 +1,103 @@
 {
   "description": "Listen to the soundtracks of the show Bro and Marble. (\ube0c\ub85c \uc564 \ub9c8\ube14\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c '\uc5ec\ud589 \uac08 \ub54c \ub4e3\uae30 \uc88b\uc740 \ub178\ub798'\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 94,
+  "num_followers": 131,
   "original_name": "Bro and Marble (\ube0c\ub85c \uc564 \ub9c8\ube14)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTA5ODdmOWM3OWM5NzdkY2JkZDE5NThlNjU5ZWY4YmEzY2M1NTE5",
+  "snapshot_id": "MCxjYWVhNjZiMzUxNDk1YzMwMmRiYmQ3YzhiNDBjYzg4Y2UyZDBmNWMx",
   "tracks": [
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yeon Seok",
+          "url": "https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "Happy Together",
+      "url": "https://open.spotify.com/track/6NQdJHESu8Xn6bTJcMFY95"
+    },
+    {
+      "added_at": "2023-08-04 01:18:48",
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Yoo Yeon Seok",
+          "url": "https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj"
+        },
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "Happy Together inst.",
+      "url": "https://open.spotify.com/track/3mnJXZVpQhjKa4GkBCkbzZ"
+    },
+    {
+      "added_at": "2023-08-04 01:18:48",
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "Jaemin Yeo",
+          "url": "https://open.spotify.com/artist/7JBFcmuwZ6oVQKzosf2Ame"
+        },
+        {
+          "name": "Junhwan Cha",
+          "url": "https://open.spotify.com/artist/0eqKH7IBYJvM5voY2rRjfE"
+        }
+      ],
+      "duration_ms": 83442,
+      "name": "In One's Dreams",
+      "url": "https://open.spotify.com/track/6XRtqKNFW2alVW18X2KB1Q"
+    },
+    {
+      "added_at": "2023-08-04 01:18:48",
+      "album": {
+        "name": "Bro & Marble OST Part.3",
+        "url": "https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km"
+      },
+      "artists": [
+        {
+          "name": "Sechan Park",
+          "url": "https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV"
+        },
+        {
+          "name": "Jungyoon Lee",
+          "url": "https://open.spotify.com/artist/6DpDCmthcA8ziK9jBAhr5y"
+        },
+        {
+          "name": "Jaemin Yeo",
+          "url": "https://open.spotify.com/artist/7JBFcmuwZ6oVQKzosf2Ame"
+        }
+      ],
+      "duration_ms": 164361,
+      "name": "LOVE 2023",
+      "url": "https://open.spotify.com/track/3HXRUmGkg85hbFhtBdpHOw"
+    },
+    {
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.2",
         "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
@@ -29,7 +117,7 @@
       "url": "https://open.spotify.com/track/5uxn6it5JD9J4p9MDmgaTU"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.2",
         "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
@@ -49,7 +137,7 @@
       "url": "https://open.spotify.com/track/4xaRPXbCiUgM00T66o6x9G"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.2",
         "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
@@ -69,7 +157,7 @@
       "url": "https://open.spotify.com/track/1gtx1K4Rqmqy60ZaDgerea"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.2",
         "url": "https://open.spotify.com/album/6AwjTTvGsAnSLhf4HTAAMr"
@@ -93,7 +181,7 @@
       "url": "https://open.spotify.com/track/3tw5SouIap8N4FFXKU0jRl"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.1",
         "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
@@ -137,7 +225,7 @@
       "url": "https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.1",
         "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
@@ -181,7 +269,7 @@
       "url": "https://open.spotify.com/track/5bKujbBWXGRvuIlfsKzoKh"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.1",
         "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
@@ -201,7 +289,7 @@
       "url": "https://open.spotify.com/track/0gj6OldtmlWCNWqQCHyCe7"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Bro & Marble OST Part.1",
         "url": "https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ"
@@ -225,7 +313,7 @@
       "url": "https://open.spotify.com/track/2TxJXu2vzyeY3JoD8tzvDx"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Red Diary Page.2",
         "url": "https://open.spotify.com/album/34SNI9SBQ8i8Uou4nf1YEW"
@@ -241,7 +329,7 @@
       "url": "https://open.spotify.com/track/4dMGKGfaWMZNLQEjkd8lme"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
@@ -257,7 +345,7 @@
       "url": "https://open.spotify.com/track/5FKdWT5A7vDTEnPiHrruFY"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "The Blue Night of Jeju Island",
         "url": "https://open.spotify.com/album/5iW0uj451v2676mosJU16B"
@@ -273,7 +361,7 @@
       "url": "https://open.spotify.com/track/1bkVIRImvamFobcgE8aVW0"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "\uc5ec\ud589",
         "url": "https://open.spotify.com/album/67GM8yJoJ5bqAwiGZaU9lL"
@@ -289,7 +377,7 @@
       "url": "https://open.spotify.com/track/5jGfFWGRVQ2KblXUZRdR1B"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Buzz Effect",
         "url": "https://open.spotify.com/album/5x4zrXuHdIusSB0umnih8n"
@@ -305,7 +393,7 @@
       "url": "https://open.spotify.com/track/4K35mmvZKAq3ue2TyXisMW"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "The Project",
         "url": "https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn"
@@ -321,7 +409,7 @@
       "url": "https://open.spotify.com/track/3oM6vTO5WGgHP3DOIGWXfU"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "MY",
         "url": "https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl"
@@ -337,7 +425,7 @@
       "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/77jgit97Awso1HWgnklOpm"
@@ -357,7 +445,7 @@
       "url": "https://open.spotify.com/track/5ovDdxNULZDItJXsrN5O3o"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Crazy for You",
         "url": "https://open.spotify.com/album/0elA3F3PRa68MMFk6YsmpI"
@@ -373,7 +461,7 @@
       "url": "https://open.spotify.com/track/2dPbi4dhP5nl2f2NOiuZ6n"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Beach Again",
         "url": "https://open.spotify.com/album/427BTLanPKvIrBTq80FVHW"
@@ -389,7 +477,7 @@
       "url": "https://open.spotify.com/track/4L1MHK27ifT30Ndicpr7js"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "The Road : Keep on Going - The 11th Album Vol.1",
         "url": "https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp"
@@ -405,7 +493,7 @@
       "url": "https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "I - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
@@ -425,7 +513,7 @@
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/7zsbPbKYFE7pt9qkkGaJdI"
@@ -441,7 +529,7 @@
       "url": "https://open.spotify.com/track/0oUZJfeFYxPUNuVC0wp0T3"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Kang's Kitchen3",
         "url": "https://open.spotify.com/album/6I5jZ0dOJLoyyiPvYEtbst"
@@ -465,7 +553,7 @@
       "url": "https://open.spotify.com/track/6lejhkABV4Hns2v1ZJjPwJ"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Time with you",
         "url": "https://open.spotify.com/album/3vzzNhNXG0AlugKvvQxgNy"
@@ -481,7 +569,7 @@
       "url": "https://open.spotify.com/track/4M2WocWA6Qx0xn47zTNkoF"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Heng:gar\u00e6",
         "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
@@ -497,7 +585,7 @@
       "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Love&Letter repackage album",
         "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
@@ -513,7 +601,7 @@
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'",
         "url": "https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo"
@@ -529,7 +617,7 @@
       "url": "https://open.spotify.com/track/5nR49Yw6tAlOd1DLfuwWAA"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "; [Semicolon]",
         "url": "https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL"
@@ -545,7 +633,7 @@
       "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
         "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
@@ -561,7 +649,7 @@
       "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "SEVENTEEN 10th Mini Album 'FML'",
         "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
@@ -577,7 +665,7 @@
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "A-TEEN2 Part.2",
         "url": "https://open.spotify.com/album/3U2CtLGvuiukljwO8rPoVk"
@@ -593,7 +681,7 @@
       "url": "https://open.spotify.com/track/5G5MW3CIQ26AV08Yl7UV6m"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "An Ode",
         "url": "https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T"
@@ -609,7 +697,7 @@
       "url": "https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Seventeen 3rd Mini Album \u2019Going Seventeen\u2019",
         "url": "https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9"
@@ -625,7 +713,7 @@
       "url": "https://open.spotify.com/track/0pWxUlYb3EM2WkcTJfwBdP"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "SEVENTEEN 2nd Mini Album \u2018BOYS BE\u2019",
         "url": "https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD"
@@ -641,7 +729,7 @@
       "url": "https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
@@ -657,7 +745,7 @@
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Do It Like That",
         "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
@@ -677,7 +765,7 @@
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
@@ -693,7 +781,7 @@
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "She calls me a friend",
         "url": "https://open.spotify.com/album/1uyU3xWIr4unlXxQA220aF"
@@ -709,7 +797,7 @@
       "url": "https://open.spotify.com/track/69RqKGmZBs4scLKSiSqmtU"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM"
@@ -725,7 +813,7 @@
       "url": "https://open.spotify.com/track/4DYIDSMIB5y2UmZFv9fxeX"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "\uc5ec\ud589\uc744 \ub5a0\ub098\uc694",
         "url": "https://open.spotify.com/album/0Ek3BX61Zf3ohYIyXyYT1R"
@@ -749,7 +837,7 @@
       "url": "https://open.spotify.com/track/1a9jSlzefI3nneLfmYG9dt"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "take off",
         "url": "https://open.spotify.com/album/625ivX8eMxwFimRAETnB7I"
@@ -765,7 +853,7 @@
       "url": "https://open.spotify.com/track/4u2FbOea0GhffHHLDpTQpp"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "NOWITZKI",
         "url": "https://open.spotify.com/album/2ZcI7Sbm7s2yz8l8wvIyUq"
@@ -785,7 +873,7 @@
       "url": "https://open.spotify.com/track/1bPMPSOQPIinoU6ZBDWtgb"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "5882 (OPPA ASAP)",
         "url": "https://open.spotify.com/album/1ibbXLP3T1UE7ve7MTqMsr"
@@ -801,7 +889,7 @@
       "url": "https://open.spotify.com/track/2mXkL3ZE9eCncPwc4aTsvC"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Ape Into Space",
         "url": "https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW"
@@ -817,7 +905,7 @@
       "url": "https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "45TH ANNIVERSARY CONCERT HELLO",
         "url": "https://open.spotify.com/album/7joDrhz7vXTcrBO6kaZjEK"
@@ -833,7 +921,7 @@
       "url": "https://open.spotify.com/track/1pfPCfU2VhUDeGvmICPPKA"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "In The Summer by SSAK3",
         "url": "https://open.spotify.com/album/6r63LLH5HEEtTE86btnJD8"
@@ -853,7 +941,7 @@
       "url": "https://open.spotify.com/track/1MELIJNsr1KyHJOJufbheK"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Monthly Project 2013 Yoon Jong Shin",
         "url": "https://open.spotify.com/album/1ib7DxM4rEQ0damSRUjodk"
@@ -869,7 +957,7 @@
       "url": "https://open.spotify.com/track/1xdH1zWqnARyIJOJvSBQBH"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Season Songs",
         "url": "https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ"
@@ -889,7 +977,7 @@
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
     },
     {
-      "added_at": "2023-07-31 01:52:55",
+      "added_at": "2023-08-04 01:18:48",
       "album": {
         "name": "Play the Summer",
         "url": "https://open.spotify.com/album/46yrNWQHbUAdWamoWhu69e"

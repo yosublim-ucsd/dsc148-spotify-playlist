@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Salebarbes
 
-1,971 songs - 4 day 9 hr 15 min
+1,972 songs - 4 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Coke Cowboys](https://open.spotify.com/track/4XNqghsgYsDRdODWHE7CBB) | [Dolfa](https://open.spotify.com/artist/4tYq6yvHUighhKUCd2WyUw), [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE), [Marlon](https://open.spotify.com/artist/7aG0VPVMhKj73bFRjNgAWr) | [Coke Cowboys](https://open.spotify.com/album/1eDel5luSCKr12uxQ2On2N) | 3:39 | 2022-01-28 | 2022-02-05 |
 | [Colibri](https://open.spotify.com/track/00HHatXoRa0KSgjUwu6Q4B) | [Country Club Pool Boy](https://open.spotify.com/artist/1gfU9wDNngW3xiJOAZalop), [Sophie D'Orléans](https://open.spotify.com/artist/4ne3AsAwTNAoQ74s5d0DGg) | [Colibri](https://open.spotify.com/album/1PYyoo19y5VwTx7xW7rU1A) | 2:35 | 2022-07-01 | 2022-07-16 |
 | [COLOC RECHERCHER](https://open.spotify.com/track/4ULP5zQWdUGKLVtBtU3Wrv) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [COLOC RECHERCHER](https://open.spotify.com/album/1YoeZQtUZOIaIatVrcQuGx) | 1:37 | 2022-08-19 | 2022-09-03 |
-| [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 |  |
+| [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 | 2023-08-04 |
 | [Combien de fois](https://open.spotify.com/track/0ZmrtZCiyuqA8Zmv3Ne9Gq) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [CHROME](https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V) | 2:34 | 2023-03-31 | 2023-04-24 |
 | [Come and go](https://open.spotify.com/track/1I2veivnqzi9M0VPpZOPj3) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f), [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc) | [Come and go](https://open.spotify.com/album/6Xy7zPLdpCdZ1GIOxxojNU) | 3:14 | 2022-11-11 | 2022-11-26 |
 | [Come To Daddy](https://open.spotify.com/track/0ANCfH6hKlqHqAdDczc7Qd) | [JACO](https://open.spotify.com/artist/4xPAHa1oTYyvzfNlCO5YGp) | [Come To Daddy](https://open.spotify.com/album/09u8dCwj2GDRuKsjJVRbqI) | 3:06 | 2023-03-31 | 2023-04-09 |
@@ -1091,6 +1091,7 @@
 | [Liszt\-o\-mania](https://open.spotify.com/track/0LDmsCvLrGpfG9SAbowV48) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Liszt\-o\-mania](https://open.spotify.com/album/5w4DdS6fdUPYsnXWodgy9x) | 3:52 | 2023-02-17 | 2023-03-04 |
 | [Liverpool](https://open.spotify.com/track/3YwKF2iOlT19HhZ45mYo5A) | [Alexe](https://open.spotify.com/artist/25OceRescHJwftJk284v8K) | [Liverpool](https://open.spotify.com/album/2RsObuyXDYC2cGpVaiXlJs) | 2:43 | 2023-02-24 | 2023-03-11 |
 | [Localisation](https://open.spotify.com/track/2TaTHfzyzOMqx915dNXYQH) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb) | [Localisation](https://open.spotify.com/album/6laUxe3C2mcSFLfjNETvbH) | 3:29 | 2022-05-27 | 2022-06-04 |
+| [Localisé](https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Chef D'orchestre](https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1) | 2:51 | 2023-07-28 |  |
 | [Loin](https://open.spotify.com/track/7gdQI1FFUsACxdd4jPL7Xr) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Loin](https://open.spotify.com/album/602HrkUZTIwwSdzDLraN0r) | 3:01 | 2022-04-22 | 2022-04-29 |
 | [Loin](https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Insomnia](https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS) | 3:22 | 2023-04-07 | 2023-05-13 |
 | [Loin de la guenille](https://open.spotify.com/track/208JeNNblyObOwyELA4R1o) | [Les frères Goyette](https://open.spotify.com/artist/1jnXQuhb3GMkO1voaEgjTW) | [Loin de la guenille](https://open.spotify.com/album/41oj3WILNBUCB5nZLLjPwT) | 3:42 | 2022-03-25 | 2022-04-02 |
@@ -1925,7 +1926,7 @@
 | [Wooh](https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Wooh](https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5) | 2:31 | 2022-05-27 | 2022-06-11 |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2021-12-31 | 2022-01-22 |
 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 | 2022-04-02 |
-| [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-28 |  |
+| [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-28 |  |
 | [Y peut mouiller](https://open.spotify.com/track/7DB1nOg1YJZhUHXiuKWz2C) | [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7) | [Y peut mouiller](https://open.spotify.com/album/3fk617GZRpCDEXIdosytTW) | 4:36 | 2022-06-17 | 2022-06-25 |
 | [Y'a pas juste le rhum](https://open.spotify.com/track/22cJLwgsY41vphEpXMOOWv) | [Alex et Caro](https://open.spotify.com/artist/6LuAYRiUw3vfGV3c4obH56) | [Le sablier](https://open.spotify.com/album/6ONB5SVMZACMuKhe1Jn79h) | 3:20 | 2022-04-15 | 2022-04-23 |
 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 | 2023-03-10 | 2023-03-18 |

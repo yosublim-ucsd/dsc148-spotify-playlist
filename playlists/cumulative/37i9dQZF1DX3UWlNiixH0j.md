@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: CHAI
 
-686 songs - 1 day 18 hr 54 min
+687 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Akebono \- 2023](https://open.spotify.com/track/7Gp8M2hRqUB2rrjJu56Bp9) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Akebono \(2023\)](https://open.spotify.com/album/0pIVXEt7OiY6Qk8KMeo67U) | 5:27 | 2023-06-29 | 2023-07-12 |
 | [Alba](https://open.spotify.com/track/3HxMollV5fMOhd1vN2zLSY) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Alba](https://open.spotify.com/album/579Ju3LZTlOeLqXemfyqQX) | 7:10 | 2023-02-21 | 2023-03-01 |
 | [All About You \(and Our Song\)](https://open.spotify.com/track/0bJC88XEXwXc2OSQmLfuGH) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [All About You \(and Our Song\)](https://open.spotify.com/album/5PgLX8PvyzmjII7PaWC2fO) | 3:04 | 2023-01-24 | 2023-02-22 |
+| [All Sunlight Must Fade](https://open.spotify.com/track/7l9SRbfxPegtQP2eSmXqyl) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Glare EP](https://open.spotify.com/album/3GoHBZf0ekERSB36XMoiQp) | 5:32 | 2023-08-03 |  |
 | [All Things Must Pass](https://open.spotify.com/track/37qSnbTvs6F7nN7cHL5N54) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [All Things Must Pass](https://open.spotify.com/album/6NqLzL5Enlk35dbaDysKbJ) | 4:39 | 2023-06-08 | 2023-07-12 |
 | [All to Myself](https://open.spotify.com/track/4nIy52HZ6omZxRnMs6qB0g) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [All to Myself](https://open.spotify.com/album/1X9QwFBNOCFiHkOE3OD4v2) | 3:18 | 2023-06-21 |  |
 | [Allergy song](https://open.spotify.com/track/0oxWuE6fWCpNb9muRYM0mm) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [Cocoa with Marshmallows](https://open.spotify.com/album/647HAwp0smQvXrMVyI6BjQ) | 3:17 | 2023-01-12 | 2023-01-25 |
@@ -141,7 +142,7 @@
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2023-01-12 |  |
 | [Flower Garden](https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/3gl9jYl3G7xejBi8uqp5j7) | 3:21 | 2023-08-01 | 2023-08-03 |
 | [Flower Garden](https://open.spotify.com/track/49ilraYOTBgASnmiTR8mgA) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Flower Garden](https://open.spotify.com/album/6bR9WLzzbDCSnns59r9GDY) | 3:21 | 2023-08-01 |  |
-| [Flowing](https://open.spotify.com/track/0HLCzCW6ja01PiywKAgX6V) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Flowing](https://open.spotify.com/album/2gWO71K4dQhPqMbYK4MN2D) | 5:53 | 2023-07-27 |  |
+| [Flowing](https://open.spotify.com/track/0HLCzCW6ja01PiywKAgX6V) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Flowing](https://open.spotify.com/album/2gWO71K4dQhPqMbYK4MN2D) | 5:53 | 2023-07-27 | 2023-08-04 |
 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 | 2023-06-27 | 2023-07-26 |
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 |  |
 | [Four](https://open.spotify.com/track/5kYn9qvedVqJ7pef7uxGgH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 3:38 | 2023-03-07 | 2023-03-29 |

@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 68898,
+  "num_followers": 68889,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDRhMzhiZDg3Mjg0MWY5Mjk5YjlhM2I2NWM2ZGEzMDcxYjRlZGQ0",
+  "snapshot_id": "MCw3NWE5ZDI2YWM3NjY5NjEzOGM0YzY2OTFmOTczMTUyMTQ2NTMwMDM4",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
+        "name": "Brutally",
+        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 208105,
+      "name": "Brutally",
+      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
         "name": "Unfortunate Love",
         "url": "https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 226582,
       "name": "Unfortunate Love",
       "url": "https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
-        "name": "Brutally",
-        "url": "https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 208105,
-      "name": "Brutally",
-      "url": "https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Devon or Las Vegas",
-        "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
-      },
-      "artists": [
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Mountaineer",
         "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 221875,
       "name": "Mountaineer",
       "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Devon or Las Vegas",
+        "url": "https://open.spotify.com/album/2iBH65jlLWmkzAAkqu0Ade"
+      },
+      "artists": [
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4s3G9Ifc1dp8xEksZxNe8P"
     },
     {
       "added_at": "2022-12-02 19:02:37",

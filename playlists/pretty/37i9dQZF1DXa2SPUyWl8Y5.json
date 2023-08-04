@@ -1,12 +1,12 @@
 {
   "description": "Focus with deep techno and tech house.",
-  "num_followers": 465788,
+  "num_followers": 465954,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGE2ZTEzOGQ5ZjBlMWJlMDIzZjBiMWYxN2Y5NTNlMTc2M2ViNzA5",
+  "snapshot_id": "MCwyNmMwNmZhNTllZjkzM2M4NmFlNmQ3ZjEzYTlhZmY0OTgwYWZjNGZi",
   "tracks": [
     {
       "added_at": "2023-06-30 15:07:53",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Tarcu",
-        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
+        "name": "Mars",
+        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "S.ONE",
+          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
         }
       ],
-      "duration_ms": 238537,
-      "name": "Tarcu",
-      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
+      "duration_ms": 362218,
+      "name": "Meli",
+      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Mars",
-        "url": "https://open.spotify.com/album/2YVAInSCAKFxTMWWHEaStT"
+        "name": "Tarcu",
+        "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
       "artists": [
         {
-          "name": "S.ONE",
-          "url": "https://open.spotify.com/artist/4x7ePVME5cJAvsXgzTT0Hc"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
         }
       ],
-      "duration_ms": 362218,
-      "name": "Meli",
-      "url": "https://open.spotify.com/track/3g6pA9NF7tNX8vrsaHL510"
+      "duration_ms": 238537,
+      "name": "Tarcu",
+      "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Wormhole",
-        "url": "https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        }
-      ],
-      "duration_ms": 437953,
-      "name": "Wormhole",
-      "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Hipotez",
         "url": "https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 352920,
       "name": "Hipotez",
       "url": "https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Wormhole",
+        "url": "https://open.spotify.com/album/10PmsWsXc3P2jeHkyJjkpT"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        }
+      ],
+      "duration_ms": 437953,
+      "name": "Wormhole",
+      "url": "https://open.spotify.com/track/1ZE6ebWHUSp2v6JAPpp8eS"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Bird EP",
-        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
-      },
-      "artists": [
-        {
-          "name": "Recondite",
-          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
-        }
-      ],
-      "duration_ms": 350047,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 413658,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Bird EP",
+        "url": "https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec"
+      },
+      "artists": [
+        {
+          "name": "Recondite",
+          "url": "https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK"
+        }
+      ],
+      "duration_ms": 350047,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Mind Kontrol EP",
-        "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
+        "name": "Planet F",
+        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
       },
       "artists": [
         {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
         }
       ],
-      "duration_ms": 403709,
-      "name": "Dark Future",
-      "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
+      "duration_ms": 241769,
+      "name": "Planet F",
+      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Planet F",
-        "url": "https://open.spotify.com/album/2GNTFKRmaZkZSzxGcSAKeQ"
+        "name": "Mind Kontrol EP",
+        "url": "https://open.spotify.com/album/0Gb1g3zTWUGkO8OpG5nHmc"
       },
       "artists": [
         {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
         }
       ],
-      "duration_ms": 241769,
-      "name": "Planet F",
-      "url": "https://open.spotify.com/track/7zL8LOU2Wzhc48ObFxOUq8"
+      "duration_ms": 403709,
+      "name": "Dark Future",
+      "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
-      },
-      "artists": [
-        {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "GRAZZE",
-          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
-        }
-      ],
-      "duration_ms": 262926,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "If I Had Wings",
         "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
       },
@@ -1103,22 +1083,6 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Minister",
-        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Portman",
-          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
-        }
-      ],
-      "duration_ms": 240020,
-      "name": "Minister",
-      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
         "name": "Landing in Halifax",
         "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
@@ -1135,18 +1099,18 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+        "name": "Minister",
+        "url": "https://open.spotify.com/album/25m24dUkyawXKaRAPBTrAZ"
       },
       "artists": [
         {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+          "name": "Daniel Portman",
+          "url": "https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM"
         }
       ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+      "duration_ms": 240020,
+      "name": "Minister",
+      "url": "https://open.spotify.com/track/3cyN9y1ZKdCkx7KB0E1GRM"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1167,6 +1131,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Seige",
         "url": "https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M"
       },
@@ -1183,34 +1163,22 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/3hSEqztpBnREFLhQSFi2Yi"
       },
       "artists": [
         {
-          "name": "Township Rebellion",
-          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
-        }
-      ],
-      "duration_ms": 570543,
-      "name": "Red Planet",
-      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
-      },
-      "artists": [
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
         {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+          "name": "GRAZZE",
+          "url": "https://open.spotify.com/artist/4NyGWI0UeGa6jOyRDLawjt"
         }
       ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+      "duration_ms": 262926,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4oXPyrvgfsqR8kgHxZZrUa"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1251,6 +1219,38 @@
     {
       "added_at": "2023-06-30 15:07:53",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+      },
+      "artists": [
+        {
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+        }
+      ],
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/09lSN1OFfFwaCmhwQpUdXz"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        }
+      ],
+      "duration_ms": 570543,
+      "name": "Red Planet",
+      "url": "https://open.spotify.com/track/44c74BqpkDXXmxeieS37P3"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "10 Years URSL - Reframed Future",
+        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
+      },
+      "artists": [
+        {
+          "name": "Schlepp Geist",
+          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
+        }
+      ],
+      "duration_ms": 425437,
+      "name": "Reframed Future",
+      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1283,6 +1299,22 @@
       "duration_ms": 192016,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+    },
+    {
+      "added_at": "2023-06-30 15:07:53",
+      "album": {
+        "name": "Nanika",
+        "url": "https://open.spotify.com/album/4FWcUpG3yKfpRjGVTJidNu"
+      },
+      "artists": [
+        {
+          "name": "Sans Souci",
+          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Nanika",
+      "url": "https://open.spotify.com/track/4xDcIRw7k8UnasakGxwVpb"
     },
     {
       "added_at": "2023-06-30 15:07:53",
@@ -1323,38 +1355,6 @@
       "duration_ms": 212849,
       "name": "Sora",
       "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "10 Years URSL - Reframed Future",
-        "url": "https://open.spotify.com/album/0gPGJUOaKc9W4izlxJlMfT"
-      },
-      "artists": [
-        {
-          "name": "Schlepp Geist",
-          "url": "https://open.spotify.com/artist/3QrUgT4R2242O2mqHUeI95"
-        }
-      ],
-      "duration_ms": 425437,
-      "name": "Reframed Future",
-      "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"
-    },
-    {
-      "added_at": "2023-06-30 15:07:53",
-      "album": {
-        "name": "Nanika",
-        "url": "https://open.spotify.com/album/4FWcUpG3yKfpRjGVTJidNu"
-      },
-      "artists": [
-        {
-          "name": "Sans Souci",
-          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Nanika",
-      "url": "https://open.spotify.com/track/4xDcIRw7k8UnasakGxwVpb"
     }
   ],
   "unique_name": "Beats to think to",

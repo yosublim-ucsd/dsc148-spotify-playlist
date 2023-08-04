@@ -1,12 +1,12 @@
 {
   "description": "Float away on heady orchestrations and haunting harmonies...",
-  "num_followers": 844524,
+  "num_followers": 844569,
   "original_name": "Chill + Atmospheric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGEwZWQ3OTJiMGE3N2QzMjYxZDM3NjgyZmE0ZGQxMzNiMmY1Zjg5",
+  "snapshot_id": "MCxmZWY2OTc5NTE3MjBjYzEyMzQ1ODhjZmM4YWU3NmJkM2Q0ZGFhNDM2",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 211794,
-      "name": "The Rains",
-      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "The Crow Mother",
         "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 216493,
       "name": "The Fold",
       "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 211794,
+      "name": "The Rains",
+      "url": "https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Holding On, Holding Out",
-        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "howling",
         "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Holding On, Holding Out",
+        "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
+        "name": "Open Season (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
+      },
+      "artists": [
+        {
+          "name": "High Highs",
+          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
+        }
+      ],
+      "duration_ms": 150521,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
         "name": "Anjunadeep 08",
         "url": "https://open.spotify.com/album/7ckNwltWINt80QWoGjN5Yy"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 214933,
       "name": "Hunger Of The Pine - Jody Wisternoff & James Grant Remix",
       "url": "https://open.spotify.com/track/6jrztnYIBYFo121nj0Oajx"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Open Season (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4F5s7tDOWFCgozxJg0o8Rw"
-      },
-      "artists": [
-        {
-          "name": "High Highs",
-          "url": "https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4"
-        }
-      ],
-      "duration_ms": 150521,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/2HLd7alxKkXHU2KmbGUUVm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/6V4stuxihHZTe7vvJxdkdt"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Do It All Again",
+        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Do It All Again",
+      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 189320,
-      "name": "apathy",
-      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 257582,
       "name": "Awake Me",
       "url": "https://open.spotify.com/track/4H9aMftedBe0UEHv0IXYgQ"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "apathy",
+      "url": "https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Everyone's Moving Out East",
-        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Everyone's Moving Out East",
-      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Everyone's Moving Out East",
+        "url": "https://open.spotify.com/album/4vj5NwsjRRp2yH2vva8Ovx"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Everyone's Moving Out East",
+      "url": "https://open.spotify.com/track/60dqxfmPMO7eTq02vTBOFm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Island",
-        "url": "https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0"
-      },
-      "artists": [
-        {
-          "name": "Corrina Repp",
-          "url": "https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz"
-        }
-      ],
-      "duration_ms": 278625,
-      "name": "One Summer",
-      "url": "https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+        "name": "Island",
+        "url": "https://open.spotify.com/album/3o9uyMA85EvDzYvbvfoRh0"
       },
       "artists": [
         {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+          "name": "Corrina Repp",
+          "url": "https://open.spotify.com/artist/6VhCOB0YOxq4S2a8GuPtvz"
         }
       ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
+      "duration_ms": 278625,
+      "name": "One Summer",
+      "url": "https://open.spotify.com/track/3T3nxiYdQQxF0EjBtwDAtm"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 187370,
       "name": "Haven Lea",
       "url": "https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2023-06-16 04:00:00",

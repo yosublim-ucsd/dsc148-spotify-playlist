@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R?si=tWQu77vKQA-QKh6NMAIjsA\">OSKIDO</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\" https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c?si=rM02Iyq-TX2J_gU5wGGDPQ\">Deep Narratives</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 508240,
       "name": "Be Dimensions (feat. Clara Hill) - Thakzin Remix",
       "url": "https://open.spotify.com/track/1cF2GdyKVonnljp4xHyZKY"
@@ -4191,6 +4191,36 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/6pkVIkVlOcg62zNckOzhai"
+      },
+      "artists": [
+        {
+          "name": "Mzux Maen",
+          "url": "https://open.spotify.com/artist/3AqE17ZUeQYdJuQhb1gFZ0"
+        },
+        {
+          "name": "Nomakhosini",
+          "url": "https://open.spotify.com/artist/2KroEihE6rLeggqXnVHRgl"
+        },
+        {
+          "name": "Siph3",
+          "url": "https://open.spotify.com/artist/75e0THMOTFQIx7tcHoq4go"
+        },
+        {
+          "name": "Black Major",
+          "url": "https://open.spotify.com/artist/2GVa3mqeRyxYy8sxDuk2NB"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319076,
+      "name": "December",
+      "url": "https://open.spotify.com/track/0boqQgW7g8MBJuWJznREYq"
+    },
+    {
+      "album": {
         "name": "OOO: AFRO",
         "url": "https://open.spotify.com/album/4YNw1RfxL1PBwTcx0D0JCx"
       },
@@ -6032,7 +6062,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 229654,
       "name": "Gemini's",
       "url": "https://open.spotify.com/track/1PFi8Yu9sE9Gm6I0PXW6XX"
@@ -8087,6 +8117,32 @@
     },
     {
       "album": {
+        "name": "Insimbi",
+        "url": "https://open.spotify.com/album/3zFtvNJ9HJ6QQ8ZwXlAV0o"
+      },
+      "artists": [
+        {
+          "name": "Deep Narratives",
+          "url": "https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "Culoe De Song",
+          "url": "https://open.spotify.com/artist/69vFBZxQu4TQ4ZDOI9L6KR"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344458,
+      "name": "Insimbi",
+      "url": "https://open.spotify.com/track/4hgAosW5zsnd2hdJUdxwxF"
+    },
+    {
+      "album": {
         "name": "INSIMBI",
         "url": "https://open.spotify.com/album/5PAqpzzysS2EFGSIw31bfL"
       },
@@ -8682,7 +8738,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 226500,
       "name": "Kamili",
       "url": "https://open.spotify.com/track/5JEaCJCehAtt1nQf0gd9Dx"
@@ -12498,7 +12554,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 226229,
       "name": "Oh Lua",
       "url": "https://open.spotify.com/track/1vwv0Jz9aM3v4mP0IL1NEr"
@@ -13374,7 +13430,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 357435,
       "name": "Pussy Power - DESIREE Remix",
       "url": "https://open.spotify.com/track/3p4obn8kIkhvsGSji3CuXM"
@@ -16094,7 +16150,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 416787,
       "name": "That Organ Track",
       "url": "https://open.spotify.com/track/2b0Uxm2fJJSMKuSHnmlyBn"
@@ -16296,6 +16352,28 @@
       "duration_ms": 456097,
       "name": "The Hi",
       "url": "https://open.spotify.com/track/3s4WU81N2Da2yMuafxSuPt"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/344XmhltHIfdnibIE3Znp7"
+      },
+      "artists": [
+        {
+          "name": "FiNE",
+          "url": "https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198340,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0Kt5W5cPh0yXRxbdzyREFL"
     },
     {
       "album": {
@@ -18147,6 +18225,24 @@
     },
     {
       "album": {
+        "name": "Want U Again",
+        "url": "https://open.spotify.com/album/2s0aZNFIJiDY79ONncV56F"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434747,
+      "name": "Want U Again",
+      "url": "https://open.spotify.com/track/137KnVuHd8eN9oWr9q2cDo"
+    },
+    {
+      "album": {
         "name": "Warrior (feat. Nomvula SA)",
         "url": "https://open.spotify.com/album/4sCAUi6ujGGdEN8dUv8Fmf"
       },
@@ -18988,6 +19084,44 @@
       "duration_ms": 158847,
       "name": "YEAH (feat. ClockClock)",
       "url": "https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2"
+    },
+    {
+      "album": {
+        "name": "Yes God (M\u00f6rda, Thakzin, Mhaw Keys Remix)",
+        "url": "https://open.spotify.com/album/1lKbAHZVjunVFeZMEuwFLS"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "KG Smallz",
+          "url": "https://open.spotify.com/artist/0AiHL2WtZP5LOxzr28uZjK"
+        },
+        {
+          "name": "M\u00f6rda",
+          "url": "https://open.spotify.com/artist/7elJ7SSC2yLiDadOBLykdS"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
+        },
+        {
+          "name": "Dearson",
+          "url": "https://open.spotify.com/artist/1Xainl2EtdL0XRLDO0tUSD"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420229,
+      "name": "Yes God - M\u00f6rda, Thakzin, Mhaw Keys Remix",
+      "url": "https://open.spotify.com/track/0WPY91ucbS7OnJpo1x4smF"
     },
     {
       "album": {

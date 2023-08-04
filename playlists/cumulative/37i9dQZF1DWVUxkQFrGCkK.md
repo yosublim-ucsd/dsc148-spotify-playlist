@@ -4,7 +4,7 @@
 
 > Chill & Bumpy
 
-238 songs - 18 hr 37 min
+239 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Assumptions \- Kaytranada Edit](https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Assumptions \(Kaytranada Edit\)](https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR) | 4:48 | 2023-04-13 |  |
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2023-04-13 |  |
 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2023-04-13 |  |
+| [Back Home](https://open.spotify.com/track/6wWouMSlkr8DgSKqEgB58j) | [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Back Home](https://open.spotify.com/album/37PTukww7KYurZI9H6agcd) | 4:06 | 2023-08-03 |  |
 | [Backward Clocks](https://open.spotify.com/track/4h0uEHjhDLrjmDmZvELXIG) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Backward Clocks](https://open.spotify.com/album/37YsF99XGuMxPDloWQWL7m) | 6:27 | 2023-06-29 | 2023-08-02 |
 | [Bad Decisions](https://open.spotify.com/track/7Dfuaz3aDJR5cSIm39duc2) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [Bad Decisions](https://open.spotify.com/album/3oSEYtS73IvBGWGFLpnGol) | 3:02 | 2023-06-29 |  |
 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 | 2023-06-01 |  |

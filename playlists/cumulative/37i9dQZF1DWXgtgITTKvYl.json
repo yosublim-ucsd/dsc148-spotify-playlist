@@ -2096,10 +2096,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 278652,
       "name": "Zeus in Chains",
       "url": "https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0"
+    },
+    {
+      "album": {
+        "name": "Inviolate",
+        "url": "https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278652,
+      "name": "Zeus in Chains",
+      "url": "https://open.spotify.com/track/65eO1v5FQKMXWJMD4BLti5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl"

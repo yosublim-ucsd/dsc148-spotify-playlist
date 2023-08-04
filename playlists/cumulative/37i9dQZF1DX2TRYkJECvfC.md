@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-405 songs - 1 day 11 hr 34 min
+406 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Never \- Colyn Remix](https://open.spotify.com/track/6KYAD5ruYEBECCZ7cmrZgl) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Never \(Colyn Remix\)](https://open.spotify.com/album/4GHC4KxhLhSType2hPr6IN) | 3:37 | 2021-12-08 |  |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 |  |
+| [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 | 2023-07-31 |  |
 | [Nightwhisper](https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Nightwhisper](https://open.spotify.com/album/7kvbMYyWGN5mSO7zRLpDoU) | 3:37 | 2021-12-08 |  |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/3ZRb3HCjzWH2bQqlzk52xb) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Coookies 2](https://open.spotify.com/album/22GejLMhLmoRWaYvcuMkmw) | 4:02 | 2021-12-08 | 2022-09-04 |
 | [Nillla \(La la La la La\)](https://open.spotify.com/track/1Y5C8ioJGpEYzSdAbcJsqn) | [100 Keigh](https://open.spotify.com/artist/1FQzMTtbPIlbti4O3Z6MYm) | [Nillla \(La la La la La\)](https://open.spotify.com/album/6LOzTtWRvtuCHlsRZchMu4) | 4:02 | 2022-05-03 | 2023-05-06 |
@@ -381,7 +382,7 @@
 | [Unknown Neighbor](https://open.spotify.com/track/1EETWBjKos9qzuKFWYNK8w) | [Jonny Sum](https://open.spotify.com/artist/0OxVqyycCKHoJKWeuAmBOz) | [Unknown Neighbor](https://open.spotify.com/album/0UC3kcUEraSFCxRROvkiCb) | 6:27 | 2021-12-08 | 2022-07-29 |
 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 | 2023-06-30 |  |
 | [Viking](https://open.spotify.com/track/0SD82lVuflMLT8S4BamWtp) | [Adam Husa](https://open.spotify.com/artist/0fLNKqkCYBUhjSHX3yVZ3i), [M O N I T O R S](https://open.spotify.com/artist/6ZxQphvx5MuI3m1xzHSE6C) | [Viking](https://open.spotify.com/album/5J4gonRmEDbWf0bdqBaph7) | 6:58 | 2021-12-08 | 2022-07-29 |
-| [Vince Montana Tribute \- LV & Rick Wilhite ReWork](https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Rick Wilhite](https://open.spotify.com/artist/4ayLYM2DPcx5ItuBNT91IJ) | [Expansions In The NYC Preview EP 2](https://open.spotify.com/album/5NCskE1dM8MC2omjVYujlF) | 7:10 | 2021-12-08 |  |
+| [Vince Montana Tribute \- LV & Rick Wilhite ReWork](https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Rick Wilhite](https://open.spotify.com/artist/4ayLYM2DPcx5ItuBNT91IJ) | [Expansions In The NYC Preview EP 2](https://open.spotify.com/album/5NCskE1dM8MC2omjVYujlF) | 7:10 | 2021-12-08 | 2023-08-04 |
 | [Visionary](https://open.spotify.com/track/2c2KJyaxfA3scd09VdRMsA) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 5:23 | 2022-01-14 | 2022-05-04 |
 | [Vutuka](https://open.spotify.com/track/5dW1pmxxlWlBcqUUGL6wE9) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Junior](https://open.spotify.com/artist/3gW7PKtk41S7b9xqHIFeVA) | [Vutuka](https://open.spotify.com/album/5AY0gNgxwLvegognxBDPZe) | 8:46 | 2021-12-08 |  |
 | [Wairau Bay](https://open.spotify.com/track/3cUUVRG0w6BmUgd4Jvq7MZ) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Wairau Bay](https://open.spotify.com/album/35AOYl5R2XTsif5NyiOi5g) | 3:28 | 2021-12-08 |  |

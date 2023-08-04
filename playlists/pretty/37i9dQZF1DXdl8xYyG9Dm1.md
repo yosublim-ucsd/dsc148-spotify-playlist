@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=Ora3xnr8SBGrMFD1T03W7A"> Nasty C</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,185 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,242 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 56 | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR) | [Immaculate Taste](https://open.spotify.com/artist/7EqcUzt8S9Gh3nKcCZDXlE), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg), [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT), [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SAUCE \(feat\. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK\)](https://open.spotify.com/album/12ErBakQQDRspBJCN3NulR) | 3:29 |
 | 57 | [In My Head](https://open.spotify.com/track/6P8ePyea7qMtpepDXBNkIO) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Tujiangalie \- EP](https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu) | 3:38 |
 | 58 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
-| 59 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 |
-| 60 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
+| 59 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
+| 60 | [Next Up](https://open.spotify.com/track/3a4MsohOkHxzYIaS27IhXm) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw) | [Trapiano, Vol\. 1](https://open.spotify.com/album/6YJHWCrGnYCRO9p1pdBqNw) | 2:02 |
 | 61 | [SUN](https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV) | [SUN / BABY BLUE 4’s](https://open.spotify.com/album/0NwhEWOhZFXHtcEfJvU4fD) | 2:27 |
 | 62 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
 | 63 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Ball Till We Fall](https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ball Till We Fall](https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx) | 2:23 |
 | 70 | [All the smoke](https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Something to Live For](https://open.spotify.com/album/7shAasLUc9cFkpxUc9U8NW) | 3:12 |
 
-Snapshot ID: `MCxiYmMxZDAzOTRkNzQ2NzEwOTViMjYzNWVlNTdiM2Y2NTc1YjYyYTcw`
+Snapshot ID: `MCxhNDNjZWNjMmQwNDcwMzYzY2VmMjljOWM1ZjYyMDNmOTkyNzQyYWVm`

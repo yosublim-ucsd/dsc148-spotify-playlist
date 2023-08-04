@@ -1,12 +1,12 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 417196,
+  "num_followers": 417471,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTdkNDYxOTg3MzUzNTJmOWJiOGQ4ZDJmMzZhNmFlMjAwZjNiMGQ1",
+  "snapshot_id": "MCw3ZGFjYjk0ZDZhNzhlY2MwMWEwZDFkYjdhZGU3MGFkYTk5ZTQ5ZmQy",
   "tracks": [
     {
       "added_at": "2023-03-23 19:18:07",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-03-23 19:18:07",
       "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/0Vcu9I1RkUF1VYSVeYwLhR"
+        "name": "Cinematics (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6"
       },
       "artists": [
         {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        },
+        {
+          "name": "Ash Costello",
+          "url": "https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn"
         }
       ],
-      "duration_ms": 160518,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2RZWiishrE4Tygv9R7zuZe"
+      "duration_ms": 211026,
+      "name": "Partners in Crime (feat. Ash Costello)",
+      "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
     }
   ],
   "unique_name": "teen angst",

@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-90 songs - 7 hr 8 min
+91 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Bado](https://open.spotify.com/track/6DJRq42LKg4I0z0BWFPQZA) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:13 | 2018-10-04 |  |
 | [Balgeru, Vol\. 3](https://open.spotify.com/track/35RzQeM58TA744ln3HaRDA) | [Ephrem Tamiru](https://open.spotify.com/artist/2R863D7ulLA8AJRllmiW60), [Gosayie Tesfaye](https://open.spotify.com/artist/5nUICzCLIY5eYGqvpttE9J) | [Nahom's Favorite, Vol\. 16](https://open.spotify.com/album/3ef6vyNLF0MGhFSZvLcXcL) | 6:37 | 2018-10-04 |  |
 | [Bayish](https://open.spotify.com/track/576KoTxxx3Ap5jOMU9AO0T) | [Dagi D](https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp) | [Bayish](https://open.spotify.com/album/1O5cvXeKsXahndfs5KDAnA) | 4:05 | 2022-12-12 |  |
-| [Bel Jalo](https://open.spotify.com/track/06ieYukIv45hDz1gaGQCUP) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Bel Jalo](https://open.spotify.com/album/0sjuqGgb39JZ2CQf29uIfg) | 5:20 | 2023-03-17 |  |
+| [Bel Jalo](https://open.spotify.com/track/06ieYukIv45hDz1gaGQCUP) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Bel Jalo](https://open.spotify.com/album/0sjuqGgb39JZ2CQf29uIfg) | 5:20 | 2023-03-17 | 2023-08-04 |
+| [Bel Jalo](https://open.spotify.com/track/7fdcdiAyJqRHeb4XlZnPWK) | [Selamawit Yohannes](https://open.spotify.com/artist/107XXfLHCmU4H5Konxlqg8) | [Bel Jalo](https://open.spotify.com/album/5j7DihU96BB5RahMtS9pKq) | 5:22 | 2023-06-23 |  |
 | [Betam New Emewodish](https://open.spotify.com/track/0ETljDqCA6av5aVfQen31X) | [Dawit Tsige](https://open.spotify.com/artist/1RGs3nQP5xobRjF7Kl00kJ) | [Betam New Emiwodish](https://open.spotify.com/album/1q9LnwtvnZa3dEMPYxmpkQ) | 5:38 | 2018-10-04 | 2022-12-13 |
 | [Birabiroye](https://open.spotify.com/track/63CHnczvavEof74GIzfmp5) | [Betty G](https://open.spotify.com/artist/0DhTQscKk7XJt49yxEyqDV) | [Wegegta](https://open.spotify.com/album/0ZKMte07PAbDkYoMFP500R) | 3:49 | 2020-07-21 |  |
 | [Bob Marly](https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue) | [Natti Haile](https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2) | [Nahom Favorite, Vol\. 14 \(Best Collections\)](https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51) | 4:55 | 2018-10-04 | 2023-06-24 |

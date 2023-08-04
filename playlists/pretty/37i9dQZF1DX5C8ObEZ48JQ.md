@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=EbHEGRLwTFOCcGGNx7a\-eQ"> Wordz </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,303 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,304 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 3 | [Make Me Believe \(Nana\)](https://open.spotify.com/track/6tCXMkEeYrlU2fKf1YhNZO) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Make Me Believe \(Nana\)](https://open.spotify.com/album/03MqZoZQMFlQ6XiM2HalZ0) | 3:11 |
 | 4 | [Tampico](https://open.spotify.com/track/1QAxGsBmTuOO2WZ7TeClVu) | [Nú Baby](https://open.spotify.com/artist/4Is1LTg2XUkE3NCiOiLyWi) | [Tampico](https://open.spotify.com/album/6qXaYOy2ZGTC4taGPzCKYT) | 2:24 |
 | 5 | [Fashion Killa](https://open.spotify.com/track/0RMwoTN2Hqu200NrggjNVY) | [Le Ru](https://open.spotify.com/artist/2Kgd8TvR0MGJ0NRFkGX0DJ) | [The Ride](https://open.spotify.com/album/6ZLeYdY71zyZ9Vvl17XSGM) | 2:46 |
-| 6 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 |
+| 6 | [high](https://open.spotify.com/track/5qCpepbxfQr8Tjd81hqtq3) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [high](https://open.spotify.com/album/4Yx5Fulw5mJuDhzlCgCDiZ) | 1:59 |
 | 7 | [The Girl Wants a Big Boy](https://open.spotify.com/track/49Gw7CR2UNL9oX55XecN7d) | [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [The Girl Wants a Big Boy](https://open.spotify.com/album/2QyNrFYzDIEIl78Boyk9KR) | 2:28 |
 | 8 | [Heartbreaker](https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Heartbreaker](https://open.spotify.com/album/72C7xboUSQLQAJgILsuYXN) | 3:28 |
 | 9 | [Hamba Wena](https://open.spotify.com/track/0Yx0dpXq9K6vIkRWxPvKWI) | [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Pro Tee](https://open.spotify.com/artist/0y4RBCciLIHdZESz40TaLy), [Qveen\-rsa](https://open.spotify.com/artist/6D1N5l5dWca4qiwcyBRzj5), [Mzwilili](https://open.spotify.com/artist/6hFXBf1EU52jzIb3x9BOq7), [Kitso Nave](https://open.spotify.com/artist/4I2gNmIO64o4EOzBIKfyfl) | [Hamba Wena](https://open.spotify.com/album/4VOqLcMcg7hDCPBhGNFPrl) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 |
 | 50 | [half day](https://open.spotify.com/track/1M3TkNfhGSGnox2Xbh5GQk) | [ETB](https://open.spotify.com/artist/7ycml9pvXVpp2GYLr4l672) | [Road To PsychaHomies I](https://open.spotify.com/album/2iZgbDtVOW7MgWPwzfj31f) | 2:25 |
 
-Snapshot ID: `MCw3OGYyMGFiMTY3Zjc5OTQ1MTcyM2MxMDUyMjhhZWE0MzVkYWI5YWRm`
+Snapshot ID: `MCwxMzkwODgwOGM0MzY3MGNmMTViNWNhNWNjMGM4MmRkYTA0NGNhNjQ1`

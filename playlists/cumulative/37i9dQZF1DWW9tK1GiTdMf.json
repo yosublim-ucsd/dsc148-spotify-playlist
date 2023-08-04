@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  Sally Cruz in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  Schiuma in cover!",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 143588,
       "name": "BABY DOLL",
       "url": "https://open.spotify.com/track/1ujONgmMYCNm0xFDSZZBqP"
@@ -1428,6 +1428,24 @@
       "duration_ms": 170909,
       "name": "Blocco",
       "url": "https://open.spotify.com/track/5lIPRFOQfMxzaebBamFhne"
+    },
+    {
+      "album": {
+        "name": "Blondie",
+        "url": "https://open.spotify.com/album/18blAWeu1dFxh1G3TEum84"
+      },
+      "artists": [
+        {
+          "name": "Veronica+",
+          "url": "https://open.spotify.com/artist/4mdUjVc6TvMQqIpMe8HaBo"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159992,
+      "name": "Blondie",
+      "url": "https://open.spotify.com/track/2GgxYlSLifYY64m0wM05un"
     },
     {
       "album": {
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 139318,
       "name": "COCA1NA",
       "url": "https://open.spotify.com/track/5eYM0VS2ALqSUu3iTIyxjE"
@@ -3207,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "Dov'\u00e9?",
+        "url": "https://open.spotify.com/album/03DKMpdkeIo6CVlfqpV10n"
+      },
+      "artists": [
+        {
+          "name": "Sal",
+          "url": "https://open.spotify.com/artist/5GHZ7WABHAKdm5OfdQIpbT"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Dov'\u00e9?",
+      "url": "https://open.spotify.com/track/7H90YOKum4Ih997KavJqKZ"
+    },
+    {
+      "album": {
         "name": "Dove Ci Siamo Lasciati",
         "url": "https://open.spotify.com/album/2xGo26gPbswyPOYdNTuw5P"
       },
@@ -4272,7 +4308,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 157296,
       "name": "GIORNI A MET\u00c0",
       "url": "https://open.spotify.com/track/1qkHY7ADUziSAVvL8zZzQ9"
@@ -5586,7 +5622,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 127792,
       "name": "Lacrime di coccodrillo",
       "url": "https://open.spotify.com/track/1a5uVTIFE8rCUOj4kOxBTo"
@@ -5902,10 +5938,6 @@
         {
           "name": "Mike Defunto",
           "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
-        },
-        {
-          "name": "MILES",
-          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
         }
       ],
       "date_added": "2023-07-20",
@@ -6764,7 +6796,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 139813,
       "name": "monocromo",
       "url": "https://open.spotify.com/track/5YZfmc8O3lxWq6EqrONHHv"
@@ -7684,7 +7716,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 165714,
       "name": "Panico",
       "url": "https://open.spotify.com/track/4NOFiXQQGGpb2ICxHs0eeT"
@@ -7906,7 +7938,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 203530,
       "name": "PHANTOM",
       "url": "https://open.spotify.com/track/33YuvneTdl6vhCLZGD5Nmw"
@@ -11057,6 +11089,24 @@
     },
     {
       "album": {
+        "name": "Tinder",
+        "url": "https://open.spotify.com/album/64xMm3GMM8oz7d25iJXEgT"
+      },
+      "artists": [
+        {
+          "name": "Still Charles",
+          "url": "https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134114,
+      "name": "Tinder",
+      "url": "https://open.spotify.com/track/6fdbDa6L0sFK31d8FC9pt7"
+    },
+    {
+      "album": {
         "name": "Tipa Spagnola",
         "url": "https://open.spotify.com/album/3EyAnNJOrwOAAr0FtiDguF"
       },
@@ -11750,7 +11800,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 188974,
       "name": "Vans a scacchi",
       "url": "https://open.spotify.com/track/1GENmcbWCrEMUqYMkWdZdM"

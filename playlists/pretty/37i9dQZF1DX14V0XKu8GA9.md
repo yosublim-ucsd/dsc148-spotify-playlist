@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,285 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,304 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 11 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
 | 12 | [It's Officially Done](https://open.spotify.com/track/0q4v62eDHaqkPYVWmkGOsO) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [It's Officially Done](https://open.spotify.com/album/7399tv9lmTGk3rNfC0woQD) | 2:56 |
 | 13 | [Cola](https://open.spotify.com/track/7D70PoGMH9pSfzgaFpZryQ) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Cola](https://open.spotify.com/album/4ZdpoOFdB3l1R06apBLXn8) | 3:08 |
-| 14 | [House Party](https://open.spotify.com/track/5dR46G1RjWElFDKTe9rGZA) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [House Party](https://open.spotify.com/album/6elxYTEQrV4oEQ1MinHSqv) | 3:52 |
-| 15 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
+| 14 | [Life's Short](https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Life's Short](https://open.spotify.com/album/4HIt7gmLxWtLDQEVpNRXCZ) | 2:54 |
+| 15 | [House Party](https://open.spotify.com/track/5dR46G1RjWElFDKTe9rGZA) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [House Party](https://open.spotify.com/album/6elxYTEQrV4oEQ1MinHSqv) | 3:52 |
 | 16 | [Jugglin \(feat\. Mustard & Baby Stone Gorillas\)](https://open.spotify.com/track/7bDwxr2hinZkqWtAQeDGXS) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Joe Peshi](https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Jugglin \(feat\. Mustard & Baby Stone Gorillas\)](https://open.spotify.com/album/5ujrZVzynlbHdfyOxkLux1) | 3:07 |
 | 17 | [BAG CHASER](https://open.spotify.com/track/1EMB4lzN4rvQvjQLy0ygl2) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [BAG CHASER](https://open.spotify.com/album/1GTr5KHkZQiP2uddxsUzLC) | 2:49 |
 | 18 | [MONEY](https://open.spotify.com/track/05UmeMHqm9OzkxjQiLL4BX) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Angle](https://open.spotify.com/album/14jvG7xYUt7WDR7G0lQc01) | 1:23 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 30 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 |
 
-Snapshot ID: `MCwyMTQ5NGNjMDA4M2Q4MGFhNGY5OGZjYTgxZGNlMTM1NmFkNmRlYmQ0`
+Snapshot ID: `MCxmYmZlY2EzNjBmMjgwNDA5ZmVlMDdhYzc5Yjk5MWE1YTk4ZmIxMDU3`

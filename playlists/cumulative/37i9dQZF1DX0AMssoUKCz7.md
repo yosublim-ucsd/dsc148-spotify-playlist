@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-629 songs - 1 day 8 hr 8 min
+630 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Just Know It \- Felix Cartal's Sunset Remix](https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Just Know It \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq) | 3:58 | 2023-02-10 |  |
 | [Just Let Go](https://open.spotify.com/track/1KBsbmPy8GLz90TTvTaoSU) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Just Let Go](https://open.spotify.com/album/4bchuimjnR9IeoeNZMAQoq) | 2:17 | 2023-07-21 |  |
 | [just like this](https://open.spotify.com/track/2BpYaI9sstZ8MDqqp1iu0I) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/3S7D4HBTZuskrHi2LJJ4Zs) | 2:14 | 2022-08-12 | 2023-07-27 |
+| [just like this](https://open.spotify.com/track/4dMqhVB9JoIorQqbxBvvkC) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [just like this](https://open.spotify.com/album/5PT5x83SyiyXvLCmx1Sgo2) | 2:14 | 2023-07-21 |  |
 | [Karibu \- Radio Edit](https://open.spotify.com/track/5ZTPowK41qACT8FFuorbXW) | [Lago](https://open.spotify.com/artist/6dJi7tkU0GjHJtB2A586kj) | [Karibu](https://open.spotify.com/album/2MTl3uV62fuLLTer8eC0kZ) | 3:30 | 2022-01-14 | 2022-04-21 |
 | [Kids](https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Kids](https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T) | 2:21 | 2023-07-07 |  |
 | [King](https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [King](https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D) | 3:30 | 2023-01-20 |  |
@@ -596,7 +597,7 @@
 | [Wasted Youth](https://open.spotify.com/track/4bQf5CaoiYJY1PEAa6zhba) | [Myrrhe](https://open.spotify.com/artist/3SQOJGwgR1PKCa52M1W6EV), [Jethro](https://open.spotify.com/artist/15oiQRdZa4LrpfMbJ2dwzK) | [Wasted Youth](https://open.spotify.com/album/76n6X6309k6mGKEgX6aC6C) | 2:29 | 2022-07-22 | 2022-07-28 |
 | [Wave Goodbye \(feat\. Jeffrey Jey\)](https://open.spotify.com/track/115ndcAyWMabNy7WgUzP7t) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Jeffrey Jey](https://open.spotify.com/artist/2mwT6u3QUHIlTHGzDRCnrk) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:15 | 2022-02-18 | 2022-04-15 |
 | [Waves](https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM) | [Gabriel Morais Jr](https://open.spotify.com/artist/3jTAleOz2QG9rgNrkjcEKb), [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Waves](https://open.spotify.com/album/3jInq6xu9DvJHP3e7KUL8Z) | 2:31 | 2022-04-01 |  |
-| [We Are Good](https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [We Are Good](https://open.spotify.com/album/0u9oBG4dkgrtdlawZ4QB0W) | 2:47 | 2022-07-01 |  |
+| [We Are Good](https://open.spotify.com/track/5VSiXBaSNxajxU4eF4Zl5b) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp) | [We Are Good](https://open.spotify.com/album/0u9oBG4dkgrtdlawZ4QB0W) | 2:47 | 2022-07-01 | 2023-08-04 |
 | [We Come \- Radio Edit](https://open.spotify.com/track/4yRuPrh3Zf5NFJjbC6NvKp) | [Boehm](https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9) | [We Come \(Radio Edit\)](https://open.spotify.com/album/72p0UKXpd4XMwuNB896Nee) | 3:36 | 2022-01-14 | 2022-04-20 |
 | [We Start Fires](https://open.spotify.com/track/0hsMhZA3gguNuHOcDsGmOf) | [Little Giants](https://open.spotify.com/artist/37X06XsrLg91pJf5y9kb8A) | [We Start Fires](https://open.spotify.com/album/4exjA36NpcCqgSejlIVkaL) | 3:48 | 2022-01-14 |  |
 | [We Turn The World Around](https://open.spotify.com/track/33uV0G85zoAlzHYTJyaGRl) | [Tanja La Croix](https://open.spotify.com/artist/2Zduc37bY0HSMP8bzy9JWw) | [We Turn The World Around](https://open.spotify.com/album/3hFyywIKZuimer96xaXMud) | 3:18 | 2022-01-14 | 2022-07-29 |

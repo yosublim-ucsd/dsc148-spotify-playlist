@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-510 songs - 1 day 1 hr 28 min
+511 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 | 2023-02-03 |
 | [MISSFÖRSTÅTT](https://open.spotify.com/track/4RRNw7trorJaxdJLWDZTZL) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [MISSFÖRSTÅTT](https://open.spotify.com/album/6paodjmf7ivTOvJOgUJdaY) | 1:41 | 2022-06-16 | 2022-09-23 |
 | [Misslyckad & hatad](https://open.spotify.com/track/3OqnzptKSFrtjr3sldBD1F) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Misslyckad & hatad](https://open.spotify.com/album/2XSRknUofEZ2zwK8tfm3Fa) | 2:27 | 2023-01-19 | 2023-03-31 |
-| [Mitt hjärta slår](https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mitt hjärta slår](https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V) | 3:02 | 2023-04-13 |  |
+| [Mitt hjärta slår](https://open.spotify.com/track/1cvsD9PGQWEDWwdbIldP9i) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Mitt hjärta slår](https://open.spotify.com/album/73G3wgTSioJbkJae7PGA9V) | 3:02 | 2023-04-13 | 2023-08-04 |
 | [Mitt i juni](https://open.spotify.com/track/19sBWLGTeiYSFYJeOmI2RN) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ) | [Mitt i juni](https://open.spotify.com/album/4rG6lspUIBAHRuKElGNzj3) | 2:55 | 2022-10-21 | 2022-11-11 |
 | [Most People](https://open.spotify.com/track/1KCon9P4bPjLGFBGyTLt6f) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People](https://open.spotify.com/album/2XQR2HRnaF8F7NnTGVpWTt) | 2:21 | 2021-12-16 | 2022-01-08 |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2021-12-16 | 2022-05-20 |
@@ -373,6 +373,7 @@
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2022-03-18 |
 | [SANTORINI](https://open.spotify.com/track/19NOk119jgj751CxrWsvOl) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:54 | 2022-05-06 | 2022-06-10 |
 | [Sarkofag](https://open.spotify.com/track/2vMkfB2NRWj0t7kmMaBL3c) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Sarkofag](https://open.spotify.com/album/4EF0wMJarr99uFx1yrJbZm) | 3:17 | 2023-06-30 |  |
+| [Satellit](https://open.spotify.com/track/0hQSNorAGipIT7lF8ssyIz) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satellit](https://open.spotify.com/album/69LrfrvfBFYag9DoBuXtep) | 3:01 | 2023-08-03 |  |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-05-18 | 2023-07-01 |
 | [Satisfaction](https://open.spotify.com/track/54DtVqFHH5KalNbgPE8Rok) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satisfaction](https://open.spotify.com/album/2ymwX023ejRk9oIW34aMk1) | 3:07 | 2022-11-03 | 2022-11-18 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-03-31 | 2023-05-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Vit\u00f3ria Souza",
-  "num_followers": 111813,
+  "num_followers": 111878,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTRhMTE5ZWU2ZGI4ODVlMDAyYzljNWIwZjNmOWQ3MGZlNDlhNzg3",
+  "snapshot_id": "MCw5MmZhYzk5MTM4MWNhZWYxNzQ5MzI3OWYzYmEzYTZjMzU0ZmMxYjM3",
   "tracks": [
     {
       "added_at": "2022-12-09 06:14:16",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-12-09 06:14:16",
       "album": {
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        }
+      ],
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
+    },
+    {
+      "added_at": "2022-12-09 06:14:16",
+      "album": {
         "name": "Anotando Pensamentos",
         "url": "https://open.spotify.com/album/1DkogmlF6GBfdTiT7pqNgT"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 271668,
       "name": "Anotando Pensamentos",
       "url": "https://open.spotify.com/track/6YwX2eJl3Q3vxORqqxGbRz"
-    },
-    {
-      "added_at": "2022-12-09 06:14:16",
-      "album": {
-        "name": "Em Nome de Jesus",
-        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Em Nome de Jesus",
-      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
     },
     {
       "added_at": "2022-12-09 06:14:16",

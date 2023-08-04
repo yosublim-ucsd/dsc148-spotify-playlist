@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Adèle Castillon
 
-928 songs - 2 day 0 hr 10 min
+930 songs - 2 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Allô, à l'eau](https://open.spotify.com/track/7a2OfQXytJH62sGZTa4Cx5) | [Roxanne](https://open.spotify.com/artist/7KJvchd58yNBv7FNAvIk2W) | [Allô, à l'eau](https://open.spotify.com/album/1l51nWSucsizq6b3HK8zuO) | 2:55 | 2023-07-04 |  |
 | [Alma](https://open.spotify.com/track/5IiCvmwFpc192ptotRvWyz) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Alma](https://open.spotify.com/album/055WIVbb2nzpBl5JNZx9he) | 3:40 | 2022-04-05 | 2022-05-04 |
 | [Almodovar](https://open.spotify.com/track/6FJH3I476biUvEjQYsZbaY) | [SARA SOFIA](https://open.spotify.com/artist/1gpoxohUsapx6qpKkyOCWL) | [Almodovar](https://open.spotify.com/album/1X6JmfZc1G4H27JhmCCVlq) | 2:50 | 2022-10-04 | 2022-11-09 |
+| [Aloco](https://open.spotify.com/track/21jAgbrS6blGdqf9CYA7Eb) | [Meesyz](https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK) | [Aloco](https://open.spotify.com/album/6U718ermfsqn0RfrYa8Izt) | 2:23 | 2023-08-01 |  |
 | [Alors alors](https://open.spotify.com/track/0JlZavAbSw9EOtVKQL4WMz) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Alors alors](https://open.spotify.com/album/07XX7k8Hl8YiWJD3MywmnK) | 2:45 | 2023-02-28 | 2023-04-05 |
 | [Altaïr](https://open.spotify.com/track/3MqUS4BDyK2p4L1ydqXRYT) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Altaïr](https://open.spotify.com/album/5GZSqUuKkETaKYOtEBSwD4) | 3:46 | 2022-10-04 | 2022-11-09 |
 | [Amore Amore](https://open.spotify.com/track/7LTTm6nsCntagnq476M9Kr) | [Cäroline](https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj) | [Amore Amore](https://open.spotify.com/album/4bxhxooxxl1BqjmgNKNz2A) | 3:20 | 2022-01-05 | 2022-02-02 |
@@ -796,6 +797,7 @@
 | [Spéciale](https://open.spotify.com/track/25VFwQA7ykqshryZml8NjY) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Spéciale](https://open.spotify.com/album/4ymrxlyOvjC67MDZtMKNm7) | 2:49 | 2023-01-03 | 2023-02-01 |
 | [star](https://open.spotify.com/track/0S3kfGBwGxLVltuzHgeaRY) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [star](https://open.spotify.com/album/7LfjbYGdktCKW8cJ7yOR2p) | 2:59 | 2022-05-03 | 2022-06-01 |
 | [Starbucks](https://open.spotify.com/track/7kHaEXl42wgQuTa7wl6LFV) | [Morgan](https://open.spotify.com/artist/6sGG5B6oUd8P9FCOtpV97c) | [Brikabrak, Vol.1](https://open.spotify.com/album/0AyQKNQbjWima7HEBgl4nM) | 0:44 | 2022-08-02 | 2022-09-07 |
+| [Step By Step](https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Step By Step](https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA) | 2:51 | 2023-08-01 |  |
 | [Still the One](https://open.spotify.com/track/3iJL22C8i6M0txZXrjeyb9) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Still the One](https://open.spotify.com/album/6TZ1OTwD1GCQyyeLKpE0ux) | 3:02 | 2022-09-06 | 2022-10-05 |
 | [Storie Per Sempre](https://open.spotify.com/track/3jq7MkjMXgqimCbTtnzz2U) | [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Rose \(La bande originale du film\)](https://open.spotify.com/album/7a8gNkIIGbczsVaqTMsTDm) | 1:56 | 2022-01-05 | 2022-02-02 |
 | [Strict Machine](https://open.spotify.com/track/5JqCNsl6WOfoo459O2aCSt) | [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Strict Machine](https://open.spotify.com/album/2o35pypSO4z5NzRG7aVFM3) | 2:48 | 2022-10-04 | 2022-11-09 |

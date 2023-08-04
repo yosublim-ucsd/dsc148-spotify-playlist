@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,073 likes - 75 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,145 likes - 75 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 26 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
 | 27 | [Mesta](https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS) | 6:11 |
 | 28 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 |
-| 29 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
-| 30 | [Agua e pipa](https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Agua e pipa](https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b) | 3:22 |
+| 29 | [Agua e pipa](https://open.spotify.com/track/2yDNk5tWLRwvpYuRrrV56V) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Agua e pipa](https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b) | 3:22 |
+| 30 | [Chaghaf](https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Chaghaf](https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB) | 7:07 |
 | 31 | [Childhood](https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz) | [KIDSØ](https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr) | [Childhood](https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7) | 4:02 |
 | 32 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
 | 33 | [Ancestors](https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Ancestors](https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw) | 4:47 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 69 | [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 |
 | 70 | [Quem Sou Eu](https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Quem Sou Eu](https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL) | 5:28 |
 | 71 | [Time](https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [Time & Space](https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy) | 6:21 |
-| 72 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 |
-| 73 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 |
-| 74 | [Soul](https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Aitor González](https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Soul](https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP) | 7:29 |
-| 75 | [Dilmano Dilbero \- Sariel Orenda Remix](https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l), [Sariel Orenda](https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp) | [Dilmano Dilbero \(Sariel Orenda Remix\)](https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe) | 6:48 |
+| 72 | [Soul](https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Aitor González](https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Soul](https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP) | 7:29 |
+| 73 | [Latlal](https://open.spotify.com/track/1AgPHvd7o4fgPxy4lPQYm1) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U) | [Latlal](https://open.spotify.com/album/2115g35ZN6IeJZrEpkHbxV) | 5:57 |
+| 74 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 |
+| 75 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 |
 
-Snapshot ID: `MCxjYmVmYTk3MDZjYzA5YmNhMTYwNDc4ZmM2OGIwMGYwZGRkMTgwOTVh`
+Snapshot ID: `MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5`

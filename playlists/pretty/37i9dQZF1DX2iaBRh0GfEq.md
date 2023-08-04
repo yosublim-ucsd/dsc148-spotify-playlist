@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iaBRh0GfEq.md) - [plain]
 | 3 | [Brisa](https://open.spotify.com/track/5rNNZ6fVYxkhwqUfImVhU1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Brisa](https://open.spotify.com/album/5gJj78wR46FHuvGGXBFuzK) | 2:31 |
 | 4 | [Pipa Voada \(feat\. Emicida\)](https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Tão Real](https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw) | 3:05 |
 | 5 | [Freio da Blazer](https://open.spotify.com/track/6m187iACTSAZDYMaV0klqj) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Freio da Blazer](https://open.spotify.com/album/7kbClkdK7jjoTIDAJmb1Pb) | 3:00 |
-| 6 | [Medo Bobo](https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV) | 3:18 |
+| 6 | [Medo Bobo](https://open.spotify.com/track/0d3nLIxfrwZu7sHQnOhWJa) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/7iwR0wOFLOMRDZZNWT4Hrr) | 3:18 |
 | 7 | [Passarinhos](https://open.spotify.com/track/3De0GCU6ono03UxXKzRmz3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:41 |
 | 8 | [Feel Alive](https://open.spotify.com/track/50fnWSJhr1f75Bqguqd78g) | [Alibi Music](https://open.spotify.com/artist/4WY2fWk09nH1gOQDGMyHF2) | [Future House, Vol\. 1](https://open.spotify.com/album/0WstsbDfluxyfX5M1e4Doq) | 2:24 |
 | 9 | [Embers in the Mist](https://open.spotify.com/track/6qbILaf0VYIXpZv1GUqr0G) | [Alibi Music](https://open.spotify.com/artist/4WY2fWk09nH1gOQDGMyHF2) | [Cinematic Guitar Drones](https://open.spotify.com/album/16f2AFprbTW9uBTTtpkAMS) | 3:20 |
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iaBRh0GfEq.md) - [plain]
 | 16 | [A Noite Mais Linda do Mundo \(A Felicidade\)](https://open.spotify.com/track/33nzGH8NIdwYSpuNo3L7M1) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [The Moon 1111](https://open.spotify.com/album/5R6qsX0u206XZBZF3WdEeL) | 3:28 |
 | 17 | [Às Vezes um Clichê](https://open.spotify.com/track/5enNdx4oAh9GK3sXWzpge4) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Veroz](https://open.spotify.com/album/1sPc2fCg10GCD9QCzdGnfU) | 3:20 |
 
-Snapshot ID: `MCw4ZGM4N2I0MWQ5MGQwMDYyNWFkZDQyOThhZjVlZmY0YmI0ZGVjMjc0`
+Snapshot ID: `MCxlN2NhM2RjZDI5NTU5NGM1N2M3M2M2Y2EyZDRmMmRjMmM1ZGM1MDM5`

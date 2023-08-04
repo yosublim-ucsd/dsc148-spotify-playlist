@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125742,
+  "num_followers": 125732,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjJjYmVlYjJjMTM0NWYzNWQ1YTgxZmI4MTY5MTQ2N2U1ODJkYzg0",
+  "snapshot_id": "MCxjNTgwMDdlMWZiODA3OWZhYTYyYzYxNWU5NzQzNTY0NGIyMjM2ZTgy",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -143,18 +143,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Christmas Lights",
-        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 242495,
-      "name": "Christmas Lights",
-      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -175,18 +175,18 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+        "name": "Christmas Lights",
+        "url": "https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
+      "duration_ms": 242495,
+      "name": "Christmas Lights",
+      "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "All I Want (For Christmas)",
         "url": "https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 181144,
       "name": "All I Want (For Christmas)",
       "url": "https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Christmas Greetings",
         "url": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 183412,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
       "url": "https://open.spotify.com/track/0oxUZhytpftSGgBGDVlCMb"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Together In Electric Dreams (From The John Lewis Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -865,22 +865,6 @@
       "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
     },
     {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "The Magic Of Boney M. (Special Remix Edition)",
-        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Mary's Boy Child / Oh My Lord",
-      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
-    },
-    {
       "added_at": "2022-11-18 01:17:11",
       "album": {
         "name": "Driving Home For Christmas",
@@ -895,6 +879,22 @@
       "duration_ms": 183556,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Magic Of Boney M. (Special Remix Edition)",
+        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Mary's Boy Child / Oh My Lord",
+      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "A Very She & Him Christmas",
-        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 129679,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Give Love on Christmas Day (Piano Version) [Recorded Live at Spotify Studios NYC]",
         "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 225576,
       "name": "Give Love on Christmas Day (Piano Version) - Recorded Live at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "A Very She & Him Christmas",
+        "url": "https://open.spotify.com/album/3YrU19ATrTJinGwckoI5Dw"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 129679,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/6rhWx7Vatwp2dmL7KxzmbJ"
     },
     {
       "added_at": "2022-11-18 01:05:05",

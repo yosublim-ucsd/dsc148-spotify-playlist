@@ -4,7 +4,7 @@
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-149 songs - 9 hr 3 min
+150 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Trippin'](https://open.spotify.com/track/1w8J2Iw9KIvq05qplNfiep) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Trippin'](https://open.spotify.com/album/4DzpBC8jo4fYnECu1TKLQV) | 3:13 | 2020-12-03 | 2022-11-14 |
 | [Trippin'](https://open.spotify.com/track/49Cxo7HnU6TyR8sLkc2oJk) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/403PDAWEhyjyf8hW0hqZrg) | 3:13 | 2020-12-03 | 2023-04-29 |
 | [Trippin'](https://open.spotify.com/track/6QlBjoFtfys38zqSIcs2wR) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Still Trippin'](https://open.spotify.com/album/3OEp4ArdKsXQLxq34Mfvur) | 3:13 | 2020-12-03 |  |
-| [Turn Up](https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67) | 3:14 | 2020-12-03 |  |
+| [Turn Up](https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/3ackwT9BASzdzkoTgqBS67) | 3:14 | 2020-12-03 | 2023-08-04 |
+| [Turn Up](https://open.spotify.com/track/3mXjdyhImhKgUHTn4tbrNs) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High On Clouds](https://open.spotify.com/album/7wnVMRKzpTxLMCx6PZgpVA) | 3:14 | 2023-06-30 |  |
 | [Turn Up](https://open.spotify.com/track/5Qdcx5xvBBckTVyYiHdQuN) | [Nangdo](https://open.spotify.com/artist/3q8bo1K12TtwbvsPiwJWDi) | [High on Clouds](https://open.spotify.com/album/7daVVI2wd8FIhzWyWtpq8N) | 3:14 | 2020-12-03 | 2022-07-28 |
 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 | 2020-12-03 |  |
 | [WE GON DANCE](https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:39 | 2020-12-03 |  |

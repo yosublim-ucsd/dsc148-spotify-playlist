@@ -562,10 +562,36 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 200888,
       "name": "Bijli",
       "url": "https://open.spotify.com/track/3dGjm4MAro2jCe3I4cnK3X"
+    },
+    {
+      "album": {
+        "name": "Bijli",
+        "url": "https://open.spotify.com/album/3YihzfImoyCS98VPidioPe"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Maloof",
+          "url": "https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR"
+        },
+        {
+          "name": "Varqa Faraid",
+          "url": "https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp"
+        },
+        {
+          "name": "Shamsher Rana",
+          "url": "https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200888,
+      "name": "Bijli",
+      "url": "https://open.spotify.com/track/0sDu8LBWm8Qk9VnQuiuq46"
     },
     {
       "album": {

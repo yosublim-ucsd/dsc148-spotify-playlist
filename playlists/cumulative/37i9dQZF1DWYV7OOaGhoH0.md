@@ -4,7 +4,7 @@
 
 > The best in folk & acoustic today\. Cover: Hazlett
 
-422 songs - 1 day 2 hr 14 min
+423 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,8 @@
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-07-08 |  |
 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 | 2022-04-01 | 2022-08-06 |
 | [tidal wave](https://open.spotify.com/track/3Dy2LYjKKuLxRbIg8uoEh8) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i wanna feel happy](https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn) | 4:01 | 2022-05-27 | 2022-07-30 |
-| [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-23 |  |
+| [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-23 | 2023-08-04 |
+| [To Watch the World Spin Without You](https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch the World Spin Without You](https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh) | 2:32 | 2023-07-28 |  |
 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 | 2022-04-15 | 2023-03-25 |
 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 | 2023-06-30 |  |
 | [too young to die](https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [too young to die](https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU) | 4:34 | 2023-06-23 | 2023-07-02 |

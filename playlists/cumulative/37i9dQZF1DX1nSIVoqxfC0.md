@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-334 songs - 23 hr 15 min
+335 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Back To The Oldskool](https://open.spotify.com/track/4iGUu7oGJCrheaxB2CaD5O) | [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5 \- CHINA](https://open.spotify.com/album/3pazfA2ahcJHKHP2E2QjEB) | 3:33 | 2020-10-20\* | 2022-07-29 |
 | [Back To The Oldskool](https://open.spotify.com/track/56bbA3AsxggZV2QQPVHO3l) | [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [CLUBLIFE, VOL\. 5: CHINA](https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0) | 3:33 | 2022-07-28 | 2023-04-20 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-28 |  |
+| [Barbie Girl \- Tiësto Remix](https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Barbie Girl \(Tiësto Remix\)](https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c) | 2:35 | 2023-08-03 |  |
 | [Bend It Like You Don't Care](https://open.spotify.com/track/5ujH9f7KvXC6eeLUTVk2Nq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Kaleidoscope](https://open.spotify.com/album/3rvn7wF66FUs1nleptM1ys) | 3:21 | 2022-11-10 | 2022-11-14 |
 | [Bend It Like You Don't Care](https://open.spotify.com/track/4UPSjTzpQx74oP8O4DQaZ0) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Kaleidoscope](https://open.spotify.com/album/3L7HojVI3ELv05boMWUKDv) | 3:23 | 2022-07-28 | 2023-04-20 |
 | [Bend It Like You Don't Care](https://open.spotify.com/track/59v43Rawx6bOMWbgFqTZJY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Kaleidoscope](https://open.spotify.com/album/3LWrYfernAQQUBvxlPxeZd) | 3:23 | 2020-10-20\* | 2022-07-29 |

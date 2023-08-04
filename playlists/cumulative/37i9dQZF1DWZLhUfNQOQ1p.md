@@ -4,7 +4,7 @@
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-279 songs - 18 hr 12 min
+280 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2023-05-14 | 2023-05-30 |
 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 | 2023-05-30 |  |
 | [Affection](https://open.spotify.com/track/4WMYrQdLCPNYHa4vEZWHxt) | [Solounge](https://open.spotify.com/artist/3UnDKCtOqVmqsLznc3Zj81) | [Affection](https://open.spotify.com/album/0v9ZyMMizXT9KV6vbaRg2H) | 5:24 | 2021-08-05 | 2022-07-29 |
-| [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-07-13 |  |
+| [Agua Congas](https://open.spotify.com/track/2zwPT8zx1fXTkD8VkqeKqB) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/62wbQj88z0i2Fdojzq2b6G) | 7:12 | 2023-07-13 | 2023-08-04 |
+| [Agua Congas](https://open.spotify.com/track/1wJSK0ZBvpaLTe6Y60WaFa) | [Paula Tape](https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh) | [Agua Congas](https://open.spotify.com/album/0kOvMwR9FHGcheXSVTWhwF) | 7:12 | 2023-07-28 |  |
 | [Alala](https://open.spotify.com/track/2GRrIHGGboa714SZeVcprI) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:34 | 2023-07-13 |  |
 | [Alexandrie Alexandra](https://open.spotify.com/track/35jK3rPCyBf1bUCJTEYyau) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [French Disco Icon](https://open.spotify.com/album/271wVMcj0UHPQoa9quPOp5) | 4:22 | 2023-05-14 | 2023-05-30 |
 | [All Access](https://open.spotify.com/track/47lv0fs01NLcygKcnD9PFX) | [Ben Eggs](https://open.spotify.com/artist/2Oe8Eh7oyLV1CfJ8UjJ9Qd) | [All Access](https://open.spotify.com/album/2yghC1izlXbRMLXAvuZnPg) | 3:06 | 2021-08-05 | 2023-05-31 |

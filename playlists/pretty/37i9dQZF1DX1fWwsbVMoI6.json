@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Orquesta Candela",
-  "num_followers": 101197,
+  "num_followers": 101257,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjU4ZjJlNGMzYjE5NWQ4ODQ2MmNiYjIxYTQxNmQ1YjIxYmQwZTg3",
+  "snapshot_id": "MCwyMzdmMGNmMzg2YjY1MjgyOGY5MDE4OWY4NGY1Zjk3ZjkzZjE3NWQ1",
   "tracks": [
     {
       "added_at": "2023-03-31 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "El Aut\u00e9ntico e Imbatible",
-        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Continental de Alberto Marav\u00ed",
-          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "Llorando Se Fue \"Lambada\"",
-      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "Solo \u00c9xitos",
         "url": "https://open.spotify.com/album/1qwS3Jan9c0D3y40PTlmMD"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 237133,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/5ADtBduXijGWnXVDAB77mj"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "El Aut\u00e9ntico e Imbatible",
+        "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Continental de Alberto Marav\u00ed",
+          "url": "https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "Llorando Se Fue \"Lambada\"",
+      "url": "https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH"
     },
     {
       "added_at": "2023-03-31 05:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-31 05:01:00",
       "album": {
-        "name": "He Sentido Amor",
-        "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
-      },
-      "artists": [
-        {
-          "name": "Amaya Hnos",
-          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
-        }
-      ],
-      "duration_ms": 235154,
-      "name": "He Sentido Amor",
-      "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
-    },
-    {
-      "added_at": "2023-03-31 05:01:00",
-      "album": {
         "name": "A..estilo propio y jaranero",
         "url": "https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 365493,
       "name": "La Chismosa",
       "url": "https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i"
+    },
+    {
+      "added_at": "2023-03-31 05:01:00",
+      "album": {
+        "name": "He Sentido Amor",
+        "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
+      },
+      "artists": [
+        {
+          "name": "Amaya Hnos",
+          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+        }
+      ],
+      "duration_ms": 235154,
+      "name": "He Sentido Amor",
+      "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
     },
     {
       "added_at": "2023-03-31 05:01:00",

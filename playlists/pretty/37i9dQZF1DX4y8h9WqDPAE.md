@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Adekunle Gold
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,788,736 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,788,776 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 124 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 |
 | 125 | [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:06 |
 
-Snapshot ID: `MCw0MWY1OGEyMTdkYWUwZjdlMmI0ZGJmZWVkYTVmNzdiODk2ZDdjYzZi`
+Snapshot ID: `MCw3OTQ2MjUxMWVhYWM3YmE2YmQ5NGMwYmQ2ODNiY2Q0YmM0NGZlODAx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V?si=m1vEI6WeQuif8BeAAM5APA\">KiDi</a>  ",
+  "description": "The hottest tracks in Ghana. Cover: <a href=\"https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8?si=4ZJhAtbIRrG2s6c9hZLXDg\">Sarkodie</a>  ",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Freaky & Naughty",
+        "url": "https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Freaky & Naughty",
+      "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
+    },
+    {
+      "album": {
         "name": "A Lifetime Is Not Enough",
         "url": "https://open.spotify.com/album/5bfIeYx2TDqPNxjSQrQqrH"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 160375,
       "name": "I Feel Nice",
       "url": "https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB"

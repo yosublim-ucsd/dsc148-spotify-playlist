@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon.
 
-1,060 songs - 2 day 11 hr 10 min
+1,062 songs - 2 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [GO!](https://open.spotify.com/track/0gYE4nGUXwlzNBwxW5SSiX) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [GO!](https://open.spotify.com/album/2kWGAs4zrCzMPofbzKs46W) | 2:37 | 2022-03-24 | 2022-04-19 |
 | [GOLD](https://open.spotify.com/track/21Qk5888Ac0pe1PihX7vKH) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LOGIC](https://open.spotify.com/album/5ftRmSBjH02fMedZmn1alL) | 2:52 | 2022-03-03 | 2022-06-30 |
 | [Good Tidings](https://open.spotify.com/track/2KZpTftsazuszVvh2l9Yzc) | [KYLA T](https://open.spotify.com/artist/6LJX1RFjWh0XsgLocxEepg), [Umar Sirhan](https://open.spotify.com/artist/1aBGLr4Mt61I8hhejBgNnk), [Hasyir Ibrahim](https://open.spotify.com/artist/2s7x0aJAEuKTbiREMBkrp9) | [Good Tidings](https://open.spotify.com/album/14DVBcmpdA938fq1kNQIc4) | 3:33 | 2022-03-24 | 2023-04-18 |
+| [Good Time \(feat\. Puri\) \- Spotify Singles](https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:00 | 2023-08-03 |  |
 | [Good Times](https://open.spotify.com/track/0XzbAAWtu0zx6bnDbBUcOs) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Good Times + Simmer Down](https://open.spotify.com/album/3hie3PiFhq6i06fuptTaZ0) | 2:50 | 2022-03-24 | 2022-04-20 |
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-03-21 | 2023-04-18 |
 | [Gusto With Ya](https://open.spotify.com/track/0hr2Itwh84Zn3PiRRjHTnw) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Gusto With Ya](https://open.spotify.com/album/3hQTzUwRIXnetrF1WrSrfk) | 2:42 | 2023-05-30 |  |
@@ -393,6 +394,7 @@
 | [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2022-06-29 | 2022-09-16 |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/2yynRDKYqTLVTcP7FqoyVE) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/1cxbID0RUggPVvxjvlORFR) | 4:16 | 2022-03-21 | 2022-07-29 |
 | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi) | 2:36 | 2023-05-30 |  |
+| [Ignorant \(feat\. Puri, Landon Cube\) \- Spotify Singles](https://open.spotify.com/track/6B40gOyEJU52bnuyepRubO) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [Landon Cube](https://open.spotify.com/artist/04ei5kNgmDuNAydFhhIHnD) | [Ignorant / Good Time](https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No) | 3:56 | 2023-08-03 |  |
 | [Ikat Mati](https://open.spotify.com/track/006R2rfJZzmFP72dUrm3Vl) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Aye Darko](https://open.spotify.com/artist/27ArtZjQ2aolubDDKJaSmW), [Syifa](https://open.spotify.com/artist/2xYe1jJc95nIMk14IgR2M5) | [Ikat Mati](https://open.spotify.com/album/2A7pwIbbYS2it5sCgubU0m) | 2:58 | 2022-03-03 | 2022-08-02 |
 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2023-04-12 |  |
 | [Il primo bacio](https://open.spotify.com/track/3sVvrJKdQaAtwb1fa3l0k2) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Il primo bacio](https://open.spotify.com/album/2UDIENylKUApKJKnXOn3SG) | 3:00 | 2022-02-10 | 2022-02-25 |

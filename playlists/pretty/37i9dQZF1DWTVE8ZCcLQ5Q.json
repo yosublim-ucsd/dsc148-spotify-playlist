@@ -1,12 +1,12 @@
 {
   "description": "Descubra Senndy e novos talentos brasileiros no horizonte.",
-  "num_followers": 421660,
+  "num_followers": 421652,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
+  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
   "tracks": [
     {
       "added_at": "2023-07-12 21:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-07-12 21:00:00",
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
+      },
+      "artists": [
+        {
+          "name": "Leal",
+          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
+        },
+        {
+          "name": "Aguida Beats",
+          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
+        }
+      ],
+      "duration_ms": 154211,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
+    },
+    {
+      "added_at": "2023-07-12 21:00:00",
+      "album": {
         "name": "Putaria e Crime",
         "url": "https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 243548,
       "name": "Putaria e Crime",
       "url": "https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr"
-    },
-    {
-      "added_at": "2023-07-12 21:00:00",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC"
-      },
-      "artists": [
-        {
-          "name": "Leal",
-          "url": "https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs"
-        },
-        {
-          "name": "Aguida Beats",
-          "url": "https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1"
-        }
-      ],
-      "duration_ms": 154211,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT"
     },
     {
       "added_at": "2023-07-12 21:00:00",

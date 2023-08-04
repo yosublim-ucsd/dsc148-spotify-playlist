@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 299034,
+  "num_followers": 299216,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
+  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Winelight",
-        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Let It Flow (For \"DR. J\")",
-      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "The People Tree",
         "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 265760,
       "name": "Apple Green",
       "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Winelight",
+        "url": "https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU"
+      },
+      "artists": [
+        {
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Let It Flow (For \"DR. J\")",
+      "url": "https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Expansions",
-        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
-      },
-      "artists": [
-        {
-          "name": "Bacao Rhythm & Steel Band",
-          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
-        }
-      ],
-      "duration_ms": 151948,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Rewind, Vol. 4",
-        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
+        "name": "Expansions",
+        "url": "https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW"
       },
       "artists": [
         {
-          "name": "The Rebirth",
-          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
+          "name": "Bacao Rhythm & Steel Band",
+          "url": "https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0"
         }
       ],
-      "duration_ms": 333106,
-      "name": "Evil Vibrations",
-      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
+      "duration_ms": 151948,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/6pnryYnhE5zBugXN1QxPBg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -979,6 +963,22 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Rewind, Vol. 4",
+        "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
+      },
+      "artists": [
+        {
+          "name": "The Rebirth",
+          "url": "https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL"
+        }
+      ],
+      "duration_ms": 333106,
+      "name": "Evil Vibrations",
+      "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "In the Hand of the Inevitable",
+        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
+      },
+      "artists": [
+        {
+          "name": "James Taylor Quartet",
+          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
+        }
+      ],
+      "duration_ms": 294240,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "I-Level",
         "url": "https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8"
       },
@@ -1071,18 +1087,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In the Hand of the Inevitable",
-        "url": "https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992"
+        "name": "Afro-Funk",
+        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
       "artists": [
         {
-          "name": "James Taylor Quartet",
-          "url": "https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R"
+          "name": "T. P. Orchestre Poly-Rythmo",
+          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
+        },
+        {
+          "name": "Gabo Brown",
+          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
         }
       ],
-      "duration_ms": 294240,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs"
+      "duration_ms": 262893,
+      "name": "It's A Vanity",
+      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1119,26 +1139,6 @@
       "duration_ms": 444333,
       "name": "Girl Overboard",
       "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Afro-Funk",
-        "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
-      },
-      "artists": [
-        {
-          "name": "T. P. Orchestre Poly-Rythmo",
-          "url": "https://open.spotify.com/artist/0eJnyYv95cVqWkoujUq7kb"
-        },
-        {
-          "name": "Gabo Brown",
-          "url": "https://open.spotify.com/artist/4611pTtcuyslFogumDsWzP"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "It's A Vanity",
-      "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Stoned Woman",
-        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "Theme from Riot on 103rd Street",
-      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Holy Sun",
         "url": "https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Azymuth: Outubro",
-        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+        "name": "Stoned Woman",
+        "url": "https://open.spotify.com/album/1iMNmX3jxoENVoUv1nJmwe"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
         }
       ],
-      "duration_ms": 274600,
-      "name": "Dear Limmertz",
-      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
+      "duration_ms": 165560,
+      "name": "Theme from Riot on 103rd Street",
+      "url": "https://open.spotify.com/track/38bCAubLkKJjbzZwKegxfn"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1291,6 +1275,22 @@
       "duration_ms": 186324,
       "name": "Pizza Pie",
       "url": "https://open.spotify.com/track/4TJryQM96qMu04X4uvdBTm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Azymuth: Outubro",
+        "url": "https://open.spotify.com/album/6baaqatjoaHoivfzexDedw"
+      },
+      "artists": [
+        {
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+        }
+      ],
+      "duration_ms": 274600,
+      "name": "Dear Limmertz",
+      "url": "https://open.spotify.com/track/1dbvZy2hAtgDyL4oiSyyJ4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Invisible Things",
-        "url": "https://open.spotify.com/album/3zqeV3WO1Hphtv9wjHcr8h"
-      },
-      "artists": [
-        {
-          "name": "Aurora Dee Raynes",
-          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
-        }
-      ],
-      "duration_ms": 209509,
-      "name": "Crazy That You Love",
-      "url": "https://open.spotify.com/track/0DHKSn5QwJj6SB4lJVzBWV"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Cosmic Vortex (Justice Divine)",
         "url": "https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 154520,
       "name": "Check The Pulse",
       "url": "https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Invisible Things",
+        "url": "https://open.spotify.com/album/3zqeV3WO1Hphtv9wjHcr8h"
+      },
+      "artists": [
+        {
+          "name": "Aurora Dee Raynes",
+          "url": "https://open.spotify.com/artist/7MKfjytUX348ZtYEL8B4kg"
+        }
+      ],
+      "duration_ms": 209509,
+      "name": "Crazy That You Love",
+      "url": "https://open.spotify.com/track/0DHKSn5QwJj6SB4lJVzBWV"
     }
   ],
   "unique_name": "Acid Jazz",

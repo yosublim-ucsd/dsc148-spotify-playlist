@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 50339,
+  "num_followers": 50378,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy",
+  "snapshot_id": "MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -471,22 +471,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Bustin' Loose",
-        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
-      },
-      "artists": [
-        {
-          "name": "Chuck Brown and the Soul Searchers",
-          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
-        }
-      ],
-      "duration_ms": 462466,
-      "name": "Bustin' Loose",
-      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7eETefYwTFRG3I1tw3fMi4"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 211066,
       "name": "I Don't Believe You Want To Get Up And Dance (Oops, Up Side Your Head)",
       "url": "https://open.spotify.com/track/7l0nTXAz0gzUkKBU2EXP4G"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Bustin' Loose",
+        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
+      },
+      "artists": [
+        {
+          "name": "Chuck Brown and the Soul Searchers",
+          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
+        }
+      ],
+      "duration_ms": 462466,
+      "name": "Bustin' Loose",
+      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -647,6 +647,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Ugly Ego",
+        "url": "https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "duration_ms": 263946,
+      "name": "I'll Be With You",
+      "url": "https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Ugly Ego",
-        "url": "https://open.spotify.com/album/57X12hXatNE1Ipla9SjJh8"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 263946,
-      "name": "I'll Be With You",
-      "url": "https://open.spotify.com/track/1cH5gmAdX31JANDnooSbRB"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -923,7 +923,7 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Yes We Can Can",
+        "name": "Yes We Can Can: The Best Of The Blue Thumb Recordings",
         "url": "https://open.spotify.com/album/5z8tMRZnLxrxqqOsw3oZHP"
       },
       "artists": [

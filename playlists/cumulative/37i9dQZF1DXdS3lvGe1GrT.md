@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Allegra Krieger \| Visual Artist: Bailey Elder
 
-769 songs - 1 day 21 hr 52 min
+770 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,8 @@
 | [Preoccupied](https://open.spotify.com/track/0VS0WcNAoDndMBMyimJxP6) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/4BPLLOB0x9kUsNs3oPCNKU) | 3:31 | 2022-11-09 | 2022-12-01 |
 | [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 | 2022-08-31 | 2022-11-17 |
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-05-17 | 2023-07-27 |
-| [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-07 |  |
+| [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 | 2023-07-19 |  |
+| [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-07 | 2023-08-04 |
 | [Pretty, Pretty](https://open.spotify.com/track/0NkomCaAB2nVipVGxsTUoy) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Pretty, Pretty](https://open.spotify.com/album/2UaDtdFOC01NAP7U4H34fC) | 3:38 | 2022-08-10 | 2023-01-12 |
 | [Prism](https://open.spotify.com/track/76iyiXL6GBHt7Mdb5v9GoN) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Prism](https://open.spotify.com/album/07QRxu8AgGoRmz6qYz7QrH) | 3:10 | 2022-10-12 | 2022-12-01 |
 | [Prism](https://open.spotify.com/track/3PkcrqdZh7lSCPEay8gZWr) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Prism](https://open.spotify.com/album/723bD92J0413LmJSQC2Grk) | 3:49 | 2023-01-11 | 2023-03-02 |

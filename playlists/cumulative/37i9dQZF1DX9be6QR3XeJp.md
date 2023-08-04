@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: tinyumbrellas
+> Discover your new favourite artists from UK&IE\. Cover: KhakiKid
 
-218 songs - 11 hr 54 min
+219 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Mademoiselle](https://open.spotify.com/track/6MGLQRKop0hKfWkeyln5p7) | [JyellowL](https://open.spotify.com/artist/7zWrMTItje9ZjKK2XWTPle), [Chris Kabs](https://open.spotify.com/artist/1cFEPWsvZm4bwiBcoqELG9) | [Mademoiselle](https://open.spotify.com/album/000JMiqsaAikfjgWrBUJ1a) | 3:25 | 2022-02-18 |  |
 | [Magpie](https://open.spotify.com/track/2Mf5TqpbjwS5lPAjKBA4yJ) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Butter\-Fly](https://open.spotify.com/album/4JffvJGAbqTkmnDRfkq2hf) | 3:34 | 2022-02-18 | 2022-12-01 |
 | [Magpie](https://open.spotify.com/track/65gFD5pX5zfIDxMLkfJwyP) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Butter\-Fly](https://open.spotify.com/album/2jgHTZlQweIUAxf77gGE2b) | 3:34 | 2023-01-09 |  |
+| [maradona](https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [sand bebé](https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS) | 2:56 | 2023-08-03 |  |
 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 | 2022-04-21 |  |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2022-02-18 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-06 |  |

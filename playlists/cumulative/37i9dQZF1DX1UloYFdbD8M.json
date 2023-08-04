@@ -1935,6 +1935,28 @@
     },
     {
       "album": {
+        "name": "Travelling Gypsies",
+        "url": "https://open.spotify.com/album/0FS1GmvP4O1D7RF6QlHK5C"
+      },
+      "artists": [
+        {
+          "name": "Shanka Tribe",
+          "url": "https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T"
+        },
+        {
+          "name": "6091",
+          "url": "https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310285,
+      "name": "Travelling Gypsies",
+      "url": "https://open.spotify.com/track/3mZdRWYIURgCCBkjTWXxJa"
+    },
+    {
+      "album": {
         "name": "tum/njan",
         "url": "https://open.spotify.com/album/6llbBlNecpqUn5qVSfXaKz"
       },
@@ -1998,6 +2020,46 @@
       "duration_ms": 187449,
       "name": "Varav",
       "url": "https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX"
+    },
+    {
+      "album": {
+        "name": "Veyil",
+        "url": "https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU"
+      },
+      "artists": [
+        {
+          "name": "Aromal Chekaver",
+          "url": "https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185685,
+      "name": "Veyil",
+      "url": "https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt"
+    },
+    {
+      "album": {
+        "name": "When Nature Calls",
+        "url": "https://open.spotify.com/album/1MraQsbPfSly4llApBNHae"
+      },
+      "artists": [
+        {
+          "name": "Shanka Tribe",
+          "url": "https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T"
+        },
+        {
+          "name": "6091",
+          "url": "https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "When Nature Calls",
+      "url": "https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M"

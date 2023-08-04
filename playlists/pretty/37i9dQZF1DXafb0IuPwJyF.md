@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: MY FIRST STORY
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,415 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,617 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [DOSHABURI \- Remix](https://open.spotify.com/track/1C0685pFZ12nvdKbKzQ6Of) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DOSHABURI \(Remix\)](https://open.spotify.com/album/1niQ3Lv07r3c1hJiixXKKp) | 4:00 |
 | 50 | [NEWSmile](https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [NEWSmile](https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN) | 3:21 |
 
-Snapshot ID: `MCw0ZmUzNzE1YTlkZTk0YTMzNDY5ZWE0NTVkNmMyYTBhNGZhMWVkZmY0`
+Snapshot ID: `MCxiZTVhMmUwYjVhNWE1NzVmNjE5MDNlNjVkMmM1ZWMyMmYzMjgyNDlm`

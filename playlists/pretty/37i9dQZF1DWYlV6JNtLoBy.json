@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1824,
+  "num_followers": 1841,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWM0NjUyMzE5ZjMwZTVhMDAzZjllYjgyNDJmYjJjMzRhOWE5OTA3",
+  "snapshot_id": "MCxhZDA2MjMyZTZiMjZlMGYxYTMyZWJlNTY2OWYyM2FiNjUxY2VhNTNl",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -345,6 +345,30 @@
       "url": "https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH"
     },
     {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
       "added_at": "2023-07-28 00:01:00",
       "album": {
         "name": "Uko Wapi Mungu",
@@ -393,6 +417,42 @@
       "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
     },
     {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
+    },
+    {
+      "added_at": "2023-08-04 00:01:00",
+      "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Dena Mwana",
+          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Another Miracle",
+      "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
+    },
+    {
       "added_at": "2023-07-28 00:01:00",
       "album": {
         "name": "Ndio",
@@ -431,22 +491,18 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "The Sound of Redemption",
-        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
       },
       "artists": [
         {
-          "name": "Mabongi",
-          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
-        },
-        {
-          "name": "Khaya Mthethwa",
-          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
         }
       ],
-      "duration_ms": 403568,
-      "name": "We Worship",
-      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
+      "duration_ms": 281155,
+      "name": "Uwezo",
+      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -467,34 +523,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+        "name": "The Sound of Redemption",
+        "url": "https://open.spotify.com/album/33eTjDxci5pBddq5SAJome"
       },
       "artists": [
         {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 281155,
-      "name": "Uwezo",
-      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Mkono Wa Bwana",
-        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
-      },
-      "artists": [
+          "name": "Mabongi",
+          "url": "https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j"
+        },
         {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
         }
       ],
-      "duration_ms": 349492,
-      "name": "Mkono Wa Bwana",
-      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
+      "duration_ms": 403568,
+      "name": "We Worship",
+      "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -511,6 +555,22 @@
       "duration_ms": 249026,
       "name": "Relax",
       "url": "https://open.spotify.com/track/6vUjxGdsmFyyycqZohBo8e"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Mkono Wa Bwana",
+        "url": "https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF"
+      },
+      "artists": [
+        {
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
+        }
+      ],
+      "duration_ms": 349492,
+      "name": "Mkono Wa Bwana",
+      "url": "https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -587,22 +647,6 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Sweetie Sweetie",
-        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
-      },
-      "artists": [
-        {
-          "name": "Zabron Singers",
-          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
-        }
-      ],
-      "duration_ms": 316473,
-      "name": "Sweetie Sweetie",
-      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
         "name": "Bwana Ni Ngome Yangu",
         "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
       },
@@ -615,54 +659,6 @@
       "duration_ms": 346640,
       "name": "Huyu Ni Nani",
       "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Ipo Siku",
-        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
-      },
-      "artists": [
-        {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
-        }
-      ],
-      "duration_ms": 347593,
-      "name": "Ipo Siku",
-      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
-        }
-      ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
-      },
-      "artists": [
-        {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -683,18 +679,66 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+        "name": "Sweetie Sweetie",
+        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
         }
       ],
-      "duration_ms": 304680,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
+      "duration_ms": 316473,
+      "name": "Sweetie Sweetie",
+      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+        }
+      ],
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Ipo Siku",
+        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
+      },
+      "artists": [
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        }
+      ],
+      "duration_ms": 347593,
+      "name": "Ipo Siku",
+      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+      },
+      "artists": [
+        {
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -715,6 +759,22 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "duration_ms": 304680,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -751,6 +811,22 @@
     {
       "added_at": "2023-07-28 00:01:00",
       "album": {
+        "name": "Unikumbuke",
+        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 490293,
+      "name": "Mtetezi Wangu",
+      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
+    },
+    {
+      "added_at": "2023-07-28 00:01:00",
+      "album": {
         "name": "Yatupasa Kushukuru",
         "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
       },
@@ -783,22 +859,6 @@
       "duration_ms": 221936,
       "name": "KELELE ZA USHINDI",
       "url": "https://open.spotify.com/track/7w80EEF4HgcsRHNT9fdMNQ"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Unikumbuke",
-        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 490293,
-      "name": "Mtetezi Wangu",
-      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
     },
     {
       "added_at": "2023-07-28 00:01:00",
@@ -847,54 +907,6 @@
       "duration_ms": 232646,
       "name": "Mwema",
       "url": "https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Wewe ni mungu",
-        "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
-      },
-      "artists": [
-        {
-          "name": "Daddy Owen",
-          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "Wewe ni mungu",
-      "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "Yahwe Uhimidiwe",
-        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Uliniumba Nikuabudu",
-      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
-    },
-    {
-      "added_at": "2023-07-28 00:01:00",
-      "album": {
-        "name": "NADEKA",
-        "url": "https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A"
-      },
-      "artists": [
-        {
-          "name": "Guardian Angel",
-          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
-        }
-      ],
-      "duration_ms": 204042,
-      "name": "NADEKA",
-      "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     }
   ],
   "unique_name": "Sunday Service",

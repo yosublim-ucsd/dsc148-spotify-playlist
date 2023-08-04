@@ -4,7 +4,7 @@
 
 > Semplicemente noi.
 
-282 songs - 15 hr 2 min
+283 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 | 2022-04-27 | 2022-07-16 |
 | [FINIMONDO](https://open.spotify.com/track/0JbzHTWp24Fe1l7NBzzp4p) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [FINIMONDO](https://open.spotify.com/album/5v0DjHceNOVZGIqtNzR8i2) | 2:51 | 2022-06-10 | 2022-10-28 |
 | [Fiori di Chernobyl](https://open.spotify.com/track/54PxYcGpSUCmlpGdFGTaYR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Fiori di Chernobyl](https://open.spotify.com/album/2YqJPEAO5DFRRjNug1lwW4) | 2:55 | 2022-04-27 | 2022-07-23 |
-| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-23 |  |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-23 | 2023-08-04 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-02 |  |
 | [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-07-26 | 2023-01-24 |
 | [Giovani Wannabe](https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Giovani Wannabe](https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA) | 3:32 | 2022-05-30 | 2022-12-31 |
 | [Giravolte](https://open.spotify.com/track/2hIYNzE47Axeg3qJ3KTluB) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Giravolte](https://open.spotify.com/album/67UjtaQ0Zs0aYZXXBMxWCP) | 2:33 | 2022-04-27 | 2022-07-29 |
@@ -135,7 +136,7 @@
 | [La genesi del tuo colore](https://open.spotify.com/track/0HyDNYQmQ3obfA81D3y9tG) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [La genesi del tuo colore](https://open.spotify.com/album/7eIyCeIG5Y0v4Be4mhV2vu) | 3:48 | 2022-04-27 | 2022-07-29 |
 | [La storia infinita](https://open.spotify.com/track/0XAO6HaZDHa2HxbnWWKWCZ) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [La storia infinita](https://open.spotify.com/album/6IU2IppbPl3bt4CqL90qKd) | 3:27 | 2022-04-27 | 2022-07-29 |
 | [Lalalalalalalalalala](https://open.spotify.com/track/1vJPGeapiTW4KRPjK65JpV) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lalalalalalalalalala](https://open.spotify.com/album/2vPyR1QaW69L7vVQrv0Vxz) | 2:41 | 2022-04-27 | 2022-07-19 |
-| [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2023-01-23 |  |
+| [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 | 2023-01-23 | 2023-08-04 |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-07-26 | 2022-09-30 |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-10-27 | 2023-01-24 |
 | [Loco](https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Loco](https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI) | 3:51 | 2022-04-27 | 2023-01-24 |
@@ -167,7 +168,7 @@
 | [Musica leggerissima](https://open.spotify.com/track/67qxSUoyng1ohzvfyOyNWW) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [I Mortali²](https://open.spotify.com/album/1eXLJLcFqCLlrdSoQU8Ilf) | 3:56 | 2022-04-27 | 2022-07-28 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-06-10 |  |
 | [NEON \- Le Ali \(feat\. Elisa\)](https://open.spotify.com/track/76cEI7LczlKZ1yLAHIoPBJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:27 | 2022-06-06 | 2022-06-10 |
-| [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 | 2023-01-23 | 2023-07-28 |
+| [Non lo Sai](https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:48 | 2023-01-23 |  |
 | [Non mi basta più \(feat\. Chiara Ferragni\)](https://open.spotify.com/track/5ZUeBvBEH8hpdLMW3yCmHb) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg), [Chiara Ferragni](https://open.spotify.com/artist/0Rt1pqbZ2uBlOEXl0izcxb) | [Non mi basta più \(feat\. Chiara Ferragni\)](https://open.spotify.com/album/0kxhtcOBnkoIqfZ4xBLzHp) | 3:20 | 2022-05-25 | 2022-07-15 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2022-06-06 | 2023-01-06 |
 | [Notti In Bianco](https://open.spotify.com/track/38UoVEHcZ85EGBo6k79643) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Notti In Bianco](https://open.spotify.com/album/6gnq480U8mvkVRMqKinsX6) | 2:56 | 2022-04-27 | 2022-07-29 |

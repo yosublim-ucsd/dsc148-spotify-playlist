@@ -822,7 +822,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
@@ -1044,6 +1044,32 @@
       "duration_ms": 142080,
       "name": "Jack",
       "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
+    },
+    {
+      "album": {
+        "name": "JAIYE EVERYDAY",
+        "url": "https://open.spotify.com/album/7MR5PLjXyCV6yzHUfyqz09"
+      },
+      "artists": [
+        {
+          "name": "KIING LU",
+          "url": "https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k"
+        },
+        {
+          "name": "DAPO TUBURNA",
+          "url": "https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO"
+        },
+        {
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "JAIYE EVERYDAY",
+      "url": "https://open.spotify.com/track/1XHXaCmp8ruWJMyNAuXgy6"
     },
     {
       "album": {

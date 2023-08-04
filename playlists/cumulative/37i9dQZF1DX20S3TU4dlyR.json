@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Ahora Lo S\u00e9",
+        "url": "https://open.spotify.com/album/68PtNir6GWJ4H09eIbOSPC"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256372,
+      "name": "Ahora Lo S\u00e9",
+      "url": "https://open.spotify.com/track/2Wwu9dUOFgh6n8RZbicU3f"
+    },
+    {
+      "album": {
         "name": "Mentiras Lado B",
         "url": "https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv"
       },
@@ -594,6 +612,24 @@
       "duration_ms": 256880,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1zjbYt5OsR2WpvrigMrpid"
+    },
+    {
+      "album": {
+        "name": "Cowabunga",
+        "url": "https://open.spotify.com/album/1VvgRcf9Wylmx8iLWpbTdc"
+      },
+      "artists": [
+        {
+          "name": "Oye, Elizabeth",
+          "url": "https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246560,
+      "name": "Cowabunga",
+      "url": "https://open.spotify.com/track/2f9nPIbfe3VLzOY2yAZyul"
     },
     {
       "album": {
@@ -1324,7 +1360,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
@@ -1466,7 +1502,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 184000,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1"
@@ -2158,6 +2194,28 @@
       "duration_ms": 202680,
       "name": "Lo De Siempre",
       "url": "https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X"
+    },
+    {
+      "album": {
+        "name": "Lo Mas Lindo (777 Remix) [feat. Malandro]",
+        "url": "https://open.spotify.com/album/4qauDzXKycdqSVSFLB2uTv"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218048,
+      "name": "Lo Mas Lindo (777 Remix) [feat. Malandro]",
+      "url": "https://open.spotify.com/track/5w9zLniVSir38TONTqdNKq"
     },
     {
       "album": {
@@ -3382,7 +3440,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 260170,
       "name": "Si vas a dejarme...",
       "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"

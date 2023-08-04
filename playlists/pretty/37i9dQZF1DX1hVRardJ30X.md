@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Blessd & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,514 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,728 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 53 | [Ronaldo Nazário](https://open.spotify.com/track/4EMTyrQGUFpsjiQSEw5NuZ) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm) | [Ronaldo Nazário](https://open.spotify.com/album/2qfsNsNi8lyJ6FNeRMxKgi) | 2:50 |
 | 54 | [Smash Hits Sessions: Fireball](https://open.spotify.com/track/2mmD0fM1PxfD1QzDIewCmg) | [Smash Hits](https://open.spotify.com/artist/5WPggSPnnyS5quU7qUJKyB), [D.OZi](https://open.spotify.com/artist/7a9gFzWS5uEHtbNNgA6xyM) | [Smash Hits Sessions: Fireball](https://open.spotify.com/album/0I5srpDKbWYGlvyKP6Jf55) | 2:34 |
 | 55 | [vomittt](https://open.spotify.com/track/0At0rn42n81pFkRQtmuVWn) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [vomittt](https://open.spotify.com/album/2wSR02YyxztfQL80uJ9Lxp) | 2:44 |
-| 56 | [Me Muero](https://open.spotify.com/track/42CfWovJqWn5lCAgO2Ev60) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW), [Kallaghan](https://open.spotify.com/artist/3JUhLQVscB3juawfNkohf7) | [Me Muero](https://open.spotify.com/album/1ed0M3B7yp7o635aT6npA7) | 3:35 |
+| 56 | [Me Muero \- Remix](https://open.spotify.com/track/42CfWovJqWn5lCAgO2Ev60) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW), [Kallaghan](https://open.spotify.com/artist/3JUhLQVscB3juawfNkohf7) | [Me Muero \(Remix\)](https://open.spotify.com/album/1ed0M3B7yp7o635aT6npA7) | 3:35 |
 | 57 | [Veo Luces](https://open.spotify.com/track/63wvx0oN5gandg86x2FSup) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [Veo Luces](https://open.spotify.com/album/4fscuZRhvbb7O0qgPFODlf) | 3:26 |
 | 58 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
 | 59 | [A.S.D.A.](https://open.spotify.com/track/1VbcjQ14V7ORdYGKOyuzS7) | [Le Coco](https://open.spotify.com/artist/2ikSIaA1jYSCznIZnWiw2v) | [A.S.D.A.](https://open.spotify.com/album/2QKZ1oNbiQUzBYxvtggJBX) | 2:53 |
 | 60 | [I <3 NY](https://open.spotify.com/track/0BEFvYzuO6DMUYXWk9cUAi) | [Leisley](https://open.spotify.com/artist/5aRtrcGhtNrjVmmGihilvt) | [I <3 NY](https://open.spotify.com/album/4K8IgmWP9f6R217sHOjuB7) | 3:46 |
 
-Snapshot ID: `MCw4YjJlZTk1ZjFlNTI4MDZkMjE5NTdlYTBmZTQyMjAwNDBjNzI2Mzkz`
+Snapshot ID: `MCwwZDFjNTY4ZTMzNjUwYzFjZjgxOTI4YmYyZDg3NDZlMmQ5Njg5NGYx`

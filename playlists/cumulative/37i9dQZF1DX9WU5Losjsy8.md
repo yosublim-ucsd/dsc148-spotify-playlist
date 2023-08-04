@@ -4,7 +4,7 @@
 
 > Ist nur einmal im Jahr!
 
-72 songs - 3 hr 39 min
+73 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ein bisschen Aroma \- Stereoact Remix](https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e) | [Roger Whittaker](https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk), [Stereoact](https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a) | [Ein bisschen Aroma \(Stereoact Remix\)](https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer) | 2:58 | 2023-07-14 |  |
 | [Ein Stern \(der deinen Namen trägt\) \- Party Mix](https://open.spotify.com/track/1o5evgltJughVgrPinzAOV) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr), [Nik P.](https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS) | [Sternstunden](https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1) | 3:56 | 2023-07-28 |  |
 | [Eine Woche wach](https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Eine Woche wach](https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA) | 3:55 | 2023-07-14 |  |
+| [Grapefruit](https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc), [Julia Engelmann](https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK), [Raket One](https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06) | [Grapefruit](https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo) | 3:04 | 2023-07-28 |  |
 | [Griechischer Wein](https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Zeig mir den Platz an der Sonne](https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg) | 4:04 | 2023-07-14 |  |
 | [Hamma! \- Single Edit](https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Culcha Candela](https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM) | 3:29 | 2023-07-14 |  |
 | [Heisser Sand](https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Heisser Sand](https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV) | 2:03 | 2023-07-14 | 2023-07-31 |
@@ -71,7 +72,7 @@
 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 |  |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
-| [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 |  |
+| [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |
 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 |  |
 | [Strobo Pop](https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu), [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Party Chaos](https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS) | 3:14 | 2023-07-14 |  |
 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 | 2023-07-14 |  |

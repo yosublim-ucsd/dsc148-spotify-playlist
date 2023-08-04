@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Tim Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,619 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,627 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [flood lines](https://open.spotify.com/track/3FbCoTjGMj9u4VLecvKh1Y) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [flood lines](https://open.spotify.com/album/4T9DEhlakkK3iD2Zw0Cwyr) | 4:01 |
 | 100 | [Fish Out of Water](https://open.spotify.com/track/2JllvSo4QmvmIQkHAbdWvg) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 3:14 |
 
-Snapshot ID: `MCwzYTVjMjk4MTQ3NTk5YzBlZWU0NWQxMGM4MTkxMjk4ZTMxNTQ4ZjA2`
+Snapshot ID: `MCw5ZjAxZDFlYTI5NTJjNDg3ODQ2NzQ1YmJlNWE2ODFhNmY5MGE1MmFl`

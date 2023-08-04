@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 
 > Classic instrumental Soul to play during your working hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,398 likes - 82 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,486 likes - 82 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 | 8 | [Red Onion](https://open.spotify.com/track/3LvdkZ47TSmY4Kqt0F204q) | [Richard "Groove" Holmes](https://open.spotify.com/artist/7izkpvBGc31hUccjdSNz8k) | [New Groove](https://open.spotify.com/album/3BqryJMNxadVVDHVhPP7wQ) | 3:41 |
 | 9 | [Soul Serenade](https://open.spotify.com/track/315NtKOZZ30iThBRGS13Al) | [Willie Mitchell](https://open.spotify.com/artist/3EkURHRbSZWjatYLo36NMS) | [Ooh Baby, You Turn Me On](https://open.spotify.com/album/7ITysJysDOqsxChv9OBJ2t) | 2:21 |
 | 10 | [Theme From King Heroin](https://open.spotify.com/track/54BPqIsWWTNAobENZD1bQA) | [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Food For Thought](https://open.spotify.com/album/7MujsVJBUL1A1zieezqofq) | 3:07 |
-| 11 | [Never Walk Out on You \- Instrumental](https://open.spotify.com/track/4GCXndfjkiLzxBIKHSBZ26) | [Mitch Mitchell](https://open.spotify.com/artist/5oDKuJduSZVqcOszqPs26t), [Gene King](https://open.spotify.com/artist/73nHNkuRI52AXJkxomOaB9) | [Eccentric Soul: The Prix Label](https://open.spotify.com/album/3blzD6L2POqy1VX1mSjyjC) | 2:57 |
+| 11 | [Never Walk Out on You \- Instrumental](https://open.spotify.com/track/4GCXndfjkiLzxBIKHSBZ26) | [Mitch Mitchell](https://open.spotify.com/artist/7FV3HMPruKfZ5JhKeSFl4X), [Gene King](https://open.spotify.com/artist/73nHNkuRI52AXJkxomOaB9) | [Eccentric Soul: The Prix Label](https://open.spotify.com/album/3blzD6L2POqy1VX1mSjyjC) | 2:57 |
 | 12 | [Grazing In The Grass](https://open.spotify.com/track/3yO2VQpDyXLwMJJ69XXuxi) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:26 |
 | 13 | [Up the Stairs and Around the Bend](https://open.spotify.com/track/5gSqKtQz94cUZGhvyBkkOJ) | [Mickey & The Soul Generation](https://open.spotify.com/artist/6R8Xep48pgKRWzTBchSwO9) | [Iron Leg](https://open.spotify.com/album/7GGdJ4p0sCDTNySOEkMbyJ) | 3:51 |
 | 14 | [Fever \- Instrumental](https://open.spotify.com/track/6Um6w8p8hvcbLRselHugBe) | [Essence](https://open.spotify.com/artist/4q5gkgaf3OZgEByghYjR1R) | [Eccentric Soul: The Big Mack Label](https://open.spotify.com/album/3BX6p2mBm0L9aOj38BaytW) | 4:31 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 | 81 | [All I Need to Make It \- Instrumental](https://open.spotify.com/track/5zoWomyUQYqypunAUBqVUl) | [Capsoul Group](https://open.spotify.com/artist/0dIJ4apsKXMcUtXt27eSmG) | [Eccentric Soul: The Capsoul Label](https://open.spotify.com/album/04D0mW6vcrkyirMVF7x1cy) | 3:06 |
 | 82 | [South Philly](https://open.spotify.com/track/2A9J6PEXvBAnrZvqUyROim) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv) | [The Essential MFSB](https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C) | 4:27 |
 
-Snapshot ID: `MCw4YjkxZmVmNzI2ZjgxZTdkNWViNzFiZDhlMDM4ODJjOGQ1MWU3OWMw`
+Snapshot ID: `MCwwNTY5YzU1MDBhMmQ5YzEwMzcxZTAzOTRmZWRhY2VmYzIwYzg0NDI5`

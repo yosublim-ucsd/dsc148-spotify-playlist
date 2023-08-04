@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Lesti",
+  "description": "Dendang Dangdut teratas. Cover: Wika Salim, 3 Pemuda Berbahaya",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Khianatiku",
+        "url": "https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI"
+      },
+      "artists": [
+        {
+          "name": "Andre Mastijan",
+          "url": "https://open.spotify.com/artist/4CaULC2hulDukMworEU70V"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258461,
+      "name": "Khianatiku",
+      "url": "https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN"
+    },
+    {
+      "album": {
         "name": "Nella Kharisma Special NDX",
         "url": "https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD"
       },
@@ -988,6 +1006,28 @@
       "duration_ms": 329459,
       "name": "LDR ( layang dungo restu )",
       "url": "https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep"
+    },
+    {
+      "album": {
+        "name": "Madu Merah (Cover)",
+        "url": "https://open.spotify.com/album/49Kxl3GeB7k29szPUzxWvo"
+      },
+      "artists": [
+        {
+          "name": "Wika Salim",
+          "url": "https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q"
+        },
+        {
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258381,
+      "name": "Madu Merah - Cover",
+      "url": "https://open.spotify.com/track/0718TQnNieFp7nFiCA8I9h"
     },
     {
       "album": {
@@ -1414,6 +1454,24 @@
       "duration_ms": 300000,
       "name": "Perlahan",
       "url": "https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb"
+    },
+    {
+      "album": {
+        "name": "Racun Asmara",
+        "url": "https://open.spotify.com/album/5aH9pPOs9g6K63DZYBpJBf"
+      },
+      "artists": [
+        {
+          "name": "Rita Tila",
+          "url": "https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371076,
+      "name": "Racun Asmara",
+      "url": "https://open.spotify.com/track/4snJpcd1vXnhlrSF3tZA4W"
     },
     {
       "album": {

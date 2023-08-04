@@ -459,6 +459,32 @@
     },
     {
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/2NEznFmMnif2LbUrHrLW4F"
+      },
+      "artists": [
+        {
+          "name": "Ateoo",
+          "url": "https://open.spotify.com/artist/7mFcLxdq3SVTfDOnnoqXYL"
+        },
+        {
+          "name": "Momo Ryuk",
+          "url": "https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350536,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/6kzqQrcvMJOmyNYopwbVA4"
+    },
+    {
+      "album": {
         "name": "House Of Infinity",
         "url": "https://open.spotify.com/album/0CeWIUxQExtXOaDAfo1J6F"
       },

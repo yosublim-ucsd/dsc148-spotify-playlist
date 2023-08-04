@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Sithara Krishnakumar
 
-98 songs - 6 hr 52 min
+101 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,8 +103,11 @@
 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 | 2023-05-26 | 2023-07-28 |
 | [Thoni](https://open.spotify.com/track/4BTqvALUMhQUEV85HRPfl4) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Thoni](https://open.spotify.com/album/7fOjQOPYGaBhEU7HsBQf6P) | 5:00 | 2022-12-22 |  |
 | [Thoomani Maadathu](https://open.spotify.com/track/7bfxkRgmXbVr81Dv4fwknz) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Thoomani Maadathu \- Single](https://open.spotify.com/album/7b5k1J3hSlEX4a0sC4DvCe) | 6:15 | 2023-07-27 |  |
+| [Travelling Gypsies](https://open.spotify.com/track/3mZdRWYIURgCCBkjTWXxJa) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [Travelling Gypsies](https://open.spotify.com/album/0FS1GmvP4O1D7RF6QlHK5C) | 5:10 | 2023-08-03 |  |
 | [tum/njan](https://open.spotify.com/track/7jnZVWKd2nkAT6Ccm9mmuR) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Pavitra Krishnan](https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA) | [tum/njan](https://open.spotify.com/album/6llbBlNecpqUn5qVSfXaKz) | 4:08 | 2023-05-19 |  |
 | [Urumbu](https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Navarasam](https://open.spotify.com/album/4nFm7BobV1Wmat82PbgDog) | 5:13 | 2023-07-27 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |
+| [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 |  |
+| [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

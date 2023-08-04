@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-629 songs - 1 day 4 hr 22 min
+630 songs - 1 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [City of light](https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU) | 3:29 | 2022-07-28 |  |
 | [Clockwork Mural](https://open.spotify.com/track/4UcmzdeARm6JxkcIaewtA5) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Clockwork Mural](https://open.spotify.com/album/1BcfqIzdgOtWzzSL7Hrqvc) | 2:25 | 2022-05-26 | 2022-06-19 |
 | [Coffee break with him](https://open.spotify.com/track/475cCO8ac84X7j34ilKNgo) | [CRAM](https://open.spotify.com/artist/2kuzzESZpVYXEbJPF1o82D), [matatabi](https://open.spotify.com/artist/789AFt8ySj9w5pcaSniyMz) | [LOOPER](https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7) | 1:59 | 2021-12-23 | 2022-07-28 |
-| [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 |  |
+| [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2023-08-04 |
 | [Cold Lot](https://open.spotify.com/track/2CzYZfWwm2YF42vlHKCnOU) | [Burgundy Groove](https://open.spotify.com/artist/5KV5ps8Us33zxiMIED2dtt) | [Cold Lot](https://open.spotify.com/album/5zSkglZonnik5z9Bsr97xQ) | 1:40 | 2021-12-23 | 2022-01-01 |
 | [Conflicted](https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Contrast](https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb) | 3:39 | 2022-07-28 |  |
 | [Conflicted](https://open.spotify.com/track/4Rex03OZQCSqIgqWbmebTs) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Conflicted](https://open.spotify.com/album/0B4Zt2LmDh1aowk0YA5etb) | 3:39 | 2021-12-23 | 2022-07-25 |
@@ -327,6 +327,7 @@
 | [melancholic](https://open.spotify.com/track/2mVGm6EUAar5nWqoQUtCps) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [standalone collective](https://open.spotify.com/album/2YIsDVIu9bKbLXAlnBFKTw) | 2:10 | 2022-01-13 | 2022-06-29 |
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
 | [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-07-07 |
+| [Memory Lane](https://open.spotify.com/track/32HXeN3APFZcwKh3Jr5pOe) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/3MLmOVmSbplDhK4UbO0eEH) | 2:51 | 2023-08-03 |  |
 | [meraki](https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG), [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [meraki / cosmogyral](https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6) | 2:28 | 2021-12-23 |  |
 | [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2023-06-08 | 2023-08-03 |
 | [Midnight Peeps, Pt.2](https://open.spotify.com/track/2WSgwK0GqTZK8yTioy0Cd8) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Midnight Peeps, Pt.2](https://open.spotify.com/album/0yMnyXQqxoFviK7NLjfWPL) | 3:34 | 2022-01-06 | 2022-07-11 |

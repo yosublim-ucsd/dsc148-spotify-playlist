@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Hailey Whitters, Tyler Childers, Mitchell Tenpenny and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,185 likes - 78 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,335 likes - 78 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 77 | [All to Yourself](https://open.spotify.com/track/1qHzMKegbX2x2mi9n7mhP1) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [All to Yourself](https://open.spotify.com/album/47KkcsloezADjw8jRxqV8O) | 2:57 |
 | 78 | [Back at the Bar](https://open.spotify.com/track/4gv71mLTVXOHeTOWviyPk2) | [Landon Parker](https://open.spotify.com/artist/521JXQZX3YA67xdLe42Byy) | [Back at the Bar](https://open.spotify.com/album/65ED47owLx3I6x23FQCuVP) | 3:04 |
 
-Snapshot ID: `MCw4Y2RiYWExMzg3MTZlYTVjNmYyN2QxNjYzOTc1NTYyNjM3Njc3Mzc0`
+Snapshot ID: `MCxkNTdjMWI4YjI0OTFjYjM0ODBlMzQ1YjQ4NzliZmU5NjA5NzRkOWNm`

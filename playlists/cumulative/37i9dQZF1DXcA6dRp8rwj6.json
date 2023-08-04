@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Offset & Cardi B)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Ez Mil & Eminem)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -3094,7 +3094,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 242350,
       "name": "Bigger Than Bigger",
       "url": "https://open.spotify.com/track/5daODRKC6nW8QKtC92TU5J"
@@ -4578,6 +4578,28 @@
       "duration_ms": 147098,
       "name": "Bossy",
       "url": "https://open.spotify.com/track/5PM6QU58hnOf04GNWtiwgx"
+    },
+    {
+      "album": {
+        "name": "Bossy",
+        "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Cinta Laura Kiehl",
+          "url": "https://open.spotify.com/artist/2hpcsQx9HOJnoKczjvXehn"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134947,
+      "name": "Bossy",
+      "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
     },
     {
       "album": {
@@ -7640,7 +7662,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 274155,
       "name": "DEMIGOD",
       "url": "https://open.spotify.com/track/6W0Sq8VY1YH6LUriCbkJAA"
@@ -8183,6 +8205,32 @@
     },
     {
       "album": {
+        "name": "Do You Love You Or Do You Love Money",
+        "url": "https://open.spotify.com/album/34cpEt0hwBa8HBRLPmbqxa"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Figub Brazlevic",
+          "url": "https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum"
+        },
+        {
+          "name": "Gawd 5",
+          "url": "https://open.spotify.com/artist/0kSc2CEDUGHscgXJJPtFNu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225542,
+      "name": "Do You Love You Or Do You Love Money",
+      "url": "https://open.spotify.com/track/4b5DBuOxapO0h4FFCoWVhM"
+    },
+    {
+      "album": {
         "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
         "url": "https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H"
       },
@@ -8202,7 +8250,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 240000,
       "name": "DOG EAT DOG II (feat. Cruel Santino, Bella Shmurda)",
       "url": "https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V"
@@ -8590,7 +8638,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 150967,
       "name": "Doomsday (with Juice WRLD & Cordae)",
       "url": "https://open.spotify.com/track/3bkpVSoNvBkvt9LJMFT5at"
@@ -11929,6 +11977,28 @@
     },
     {
       "album": {
+        "name": "Headuphigh!",
+        "url": "https://open.spotify.com/album/2sWsfXyCbprhlR8j4qM9Q7"
+      },
+      "artists": [
+        {
+          "name": "NOTQUITEHALF",
+          "url": "https://open.spotify.com/artist/0GO1AcEsccDCalBmnmJ8nk"
+        },
+        {
+          "name": "Darren Lee",
+          "url": "https://open.spotify.com/artist/5o5wCBMQjLqQDyaXbws7wE"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147476,
+      "name": "Headuphigh!",
+      "url": "https://open.spotify.com/track/1qX6yeoEEvccASPdpmrYQ4"
+    },
+    {
+      "album": {
         "name": "HEALTHY MIND",
         "url": "https://open.spotify.com/album/7rF3aB66LyTbANkEKA2bfO"
       },
@@ -12848,7 +12918,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 155208,
       "name": "How Things Go",
       "url": "https://open.spotify.com/track/43eFhR58E5V6tykPRXjt56"
@@ -12962,6 +13032,24 @@
       "duration_ms": 163184,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/7JPweWVt1wDEu7EFwvupCo"
+    },
+    {
+      "album": {
+        "name": "Hype Me Up",
+        "url": "https://open.spotify.com/album/4rXP4oMmequey8Q600Gs6i"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Hype Me Up",
+      "url": "https://open.spotify.com/track/5CzbXW5uNehVSgeozqkQzx"
     },
     {
       "album": {
@@ -13388,6 +13476,28 @@
       "duration_ms": 168367,
       "name": "I.Y.A",
       "url": "https://open.spotify.com/track/0zmcTsFBWujjLOlcXGh9yl"
+    },
+    {
+      "album": {
+        "name": "BLOOD ON MY NIKEZ",
+        "url": "https://open.spotify.com/album/6XJQyWSjUaPb0M30hX2QU8"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99720,
+      "name": "ICE COLD ZEL FREESTYLE [Feat. ICECOLDBISHOP]",
+      "url": "https://open.spotify.com/track/4P6ivDGUbbfXWpFJVyzV6s"
     },
     {
       "album": {
@@ -13992,7 +14102,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 170568,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/2XvUMH1pFcrnoEt4jrU7us"
@@ -16380,7 +16490,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 135253,
       "name": "Make My Day (with David Guetta)",
       "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
@@ -16588,6 +16698,28 @@
       "duration_ms": 240363,
       "name": "Martin's Sofa",
       "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
+    },
+    {
+      "album": {
+        "name": "THANKS 4 THE WAIT",
+        "url": "https://open.spotify.com/album/4lP1Rlb8kKsOTQq0TNAGoG"
+      },
+      "artists": [
+        {
+          "name": "ForceParkBois",
+          "url": "https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV"
+        },
+        {
+          "name": "Sxph",
+          "url": "https://open.spotify.com/artist/7yYFVOPpLknZVr5nkWULpw"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Massa (feat. Sxph)",
+      "url": "https://open.spotify.com/track/6Pe84884twhl2sj87QGlIr"
     },
     {
       "album": {
@@ -18986,7 +19118,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 201135,
       "name": "Noell",
       "url": "https://open.spotify.com/track/0uPXXAew9PzPPUN67eQi8f"
@@ -20273,6 +20405,24 @@
     },
     {
       "album": {
+        "name": "Paint The Town Red",
+        "url": "https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7"
+    },
+    {
+      "album": {
         "name": "From a Birds Eye View",
         "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
@@ -21022,6 +21172,32 @@
       "duration_ms": 152933,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/5wDIshw04yKQOe6VQMt2Qd"
+    },
+    {
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/5v7R0bfnMmiFhqkGFGpIFm"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Cheekychizzy",
+          "url": "https://open.spotify.com/artist/5z6nZumE4lrnP3Nqcqdhz1"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/5gBfzyPlfJCOq7uUF9IOA0"
     },
     {
       "album": {
@@ -22116,6 +22292,36 @@
       "duration_ms": 183186,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
+    },
+    {
+      "album": {
+        "name": "Realest (with Eminem)",
+        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Ezekiel \"Slashmouth\" Miller",
+          "url": "https://open.spotify.com/artist/3oFDmAWLkcObKnmOeaGpSa"
+        },
+        {
+          "name": "Mike Strange",
+          "url": "https://open.spotify.com/artist/3aMlmfmaVX2q34LRfIgB3O"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217470,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
     },
     {
       "album": {
@@ -24160,7 +24366,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 188290,
       "name": "Sittin' On Top Of The World (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
@@ -24968,7 +25174,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 175443,
       "name": "Speedy Freeky",
       "url": "https://open.spotify.com/track/4E2hL0dlVvubXr3T9UbXLb"
@@ -26898,7 +27104,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 194765,
       "name": "Thai Gold",
       "url": "https://open.spotify.com/track/03V2BS4U6egbaZhdn6DOXt"
@@ -27556,7 +27762,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 264217,
       "name": "The Star Room (OG Version) - Bonus Track",
       "url": "https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT"
@@ -28914,6 +29120,28 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "album": {
+        "name": "UGLY BETTY",
+        "url": "https://open.spotify.com/album/32Rv8WO5Q0GiNa51TnKLMf"
+      },
+      "artists": [
+        {
+          "name": "Kresnt",
+          "url": "https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA"
+        },
+        {
+          "name": "audiodrugz",
+          "url": "https://open.spotify.com/artist/4PMllC4qzDmmdqVGrlJjQJ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192298,
+      "name": "UGLY BETTY",
+      "url": "https://open.spotify.com/track/4kym1XPxRMmVdRNibFn9k3"
     },
     {
       "album": {
@@ -30866,7 +31094,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 240680,
       "name": "X",
       "url": "https://open.spotify.com/track/3mJnYavSkAneaMiP2B5oLP"
@@ -31216,7 +31444,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 184206,
       "name": "You (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Vt0NNEPzWCVwEkNYF2HQn"

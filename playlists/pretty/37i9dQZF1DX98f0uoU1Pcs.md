@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,524 likes - 116 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,582 likes - 116 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 31 | [Good Living Is Coming for You](https://open.spotify.com/track/3DZT1Ng2MUHqhOKdo1E0Os) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Good Living Is Coming For You](https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI) | 3:37 |
 | 32 | [Fingers of Steel](https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:21 |
 | 33 | [Brass Bell](https://open.spotify.com/track/2P1kSwV2hQFxf6jjsOwsMj) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Desire Pathway](https://open.spotify.com/album/4ijKOsVWOcCxMK2Xt2gvLx) | 4:23 |
-| 34 | [Phone Lines Down](https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Phone Lines Down](https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN) | 2:03 |
+| 34 | [Phone Lines Down](https://open.spotify.com/track/3TpY23G5tVTl1DHZJJ86Qi) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Nah, That Ain't It / Phone Lines Down](https://open.spotify.com/album/5P8RoauK1TQ6v2XUq3bL7P) | 2:03 |
 | 35 | [Keys Down If You Stay](https://open.spotify.com/track/6CDSQOk2YWOgJ6oecwE4GG) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Keys Down If You Stay](https://open.spotify.com/album/3MitGCRd6KY8Ttqx1G1jlM) | 3:44 |
 | 36 | [Worship The Whip](https://open.spotify.com/track/0yeUQzN4ym60kmeiga9XSZ) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Worship The Whip](https://open.spotify.com/album/1vIPDQMaaSaGCxMqvq9MFB) | 3:01 |
 | 37 | [Sport of Form](https://open.spotify.com/track/60snAG6V1EmDgbHB7x5ROy) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Sport of Form](https://open.spotify.com/album/1T4LPltqYeJoJrr88P0NLq) | 3:26 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 115 | [Wrapped in Gold](https://open.spotify.com/track/5Qmij5UGOb1k2MC8DrAGgW) | [World News](https://open.spotify.com/artist/3VQXCMRCSzdKek71OkAL3Q) | [Wrapped in Gold](https://open.spotify.com/album/4hxFcHyPPErv1kls1x945F) | 3:57 |
 | 116 | [Downtown Side](https://open.spotify.com/track/71Dd59CQo8agQxe20Glmcn) | [Grocer](https://open.spotify.com/artist/3UdgFit4pWnDgoazPUn3sa) | [Downtown Side](https://open.spotify.com/album/6e4SRIycocguic8fluMqNe) | 3:41 |
 
-Snapshot ID: `MCw1ZTcwZmViNzk0MWFjZGI3NTNiOGFkZjJkYjBjOWFhNmM4ODliYWM0`
+Snapshot ID: `MCxlOTQ1NjdjYTU0MDc4YzcyNzk1YjcxYTFmZjgzYjZkNjA4MDliMWQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Paola Jara
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,776 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,835 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 16 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 |
 | 17 | [Asi Soy Yo \- Remix](https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Asi Soy Yo \(Remix\)](https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS) | 2:55 |
 | 18 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
-| 19 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beren](https://open.spotify.com/artist/51JPVppdvQhRtbrCu5BsIp) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 |
+| 19 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beren](https://open.spotify.com/artist/2eVjwcrAdghDt14w3e7nDu) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 |
 | 20 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 |
 | 21 | [Un Cumbión Dolido](https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Un Cumbión Dolido](https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK) | 3:55 |
 | 22 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 79 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 |
 | 80 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 |
 
-Snapshot ID: `MCwzYjNhYmZlZGE1OWJlMzk4NTZiMWI4MzA3NDFkZDQwY2Y4MzNlNjA0`
+Snapshot ID: `MCwzNDkyNzE2NmUwMWZhMTEzZGMzNTA1YjUzY2M3ZjllYjZlYmMyMmNm`

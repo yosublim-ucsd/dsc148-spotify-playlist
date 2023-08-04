@@ -1,12 +1,12 @@
 {
   "description": "Sinta o clima e fa\u00e7a uma viagem ao passado.",
-  "num_followers": 68304,
+  "num_followers": 68322,
   "original_name": "Ver\u00e3o Cl\u00e1ssico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDUwNDYzYTM4NGExYzU1YjhjMTRiZjEwMTk4MmIzZDljOTg2Yzdh",
+  "snapshot_id": "MCxiM2FlMzZjYWZjYjMwOTQ0YWU1NmQ0ODgyNDdmY2I2YTgxNmZiYzcw",
   "tracks": [
     {
       "added_at": "2020-11-30 23:28:56",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-11-30 23:28:56",
       "album": {
+        "name": "From the Foundations (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 177519,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2020-11-30 23:28:56",
+      "album": {
         "name": "I Got You (I Feel Good)",
         "url": "https://open.spotify.com/album/5UqTOjkfRMzkORwpeOWtt3"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 244426,
       "name": "Caribbean Queen (No More Love On the Run)",
       "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
-    },
-    {
-      "added_at": "2020-11-30 23:28:56",
-      "album": {
-        "name": "From the Foundations (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 177519,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
     },
     {
       "added_at": "2020-11-30 23:28:56",

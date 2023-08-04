@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 220867,
+  "num_followers": 220964,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODA3MWQ5NTY5NzI0NDk2Mjg0MDg1Zjg5NjRiZDU4YTk1ZTkyOGM2",
+  "snapshot_id": "MCwzN2YzY2IxNTQyZDU0YmRhMTE4ODI1ZTMyNjZmZmJmNzRhZDZlMGE5",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -795,6 +795,34 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
+        "url": "https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
+      "url": "https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "La Historia\u2026Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
       },
@@ -863,30 +891,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Noche Primavera",
-        "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
-      },
-      "artists": [
-        {
-          "name": "Man\u00fa",
-          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 199277,
-      "name": "Noche Primavera",
-      "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "La Historia de Mi Vida: El Final, Vol. 1",
         "url": "https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk"
       },
@@ -907,30 +911,26 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
-        "url": "https://open.spotify.com/album/14gxHpwmrORODOPNQCZ8lC"
+        "name": "Noche Primavera",
+        "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
         },
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
         }
       ],
-      "duration_ms": 256252,
-      "name": "Ayer Me Llam\u00f3 Mi Ex (Remix)",
-      "url": "https://open.spotify.com/track/1PWEqRVXqXhRDeS4OznL01"
+      "duration_ms": 199277,
+      "name": "Noche Primavera",
+      "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
     },
     {
       "added_at": "2023-04-27 23:54:49",

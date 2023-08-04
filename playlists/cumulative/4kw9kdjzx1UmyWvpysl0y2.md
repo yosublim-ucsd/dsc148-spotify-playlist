@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-533 songs - 1 day 7 hr 7 min
+534 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 | 2022-05-28 |
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
+| [AUTOMATIC](https://open.spotify.com/track/4xYMDPAohsKkfsO2lHltOQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [AUTOMATIC](https://open.spotify.com/album/3M7GhG2yRtLncbiLtDBm6D) | 2:50 | 2023-08-03 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
 | [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 | 2023-04-20 |
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 | 2023-07-09 |
@@ -410,7 +411,7 @@
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 | 2023-01-13 |
-| [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 |  |
+| [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 | 2023-08-04 |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 | 2022-08-27 |
 | [Sea Turtles](https://open.spotify.com/track/1PNwfTqnN6vECSMjb5sluO) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Sea Turtles](https://open.spotify.com/album/30aZunnIfn312Vtv4C3tiV) | 3:57 | 2023-07-24 |  |
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
@@ -436,7 +437,7 @@
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 |  |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |
-| [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 |  |
+| [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |
 | [SOYUZ](https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:47 | 2022-11-21 | 2022-11-24 |
 | [Space](https://open.spotify.com/track/67zWylZHTu4lLgfoPbV71r) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [ill\-esha](https://open.spotify.com/artist/2sTLQWYys1f2QqpIZ3EOeU) | [Space](https://open.spotify.com/album/3BbB94zXzS6ywAXg90w63y) | 3:46 | 2022-11-22 | 2023-02-17 |

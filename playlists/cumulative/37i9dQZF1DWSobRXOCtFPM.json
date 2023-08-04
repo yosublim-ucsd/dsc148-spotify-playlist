@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Underground : Techno",
+        "url": "https://open.spotify.com/album/4834u6kQbxg8pR30yAm9xl"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297466,
+      "name": "Acid Charge",
+      "url": "https://open.spotify.com/track/6GZ5QBzF4MzqWvCajqXNnl"
+    },
+    {
+      "album": {
         "name": "Acid Dip",
         "url": "https://open.spotify.com/album/2tiEFUO4ZykPhvopjijQFR"
       },
@@ -96,6 +114,24 @@
       "duration_ms": 494328,
       "name": "Acid Dip",
       "url": "https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp"
+    },
+    {
+      "album": {
+        "name": "Activate EP",
+        "url": "https://open.spotify.com/album/0FEUKiJyvP1kxSuK3fKn6A"
+      },
+      "artists": [
+        {
+          "name": "Slam",
+          "url": "https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338419,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/2OaNFUxX5RcGTzu4WbY0lK"
     },
     {
       "album": {
@@ -208,7 +244,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 189835,
       "name": "Apollo Beings",
       "url": "https://open.spotify.com/track/4gUM6OzddvIOxjsW39ftDi"
@@ -558,7 +594,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 245000,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/4AbXMTMcXbnJ9YDYHFcDpo"
@@ -671,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Gear Up EP",
+        "url": "https://open.spotify.com/album/29FPDcBOHi3Wqwai1QCb9z"
+      },
+      "artists": [
+        {
+          "name": "Hertz",
+          "url": "https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362721,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/24q0bWuSnuKfwEzw4fNPcu"
+    },
+    {
+      "album": {
         "name": "Computer World (2009 Remaster)",
         "url": "https://open.spotify.com/album/07BPkQfT4B5xjDwjCxRiN2"
       },
@@ -711,6 +765,28 @@
     },
     {
       "album": {
+        "name": "MBPN, Vol. 1",
+        "url": "https://open.spotify.com/album/1Hlt0D5yvOcIGCCdDc5kBJ"
+      },
+      "artists": [
+        {
+          "name": "Misstress Barbara",
+          "url": "https://open.spotify.com/artist/1Bhw1NGkIlsdVb8NXOymzk"
+        },
+        {
+          "name": "Paul Nazca",
+          "url": "https://open.spotify.com/artist/4iLd6oVZU2tHBHlfxEuusQ"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343111,
+      "name": "Corniche",
+      "url": "https://open.spotify.com/track/3meaDVtgpm76O6RrJu9bKd"
+    },
+    {
+      "album": {
         "name": "Tomahawk",
         "url": "https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju"
       },
@@ -726,7 +802,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 312888,
       "name": "Crazy Horse",
       "url": "https://open.spotify.com/track/0ymvHKdaBgeKiLk2bHXsmf"
@@ -802,7 +878,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 388000,
       "name": "Deep Space X",
       "url": "https://open.spotify.com/track/6X1c9HhslDe4ykuXb7d9vI"
@@ -954,7 +1030,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 322845,
       "name": "Electronic Generations",
       "url": "https://open.spotify.com/track/7ydNIRPI41BfDqtQT1F4fo"
@@ -972,7 +1048,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 245000,
       "name": "Electronic Generations - Reprise",
       "url": "https://open.spotify.com/track/5uWeAd2HOZr0mkhyHsPveW"
@@ -1153,6 +1229,46 @@
     },
     {
       "album": {
+        "name": "Funk EP",
+        "url": "https://open.spotify.com/album/363sAyWoJxfOLgrlmuesiM"
+      },
+      "artists": [
+        {
+          "name": "Uncertain",
+          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361176,
+      "name": "Frame",
+      "url": "https://open.spotify.com/track/03owGeQybSsnpreChFqoSq"
+    },
+    {
+      "album": {
+        "name": "Momentum EP",
+        "url": "https://open.spotify.com/album/6SWmGg9QPqD9t4j4x6N4E2"
+      },
+      "artists": [
+        {
+          "name": "Ramon Tapia",
+          "url": "https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1"
+        },
+        {
+          "name": "Gaston Zani",
+          "url": "https://open.spotify.com/artist/2uU0gIFQJd8zSyAaxhhoL1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399480,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/1zpsyx9HYDqYv99kc6wez0"
+    },
+    {
+      "album": {
         "name": "ASW is Live EP1",
         "url": "https://open.spotify.com/album/6IWB9OJFWVNbwwPWWFqBcJ"
       },
@@ -1262,7 +1378,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 219250,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5Mxq5cd9xreH7HbycVJG8y"
@@ -1287,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Music Made for Aliens",
+        "url": "https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418665,
+      "name": "Hanenda",
+      "url": "https://open.spotify.com/track/3TqSZhXBJyfEbqVC7NwFUS"
+    },
+    {
+      "album": {
         "name": "Hanenda - EP",
         "url": "https://open.spotify.com/album/0wlfopjB4ZSHMriUb4DaCD"
       },
@@ -1298,7 +1432,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 188160,
       "name": "Hanenda (Edit)",
       "url": "https://open.spotify.com/track/67lxN57G1EgiLOf7kjIhcL"
@@ -1320,7 +1454,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 210883,
       "name": "Hanenda (Will Clarke Remix - Edit)",
       "url": "https://open.spotify.com/track/6jikiaPQj8g6DRXevBj8jZ"
@@ -1400,7 +1534,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 333536,
       "name": "Heads Up",
       "url": "https://open.spotify.com/track/3sx86w6WDkC66U4GQ0uyfM"
@@ -1422,7 +1556,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 204500,
       "name": "Hector Small - Rory Marshall Remix",
       "url": "https://open.spotify.com/track/41blw5g28HvLPJjMgStgCb"
@@ -1510,7 +1644,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 305945,
       "name": "How It Makes You Feel",
       "url": "https://open.spotify.com/track/2Vhmdd5w2C1ODAfuUI9vtd"
@@ -1576,7 +1710,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 526672,
       "name": "How It Makes You Feel",
       "url": "https://open.spotify.com/track/46g53zC3XpVrDdBQ6eLjHY"
@@ -1764,7 +1898,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 376386,
       "name": "Intentionally",
       "url": "https://open.spotify.com/track/4REuw9Oum1mUaSuzEycj4Q"
@@ -1829,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "IYNDUB01 (Live)",
+        "url": "https://open.spotify.com/album/1OpZE687r6OAVxzVlislII"
+      },
+      "artists": [
+        {
+          "name": "Saytek",
+          "url": "https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477759,
+      "name": "IYNDUB01 - Live",
+      "url": "https://open.spotify.com/track/0KyJUcEKfEUQc9ZcdgSFz1"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/3s1mUrfpGAY2kFoBC08tFk"
       },
@@ -1862,7 +2014,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 256463,
       "name": "Keep the Pressure On",
       "url": "https://open.spotify.com/track/4LPfMqurTNTpdGl7OULJvW"
@@ -1916,7 +2068,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 257000,
       "name": "Line Lock",
       "url": "https://open.spotify.com/track/2F9vyt5uPi4Sy7iTDiTDqW"
@@ -1934,7 +2086,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 264648,
       "name": "Lokma",
       "url": "https://open.spotify.com/track/1qTI3m6lVdukVwn0K5ZHYQ"
@@ -2036,7 +2188,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 394264,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/4kfFq25g5GGGRw8xKC60m4"
@@ -2120,10 +2272,62 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 267126,
       "name": "Move the Crowd",
       "url": "https://open.spotify.com/track/2V72mABFaq9paF2N4dOWR0"
+    },
+    {
+      "album": {
+        "name": "Music Is Life",
+        "url": "https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn"
+      },
+      "artists": [
+        {
+          "name": "Bushwacka!",
+          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Chuck Roberts",
+          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414698,
+      "name": "Music Is Life - Deep Mix",
+      "url": "https://open.spotify.com/track/5nCFYGPlcrlpuPGMkEwjgm"
+    },
+    {
+      "album": {
+        "name": "Music Is Life",
+        "url": "https://open.spotify.com/album/7ryXbYGT910BTiS6yLAiSn"
+      },
+      "artists": [
+        {
+          "name": "Bushwacka!",
+          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Chuck Roberts",
+          "url": "https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365871,
+      "name": "Music Is Life - Main Mix",
+      "url": "https://open.spotify.com/track/1Wy9vsNoymAlUsr4NpV5C9"
     },
     {
       "album": {
@@ -2292,7 +2496,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 316164,
       "name": "Our Time Will Come",
       "url": "https://open.spotify.com/track/2FS52YmzLziihCpIv7aglt"
@@ -2336,7 +2540,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 270344,
       "name": "Our Time Will Come - Chase & Status Remix",
       "url": "https://open.spotify.com/track/6osE286C3Z5dpzF655xEsG"
@@ -2665,6 +2869,32 @@
     },
     {
       "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/0ZWmp1nstHHDmZRpEGTFu5"
+      },
+      "artists": [
+        {
+          "name": "Horatio",
+          "url": "https://open.spotify.com/artist/2oyhm5jH6TCq0M7eRekzMD"
+        },
+        {
+          "name": "Angelica de No",
+          "url": "https://open.spotify.com/artist/5MINOFapmx47AHSzgeWAd4"
+        },
+        {
+          "name": "Tech Us Out",
+          "url": "https://open.spotify.com/artist/4RYIvQkrR2g886yxR4ZYlM"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422776,
+      "name": "Release - Tech Us Out Remix",
+      "url": "https://open.spotify.com/track/23ugKR2aqOUQCNPzvXn2i2"
+    },
+    {
+      "album": {
         "name": "Speicher 118",
         "url": "https://open.spotify.com/album/6u1dHk7i5c2vFy0XPt0v33"
       },
@@ -2712,7 +2942,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 274800,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/67KFsBsLEu5lXnrmoPKm5H"
@@ -2734,7 +2964,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 247873,
       "name": "See the Sun Rising",
       "url": "https://open.spotify.com/track/00uBELqDhFoO4yDvkOdORg"
@@ -2796,6 +3026,24 @@
       "duration_ms": 218880,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR"
+    },
+    {
+      "album": {
+        "name": "Illusion Of Touch EP",
+        "url": "https://open.spotify.com/album/6H6U4SSfbOlNaXS7aiXDVT"
+      },
+      "artists": [
+        {
+          "name": "DJ Dextro",
+          "url": "https://open.spotify.com/artist/3ygZ5oQeymor1LlYuGV3FO"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326758,
+      "name": "Self Inductance",
+      "url": "https://open.spotify.com/track/2tAsOfI49k9BRLlQpAtPLr"
     },
     {
       "album": {
@@ -2908,7 +3156,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 441798,
       "name": "Speed Trials On Acid",
       "url": "https://open.spotify.com/track/3K9v7948e5jHeuTh1AgCXA"
@@ -2934,7 +3182,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 203371,
       "name": "Speed Trials On Acid (feat. Dan Diamond)",
       "url": "https://open.spotify.com/track/34lHYkMsPUOH6y8Yqe8EAf"
@@ -2986,7 +3234,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 308264,
       "name": "Speed Trials On Acid (feat. Dan Diamond) - Club Mix",
       "url": "https://open.spotify.com/track/65NRMgV3KYV8r3DNPMix5n"
@@ -3072,7 +3320,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 183423,
       "name": "Speed Trials On Acid (feat. Dan Diamond) - LF SYSTEM Remix",
       "url": "https://open.spotify.com/track/6HXL2O0YUMTxVU0cxWjddn"
@@ -3102,7 +3350,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 153654,
       "name": "Speed Trials On Acid (feat. Dan Diamond) - Riton Remix",
       "url": "https://open.spotify.com/track/06c4aKoC09QiAQjY0s5mbZ"
@@ -3219,6 +3467,28 @@
     },
     {
       "album": {
+        "name": "33 Tours Et Puis S\u2019en Vont",
+        "url": "https://open.spotify.com/album/3XSKAzY7vrFudIP2aafoBE"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        },
+        {
+          "name": "Alan Watts",
+          "url": "https://open.spotify.com/artist/2CCcoAwiAwpIs1hcsqkk3b"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656962,
+      "name": "Tales from The Real World",
+      "url": "https://open.spotify.com/track/5JuGY5qQy5byKT3RB04bYV"
+    },
+    {
+      "album": {
         "name": "Mindset - EP",
         "url": "https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4"
       },
@@ -3238,7 +3508,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 319491,
       "name": "The Dust Arrival",
       "url": "https://open.spotify.com/track/1A4d4nfAMLGhpCQmxiE1fS"
@@ -3340,7 +3610,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 503068,
       "name": "Toys Out of the Pram",
       "url": "https://open.spotify.com/track/07l6ZPRhP8mtMypwUzgd0h"
@@ -3507,6 +3777,58 @@
     },
     {
       "album": {
+        "name": "Voicemail (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275472,
+      "name": "Voicemail - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
+    },
+    {
+      "album": {
+        "name": "Wait A Minute (Dixon Extension)",
+        "url": "https://open.spotify.com/album/2bkhNP3qpPZFAEK6me4hoT"
+      },
+      "artists": [
+        {
+          "name": "Radio Slave",
+          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        },
+        {
+          "name": "Dixon",
+          "url": "https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387096,
+      "name": "Wait A Minute - Dixon Extension",
+      "url": "https://open.spotify.com/track/2O2oWOUJM14dWhQNpkcSbD"
+    },
+    {
+      "album": {
         "name": "UFO Death Cult",
         "url": "https://open.spotify.com/album/7yK4YiQjKQ2frSFPHsqVQ8"
       },
@@ -3587,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "Work Ya Ass",
+        "url": "https://open.spotify.com/album/4fo9f5ooi2Jd4cLZ62hjWr"
+      },
+      "artists": [
+        {
+          "name": "Truncate",
+          "url": "https://open.spotify.com/artist/1JxLnEvBPdm9baryEFzE50"
+        },
+        {
+          "name": "Ben Sims",
+          "url": "https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310920,
+      "name": "Work Ya Ass (Ben Sims JFF Edit)",
+      "url": "https://open.spotify.com/track/4rM7f0BkgINfLGuNleHNhK"
+    },
+    {
+      "album": {
         "name": "Electronic Generations",
         "url": "https://open.spotify.com/album/6tvLPBwE0Yd4VLwsTvGL3Z"
       },
@@ -3598,7 +3942,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 264725,
       "name": "World Gone Mad",
       "url": "https://open.spotify.com/track/3Ssta34Ppt7LqYxxLPhQM0"

@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 25679,
+  "num_followers": 25796,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2M4OTg3MjAyOTQ2ZGUzNzNkZGQ5ODVhZGY1OTk3YzE4Njk4ODI3",
+  "snapshot_id": "MCw1ZmQ3ODgwNjk0MmM4MWViYWI0NWZlMWM5ZWM5OGEzNzlkZWE5YzRl",
   "tracks": [
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Sexy (feat. Marlku)",
         "url": "https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 174335,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm"
     },
     {
       "added_at": "2022-12-09 03:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-12-09 03:00:00",
       "album": {
-        "name": "Llegu\u00e9 Tarde",
-        "url": "https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Llegu\u00e9 Tarde",
-      "url": "https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M"
-    },
-    {
-      "added_at": "2022-12-09 03:00:00",
-      "album": {
         "name": "Andan Busc\u00e1ndome",
         "url": "https://open.spotify.com/album/6nAAcUnvYG9bYUdJMuGYU0"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 237106,
       "name": "Andan Busc\u00e1ndome",
       "url": "https://open.spotify.com/track/4T8QAlyvvAdDEcqoE9Ha4t"
+    },
+    {
+      "added_at": "2022-12-09 03:00:00",
+      "album": {
+        "name": "Llegu\u00e9 Tarde",
+        "url": "https://open.spotify.com/album/1XORrZyL3U6VkoVgg1mwaW"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Llegu\u00e9 Tarde",
+      "url": "https://open.spotify.com/track/0MU33IBbZtqRcJA3f4fG5M"
     },
     {
       "added_at": "2022-12-09 03:00:00",

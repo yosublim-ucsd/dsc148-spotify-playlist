@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer",
-  "num_followers": 555434,
+  "num_followers": 555987,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWEwNmFjMmQ5MGFhZTI3YzA5YTRjZmUxYmY5ZGYzNjkwOGU0YTcy",
+  "snapshot_id": "MCwxYjc3MmI0YTJjY2MyOTQ2MTY2ZTg2NzgwYzFkZmUxZGY4Y2QzZWU4",
   "tracks": [
     {
       "added_at": "2023-07-17 12:34:23",
@@ -240,21 +240,13 @@
       },
       "artists": [
         {
-          "name": "ofRO,T.M.S. Selva Kumar",
-          "url": "https://open.spotify.com/artist/5Nb1iQx1HYLpCXUneyz4df"
-        },
-        {
-          "name": "Susha",
-          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
-        },
-        {
-          "name": "Gana Muthu",
-          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+          "name": "ofRO,Gana Muthu",
+          "url": "https://open.spotify.com/artist/5LTgrp8cYZxxhBCZQLL5Lw"
         }
       ],
-      "duration_ms": 166956,
-      "name": "I'm So Prabalam",
-      "url": "https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA"
+      "duration_ms": 230189,
+      "name": "French Kuthu",
+      "url": "https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj"
     },
     {
       "added_at": "2023-07-31 06:15:00",
@@ -393,24 +385,72 @@
       "url": "https://open.spotify.com/track/4a0SCd5iq23JqRBZO8j3ao"
     },
     {
-      "added_at": "2023-07-31 14:30:16",
+      "added_at": "2023-07-31 06:50:03",
       "album": {
-        "name": "Lockdown Diarie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yr44Nhdsi1upkUPqPgFh6"
+        "name": "DD Returns (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
       },
       "artists": [
         {
-          "name": "Suresh Peters",
-          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+          "name": "ofRO,T.M.S. Selva Kumar",
+          "url": "https://open.spotify.com/artist/5Nb1iQx1HYLpCXUneyz4df"
         },
         {
-          "name": "Jolly Bastian",
-          "url": "https://open.spotify.com/artist/0ROMeWcMBAKYW9Fpp9NVep"
+          "name": "Susha",
+          "url": "https://open.spotify.com/artist/1ZwNmkTnRKkILlrPV2yPpC"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/1e0zLkPEItTQyRUk3Q0p6N"
+      "duration_ms": 166956,
+      "name": "I'm So Prabalam",
+      "url": "https://open.spotify.com/track/1Hw4Tezkw26zKDuufsXyKA"
+    },
+    {
+      "added_at": "2023-08-03 12:34:01",
+      "album": {
+        "name": "Chinnanchiru Manasukulla (From \"Parivarthanai\")",
+        "url": "https://open.spotify.com/album/23PuXLbOnNeU0DwNwGQ1FY"
+      },
+      "artists": [
+        {
+          "name": "Rajalakshmi Senthiganesh",
+          "url": "https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v"
+        },
+        {
+          "name": "Senthil Dass",
+          "url": "https://open.spotify.com/artist/4TTs2WcxJN7SHkit06rSMg"
+        }
+      ],
+      "duration_ms": 146451,
+      "name": "Chinnanchiru Manasukulla (From \"Parivarthanai\")",
+      "url": "https://open.spotify.com/track/44loAUvuiIgBWJtJd4NJ9n"
+    },
+    {
+      "added_at": "2023-08-03 09:14:10",
+      "album": {
+        "name": "Ona Suthi Suthi (From \"Skanda\") (Tamil)",
+        "url": "https://open.spotify.com/album/39tR9Bc88xE4AHjDxPuhsa"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ranjith Govind",
+          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        }
+      ],
+      "duration_ms": 250150,
+      "name": "Ona Suthi Suthi (From \"Skanda\") (Tamil)",
+      "url": "https://open.spotify.com/track/69fEy2DfotT8LgikkInN4P"
     },
     {
       "added_at": "2023-07-28 14:22:03",
@@ -449,6 +489,26 @@
       "url": "https://open.spotify.com/track/7GVTu3LkZIOVrAAm8wCrj5"
     },
     {
+      "added_at": "2023-07-31 14:30:16",
+      "album": {
+        "name": "Lockdown Diarie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yr44Nhdsi1upkUPqPgFh6"
+      },
+      "artists": [
+        {
+          "name": "Suresh Peters",
+          "url": "https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45"
+        },
+        {
+          "name": "Jolly Bastian",
+          "url": "https://open.spotify.com/artist/0ROMeWcMBAKYW9Fpp9NVep"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/1e0zLkPEItTQyRUk3Q0p6N"
+    },
+    {
       "added_at": "2023-08-02 10:21:13",
       "album": {
         "name": "Oru Ezhai Deivam (From \"Kakkan\")",
@@ -471,22 +531,6 @@
       "duration_ms": 324642,
       "name": "Oru Ezhai Deivam (From \"Kakkan\")",
       "url": "https://open.spotify.com/track/4ZBYvNfwE0E1FhvZScXOcX"
-    },
-    {
-      "added_at": "2023-07-31 06:50:03",
-      "album": {
-        "name": "DD Returns (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/15jO3bBmBGQs51Q2TmQshe"
-      },
-      "artists": [
-        {
-          "name": "ofRO,Gana Muthu",
-          "url": "https://open.spotify.com/artist/5LTgrp8cYZxxhBCZQLL5Lw"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "French Kuthu",
-      "url": "https://open.spotify.com/track/7pKo8F4MS6XRC63XlU72Qj"
     },
     {
       "added_at": "2023-07-28 14:27:52",
@@ -593,26 +637,6 @@
       "url": "https://open.spotify.com/track/2xm4sJxwgaeFsxc1cM1xQr"
     },
     {
-      "added_at": "2023-07-24 09:07:36",
-      "album": {
-        "name": "Aayah Song",
-        "url": "https://open.spotify.com/album/3Gqyb6zx8fHbn2qX82H57m"
-      },
-      "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
-        {
-          "name": "Shilvi Sharon",
-          "url": "https://open.spotify.com/artist/1KCJkKOl7ejNUXcWKDy9jr"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Aayah Song",
-      "url": "https://open.spotify.com/track/3zCLFkKh9EJyWE9fbGsxbJ"
-    },
-    {
       "added_at": "2023-07-28 14:22:03",
       "album": {
         "name": "Jailer (Original Motion Picture Soundtrack)",
@@ -627,30 +651,6 @@
       "duration_ms": 102857,
       "name": "Muthuvel Pandian Theme - Instrumental",
       "url": "https://open.spotify.com/track/6BLzMdz3Gw8ho9GZMr9GSG"
-    },
-    {
-      "added_at": "2023-07-24 11:50:39",
-      "album": {
-        "name": "Nenjukulla Nenjukulla (From \"Parivarthanai\")",
-        "url": "https://open.spotify.com/album/6ncws3wskSpzJHgLiG7x3E"
-      },
-      "artists": [
-        {
-          "name": "Sam Vishal",
-          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
-        },
-        {
-          "name": "Rashaanth Arwin",
-          "url": "https://open.spotify.com/artist/0ThC0oy8VRGYD0URzvFsSy"
-        },
-        {
-          "name": "VJP Raghupathi",
-          "url": "https://open.spotify.com/artist/3C51l3kmEN7neKhN1vKpYB"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Nenjukulla Nenjukulla (From \"Parivarthanai\")",
-      "url": "https://open.spotify.com/track/44rylR3kxbZl0xe7Hgtocp"
     },
     {
       "added_at": "2023-03-10 09:49:00",
@@ -713,50 +713,6 @@
       "url": "https://open.spotify.com/track/7E6g8wI3WIijYkLvZQ50hp"
     },
     {
-      "added_at": "2023-06-15 15:15:00",
-      "album": {
-        "name": "Salana (From \"LGM\")",
-        "url": "https://open.spotify.com/album/7tlEW61tcGpEULjPf3l8gH"
-      },
-      "artists": [
-        {
-          "name": "Ramesh Thamilmani",
-          "url": "https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        }
-      ],
-      "duration_ms": 177130,
-      "name": "Salana (From \"LGM\")",
-      "url": "https://open.spotify.com/track/2kt8pqyFNZ1eAfx44GNLH2"
-    },
-    {
-      "added_at": "2023-07-21 08:26:26",
-      "album": {
-        "name": "SASO (From \"Sathya Sothanai)",
-        "url": "https://open.spotify.com/album/4MoxzoFhIaGVFUwtawdaQl"
-      },
-      "artists": [
-        {
-          "name": "Premgi Amaren",
-          "url": "https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2"
-        },
-        {
-          "name": "Ajmal Khan",
-          "url": "https://open.spotify.com/artist/0apJT5ZU5OQnkxFcgbtvuR"
-        },
-        {
-          "name": "Sathya",
-          "url": "https://open.spotify.com/artist/4J6eao4KqjRmLHH0Y77yh1"
-        }
-      ],
-      "duration_ms": 123409,
-      "name": "SASO - From \"Sathya Sothanai",
-      "url": "https://open.spotify.com/track/1LRy2YOhd06HGoFHF3zCe8"
-    },
-    {
       "added_at": "2023-02-17 09:30:38",
       "album": {
         "name": "Scene Ah Scene Ah (From \"Maaveeran\") - Single",
@@ -783,26 +739,6 @@
       "duration_ms": 304670,
       "name": "Scene Ah Scene Ah (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/4oH2lx7TZEE00dsxgQsBJr"
-    },
-    {
-      "added_at": "2023-07-12 12:37:50",
-      "album": {
-        "name": "Aneethi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2u1lMoLC0x8N06974LzwwB"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Poo Naazhi Pon Naazhi",
-      "url": "https://open.spotify.com/track/2ddAL5odtsiKTfU6PecuyB"
     },
     {
       "added_at": "2023-05-30 09:57:32",
@@ -887,46 +823,6 @@
       "duration_ms": 117966,
       "name": "Cargaalamey",
       "url": "https://open.spotify.com/track/67uNsHiNloytecntiAbKf2"
-    },
-    {
-      "added_at": "2023-07-12 12:37:50",
-      "album": {
-        "name": "Aneethi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2u1lMoLC0x8N06974LzwwB"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "Ravi G",
-          "url": "https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD"
-        },
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 229411,
-      "name": "Malarthan Vizhundhadhu",
-      "url": "https://open.spotify.com/track/4c51eeZGR8345QMWFlhdMT"
-    },
-    {
-      "added_at": "2023-06-30 10:31:23",
-      "album": {
-        "name": "Muththa Pichchai",
-        "url": "https://open.spotify.com/album/5UQlS7Pw1cfoZpS5RK0GWM"
-      },
-      "artists": [
-        {
-          "name": "Gautham Vasudev Menon",
-          "url": "https://open.spotify.com/artist/2Fl0BwBH1KNwkrinajN5dI"
-        }
-      ],
-      "duration_ms": 295292,
-      "name": "Muththa Pichchai",
-      "url": "https://open.spotify.com/track/1kVLbqrZsMFcy7qomNFquV"
     },
     {
       "added_at": "2023-03-19 07:47:00",

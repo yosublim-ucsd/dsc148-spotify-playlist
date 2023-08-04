@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,310 likes - 1,174 songs - 3 day 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,359 likes - 1,174 songs - 3 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 22 | [Flor De Piña](https://open.spotify.com/track/0XyyR9QFZYpMLh0fzZtBHw) | [La Marimba Del Estado De Oaxaca](https://open.spotify.com/artist/0Ck35azLqcQ0Bvbu9rNcOr) | [Mañanitas Oaxaqueñas](https://open.spotify.com/album/0Dq0v1awfhTgbp0rBKp8g6) | 2:25 |
 | 23 | [Kent Yaşamı](https://open.spotify.com/track/6XL5TN8b803H4jq53sHL2H) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN) | [Honki Ponki](https://open.spotify.com/album/7FUd2BMPEr7dHB2sgOMmu5) | 4:48 |
 | 24 | [Dusk \- Instrumental Edit](https://open.spotify.com/track/0PtWwCYJ9Uz6WjMJs6WxsB) | [Pressure Drop](https://open.spotify.com/artist/3RWRlV5ZZpIVFYdqHutuqo) | [Elusive](https://open.spotify.com/album/7KeimTcdAArbY28hNhhCYr) | 5:30 |
-| 25 | [Mi Tallercito](https://open.spotify.com/track/4cJ8Mg8Naghx3ay4hP84on) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:38 |
+| 25 | [Mi Tallercito](https://open.spotify.com/track/5zGPBX8hllPCOsTomOwrCr) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [El Mundo de los Pobres](https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms) | 3:38 |
 | 26 | [I Am in Love](https://open.spotify.com/track/3ihUEHni4ACzTLQL9mUgJL) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Studio One Women](https://open.spotify.com/album/5IsRaj4Avx8y20MjmjfXwv) | 3:31 |
 | 27 | [Tezeta](https://open.spotify.com/track/3IJOlBSUMtJ2xfedPGLcLO) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 5:45 |
 | 28 | [バイブレイション](https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit) | [トーキョー・スペシャル](https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy) | 4:18 |
@@ -251,7 +251,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 241 | [Y no le conviene](https://open.spotify.com/track/1y4IQ14GLc8veZ4ZR8vdPe) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Si, Para Usted \- The Funky Beats of Revolutionary Cuba Vol\. 1](https://open.spotify.com/album/6JXle7fMWDrpIwxaFTDNxK) | 4:01 |
 | 242 | [Me Voy Pa'la Costa](https://open.spotify.com/track/7nDMk083NoK0973mr0TA8j) | [Rosendo Y Su Banda](https://open.spotify.com/artist/23diwJPVFPBRAV31o5aOmV) | [Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga Sound of Colombia 1962\-72](https://open.spotify.com/album/0UbcmD65kthpuyIIYajOYY) | 3:57 |
 | 243 | [Fear Not For Man](https://open.spotify.com/track/50pr6cNY0hN3ptSCS90Bj6) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Fear Not For Man](https://open.spotify.com/album/1YPAWyiCPvhgqju8veosGt) | 14:14 |
-| 244 | [El Aguajal](https://open.spotify.com/track/7nOD24bJ7hchHuwVpT9y9z) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [Los Auténticos](https://open.spotify.com/album/4sd3JQ7mufYwKdNNtYzc0B) | 3:50 |
+| 244 | [El Aguajal](https://open.spotify.com/track/1RKFSzNHUjnsbVlM0r397p) | [Los Shapis](https://open.spotify.com/artist/3LorjMdYWKEtf3wdNtjM6v) | [El Mundo de los Pobres](https://open.spotify.com/album/66TOc56eMrDa7l7kgec8Ms) | 3:54 |
 | 245 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 |
 | 246 | [I Need Somebody To Love Tonight](https://open.spotify.com/track/0wotnD2zTSOUDwVBN863fi) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 4:02 |
 | 247 | [A hora é essa](https://open.spotify.com/track/3cF7YOhl4aWT9EhmvhkG3q) | [Celia](https://open.spotify.com/artist/71mZktYgZiBSmsYanRREQP) | [Dose Dupla Célia](https://open.spotify.com/album/6oRhQ60w5j11uK5njdH65Z) | 3:03 |
@@ -610,7 +610,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 600 | [Esclavo Moderno](https://open.spotify.com/track/5fu9lJ1F9kOTJduo3MByZq) | [Manuel Alvarez Y Sus Dangers](https://open.spotify.com/artist/4b6AAYTwyp56YfTu7ppMJm) | [Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975\-91](https://open.spotify.com/album/46rUmHGdXxemAoZHzfGyzF) | 2:54 |
 | 601 | [Pagibig Na Lubus\-Lubos](https://open.spotify.com/track/1102GcvwzSanCp1q5Z0zdH) | [Celeste Legaspi](https://open.spotify.com/artist/20gOeXI8NLUKdSr9Z4YeD6) | [Celeste, Vol\. 1 \(Vicor 40th Anniversary Collection\)](https://open.spotify.com/album/70tjmqisOQapLl4ZocebQq) | 2:51 |
 | 602 | [Antes pouco que nenhum](https://open.spotify.com/track/4ZiQSEpUxsEsuiCaQ01DwK) | [Franko Xavier](https://open.spotify.com/artist/3GtCXGWBa6wIurBTFQ4ujV) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:05 |
-| 603 | [L'enfant samba](https://open.spotify.com/track/5uM2TbV57PabdmqUTJa1pG) | [Cortex](https://open.spotify.com/artist/24ya4SiElYXuIC8jJZsjxF) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 3:06 |
+| 603 | [L'enfant samba](https://open.spotify.com/track/5uM2TbV57PabdmqUTJa1pG) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 3:06 |
 | 604 | [Onyame](https://open.spotify.com/track/0W7tPPs5iF3uM23zntn7oD) | [Ashanti Afrika Jah](https://open.spotify.com/artist/5B8Lh7Zg4nNsVqPnez1lNH) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/4b70sW0HimeoxeDa6Ugnv6) | 4:56 |
 | 605 | [Novos Planos Para O Verão](https://open.spotify.com/track/56Od1JMUoUngxdb3Ut4tDL) | [Os Diagonais](https://open.spotify.com/artist/631Axvs8RTgglKNacgkQ5w) | [Cada Um Na Sua](https://open.spotify.com/album/5Qyb6850mSnxAZ99W0wmzW) | 2:42 |
 | 606 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
@@ -682,7 +682,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 672 | [Marieta](https://open.spotify.com/track/0EE7l0XShybSlm4R24FrB9) | [Ibrahim Ferrer](https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D) | [Ibrahim Ferrer \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU) | 5:55 |
 | 673 | [Rekpete](https://open.spotify.com/track/7MEUKbD90QymEPOdGHM9yO) | [Hedzoleh Soundz](https://open.spotify.com/artist/7GCftuKAPtpukG1SW4FGF2) | [Hedzoleh Soundz](https://open.spotify.com/album/0K4H7lBRJZnQKKdRHcGTMw) | 3:32 |
 | 674 | [Blackbird Singing](https://open.spotify.com/track/6jNKJ3tW2MOApL3cYMSj4L) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG), [Roslyn Sweat](https://open.spotify.com/artist/6MDVBylrBgKdEBxOd211v1) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:34 |
-| 675 | [Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao) | [Cortex](https://open.spotify.com/artist/24ya4SiElYXuIC8jJZsjxF) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:26 |
+| 675 | [Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:26 |
 | 676 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
 | 677 | [Colombia Tierra Querida](https://open.spotify.com/track/5NEDwXgOuKtNHw4YDWj2ii) | [San Fernando Orquesta De Lucho Bermúdez](https://open.spotify.com/artist/7vxj9CKdnIfdIMZxVcaHmU), [Matilde Diaz](https://open.spotify.com/artist/6BYugBzyLzfRpEbwnSLBzH) | [San Fernando Orquesta de Lucho Bermúdez](https://open.spotify.com/album/67MVoV4IG7vcmfFkR4CLa5) | 2:35 |
 | 678 | [El Raton](https://open.spotify.com/track/7j2BKP9HCfEdm4QkCZde4T) | [Los Invasores](https://open.spotify.com/artist/3UG7GUXPGIte9gqulx8uLG) | [Panama! 3 Calypso Panameno, Guajira Jazz & Cumbia Tipica On the Isthmus 1960\-75](https://open.spotify.com/album/60oG2vmRpaxqnLyuonYQHE) | 3:26 |
@@ -1183,4 +1183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1173 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1174 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxiMjM0YjA4NzAyZjRjZWZhN2JlZGM0MWNhZGY3YTkxNGE0ODY2YzA5`
+Snapshot ID: `MCw2ZmJkNDQzODk0M2MxYTljMWEyZjZhODBlNzA0ZTQ4ZGIyN2ZlMDA5`

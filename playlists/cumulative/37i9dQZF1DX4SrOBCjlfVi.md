@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Travis Scott, BIA, and more\. Cover: Offset & Cardi B
 
-3,284 songs - 6 day 9 hr 35 min
+3,285 songs - 6 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2665,7 +2665,8 @@
 | [Soja](https://open.spotify.com/track/0rkpKiWmsAs2VApWKJQRuY) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 3:01 | 2022-10-14 | 2022-10-22 |
 | [Sold Out](https://open.spotify.com/track/0tsSie4eHruN6tUQglEG6q) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Sold Out](https://open.spotify.com/album/0gDYh5i1zgV8JLvXe5YvJr) | 1:46 | 2023-06-02 | 2023-06-10 |
 | [SOME THINGS](https://open.spotify.com/track/1nTDUAdKAsABK9BudqjL1M) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [SOME THINGS](https://open.spotify.com/album/2pAZLc3G7vtAKJ4Yq68O27) | 2:35 | 2023-07-28 |  |
-| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-07-28 |  |
+| [Somebody](https://open.spotify.com/track/5tCadSOz6WNCNr049GkZgK) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/7iZzkGTlrNacTH2KAcHL4N) | 2:50 | 2023-07-28 |  |
+| [Somebody \(Explicit\)](https://open.spotify.com/track/3NG9DUSmm78ay565a6QQdp) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [Somebody](https://open.spotify.com/album/3Rf4Fne46Yrswl7blkozPv) | 2:50 | 2023-07-28 | 2023-08-04 |
 | [Sometimes](https://open.spotify.com/track/0vQZ4DMWUNyCqUJdqfEkfx) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Sometimes](https://open.spotify.com/album/1iDx4jaQfX1ZN1HE7GpeJF) | 2:46 | 2022-03-04 | 2022-03-12 |
 | [Sometimes](https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 4:19 | 2022-03-18 | 2022-03-26 |
 | [Somewhere to Fly \(with Don Toliver\)](https://open.spotify.com/track/4BrSjScOM2VzLNNMZt2y9m) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Entergalactic](https://open.spotify.com/album/3bt3iu7uuTxjgPseAalpS8) | 2:56 | 2022-09-30 | 2022-10-08 |

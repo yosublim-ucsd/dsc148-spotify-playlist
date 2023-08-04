@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-115 songs - 10 hr 13 min
+116 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Worlds Beyond \- English version](https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Worlds Beyond \(English version\)](https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb) | 3:17 | 2022-05-20 |  |
 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 | 2022-05-20 |  |
 | [Zest](https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ) | [Pelagos](https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn) | [Zest](https://open.spotify.com/album/6potYVC57bz0ScpEf2PeBd) | 4:49 | 2022-05-20 |  |
-| [Zeus in Chains](https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Zeus In Chains](https://open.spotify.com/album/0g71E3gzdQsWuO7wT3Z2dt) | 4:38 | 2022-05-20 |  |
+| [Zeus in Chains](https://open.spotify.com/track/0uWkdIaPDYuoKE6he7f6J0) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Zeus In Chains](https://open.spotify.com/album/0g71E3gzdQsWuO7wT3Z2dt) | 4:38 | 2022-05-20 | 2023-08-04 |
+| [Zeus in Chains](https://open.spotify.com/track/65eO1v5FQKMXWJMD4BLti5) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Inviolate](https://open.spotify.com/album/084PBfKRx4oXa6xQyPAold) | 4:38 | 2022-11-17 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

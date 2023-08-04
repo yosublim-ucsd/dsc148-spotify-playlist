@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,059 likes - 179 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,291 likes - 179 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 2 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 |
 | 3 | [World On The Move](https://open.spotify.com/track/4VLgTzZqAJmvYgoOgrxDz5) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3), [Thomas Farnon](https://open.spotify.com/artist/21toYB9udeC6Zdi9fJL0wu), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [Our Planet II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7sN39aRsV6AQEOWELmxYaT) | 2:31 |
 | 4 | [Renaissance \(Main Title Theme\) \- from "The White Lotus: Season 2"](https://open.spotify.com/track/2wXFOd5lYZH3Hiuw1oAYGt) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 1:38 |
-| 5 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \- Vol\. 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax) | 1:12 |
+| 5 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v) | 1:12 |
 | 6 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 |
 | 7 | [New York, 1969](https://open.spotify.com/track/5a4Vzq0zwl72Pjox7kFg2J) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Dial of Destiny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oaBMWEc8mY8TsCfOREHfV) | 4:17 |
 | 8 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 178 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 179 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCwyMGRmMGE2NzAwZjhiZGRmYmFjMGVhY2YxNmUwZjViNjhiNjVjNGRi`
+Snapshot ID: `MCxiMDY0MjgzMTBkZjhiZTMwNjJjMjFiZTg1Y2YwZmEzNzc0MGM1MGZh`

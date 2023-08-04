@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-99 songs - 5 hr 41 min
+100 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-12-13 |  |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-12-13 |  |
 | [Favorite Girl](https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [My World](https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI) | 4:16 | 2022-12-13 |  |
-| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-19 |  |
+| [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-19 | 2023-08-04 |
+| [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-10 |  |
 | [Flying High](https://open.spotify.com/track/4haBSzLuFrT1hWqH5ErIWw) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Flying High](https://open.spotify.com/album/2l3g3RedySQT8z2Gsc2T78) | 3:49 | 2022-12-13 |  |
 | [Flying High](https://open.spotify.com/track/6a1mt15RL1Y3FxeU6Zoh3W) | [ronixd](https://open.spotify.com/artist/4fdvt615NKbd5n2s1cLiQZ) | [Flying High](https://open.spotify.com/album/652jsJs6hnACmycOLVL9wm) | 3:49 | 2023-06-07 | 2023-06-25 |
 | [Fortune Cookie in Love \( Fortune Cookie Yang Mencinta\)](https://open.spotify.com/track/3tL82LotUXYZ8bkifLmbie) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Fortune Cookies in Love](https://open.spotify.com/album/3CRVKRBxEq9k666FXw5w4D) | 4:43 | 2022-12-23 | 2023-01-10 |

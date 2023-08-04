@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,249 songs - 2 day 18 hr 58 min
+1,250 songs - 2 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,7 +782,7 @@
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-05-23 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-07-31 |
 | [My View](https://open.spotify.com/track/0Jij8PPXDFB0VOyZviOYNy) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Nuki](https://open.spotify.com/artist/5VyuxeMadrk0YwzaSplggN) | [Traplife](https://open.spotify.com/album/3nTsR92xyAHjKmlz7xNAT3) | 2:35 | 2023-04-29 | 2023-05-07 |
-| [MYSTIKA](https://open.spotify.com/track/0wSr8ysRGt83Z58ilyhWdD) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [MYSTIKA](https://open.spotify.com/album/0wIaS437a0pKj0Niy3PHqz) | 2:43 | 2023-03-10 |  |
+| [MYSTIKA](https://open.spotify.com/track/0wSr8ysRGt83Z58ilyhWdD) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [MYSTIKA](https://open.spotify.com/album/0wIaS437a0pKj0Niy3PHqz) | 2:43 | 2023-03-10 | 2023-08-04 |
 | [Mystiko](https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Mystiko](https://open.spotify.com/album/5ruMMEECIHyMLj2geMcKi3) | 2:52 | 2022-11-23 | 2023-05-10 |
 | [N 2 Deep](https://open.spotify.com/track/34D6FJysnQioVingDKufuf) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:33 | 2021-09-05 | 2021-09-06 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-26 |
@@ -1148,6 +1148,7 @@
 | [Touch the Sky](https://open.spotify.com/track/6luCl1H4xq2OnLQtB7fb4z) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4) | [Touch the Sky](https://open.spotify.com/album/41iTWV7tuODsPdgQQzZH2c) | 3:16 | 2022-12-03 | 2022-12-08 |
 | [Tout l'univers](https://open.spotify.com/track/3MvY2XbGYFi6p2dgmdcOYG) | [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Tout l'univers](https://open.spotify.com/album/1UnqlxXSM5dlxZi6vLIIEH) | 3:03 | 2021-05-25 | 2021-05-28 |
 | [Toxic](https://open.spotify.com/track/41EqMrpRlLK9Z3dRxGBUSM) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:00 | 2022-07-08 | 2022-07-24 |
+| [Toxic](https://open.spotify.com/track/2yUdHd6sojgZk2lZtSQBbn) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Koraki](https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Tokesick](https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ), [Sativa](https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w) | [Toxic](https://open.spotify.com/album/1rl0mNEFTGj240Uivgsd1e) | 4:08 | 2023-08-03 |  |
 | [Toxic](https://open.spotify.com/track/2qpfZ2moqDexxFAdIa8Ljz) | [Mef](https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC) | [Toxic](https://open.spotify.com/album/6ay2vyQiLWVOR10KffT94k) | 2:40 | 2021-10-17 | 2021-10-18 |
 | [Toxic](https://open.spotify.com/track/2N0tFg37a9UoayIpuDbKRr) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Toxic](https://open.spotify.com/album/09BAB4vPS7m88RvNlVTPUa) | 3:52 | 2022-02-15 | 2022-02-21 |
 | [Trafficante](https://open.spotify.com/track/4sHGVE7twEnFddJ3DqyWXs) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Trafficante](https://open.spotify.com/album/0srJiVl5KXjpP3fFioNcu6) | 4:20 | 2022-02-13 | 2022-09-28 |

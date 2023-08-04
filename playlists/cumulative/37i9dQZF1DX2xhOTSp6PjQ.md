@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=4h9axPT0SQSrdxb5feKJYw">Inkabi Zezwe</a>.
+> It's not a genre, it's a culture\. Cover: <a href="https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo?si=ZpkfBbF4TqSPM8qZ9VMLuQ">Yallunder</a>.
 
-155 songs - 12 hr 23 min
+156 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ama Waza Waza](https://open.spotify.com/track/0pMQpMdOKYX5IW60f8xlKO) | [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Ama Waza Waza](https://open.spotify.com/album/4Zk0C73QlrRFq7hLjJIXtS) | 4:37 | 2019-07-24 | 2023-02-01 |
 | [Ama\-push ups](https://open.spotify.com/track/4UU4qUfkfRd4IXszXX2Z1K) | [Stabhilithi](https://open.spotify.com/artist/2pomD4ScxWOF80dWYIHN1u), [Slungile Mncwabe](https://open.spotify.com/artist/4Euob5DVsgfVIy7JLDy4Uu) | [Imnand'intshebe](https://open.spotify.com/album/1GRjmojMIbgclyRjVvPuC7) | 4:42 | 2023-01-30 |  |
 | [Amakhehla](https://open.spotify.com/track/3BkskmADgoWdiGHiaEz6uc) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq), [Anzo](https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Isibuko](https://open.spotify.com/album/4yFM1aHZINPJ8p9Ei7uLOR) | 4:30 | 2023-02-02 |  |
-| [AMAKHOSI](https://open.spotify.com/track/3tYrdDOFWmraXH0Cy5nKCj) | [AMA 4X4](https://open.spotify.com/artist/2sebMV9azRytnuBggHH5Tn) | [AMAKHOSI](https://open.spotify.com/album/6vmXJddQXH6kVVdU3zVjlF) | 6:28 | 2023-06-15 |  |
+| [AMAKHOSI](https://open.spotify.com/track/3tYrdDOFWmraXH0Cy5nKCj) | [AMA 4X4](https://open.spotify.com/artist/2sebMV9azRytnuBggHH5Tn) | [AMAKHOSI](https://open.spotify.com/album/6vmXJddQXH6kVVdU3zVjlF) | 6:28 | 2023-06-15 | 2023-08-04 |
 | [Amalobolo](https://open.spotify.com/track/2UwQgjV9wgZxHJmdsTGbDH) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Ekhayakomama](https://open.spotify.com/album/2Bv75VXnuvVE9TbeNxUFuy) | 3:22 | 2023-01-30 | 2023-02-03 |
 | [Angijoli Mina](https://open.spotify.com/track/7cj6FNKos5MUkSMe5380wB) | [Smirnoff](https://open.spotify.com/artist/19OHDg21bLlU29eYyUahlz) | [Angitholi Lutho](https://open.spotify.com/album/5WOtZn2TNODSH5C4d5HDkt) | 3:58 | 2023-01-30 | 2023-05-26 |
 | [Angilazi Icala](https://open.spotify.com/track/1SgLVnJlhycOrTQHWbeBKa) | [Thokozani Langa](https://open.spotify.com/artist/30nsu2oxgyCzzty1TIJW6S) | [Sthanda Ifamily](https://open.spotify.com/album/5XtEpbp6vPy9a1RvpNTsb8) | 5:43 | 2018-09-25 | 2023-03-10 |
@@ -48,6 +48,7 @@
 | [Eshu Wesokalami](https://open.spotify.com/track/6UFkLF40TBGfVFry7LXSxJ) | [Menzi](https://open.spotify.com/artist/0PIYUjDZszDZSZGLhYvmyZ) | [Intencane](https://open.spotify.com/album/7doGg6TOO86pTXiyploISV) | 3:51 | 2022-09-01 |  |
 | [Eyokuza](https://open.spotify.com/track/6gJVTJap7XXAPY3qJKoAY4) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [EYOKUZA](https://open.spotify.com/album/65vZAeZNfrcfztUfYuyoWS) | 4:31 | 2020-10-20 | 2023-01-05 |
 | [Eyokuza](https://open.spotify.com/track/72gVqRVUJECbmu91Qu3fET) | [Mzukulu](https://open.spotify.com/artist/6opKhHzvL2v5u42eTzEmjN) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:31 | 2020-10-20 | 2023-02-01 |
+| [Hlala Nam](https://open.spotify.com/track/0nPqPgBHcvVCmajDTxwsNr) | [Yallunder](https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo) | [KUM](https://open.spotify.com/album/1NpVWcAz4p9bv0Q4Grzk2P) | 3:42 | 2023-08-03 |  |
 | [Ijele](https://open.spotify.com/track/2OYomh3wz8TWpfnQKxua2F) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Ispoki Esingafi](https://open.spotify.com/album/3riM8V5qRqXKn09JuWHcAu) | 4:29 | 2021-01-14 |  |
 | [Ikhaya lami](https://open.spotify.com/track/00CVEHFQGCxKka8UbnfTGS) | [Skweletu](https://open.spotify.com/artist/0uW67UxcYtWZRPZO3Zaobf) | [Imbecile berth](https://open.spotify.com/album/0dXtLrwe6B1M9yYptxCdsr) | 4:20 | 2023-01-30 |  |
 | [Ikhotha Eyikhothayo](https://open.spotify.com/track/3NMCy2Oi6rNDeddoxCTqnM) | [Abagqobhi](https://open.spotify.com/artist/7eigkjZtpAoOSfWfif1qxK) | [Inunu Engafi](https://open.spotify.com/album/1eWFVrvhJw2B87pKyGdl4k) | 4:47 | 2018-09-25 | 2023-02-01 |

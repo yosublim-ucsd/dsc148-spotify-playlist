@@ -4,7 +4,7 @@
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-59 songs - 4 hr 13 min
+62 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [La Novia Nueva](https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw) | 4:32 | 2023-02-22 |  |
 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 | 2023-02-22 |  |
 | [Lamento Borincano](https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 6:23 | 2023-02-22 |  |
-| [Los de la Isla](https://open.spotify.com/track/0h4X0koKPNACw9UyYG9axh) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 5:55 | 2023-02-22 |  |
-| [Madame Calalú](https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 3:43 | 2023-02-22 | 2023-06-14 |
+| [Los de la Isla](https://open.spotify.com/track/40z3hjVUQvuh7Oh1KS92E5) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 5:52 | 2023-06-13 |  |
+| [Los de la Isla](https://open.spotify.com/track/0h4X0koKPNACw9UyYG9axh) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 5:55 | 2023-02-22 | 2023-08-04 |
+| [Madame Calalú](https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 3:43 | 2023-02-22 |  |
 | [Mamá, cuídame a Belén](https://open.spotify.com/track/6xCD7qeWUZU21W6FkpqOJV) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:11 | 2023-02-22 |  |
 | [Maria Luisa](https://open.spotify.com/track/3B1SEZzoAyeevmv2ySEHVh) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:57 | 2023-02-22 | 2023-06-14 |
 | [Medley De La Calle San Sebastian](https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz) | [Plena Libre](https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9) | [Estamos Gozando](https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ) | 6:21 | 2023-02-22 |  |
@@ -61,11 +62,13 @@
 | [Seshuque Y Balance](https://open.spotify.com/track/5PyVfVCAxsYPzHO94CzBgv) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:36 | 2023-03-02 | 2023-06-14 |
 | [Si te preguntaran](https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:45 | 2023-02-22 |  |
 | [Sirenas, Sangueo y San Millán](https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh) | [Zona de Bomba](https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm) | [Zona de Bomba](https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw) | 5:50 | 2023-02-22 |  |
-| [Soy Plenero Soy](https://open.spotify.com/track/674J7UQypQ6OjikX4XUIPn) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:02 | 2023-02-22 |  |
+| [Soy Plenero Soy](https://open.spotify.com/track/674J7UQypQ6OjikX4XUIPn) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:02 | 2023-02-22 | 2023-08-04 |
 | [Timba Timbo](https://open.spotify.com/track/6zTWnfEH3I7LZaMZTqSUYA) | [Plena Adentro](https://open.spotify.com/artist/1Plz2KFX2pg7ctp6OWjQIg) | [Rompecabezas](https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp) | 3:08 | 2023-02-22 |  |
-| [Todito el Año](https://open.spotify.com/track/5tBDqX720V9QIr9eBnRRpK) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 5:02 | 2023-02-22 |  |
+| [Todito el Año](https://open.spotify.com/track/0wxTVGig2qcOwfH2kDJS8T) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 4:59 | 2023-06-13 |  |
+| [Todito el Año](https://open.spotify.com/track/5tBDqX720V9QIr9eBnRRpK) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 5:02 | 2023-02-22 | 2023-08-04 |
 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 | 2023-02-22 |  |
-| [Yerba Bruja](https://open.spotify.com/track/7qEv1SFUaDTJG6XC6DpShm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:20 | 2023-02-22 |  |
+| [Yerba Bruja](https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX) | 4:17 | 2023-06-13 |  |
+| [Yerba Bruja](https://open.spotify.com/track/7qEv1SFUaDTJG6XC6DpShm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:20 | 2023-02-22 | 2023-08-04 |
 | [Yuba La Marile](https://open.spotify.com/track/2mPf6A9J7WHdiHAgmqrLk2) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:30 | 2023-02-22 |  |
 
 \*This playlist was first scraped on 2023-02-22. Prior content cannot be recovered.

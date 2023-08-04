@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Unknown T & Lancey Foux",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: M24",
   "name": "Rap UK",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 341896,
       "name": "100mph Freestyle x3",
       "url": "https://open.spotify.com/track/3oNREEStm4dUTV5dSIbmIZ"
@@ -2027,6 +2027,24 @@
     },
     {
       "album": {
+        "name": "Angel In The Marble",
+        "url": "https://open.spotify.com/album/4atJj8AYiUEmgXq4RhySaH"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237312,
+      "name": "Angel In The Marble",
+      "url": "https://open.spotify.com/track/0LIYWVeuLISkSopjKzkLjv"
+    },
+    {
+      "album": {
         "name": "Anglo Saxon",
         "url": "https://open.spotify.com/album/17l5HQmTp9ZFwNIazTu0XL"
       },
@@ -2152,6 +2170,28 @@
       "duration_ms": 161000,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/3cCLTTEpHB0f47z5GBcUr3"
+    },
+    {
+      "album": {
+        "name": "any minute",
+        "url": "https://open.spotify.com/album/67xDMKu19E87xKA76tgNJB"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        },
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "any minute",
+      "url": "https://open.spotify.com/track/033ML0eEckRQ6sLdrJmP5J"
     },
     {
       "album": {
@@ -6241,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Click Of My Fingers",
+        "url": "https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193635,
+      "name": "Click Of My Fingers",
+      "url": "https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc"
+    },
+    {
+      "album": {
         "name": "Cloud",
         "url": "https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc"
       },
@@ -6562,7 +6620,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 230866,
       "name": "Comeback (feat. Villz)",
       "url": "https://open.spotify.com/track/4O7J8AN1eE1MOfPhXM5z76"
@@ -13026,7 +13084,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 169195,
       "name": "Hoo Art 'n Hevan",
       "url": "https://open.spotify.com/track/1pCsMDFLaw6eJ7npQ9gVrw"
@@ -14732,6 +14790,24 @@
       "duration_ms": 215172,
       "name": "Killy Killy",
       "url": "https://open.spotify.com/track/56Oj65GrBLXYpabVrChei6"
+    },
+    {
+      "album": {
+        "name": "KILOS MIX",
+        "url": "https://open.spotify.com/album/3sfEoVNxf1kJ1T6KaBzH4c"
+      },
+      "artists": [
+        {
+          "name": "Triple01s",
+          "url": "https://open.spotify.com/artist/0KUXfWDNjqQ0SVVbb0zJBx"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138610,
+      "name": "KILOS MIX",
+      "url": "https://open.spotify.com/track/0HTblRTEtzPswxEr0LGT8d"
     },
     {
       "album": {
@@ -16679,6 +16755,28 @@
     },
     {
       "album": {
+        "name": "Mandem",
+        "url": "https://open.spotify.com/album/0DyM4ObPQl24gdZ1Xhq6Ga"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241567,
+      "name": "Mandem",
+      "url": "https://open.spotify.com/track/3oXsp44OaIdNIsFCqiGkDw"
+    },
+    {
+      "album": {
         "name": "Mannycorn",
         "url": "https://open.spotify.com/album/3wMfKEqWzYTqKNfWdEG5KO"
       },
@@ -16712,6 +16810,24 @@
       "duration_ms": 240363,
       "name": "Martin's Sofa",
       "url": "https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv"
+    },
+    {
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "Massacre",
+      "url": "https://open.spotify.com/track/2eNYRh1TuRum5vAMk9VLc3"
     },
     {
       "album": {
@@ -20078,7 +20194,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 136480,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/3WPGHDCDGohWrIjYJ2RqDQ"
@@ -21568,7 +21684,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 160781,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1CrZndxO5C9O6do64JPykb"
@@ -23244,7 +23360,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 170078,
       "name": "Rock Climbing (feat. M Huncho)",
       "url": "https://open.spotify.com/track/0Mkn2M0bfkt1kBlJA1Z9tw"
@@ -24128,6 +24244,24 @@
       "duration_ms": 201400,
       "name": "Scratch Cards",
       "url": "https://open.spotify.com/track/2A1HU77kEjDWsaHZ0BYMaB"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/4e0kgGPLifMcSLnukoUnPy"
+      },
+      "artists": [
+        {
+          "name": "M24",
+          "url": "https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/2USb3AAH0FqcgmwqK8wc79"
     },
     {
       "album": {
@@ -26352,7 +26486,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 253333,
       "name": "Styrofoam",
       "url": "https://open.spotify.com/track/6TlxwQk9K12JuZebbZ1psA"
@@ -27600,7 +27734,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 204708,
       "name": "They Just Don't Know",
       "url": "https://open.spotify.com/track/5B8vXHPjp2jmSsFlwTBVGj"
@@ -28770,7 +28904,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 206197,
       "name": "UK Guys",
       "url": "https://open.spotify.com/track/2c7zzkWvP4ufzRZfHLNlUD"
@@ -29754,7 +29888,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 121463,
       "name": "WDYM",
       "url": "https://open.spotify.com/track/5yUBDuIUCq1goFwlFLYqNG"
@@ -30064,7 +30198,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 191666,
       "name": "What's The Motion",
       "url": "https://open.spotify.com/track/1LLcWzBzD14bzxcxvTnuoS"

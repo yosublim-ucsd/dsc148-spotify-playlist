@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the show Bro and Marble\. \(브로 앤 마블의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 '여행 갈 때 듣기 좋은 노래'들도 들어보실 수 있습니다.\)
 
-49 songs - 2 hr 44 min
+53 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,13 +22,17 @@
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-31 |  |
 | [Drive](https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl) | 3:21 | 2023-07-31 |  |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-07-31 |  |
+| [Happy Together](https://open.spotify.com/track/6NQdJHESu8Xn6bTJcMFY95) | [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 2:40 | 2023-08-04 |  |
+| [Happy Together inst.](https://open.spotify.com/track/3mnJXZVpQhjKa4GkBCkbzZ) | [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 2:40 | 2023-08-04 |  |
 | [HIT](https://open.spotify.com/track/0uIw1c0E2nyFWWwEVzhl30) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 3:23 | 2023-07-31 |  |
 | [Holiday](https://open.spotify.com/track/5nR49Yw6tAlOd1DLfuwWAA) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Mini Album 'YOU MAKE MY DAY'](https://open.spotify.com/album/5VmjGHq779chFVL7dgLbyo) | 3:25 | 2023-07-31 |  |
 | [Holiday](https://open.spotify.com/track/6BrBfpzwv7ovcXVaZrULuJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:25 | 2023-07-31 | 2023-08-03 |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2023-07-31 |  |
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2023-07-31 |  |
+| [In One's Dreams](https://open.spotify.com/track/6XRtqKNFW2alVW18X2KB1Q) | [Sechan Park](https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV), [Jaemin Yeo](https://open.spotify.com/artist/7JBFcmuwZ6oVQKzosf2Ame), [Junhwan Cha](https://open.spotify.com/artist/0eqKH7IBYJvM5voY2rRjfE) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 1:23 | 2023-08-04 |  |
 | [In The Summer by SSAK3 \(Feat\. Kwang Hee Hwang\)](https://open.spotify.com/track/1MELIJNsr1KyHJOJufbheK) | [SSAK3](https://open.spotify.com/artist/2el9LgZHLeQnXHABBkgb7M), [Kwang Hee Hwang](https://open.spotify.com/artist/2aU36OPcjBFlI8lkXrnxxE) | [In The Summer by SSAK3](https://open.spotify.com/album/6r63LLH5HEEtTE86btnJD8) | 4:41 | 2023-07-31 |  |
 | [Like a flower](https://open.spotify.com/track/3oM6vTO5WGgHP3DOIGWXfU) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:26 | 2023-07-31 |  |
+| [LOVE 2023](https://open.spotify.com/track/3HXRUmGkg85hbFhtBdpHOw) | [Sechan Park](https://open.spotify.com/artist/2qbFMEApcX5IgbQyL2KoiV), [Jungyoon Lee](https://open.spotify.com/artist/6DpDCmthcA8ziK9jBAhr5y), [Jaemin Yeo](https://open.spotify.com/artist/7JBFcmuwZ6oVQKzosf2Ame) | [Bro & Marble OST Part.3](https://open.spotify.com/album/74RUwEEOsXNabNhjuaq6km) | 2:44 | 2023-08-04 |  |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2023-07-31 |  |
 | [Mansae](https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:06 | 2023-07-31 |  |
 | [Mull](https://open.spotify.com/track/3R0rfIZjWpNUHNHREUvCBN) | [Keith Ape](https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI) | [Ape Into Space](https://open.spotify.com/album/6KR7vGnlkIuUKzgGAEFODW) | 2:58 | 2023-07-31 |  |

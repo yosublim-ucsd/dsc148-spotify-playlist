@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 250590,
       "name": "Beau in the Back - Acoustic",
       "url": "https://open.spotify.com/track/6dffNqQMGFAIB6mW74tlKu"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 193880,
       "name": "Just the Way",
       "url": "https://open.spotify.com/track/3FE6cfCDhmhOraeSLPe6Vj"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
@@ -1325,6 +1325,24 @@
     },
     {
       "album": {
+        "name": "Hey Dawn",
+        "url": "https://open.spotify.com/album/4OZpg10qc1BvbIq6xvVF9w"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lumsden",
+          "url": "https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189586,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/6FuZXM8OWuH5or9x8DOLXx"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY"
       },
@@ -1536,6 +1554,24 @@
       "duration_ms": 185345,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/4aBX6LjEPOo7DVyxNJvREr"
+    },
+    {
+      "album": {
+        "name": "Where Magnolias Grow",
+        "url": "https://open.spotify.com/album/4cJUHpGC4uTdiXvPzjQekc"
+      },
+      "artists": [
+        {
+          "name": "Raechel Whitchurch",
+          "url": "https://open.spotify.com/artist/23Lanv91sAHkTGulIJDIwd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Where Magnolias Grow",
+      "url": "https://open.spotify.com/track/4hgEmlUkBuElYuSYJxwNyf"
     },
     {
       "album": {

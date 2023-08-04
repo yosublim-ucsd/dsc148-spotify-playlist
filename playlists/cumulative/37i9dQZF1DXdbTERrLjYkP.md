@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Fitts
 
-507 songs - 1 day 3 hr 5 min
+508 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Drunk in the Bathtub](https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Drunk in the Bathtub](https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t) | 2:46 | 2022-12-02 | 2023-02-25 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-01-14 | 2022-07-16 |
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2022-01-14 | 2022-03-05 |
-| [Easy](https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Easy](https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb) | 2:47 | 2023-05-05 |  |
+| [Easy](https://open.spotify.com/track/1eMN4JbZgKyksJNkEL7eb9) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Comedy & Tragedy: Act 1](https://open.spotify.com/album/0miTgAlKXFn0IGE0axbSOh) | 2:47 | 2023-06-02 |  |
+| [Easy](https://open.spotify.com/track/2e9OcSUPm48Eo1JqGf9z0b) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Easy](https://open.spotify.com/album/5KEfMWnIzvVRaDZtHdrpkb) | 2:47 | 2023-05-05 | 2023-08-04 |
 | [Easy Love](https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Easy Love](https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o) | 3:23 | 2022-10-28 | 2023-01-14 |
 | [eat ur heart out](https://open.spotify.com/track/53QT3zKgxfkMPyJ6rUjwLz) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [scared to go to sleep](https://open.spotify.com/album/4QKam9OIXo9igvbnq5r5O2) | 2:45 | 2022-11-18 | 2023-01-28 |
 | [Eddie's Song](https://open.spotify.com/track/6mO9n6CncvYtIcfWjFKsYH) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Eddie's Song](https://open.spotify.com/album/6odEvXlFaV0iTFED7Utu3b) | 4:04 | 2022-08-26 | 2022-12-24 |

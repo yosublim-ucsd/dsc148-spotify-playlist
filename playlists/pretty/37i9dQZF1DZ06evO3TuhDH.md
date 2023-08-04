@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,691 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,704 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 30 | [Push Start \(with Coi Leray feat\. 42 Dugg\)](https://open.spotify.com/track/5DnubkVCDDFfcejkhtnM79) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:05 |
 | 31 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 |
 | 32 | [TWINNEM \(Remix\) \(feat\. DaBaby\)](https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TWINNEM \(Remix\)](https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd) | 2:40 |
-| 33 | [Run It Up](https://open.spotify.com/track/6sx7BdHOsnIm1q1XZ6sbYl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Run It Up](https://open.spotify.com/album/2KCn50pfkcOPKoSTqpbrqF) | 2:48 |
-| 34 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
+| 33 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
+| 34 | [Run It Up](https://open.spotify.com/track/6sx7BdHOsnIm1q1XZ6sbYl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Run It Up](https://open.spotify.com/album/2KCn50pfkcOPKoSTqpbrqF) | 2:48 |
 | 35 | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Thieves In Atlanta \(feat\. Coi Leray\)](https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod) | 3:12 |
 | 36 | [Ocean Prime \(feat\. Coi Leray\)](https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:30 |
 | 37 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [At The Top \(with Kodak Black & Mustard\)](https://open.spotify.com/track/4buaMK8tYXGF7Ca3u8iLtE) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [At The Top](https://open.spotify.com/album/7fQLpnEw13xochCUd776UZ) | 3:01 |
 | 50 | [Good Day](https://open.spotify.com/track/3kSjbNmDdq6rgyELhRDUCk) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Good Day](https://open.spotify.com/album/3ZbZ9tT5ezKW5I9QpD5pO3) | 2:00 |
 
-Snapshot ID: `MjgxODMwMTksMDAwMDAwMDA5MDY4NjFkNzAxZjJiNWQyMTRiN2YyOWFkYTUwNTFhYQ==`
+Snapshot ID: `MjgxODQ1MTMsMDAwMDAwMDAxN2ZjMGZmZWQyNGFmMjIxNDY2YjRmNWRhOGZiOGJjNQ==`

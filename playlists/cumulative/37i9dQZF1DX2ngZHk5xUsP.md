@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Juicy Luicy
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Angie Zelena
 
-77 songs - 4 hr 50 min
+78 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |
 | [Bubuy Bulan](https://open.spotify.com/track/2Xs2Bu0gQ0mLFDwa26Sx7j) | [Rita Tila](https://open.spotify.com/artist/1PqPEonRY2xQMSYXSzxWeh) | [Bubuy Bulan](https://open.spotify.com/album/5ISliUkLTFhFa3lPA2mAJY) | 4:35 | 2023-07-06 | 2023-07-14 |
 | [Cerita Cinta](https://open.spotify.com/track/5PccS3eocPF3x4dfayUU7A) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Be My Valentine](https://open.spotify.com/album/544XgrdVXO7eH0Jf1S3oNP) | 4:22 | 2023-03-16 |  |
+| [Cinta Lelaki](https://open.spotify.com/track/0WlcH70o6KRwLOmX0RPNh1) | [Angie Zelena](https://open.spotify.com/artist/7HHWWA6zywWp8FBUTDRQXz) | [Cinta Lelaki](https://open.spotify.com/album/0uNkjdPP9BixPIG7fZLeZt) | 3:19 | 2023-08-03 |  |
 | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/track/3qmIfhZnHenyTcWzWu8IJP) | [The Panasdalam Bank](https://open.spotify.com/artist/0sfi4c54RwQVfvfq6yz8fc), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Dan Bandung \(feat\. Danilla\)](https://open.spotify.com/album/0wTyAlIVylu3Q88tWEUdeM) | 2:36 | 2023-03-16 |  |
 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 | 2023-03-16 |  |
 | [Di Atas Normal](https://open.spotify.com/track/2icjHMLGHCyFngdm7zYr34) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Di Atas Normal](https://open.spotify.com/album/5iuLwZKk0Hi0VnPuFzBQbl) | 3:29 | 2023-04-27 |  |

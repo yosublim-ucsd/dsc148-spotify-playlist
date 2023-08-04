@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 412019,
+  "num_followers": 412139,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGQ3MGQyY2M2YjFlYmMwNzNhMzU0MWEyM2VmZjE2ZjQ4MGMwYjli",
+  "snapshot_id": "MCxiYTY3ZTFlZWEzYmY2MTM5Yzk2M2M4OWVhM2I5NGI3ZGFiYWJhMDA1",
   "tracks": [
     {
       "added_at": "2023-08-01 17:04:46",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
+        "name": "717 Tapes the Album",
+        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+    },
+    {
+      "added_at": "2023-08-01 17:04:46",
+      "album": {
         "name": "Happier Alone",
         "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/3cTPILvh238II28NyF5OEf"
-    },
-    {
-      "added_at": "2023-08-01 17:04:46",
-      "album": {
-        "name": "717 Tapes the Album",
-        "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "Burn It Down - 717 Tapes",
-      "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Sometimes I Do",
-        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
       "artists": [
         {
-          "name": "Joe Peters",
-          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Sometimes I Do",
-      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
+        "name": "Sometimes I Do",
+        "url": "https://open.spotify.com/album/4GYYO1qgArxKb8I4lgi3Nn"
+      },
+      "artists": [
+        {
+          "name": "Joe Peters",
+          "url": "https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Sometimes I Do",
+      "url": "https://open.spotify.com/track/52q1L79p7wdKrq5LAn3BHV"
+    },
+    {
+      "added_at": "2023-08-01 17:04:46",
+      "album": {
         "name": "My Dad And His Truck",
         "url": "https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf"
       },
@@ -1199,34 +1215,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2023-08-01 17:04:46",
-      "album": {
-        "name": "'Til I See You Again",
-        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
-      },
-      "artists": [
-        {
-          "name": "Catie Offerman",
-          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
-        }
-      ],
-      "duration_ms": 211515,
-      "name": "'Til I See You Again",
-      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "'Til I See You Again",
+        "url": "https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Catie Offerman",
+          "url": "https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 211515,
+      "name": "'Til I See You Again",
+      "url": "https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Country Nights",
-        "url": "https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5"
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
       },
       "artists": [
         {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Country Nights",
-      "url": "https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE"
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
     },
     {
       "added_at": "2023-08-01 17:04:46",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-08-01 17:04:46",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+        "name": "Country Nights",
+        "url": "https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5"
       },
       "artists": [
         {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
         }
       ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+      "duration_ms": 217400,
+      "name": "Country Nights",
+      "url": "https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE"
     },
     {
       "added_at": "2023-08-01 17:04:46",

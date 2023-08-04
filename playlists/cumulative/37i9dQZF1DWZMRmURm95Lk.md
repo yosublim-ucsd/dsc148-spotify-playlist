@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Johnny Marsiglia in cover.
 
-292 songs - 17 hr 21 min
+293 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,12 +71,13 @@
 | [Daimon](https://open.spotify.com/track/64XdgtHEsUoYNqg0ZHyGcb) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Daimon](https://open.spotify.com/album/4GvLhJ5Am3n68AamyaDabP) | 4:06 | 2022-06-23 | 2022-12-06 |
 | [Dalla A Alla Zeta](https://open.spotify.com/track/3Aq2V5lm5dV9z8qwiXByRb) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Turbe Giovanili](https://open.spotify.com/album/7tM5mMXoAWguRCF2tIxnPQ) | 2:47 | 2022-05-12 | 2022-07-29 |
 | [Damn albarn](https://open.spotify.com/track/0zfiMr2NKxBwuRvsknagFu) | [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS) | [The almighty birds](https://open.spotify.com/album/79aApijDu3waJhvArpfpR2) | 1:36 | 2022-09-01 | 2022-09-22 |
+| [Deep Underground](https://open.spotify.com/track/0m8s5SJxrCPSujGlGXrclY) | [Sanobusiness](https://open.spotify.com/artist/1oIZY1W4o82NguDHCLC7tC) | [Crossover](https://open.spotify.com/album/2BuLy5HtsEA1QewGs2k9tO) | 1:42 | 2023-08-03 |  |
 | [Delle Volte](https://open.spotify.com/track/56lf3YqtKy262x9fUQXAmD) | [OneMic](https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25) | [Promo EP](https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n) | 6:08 | 2022-06-16 | 2022-07-29 |
 | [Desideri \(feat\. Ghemon & Frank Siciliano\)](https://open.spotify.com/track/6irVg96EubTPvkRTYasLbA) | [Deda](https://open.spotify.com/artist/4KN711o3mFp6SBoV6ApRmG), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [House Party](https://open.spotify.com/album/2b3i8KAQ8vb3BAdNf9oFfy) | 3:36 | 2022-11-08 | 2023-01-13 |
 | [Diario di bordo, Pt\. IV \(BOG \- MXP\)](https://open.spotify.com/track/6BQB4aW5YEu4zrqKgtuQbT) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [Sina Tekle](https://open.spotify.com/artist/5VmuzT089SXxDm3tC45rZn) | [Nicolás \- MXP \(Deluxe Edition\)](https://open.spotify.com/album/3QCzjnrGRZu8qiZMAMUK9r) | 2:41 | 2022-09-22 | 2022-11-25 |
 | [Dicembre](https://open.spotify.com/track/2WMHW2QFllDvd4cnHGOLRS) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Dicembre](https://open.spotify.com/album/4G2eAZALBmVCxGw3sKxNfy) | 2:42 | 2022-05-12 | 2022-07-29 |
 | [DINDIRINDINA](https://open.spotify.com/track/3VneYDrRAlvLQJ7c5jG3ht) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Pitta](https://open.spotify.com/artist/33KV7opyVMdhw1rHHckMDT) | [2](https://open.spotify.com/album/5lVNbfwUszjl6opsZw29J5) | 2:46 | 2022-05-05 | 2023-06-11 |
-| [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 | 2022-05-12 |  |
+| [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 | 2022-05-12 | 2023-08-04 |
 | [Disegni nella mente](https://open.spotify.com/track/6CTfiEvB6f6B36XATiv43W) | [La Crème](https://open.spotify.com/artist/4aYVHIbCQ3TV25w41GWhfu), [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [L'Alba](https://open.spotify.com/album/6WEgf4mSX61uKevk0ZvFts) | 5:04 | 2022-05-12 | 2022-07-28 |
 | [Do Or Die](https://open.spotify.com/track/4RvLzfh3Gop3qIkltf8iH5) | [Dj Double S](https://open.spotify.com/artist/6dtsFkULezFnergRkRlQv0), [Maury B](https://open.spotify.com/artist/5oII0N8HcXbQ7T9WWJKIcm), [DJ Lil Cut](https://open.spotify.com/artist/239ssUhwi2I11zknlfybGJ) | [Do Or Die](https://open.spotify.com/album/0hW3ylLyW02FkO5vol7Ivw) | 2:50 | 2022-05-19 | 2022-07-24 |
 | [DON DADAIST \(feat\. Guè\)](https://open.spotify.com/track/2Q2mMT9N8v9uMsxiPQHemP) | [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [OVERT](https://open.spotify.com/album/7e1amGATlniJcenSxANnYZ) | 3:39 | 2023-06-08 |  |

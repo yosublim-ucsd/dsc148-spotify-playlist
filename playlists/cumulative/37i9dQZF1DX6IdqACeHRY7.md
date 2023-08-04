@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-379 songs - 22 hr 2 min
+380 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Everywhere](https://open.spotify.com/track/4NAkSJTQ8yVHOrzCjNfp3I) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/5v9oN5sH5EU1ps44izmjBk) | 2:18 | 2020-10-06\* | 2022-07-29 |
 | [Everywhere](https://open.spotify.com/track/51tjPYPw6eYxlsqRxjLJaH) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/4AgPd1f3cOa9fmTdPGW7UR) | 2:18 | 2023-02-16 |  |
 | [Everywhere](https://open.spotify.com/track/5qymfocDvwMdWHkYARj9zw) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [Everywhere](https://open.spotify.com/album/2Q1zatNlXb0jN5cC4Vaprk) | 2:18 | 2022-05-09 | 2023-02-14 |
-| [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-06-29 |  |
+| [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-06-29 | 2023-08-04 |
+| [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-08-03 |  |
 | [Eyes on You](https://open.spotify.com/track/6Txx3Uj0rRXPixi9V1DZek) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/1iLPhaq2JCR9dDnh9omdRE) | 2:48 | 2021-05-24 | 2021-05-27 |
 | [Fact \- Fiction](https://open.spotify.com/track/3A0xFWRKRMZrz8JNY7D7Ns) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Mads Langer](https://open.spotify.com/album/5aYWd0BdvFOKs2q7TT3jC1) | 4:21 | 2020-10-20 | 2022-07-29 |
 | [Fade](https://open.spotify.com/track/2EWR4QeZ5U0eEYIQCK8YMg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Fade](https://open.spotify.com/album/3CSKbUsAvaLmFXIhDysN0M) | 4:04 | 2021-05-24 | 2021-10-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: tinyumbrellas",
+  "description": "Discover your new favourite artists from UK&IE. Cover: KhakiKid",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2082,6 +2082,28 @@
       "duration_ms": 214822,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/65gFD5pX5zfIDxMLkfJwyP"
+    },
+    {
+      "album": {
+        "name": "sand beb\u00e9",
+        "url": "https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176473,
+      "name": "maradona",
+      "url": "https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ"
     },
     {
       "album": {

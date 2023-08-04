@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-336 songs - 22 hr 9 min
+337 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Atlantic City](https://open.spotify.com/track/4JwjzS9WFkWlpzGCwh82fn) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Jericho](https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU) | 5:14 | 2022-05-02 | 2022-09-11 |
 | [Bad Moon Rising](https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:21 | 2022-09-10 | 2022-09-15 |
 | [Bad Timing \- 2012 Remaster](https://open.spotify.com/track/1DXCKvUwlBAZJf9TuQweQb) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:09 | 2022-05-02 | 2022-09-11 |
+| [Balenciaga](https://open.spotify.com/track/408tRAknfYFqNE9F6tr6zg) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [In Good Time](https://open.spotify.com/album/2JARrIac1A7awY7zEmAra7) | 3:28 | 2023-07-28 |  |
 | [Basement Apt.](https://open.spotify.com/track/4l2ZwGfd6ugIZViw7dtV8K) | [Sarah Harmer](https://open.spotify.com/artist/0RyvcOVrlV86NmFz0MrG9e) | [You Were Here](https://open.spotify.com/album/7oWTHejE4DO3DvJDMGHS2F) | 4:08 | 2022-05-02 | 2022-07-25 |
 | [Beck + Call](https://open.spotify.com/track/58RmNnxqvmZyvwarlidx6K) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq), [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Touch](https://open.spotify.com/album/5W33XMFTkmUBeY9rIGlSKc) | 3:06 | 2022-05-02 | 2022-07-18 |
 | [Big League](https://open.spotify.com/track/3lrFKF0vj5dK5EEtMVSDBZ) | [Tom Cochrane & Red Rider](https://open.spotify.com/artist/3IbmrzyGsVljlk9pTLdE3U) | [Victory Day](https://open.spotify.com/album/2jzxafOoc2lKlp4EbMJlgp) | 4:37 | 2022-05-02 | 2022-07-29 |
@@ -275,7 +276,7 @@
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2022-05-02 |  |
 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 | 2022-05-02 |  |
 | [Sweet Mountain River](https://open.spotify.com/track/2g2st70xvu7DYGlfVircnf) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Furiosity](https://open.spotify.com/album/671q4kHo2y178Q6VvDd6ER) | 3:49 | 2022-05-02 |  |
-| [Sweet Sublime](https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Almost Naked](https://open.spotify.com/album/4rE15VDZytTzb0139CTBdm) | 3:20 | 2023-05-18 |  |
+| [Sweet Sublime](https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Almost Naked](https://open.spotify.com/album/4rE15VDZytTzb0139CTBdm) | 3:20 | 2023-05-18 | 2023-08-04 |
 | [Sweet Surrender](https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:00 | 2023-05-18 | 2023-06-10 |
 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 | 2022-05-02 | 2023-05-19 |
 | [Take It Easy \- 2013 Remaster](https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:31 | 2022-09-10 | 2022-09-15 |

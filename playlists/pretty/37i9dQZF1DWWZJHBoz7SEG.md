@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Sigue disfrutando del verano con Grupo Firme y Pipe Bueno, La Receta, Residente y Post Malone!
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,466 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,556 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 48 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 |
 | 49 | [Terms & Conditions](https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Terms & Conditions](https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B) | 4:04 |
 
-Snapshot ID: `MCxlNzVlZTI3N2M1YzNmZmY3ZGViYTA4ODM5MWZmNzhiYzMyYTAwNDgw`
+Snapshot ID: `MCxmMmVlNTAyNzQzZDAzMWFmNDMwYjY5ZDFmOGEyOTJmOTQ1NGFlZTZm`

@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 191113,
       "name": "Belle Full",
       "url": "https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 168348,
       "name": "Can't Be Stopped",
       "url": "https://open.spotify.com/track/4odFsG1S8WZzvJHPRU2czt"
@@ -2034,6 +2034,24 @@
       "duration_ms": 153232,
       "name": "For Daddy",
       "url": "https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT"
+    },
+    {
+      "album": {
+        "name": "Freaky & Naughty",
+        "url": "https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Freaky & Naughty",
+      "url": "https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj"
     },
     {
       "album": {
@@ -3516,7 +3534,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 140500,
       "name": "L'Eko",
       "url": "https://open.spotify.com/track/58fWPJ1REJ13XULjMhTZI9"
@@ -4040,6 +4058,24 @@
       "duration_ms": 219428,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1enk1SGVDSYragvMwcn7s8"
+    },
+    {
+      "album": {
+        "name": "More Vibes More Money",
+        "url": "https://open.spotify.com/album/1v8aC5jKBuDCmkZ9XUn3Z7"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188175,
+      "name": "More Vibes More Money",
+      "url": "https://open.spotify.com/track/1T3MTW0MbHv3uXwezXjTm0"
     },
     {
       "album": {
@@ -5026,7 +5062,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 291428,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0Fys87GQeLWHvrTqzSlKP8"
@@ -5358,6 +5394,24 @@
       "duration_ms": 175714,
       "name": "SOKOTO",
       "url": "https://open.spotify.com/track/5wedEJLTgmlmworhXQaaO8"
+    },
+    {
+      "album": {
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162603,
+      "name": "Soro",
+      "url": "https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis"
     },
     {
       "album": {
@@ -6279,6 +6333,24 @@
     },
     {
       "album": {
+        "name": "What Have You Done? (Amapiano Remix)",
+        "url": "https://open.spotify.com/album/6MVhI2z3yfVvD12HMdUN93"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167844,
+      "name": "What Have You Done? - Amapiano Remix",
+      "url": "https://open.spotify.com/track/25ttymk1AURNqQljXdZ2gS"
+    },
+    {
+      "album": {
         "name": "Whateva",
         "url": "https://open.spotify.com/album/4fozxo7GfdDlwvbwkOjjkt"
       },
@@ -6462,7 +6534,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 242857,
       "name": "Yaji",
       "url": "https://open.spotify.com/track/4d8Kkn97McjCtmCG18ktQT"

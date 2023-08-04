@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 155631,
+  "num_followers": 155713,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWM2ZTE0N2Y0ODA3MzQxODM3Yzc2OGZlMWRkMzA2Mzg1MjU4ODAw",
+  "snapshot_id": "MCwyMzkxMDQzOGVkZjEwNDI2Zjg1NTkxNjNhMWU1MjM2NDM1YjVkMjQ3",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Soul Tender",
-        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
-      },
-      "artists": [
-        {
-          "name": "Gene Deer",
-          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
-        }
-      ],
-      "duration_ms": 459940,
-      "name": "Midnight Healing",
-      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 616560,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Soul Tender",
+        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
+      },
+      "artists": [
+        {
+          "name": "Gene Deer",
+          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
+        }
+      ],
+      "duration_ms": 459940,
+      "name": "Midnight Healing",
+      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 353585,
+      "name": "Paris Blues",
+      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "You Can't Lose What You Ain't Never Had",
         "url": "https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 433360,
       "name": "How Unlucky Can One Man Be",
       "url": "https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/7qotTIEVC9DQ78NAFX03nT"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 353585,
-      "name": "Paris Blues",
-      "url": "https://open.spotify.com/track/2IkcVcdtodOvOVQIucS2jj"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Freedom Flight",
-        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 428680,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 383760,
       "name": "Dengue Woman Blues",
       "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 428680,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
+        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 566960,
+      "name": "12:15 Slow Goonbash Blues",
+      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Blues Comin' On",
         "url": "https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 317819,
       "name": "Old Time Used to Be",
       "url": "https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
-        "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 566960,
-      "name": "12:15 Slow Goonbash Blues",
-      "url": "https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Thanks, But No Thanks",
+      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Contemporary",
         "url": "https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 257093,
-      "name": "Thanks, But No Thanks",
-      "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
+      "duration_ms": 203400,
+      "name": "Fast Talking Woman Blues - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1311,22 +1327,6 @@
       "duration_ms": 296506,
       "name": "I Need You So Bad",
       "url": "https://open.spotify.com/track/5Afi4JrAnQtUsSYpYwbYAj"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Fast Talking Woman Blues - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Best Of Freddie King: The Shelter Years",
-        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 240466,
-      "name": "Reconsider Baby - Remastered",
-      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Shadows and Ghosts",
         "url": "https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 230524,
       "name": "Don't Deal With The Devil",
       "url": "https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Best Of Freddie King: The Shelter Years",
+        "url": "https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 240466,
+      "name": "Reconsider Baby - Remastered",
+      "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
     },
     {
       "added_at": "2023-04-28 16:37:16",

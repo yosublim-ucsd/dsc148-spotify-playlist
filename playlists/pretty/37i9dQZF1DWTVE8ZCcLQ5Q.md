@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Senndy e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,660 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,652 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 55 | [Rompe](https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [PK Delas](https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3), [Dj Alle da coro](https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x) | [Rompe](https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT) | 2:33 |
 | 56 | [Verão 021](https://open.spotify.com/track/74uMkyhm8QY9XDjOou0t9i) | [Beny Free](https://open.spotify.com/artist/2lTTvwwN7aNG21tKXHP8bU), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Verão 021](https://open.spotify.com/album/0YEmY36nlVtX7odjfKFasc) | 3:02 |
 | 57 | [VideoChamada \(Facetime\)](https://open.spotify.com/track/50u790FARiXbpXlDMpf0W0) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [VideoChamada \(Facetime\)](https://open.spotify.com/album/0PYK1zmn56XIeDi99TJmBN) | 3:46 |
-| 58 | [Putaria e Crime](https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [BIDUZEN](https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX) | [Putaria e Crime](https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL) | 4:03 |
-| 59 | [Shake](https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Shake](https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC) | 2:34 |
+| 58 | [Shake](https://open.spotify.com/track/1p9UmC4Nh8aDxhqd3GrEVT) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Shake](https://open.spotify.com/album/6vLt6v9IJj0KOxMz3J8ejC) | 2:34 |
+| 59 | [Putaria e Crime](https://open.spotify.com/track/37FfXMaqjD664lk7VcXEqr) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [BIDUZEN](https://open.spotify.com/artist/20tJsPo3GVroZHlbdXJ7nX) | [Putaria e Crime](https://open.spotify.com/album/1mt7soWCRIs5QgCOh2R8EL) | 4:03 |
 | 60 | [Na Mente](https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Na Mente](https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW) | 2:04 |
 | 61 | [JORGE](https://open.spotify.com/track/1SD1ErhRaUdk8k3ey136Lw) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Nizaj](https://open.spotify.com/artist/7IXv2H8Fc8joM1IuPXlJgr), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [JORGE](https://open.spotify.com/album/4kkHhfWEzrVRItoPNP4Hg0) | 2:40 |
 | 62 | [Visão de Onça \- Spotify Singles](https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Visão de Onça \- Spotify Singles](https://open.spotify.com/album/068AREijgAvQQuZkiAfap3) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz`
+Snapshot ID: `MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,479 likes - 60 songs - 2 hr 52 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,480 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 59 | [Anarchy](https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Anarchy](https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK) | 3:17 |
 | 60 | [Wait For Me](https://open.spotify.com/track/1gTHSh2ZkRZ1EuS3OGEKfG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [echod](https://open.spotify.com/artist/7CO8JKfeXoJEIGQKYmp84I) | [Lavender Dreams & Scarlet Nightmares](https://open.spotify.com/album/0GasuMeALUBC4Kk55XjgLP) | 2:49 |
 
-Snapshot ID: `NjMwNyxlZDNmNmE0YzlhMmI4MzhmNDFlMWU2ZmE3ZWI1M2FiZWE1MmJiZWUx`
+Snapshot ID: `NjMwOSxmZmQ1NDVkNzVlNjk2NDA4NTNlMjFlNzBiMjBhMjUzZmMyNTZiMTE0`

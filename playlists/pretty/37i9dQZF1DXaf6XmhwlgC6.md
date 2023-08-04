@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,506 likes - 178 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,524 likes - 178 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 177 | [jubilance](https://open.spotify.com/track/4F21Bmd7GOjukwGjOUy67I) | [Däalo](https://open.spotify.com/artist/63MSacJKhcx4g646lJsDL7) | [Great Heights, Great Falls](https://open.spotify.com/album/4PQdI5zCwFWpV3D2exeGSl) | 2:42 |
 | 178 | [Rectifier](https://open.spotify.com/track/2tIF7PmitHZi13Mc2dssPO) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Rectifier](https://open.spotify.com/album/6hclYDcLNlkaXAnVwgmOlP) | 2:32 |
 
-Snapshot ID: `MCxlNWE5ZDRlM2NjMmMyYjFlN2QyNzVhNmUwNGIxY2NkNGQxODlkMTA4`
+Snapshot ID: `MCw5NGY3NDkwMGE4YzRjMDRkOTc2ZmE3MDlmZTNkNmU2NWM5OGM3YjE1`

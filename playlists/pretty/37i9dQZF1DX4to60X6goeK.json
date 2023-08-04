@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 45965,
+  "num_followers": 46008,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk",
+  "snapshot_id": "MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Breathe (feat. RZA) [Ren\u00e9 LaVice Dark D&B Remix]",
         "url": "https://open.spotify.com/album/6dmrmMHEwhSDb593XSxc4M"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 275862,
       "name": "Breathe (feat. RZA) - Ren\u00e9 LaVice Dark D&B Remix",
       "url": "https://open.spotify.com/track/1acpIlnD71Anfcy2RXZkm3"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2022-08-12 16:34:51",

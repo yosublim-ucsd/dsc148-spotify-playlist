@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "All I Ever Need",
+        "url": "https://open.spotify.com/album/7xiz5CbkqhmfaHvbku06qA"
+      },
+      "artists": [
+        {
+          "name": "EC Twins",
+          "url": "https://open.spotify.com/artist/6QACkIioo2Na2EKEwJzCKK"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "All I Ever Need",
+      "url": "https://open.spotify.com/track/37EFzT30bq9Jop85wqShzd"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 185958,
       "name": "Bubblin - Edit",
       "url": "https://open.spotify.com/track/6N4coRX9YCY9ukbWgjzrOb"
@@ -2811,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
+    },
+    {
+      "album": {
         "name": "D\u00d3NDE EST\u00c1",
         "url": "https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ"
       },
@@ -3213,6 +3249,28 @@
     },
     {
       "album": {
+        "name": "Feel It Deep Inside",
+        "url": "https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG"
+      },
+      "artists": [
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153825,
+      "name": "Feel It Deep Inside",
+      "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
+    },
+    {
+      "album": {
         "name": "Feel Like Makin' Love (feat. Roberta Flack)",
         "url": "https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl"
       },
@@ -3320,10 +3378,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 195375,
       "name": "Feels Darker",
       "url": "https://open.spotify.com/track/11UMhOKrwShiukxOnRX2mp"
+    },
+    {
+      "album": {
+        "name": "Feels Darker (Feel It)",
+        "url": "https://open.spotify.com/album/4CM6i2MQ9dm8kIjk0wh55g"
+      },
+      "artists": [
+        {
+          "name": "Monki",
+          "url": "https://open.spotify.com/artist/30C3E9bYfEQPAY9MweeUVe"
+        },
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "Feels Darker (Feel It)",
+      "url": "https://open.spotify.com/track/4BbBV9dK1kMqD7gGypB5WO"
     },
     {
       "album": {
@@ -5614,7 +5694,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 199000,
       "name": "Let's Really Have Some Fun",
       "url": "https://open.spotify.com/track/7COmInb3InhuD3er4KYrAS"
@@ -7428,7 +7508,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 181818,
       "name": "One Of A Kind",
       "url": "https://open.spotify.com/track/0kVERdA5KiHfK9j9TXnasd"
@@ -9403,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/2Auo5VfZ8S8p10J6u5bFbV"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216562,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n"
+    },
+    {
+      "album": {
         "name": "Sunsleeper",
         "url": "https://open.spotify.com/album/0ek3Sau5tGwOmwQFAzrx1M"
       },
@@ -9414,7 +9512,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-08-04",
       "duration_ms": 222182,
       "name": "Sunsleeper",
       "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"

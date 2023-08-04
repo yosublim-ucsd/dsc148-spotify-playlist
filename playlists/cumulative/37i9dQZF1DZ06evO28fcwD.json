@@ -299,6 +299,32 @@
     },
     {
       "album": {
+        "name": "Awu Wemadoda",
+        "url": "https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Wilt Claybourne",
+          "url": "https://open.spotify.com/artist/0r7cF3rN56BbPaJVYIXMz9"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235179,
+      "name": "Awu Wemadoda - Club Mix",
+      "url": "https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP"
+    },
+    {
+      "album": {
         "name": "Ayikh' Indaw' Enjengekhaya (Henrik Schwarz Rework)",
         "url": "https://open.spotify.com/album/2uGCLaCAJ7EuKCrPZVxf8X"
       },

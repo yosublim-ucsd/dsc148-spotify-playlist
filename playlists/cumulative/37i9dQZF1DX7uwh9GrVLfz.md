@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ハルカミライ \(Haruka Mirai\)
 
-594 songs - 1 day 8 hr 2 min
+595 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Believe](https://open.spotify.com/track/4C13xDSsYbqoFyYJUu0ZQh) | [ALIVES](https://open.spotify.com/artist/18JTlzpST0PKdG2IpJZ8QK) | [Code of Alives](https://open.spotify.com/album/1MpsMC6rUebOZXt0ZNdzve) | 2:35 | 2022-05-19 | 2022-07-14 |
 | [Believer](https://open.spotify.com/track/4TJeTiTmNhzBBZeI4bSVTV) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/2NK3TmaOmduXVBSm0LZ28N) | 2:49 | 2022-05-12 | 2022-07-27 |
 | [Believer](https://open.spotify.com/track/4yRqNTdeZhlfOy9pae0qmo) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Cost Of My Freedom](https://open.spotify.com/album/5Rf5ntWisKzf6sAwFteHwq) | 2:49 | 2022-07-21 |  |
-| [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 | 2023-07-06 |
+| [Better Days](https://open.spotify.com/track/5UW8UdlVS8MGbfD2ULYcO3) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [H.U.E.](https://open.spotify.com/album/1vIJNSPpYHqjNPFoQVea0x) | 3:53 | 2022-05-12 |  |
 | [Better Left Unsaid](https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Better Left Unsaid](https://open.spotify.com/album/0Bvhx5LTA2K3XWAXqrypCj) | 3:26 | 2023-05-16 |  |
 | [Better Luck](https://open.spotify.com/track/3rgQQ8C7PGzpW5gsWUTZO1) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar), [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP), [locofrank](https://open.spotify.com/artist/16LHeL1NFVUDTC6dLzkwcm) | [Better Luck](https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA) | 3:45 | 2022-05-12 | 2022-08-13 |
 | [Better Off Dead](https://open.spotify.com/track/5YeC2YVuszZ7Wmg0MIwIeM) | [Velvet Sighs](https://open.spotify.com/artist/0CWI9gU5g8Kjz9IldPjJeH) | [Better Off Dead](https://open.spotify.com/album/7tADwDxklwB0GjzKiJklF7) | 2:44 | 2022-07-19 | 2022-09-15 |
@@ -134,7 +134,7 @@
 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 | 2022-07-06 |  |
 | [Fog Clears Up](https://open.spotify.com/track/0ishJ42sJvi318qCPuqt5v) | [sunsetinfall](https://open.spotify.com/artist/0MPnJcSWZI8g7YCvvFAG60), [Keito](https://open.spotify.com/artist/1ZN5zKSOJqJrgWDYqWSI1e) | [Fog Clears Up / The lines](https://open.spotify.com/album/6ZJCIi17cGoePlubOW10MC) | 4:07 | 2022-05-17 | 2022-07-23 |
 | [Forever](https://open.spotify.com/track/4hW5YF0MtXHBl5tkPp7gEP) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Square One](https://open.spotify.com/album/4YqcVthrzbgI4cWE7Ofkko) | 3:35 | 2022-05-12 | 2022-07-14 |
-| [Foundation](https://open.spotify.com/track/5xS7BWHaNQUgPlM9lccVvY) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Rude Foundation](https://open.spotify.com/album/2KwPr77XNGJGL61BulYD16) | 2:24 | 2023-05-09 |  |
+| [Foundation](https://open.spotify.com/track/5xS7BWHaNQUgPlM9lccVvY) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Rude Foundation](https://open.spotify.com/album/2KwPr77XNGJGL61BulYD16) | 2:24 | 2023-05-09 | 2023-08-04 |
 | [FULLTEN](https://open.spotify.com/track/0qxmUHAyp68P5BZGEyCASo) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [FULLTEN](https://open.spotify.com/album/3WxUCSO4WCLAt6Z2wdVUrp) | 1:26 | 2022-05-12 | 2022-05-18 |
 | [Garland House](https://open.spotify.com/track/7mZiT9lOvNAkGt1la3TKfn) | [SPOILMAN](https://open.spotify.com/artist/0uGQyvjvTF0f3wKGiDHQrp) | [SOLID GREEN](https://open.spotify.com/album/7Hdvoz87VtxTkFRNj20CTF) | 3:19 | 2022-05-12 | 2022-07-11 |
 | [Get Me Back](https://open.spotify.com/track/7DyYH1hRVEDTDjxXJP9wHl) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:54 | 2022-05-12 | 2022-07-20 |
@@ -315,6 +315,7 @@
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-12-04 |
 | [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 | 2023-03-01 |
 | [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
+| [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-03 |  |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [Second March](https://open.spotify.com/track/5sKL7KmuGkv080aa1GLSYe) | [Danablu](https://open.spotify.com/artist/7rOm14pDj1CaXtrbFfIjRt) | [Second March](https://open.spotify.com/album/1B5tRFGQUrcXDihzlsW8Q0) | 2:45 | 2023-08-01 |  |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
@@ -523,7 +524,7 @@
 | [世界は君たちを変えることは出来ない](https://open.spotify.com/track/6PPb7FGy66aYw8Yc4J8ThO) | [SEVENTEEN AGAiN](https://open.spotify.com/artist/44vCIlLzyYUo6UQ2s4huqu) | [世界は君たちを変えることは出来ない](https://open.spotify.com/album/5rIWnaKZ3pMNoA6gImSvrh) | 2:01 | 2022-05-17 | 2022-07-26 |
 | [世界を終わらせて](https://open.spotify.com/track/2FZXuCw75FYVfiNHtFQON9) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 3:53 | 2023-01-05 |  |
 | [二億の青春](https://open.spotify.com/track/49U4zyI2hPomIbh9Ip7pPj) | [リトルスクーター](https://open.spotify.com/artist/5Os224clHj9KZXYrcFIm96) | [二億の青春](https://open.spotify.com/album/0UvYArQl0ZPOtr5WeSUhe1) | 2:41 | 2022-12-20 | 2022-12-28 |
-| [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 | 2022-05-12 |  |
+| [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 | 2022-05-12 | 2023-08-04 |
 | [俺様バカ一代・改 \(2021 Mix\)](https://open.spotify.com/track/5QsUPtSbursmJkZTWttlqm) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [リズム&ビートニク ’21 & ヤングデイズソング](https://open.spotify.com/album/5gi2XlxABHsg6ztt6sHn2H) | 4:39 | 2022-05-12 | 2022-07-26 |
 | [僕たちの答え](https://open.spotify.com/track/54pUQTIJbvTwQKbijC1GJN) | [まなつ](https://open.spotify.com/artist/5jrKolawagaQ6oSN5VCcnO) | [まなつのこれからのこと。](https://open.spotify.com/album/1D7lTBazoisPkoduthc72O) | 4:03 | 2022-05-17 | 2022-07-24 |
 | [僕らは…](https://open.spotify.com/track/6pyM8gK1E8Q3vDbO8saYar) | [Taiyouzoku](https://open.spotify.com/artist/4kfInRl2ECNUxMOjZAEHco) | [手をつなごう](https://open.spotify.com/album/3owol0mZK4CUhpzQ5mWwqT) | 3:32 | 2022-06-14 | 2022-07-12 |

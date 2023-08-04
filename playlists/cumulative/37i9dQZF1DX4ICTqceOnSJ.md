@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-123 songs - 6 hr 55 min
+124 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [La Que Yo Amo](https://open.spotify.com/track/2Ul5bO8HgSd3Tdy7ug1B50) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 3](https://open.spotify.com/album/1pZHGsYHI8Ks3j2NCIbv8X) | 2:12 | 2023-07-16 |  |
 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-23 |  |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-19 | 2023-04-23 |
+| [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 | 2023-08-03 |  |
 | [lo que no es sincero hoy](https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY) | [El Alguacil](https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa) | [lo que no es sincero hoy](https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2) | 3:14 | 2023-07-12 |  |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-27 |  |
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 | 2023-05-28 |
@@ -104,7 +105,7 @@
 | [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-22 |  |
 | [Problema](https://open.spotify.com/track/2mfLPOkmweLLN4ip9qo5lT) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Problema](https://open.spotify.com/album/6cN6qegRWQu7PVi7cY3NCV) | 2:44 | 2023-03-19 | 2023-04-24 |
 | [Provoqué](https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Provoqué](https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE) | 3:38 | 2023-04-20 | 2023-07-24 |
-| [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 | 2023-05-08 |  |
+| [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 | 2023-05-08 | 2023-08-04 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-04-13 | 2023-07-17 |
 | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Quizás \(La Historia de Nosotros\)](https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7) | 3:23 | 2023-03-19 | 2023-06-03 |
 | [Rayos X](https://open.spotify.com/track/0JoK7s0dnUY09u7oTtSK8L) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Rayos X](https://open.spotify.com/album/7qPnZe48YvcrH1UPB7kjkb) | 3:13 | 2023-04-01 | 2023-07-13 |

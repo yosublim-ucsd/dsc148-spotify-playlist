@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: División Minúscula
 
-232 songs - 12 hr 57 min
+233 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Ajedrez](https://open.spotify.com/track/6NwIdN0oKNEYT104g8nWHg) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [Ajedrez](https://open.spotify.com/album/38WngVmHZqofAjJ4ApRsZb) | 3:06 | 2022-07-19 | 2022-12-17 |
 | [Al menos ahora](https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Al menos ahora](https://open.spotify.com/album/2Sa9nqApJXS2hx9Ff0jf6R) | 3:03 | 2023-04-03 | 2023-05-05 |
-| [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 | 2023-05-08 |  |
+| [Al menos ahora](https://open.spotify.com/track/6rqizuyQlbBhoyiosfomqR) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [AAAAAA](https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi) | 3:03 | 2023-05-08 | 2023-08-04 |
 | [Alaska](https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Alaska](https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr) | 4:18 | 2023-04-14 |  |
 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 | 2023-02-11 |  |
 | [Alguien pa ti](https://open.spotify.com/track/6Vf9tNL19cia86zyp0oT0V) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Alguien pa ti](https://open.spotify.com/album/5r3J7nLgMa9lX3xrX5vXGM) | 2:59 | 2022-12-09 | 2023-01-28 |
@@ -227,6 +227,7 @@
 | [True Nature](https://open.spotify.com/track/7u4CFjfUADO2LTRcFdEimj) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:22 | 2023-04-21 | 2023-07-01 |
 | [Trueno](https://open.spotify.com/track/7kBi255cSaTNYI6bNq3Yf3) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Trueno](https://open.spotify.com/album/0jqnLzo96FODjGzBeXFmXe) | 4:20 | 2022-04-15 | 2022-12-10 |
 | [Tu Tiempo](https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Generación Inmediata](https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB) | 3:25 | 2023-01-13 |  |
+| [UN AÑO DE MIERDA](https://open.spotify.com/track/6ULVB1kHPglPyGX49qX37Y) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [UN AÑO DE MIERDA](https://open.spotify.com/album/6FDiDIZgRhpRZcuL7DWQ5O) | 2:50 | 2023-07-28 |  |
 | [Un Minuto Con Vos](https://open.spotify.com/track/1HvNrcnunJrJwHTLRFxqbo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Un Minuto Con Vos](https://open.spotify.com/album/24ZRYjOa4RXJax493clPnH) | 4:05 | 2023-07-07 |  |
 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-05 | 2023-08-01 |
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 |  |

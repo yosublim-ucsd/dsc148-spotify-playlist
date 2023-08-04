@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,460 likes - 83 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,446 likes - 83 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 82 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0wPujtWCbSrEy5eylY7SAn) | [Kevin Duncan](https://open.spotify.com/artist/2Kg6QagAYT2ttYNxWnlADj) | [Christmas at the Piano](https://open.spotify.com/album/3YrqmcMeScUTkGq0wGT5IE) | 2:38 |
 | 83 | [Star Of The East](https://open.spotify.com/track/4TYn4M3KJyug0LjSgSuTIe) | [Lillith Love](https://open.spotify.com/artist/5HzezX7WHyXZ7pDUCgb3ZU) | [Where Are You, Christmas?](https://open.spotify.com/album/4es25LjvggwFaLP3ZDvb60) | 1:54 |
 
-Snapshot ID: `MCxhOWI1YTkwZGM4Yjk5NWVlNmNjNGQ0ZTY4NWU5YTI3YWZmOWEwMWNi`
+Snapshot ID: `MCw3YmY1OTU1Y2JkMzM3MjdmM2EyYjJjNTU4ZDc5Zjk1YjQ2MTc2Njk5`

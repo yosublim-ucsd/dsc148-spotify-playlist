@@ -4,7 +4,7 @@
 
 > Sit back and relax by listening to piano renditions of your favorite Disney songs.
 
-133 songs - 7 hr 19 min
+134 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,5 +141,6 @@
 | [You Can Fly! You Can Fly! You Can Fly!](https://open.spotify.com/track/2NAwrDfkkSF2wmth8yrn2c) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Dream](https://open.spotify.com/album/4QQfRSjWLXoxxVGtqc8HUR) | 2:48 | 2022-10-20 |  |
 | [You'll Be In My Heart \- Instrumental](https://open.spotify.com/track/2Kij021y6biW8YWwTM82Xo) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby & Goodnight](https://open.spotify.com/album/5XM8EEuQ4D9EsygINToYny) | 4:30 | 2022-10-20 |  |
 | [You've Got a Friend in Me](https://open.spotify.com/track/5XQ9Q0bXlNv8q96OxjBhSm) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 2:48 | 2022-10-20 |  |
+| [You've Got A Friend In Me \- From "Toy Story"](https://open.spotify.com/track/0Dc5fbpiEcLYnYajH8FqDt) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [You've Got A Friend In Me \(From "Toy Story"\)](https://open.spotify.com/album/6lArXn3181ZklgXGXdFdqk) | 4:12 | 2023-08-04 |  |
 
 \*This playlist was first scraped on 2023-03-15. Prior content cannot be recovered.
